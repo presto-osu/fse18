@@ -10,7 +10,7 @@ For future improvements and releases, please refer to [APTWear](http://web.cse.o
 
 ## Installation
 
-### APTWear Way (recommended)
+### Recommended way
 
 We recommend downloading the artifact from [APTWear](http://web.cse.ohio-state.edu/presto/software/aptwear) as we will post future fixes and improvements there.
 
