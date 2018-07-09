@@ -10,7 +10,8 @@ readme files in each sub-folder.
 
 ### Recommended way
 
-We recommend downloading the artifact from [APTWear](http://web.cse.ohio-state.edu/presto/software/aptwear) as we will post future fixes and improvements there.
+We recommend downloading the artifact from [APTWear](http://web.cse.ohio-state.edu/presto/software/aptwear)
+as we will post future fixes and improvements there.
 
 There are two files required:
 
@@ -26,8 +27,7 @@ tar xvf fse18-benchmark.tar --directory hailongzhang-aptwear-fse18-paper-163/
 
 ### GitHub way
 
-Due to GitHub's limitation on file sizes, unfortunately all benchmarks have to be
-downloaded separately.
+Due to GitHub's limitation on file sizes, all benchmarks have to be downloaded separately.
 
 ```bash
 git clone https://github.com/presto-osu/fse18.git
