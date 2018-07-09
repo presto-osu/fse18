@@ -1,0 +1,47 @@
+{
+    "title": "Treinert - Trein Android Wear",
+    "summary": "Treinert shows the departure of the train on your Android device Wear",
+    "icon": "//lh3.ggpht.com/-khtG_JrRYtxvqBGNEX5McwLOTvwfWGecCMgntV0mONJ6O2Yd9P0gOq-jXKcB7nrpD0O=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.5,
+    "reviews": 4,
+    "developer": "Mats Otten",
+    "developerId": "Mats+Otten",
+    "developerEmail": "support@kepsi.nl",
+    "developerWebsite": "http://www.kepsi.nl/",
+    "updated": "May 5, 2017",
+    "version": "3.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Met deze app kunt u op elk moment de vertrektijden van de Nederlandse Spoorwegen raadplegen. Aan de hand van uw locatie zullen de dichtbijzijnde stations worden gekozen waarmee u met een een enkele klik een overzicht krijgt op uw pols.Deze applicatie is bedoeld om samen te werken met een Android Wear toestel. Hiervoor is een applicatie op uw telefoon en op uw Wear toestel vereist.Let op: Deze applicatie is nog in ontwikkeling, als u een bug constateert meld dit dan svp. Ook staan wij open voor ideeën.Permissies:- Internet toegang voor het ophalen van de reisinformatie, dit verloopt om de druk bij de NS te verlagen via onze eigen servers.- Locatie voorziening voor het ophalen van uw locatie voor het bepalen van de ligging van de stations. Er zullen geen gegevens worden opgeslagen op onze servers.- Toegang tot uw 'Foto's/media/bestanden' heeft de app nodig om gegevens op uw apparaat op te slaan voor een snellere verwerking. Meer dan dat wordt er niet mee gedaan.Tags: NS, Nederlandse Spoorwegen, Trein, Trein informatie",
+    "descriptionHTML": "Met deze app kunt u op elk moment de vertrektijden van de Nederlandse Spoorwegen raadplegen. Aan de hand van uw locatie zullen de dichtbijzijnde stations worden gekozen waarmee u met een een enkele klik een overzicht krijgt op uw pols.<br>Deze applicatie is bedoeld om samen te werken met een Android Wear toestel. Hiervoor is een applicatie op uw telefoon en op uw Wear toestel vereist.<br><br>Let op: Deze applicatie is nog in ontwikkeling, als u een bug constateert meld dit dan svp. Ook staan wij open voor idee&#xEB;n.<br><br>Permissies:<br>- Internet toegang voor het ophalen van de reisinformatie, dit verloopt om de druk bij de NS te verlagen via onze eigen servers.<br>- Locatie voorziening voor het ophalen van uw locatie voor het bepalen van de ligging van de stations. Er zullen geen gegevens worden opgeslagen op onze servers.<br>- Toegang tot uw &apos;Foto&apos;s/media/bestanden&apos; heeft de app nodig om gegevens op uw apparaat op te slaan voor een snellere verwerking. Meer dan dat wordt er niet mee gedaan.<br><br>Tags: NS, Nederlandse Spoorwegen, Trein, Trein informatie",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/9zLE9VM60S4jihTMsQVWpt20Vys3uVu-HT7IqvIkaoGhBxU5luv13FNA24VbgBWuKQ=h310",
+        "//lh5.ggpht.com/0CH50Xndz2ZnNxgV0vJlmqaj2NGFrvEupWgwAbFqVXOyz9ChfXMxjClI23SN9AvIInoj=h310",
+        "//lh3.googleusercontent.com/IIjQIk-1JypzsSwEo5wY6cOfW79mDaTPJglB8GLPL5QnY7jkPd2kPZGpF-8sec5RG23V=h310",
+        "//lh3.googleusercontent.com/pJJuuKceeZZ_mm8yxh0L77fWXucgQ2BkLqjTraABQ0S5z1PlsFCeGDLLcHCzJasHI5Q=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Treinert is nu beschikbaar voor Android Wear 2.0!",
+        "Deze verbeterde versie is een stuk sneller en werkt zonder app op je telefoon. De app heeft alleen je locatie nodig om de stations te vinden. Update nu je Android Wear smartwatch naar versie 2.0 om deze app te kunnen gebruiken."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=mts.ned.treinert&hl=en&gl=us",
+    "appId": "mts.ned.treinert"
+}

@@ -1,0 +1,44 @@
+{
+    "title": "MythWatch",
+    "summary": "Android Wear remote control for mythtv.",
+    "icon": "//lh3.ggpht.com/9INfKjreCfmyM2xuA1KxzTroklOhv7TniuuajFTXVi_wT_WjX6pOrrTCqm212ZGmr2s=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 1,
+    "reviews": 1,
+    "developer": "Darwin O'Connor",
+    "developerId": "Darwin+O'Connor",
+    "developerEmail": "doconno@gmail.com",
+    "developerWebsite": "http://doconnor.homeip.net/MythWatch/",
+    "updated": "March 12, 2015",
+    "version": "1.1",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "MythWatch is an Android Wear smartwatch app that provides a basic remote control for a MythFrontEnd. You'll need an Android Wear smartwatch. It currently only provides 9 fixed buttons.It uses the http based Service api. Unlike other remote controls it sends commands rather then keys, so its commands can't be configured with the key bindings. It complements other, more complete remote controls, like mythmote.Here is the layout of the commands:Escape | Up | Commercial SkipSeek Back | Enter | Seek ForwardInformation | Down | PauseSetupYou must have enabled the Network Remote Control Interface in the MythFrontEnd General settings and then open the MythWatch app on your phone as set the IP address or hostname of your MythFrontEnd.Because it uses the Services API the port address must be one higher then the Network Remote Control port in the MythFrontEnd settings. If you don't change the port on the MythFrontEnd settings, you don't have to change it in the MythWatch settings.DevelopmentThis was written, complied and debugged on an LG G3 smartphone using AIDE and DroidEdit and an LG G Smartwatch.This was orginally called MythWear, but shortly after I first made it available I discovered there was a MythTV Android Wear remote control in the Play Store already and it was also called MythWear. So I changed the name to MythWatch, although the underlying name is still net.homeip.doconnor.mythwear.",
+    "descriptionHTML": "MythWatch is an Android Wear smartwatch app that provides a basic remote control for a MythFrontEnd. You&apos;ll need an Android Wear smartwatch. It currently only provides 9 fixed buttons.<br><br>It uses the http based Service api. Unlike other remote controls it sends commands rather then keys, so its commands can&apos;t be configured with the key bindings. It complements other, more complete remote controls, like mythmote.<br><br>Here is the layout of the commands:<br>Escape | Up | Commercial Skip<br>Seek Back | Enter | Seek Forward<br>Information | Down | Pause<br><br>Setup<br><br>You must have enabled the Network Remote Control Interface in the MythFrontEnd General settings and then open the MythWatch app on your phone as set the IP address or hostname of your MythFrontEnd.<br><br>Because it uses the Services API the port address must be one higher then the Network Remote Control port in the MythFrontEnd settings. If you don&apos;t change the port on the MythFrontEnd settings, you don&apos;t have to change it in the MythWatch settings.<br><br>Development<br><br>This was written, complied and debugged on an LG G3 smartphone using AIDE and DroidEdit and an LG G Smartwatch.<br><br>This was orginally called MythWear, but shortly after I first made it available I discovered there was a MythTV Android Wear remote control in the Play Store already and it was also called MythWear. So I changed the name to MythWatch, although the underlying name is still net.homeip.doconnor.mythwear.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/1lr_srXZqbWjsZ-Me6LSjmvOaiL2wDZ65--0kFZ8Lt_8v29Qh-dFukCPB8B0s9ukDQ=h310",
+        "//lh6.ggpht.com/4vhsmGWU_LzQ6D2yBoYR2R8czCV69RXU2N4Pb4re1iubZc93MK4zTZCf5ILJWWGqOe8=h310"
+    ],
+    "comments": [
+        "Doesn't work And reboots the phone every minute"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.homeip.doconnor.mythwear&hl=en&gl=us",
+    "appId": "net.homeip.doconnor.mythwear"
+}

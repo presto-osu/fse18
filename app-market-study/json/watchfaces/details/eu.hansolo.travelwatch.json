@@ -1,0 +1,54 @@
+{
+    "title": "TravelWatch Watch Face",
+    "summary": "A simple Watch Face that always shows the current and your home timezone.",
+    "icon": "//lh3.googleusercontent.com/NTxnHjmQidAvNyI_mRKrHUAWY0XZq2e_bRuMOlZELEzjJhzU4Pr0kBNmBVduRX8UjUU5=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 10,
+    "developer": "han.solo",
+    "developerId": "han.solo",
+    "developerEmail": "han.solo.gg@gmail.com",
+    "developerWebsite": "http://www.harmonic-code.org",
+    "updated": "September 17, 2015",
+    "version": "2.6",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "A simple watch face that shows hours and minutes of the current timezone. One can select a home timezone and as soon as the current timezone of the phone differs from the home timezone the watch face shows the current and the home timezone. In addition it's also possible to add another 2nd timezone which will be displayed at the bottom (might be problematic in combination with showing the date).It can also show steps from Google Fit (updated every 15 Minutes) and the current date.One can define a personal threshold for daily steps (independent from Google Fit) and the watch will vibrate 3x when this threshold is exceeded.It's possible to layout the time horizontal or vertical.The design of the watch is very similar to the Digital Watch Face of the Sony Smartwatch 3.",
+    "descriptionHTML": "A simple watch face that shows hours and minutes of the current timezone. One can select a home timezone and as soon as the current timezone of the phone differs from the home timezone the watch face shows the current and the home timezone. In addition it&apos;s also possible to add another 2nd timezone which will be displayed at the bottom (might be problematic in combination with showing the date).<br>It can also show steps from Google Fit (updated every 15 Minutes) and the current date.<br>One can define a personal threshold for daily steps (independent from Google Fit) and the watch will vibrate 3x when this threshold is exceeded.<br>It&apos;s possible to layout the time horizontal or vertical.<br>The design of the watch is very similar to the Digital Watch Face of the Sony Smartwatch 3.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/7vhLwTwf8EZxltOWRpeLgTvM33M1ndkRIk9_49mkcPnknmrKjPQyPtdTWvy7h-zG2Sdr=h310",
+        "//lh3.googleusercontent.com/Pn7gjIeFBG9E2DkxYAiXhyvJ-d6ujfhmu8QLdjcQTicBLlpGLej-82MlseLOR0tbgXA=h310",
+        "//lh3.googleusercontent.com/Fa7ZPcm0qyif9eGsSz1kihHuJGGtIjdn18-86KFqt_Lh8iXsaNU0R86a5uiOKC820FKK=h310",
+        "//lh3.googleusercontent.com/saS9Pa3l9vnqhRYXQBIEppWKRQuRIFSvLN4YYShdQilTYu608Go1tErFKyYtbav6g-c=h310",
+        "//lh3.googleusercontent.com/AENxD4R-72QhjSsXwdprDAUYPi3Zg1J0PHR8vDgZkgDX6a_TJOsR3F5LbQfkWmXE2oE=h310",
+        "//lh3.googleusercontent.com/Tck76TQMCZ1tOF9BMp7pHf4vVGxCa0lA2mavtQ2fffQjKUjVZxIdevwzfJRidYUprUk=h310",
+        "//lh3.googleusercontent.com/vWrjcoIVuXWmNSxRhF8BD6q_N23M_hehcLFfVBMoL1ieRRB6-6-kcJ_CBsILbYei4fM=h310",
+        "//lh3.googleusercontent.com/49COtzGs-LO__eSAAGwivWWezjkosBRcNcT5R01_-ByJBhzBLwc6ehGZa7RTWaVkdTE=h310"
+    ],
+    "comments": [
+        "Great app Simple and works well. It would be good if you could toggle 24 hour click to am/pm",
+        "Jeep the good work! Just what look for, still room to improve. Hope you continue developing this",
+        "My favourite watch face Simple and very useful"
+    ],
+    "recentChanges": [
+        "Minutes font changed to regular in ambient mode and default mode changed to horizontal"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eu.hansolo.travelwatch&hl=en&gl=us",
+    "appId": "eu.hansolo.travelwatch"
+}

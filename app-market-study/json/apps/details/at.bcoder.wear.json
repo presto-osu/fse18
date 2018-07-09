@@ -1,0 +1,48 @@
+{
+    "title": "Trend Wear",
+    "summary": "Shows Google Trends on Android Wear",
+    "icon": "//lh3.ggpht.com/prnig_PFuAYfEMDBnQ2-f-FYQz15lXVrkfgFlQQlCBKVLXwC71ltGbT9TOV_NJdUWug=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.9,
+    "reviews": 8,
+    "developer": "Ronald Bruckner",
+    "developerId": "Ronald+Bruckner",
+    "developerEmail": "ronald.bruckner86@gmail.com",
+    "developerAddress": "Rechenfeldstraße 15, A-3002 Purkersdorf",
+    "updated": "January 20, 2017",
+    "version": "1.5",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "Google Trends shows the top search queries for news articles.Trend Wear displays the top 10 of these search terms on Android Wear smart watches.Each search-term is linked to a news article, which can be opened on the smart phone.Data Source: Google Trends (www.google.com/trends).",
+    "descriptionHTML": "Google Trends shows the top search queries for news articles.<br>Trend Wear displays the top 10 of these search terms on Android Wear smart watches.<br>Each search-term is linked to a news article, which can be opened on the smart phone.<br><br><br><br><br><br>Data Source: Google Trends (www.google.com/trends).",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/jYbJiQaxXsSRoZYI2HxwoZmV_xPxHaVFqWQK2Z5x5zELNC0vWeugMBTRt1YDVEabAVg=h310",
+        "//lh5.ggpht.com/tk0oR1PowteKfCHWS0NoBRGfVB7whys7UffGuWS4T1dWoSm7rg-L0XPj8RXsOk4ysw=h310"
+    ],
+    "comments": [
+        "Works fine on my moto 360 Great app. A bit sluggish but that's a start.",
+        "Didn't work on moto 360",
+        "Excellent Great app for getting news on your smartwatch"
+    ],
+    "recentChanges": [
+        "Adapted layout for Moto 360."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=at.bcoder.wear&hl=en&gl=us",
+    "appId": "at.bcoder.wear"
+}

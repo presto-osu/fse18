@@ -1,0 +1,48 @@
+{
+    "title": "Smart Altimeter",
+    "summary": "Turn your smartwatch/smartphone with a pressure sensor into a smart altimeter!",
+    "icon": "//lh3.googleusercontent.com/NIej6C-HS9o1aFPVqkJrJyFmNJ8JpQLew-oP_YLmvdlf_8PInoxGtpGyJdSXTbafaw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.8,
+    "reviews": 11,
+    "developer": "PFM Technologies LLC",
+    "developerId": "PFM+Technologies+LLC",
+    "developerEmail": "pfmtechnologiesllc@gmail.com",
+    "developerWebsite": "http://www.pureflyingmagic.com",
+    "developerAddress": "7437 S Eastern Ave Ste 108\nLas Vegas, NV 89123",
+    "updated": "April 2, 2016",
+    "version": "1.0.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "*** NOTE: Your device (handheld or wearable) must have a built-in pressure sensor (preferred) or GPS (solely as a fallback if barometer is missing). With this app, the wearable will *not* poll GPS data from the paired phone. Android Wear watches equipped with a pressure sensor include Nixon Mission (165Hz sample rate), LG G Watch R (90Hz), LG Watch Sport (10Hz), LG Watch Urbane, and Huawei Watch (20Hz); with a GPS only, Moto 360 Sport and Sony Smartwatch 3. ***Smart Altimeter uses pressure sensor on your device to measure your altitude above sea level or previously chosen reference altitude (if your device does not have a barometer, the app will fall back to GPS). Advanced multiple-layer algorithms are used to smooth noisy measurements and to calculate descent rate. The app can also speak your current altitude.Use of devices with high-speed barometric sensors (60Hz or faster) is highly recommended for the feedback lag not to exceed 0.2s (the lag is 12 samples).",
+    "descriptionHTML": "*** NOTE: Your device (handheld or wearable) must have a built-in pressure sensor (preferred) or GPS (solely as a fallback if barometer is missing). With this app, the wearable will *not* poll GPS data from the paired phone. Android Wear watches equipped with a pressure sensor include Nixon Mission (165Hz sample rate), LG G Watch R (90Hz), LG Watch Sport (10Hz), LG Watch Urbane, and Huawei Watch (20Hz); with a GPS only, Moto 360 Sport and Sony Smartwatch 3. ***<br><br>Smart Altimeter uses pressure sensor on your device to measure your altitude above sea level or previously chosen reference altitude (if your device does not have a barometer, the app will fall back to GPS). Advanced multiple-layer algorithms are used to smooth noisy measurements and to calculate descent rate. The app can also speak your current altitude.<br><br>Use of devices with high-speed barometric sensors (60Hz or faster) is highly recommended for the feedback lag not to exceed 0.2s (the lag is 12 samples).",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/tKhpnXjxfV438SOaxALWJEpfVQbtMFXuPD_T4gfIav2rU77doquQ_Z0jhqhT_sFoJc8=h310",
+        "//lh3.googleusercontent.com/JfM6JpJUsZ7kcY2h4UB1JOFmLLRYKIuMHXM5Rt46xFOFDQC81FR7pGDwp_gcqyaM0Uk=h310"
+    ],
+    "comments": [
+        "This app is accurate up to a point. For example it is pretty accurate in the Greater Denver Metro giving off readings that make sense such as 5300ish feet in Denver proper and 6200 in some of the higher suburbs. However I downloaded to use when climbing the Colorado 14ers and the app, on both watch and phone, has never given off reading of 14000+ on over 15 14K peaks. Several times it errored above 12000 feet or recently on the summit of Mount Evans which is 14,265 feet I only got a reading of 13,500 despite standing on the true summit. Not sure why it does this but it's inconsistent results means it cannot be relied upon and is more of a novelty. Does look cool and sync well to my Huawei smart watch however.",
+        "Doesn't do anything"
+    ],
+    "recentChanges": [
+        "- fixed compatibility issue for Android Wear devices with x86 architecture, like the Fossil Q Founder"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.PFM.SmartAltimeter&hl=en&gl=us",
+    "appId": "com.PFM.SmartAltimeter"
+}

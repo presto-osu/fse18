@@ -1,0 +1,57 @@
+{
+    "title": "Fronius Solar.web pro",
+    "summary": "Overview on the data of your PV system(s) with Fronius inverter(s)",
+    "icon": "//lh5.ggpht.com/i11LTfsGk8yC8yBLW_zkFV8qA2EnasAI5VsWLwbgTnqo-yhBNVxttl-utl9AX6VPUw=w300",
+    "price": "$2.99",
+    "free": false,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.3,
+    "reviews": 279,
+    "developer": "Fronius International GmbH",
+    "developerId": "Fronius+International+GmbH",
+    "developerEmail": "apps@fronius.com",
+    "developerWebsite": "http://www.solarweb.com",
+    "developerAddress": "Froniusstraße 1\nA-4643 Pettenbach",
+    "updated": "May 8, 2017",
+    "version": "2.2.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "With the Fronius Solar.web PRO app you get a professional, comprehensive overview on the data of your PV system(s) with Fronius inverter(s). Features of the PRO version: - Watch the current values and the complete archive data of your PV systems - Keep the overview by visualization of several systems at a glance - Compare your systems with each other - Show pictures of your PV systems to your friends - Locate your systems on the map - Get extended information about the PV systems - Intuitive, easy-to-use interface To use the app for viewing your own PV system data, your system has to be registered at the online portal Fronius Solar.web (within the setup wizard of the app or on www.solarweb.com). After installing the app on your device, you can constantly keep an eye on the current energy yield, CO2 savings, earnings and the archive data of your PV system. The demo mode provides you with a sneak peek at what the app can do.",
+    "descriptionHTML": "With the Fronius Solar.web PRO app you get a professional, comprehensive overview on the data of your PV system(s) with Fronius inverter(s). <br><br>Features of the PRO version: <br>- Watch the current values and the complete archive data of your PV systems <br>- Keep the overview by visualization of several systems at a glance <br>- Compare your systems with each other <br>- Show pictures of your PV systems to your friends <br>- Locate your systems on the map <br>- Get extended information about the PV systems <br>- Intuitive, easy-to-use interface <br><br>To use the app for viewing your own PV system data, your system has to be registered at the online portal Fronius Solar.web (within the setup wizard of the app or on www.solarweb.com). After installing the app on your device, you can constantly keep an eye on the current energy yield, CO2 savings, earnings and the archive data of your PV system. <br><br>The demo mode provides you with a sneak peek at what the app can do.",
+    "histogram": {
+        "1": 50,
+        "2": 37,
+        "3": 49,
+        "4": 70,
+        "5": 73
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/gQa8DuuisV1iyWxW_Qr89eL3VPJ01CHwNbZVIJy08MxbRbGMCIX2T-slVAv2WCESzQ=h310",
+        "//lh3.ggpht.com/tj7KIIEd71RhNhSo6WFi4_Kc9e0gNenFhTEv7UYIyM2GOj-peVdUUYsD4ygSOcygqL0=h310",
+        "//lh5.ggpht.com/JtM2olLpNeIJ4ffxUr4mWRW8U2AaXqnM1aTiAbAD695tFSSDLpFVIAruOmbm72V7YQ=h310",
+        "//lh6.ggpht.com/8pcRWWy2wqKZzjkcfAZfjAlhSKwfRnXpSSarYjss7jEmeJhKRPSVSHOs7odoQA5RlfHy=h310",
+        "//lh6.ggpht.com/SFGBVB7pUAWPyFMc7CpE6uhMU0FgHnAOCaS8aDcHuKb6VMcGRXSl8gW7oX-PUuCDFf8x=h310",
+        "//lh3.googleusercontent.com/bZJmxm_Gr4iXIF94NA-3AseuuvTGaPwtZlel6hGWQzm2w1K0YMyHEChZexJWcPTPmBQ=h310",
+        "//lh3.googleusercontent.com/qgsK50cwwQbIbo5nGA0GlVXy8BRoPaXiMGZpNpwABPWzPnZj9w9G51AqZLZItw_Dv58=h310"
+    ],
+    "comments": [
+        "Waste of money.   Does not give you any worthwhile information. Fee app is almost exactly the same.   Should be ashamed of themselves for even asking money for this.  Does not mention you need to purchase additional hardware to monitor own consumption.  Uninstalled after 4 hours and reverted to free app.",
+        "I'm guessing the people who hate this app didn't pay their installer for the full monitoring service. This app is really good. Can monitor load, see monute by minute where the power is being used and where the excess is going. Helps my family tailor our usage to when we're generating peak power. Love it.",
+        "Extremely difficult to install and the manual didn't have accurate instructions either. But once it's up and running it provides basic information on your PVS. Fronius should invest some money and resources into developing a better app because this definitely isn't up to standard.",
+        "As it is, this app not beneficial. Map on app has us being in Australia which is correct. The day and time of day are not correct for us here. For example 5/7/17 has half of yesterday's production from 00:00 to 4.45am, zero production from 4.45am-7pm, then further production from 7pm-00:00am. Now we are in the southern hemisphere but I can guarantee our sun is NOT shining at night!   Please look into this and fix the issue then this app may be quite useful to us.",
+        "It took me 6hrs to set the app upp. I ended up doing it through the solar website then logging in on app and it worked. It gives you so much information and great to track everything. Its also setup for battery and consumption meter too. Love it.",
+        "The in depth graphs and information are nice and show another view of what your solar and house are doing (get the smart metering installed it's worth it).  The interface is clumbsy and there is little explanation about what it shows but once you figure it out its good.  The web page version is just as useful really and that is free! Don't waste your money like I did."
+    ],
+    "recentChanges": [
+        "- Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fronius.solarwebpro&hl=en&gl=us",
+    "appId": "com.fronius.solarwebpro"
+}

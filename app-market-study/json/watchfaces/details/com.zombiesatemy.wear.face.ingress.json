@@ -1,0 +1,56 @@
+{
+    "title": "ShaperTime",
+    "summary": "Unofficial watchface for Ingress, with checkpoint and Shaper septicycle time",
+    "icon": "//lh3.ggpht.com/Kd1EL4qLStwOc0bquEjN5G9Qmzf1JsZDUEpmx0_xlzPUlRxK1vCBFLjjbuGXbSmUDA6j=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 29,
+    "developer": "Dave Ingram",
+    "developerId": "Dave+Ingram",
+    "developerEmail": "android@dmi.me.uk",
+    "developerWebsite": "http://www.dmi.me.uk/code/android/",
+    "developerAddress": "1600 Amphitheatre Parkway,\nMountain View, CA 94043,\nUSA",
+    "updated": "December 7, 2015",
+    "version": "0.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Unofficial watchface for Ingress. Shows time to next checkpoint and the end of the current Shaper septicycle.This application is not affiliated with or endorsed by Ingress, Niantic Labs, or Google.Note: Because this is purely an Android Wear watchface, you will not see anything on your phone launcher.Known issues: • The color accents are blue until the companion app is finished. Hang in there, it's very nearly done :-)",
+    "descriptionHTML": "Unofficial watchface for Ingress. Shows time to next checkpoint and the end of the current Shaper septicycle.<br><br><b>This application is <u>not</u> affiliated with or endorsed by Ingress, Niantic Labs, or Google.</b><br><br><b><u>Note:</u></b> Because this is purely an Android Wear watchface, you will <b>not</b> see anything on your phone launcher.<br><br><b>Known issues:</b><br> &#x2022; The color accents are blue until the companion app is finished. Hang in there, it&apos;s very nearly done :-)",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 6,
+        "4": 8,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/Xz0_7h490wRoak1zPnZbtkzUouI3n0eQfrL69HbgUU5TUajbqRsf_-psPdYm7lPSrU0=h310",
+        "//lh4.ggpht.com/5oA_aSZ1pb_DEtpyvyzM9AbFP-zn6z3MDddDpxEYawAamlmlBdQU1M4akhd2Gx8wY7A=h310",
+        "//lh6.ggpht.com/DepHe5eWaRwKz9hk7MgfFPsYgHmy50mz2_QH_Xgt6iAX1_YWdogSITr0opvD6xp1aAg=h310",
+        "//lh3.ggpht.com/aA1Gx4g8U50iP0ckHxsbidMxyw3s_COK3ZdaVyoZ_nFnMiw63QqCefkTU0LKqUtrPg=h310"
+    ],
+    "comments": [
+        "Orientation I appreciate this info on my wrist! I have a Moto 360. I just wish it looked better like it does on a square shaped watch. The alignment of the text is not so great looking on the round display.",
+        "As soon as I got this my watch resarted😢",
+        "I really like it, the developer is great I really like the basic design and simple design.  I would happily pay for a version that I can make green or even add a background to if I wanted. The developer is very responsive to change requests.",
+        "Scryb Nice",
+        "Awesome. Only issues are, as in the description, notifications obscure the watch too much, and the \"t\" on Checkpoint is occasionally truncated on the LG G Watch when certain digits are showing on the countdown.",
+        "Love it But please make it green!"
+    ],
+    "recentChanges": [
+        "• Renamed to comply with Google Play developer policies",
+        "Coming very soon:",
+        "• Customization! Choose your faction color, and what details you want shown."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.zombiesatemy.wear.face.ingress&hl=en&gl=us",
+    "appId": "com.zombiesatemy.wear.face.ingress"
+}

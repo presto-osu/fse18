@@ -1,0 +1,56 @@
+{
+    "title": "Battery Notifier (+Wear)",
+    "summary": "Battery Notifier will make your life easier !",
+    "icon": "//lh4.ggpht.com/mNM58fVPn8dDDxVvfKrmnVk4bUnSo93Kiw5IzzSXieYT6D_5E_6zkm8Ty2DDunJOJv0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 17,
+    "developer": "AntroDev",
+    "developerId": "7881072190642234938",
+    "developerEmail": "antrodev@gmail.com",
+    "developerWebsite": "http://antoine-danois.fr/",
+    "developerAddress": "Paris, France",
+    "updated": "June 15, 2015",
+    "version": "1.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Battery Notifier will help you save your battery life. Notifications will be displayed when you reach defined levels of battery. If the percentage becomes critical, you will be warned to charge your device the faster you can.You can also personalize the application settings to get alerts according to your what you prefer.Also, if you have an Android Wear smartwatch, you will receive the notification directly on it. Vibrations will tell you that the power level is at its critical level. You're warned even without having to check your phone!",
+    "descriptionHTML": "Battery Notifier will help you save your battery life. Notifications will be displayed when you reach defined levels of battery. If the percentage becomes critical, you will be warned to charge your device the faster you can.<br><br>You can also personalize the application settings to get alerts according to your what you prefer.<br><br>Also, if you have an Android Wear smartwatch, you will receive the notification directly on it. Vibrations will tell you that the power level is at its critical level. You&apos;re warned even without having to check your phone!",
+    "histogram": {
+        "1": 2,
+        "2": 3,
+        "3": 1,
+        "4": 5,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/DSz28sMkClKlWugY7ZOLRs1odG3O6L5pxvAUZCTD-WPjjU6b_9tu4yiZSvEgLQZfC2w=h310",
+        "//lh6.ggpht.com/u7hyp1IcTys529BgizIVk5Ca3nnnWHstr7v5ps_YumQm8ho_tXN6C_q2ff0A2UxyUmbZ=h310",
+        "//lh4.ggpht.com/u0clnB0g_f1fmTwmZbyFYZclSLOvvJNDPCeSl56eNKWEaJegvUQArfsKh2UY3we5gA=h310"
+    ],
+    "comments": [
+        ":)",
+        "Laul ALO UI CER MWA G KOMANTÉ LAPLI",
+        "Don't work on ZTE awe jellybean 4-1-2 Don't download"
+    ],
+    "recentChanges": [
+        "1.1.2-",
+        "-Resolution Problem due to the update Lollipop",
+        "-Optimisations",
+        "1.1.1-",
+        "Lollipop Android Update !",
+        "Material Design <3",
+        "Better management of the background service"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.antrodev.batterynotifier&hl=en&gl=us",
+    "appId": "com.antrodev.batterynotifier"
+}

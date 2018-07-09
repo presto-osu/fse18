@@ -1,0 +1,56 @@
+{
+    "title": "KakaoBus",
+    "summary": "Kakaobus provides you with real-time information of 57 Korean cities",
+    "icon": "//lh3.googleusercontent.com/ahDU-N6yrAZlCR7B87fi5pn7hmjf2rJZeshEZi0nWCEN4w_P7L6i1d8hSiuyTd9idg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000000,
+    "maxInstalls": 50000000,
+    "score": 3.9,
+    "reviews": 45629,
+    "developer": "Kakao Corporation",
+    "developerId": "Kakao+Corporation",
+    "developerEmail": "bus@kakaocorp.com",
+    "developerWebsite": "https://map.kakao.com/info/kakao_bus ",
+    "developerAddress": "690-140",
+    "updated": "February 26, 2018",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Kakaobus provides you with real-time bus and bus stop information of 57 Korean cities.* Real-time bus arrival information* Bus route information with real-time bus location* Departure Alarm    Set up the departure alarm to receive notifications five minutes, three minutes or one minute before the bus arrives at your stop.* Arrival Alarm   Set an alarm to make sure you get off at the right stop.* Bus Arrival Notification   You can get notifications for buses at a certain day and time without having to set them manually every time.* Suggestions based on your current location : Nearby Stops, Night Buses Nearby, Direct Bus to Home, Kakao TaxiContinued use of GPS running in the background can dramatically decrease battery life.* Customer Service Center- Mail : bus@kakaocorp.com- TEL : 1577-3321",
+    "descriptionHTML": "Kakaobus provides you with real-time bus and bus stop information of 57 Korean cities.<br><br>* Real-time bus arrival information<br>* Bus route information with real-time bus location<br>* Departure Alarm <br>   Set up the departure alarm to receive notifications five minutes, three minutes or one minute before the bus arrives at your stop.<br>* Arrival Alarm<br>   Set an alarm to make sure you get off at the right stop.<br>* Bus Arrival Notification<br>   You can get notifications for buses at a certain day and time without having to set them manually every time.<br>* Suggestions based on your current location : Nearby Stops, Night Buses Nearby, Direct Bus to Home, Kakao Taxi<br><br>Continued use of GPS running in the background can dramatically decrease battery life.<br><br>* Customer Service Center<br>- Mail : bus@kakaocorp.com<br>- TEL : 1577-3321",
+    "histogram": {
+        "1": 7199,
+        "2": 2127,
+        "3": 3650,
+        "4": 7256,
+        "5": 25397
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/AjMdFn7xoh9a70zuDTr-U5gCuLiKLQOd0uJSjCdZFhY_1sj2C6oQx839TBPgPVN4kw=h310",
+        "//lh3.googleusercontent.com/mKjxkA8GSTuswooRwmSo4gsBoL7Ge30oF0FW2nwikK9aVbU2CvOisFsXv5mxO2z0j78=h310",
+        "//lh3.googleusercontent.com/GeZ4TGfH3KTeUNPNN4XmVVFYsYL5sH1NXeouhQpwdmm89zNq_Fn5lF7I-RqHXs3AtI-_=h310",
+        "//lh3.googleusercontent.com/6h698FgbVi6gL77j09R_q8M54Nys18Qt3MbjUTjLha0TiQT8tO1mcN9zxQ5OEUkawMwU=h310",
+        "//lh3.googleusercontent.com/Yy1aee-zPhBFq-m5zxyLfk-sJlfQkjgZRtieLxrUGeu6R-CbbuZt1ypeEi9pl-6UR4I=h310"
+    ],
+    "video": "https://www.youtube.com/embed/o6Vr7sTS5IA",
+    "comments": [
+        "아...개망함....딴거쓰다가 깔았는데..... 시간 안맞아서 못타고 지각 ㅠㅠ",
+        "The app lets you look at bus routes and oncoming buses to your stop, and see buses moving in real time.   However, it doesn't let you plan your current location and desired destination and time (!!). Also, the only method of searching for your bus stop is through your stop number, so if you don't know it, you will need to search it up with a maps app or go to the stop yourself and note down the number.  That being said it is an overall messy app to use and needs a lot of work.",
+        "구글 픽셀 XL 사용중입니다. 1*1 위젯 설치하고 가로로 볼시에 화면이 깨집니다. 가로위젯 지원예정이신가요?",
+        "ㅋㅋㅋㅋㅋㅋㅋㅋ이거 보고 오분전에 나갔는데 버스 도착시간 삼분전에 도착해서 버스놓침... 20분후에온다고햇엇다..와 시간안맞아",
+        "would greatly appreciate english translations for the stops and stations 😭",
+        "실행하려고 하면 자꾸 튕겨요.."
+    ],
+    "recentChanges": [
+        "- Applied Seoul bus congestion data",
+        "- Fixed bugs"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.astroframe.seoulbus&hl=en&gl=us",
+    "appId": "com.astroframe.seoulbus"
+}

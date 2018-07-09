@@ -1,0 +1,49 @@
+{
+    "title": "Wear A Smile",
+    "summary": "Send a smile to your wrist.",
+    "icon": "//lh5.ggpht.com/4_riteiozg1U86wJ7yi5xDosbIyq0u3BTSNjnM6XMu0F0SjBVEavC7IPBUx8I-smRA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.3,
+    "reviews": 7,
+    "developer": "Cypressious",
+    "developerId": "Cypressious",
+    "developerEmail": "kirill.rakhman+dev@googlemail.com",
+    "developerWebsite": "https://plus.google.com/117433846956340982849/posts",
+    "updated": "August 17, 2014",
+    "version": "1.0.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Send a smiley to your Android Wear device. Customize the smiley, background and text color.",
+    "descriptionHTML": "Send a smiley to your Android Wear device. Customize the smiley, background and text color.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/IJ5r79pnww3lmQ4v0u79j3ZrJjgGFOGSeZYzbAIvxvY71wqRY4Oyhb9WruKCp-O4dA=h310",
+        "//lh4.ggpht.com/iXvPc74G9nPrVrENmKwNyZb2gvLESvwjcwqSZ1HHBXGv8sVul38S5-DITgq9wkmdj1w=h310"
+    ],
+    "comments": [
+        "Does not work.",
+        "Doesn't work",
+        "Don't waste your time Doesn't do anything"
+    ],
+    "recentChanges": [
+        "- Flip text",
+        "- Scroll long texts"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.cypressworks.wearasmile&hl=en&gl=us",
+    "appId": "com.cypressworks.wearasmile"
+}

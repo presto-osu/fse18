@@ -1,0 +1,6 @@
+set apkPath [lindex $argv 0];
+set keystorePath [lindex $argv 1];
+spawn jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore $keystorePath $apkPath alias_name
+expect "Enter Passphrase for keystore:"
+send "wy092883\n"
+interact

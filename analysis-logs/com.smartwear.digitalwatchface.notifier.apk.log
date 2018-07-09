@@ -1,0 +1,55 @@
+Soot started on Thu Jun 21 12:10:38 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.catinean.simpleandroidwatchface.SimpleWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.smartwear.digitalwatchface.notifier.apk
+[INFO] MySceneTransformer: ############## com.catinean.simpleandroidwatchface.SimpleWatchFaceService$SimpleEngine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   26
+[INFO] FlowGraph: @@@@ Total Methods: 81
+[INFO] FlowGraph: @@@@ Total Stmts:   892
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 1.532000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:10:43 EDT 2018

@@ -1,0 +1,43 @@
+{
+    "title": "Wear Timelase Calculator",
+    "summary": "Calculate Timelapse parameters from your watch!",
+    "icon": "//lh3.googleusercontent.com/gcD2gO9Ws4IEqNOKkrLcxw40yHGvxzXRcN6yAryCWCasgbs_2rWiIY9mCjyD70ZARFk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 1,
+    "reviews": 1,
+    "developer": "Konrad Iturbe - Chernowii",
+    "developerId": "8327692895936242590",
+    "developerEmail": "mail@chernowii.com",
+    "developerWebsite": "http://chernowii.com",
+    "developerAddress": "The internet\nAFK: Calle Timoteo Padros 14, 28200 El Escorial, Madrid, Spain",
+    "updated": "September 27, 2015",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Calculate the timelapse interval for timelapse supported cameras (eg: GoPro, Nikon, Canon...) from your android wear watchNOTE: You need a keyboard installed in the watch, such as Minuum Keyboard",
+    "descriptionHTML": "Calculate the timelapse interval for timelapse supported cameras (eg: GoPro, Nikon, Canon...) from your android wear watch<br><br><b>NOTE: You need a keyboard installed in the watch, such as Minuum Keyboard</b>",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/TeYbtmMsrjSib_uma4Q7O8PHwCFFcjqGjKWHJLR50_04se4OFv11niQqeiQ6wyqPFw=h310",
+        "//lh3.googleusercontent.com/xT3nPvhL3di9mV2WtshAW1QNraNlTcbOOOdF46Ng8L5xobqwQSRhBnFxCWFicMMsQeQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chernowii.weartimelapsecalc&hl=en&gl=us",
+    "appId": "com.chernowii.weartimelapsecalc"
+}

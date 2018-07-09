@@ -1,0 +1,53 @@
+{
+    "title": "Wear Boarding for Android Wear",
+    "summary": "Allows mobile boarding passes to be shown on any Android Wear device.",
+    "icon": "//lh3.googleusercontent.com/tfqxQng9JdFrTWdOsWAutOWfRmrLCm8lJCPeA7V74QXvAi4qUOWmWtFsevQTovxjaqE=w300",
+    "price": "$1.39",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3,
+    "reviews": 2,
+    "developer": "tinozplace.com",
+    "developerId": "tinozplace.com",
+    "developerEmail": "abuttino@gmail.com",
+    "developerWebsite": "http://wordpress.tinozplace.com",
+    "developerAddress": "4715 Trilby Ave",
+    "updated": "July 31, 2015",
+    "version": "1.91",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "This application will allow a mobile boarding pass to be shown on your device, even if your airline doesn't support smartwatches. When you arrive at the airport, there will be a card on your watch, waiting for you at the gate to board your plane.This technology is quite new to airlines and even the best of the best haven't quite got it nailed down yet. You can do it with the power of your own two fingers, any Aztec/PDF417/QR boarding pass and, the very approximate location of the airport.The user will set the location and boarding pass information using two very renowned programs called \"AutoLocation\" that will help you set these \"geofences\" then, scan (or take a screenshot and import) the boarding passes in \"Wear Codes\". The day of the flight, your Geofence monitor activates, when you arrive at the airport, the card is shown to scan at the gate.The instructions are quite simple:-Install and run Wear Boarding for Android Wear-Install the required programs (mentioned above, but will auto-install once you run this app)In AutoLocation:-Manage Geofences-Press the \"+\" symbol to add a geofence-Enter the lattitude and longitude or airport address and press the magnifying glass at the end of the search line.-Use the plus symbol in the map area to zoom in. The airport should be visible.-Click on somewhere near the airport, a blue dot will appear-On the blue slider below the map, engulf the entire airport area in the lightly shaded area.-If the lightly shaded area doesn't cover the entire airport when you slide the slider all the way to the right, press the down icon at the end of the slider and enter a figure such as 1000.-After the airport area is totally engulfed in the shaded area, press \"Accept Geofence\" and name it \"Airport 1\"Repeat this process for each airport you'll be boarding another airplane on and make sure to change the name by adding 1 to each new airport (e.g. Airport 2)In Wear Codes:Option 1:-Take a screenshot of your boarding pass on your airline's mobile app.-View this picture in your favorite picture viewer-Share this picture with \"Wear Codes\" with the share icon (3 trianglular lines with a dot on each axis)-Wear Codes may import it without a crop, or will ask you to encapsulate the code in a box.-Name this code \"Airport 1\" and, if you are in the US, use the dropdown box to select Aztec (if it isn't already)-Save this by pressing on the check mark near the top of the screen.Repeat this process for each boarding pass, add 1 to each code (e.g. Airport 2)Option 2:-Display the printed boarding pass on a computer monitor-Open Wear Codes-Press the \"+\" button.-Press \"Scan a code\"-Aim your camera at the bar code and it will accept it when it fully reads it.-Name your code \"Airport 1\"-Press the dropdown to convert your code from PDF417 to Aztec.-Press the checkmark on the top to accept the code.Repeat this process for each boarding pass, add 1 to each code (e.g. Airport 2)Finally, run this program to specify your flight dates.. After this, you'll be all set.Support for frequent flyers:To avoid redoing geofences, you can now name your frequent airports and boarding passes with a naming scheme such as:DAB-Airport 1DAB - Airport 1DAB- Airport 1DAB -Airport 1Or: Airport 1- DABAirport 1 -DABAirport 1-DABAirport 1 - DABYou can use airport codes, airport names, whatever you choose.Just remember, each airport geofence references the same boarding pass. Name them alike, you'll be able to fly the skies without the need to expose your pattern or pin!",
+    "descriptionHTML": "This application will allow a mobile boarding pass to be shown on your device, even if your airline doesn&apos;t support smartwatches. When you arrive at the airport, there will be a card on your watch, waiting for you at the gate to board your plane.<br><br>This technology is quite new to airlines and even the best of the best haven&apos;t quite got it nailed down yet. You can do it with the power of your own two fingers, any Aztec/PDF417/QR boarding pass and, the very approximate location of the airport.<br><br>The user will set the location and boarding pass information using two very renowned programs called &quot;AutoLocation&quot; that will help you set these &quot;geofences&quot; then, scan (or take a screenshot and import) the boarding passes in &quot;<a href=\"https://www.google.com/url?q=http://goo.gl/XhyP3C&amp;sa=D&amp;usg=AFQjCNEeSIVh8fToQcTjzPtK06HCriZfOw\" target=\"_blank\">Wear Codes</a>&quot;. The day of the flight, your Geofence monitor activates, when you arrive at the airport, the card is shown to scan at the gate.<br><br>The instructions are quite simple:<br>-Install and run <a href=\"https://play.google.com/store/apps/details?id=com.tinozplace.wearboarding\">Wear Boarding for Android Wear</a><br>-Install the required programs (mentioned above, but will auto-install once you run this app)<br><br>In AutoLocation:<br>-Manage Geofences<br>-Press the &quot;+&quot; symbol to add a geofence<br>-Enter the lattitude and longitude or airport address and press the magnifying glass at the end of the search line.<br>-Use the plus symbol in the map area to zoom in. The airport should be visible.<br>-Click on somewhere near the airport, a blue dot will appear<br>-On the blue slider below the map, engulf the entire airport area in the lightly shaded area.<br>-If the lightly shaded area doesn&apos;t cover the entire airport when you slide the slider all the way to the right, press the down icon at the end of the slider and enter a figure such as 1000.<br>-After the airport area is totally engulfed in the shaded area, press &quot;Accept Geofence&quot; and name it &quot;Airport 1&quot;<br><br>Repeat this process for each airport you&apos;ll be boarding another airplane on and make sure to change the name by adding 1 to each new airport (e.g. Airport 2)<br><br>In Wear Codes:<br>Option 1:<br>-Take a screenshot of your boarding pass on your airline&apos;s mobile app.<br>-View this picture in your favorite picture viewer<br>-Share this picture with &quot;Wear Codes&quot; with the share icon (3 trianglular lines with a dot on each axis)<br>-Wear Codes may import it without a crop, or will ask you to encapsulate the code in a box.<br>-Name this code &quot;Airport 1&quot; and, if you are in the US, use the dropdown box to select Aztec (if it isn&apos;t already)<br>-Save this by pressing on the check mark near the top of the screen.<br><br>Repeat this process for each boarding pass, add 1 to each code (e.g. Airport 2)<br><br>Option 2:<br>-Display the printed boarding pass on a computer monitor<br>-Open Wear Codes<br>-Press the &quot;+&quot; button.<br>-Press &quot;Scan a code&quot;<br>-Aim your camera at the bar code and it will accept it when it fully reads it.<br>-Name your code &quot;Airport 1&quot;<br>-Press the dropdown to convert your code from PDF417 to Aztec.<br>-Press the checkmark on the top to accept the code.<br><br>Repeat this process for each boarding pass, add 1 to each code (e.g. Airport 2)<br><br>Finally, run this program to specify your flight dates.. After this, you&apos;ll be all set.<br><br>Support for frequent flyers:<br>To avoid redoing geofences, you can now name your frequent airports and boarding passes with a naming scheme such as:<br><br>DAB-Airport 1<br>DAB - Airport 1<br>DAB- Airport 1<br>DAB -Airport 1<br>Or: <br>Airport 1- DAB<br>Airport 1 -DAB<br>Airport 1-DAB<br>Airport 1 - DAB<br><br>You can use airport codes, airport names, whatever you choose.<br><br>Just remember, each airport geofence references the same boarding pass. Name them alike, you&apos;ll be able to fly the skies without the need to expose your pattern or pin!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/g-Hj0FhnPreF1jqhVCIqzC63TXuvDMlR32rfqx__whHz8Q8z0bihVnYFnxTsCyPVMqZG=h310",
+        "//lh3.googleusercontent.com/s3Df81p_7w7XZ4wKX1v4xEv37bZZsrbZgJXcn3iW5o8R1cm9rHuMaQzLk1G0vim8IQY=h310",
+        "//lh3.googleusercontent.com/tXmtmoi7xSeYA7SVPWJDKkg3k1_TnkBbq64n7RZfa_tL2TCWSWedI9Vt_3tGKZdLDx1i=h310",
+        "//lh3.googleusercontent.com/XFhGjfHw7R26dIWue2kWuAOmIHdGrjCcpIGKjX0tg0MhbiBlM1h35cXLbAPuauP1ilo=h310",
+        "//lh3.googleusercontent.com/bRCExPbs00CTU1oaYsxS1TKCQ-KYK23Z-mcjrmI1Ohpqy9hl6Km8q_oscpdc8sG8_Ok=h310",
+        "//lh3.googleusercontent.com/4Hsyv_ePjslu-wsqrBblJ5Ge19rFKXpHTP9yf47MU6SdTynzZtR9mVXGoRix40jCYmc=h310",
+        "//lh3.googleusercontent.com/dbKEMHMncQOunJusn5OzVXdROQ_4kdoGQ_vbqcM1Pioou16bKEySdOIr_bki6OD6RqZr=h310"
+    ],
+    "comments": [
+        "Don't waste money! Not working! I try to open it and it asks to install a plugin Autolocation Geofences,  so i did but still not working. Shame!",
+        "Great time saver A lot easier than setting up intricate Tasker profiles for popping up Wear Codes for airport boarding passes."
+    ],
+    "recentChanges": [
+        "Small bugfix update with dates."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tinozplace.wearboarding&hl=en&gl=us",
+    "appId": "com.tinozplace.wearboarding"
+}

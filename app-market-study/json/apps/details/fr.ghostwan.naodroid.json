@@ -1,0 +1,53 @@
+{
+    "title": "NaoDroid",
+    "summary": "Control your Nao robot with your android wear watch",
+    "icon": "//lh4.ggpht.com/dsOWSSG-oJzcv9tRZ5wruxFZQXlViST6iRTM243IkZYV0JMg10KMxmVTXjd_5Fx1pyM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "Erwan Pinault",
+    "developerId": "Erwan+Pinault",
+    "developerEmail": "erwan.pinault@gmail.com",
+    "developerWebsite": "http://www.aldebaran.com/fr",
+    "updated": "November 4, 2014",
+    "version": "1.1_b",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This application allows you at the moment to launch behaviors in life mode or not from an Android Wear watch.This version is in a really early beta. By the end, it will allow to control NAO robot from an Android phone, an Android tablet, an Android watch or Google Glass.I'm publishing it now because it's been requested by a lot of people. Ill keep doing improvements and fixes in the week to come.Requirements:- Android Wear watch- NAO robot with NAOqi 2.1.0.19- Android phone running 4.4- Interactive behaviors installed on NAOHow:- Connect NAO on the same wifi network as the phone- Enter his IP address or its local name- Connect the app- If it works, you'll get a notification on your watch- You can launch behaviors from the watch in life mode (switch focus) or without life on (run behavior)- You can control the sound volume of NAO from the volume buttons on the phoneRoadMap :- Fully control the robot from a smartphone / watch / tablet / google glass - Choose between Wireless or Bluetooth for the connection to connect the watch directly without a smartphone  - Video view FPS style to control the robot movements- Hand movements to launch behaviors with the watch- Simple animation trigger and TTS modules- Simple lite chorégraphe on tablet, to create on the fly remote behaviorAn more !You can download the source on my github account:https://github.com/ghostwanMy aldebaran pseudo is epinaultEven if I am working for aldebaran, this application is not officially supported by the company, don't ask aldeb for any support on it. I am working on  a simple java compliant qimessaging wrapper that you could use to create such an application, the source will be soon on githubhttp://www.aldebaran.com/fr",
+    "descriptionHTML": "This application allows you at the moment to launch behaviors in life mode or not from an Android Wear watch.<br>This version is in a really early beta. By the end, it will allow to control NAO robot from an Android phone, an Android tablet, an Android watch or Google Glass.<br><br>I&apos;m publishing it now because it&apos;s been requested by a lot of people. Ill keep doing improvements and fixes in the week to come.<br><br>Requirements:<br>- Android Wear watch<br>- NAO robot with NAOqi 2.1.0.19<br>- Android phone running 4.4<br>- Interactive behaviors installed on NAO<br><br>How:<br>- Connect NAO on the same wifi network as the phone<br>- Enter his IP address or its local name<br>- Connect the app<br>- If it works, you&apos;ll get a notification on your watch<br>- You can launch behaviors from the watch in life mode (switch focus) or without life on (run behavior)<br>- You can control the sound volume of NAO from the volume buttons on the phone<br><br>RoadMap :<br>- Fully control the robot from a smartphone / watch / tablet / google glass <br>- Choose between Wireless or Bluetooth for the connection to connect the watch directly without a smartphone  <br>- Video view FPS style to control the robot movements<br>- Hand movements to launch behaviors with the watch<br>- Simple animation trigger and TTS modules<br>- Simple lite chor&#xE9;graphe on tablet, to create on the fly remote behavior<br><br>An more !<br><br><br>You can download the source on my github account:<br>https://github.com/ghostwan<br><br>My aldebaran pseudo is epinault<br><br>Even if I am working for aldebaran, this application is not officially supported by the company, don&apos;t ask aldeb for any support on it. <br><br>I am working on  a simple java compliant qimessaging wrapper that you could use to create such an application, the source will be soon on github<br><br>http://www.aldebaran.com/fr",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/mAZsHLViHQ87KPCOdAxZzkipFxa6gukVUwIon8v129PWvR8rNZHZll1YgL54aoM9Pg=h310",
+        "//lh3.ggpht.com/pZxSEHIMc4jDmTt43BFd9kAFs_U-Y9b5iAlQeRDf-8dLkUALJdO2zXcs5ux92lt0b5dd=h310",
+        "//lh5.ggpht.com/aUB1kZluR4e5tEteYkZdk78ZZpZRJnj1fqVlm-UR663ghKjtJrnGeau2CYOZQbcOvQ=h310",
+        "//lh6.ggpht.com/U7FYxVoVGEUmK3skbkTWdnRkS5KQpSG2Adg4Rae_oRjGeXeNyyL56omNcYEuW0RZGA=h310",
+        "//lh4.ggpht.com/itQ3of4zQ0lQyHVJnCygOSuEHWnWRRczk8YVD1lLwqoAiM9HftxFLQqDOsxrGmVpt-U=h310",
+        "//lh5.ggpht.com/NeEi7SskJs0Ek92HqKp_Lx-Z8ZPznTuG5p8hBsk2z6zQbtoVucWYyhshaJ4mQJauwbg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Quick access to enable hot spot on the phone",
+        "- Ip address or name  history",
+        "- Display Stop button as first action on the watch",
+        "- Delete test default value",
+        "- English version",
+        "- Fix some crash"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fr.ghostwan.naodroid&hl=en&gl=us",
+    "appId": "fr.ghostwan.naodroid"
+}

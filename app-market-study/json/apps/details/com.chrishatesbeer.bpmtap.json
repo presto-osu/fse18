@@ -1,0 +1,48 @@
+{
+    "title": "BPM Tap",
+    "summary": "Work out the number of beats per minute of a song by simply tapping away",
+    "icon": "//lh3.ggpht.com/DoE_8VCcc2da9KNHH76YlKkP2X0H8ytgC2Jqxsqb-hFfaDaC9dhjzmlExIuD1wv7bQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Chris Morris",
+    "developerId": "Chris+Morris",
+    "developerEmail": "chrishatesbeer@gmail.com",
+    "updated": "January 14, 2017",
+    "version": "Varies with device",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "size": "Varies with device",
+    "description": "Tap anywhere on the screen every beat to obtain the beats per minute (BPM) of a song.  Pause for 2 seconds to reset.  Works on tablets, mobiles and Android Wear watches.",
+    "descriptionHTML": "Tap anywhere on the screen every beat to obtain the beats per minute (BPM) of a song.  Pause for 2 seconds to reset.  <br><br>Works on tablets, mobiles and Android Wear watches.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/ay0u1C1FzW_dBdCMkgerEOHIvFXfYbJvyrpzR0rr4ydbYKMRjEn20zkA1j9XuphRUA=h310",
+        "//lh6.ggpht.com/vqjoAjbnji1DzuvsfOhWkdTfRUlTQ_vnzNsQZyk0vIwsOtmw1dUiy07mtA56ExSMKw=h310",
+        "//lh6.ggpht.com/9m5l-ZU_CWYS-4d0k9_y7tl4xRjIW_kp0bftjWg2TzYL_J4oVueHtsdQKaiUwUBBIIS5=h310",
+        "//lh4.ggpht.com/4UqWdJoHncqdZTE27pamiD30U8SMUedleAxY42hvrVi3A-EJgEArBdlaygtHyWZtWNE=h310",
+        "//lh4.ggpht.com/1tTqEmVkCGeq1TPslU3sG3NfxcR7Z-leLMrhElyCCmXNvYyXzJ-h2gAOTWjkA07LplM=h310",
+        "//lh4.ggpht.com/q0nkAZ_GkslY4f6WscMUOJrbKT3Fz-86285dDJDB1QinrTEXHkMaK2z4kcRXtvRBNfc=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Updated for Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chrishatesbeer.bpmtap&hl=en&gl=us",
+    "appId": "com.chrishatesbeer.bpmtap"
+}

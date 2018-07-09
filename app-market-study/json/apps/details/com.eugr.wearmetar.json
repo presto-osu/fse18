@@ -1,0 +1,58 @@
+{
+    "title": "Wear METAR",
+    "summary": "Get aviation weather on your Android Wear smartwatch!",
+    "icon": "//lh4.ggpht.com/z1VALeEbK0jFp7InKIDbEGnqb-pIBF42X_N3egbAtzRhbQgzU18t8D5w-GISqex1kng=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 44,
+    "developer": "Eugene Rakhmatulin",
+    "developerId": "Eugene+Rakhmatulin",
+    "developerEmail": "eugr@eugr.com",
+    "updated": "January 23, 2015",
+    "version": "1.3.3",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "The first aviation weather app for Android Wear (for U.S. airports only for now)!Use your voice to request METAR and TAF for a particular airport, city or nearest airport  (U.S. only currently).Usage instructions:On an active watchface, say \"ok Google, start Airport Weather\". Alternatively you can use one of the available launchers to launch Airport Weather application on your Wear device (not the handheld!) or choose Airport Weather from the start or recents menu.It will launch the app and display the main menu. You can choose between Search, Nearest, manually input ICAO or domestic code or 5 most recent successful searches.If you choose \"Search\", you can then say the airport name (e.g. \"Palomar Airport\") or city name (e.g. \"San Diego\"). \"Nearest\" option will display weather for the closest airport within 25 miles.The result will come back as an actionable notification with current color-coded flight rules (VFR, IFR, etc) if a single airport was found or the worst flight rules if multiple airports were found. You can then click on the notification to see the full decoded weather card. If several airports are found, you can scroll the cards vertically.If you swipe left (scroll to the right) on a METAR card, it will show you decoded TAF for that airport if available, or nearest TAF within 25nm from that airport. All standard US TAF features are supported, excluding parameters specific to military airports. However, it does handle military TAFs properly (converts kilometers to statute miles, etc).Please be prepared to wait up to a minute if your search was too broad.Tested on LG G Watch, moto360 and LG G Watch R.",
+    "descriptionHTML": "The first aviation weather app for Android Wear (for U.S. airports only for now)!<br><br>Use your voice to request METAR and TAF for a particular airport, city or nearest airport  (U.S. only currently).<br><br>Usage instructions:<br><br>On an active watchface, say &quot;ok Google, start Airport Weather&quot;. Alternatively you can use one of the available launchers to launch Airport Weather application on your Wear device (not the handheld!) or choose Airport Weather from the start or recents menu.<br><br>It will launch the app and display the main menu. <br><br>You can choose between Search, Nearest, manually input ICAO or domestic code or 5 most recent successful searches.<br><br>If you choose &quot;Search&quot;, you can then say the airport name (e.g. &quot;Palomar Airport&quot;) or city name (e.g. &quot;San Diego&quot;). <br>&quot;Nearest&quot; option will display weather for the closest airport within 25 miles.<br><br>The result will come back as an actionable notification with current color-coded flight rules (VFR, IFR, etc) if a single airport was found or the worst flight rules if multiple airports were found. <br><br>You can then click on the notification to see the full decoded weather card. If several airports are found, you can scroll the cards vertically.<br><br>If you swipe left (scroll to the right) on a METAR card, it will show you decoded TAF for that airport if available, or nearest TAF within 25nm from that airport. All standard US TAF features are supported, excluding parameters specific to military airports. However, it does handle military TAFs properly (converts kilometers to statute miles, etc).<br><br>Please be prepared to wait up to a minute if your search was too broad.<br><br>Tested on LG G Watch, moto360 and LG G Watch R.",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 7,
+        "4": 5,
+        "5": 27
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/UUbFNmL6pU52QPHTU_w1g-dQ7veoEx93LploOJo9tUHomDmU1_GZMRcYZOd9iLUgEmE=h310",
+        "//lh6.ggpht.com/4Gvx6wsFzKrTPH5KEjl5HSC7gdwzIhym_66FenSfiya4RcVuvLmsSJUNz7061F5FM-9w=h310",
+        "//lh3.ggpht.com/L5wsroeth21KzwbHkmhvNTVKBnvbTCoo70k-byPKzGCuJFW_pVVRnZGPyb0r5M56Zg=h310",
+        "//lh3.ggpht.com/OUMy54m9e27J2u-cpbdZnG60TFY9O5d-zZeDn_NsO-Tmeg7skTGo3cxJM6SSogyPGw=h310",
+        "//lh6.ggpht.com/PSzfAGr3-roAKgVLpIWh-JPZ32wvYwiwu7Dzmh8esgUReLuBgk5H43AhmYTgLKg4XSg=h310",
+        "//lh3.ggpht.com/c8fRkOE4JljQRyX4ljq4c1p9lLSOJHTnnV-amJ9acv6_sVPBFZAw0gc34HaVAUwx3Vhb=h310",
+        "//lh4.ggpht.com/49oqZg1lq7GnZVBotiVnoYEjfmaiUaSNoONzzfTcccEZWnON-5rV0Y2SbT4wP7EpWA=h310",
+        "//lh6.ggpht.com/eootfUie1z_bLPb5cQjzRmLkYw_2-ImGrsc0B2eGCnDjcgMMV1NmockWJg5QH7eLmBU=h310"
+    ],
+    "comments": [
+        "Works now. After the software engineer contacted me  it seemed to start working.  Before it was bringing up Idaho . So today I have accurate dew point temp and winds .  Be great if the engineer could developed a Garmin d2 clone with a metar feature in the motor 360 . Would pay for that ! I have a d2 and it just needs weather.",
+        "Very nice design The way you request and view weather is great, but the voice search is pretty much useless with airport codes. Not sure if that's the dev's fault. Would be cool to have a companion app on the phone for managing favorites.",
+        "Crashed followed by 20% battery drain in 5min Tried \"nearest\" the app crashed... Notification on phone \"wear metar has stopped\" subsequently followed by a burning hot watch and 20% battery drain in 5 minutes. Selecting an airport seems to work but is fiddly using the dials. Raw METAR/TAF would also be good. Nice idea though...",
+        "Good so far Kcbf crashes. Saying unfortunately wearMETAR has stopped.",
+        "Can't  connect Opened the app and it tells me that it can't connect. Full signal strength.",
+        "Great product! I use it often when I want a quick weather report. The voice search works much better then others I've used, and can recognize the airport name with surprising accuracy."
+    ],
+    "recentChanges": [
+        "This bugfix release fixes a bug with a button cut off in ICAO selector layout on Moto360. Please let me know if you still have any issues.",
+        "New feature - input ICAO code using dials on the screen!",
+        "If you know the ICAO (e.g. KCRQ) or domestic non-ICAO (3-letter/digit - e.g. F70) identifier of your airport, you can punch it in situations where you don't want to talk to your watch in public or when the search doesn't properly recognize your voice."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.eugr.wearmetar&hl=en&gl=us",
+    "appId": "com.eugr.wearmetar"
+}

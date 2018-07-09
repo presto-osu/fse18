@@ -1,0 +1,45 @@
+{
+    "title": "First Watch",
+    "summary": "An simple watch face for android wear.",
+    "icon": "//lh3.googleusercontent.com/QAQZToCjd6RUr0lCXWHHe4affQas2RVYruWpfTusRnDiCmFExJRm3W2Irg_-lBsYpA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 5,
+    "developer": "LukasDM",
+    "developerId": "LukasDM",
+    "developerEmail": "dmlukas@gmail.com",
+    "updated": "August 29, 2015",
+    "version": "1.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "After install the watch face will be available in the Android Wear app.Touch the watch face to select it and a small wheel will apear on top of the watch face.Very small apk file",
+    "descriptionHTML": "After install the watch face will be available in the Android Wear app.<br>Touch the watch face to select it and a small wheel will apear on top of the watch face.<br>Very small apk file",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/v6qyAlHt6V4Yz1J0xTZE3rvMM3Q8cQgN8Mc9FsFfCNI9uz7Z4qgNY3NDTRx8etUdTibu=h310",
+        "//lh3.googleusercontent.com/c4a2yG_y6YxUdtm2Y399ZNQnmL4L-2cX94yjVonUWbDw7xkLswhj7PsUctfbe-TJucA=h310"
+    ],
+    "comments": [
+        "Good app"
+    ],
+    "recentChanges": [
+        "fix small bug"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=by.lukasdm.android.firstwatch&hl=en&gl=us",
+    "appId": "by.lukasdm.android.firstwatch"
+}

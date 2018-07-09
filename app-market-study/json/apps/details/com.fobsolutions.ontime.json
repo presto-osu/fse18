@@ -1,0 +1,47 @@
+{
+    "title": "OnTime for Wear",
+    "summary": "Planner for your daily public transport trips on your Wear device.",
+    "icon": "//lh3.googleusercontent.com/b1xXWv0bIDxlMj-c1seX9-q9SWL7qxpvNuAaGu8m_epYFAeMth1kTx5DXUarL_Wymqo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 4,
+    "developer": "FOB Solutions",
+    "developerId": "FOB+Solutions",
+    "developerEmail": "support@fob-solutions.com",
+    "developerWebsite": "http://www.fob-solutions.com",
+    "updated": "August 31, 2015",
+    "version": "1.0.2",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "What is OnTime for Wear?On Time for Wear is planner for your daily public transport trips on your Wear device. - Add notifications and never think again that you might miss your public transport. - Forget time and have your morning coffee in peace or focus on work in the office. You will be notified On Time when you need to go. - Live info from public transport vehicles that you can trust on your smart watch.How OnTime for Wear works? - Add your notifications for stops and transport lines -> It is as simple and easy as using your daily alarm app - Forget about it and focus on things that are important -> Your smart watch will notify you On Time with live info so you know exactly when to go.Supported cities: - Tallinn (Estonia)",
+    "descriptionHTML": "What is OnTime for Wear?<br><br>On Time for Wear is planner for your daily public transport trips on your Wear device.<br> - Add notifications and never think again that you might miss your public transport.<br> - Forget time and have your morning coffee in peace or focus on work in the office. You will be notified On Time when you need to go.<br> - Live info from public transport vehicles that you can trust on your smart watch.<br><br><br>How OnTime for Wear works?<br><br> - Add your notifications for stops and transport lines -&gt; It is as simple and easy as using your daily alarm app<br> - Forget about it and focus on things that are important -&gt; Your smart watch will notify you On Time with live info so you know exactly when to go.<br><br><br>Supported cities:<br> - Tallinn (Estonia)",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ZYo0hexBpMVdJxKVpErGs1eSL4UoweuTkVSy6YV9Ce_9L1gN-PlS8uwp-3rQoe6pPWg=h310",
+        "//lh3.googleusercontent.com/oVkc24pMzFfdekx6BxlB2MwhVTAEC60rIyHjrCpdWRYArIKJiAHWpzEVqLSg14YWrYA=h310",
+        "//lh3.googleusercontent.com/6_eywdrVG-ErIuyvJ_n4hyHLO5qYNEIEDxLcbA2vXou-8ULlQrDNzffK_ySMdiTSdw=h310",
+        "//lh3.googleusercontent.com/pwpqlg1zAyg8Z8FQZ9Yijv0-MvtL9mIaPfgXQRP2e2SHd2j4MsW0k1-bRyH83CZenVI=h310",
+        "//lh3.googleusercontent.com/v1wnRqidg67-qHGRGPBLrmjXcRjD8FKouvZFXFnWM8pZY7GBjf9yGOvZu6RT9hxNxjA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Veaparandused v.1.0.2"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fobsolutions.ontime&hl=en&gl=us",
+    "appId": "com.fobsolutions.ontime"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Aarieer Pixel Art Watch Face",
+    "summary": "Pixel Art style Watch Face for your Android Wear",
+    "icon": "//lh3.googleusercontent.com/KaooKHb3VgTZbVgWTxRp3YbAcwvOCr9qhjX5wavQChhcw8XQInAShXCVVCiN9ysRE9wk=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 36,
+    "developer": "Aarieer",
+    "developerId": "Aarieer",
+    "developerEmail": "future2droid@gmail.com",
+    "developerWebsite": "https://twitter.com/aarieer",
+    "developerAddress": "future2droid@gmail.com",
+    "updated": "April 12, 2016",
+    "version": "2.0.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Aarieer Pixel Art Watch Face is a cool looking Pixel Art style watch face for your Wearable device. The clock is designed to run on different round and square devices (LG G Watch, Moto360, etc.)Features:* Android Wear Watch Face* Pixel Art style design* Ambient mode supported (Black and white design to protect your OLED screen)Installation:Install the application and the Watch Face will be automatically visible on your compatibile device. To activate the Watch Face, long press on your watch home page, look for the newly installed Watch Face and select it.Requirements:*Android Wear device 5.0.1 or higher*Android 5.0.1 or higher",
+    "descriptionHTML": "Aarieer Pixel Art Watch Face is a cool looking Pixel Art style watch face for your Wearable device. The clock is designed to run on different round and square devices (LG G Watch, Moto360, etc.)<br><br>Features:<br>* Android Wear Watch Face<br>* Pixel Art style design<br>* Ambient mode supported (Black and white design to protect your OLED screen)<br><br>Installation:<br>Install the application and the Watch Face will be automatically visible on your compatibile device. To activate the Watch Face, long press on your watch home page, look for the newly installed Watch Face and select it.<br><br>Requirements:<br>*Android Wear device 5.0.1 or higher<br>*Android 5.0.1 or higher",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 5,
+        "4": 8,
+        "5": 23
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/TOeYQRDwvUi5NHgqZkBSBzZF5UDiVeQU8X-d8jACIZuvGLnY891auhA5pwgsKJdQwok3=h310",
+        "//lh3.googleusercontent.com/iGTVEVVbBjCu5GEE1FZEJDApwPRPdQwnid5q1JjH-A00QYMPOJoxQ1vOBfpBIyOi0oQ=h310",
+        "//lh3.googleusercontent.com/nJbU4YgJ7wb0SuBE_f4fKD4wC-wBOfMR0Rzgj8GCdX67R7faYDKN_JkxzWZaH5udraE=h310",
+        "//lh3.googleusercontent.com/9fXijBY3R-BDEUWIJmEsrp0Uhrz1o7xLPiqvKG4BT9QNed_oCLSaJJLZnrdzF5Do4T97=h310",
+        "//lh3.googleusercontent.com/wO8d9LSAKkHIR15QmqpNfzYK6ICD_8GLTTP7poYI-tpsvUySa91fxhEwJxnX9qcjAp0=h310",
+        "//lh3.googleusercontent.com/HA3mqgByUwCvCtFgpx0GtrqsW8tafj2vO-vtb9qEu7O7uznMqG9ro_FU9m9rZUa0Sw=h310"
+    ],
+    "comments": [
+        "Awesome pixel art watch face. Glad to see the developer listening to feedback. Now the only thing missing is an optional square face. For square watches, at a minimum it would be nice to have the option of coloring the portion around the circular face black.",
+        "Date won't enable. Cool face. Matches my s7 pixel theme, but date option will not show even when enabled. Would give 5 stars if it did.",
+        "It's not bad, but I'd like to customize colors with a color picker UI. Also square watches support is really barebones, the clock contour line should be square, it would look much better. I'll gladly update my rating if updates implement these features.",
+        "Kinda Cool But needs a way to customize the colors beyond the preset options. A simple RGB slider would do the trick. More importantly, however, is that Ambient Mode doesn't show notifications/cards.",
+        "Awesome little watch face Really cute, easily readable, looks great. A second hand would be great though.",
+        "Awesome! I love this watch face and use it all the time but there absolutely needs to be more color options for for hands and backgrounds! Aside from that it's perfect!"
+    ],
+    "recentChanges": [
+        "-Fixed support for square devices and different resolutions. Tested on different resolutions (280x280, 320x320, 320x290, 400x400, etc.)",
+        "-Graphical improvements in ambient mode for overlapping hands",
+        "-Graphical improvments in interactive mode for hands",
+        "-Fixed louncher icons"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aarieer.pixelart&hl=en&gl=us",
+    "appId": "com.aarieer.pixelart"
+}

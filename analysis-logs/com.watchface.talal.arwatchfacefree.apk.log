@@ -1,0 +1,66 @@
+Soot started on Thu Jun 21 12:36:22 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.watchface.talal.arwatchfacefree.MyWatchFace
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.watchface.talal.arwatchfacefree.apk
+[INFO] MySceneTransformer: ############## com.watchface.talal.arwatchfacefree.MyWatchFace$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   23
+[INFO] FlowGraph: @@@@ Total Methods: 50
+[INFO] FlowGraph: @@@@ Total Stmts:   862
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1_3=[-1], $r1_2=[-1], $r1_5=[-16777216], $r1=[-1], $r1=[-16777216], $r1_1=[-1], $r1_4=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1_19=[-3355444], $r1_18=[-65536], $r1_20=[-7829368], $r1_21=[-7829368], $r1_16=[-3355444], $r1_17=[-3355444]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [red]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 1.251000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:36:26 EDT 2018

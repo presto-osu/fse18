@@ -1,0 +1,60 @@
+{
+    "title": "Ski Tracks",
+    "summary": "The world&#39;s favourite winter sports application",
+    "icon": "//lh3.ggpht.com/a125TbrsUMdstTX1UQDPlrIQkFphGp9SQpT30sE8vsEkBj33YulEgaeN8rmmgL5ngk0=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.3,
+    "reviews": 5024,
+    "developer": "Core Coders Ltd",
+    "developerId": "Core+Coders+Ltd",
+    "developerEmail": "skitracks-android@corecoders.zendesk.com",
+    "developerWebsite": "http://www.corecoders.com",
+    "developerAddress": "Core Coders Ltd,\nCore Coders House, 1st Floor\nWallace Avenue,\nWorthing,\nBN11 5SS\nUK",
+    "updated": "February 25, 2018",
+    "version": "Varies with device",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "size": "Varies with device",
+    "description": "Designed specifically for winter sports, the award winning Ski Tracks is your worldwide, ultimate ski companion. Record your entire day on the slopes without the need for mobile data*. Compare your mountain experiences with your friends, from complete beginners to seasoned professionals, join the millions of people who have already downloaded Ski Tracks.As featured in: CBS - Independent - T3 - Telegraph - New York Times - Engadget - Snowboard Mountaineer - Slope Edge - Snow Vole AwardsBattery efficient technology allows all day recording, no data or phone signal required for recording making Ski Tracks ideal for backcountry or where data roaming charges apply.•\tAndroid Wear•\tPebble•\tSki statistics in one place.•\tSpecifically designed ski analysis.•\tInclude photographs to keep memorable moments.•\tShare in multiple formats.•\tFree Ski Tracks online storage•\tAdvanced mapping tools.*\tWhere data charges apply, set Data Roaming / Mobile Data Off. For more information see Android user guide.GPS will not work accurately indoors.Continued use of GPS running in the background can dramatically decrease battery life.",
+    "descriptionHTML": "Designed specifically for winter sports, the award winning Ski Tracks is your worldwide, ultimate ski companion. Record your entire day on the slopes without the need for mobile data*. <br><br>Compare your mountain experiences with your friends, from complete beginners to seasoned professionals, join the millions of people who have already downloaded Ski Tracks.<br><br>As featured in: CBS - Independent - T3 - Telegraph - New York Times - Engadget - Snowboard Mountaineer - Slope Edge - Snow Vole Awards<br><br>Battery efficient technology allows all day recording, no data or phone signal required for recording making Ski Tracks ideal for backcountry or where data roaming charges apply.<br><br>&#x2022;\tAndroid Wear<br>&#x2022;\tPebble<br>&#x2022;\tSki statistics in one place.<br>&#x2022;\tSpecifically designed ski analysis.<br>&#x2022;\tInclude photographs to keep memorable moments.<br>&#x2022;\tShare in multiple formats.<br>&#x2022;\tFree Ski Tracks online storage<br>&#x2022;\tAdvanced mapping tools.<br><br>*\tWhere data charges apply, set Data Roaming / Mobile Data Off. For more information see Android user guide.<br><br>GPS will not work accurately indoors.<br><br>Continued use of GPS running in the background can dramatically decrease battery life.",
+    "histogram": {
+        "1": 351,
+        "2": 142,
+        "3": 218,
+        "4": 1112,
+        "5": 3201
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KFHb650ej0N9BiP0jf48srpfGbd6WzgLlAJttY8a0QHWhdqMbus2sMOgNTXSB1rHKw=h310",
+        "//lh3.googleusercontent.com/qklbogJZMQr1CUnZw-7cfTMUx2jxp2wKQ3hQmL6h7aiTXXOeIrfjXplEkH17MWWC0Ns3=h310",
+        "//lh3.googleusercontent.com/R0UVAdQtghG68OpAiDKoH7tEUhBY63Oox-37Be5zefOI_6SMnUtBMgo7UcMkX6DMCQY=h310",
+        "//lh3.googleusercontent.com/aduWxQrvdmhNUWo2CiFl0pyJCdsNCbpMDZHHnyDwi8QP7SfDu3ivFQ1yPGxZWwTyHQ=h310",
+        "//lh3.googleusercontent.com/AABpzeCdfTZmBErQmXMZNZ_vyIcCQM5xYEhi5IyJewnV1L8CZ7x4VjNizXNOfUKGmg=h310",
+        "//lh3.googleusercontent.com/BG8JWIpRkJk5NzzWY_iWGFqS7ek3osbo-mlBES8sYNLagU9LGJZbQsKrO3x9tCp8xLBj=h310"
+    ],
+    "comments": [
+        "Ski tracks only tracks the first run of the day. After starting the app pauses tracking after the first run. I've lost several long days of skiing to this bug. When this happens a notification appears in the notification bar that cannot be dismissed and the phone must be rebooted to remove it.",
+        "Best snow app to track where you been and to record speed and distance covered when working. With my 1plus1 5 stops recording after 1 run or an hour? What's going on?",
+        "Have always had this app on either android or iOS and I use it every year without problems. Its THE BEST ski tracking app. Packed with accurate information about your day and easily sharable by social media. Just wish they had an app for samsung watches, when that happens I will give it 5 stars as it will be perfect!",
+        "It used to be great, best app for skiing.  However something went wrong with some of the last updates, and tracking  does not work (on the same phone as last 2 years- Samsung Galaxy6) it only shows  lifting up and does not capture skiing down metrics. Only first slope max speed is recorded, but it is incorrect. Also distance is incorrect. Also noticed that backups from previous years have wrong calendar  dates.   Will reinstall and give a try tomorrow, maybe something went wrong with setup.  === Works fine after reinstall. 5 stars are back. Note for Samsung phone users: disable power saving, else GPS does not work.",
+        "When it works it is great, but even with the latest update, it stops recording on my OnePlus 5 after 30-90min after start. When you fix it I will give it 5 stars, as it is a great app.",
+        "Stops working after run 1. Was good. Now useless."
+    ],
+    "recentChanges": [
+        "* Improvements to the GPS to fix issues on the OnePlus and some Samsung devices.",
+        "* Fixed a major crash in the maps for Samsung devices",
+        "* Added a Fatbike activity",
+        "* Other bug fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.corecoders.skitracks&hl=en&gl=us",
+    "appId": "com.corecoders.skitracks"
+}

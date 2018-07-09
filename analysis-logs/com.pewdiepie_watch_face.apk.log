@@ -1,0 +1,267 @@
+Soot started on Thu Jun 21 11:59:06 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.pewdiepie_watch_face.DigitalWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.pewdiepie_watch_face.apk
+[INFO] MySceneTransformer: ############## com.pewdiepie_watch_face.WatchFace2Service$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   56
+[INFO] FlowGraph: @@@@ Total Methods: 231
+[INFO] FlowGraph: @@@@ Total Stmts:   3199
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.pewdiepie_watch_face.DigitalWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.pewdiepie_watch_face.TiltWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.pewdiepie_watch_face.CalendarWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.pewdiepie_watch_face.CardBoundsWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16776961)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216], $r3_3=[-65536]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r3=[-65281], $r1=[-16776961], $r3_3=[-16711936]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [red]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [fuchsia, blue, lime]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 2.957000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 11:59:12 EDT 2018

@@ -1,0 +1,57 @@
+{
+    "title": "Apollo Wear Inspector",
+    "summary": "Apollo Wear Inspector manages the apps on you android wear with your phone.",
+    "icon": "//lh3.googleusercontent.com/7SYLoCshttbDCSwLDxOkTVLEJMse8Fcsr9SGYA3-kTZlhS9NBvwtMmaeR3-Hfu-tJA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.8,
+    "reviews": 152,
+    "developer": "MobiDev Studio",
+    "developerId": "MobiDev+Studio",
+    "developerEmail": "wearmonster.cook+inspector@gmail.com",
+    "developerWebsite": "https://docs.google.com/document/d/1WfaypICx0nfgfvKg5Rl16lAUImKw9tdiwj8q1XjcPEg/pub",
+    "developerAddress": "Dongbeiwang West Road,Haidian District,Beijing",
+    "updated": "August 12, 2015",
+    "version": "1.4.8",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "DescriptionApollo Wear Inspector manages the apps on you android wear with your phone.  You can browse all your wear apps, and see more details about each of them.1.3 Features1. Show hardware information of watch, including cpu, sensors, manufacturer etc2. Show OS information of watch, including android version, android id etc3. Clean watch memory on handheld4. Create app white list for watch memory clean1.2 FeaturesNotifications on watch, handheld, or both when wear apps are installed, updated, or uninstalledPermissions for each wear app required on watch and handheldShow and clean memory on watchShow internal and external storage on watch1.0 FeaturesStorage space using of each app Permissions of each appShortcut of uninstalling the appDirect link of app details on Google PlayShare app with friendsRun app on watch or handheldMarks apps only on watch, or apps missing the watch part Please note: This is still an early release. if it crash, please contact the developer instead of leaving a bad comment.Email:  wearmonster.cook+inspector@gmail.com",
+    "descriptionHTML": "Description<br>Apollo Wear Inspector manages the apps on you android wear with your phone.  You can browse all your wear apps, and see more details about each of them.<br><br>1.3 Features<br>1. Show hardware information of watch, including cpu, sensors, manufacturer etc<br>2. Show OS information of watch, including android version, android id etc<br>3. Clean watch memory on handheld<br>4. Create app white list for watch memory clean<br><br>1.2 Features<br>Notifications on watch, handheld, or both when wear apps are installed, updated, or uninstalled<br>Permissions for each wear app required on watch and handheld<br>Show and clean memory on watch<br>Show internal and external storage on watch<br><br>1.0 Features<br>Storage space using of each app <br>Permissions of each app<br>Shortcut of uninstalling the app<br>Direct link of app details on Google Play<br>Share app with friends<br>Run app on watch or handheld<br>Marks apps only on watch, or apps missing the watch part <br><br>Please note: This is still an early release. if it crash, please contact the developer instead of leaving a bad comment.<br><br>Email:  wearmonster.cook+inspector@gmail.com",
+    "histogram": {
+        "1": 20,
+        "2": 13,
+        "3": 11,
+        "4": 37,
+        "5": 71
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Is17MK0u2PmGzCHJfANa5bbo9ntMd4HKq9knPmLgyCOuqZEwRBdQDj5RE2gad9HHRj28=h310",
+        "//lh3.googleusercontent.com/9UaxFncWLcmfsoopmEmKAhjANAW6M1em0lOslkvyGWHfMGwuRsdCEWXdXkGIWZvjWg=h310",
+        "//lh3.googleusercontent.com/_XvEGYrXcdmQ7YGWQ14eN0OHN6tDGBRqvt17m6uPnwMANYFYGt_89UCFFS7jfNKosTo=h310",
+        "//lh3.googleusercontent.com/yn5djVcsxzzyF7GTWPVCPZTVUnVDlp35dTv70QL1D-xHa1JbwcrpF9lmbxeODySyO5_w=h310",
+        "//lh3.googleusercontent.com/2CVv4Ef8BzHtAcTkESmx3FPbZ8jzWnCK-S375TC5Te0uJ5MRAJ7K-2k4o9ODxKRMpA=h310"
+    ],
+    "comments": [
+        "Freaking Awesome. Until.... Update: over the last few updates, this app keeps crashing on the Moto360. Uninstalling for now. Not sure if it has anything to do with this app, but call notifications stopped  Working as well.  Enough of a tool to help you do most of the things you might want.",
+        "So, how come the Wear app part of This \"tool\" always fails to show up on my SW3 even after many resets and reinstalls of this app ... I am surprised that apart from myself only 2 other reviews seem to have that problem!  Could be useful if it actually did what it was developed for ...any help from the dev. Would be awesome and if I ever have a working version that does what it should according to the description then I am more than happy to review my review:)",
+        "This app has worked flawlessly and does what it is supposed to and more. I dont know what Drew's issue are. Have you tried to re-install the latest ? - SW3",
+        "Great idea, but useless Just doesn't connect to watch (Moto360_2), so that's it. Incredible there is no alternative.",
+        "Need to fix the problem because the app worked on my lg g3 running lollipop but on my Samsung galaxy s7 running marshmellow it won't install on either of my moto 360 first and second gen. watches.",
+        "Just upgraded my phone from an S4 (Lollipop) where this app worked fine to an S7 (Marshmallow) where I'm getting the same as other reviewers of simply NO connection to the watch whatsoever. Is this android permission related?"
+    ],
+    "recentChanges": [
+        "1. Show watch battery usage history and rough estimation",
+        "2. List and delete files in watch external storage",
+        "3. Show watch connection state on handheld"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wearclan.apollowearinspector&hl=en&gl=us",
+    "appId": "com.wearclan.apollowearinspector"
+}

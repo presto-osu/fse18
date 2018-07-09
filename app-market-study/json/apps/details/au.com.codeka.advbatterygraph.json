@@ -1,0 +1,60 @@
+{
+    "title": "Advanced Battery Monitor",
+    "summary": "Advanced battery monitor widget and notifications.",
+    "icon": "//lh5.ggpht.com/GS8A_8PXwnxBOvGpxLuiqWSJcH3hkkYt4FifbgV7iSwCRALo_d4QfBPE6ckD2suBzg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 62,
+    "developer": "Codeka",
+    "developerId": "Codeka",
+    "developerEmail": "dean@codeka.com.au",
+    "developerWebsite": "https://github.com/codeka/advbatterygraph",
+    "developerAddress": "7/10 Gordon Ave\nChatswood, NSW 2067\nAustralia",
+    "updated": "April 27, 2016",
+    "version": "1.4.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Completely FREE and OPEN SOURCE battery monitoring widget. Shows graph of battery usage over time and allows your to monitor your battery usage.Now with the ability to monitor the battery level of your Android Wear watch as well!On Android Lollipop devices, has the ability to graph battery current (i.e. instantaneous usage) in milli-amperes, and battery energy level, in milli-watt hours.Source code here: https://github.com/codeka/advbatterygraph",
+    "descriptionHTML": "Completely FREE and OPEN SOURCE battery monitoring widget. Shows graph of battery usage over time and allows your to monitor your battery usage.<br><br><b>Now with the ability to monitor the battery level of your Android Wear watch as well!</b><br><br>On Android Lollipop devices, has the ability to graph battery current (i.e. instantaneous usage) in milli-amperes, and battery energy level, in milli-watt hours.<br><br>Source code here: https://github.com/codeka/advbatterygraph",
+    "histogram": {
+        "1": 12,
+        "2": 6,
+        "3": 7,
+        "4": 10,
+        "5": 27
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/NXAxaxpUSk7290zfx4rBEVv8P2PFOa9P2PbRrlwYxYsT2tt7TI1SmPN5nBTi89AGZfA=h310",
+        "//lh3.ggpht.com/_vJCyH_s08JxSePY_JrzWQmYE2QlwbUJFLTLRKHH_FKhOhkWQAv2Kr7BnXhYOT-U2Nk=h310",
+        "//lh3.ggpht.com/9BOE5WCLQKcEr5AkJ7tWCVF0N4wUbAUjb49NkIX1vTrfdL1gy8om5coVOtHVcPC0rMU=h310",
+        "//lh4.ggpht.com/k0PRuRuoImqEs6C7me8StGIY_e-_Pnh8n3y79KwqXQDvAJf1YTKsTYacHf6fmX9MSI0=h310",
+        "//lh4.ggpht.com/fw65wGYCzIYfkXtSCAW7TyE23GjRR4BeLRKTu3DClk7cEFr8_EZrjvxgnhFKH19fqA=h310",
+        "//lh4.ggpht.com/q1lFBqnIG11SPDvjPG9d68F3xLa_0L7hq_UWn4W9Aa00jN7KF775KdC4moBz8Rog4Uo=h310"
+    ],
+    "comments": [
+        "The wear graph is great. I was able to use it to prove to a watch face/app designer that their app caused battery drain. Now that I have two android wear watches though I need to request that multi-watch support would be appreciated. Many thanks.",
+        "Wear battery graph sold it to me It's not perfect, I had to install it twice before it showed up in my launcher. But now I can monitor BOTH phone and watch batteries easily. I've not tried the CSV export yet, so I can't comment.",
+        "Perfect for Android wear I wanted a widget capable of displaying battery info from my watch. This does the job quite well.",
+        "I have used this for a while. It is OK, but it show 1000 times less current. Normally it show -0.1 to -0.5 mA. It should be A.",
+        "Needed a widget to quickly check my Wear battery level while I'm not wearing it around the house. This fits the bill perfectly.",
+        "Excellent little battery monitor widget"
+    ],
+    "recentChanges": [
+        "1.4.2 - Fix possible crash when exporting results",
+        "1.4.1 - Fixed crash in settings dialog.",
+        "1.4.0 - Added a \"smooth\" option to the temperature and current graphs, to smooth out the bumps.",
+        "1.3.0 - Added the ability to define multiple independent widgets, each of different sizes, with different graphs and so on.",
+        "- On Android Lollipop devices, can now monitor instantaneous current (in milliamperes) and battery energy level (in milliwatt hours)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=au.com.codeka.advbatterygraph&hl=en&gl=us",
+    "appId": "au.com.codeka.advbatterygraph"
+}

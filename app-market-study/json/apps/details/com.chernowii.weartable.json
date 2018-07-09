@@ -1,0 +1,47 @@
+{
+    "title": "Periodic Table for Wear (Unreleased)",
+    "summary": "Chemical elements on your wrist",
+    "icon": "//lh3.googleusercontent.com/JFJBpOoVj7ePRRRt4avDnbNu9MuTB0bsrNdWOS8-Hr9zjz93XPBEKVjR6XTNXbJy3k_w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Konrad Iturbe - Chernowii",
+    "developerId": "8327692895936242590",
+    "developerEmail": "mail@chernowii.com",
+    "developerWebsite": "http://chernowii.com",
+    "developerAddress": "The internet\nAFK: Calle Timoteo Padros 14, 28200 El Escorial, Madrid, Spain",
+    "updated": "March 20, 2016",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app is a periodic table for Android Wear smartwatches, works offline too!To use it, slide the slider to the corresponding group and press the button, the elements from that group will be displayed in a list, click an element to get the atomic number.This application is open source, the code is hosted on GitHub: https://github.com/KonradIT/WearTable",
+    "descriptionHTML": "This app is a periodic table for Android Wear smartwatches, works offline too!<br>To use it, slide the slider to the corresponding group and press the button, the elements from that group will be displayed in a list, click an element to get the atomic number.<br><br>This application is open source, the code is hosted on GitHub: https://github.com/KonradIT/WearTable",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_yGPk_hVplqyWNmdDuANR_ADI3_hK4neXKQqI7oH5A-YAILVt4aD1syL9OPiCs8hKQ4=h310",
+        "//lh3.googleusercontent.com/rpomm7-Hd3HX4lzvL2poBcCaN7NXhIMkXsuN3WmcCXirCfmpmF-5v2S1GB_WiA_hy08=h310",
+        "//lh3.googleusercontent.com/h8ucTFBXncg8sQvbLM0fAQJ92NjLZBsvtiMMjs4IshtTAt6YUmpv_btxAmzao7_QhwA=h310",
+        "//lh3.googleusercontent.com/596jRC-6SOACC3mDcQViYihDZKfDESgOAHHL5cX663hb3MpmlSA9JAxl2au4o88yTDM=h310"
+    ],
+    "video": "https://www.youtube.com/embed/b3SgcZWAarU",
+    "comments": [],
+    "recentChanges": [
+        "Fixed the UI and added masses"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chernowii.weartable&hl=en&gl=us",
+    "appId": "com.chernowii.weartable"
+}

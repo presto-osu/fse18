@@ -1,0 +1,56 @@
+{
+    "title": "Vibration Notifier",
+    "summary": "Let your device vibrate every X min. when you missed a call / received an eMail",
+    "icon": "https://lh4.ggpht.com/SxkjtH-EiEjy5KqbhbKQ2JooXDAbwjrXfjZwzuWNLNGroHP-qy6tO2PFJzhzOoWRb1s=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4,
+    "reviews": 2522,
+    "developer": "j4velin",
+    "developerId": "6602470455848506235",
+    "developerEmail": "j4velin.development+play@gmail.com",
+    "developerWebsite": "http://www.j4velin.de",
+    "developerAddress": "Thomas Hoffmann\nSchwanhäußerstr. 5\n90408 Nürnberg",
+    "updated": "November 17, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Maybe you know this situation: Your phones lays on your desk, you're in the kitchen and you get called. You do not hear your ring and when you come back to your desk, you don't notice that you were called because your device has no notification LED or you don't notice that little blinking...Vibration Notifier offers a solution to this scenario: When you have a missed call, unread SMS or any other event*, the app keeps vibrating every X minutes for Y times or until you turn on the display of your device.Troubleshooting: The app won't beep if your device is set to silent mode etc. Please note that the app does not change the vibration setting of the other apps, it will only do additional vibrations/beeps if you don't turn on your display before!An optional feature is available as an in-app purchase (0.99 EUR) with which you'll get these repeating vibrations on your Android Wear smartwatch!* all apps which notify you about new events by showing a notification in the Android status bar are supported, like WhatsApp, GoogleTalk, Twitter, facebook, etc. Note that this require access to your notification bar---------If the app doesn't work: Please check if your device manufacturer implemented a \"feature\" which prevents apps from running, like Samsung's \"Battery Optimizer\", Sony's \"Stamina\", Huawei's \"Protected Apps\" or anything like that.---------Silent hours: Please note that when you set up a silent hours interval in the app, only Vibration Notifier itself won't vibrate or beep. It does not mute other apps so if you receive a new mail, your Gmail app might still beep!Initial vibration: The app vibrates/beeps after the time set in the app - it does not vibrate/beep immediatelly when you receive a notification (the notifying app is responsible for that vibration)! However, there is an option in the app to get the initial vibration on the connected Android Wear device.---------The \"vibrate on connected Android Wear devices\" requires an \"Android Wear\" smartwatch. It does not work on a Pebble or a Samsung Tizen watch. You can use the option to send a test command to the watch to check if you're having a compatible device.---------This app uses Accessibility services. The accessibility service is necessary on Android versions prior to 4.3 to be notified about new notifications. The accessilibty service is not needed on newer versions of Android.Permissions:VIBRATE - obviously necessary to enable the \"vibrate every X min\" featureREAD_PHONE_STATE - needed to detect missed callsRECEIVE_SMS & READ_SMS - needed to detect unread SMSWAKE_LOCK - seems like this is needed on some device to avoid infinite vibratingREAD_CALL_LOG & READ_CONTACTS - needed to differentiate between missed & rejected callsREAD_CONTENT_PROVIDER & GET_ACCOUNTS - necessary for new method to get unread GmailsWRITE_EXTERNAL_STORAGE - Android Wear communication",
+    "descriptionHTML": "Maybe you know this situation: Your phones lays on your desk, you&apos;re in the kitchen and you get called. You do not hear your ring and when you come back to your desk, you don&apos;t notice that you were called because your device has no notification LED or you don&apos;t notice that little blinking...<br><br><b>Vibration Notifier</b> offers a solution to this scenario: When you have a missed call, unread SMS or any other event*, the app keeps vibrating every X minutes for Y times or until you turn on the display of your device.<br><br>Troubleshooting: The app won&apos;t beep if your device is set to silent mode etc. Please note that the app does <u>not</u> change the vibration setting of the other apps, it will only do additional vibrations/beeps if you don&apos;t turn on your display before!<br><br>An <u>optional feature</u> is available as an in-app purchase (0.99 EUR) with which you&apos;ll get these repeating vibrations on your <b>Android Wear</b> smartwatch!<br><br>* all apps which notify you about new events by showing a notification in the Android status bar are supported, like WhatsApp, GoogleTalk, Twitter, facebook, etc. Note that this require access to your notification bar<br><br><br>---------<br>If the app doesn&apos;t work: Please check if your device manufacturer implemented a &quot;feature&quot; which prevents apps from running, like Samsung&apos;s &quot;Battery Optimizer&quot;, Sony&apos;s &quot;Stamina&quot;, Huawei&apos;s &quot;Protected Apps&quot; or anything like that.<br><br>---------<br><b>Silent hours:</b> Please note that when you set up a silent hours interval in the app, only <i>Vibration Notifier</i> itself won&apos;t vibrate or beep. It does <u>not</u> mute other apps so if you receive a new mail, your Gmail app might still beep!<br><b>Initial vibration:</b> The app vibrates/beeps after the time set in the app - it does <u>not</u> vibrate/beep immediatelly when you receive a notification (the notifying app is responsible for that vibration)! However, there is an option in the app to get the initial vibration on the connected Android Wear device.<br><br>---------<br>The &quot;vibrate on connected Android Wear devices&quot; requires an &quot;Android Wear&quot; smartwatch. It does not work on a Pebble or a Samsung Tizen watch. You can use the option to send a test command to the watch to check if you&apos;re having a compatible device.<br><br>---------<br>This app uses Accessibility services. The accessibility service is necessary on Android versions prior to 4.3 to be notified about new notifications. The accessilibty service is not needed on newer versions of Android.<br><br><b>Permissions:</b><br>VIBRATE - obviously necessary to enable the &quot;vibrate every X min&quot; feature<br>READ_PHONE_STATE - needed to detect missed calls<br>RECEIVE_SMS &amp; READ_SMS - needed to detect unread SMS<br>WAKE_LOCK - seems like this is needed on some device to avoid infinite vibrating<br>READ_CALL_LOG &amp; READ_CONTACTS - needed to differentiate between missed &amp; rejected calls<br>READ_CONTENT_PROVIDER &amp; GET_ACCOUNTS - necessary for new method to get unread Gmails<br>WRITE_EXTERNAL_STORAGE - Android Wear communication",
+    "histogram": {
+        "1": 304,
+        "2": 125,
+        "3": 205,
+        "4": 440,
+        "5": 1448
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/zWPGwzeDPRudb_5z_rvtFFi5Ds_aas5iMfzLbORIFYa-oblZqIuBAZGpPMye3p4IOfI=h310",
+        "//lh5.ggpht.com/0sS5HYo-5HU4Miijvr5lSmc-Wubh72zV8KmidDoOLL6F5j4swSkW8QYo3GTIYkft-SPq=h310",
+        "//lh6.ggpht.com/az2BzA20cYFg5-phxU4Z0pl2sFvF23uSHaAB6PFAa24J7ODGuP86YMwcTaDehZI0wA8=h310",
+        "//lh6.ggpht.com/rz93PcI-Bmnd8tIHpowudYY13c0A0c9YWJlephKaevC9uBFnYsnQjmhckYZUETEhoPM=h310"
+    ],
+    "comments": [
+        "My 1st generation Pixel has a wimpy vibration, so I often missed the first notification. By repeating the vibration and vibrating for longer, this app has prevented me from missing important messages.",
+        "Doesnt increase vibration times or strength",
+        "Very simple and works great. Couldn't ask for more.",
+        "great aap",
+        "Such a life saver! Problems with getting notifications on my Sony Xperia e5 and this app works around it. Would give five stars if it offered instant notification beeps",
+        "Awesome app.  This feature should be part of stock Android and  I can't live without this app.  I was missing notifications after moving from a Moto X which had a great feature called Active Display.  My new Moto E has a watered down version of Active Display so this app has solved my problem of missed notifications.  Thank you!!"
+    ],
+    "recentChanges": [
+        "- add more information about the accessibility service required on Android versions prior to 4.3",
+        "- fixed contact and FAQ links on Android pre-4.4 version"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.j4velin.vibrationNotifier&hl=en&gl=us",
+    "appId": "de.j4velin.vibrationNotifier"
+}

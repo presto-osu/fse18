@@ -1,0 +1,50 @@
+{
+    "title": "Nautilus Watchface",
+    "summary": "Minimal, elegant and stylish watchface.",
+    "icon": "//lh3.googleusercontent.com/X1QTEjYuElmyn9mXTndcRtzg0QOuHN_zbIDeiG0sAjiHlc9V3JR84rkIpqXPoeNgURHE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 7,
+    "developer": "Andrey Fomchenko",
+    "developerId": "Andrey+Fomchenko",
+    "developerEmail": "fomand@gmail.com",
+    "developerAddress": "Marupes st. 21-9\nRiga\nLatvia\nLV-1002",
+    "updated": "September 24, 2017",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watchface inspired by the sheer beauty of a nautilus shell. Browse through multiple presets to find the one that matches your style best or create your own! Every visual element is customizable - fine tune colors and shading as desired.",
+    "descriptionHTML": "Watchface inspired by the sheer beauty of a nautilus shell. Browse through multiple presets to find the one that matches your style best or create your own! Every visual element is customizable - fine tune colors and shading as desired.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/eHsBkuoV3OFDdPNbWFuDh3TNuRJkykv3hrJuVInc_DSXsu7ohKEGihQKHkr_GRidJ7U=h310",
+        "//lh3.googleusercontent.com/2OuRViSoaceTT5NiDX4cfEFFcxlxKPEIe4V3PT5ZIOfTQDT4f3AYl0XdS6yZdbIjwQ=h310",
+        "//lh3.googleusercontent.com/gkjTLBT4NZbOfbzZGFenMpUls5UxEH08N7ggQPMgM3eAGU3PXsnEZsh1YmhHDUV_sdKV=h310",
+        "//lh3.googleusercontent.com/O4sg7rBP6xC9ffItZ1VsNzsouu2mYjpRB_ZvScXayeBuyp7a8qr5dyhMQh7OvuQV-g=h310",
+        "//lh3.googleusercontent.com/zSyxohUl5SNxwpGHtOsIOyX-utX52Q80qVt8Bhe6kMm72oLr4dJCMa1dALrOrMQTmuw=h310",
+        "//lh3.googleusercontent.com/Zo7fcXDsqum1QBHdY9i-T4uorRpDQlBVtZ5i9Y5moL6M2Osv4SixzZXeg66pVTrgnw=h310"
+    ],
+    "comments": [
+        "It is nice, simple and beautiful. The thing I liked most is the animation when the theme color changes. Trippy and elegant. Well done!  I only miss complications support.",
+        "Elegant. Just lacking complication support."
+    ],
+    "recentChanges": [
+        "Initial release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=me.fomand.nautiluswatchface&hl=en&gl=us",
+    "appId": "me.fomand.nautiluswatchface"
+}

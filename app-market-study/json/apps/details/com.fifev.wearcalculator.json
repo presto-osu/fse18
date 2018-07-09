@@ -1,0 +1,53 @@
+{
+    "title": "SciCalc: Wear calculator",
+    "summary": "Scientific calculator for Android Wear watches",
+    "icon": "//lh3.ggpht.com/03jnzAaKCpyTVdGLkZ-D5QF3D4PbaAH3rBO827lIMmuxUL-hkxqRyFB0s-LMGXi34A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 38,
+    "developer": "Fife-V",
+    "developerId": "Fife-V",
+    "developerEmail": "android@fifeventures.co.uk",
+    "developerWebsite": "http://www.fife-v.com/",
+    "updated": "August 4, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Do you need more than a simple calculator? Then swipe to the left to get a page full of scientific functions on the Fife-V Wear calculator. Swipe again to bring the digits page back.You’ll have access to all these operators: %, 1/x, sin, cos, tan,sin-, cos- tan-,  e, square root, pi, x!, x^2, x^3, x^n, +-Wear Sci Calc is a calculator app for the Android Wear Platform from Fife-V. Check out our survey app Ireckon: https://play.google.com/store/apps/details?id=com.fifev.irekon",
+    "descriptionHTML": "Do you need more than a simple calculator? Then swipe to the left to get a page full of scientific functions on the Fife-V Wear calculator. Swipe again to bring the digits page back.<br><br>You&#x2019;ll have access to all these operators: %, 1/x, sin, cos, tan,sin-, cos- tan-,  e, square root, pi, x!, x^2, x^3, x^n, +-<br><br>Wear Sci Calc is a calculator app for the Android Wear Platform from Fife-V. <br><br>Check out our survey app Ireckon: https://play.google.com/store/apps/details?id=com.fifev.irekon",
+    "histogram": {
+        "1": 7,
+        "2": 6,
+        "3": 0,
+        "4": 13,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/n_LTW2y3rEpScGobyGsBfzYqO9LMHSQGBwZS90lCJ0VECrqic6EA-WonGZycH1vBgNo=h310",
+        "//lh6.ggpht.com/UMfgqg1Kcb8oH1eRUA2yW3brHEn_x21RZV7DFdiINaTrE6mUFKFE7nCOCJ63sCDXq_A=h310",
+        "//lh6.ggpht.com/ZgUhgTuBPXUjOPhl4zxi9xXd6QhMzG_zZaaHCAlnswFsGl5qw_2nT12spyLnFfXfuCI=h310",
+        "//lh5.ggpht.com/Cn8S6w72rHx6mRTdM3dJ4cK8YbM7IVxVxaegxRRMNIvxnbiUvpeI5E53Y6F4jIBxMn8=h310",
+        "//lh5.ggpht.com/X_B2O6ZSAdfPIDY4z_rLHEH28MGZKAiVQSYaVERuXWQmdmFs_DvTgQazpEviLa4jZGhy=h310"
+    ],
+    "comments": [
+        "Doesn't work Moto 360",
+        "Doesn't start Moto 360",
+        "Doesn't work",
+        "Too inaccurate, it passes the 10/3*3 test but fails 25/9*9. Also, sqrt(6) to the 2nd power does not yield \"6\" as it is supposed to for a scientific calculator...",
+        "Nice calculator It's good to have some more advanced functions that the other calculators I've tried. I really seemed to miss not having +- but this has it."
+    ],
+    "recentChanges": [
+        "Fixed square root bug."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fifev.wearcalculator&hl=en&gl=us",
+    "appId": "com.fifev.wearcalculator"
+}

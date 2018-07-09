@@ -1,0 +1,46 @@
+{
+    "title": "Land Rover Watch Face",
+    "summary": "A series of landscapes curated by Land Rover that adapt to your time &amp; altitude.",
+    "icon": "//lh3.googleusercontent.com/GZ6ukgNlGkUV68FVd09dGssuoYTI-K0mdiAHl7q4EO7PwkmB62nNDBED31Om1UV7aj37=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 21,
+    "developer": "Land Rover North America.",
+    "developerId": "Land+Rover+North+America.",
+    "developerEmail": "marc.blaskey@wunderman.com",
+    "developerWebsite": "http://www.landroverusa.com",
+    "updated": "September 2, 2015",
+    "version": "1.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Designed for the intrepid explorer, the Land Rover watch face combines functional features, a clean-cut interface and stunning landscape photography. The watch face uses the smartwatch altitude meter to track your elevation according to sea level, adapting the position of the landscapes as you climb and fall. What’s more, each landscape pans across your watch face as the day progresses, making subtle movements once every minute.",
+    "descriptionHTML": "Designed for the intrepid explorer, the Land Rover watch face combines functional features, a clean-cut interface and stunning landscape photography. The watch face uses the smartwatch altitude meter to track your elevation according to sea level, adapting the position of the landscapes as you climb and fall. What&#x2019;s more, each landscape pans across your watch face as the day progresses, making subtle movements once every minute.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 4,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/QO27FETs0b0CeFikadp-F37nsBzNAbskYG1-E6JzCstWn5ABIOXaLwCDFX1w6XRqDQ=h310",
+        "//lh3.googleusercontent.com/lxlxlo7fHWLhmuzz8xe8-aNmTtqkRYH8rVOkmIHYdeBCVAY0PagZUlulHPxHRu7kLtY=h310",
+        "//lh3.googleusercontent.com/RH3opS-PQUXWEUSR6TlbZl0SoqfA4fWkr1QW_KYsofUgO48yo0yYZy73KO3uBtjAn-rZ=h310",
+        "//lh3.googleusercontent.com/1XLc1Q_IWp3OECr4N2pMNqgCsYq2EUMbpeJK7HxqD0b2WquBPRUrmeL__Dk8EoM1k9M=h310"
+    ],
+    "comments": [
+        "Battery Drain even when not in use I went on vacation for a week, left my watch home, turned Bluetooth off on the phone. Every day this watch face had consumed 1% of my phone's battery. 2 stars because I like the way it looks."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.landrover.watchface&hl=en&gl=us",
+    "appId": "com.landrover.watchface"
+}

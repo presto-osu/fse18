@@ -1,0 +1,47 @@
+{
+    "title": "Trending Time",
+    "summary": "A watch face showing the latest Twitter trending topics - right on your wrist!",
+    "icon": "//lh5.ggpht.com/IO5FhjhDD_BMEAer5RbIMgNGMV5JukqVJaeG4DdrrqgzXPmSW5xcGMukiGrYFh8JJ-I=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 0,
+    "reviews": 0,
+    "developer": "900 Square Feet Entertainment",
+    "developerId": "900+Square+Feet+Entertainment",
+    "developerEmail": "jasonsalas671@gmail.com",
+    "developerWebsite": "http://plus.google.com/+JasonSalas",
+    "developerAddress": "600 Harmon Loop Road\nDededo, Guam 96929",
+    "updated": "January 30, 2015",
+    "version": "1.0.1",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Trending Time was built as a teaching tool for development with the Android Wear Watch Face API and also as an entertainment utility - the stuff that pops up throughout the day can be truly funny and often extremely informative. The lesson here is that watch faces don't always have to be all about expressing the time itself - the emphasis for this app is on data, not the time.USAGE* Launch the Trending Time app on your paired smartphone and tap the \"Start updater\" button, which activates updates and syncs them with your watch.* You can safely close the app once the updater is running. If you need to stop updates, just launch the mobile app again and tap \"Stop updater\".* Select the \"Trending Time\" watch face on your smartwatch or from the Android Wear companion application.The update process fires once an hour. You can find out more about this app, see how it's built, and fork its code at https://github.com/jasonsalas/TrendingTime. We advocate open source!",
+    "descriptionHTML": "Trending Time was built as a teaching tool for development with the Android Wear Watch Face API and also as an entertainment utility - the stuff that pops up throughout the day can be truly funny and often extremely informative. The lesson here is that watch faces don&apos;t always have to be all about expressing the time itself - the emphasis for this app is on data, not the time.<br><br>USAGE<br>* Launch the Trending Time app on your paired smartphone and tap the &quot;Start updater&quot; button, which activates updates and syncs them with your watch.<br>* You can safely close the app once the updater is running. If you need to stop updates, just launch the mobile app again and tap &quot;Stop updater&quot;.<br>* Select the &quot;Trending Time&quot; watch face on your smartwatch or from the Android Wear companion application.<br><br>The update process fires once an hour. You can find out more about this app, see how it&apos;s built, and fork its code at https://github.com/jasonsalas/TrendingTime. <br><br>We advocate open source!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/NXlTA6Sl_RxKBr313dtMp3AURcidb_s5bmb9GYAOc3M4Y0ewd6uknAvewlnbtXw1cw=h310",
+        "//lh3.ggpht.com/S8pSex_nh_N0p4Ktjem3PnQd-vrm_abfCu1kRWw8FUUuBxGc30be8ojNLRmrsrMJueAK=h310",
+        "//lh5.ggpht.com/ivZWlXw48XiGrnb6EKhDRHqqA0OwZyph7c17EwPs7_54fN_N1FkgN4CAWKLtyERpbkc=h310",
+        "//lh3.ggpht.com/0yZsV08JV7HxkM1saxBtU6aFeQhXKMNF7lc5SzhMjAcGzoiyek0UWHmKKtPNzc0vXUxd=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "1.0.1 - Bug fixes, new logo, and performance enhancements."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wearables.jasonsalas.com.trendingtime&hl=en&gl=us",
+    "appId": "wearables.jasonsalas.com.trendingtime"
+}

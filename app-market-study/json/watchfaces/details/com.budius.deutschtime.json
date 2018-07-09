@@ -1,0 +1,52 @@
+{
+    "title": "Deutsch Time",
+    "summary": "Android Wear Watch Face that shows the time in German.",
+    "icon": "//lh5.ggpht.com/gvtAitVH3VKCnGwWho0A_1dMdV1-vMpOcZR4AB-aO-0qrukH4jWIOSVJ3S7MT7oLz8ef=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 4,
+    "developer": "nothing inc",
+    "developerId": "nothing+inc",
+    "developerEmail": "budius.nothing.inc@gmail.com",
+    "updated": "March 1, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Simple Android Wear Watch Face that shows the time in German.Include all the oddities of the way time is said in Germany, including \"Kurz vor halb zwei\" and \"Viertel nach sechs\"",
+    "descriptionHTML": "Simple Android Wear Watch Face that shows the time in German.<br><br>Include all the oddities of the way time is said in Germany, including &quot;Kurz vor halb zwei&quot; and &quot;Viertel nach sechs&quot;",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/_E3ED1ebI0naA2KoTx6LcxNNrXemdJjwa7OJfKoxKAzBgzAEwY_05CHie741Rogz78g_=h310",
+        "//lh6.ggpht.com/ipDDXWXtXlc-oH1gw0R1T_PiAyedUurPCmwB0VyFX68Q943pK2uroS25eUqV3pHYav8=h310",
+        "//lh3.ggpht.com/iaBHjNUHPghD9qe3gi67iD19aivYlfFTAme1lcIV4RhhplWd8LiiDuaByCOVNR7XTVn7=h310",
+        "//lh4.ggpht.com/Zxo9VEKH-SOQik960eKoHjpj9_kG4oNzoo_AvfHtPXoe62X4AGD_fFSDCYZ2WDrqTA=h310",
+        "//lh6.ggpht.com/SVJu3ZL0dpOJ-5yYaw7tv_NABbDvEJoN8ydrjBi9LaTk_zRnAy04zywikWiEjO7j-Q=h310",
+        "//lh5.ggpht.com/w8qGTwbqMEinwk2F_93biGeKr78otiENMqyIB2aHE6_gGQW6hgZ6tcLlpOJ6XSLkRW4=h310",
+        "//lh4.ggpht.com/DupDj3kMYNSMe7X6iEvZ-dYEv4LPZuSgIwV5hKE9wVGG7QxFn7hBLgWrA0rgcCDMFhI=h310",
+        "//lh6.ggpht.com/ovn7Gly3CmBuLYSVKtQ8VhhCEnCkKSBAJLlOS4No8TTV06CVUnzKgF4mNkkMH3_Kz-Q=h310"
+    ],
+    "comments": [
+        "It would be much better if You added more data in the watch like date and weather......."
+    ],
+    "recentChanges": [
+        "- Improved text positioning when peek card is visible",
+        "- darker dimmed color to better match peek card text color"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.budius.deutschtime&hl=en&gl=us",
+    "appId": "com.budius.deutschtime"
+}

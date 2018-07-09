@@ -1,0 +1,54 @@
+{
+    "title": "Wear GBC",
+    "summary": "Retro gaming on your wrist",
+    "icon": "//lh3.googleusercontent.com/3FpvXUbgAYPJQPtrUBqx8l4_DcmbQj1XL3Oq7LskbaG-Psi_8qrle1-nk_Bf4qhZq1o=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 126,
+    "developer": "Bostwickenator",
+    "developerId": "5869154058796608973",
+    "developerEmail": "bostwickenator@gmail.com",
+    "developerWebsite": "http://bostwickenator.org",
+    "developerAddress": "106 Studholme St,\nChristchurch,\nNew Zealand",
+    "updated": "September 5, 2015",
+    "version": "1.2.0",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Wear GBC lets you play your favourite old games right from your wrist. Use the companion app to sync games to the wearable app and then play them even without your phone.",
+    "descriptionHTML": "Wear GBC lets you play your favourite old games right from your wrist. Use the companion app to sync games to the wearable app and then play them even without your phone.",
+    "histogram": {
+        "1": 6,
+        "2": 5,
+        "3": 15,
+        "4": 39,
+        "5": 61
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/CS6apXgMYArMPKRRkOYz9WZGAr2DN1D8rKGiwYB54ew3a4poUeaB390uq0mXcElYCA=h310",
+        "//lh3.googleusercontent.com/K0zJPN9rQLYDXkwehuOKDMRWrmn0NA9LaWWL_RJ1IAHwOCa2R95jru8ED-kffPShb1JA=h310",
+        "//lh3.googleusercontent.com/08OubBQV84Ia_I6yp8U6C6CWNsFiqoDZTYGOOFk263sHgkdlK1nD7d3mjkDFTSqTiQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/pPgrFBm2lG0",
+    "comments": [
+        "Excellent proof of concept, but needs a lot of work Pokemon runs full speed for me, which I found very impressive, and the tilt controls are alright. I much prefer the touch controls, however if you accidentally partially drag the screen while trying to input a direction it then thinks that you're holding the direction, and the only way to fix it is to start from the last save. I'd also like to see more customisation over the controls- even having faint outlines where the buttons are would be very helpful. Destroys battery too...",
+        "Great little app! This app works great! Honestly, even playing pokemon with the dpad mapped to motion controls feels too cumbersome. But playing with all touch works great. It would be cool if there was an option for a simple mask to help me see the borders of each button. Even a simple transparent 3x3 grid would be perfect. All in all, its worth the money IMO!                       PS:  where the directional button sticks when you accidentally swipe....just press the directional button that is stuck and an t will reset.",
+        "Some Suggestions... I suggest adding more options, such as customizable controls, linear filtering toggle, an option to color original gameboy games, maybe an option that allows you to edit the opacity of the controls. The tilt controls toggle doesn't work. And as a side note, maybe an NES wrist emulator app, and Gameboy Advance wrist emulator (with a frameskip option). I seriously recommend this app and love it. Thank you for your support.",
+        "Please don't stop working on this Amazing feat right here.   Works with some not all games but for what it is now, it is amazing.   I just hope the developer doesn't give up on This program.   Also an optional D-pad would be amazing (never mind disabling tilt enables the virtual d pad).  Keep up the good work.",
+        "This is great Thank you for creating this app. I love the concept. I have asus zenwatch2 and got some games to run smoothly but I have the color issue B&w only and some objects are not showing. So not sure if this is meant for original b&w games only or not. Will DL some different roms and see if there is any difference. Would love to see NES or game gear emulator in future. That would be sweeeet.",
+        "Great! But it has plenty of room for improvement This is awesome, no arguing with that. However, it can be quite buggy and slow down a lot. It would also be amazing if more control options were given such as Bluetooth controllers"
+    ],
+    "recentChanges": [
+        "Remove or restart a game by long holding on it."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.bostwickenator.android.weargbc&hl=en&gl=us",
+    "appId": "org.bostwickenator.android.weargbc"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Lyon VeloV (bikes)",
+    "summary": "Lyon VeloV, bikes in Lyon",
+    "icon": "//lh3.ggpht.com/xsQnSBweMqDncAMIYt0AM7NYTbK5-q5x1Ct0DRv5arvCgsfOmmk525GUJIllhzgjF7A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 379,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.velov@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Lyon Velo'V is a tool allowing you to view the status of bike stations Velo'V networks, of Lyonand suburbs. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or name.You can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Lyon Velo&apos;V is a tool allowing you to view the status of bike stations Velo&apos;V networks, of Lyonand suburbs. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name.<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 12,
+        "2": 3,
+        "3": 17,
+        "4": 109,
+        "5": 238
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-xLHaFfp7fd-GXXTqbQp8kjUgoBbK2qhrAlFoHGcknTUhD8fxemGmAEixCRZmjyE_yQ=h310",
+        "//lh3.googleusercontent.com/bWh-OlSolvjQ8OVaXA7lCj-fkdQxVBM3S7VFPBha6wFdFMwx9ANywX_7HnyjmmcvEHEQ=h310",
+        "//lh3.googleusercontent.com/LJzwrLkwkSWcE1V0qZkZN55Cg5BceB1okVF2ZVvA_5voOZjH6qdHDmgQDcfReXKKD5I=h310",
+        "//lh3.googleusercontent.com/vvXy3h6o5M-x09g5ZDZsvH8cgbS8aw-Cdwl1uJD_pwZmCkVvHS-3GmOi-cus6Ooc3ZE=h310",
+        "//lh3.googleusercontent.com/nx-ffPO6M6eNt2cwMfi-Em_XXmOPzaEtfSwc_sayEpmkszj5aR7k5PX9tFV8GHh8aw=h310",
+        "//lh3.googleusercontent.com/SX7AhA2HPiFipvefyguQvM6TpOpPlrZWMT5mQbTOkj_jtGWCw_0Zg-5XRQAp3EsdwBs=h310",
+        "//lh3.googleusercontent.com/HDEDEwmhorrWTIXM1zFj_dVE5La2wkZbjjgEG6Zxb-ZKEATwk0GTw9i0-KiiSwLM5Ks=h310",
+        "//lh3.googleusercontent.com/inSuBtu6UZz-tYBqQNslOr8zSAy526gFWfxkIrnOzl7d6OI1IZgeeoGHX_Hp8Rztjg=h310"
+    ],
+    "comments": [
+        "La meilleure app. Dommage que la géolocalisation ne soit pas active.",
+        "Very useful",
+        "No sincronized The app is not sincronized.  There is a significant  difference between  the bicycles or slots available between  the app and the real thing.",
+        "Fonctionne bien Rempli son rôle sans trop de bug",
+        "Super app mais... Une app géniale malheureusement elle est très pénible en gratuit.  Les pubs arrivent quand elle est fermée et c'est très pénible.  Le mieux c'est d'acheter l'app.  Testez la d'abord pour être sûr.",
+        "Great! but No offline maps. it's a shame Everything works on my tablette to locate stations nearby gps, compass functionality, and the stations are there, but in the middle of nowhere since the background map is empty. Do something please! Thanks"
+    ],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.lyonvelov.view&hl=en&gl=us",
+    "appId": "com.michgauz.lyonvelov.view"
+}

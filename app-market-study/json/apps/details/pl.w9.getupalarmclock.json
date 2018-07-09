@@ -1,0 +1,59 @@
+{
+    "title": "MoveUp! Alarm Clock for Wear",
+    "summary": "MoveUp! Alarm Clock for Android Wear - gently pushing you out of the bed.",
+    "icon": "//lh6.ggpht.com/C2OJLAvAqxlFOXXYLJ-KDsYcBwo70g_1IdfEHi1onnfK70G0ylfh4DIsSlxcJpKUqw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 34,
+    "developer": "w9 software",
+    "developerId": "w9+software",
+    "developerEmail": "w9@w9.pl",
+    "developerWebsite": "http://moveup.zone",
+    "developerAddress": "ul. Nickla 23/10\n41-908 Bytom\nPOLSKA",
+    "updated": "February 4, 2016",
+    "version": "1.6.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "MoveUp! Alarm Clock for Android Wear is an innovative alarm clock motivating you to really get up from the bed. This standalone app (does not rely on your phone or bluetooth connection) offers some neat features, especially adaptive vibration alarm that can be dismissed only by walking.You can also use it as a simple, adaptive vibration alarm (dismissed by swipe gesture). Features include:- set alarm precisely without voice- walk or swipe to dissmiss- stunning adaptive vibrations- trigger GuruWear formulas- repeated alarms- custom colors & captions- can act as default alarm for voice actionsVisit www.moveup.zone for more info.",
+    "descriptionHTML": "MoveUp! Alarm Clock for Android Wear is an innovative alarm clock motivating you to really get up from the bed. This standalone app (does not rely on your phone or bluetooth connection) offers some neat features, especially adaptive vibration alarm that can be dismissed only by walking.<br><br>You can also use it as a simple, adaptive vibration alarm (dismissed by swipe gesture). <br><br>Features include:<br>- set alarm precisely without voice<br>- walk or swipe to dissmiss<br>- stunning adaptive vibrations<br>- trigger GuruWear formulas<br>- repeated alarms<br>- custom colors &amp; captions<br>- can act as default alarm for voice actions<br><br>Visit www.moveup.zone for more info.",
+    "histogram": {
+        "1": 6,
+        "2": 2,
+        "3": 6,
+        "4": 8,
+        "5": 12
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/74dXhrG-IZ7orGZmLThrdnv_r51RMb1kc25m8pO5p113OiMrVPyus580o3Q_kELSvA=h310",
+        "//lh5.ggpht.com/1Nh1WHIbw-9Vyr-FPr06hGYGMEE1U7yyA7chMfOTnZn4MlbpiCNOSRB5fVCzwUQi16U=h310",
+        "//lh5.ggpht.com/r23k53IZenpoEMnND_C4JgwDo0YERqRbDo5vXyLke1jpIDxh103czAJK4_QdWGT46A=h310",
+        "//lh6.ggpht.com/ZXGTrv3aWWOGLIDoqZYrOC55xqVsc6zwfOeQ4o7E7Il-WwSmYQF-2T4Z23wepKsq9Dk=h310",
+        "//lh6.ggpht.com/NDy9fKo7IeUuwuLWizPfktI8OGeVsR7X1xcy-N3pJe_aiZWBuTnCHM3v9EJXmvpETA=h310",
+        "//lh6.ggpht.com/6lnjAg9EQRLRYMxq6swU5n3yAWCMzpck5FsgQUoEm8ZYN2wABL49-altJngU39ncqhQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/DTMkd4YBuQ0",
+    "comments": [
+        "Misses alarms Watch does not wake up to alarms.  Goes off as soon as I interact with my watch in the morning :(",
+        "Simple to use, and I love the different options for vibration pattern as well as dismiss method",
+        "Advanced options.... Paid for this app to get advanced options and sadly there are none.. Would rate higher with advanced options",
+        "Best Alarm but... This is by far the best Alarm I have found until daylight savings time happened all alarms are an hour off I know I can simply set each alarm ahead an hour bur seriously fix this please",
+        "Default dismiss method swipe needed Please add setting to make the \"Swipe\" gesture DEFAULT to dismiss alarm"
+    ],
+    "recentChanges": [
+        "- ability to run GuruWear formulas (requires GuruWear app)",
+        "- better timezones & DST handling",
+        "- layout fixes",
+        "- bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.w9.getupalarmclock&hl=en&gl=us",
+    "appId": "pl.w9.getupalarmclock"
+}

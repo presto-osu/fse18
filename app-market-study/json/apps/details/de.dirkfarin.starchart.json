@@ -1,0 +1,57 @@
+{
+    "title": "Star Chart Wear",
+    "summary": "Real-time star chart with planet positions, time-lapse animation, rise/set time.",
+    "icon": "//lh6.ggpht.com/bISnVRM80oydef3Sl7kuiPmvBtFXuurNZcTDd7l6OdyOl9Q8f1ltIKJLkJfynYgYNw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.6,
+    "reviews": 72,
+    "developer": "Dirk Farin",
+    "developerId": "Dirk+Farin",
+    "developerEmail": "dirk.farin@gmail.com",
+    "developerWebsite": "http://dirk-farin.net",
+    "developerAddress": "Dirk Farin\nKronenstr. 49b\n70174 Stuttgart\nGermany",
+    "updated": "October 10, 2014",
+    "version": "1.3",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "*** Note: this app requires an Android Watch! It will not show the chart on a phone or tablet. ***A star chart for your Android Wear device. Observe the currently visible constellations and planet positions. View an overview diagram of today's rise and set times for the sun, moon, and all planets. Show a time-lapse video of today's sky. A handy tool for anyone interested in astronomy.Features:- real-time star chart for your geographic location,- time-lapse star chart (one day in a few seconds),- rise and set times diagram for all planets, moon. Also shows hours of sunlight, twilight and highest position of sun,- shows current moon phase- uses compass to align star chart to viewing direction- aiming a constellations shows their name (English, German or Latin)- highlight zodiacal constellations- constellations can be turned off- touch and long-press actions can be customizedKnown issues:- some wearable devices do not receive current location updates which can result in your location  being set to the default (somewhere in the center of the USA). I'm working on a fix to be released soon.Permissions:- this app requires coarse location information in order to draw the star chart matching your current location.Contact:For comments, suggestions, and bug reports, contact me at dirk.farin@gmail.com.",
+    "descriptionHTML": "*** Note: this app requires an Android Watch! It will not show the chart on a phone or tablet. ***<br><br>A star chart for your Android Wear device. Observe the currently visible constellations and planet positions. View an overview diagram of today&apos;s rise and set times for the sun, moon, and all planets. Show a time-lapse video of today&apos;s sky. A handy tool for anyone interested in astronomy.<br><br><br>Features:<br>- real-time star chart for your geographic location,<br>- time-lapse star chart (one day in a few seconds),<br>- rise and set times diagram for all planets, moon. Also shows hours of sunlight, twilight and highest position of sun,<br>- shows current moon phase<br>- uses compass to align star chart to viewing direction<br>- aiming a constellations shows their name (English, German or Latin)<br>- highlight zodiacal constellations<br>- constellations can be turned off<br>- touch and long-press actions can be customized<br><br><br>Known issues:<br>- some wearable devices do not receive current location updates which can result in your location<br>  being set to the default (somewhere in the center of the USA). I&apos;m working on a fix to be released soon.<br><br><br>Permissions:<br>- this app requires coarse location information in order to draw the star chart matching your current location.<br><br><br>Contact:<br>For comments, suggestions, and bug reports, contact me at dirk.farin@gmail.com.",
+    "histogram": {
+        "1": 15,
+        "2": 5,
+        "3": 6,
+        "4": 16,
+        "5": 30
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/QHZE5QfvjTG89nauFR3XHN-XSEm_sXwh97ueYpM2KKb6BRIK5rQuTbB4Nbw7DjSWX3w=h310",
+        "//lh4.ggpht.com/c21RpJVMPdHlVp-HE2If3xb6y3ShZ0GErQhosxu_8BwMQ6Iek3RG2x62xnz0x5x0LnA=h310",
+        "//lh4.ggpht.com/N80jyhKDprCKwfsCHEh8pWo8V_LeUM9DkGjAHtiObebUPvb6r26cHA9QscqMfTw2Tg=h310",
+        "//lh5.ggpht.com/Jkw0yCTZ0pJT305j1dSjU9RGddbgOYLmDKV4fyt__WWYJa97G46GPTWJX_bkqkggpMaC=h310",
+        "//lh3.googleusercontent.com/CM1IrU1gSzPbrGOzbedy-spWb6eGcZpMrWGJEypHVfIEFLez0PMd7kN8Ms2MJeYyRLH3=h310",
+        "//lh3.googleusercontent.com/mLOo2raNYi0hhdXfHjjAv1c0Zhd9E0M8KnQuWEhux_Fsd4YciLB_b2gNYIigJodZl6o3=h310"
+    ],
+    "comments": [
+        "Looks awesome, but one problem ... Where do I input my location? I clicked the settings icon, but nowhere does it ask for location. And the app on my watch is asking me to open the host app and do so. Kind of confused.",
+        "Awesome This is one of my most used Wear apps and is an excellent example of what the platform can be used for. Very smooth, fluid, and informative. I love seeing the names of the different constellations when I stand in front of them and the planet locations. A must for anyone with an interest in the Cosmos.",
+        "Neat app. Well worth the download. Your location is derived from your phone. You'll need the GPS turned on.",
+        "Only the quick instruction shows up No response, can not open the chart",
+        "Works well! Great little app for my Moto 360 and absolutely free. 5 stars!",
+        "Can't get it on my watch How do I get it on my watch?"
+    ],
+    "recentChanges": [
+        "- get current location from phone sensors when location is not available on wearable",
+        "- summary screen showing location, timezone and sun rise/set times"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.dirkfarin.starchart&hl=en&gl=us",
+    "appId": "de.dirkfarin.starchart"
+}

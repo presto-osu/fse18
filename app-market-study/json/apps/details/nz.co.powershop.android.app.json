@@ -1,0 +1,59 @@
+{
+    "title": "Powershop NZ",
+    "summary": "Keep track of your power usage anywhere, anytime and avoid nasty surprise bills.",
+    "icon": "//lh3.googleusercontent.com/4ZkQcGSU9ALN2ors5LcG-b8yzW9PCTl_6JXXEs6hTlChzYUbfbsq5QiXW58B9rMoUA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 506,
+    "developer": "Powershop",
+    "developerId": "Powershop",
+    "developerEmail": "admin@powershop.co.nz",
+    "developerWebsite": "http://www.powershop.co.nz/",
+    "updated": "February 6, 2018",
+    "version": "1.30.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Control your power bill from your pocket.With Powershop you know exactly how much power you're using and what it costs before you have to pay a bill. All conveniently on your smartphone. This means you can take action to save money and power.Save energy and fight the rising cost of electricity. Download the Powershop App and join Powershop now.If you're already a Powershop customer download our new App to...* see how much power you're using and what you need to buy* make sure you never miss a special* forecast future usage and cost* shop for Powerpacks to manage your budget* compare and gain insights into your usageBy downloading and using this App you agree to our Mobile Terms and Conditions. Our normal customer terms and conditions, including our privacy policy, apply to your use of this App. To access our mobile terms and conditions, customer terms and conditions and privacy policy see http://www.powershop.co.nz/terms-and-conditions and http://www.powershop.co.nz/privacy-policy/If you’d like to report any problems email a screenshot or the contents of the error message to admin@powershop.co.nz. Alternatively give us a call on 0800 462 668.== Explanation of permissions required for the Powershop App == * Storage - modify or delete the contents of your USB storage: Cache certain images to load them faster for you. * Camera - take pictures and videos: Required for you to turn the flashlight on and off while inputting meter readings on devices with a camera flash.* Your social information - read your contacts: You can use your contacts to refer to Powershop through the Friend get friend promotion. The App will only ever access your contacts if you choose to use them for the Friend get friend promotion.* Your accounts - find accounts on the device AND Affects Battery - Control vibration, prevent phone from sleeping): Required to send you Push notifications for things like new powerpack special is available, meter reading reminders, Autopayment and Autopurchase reminder, etc.",
+    "descriptionHTML": "Control your power bill from your pocket.<br>With Powershop you know exactly how much power you&apos;re using and what it costs before you have to pay a bill. All conveniently on your smartphone. This means you can take action to save money and power.<br><br>Save energy and fight the rising cost of electricity. Download the Powershop App and join Powershop now.<br><br>If you&apos;re already a Powershop customer download our new App to...<br>* see how much power you&apos;re using and what you need to buy<br>* make sure you never miss a special<br>* forecast future usage and cost<br>* shop for Powerpacks to manage your budget<br>* compare and gain insights into your usage<br><br>By downloading and using this App you agree to our Mobile Terms and Conditions. Our normal customer terms and conditions, including our privacy policy, apply to your use of this App. To access our mobile terms and conditions, customer terms and conditions and privacy policy see http://www.powershop.co.nz/terms-and-conditions and http://www.powershop.co.nz/privacy-policy/<br><br><br>If you&#x2019;d like to report any problems email a screenshot or the contents of the error message to admin@powershop.co.nz. Alternatively give us a call on 0800 462 668.<br><br><br>== Explanation of permissions required for the Powershop App == <br>* Storage - modify or delete the contents of your USB storage: Cache certain images to load them faster for you. <br>* Camera - take pictures and videos: Required for you to turn the flashlight on and off while inputting meter readings on devices with a camera flash.<br>* Your social information - read your contacts: You can use your contacts to refer to Powershop through the Friend get friend promotion. The App will only ever access your contacts if you choose to use them for the Friend get friend promotion.<br>* Your accounts - find accounts on the device AND Affects Battery - Control vibration, prevent phone from sleeping): <br>Required to send you Push notifications for things like new powerpack special is available, meter reading reminders, Autopayment and Autopurchase reminder, etc.",
+    "histogram": {
+        "1": 31,
+        "2": 17,
+        "3": 31,
+        "4": 106,
+        "5": 321
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/dkJc430b3UjOLy2Jca2EpgGAP1sw2BvUP96ECblm7JeE3mm_62lOz-a5NUHZSt6YNQ=h310",
+        "//lh3.googleusercontent.com/4UbpwJ1dXRKNLK0pNiEyNk87g7UYMkiCsqTZis4QRnDM7iDSMSjWNTh21WsUTi53WA=h310",
+        "//lh3.googleusercontent.com/s_Mem42g-i1Z3nnx2LRF1B-0aGGw4O3YxZ5qzhBmNv_wvqa3C6JRAxxWHrLM3qVlAw=h310",
+        "//lh3.googleusercontent.com/6u2ZTgO8tNzyRifUqvWTmvpvs-ApnOWahTILz1chy13IcKSjBCLBRyEr-HrkDboazdY=h310",
+        "//lh3.googleusercontent.com/b7oe4KAI2CDeoyGgyVtgW1cKasiBD-fDk60K2j00Xs_ZmAqUIsucXSZxjRrttjCRBYM=h310",
+        "//lh3.googleusercontent.com/z4ttUd3NLvqXAksahiM_0fFAJpkS5pVhtex5n-PmofLC9vby6FfbtGoWzzbi26HyXMM=h310",
+        "//lh3.googleusercontent.com/UWC3uuGfz2RG4bEm6VJqq-uU06pDSNMMkfEDb0NoAnCeXz_bLD0g9K2mj2tk-_pZlxw=h310",
+        "//lh3.googleusercontent.com/Mq_BWvP_x90rlhA8Qgas7fTyXtwRYHvbmorN_1AUC6O61BhuvyzbkQWnwHoEVxPHFH8=h310"
+    ],
+    "comments": [
+        "This is the maddest thing I've ever seen. Electricity price roulette!. Totally unfathomable. Also, why does it forget your payment method?",
+        "Great if you're on a budget.",
+        "Very well written app",
+        "I have been a customer for the last 10 month and I use the apparently frequently the only problem I have is one the month has ended the is no potion to pay in instalments. I am in a flatting environment and its hard to put money on in advance. Could you please add an option to pay part of the owing bill instead of adding in onto the next months.",
+        "No longer shows per 30 minute usage.",
+        "Best power company and easy to keep track"
+    ],
+    "recentChanges": [
+        "~ The Menu has been updated with a new look and feel",
+        "~ The Daily Usage bars are now pink",
+        "~ Loading the app should be slightly faster"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=nz.co.powershop.android.app&hl=en&gl=us",
+    "appId": "nz.co.powershop.android.app"
+}

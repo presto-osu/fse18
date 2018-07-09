@@ -1,0 +1,50 @@
+{
+    "title": "Tweechip",
+    "summary": "Tweechip eats tweets :P",
+    "icon": "//lh4.ggpht.com/tS-x-zbnNM3T8OMdPowijwxpTyoTrC4jVlnEWpYvEwqZvzErcVWUHJEmP788PNPisus=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 18,
+    "developer": "Saul M.",
+    "developerId": "Saul+M.",
+    "developerEmail": "sm@saulmm.com",
+    "developerWebsite": "http://saulmm.com",
+    "updated": "October 16, 2014",
+    "version": "1.2",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "With tweechip you can check your twitter timeline from your wrist, mark a tweet as favorite and retweet tweets to your followers.",
+    "descriptionHTML": "With tweechip you can check your twitter timeline from your wrist, mark a tweet as favorite and retweet tweets to your followers.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 5,
+        "4": 5,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/qcWCyt3TymMBNL0zmrVzxweWUk1jkjQ-InsOv5Mky_NVUpY5IaPdpJKAwy0vmQAFFyE=h310",
+        "//lh6.ggpht.com/weBHo3D-4DGBqudi7oieOgIn1SeAJNevZYrL0E5155n7xQ3GlY_FUv5OUrK_9x5mQQ=h310",
+        "//lh3.ggpht.com/kSipZDBzHTQqQbNxnr6OyPjeRFoMN3u7CbYRLY5KEbdgn6X__RcU0SpchPH9ciBdBes=h310",
+        "//lh5.ggpht.com/zWBGN3t0Em4Ooumd0lTKA_FIV9qd3YW73AJOAANCJKQQed5BnpxXjtOvw6X3idB41A=h310",
+        "//lh6.ggpht.com/17YjPXnMpuNWfXzO-5DeAIzrfCXrf2neX2LwZtHlDdWXO65n8nzg7ksrhI1rcqPI_6Y=h310",
+        "//lh3.ggpht.com/ELic03gZSrJG9qxHYp0oLgI6HWgusKKgJOcGFFQosDqgMk4XEHyeq4Mlf8WFjdlO0Pj4=h310",
+        "//lh6.ggpht.com/nKN8OHj0Y8D2EQSwsb4N1RpSmCLf7pUtvg_yddrKOwyr0AtpnbXx2c6HvTIhx_Culuk=h310",
+        "//lh6.ggpht.com/m19zjnojGRwAy-dj7QKKqFN-_G4bUqYinUABzaC-BQ1uvpjGe2XWCpB4dybX9VtUarKM=h310"
+    ],
+    "comments": [
+        "Works great for Moto 360!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.saulmm.tweetwear2&hl=en&gl=us",
+    "appId": "com.saulmm.tweetwear2"
+}

@@ -1,0 +1,107 @@
+#!/usr/bin/env python3
+
+import argparse
+import os
+from subprocess import call
+
+gator_dir = os.path.dirname(os.path.realpath(__file__))
+
+
+def instrument(args, unknown):
+    gator_instrument_dir = os.path.join(gator_dir, 'instrument')
+    tracker_class_dir = os.path.join(
+        gator_instrument_dir, 'build', 'classes', 'main')
+    jar = os.path.join(gator_instrument_dir, 'build', 'libs',
+                       'instrument-1.0-SNAPSHOT-all.jar')
+    cmd = ['java',
+           '-cp', jar,
+           'edu.osu.cse.presto.gator.instrument.watchface.Main',
+           os.path.join(args.sdk_path, 'platforms'),
+           args.apkpath,
+           tracker_class_dir]
+    if args.debug:  # print out the command
+        print(' '.join(cmd))
+        return
+    call(cmd)
+
+
+def wear(args, unknown):
+    gator_wear_dir = os.path.join(gator_dir, 'wear')
+    jar = os.path.join(gator_wear_dir, 'build', 'libs',
+                       'wear-1.0-SNAPSHOT-all.jar')
+    cmd = ['java',
+           '-cp', jar,
+           'edu.osu.cse.presto.gator.wear.watchface.soot.Main',
+           os.path.join(args.sdk_path, 'platforms'),
+           args.apkpath,
+           args.k,
+           str(args.time)]
+    if args.debug:  # print out the command
+        print(' '.join(cmd))
+        return
+    call(cmd)
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description='GATOR: Program Analysis Toolkit For Android.')
+
+    subparsers = parser.add_subparsers(dest='command',
+                                       metavar='COMMAND')
+    subparsers.required = True
+
+    ####################################
+    ####################################
+    parser_instrument = subparsers.add_parser('instrument',
+                                              aliases=['i'],
+                                              help='instrument APK and store in "sootOutput" directory')
+    parser_instrument.set_defaults(func=instrument)
+
+    ####################################
+    ####################################
+    parser_wear = subparsers.add_parser('wear',
+                                        aliases=['w'],
+                                        help='for Android Wear')
+    parser_wear.set_defaults(func=wear)
+    parser_wear.add_argument('-k',
+                             dest='k',
+                             metavar='N',
+                             default='3',
+                             required=False,
+                             help='length for traversal')
+
+    ####################################
+    ####################################
+    parser.add_argument('-d', '--debug',
+                        dest='debug',
+                        action='store_true',
+                        default=False,
+                        help='debug mode')
+
+    parser.add_argument('-t', '--time',
+                        dest='time',
+                        action='store_true',
+                        default=False,
+                        help='display time in log')
+
+    parser.add_argument('-s', '--sdk',
+                        dest='sdk_path',
+                        metavar='ANDROID_SDK',
+                        default=os.environ['ANDROID_SDK'],
+                        required=False,
+                        help='path to the Android/sdk/platforms')
+
+    parser.add_argument('apkpath',
+                        metavar='APK',
+                        help='path to the APK')
+
+    args, unknown = parser.parse_known_args()
+
+    if not args.apkpath.endswith('.apk'):
+        parser.print_usage()
+
+    args.func(args, unknown)
+
+
+if __name__ == '__main__':
+    main()

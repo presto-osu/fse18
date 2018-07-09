@@ -1,0 +1,55 @@
+{
+    "title": "Travel Converter",
+    "summary": "Convert the world currencies with Travel Converter",
+    "icon": "//lh3.googleusercontent.com/ruHl5k_URuVxJkT4VQual9FiTu5Hc_YSIjJIMIL6SZ_sAyPTFTRmF4I_WVmpO2eX_4U=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 19,
+    "developer": "ASSP",
+    "developerId": "ASSP",
+    "developerEmail": "assp.project@gmail.com",
+    "updated": "July 6, 2016",
+    "version": "2.2.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "You can convert the world currencies with Travel Converter.This user-friendly currency converter is designed for shopaholics. The button size and the position is designed for users can to instant result by entering the required amount with one hand.It can store the last updated rates, so it works even when there is no internet.",
+    "descriptionHTML": "You can convert the world currencies with Travel Converter.<br><br>This user-friendly currency converter is designed for shopaholics. The button size and the position is designed for users can to instant result by entering the required amount with one hand.<br><br>It can store the last updated rates, so it works even when there is no internet.",
+    "histogram": {
+        "1": 1,
+        "2": 3,
+        "3": 1,
+        "4": 2,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/R8GIdrlaeYIUVCKQqvuG5UjUmWTEMtaLlVGXkmt-nAEdIbIvt2xBDAgwTvNk2sqhOPg=h310",
+        "//lh3.googleusercontent.com/vOXCs7fVku--KQRulbm--0yiDv1Zq-CW0vBGz_D_rTSAPtKpFSUoM0rr8aP0ZNYrAJ0=h310",
+        "//lh3.googleusercontent.com/eU902jAvqB8KabSqmuZPBWGSFZe4I8V2iC1e3vu3x4fIITE1e8sDqN9ED2J0eMKWH_JG=h310",
+        "//lh3.googleusercontent.com/99YOYhdaKU72rXFB38chZZk2oElTnP5HQ4h2reGw5inKyuY7l6qSq8zLkOYv2j71wlY=h310",
+        "//lh3.googleusercontent.com/dMgTTldRTl5UemjpFHJ1Ma5c7k5cvWI7ip1hcowE14Hl0ynLcxWtCFD4PvfvUO4-Y2c=h310",
+        "//lh3.googleusercontent.com/8Xk5Jb5peZYOIkFzBMUJC6Sl3CCO-7XgcV9z78uyv0loecspfANdWUJd5FHCLAOp81I=h310"
+    ],
+    "comments": [
+        "Incorrect exchange rate! This app had an incorrect exchange rate for Indonesia - it claimed 10,000IDR : 1GBP whereas the reality is more like 20,000:1",
+        "No Indian currency Useless for me. Uninstalled.",
+        "Not many currencies supported, uninstalled.",
+        "Mostly Asia only"
+    ],
+    "recentChanges": [
+        "* Material Design",
+        "* Android Wear support",
+        "100+ currencies available",
+        "** Incorrect currency bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.assp.projects.travel_converter&hl=en&gl=us",
+    "appId": "com.assp.projects.travel_converter"
+}

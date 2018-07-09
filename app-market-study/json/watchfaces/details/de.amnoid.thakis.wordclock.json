@@ -1,0 +1,48 @@
+{
+    "title": "Word Clock Watch Face",
+    "summary": "A watch face for Android Wear that shows the time in text form.",
+    "icon": "//lh3.ggpht.com/JUqi7ejsA1DnwGVX7n8auqV9MZ3pYvM0VLLeKeHpFJQjkLsB80NNGFX-Sa_mUlbgRKs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 13,
+    "developer": "Nico Weber",
+    "developerId": "Nico+Weber",
+    "developerEmail": "thakis+wordclock@chromium.org",
+    "updated": "December 20, 2014",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This watch face for Android Wear shows the time in text form, in 5-minute steps. If you need minute-level precision, this watch face is not for you. But if you like simplicity and unobtrusive utility, if you're the kind of person who turns off notifications, and if you find the idea of only having a vague sense of the current time appealing, give this watch face a try.",
+    "descriptionHTML": "This watch face for Android Wear shows the time in text form, in 5-minute steps. If you need minute-level precision, this watch face is not for you. But if you like simplicity and unobtrusive utility, if you&apos;re the kind of person who turns off notifications, and if you find the idea of only having a vague sense of the current time appealing, give this watch face a try.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 1,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/HZbamamG4Foq-4XbtDBY15xktPxNNkmzjZcBRFuE2TGs8ZuqwWQn7exKOJCAgJGSaZc=h310",
+        "//lh3.ggpht.com/gCQPmnscvNOWSZNdzc4e_9PfxjvH32nHUx0_EwUWxx42t_agG119DB1D2FBwrIuiasY=h310",
+        "//lh5.ggpht.com/tc5buQk45paUSj0nVBcMIIHGX26CpDpSF3Lg9WXoCmrjrEDUpEnNdsN7GvAsNm4zCJ56=h310"
+    ],
+    "comments": [
+        "Missing one thing. I like it, but it's missing an option to change 'past' to 'after'.  \"It's quarter after nine.\"",
+        "I love word clocks, so having one on my wrist is awesome."
+    ],
+    "recentChanges": [
+        "• Update time in interactive mode more reliably.",
+        "• Detect switch to ambient mode immediately."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.amnoid.thakis.wordclock&hl=en&gl=us",
+    "appId": "de.amnoid.thakis.wordclock"
+}

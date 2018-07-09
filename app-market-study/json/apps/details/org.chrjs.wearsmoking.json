@@ -1,0 +1,46 @@
+{
+    "title": "Stop Smoking! for Wear",
+    "summary": "This app shows simple statistic about your progress directly on your Wear watch.",
+    "icon": "//lh3.ggpht.com/oVbbfPiqQLaQrMJ_rwOfldJdLQUNlh-TW0LpWhw7-mH6IGPVXJRiDFXyJH9dXKxAIA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.3,
+    "reviews": 10,
+    "developer": "cjakob",
+    "developerId": "cjakob",
+    "developerEmail": "me@chrjs.org",
+    "developerWebsite": "http://chrjs.org",
+    "updated": "July 23, 2015",
+    "version": "1.0.5",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Stopped smoking? Great, here is the app to show your progress on your new Android Wear device.This app shows simple statistic about your progress directly on your Android Wear watch. You need to setup the app on your phone once.Enjoy!E-Mail me if you have any suggestions/feedback. Thank you.",
+    "descriptionHTML": "Stopped smoking? <br>Great, here is the app to show your progress on your new Android Wear device.<br>This app shows simple statistic about your progress directly on your Android Wear watch. <br><br>You need to setup the app on your phone once.<br><br>Enjoy!<br>E-Mail me if you have any suggestions/feedback. Thank you.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh4.ggpht.com/_dwzAkhRB7t8qWHAKWwyo3rp5X9lTcssiKNQXZ88MKGnLqyDhsujzLYhVlCt3i9wNw=h310",
+        "//lh3.googleusercontent.com/IhEhXaTf_Z4XhL0jWM4M_JNOWRLOdAGDBc1WvWMmSs_pe9KRUHMtMitSnbDPHAT4DAk=h310"
+    ],
+    "comments": [
+        "Material design LOL Yeah this app is too simple but there is really no other alternatives so far"
+    ],
+    "recentChanges": [
+        "100% more material design included!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.chrjs.wearsmoking&hl=en&gl=us",
+    "appId": "org.chrjs.wearsmoking"
+}

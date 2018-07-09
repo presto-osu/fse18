@@ -1,0 +1,57 @@
+{
+    "title": "IronDroid for Watchmaker",
+    "summary": "Inspired by everyone&#39;s favorite Iron-clad superhero, but with an Android twist.",
+    "icon": "//lh3.googleusercontent.com/I_LC6dYOWS7_a0LsAmq-09Z4L7nB7xqtF8mybpk2F7glBSEkeZsSWMcB51V4Ltud6fID=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.2,
+    "reviews": 12,
+    "developer": "PrismaPixel Studios",
+    "developerId": "8985904239094242283",
+    "developerEmail": "info@prismapixel.com",
+    "developerWebsite": "http://www.prismapixel.com",
+    "developerAddress": "1905 Wilburn Dr.\nKennett, MO 63857",
+    "updated": "May 30, 2015",
+    "version": "3.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch the Invincible IronDroid count off the seconds as he flies around your watchface. NOTE: NEEDS WATCHMAKER PREMIUM TO USEIf you don't have it, get it here -> http://goo.gl/FMxUfY Features Include:- 9 Theme Choices (tap the \"4\" marker to change).- Local Weather and Temperature. (tap to refresh).- Custom Watch Battery Indicator (fades from green to yellow to red and gets smaller as battery diminishes; flashes red at 15%).- Step Counter (tap to open Google Fit). - 12/24-hour Digital Clock (tap to toggle mode).- Agenda Shortcut and Indicator (tap date).- Transition Effects.IronDroid is compatible with every Android Wear device through the Watchmaker app.FIND ME ON GOOGLE+https://plus.google.com/+GeorgeAnderson-DOA",
+    "descriptionHTML": "Watch the Invincible IronDroid count off the seconds as he flies around your watchface. <br><br><b>NOTE: NEEDS WATCHMAKER PREMIUM TO USE</b><br>If you don&apos;t have it, get it here -&gt; http://goo.gl/FMxUfY <br><br>Features Include:<br>- 9 Theme Choices (tap the &quot;4&quot; marker to change).<br>- Local Weather and Temperature. (tap to refresh).<br>- Custom Watch Battery Indicator (fades from green to yellow to red and gets smaller as battery diminishes; flashes red at 15%).<br>- Step Counter (tap to open Google Fit). <br>- 12/24-hour Digital Clock (tap to toggle mode).<br>- Agenda Shortcut and Indicator (tap date).<br>- Transition Effects.<br><br>IronDroid is compatible with every Android Wear device through the Watchmaker app.<br><br><br><b>FIND ME ON GOOGLE+</b><br>https://plus.google.com/+GeorgeAnderson-DOA",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 5,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/tr-JKVf6SQJUA3LR8rLy0WPrX5oZaysVEsjeP0CwU4PCy2EzxmTXMtkvzNdwGuvBNOo=h310",
+        "//lh3.googleusercontent.com/_ArTr8FOHZ8wv6olZkTCxjZCIRHlgBWRKCA16S3A-fay4llB4fCj0_qDBDELRXGqLRI=h310",
+        "//lh3.googleusercontent.com/SjGesK3CKCs0c4_bTY4nqFaz6vLBUvLKZJX4O3elZZzGV8Q276YK7--3NaYm1L_Or0M=h310",
+        "//lh3.googleusercontent.com/5LBGTAgdd7F6PsV4l-OMi-gT3Alc-8okYX-P_6F66pxj8pVKOu3OD7VEt-68z4sT_7Mw=h310",
+        "//lh3.googleusercontent.com/YH0ToFnq2zXhB63QPEYTrM9LusM0uI6hLlC37QfHWA9o39v--LCLbwwgvIo1DYb7Aio=h310"
+    ],
+    "video": "https://www.youtube.com/embed/HNdcmeNZWms",
+    "comments": [
+        "Great and Classy if no I.M. Droid. I agree with many of the other comments. PLEASE come out with a version that does not have the Ironman Droid. This is actually a great combination between Classy and techy, but the Droid makes it too immature to use as an everyday watch face. I would pay extra for one without the Droid.",
+        "If you could just remove the flying droid 5 star",
+        "Remove the flying toy for five stars :-)"
+    ],
+    "recentChanges": [
+        "(Mark III Update)",
+        "- Fixed bug with 12/24 hour digital clock sometimes being an hour behind.",
+        "- New 12/24 hour digital clock look and switch animation (tap to change mode).",
+        "- COLOR THEMES: Bright Blue (default), Original Blue, Hot Pink, Plum Purple, Deep Blue, Terminal Green, Blinding Yellow, Deep Red, & Whiteout. (Change by tapping the 4 location on the clock face)",
+        "- New Calendar Event indicator: Colored ring (matching the theme) appears around the date when you have an upcoming event."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=prismapixel.wmwatch.irondroid&hl=en&gl=us",
+    "appId": "prismapixel.wmwatch.irondroid"
+}

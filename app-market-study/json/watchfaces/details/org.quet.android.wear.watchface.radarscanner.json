@@ -1,0 +1,53 @@
+{
+    "title": "Radar scanner Watch Face",
+    "summary": "A smooth animated radar scanner looking analog watch face.",
+    "icon": "//lh3.googleusercontent.com/ueo8azEO58GdFEhck-5ZyDtSj5zynF1XWFXsy_AG9tVvWCM4daYRCVVUVWUg04uIlbg_=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4.7,
+    "reviews": 3,
+    "developer": "AQ",
+    "developerId": "AQ",
+    "developerEmail": "wear@quet.org",
+    "developerAddress": "Aladin Quet\n3BIS rue Henri Barbusse\n30000 Nîmes - France",
+    "updated": "July 21, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A smoothly animated radar scanner under an analog clock at your wrist. Only for Wear.     • Round and square screens supported• Battery efficient• Custom colors for plasma background, radar sweep, HUD, hour, minutes and second hands• Independent size for each needle• Rounded or squared hand cap• Glitch effects• Ambient entry animation (disabled by default)• Ambient brightness (100%, 75%, 50%, 25%, 0%) and color toggle• Burn-in protection toggle • Smooth animation at 60 FPS max• Small foot-print (~394kB)    Long press the watch face screen and touch the settings button at bottom to access all the settings/options.    TROUBLESHOOTINGWait 10 to 20 seconds after install in order to be able to select it.If it is still not available, \"Resync apps\" or uninstall and then re-install it again, and be sure to have enough free space.",
+    "descriptionHTML": "A smoothly animated radar scanner under an analog clock at your wrist. <b>Only for Wear.</b> <br>    <br>&#x2022; Round and square screens supported<br>&#x2022; Battery efficient<br>&#x2022; Custom colors for plasma background, radar sweep, HUD, hour, minutes and second hands<br>&#x2022; Independent size for each needle<br>&#x2022; Rounded or squared hand cap<br>&#x2022; Glitch effects<br>&#x2022; Ambient entry animation (disabled by default)<br>&#x2022; Ambient brightness (100%, 75%, 50%, 25%, 0%) and color toggle<br>&#x2022; Burn-in protection toggle <br>&#x2022; Smooth animation at 60 FPS max<br>&#x2022; Small foot-print (~394kB)<br>    <br>Long press the watch face screen and touch the settings button at bottom to access all the settings/options.<br>    <br><b>TROUBLESHOOTING</b><br>Wait 10 to 20 seconds after install in order to be able to select it.<br>If it is still not available, &quot;Resync apps&quot; or uninstall and then re-install it again, and be sure to have enough free space.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/D0T_NjOTR59A1vJJXzVxFj-sq4VRpn-B7uRXnxRsrNjXYHKfIJr-WDRGGF9CVdYT-Of3=h310",
+        "//lh3.googleusercontent.com/BnQa2tCjXTIF3FgCmeUI2IahX6NoaokAvXedK6jCXx2-5MjIUF_tpWajX5cLKJtAoA=h310",
+        "//lh3.googleusercontent.com/wIs5Ed-_ZYvyU4w6aWWfbsGllWceeiW9-IAFYX3zeXv2CSoIf2CPmDjMFCK1ODKxHQ=h310",
+        "//lh3.googleusercontent.com/FkGxdDCEsJhbT1-ZlF1a7f6qb5rxQNWImIeNDqw3OizFL0Gf5bunGOTY7wqD1E9ixqX3=h310",
+        "//lh3.googleusercontent.com/34egBMR6ffe4G4YGcrbRzoyb_MHz0fmiPxYLq5EBOza272mShUuzXykiMGSLYPQ7O9A=h310",
+        "//lh3.googleusercontent.com/lm-vRHw8m54j8oe3E6foZ0dS5J0oeQjTUpDb3GW7QsBR7Xli5SN2TGkr2KjLNS8lqjeH=h310",
+        "//lh3.googleusercontent.com/YLsm9vPg5tETv9b8HtKO0EtMNSpKtDbOSunk6AJerxR3o2HqxXf6u4uS6zGY9THV8AQ=h310",
+        "//lh3.googleusercontent.com/H5JqacRacghnd6ydRUUI-PT3si5IXrO0fgkr_K3dFkq-Na8atvd2rl6sQRosta-9vQ=h310"
+    ],
+    "comments": [
+        "Awesome but... needs edit on phone & I'd like a option to have the glitch go on/off at set time intervals when the screen is on instead of only the option of when it turns on. I'd also like options to show the watch and phone battery levels and a digital clock option along with options to leave some of the glitch fx on all the time when watch is on (scan lines) I'd also like to be able to edit how long the watch hands are in analogue and change the speed of the sweeping scanner effect and have a ticking option for the second hand.",
+        "Very cool watchface!  A retro-futuristic style.  One expression comes to my mind: \"RED ALERT!\" :)  The graphics are very smooth (looks like 60 fps to me!).  Tons of options, but I like the default.  Well done."
+    ],
+    "recentChanges": [
+        "Initial release."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.quet.android.wear.watchface.radarscanner&hl=en&gl=us",
+    "appId": "org.quet.android.wear.watchface.radarscanner"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "FoFoClock with styler",
+    "summary": "With 4x4 blocks, you can create unique face. And various features are also yours",
+    "icon": "//lh3.googleusercontent.com/L5s6OGV6tZ8V7TsNhKFqA2jA1qxN06Z8SeIH4egmpEsoLv-4svQZQCA1G2oVuG6--q4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 31,
+    "developer": "Lee Kyung-joon",
+    "developerId": "Lee+Kyung-joon",
+    "developerEmail": "alogblog.com@gmail.com",
+    "developerWebsite": "http://alogblog.com",
+    "updated": "September 23, 2015",
+    "version": "3.0.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "***Android Wear supports TAP on watchface from v1.3.So I removed all hack ways for implementing touch, and uses official API. As a result, swipe for opening a laucher is replaced with TAP on middle part of watchface.***Using 4x4 blocks, you can customize your unique styled watchface.Additonally, you can display a phones battery, weather, date, and change screen brightness, Want more? It provides its own launchers, instant timer, watch-on voice alarm, 10-to-hour voice alarm.1. Unique 4x4 time system(Please see playstore images.)I'm sure this time-telling system is quite difficult, at least not easy. If you seek an easy one like having strong two-hands or big digits, FoFoClock is defintely not yours. For normal watchface, the energy required for tell the time is almost zero. However, I bet you'll consume more energy for that with it. Whenever I try to tell the time with it, I feel my brain is working HARD and even a little tiresome, lol.Are you brave enough to try this?2. Cosmeticize your face using its styler app.Using styler you can create/modify and send it to your wearable. You can use basic block/layer editing. But these are simple, so you'd better use a program like Gimp/Photoshop in PC.3. Various tiny features.- displays phone's battery percentage, connection state, weather information.- provides its own 4-type launchers- shows full date/day of week/AM-PM/time using its own block representation.- can change screen brightness. Timeout is 2 seconds for tapping.4. Unique features.4.1 10-to-hour voice alarm.Nowsdays, most of events, meetings, appointments, watching TV shows, etc begin at the exact hour like at 2PM.Of coures if those were your main concern, then you would set normal alarm using phone or wearable.But all litle stuffs can't be done like that.For example, lets assume you have a plan to attend meeting or a mind to watch TV show at 1PM.If phone or clock rings at 1PM sharp, it does recall you only the fact you are well ready for something or late for it. I think both are useless recall.However, if clock rings at 10 to 1, at least you can be ready for something.If you enable 10-to-hour voice alarm, every 10 minute before the hour, FoFoClock will say like \"Hey its 10 to 2\".Your Android Wear device has no speaker. Don't worry, it vibrates or show animation, or speaks time using a Bluetooth audio device connected to your wearable. If not, your connected phone will say it.4.2 Instant timer.If you want to set timer for next short upcoming time, you may not want to using full featured timer app.If that time is just after 1 minute, 3,5,10,15,30 minutes, you can just tap the FoFoClock repeatedly.No need to browse timer/say anything, just tap tap...This is instant timer, which means you are aware of upcoming time, and awake. So instant timer just does small animation, vibration and dies itself. No need for any STOP actions.4.3 Watch-on voice alarmIf you enable this feature, whenever wearable's screen is turned ON, it says current time using BT audio device or your phone(timeout is 10 min.)What for?For example, car-driving environment is typical. You could watch your wearble, but would not want to as possible as you can. The situation you have a urge not to watch, but to listen for the time-telling.Other use cases are up to you.5. A few unstable actions now.- Bluetooth/Wifi display is not robust now. As I know, there is no official API yet.- If you have multiple wearalbe connected, then when you choose one after another, its model image in styler may be worongly displayed. If then, please turn off that device in Android Wear app, and then turn it on again.",
+    "descriptionHTML": "***Android Wear supports TAP on watchface from v1.3.<br>So I removed all hack ways for implementing touch, and uses official API. As a result, swipe for opening a laucher is replaced with TAP on middle part of watchface.***<br><br><br>Using 4x4 blocks, you can customize your unique styled watchface.<br><br>Additonally, you can display a phones battery, weather, date, and change screen brightness, Want more? It provides its own launchers, instant timer, watch-on voice alarm, 10-to-hour voice alarm.<br><br><br>1. Unique 4x4 time system<br><br>(Please see playstore images.)<br><br>I&apos;m sure this time-telling system is quite difficult, at least not easy. If you seek an easy one like having strong two-hands or big digits, FoFoClock is defintely not yours. <br><br>For normal watchface, the energy required for tell the time is almost zero. However, I bet you&apos;ll consume more energy for that with it. Whenever I try to tell the time with it, I feel my brain is working HARD and even a little tiresome, lol.<br><br>Are you brave enough to try this?<br><br><br>2. Cosmeticize your face using its styler app.<br><br>Using styler you can create/modify and send it to your wearable. You can use basic block/layer editing. But these are simple, so you&apos;d better use a program like Gimp/Photoshop in PC.<br><br><br>3. Various tiny features.<br><br>- displays phone&apos;s battery percentage, connection state, weather information.<br>- provides its own 4-type launchers<br>- shows full date/day of week/AM-PM/time using its own block representation.<br>- can change screen brightness. Timeout is 2 seconds for tapping.<br><br><br>4. Unique features.<br><br>4.1 10-to-hour voice alarm.<br><br>Nowsdays, most of events, meetings, appointments, watching TV shows, etc begin at the exact hour like at 2PM.<br>Of coures if those were your main concern, then you would set normal alarm using phone or wearable.<br>But all litle stuffs can&apos;t be done like that.<br><br>For example, lets assume you have a plan to attend meeting or a mind to watch TV show at 1PM.<br>If phone or clock rings at 1PM sharp, it does recall you only the fact you are well ready for something or late for it. I think both are useless recall.<br>However, if clock rings at 10 to 1, at least you can be ready for something.<br><br>If you enable 10-to-hour voice alarm, every 10 minute before the hour, FoFoClock will say like &quot;Hey its 10 to 2&quot;.<br>Your Android Wear device has no speaker. Don&apos;t worry, it vibrates or show animation, or speaks time using a Bluetooth audio device connected to your wearable. If not, your connected phone will say it.<br><br>4.2 Instant timer.<br><br>If you want to set timer for next short upcoming time, you may not want to using full featured timer app.<br>If that time is just after 1 minute, 3,5,10,15,30 minutes, you can just tap the FoFoClock repeatedly.<br>No need to browse timer/say anything, just tap tap...<br><br>This is instant timer, which means you are aware of upcoming time, and awake. So instant timer just does small animation, vibration and dies itself. No need for any STOP actions.<br><br>4.3 Watch-on voice alarm<br><br>If you enable this feature, whenever wearable&apos;s screen is turned ON, it says current time using BT audio device or your phone(timeout is 10 min.)<br><br>What for?<br><br>For example, car-driving environment is typical. You could watch your wearble, but would not want to as possible as you can. The situation you have a urge not to watch, but to listen for the time-telling.<br>Other use cases are up to you.<br><br><br>5. A few unstable actions now.<br><br>- Bluetooth/Wifi display is not robust now. As I know, there is no official API yet.<br>- If you have multiple wearalbe connected, then when you choose one after another, its model image in styler may be worongly displayed. If then, please turn off that device in Android Wear app, and then turn it on again.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 3,
+        "4": 4,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jcJ0O-FrCLmB3YdaGGOnM7OvwrtXPxY10FlnuyFe5dulHhJbYhZp6RlEJ_ElLaml9Mo=h310",
+        "//lh3.googleusercontent.com/1dVxwCnWrmJWNg4jJa40OdlLXrAo2qNWcxrASOH6GwWphGZ5TbKcrOqmdfz1jO1SEQ=h310",
+        "//lh3.googleusercontent.com/kJVU75PkbAFoF6xyHq01dGffoz0j-kfkOiCVAk7CxZToB69HRSS0HpT71Sjtqg2Usg=h310",
+        "//lh3.googleusercontent.com/AFpRkDaLfCwE2o1TDsMO3IsOrW1xNnnBD1_-RbPFWtD4RqS25lekcLq5O89uRXGLuV4=h310",
+        "//lh3.googleusercontent.com/spT0Y15uuKgOSH1x6pLko8kp6vjkkIoybvxefBZBiQ-361C-6QFkTQEXfxsZgGgXZH8=h310",
+        "//lh3.googleusercontent.com/IIOMVFhPYLXMMBt7YSjuYO-GbqWgK0VVoVBboJiM3sDhXwXcFnW-LWSx7PQJiL8mhjs=h310",
+        "//lh3.googleusercontent.com/OOfqMyrHsmJo95eBhM2qn3sfbtV7iAQAT0vBkEwOLf4UrzaNYkCTem6hELFAgXSmL-5Q=h310"
+    ],
+    "video": "https://www.youtube.com/embed/nm1YJUZM8Cs",
+    "comments": [
+        "Good lovely"
+    ],
+    "recentChanges": [
+        "- 3.0.3(13)",
+        "1. Official TAP API adopted",
+        "Android Wear supports TAP feature on watchface from version 1.3. So I removed all unofficial ways for implementing touch features, and use its offical API. From this version, it doesn't support SWIPE gestures anymore. Only TAP is allowed. As a result, in order to open a laucher, you should tap on middle area of watch.",
+        "2. Google weather app",
+        "Touch indicator is removed. If you tap on that area,  Google weather app will be open.",
+        "3. Huawei Watch added."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.alogblog.fofoclockstyler&hl=en&gl=us",
+    "appId": "com.alogblog.fofoclockstyler"
+}

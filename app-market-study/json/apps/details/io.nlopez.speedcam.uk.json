@@ -1,0 +1,57 @@
+{
+    "title": "Speed Cameras UK - Alerts",
+    "summary": "Full-featured speed camera alert system for UK with a minimalist UI",
+    "icon": "//lh4.ggpht.com/KoZ4tdh78wmVzopX231en1cH1hM3od7pfXdqtJjRB0Waii7pd52L_Y3dvyjwFDlnycc=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 17,
+    "developer": "Nacho Lopez",
+    "developerId": "Nacho+Lopez",
+    "developerEmail": "nacho@nlopez.io",
+    "developerWebsite": "http://nlopez.io",
+    "developerAddress": "Sanchís Sivera 8, 11\n46008 Valencia, Spain",
+    "updated": "January 19, 2015",
+    "version": "1.1.3",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Introducing a minimalist UI and features from the latest versions of Android design, comes the most economical and reliable alert system for speed cameras in the United Kingdom.Drive more safely and avoid tickets with this app!* Complete speed camera database with free updates. No more false warnings! Fixed speed and traffic light cameras, all kinds of speed traps...* Spots cameras approaching only in your direction. No more mixups!* Background detection mode. Receive warnings on screen while another app is running on foreground. Use your favorite navigator, such as Google Maps™, and get notifications for incoming cameras at the same time!* Tablet ready. Other passengers can play or watch a movie and the app will still warn you!* Minimum configuration required. Works perfectly out of the box, although advanced users can tune it to their taste.* Search in your map! You can search anywhere for nearby speed cameras.* Optimized for safe driving. Simple and clear: tap on screen to start detection and long press to stop. We want you to arrive at your destination!* Supports wearables like Pebble smartwatches.* Features Android KitKat™ UI APIs for translucent status and navigation bars. Wow. Such clear. Much awesome.",
+    "descriptionHTML": "Introducing a minimalist UI and features from the latest versions of Android design, comes the most economical and reliable alert system for speed cameras in the United Kingdom.<br><br>Drive more safely and avoid tickets with this app!<br><br>* Complete speed camera database with free updates. No more false warnings! Fixed speed and traffic light cameras, all kinds of speed traps...<br><br>* Spots cameras approaching only in your direction. No more mixups!<br><br>* Background detection mode. Receive warnings on screen while another app is running on foreground. Use your favorite navigator, such as Google Maps&#x2122;, and get notifications for incoming cameras at the same time!<br><br>* Tablet ready. Other passengers can play or watch a movie and the app will still warn you!<br><br>* Minimum configuration required. Works perfectly out of the box, although advanced users can tune it to their taste.<br><br>* Search in your map! You can search anywhere for nearby speed cameras.<br><br>* Optimized for safe driving. Simple and clear: tap on screen to start detection and long press to stop. We want you to arrive at your destination!<br><br>* Supports wearables like Pebble smartwatches.<br><br>* Features Android KitKat&#x2122; UI APIs for translucent status and navigation bars. Wow. Such clear. Much awesome.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 3,
+        "4": 3,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/RWal2AOExoGrWjbhovapojU2b_6o6hecFjzzsTh5EX3RfJbccE9PkuKEq-Q8C5rbQi0=h310",
+        "//lh5.ggpht.com/HhTQkIzf3kyDYCfhE5jo7JNhYVcwyIcqITVlOYf6F-xbNJQVOpniflYRY6sL95QQBQg=h310",
+        "//lh5.ggpht.com/T1AiNMtJ4MLChDS2l8PsHiHA5fmaiUdki86xI0cBgOcKEGU7eSg8QLnKpEP94YQpAA=h310",
+        "//lh4.ggpht.com/rbjfxJjk673S-p9aTgCrJvRp8FWndk2FDFx7e6Ly9Vuw4wsKPaE7o9WH76qYp3Vpqg=h310",
+        "//lh3.ggpht.com/4F_WCb2yVnJhskXYR1vCSW5oacUfevNy3SGlIJd3VZudZTlTwUTxLMKnaZgbazDEuh9G=h310",
+        "//lh4.ggpht.com/wM3PUl4tqxGjN2GtbexAsstCl2rz0qoMG2_KPaZuR1B-M0o6u2VdQ59ZcnY3hrTr7aI=h310",
+        "//lh5.ggpht.com/cG-jFEJKDgbielMlxWYs4mLWGlrxCI7k6-NyOSPAldclbqsGLBv4q-g0MMObGmY-R7o=h310"
+    ],
+    "comments": [
+        "Peble smart watches only Please could you develop for other smart watches i.e. LG",
+        "It works Since switching to android and Google maps for navigation I've missed the camera warnings I had on my old satnav. This is a great replacement.",
+        "The best,  lo mejor de los mejores Works even with my navigation app (be on road) and this app help me avoid thousands of £ in traffic fines really work I was never caught and I am the type of driver that rune over 200 all the time :D,  muchas gracias hermano sigue con el buen trabajo y las actualizaciones. Muchísimas gracias",
+        "Great App Works well with Galaxy S4 and overlays nicely on Google Maps. Only slight negative is that some old camera sites on Motorways still get flagged up.",
+        "Database Updates I installed this yesterday (9th October) and updated the database, which is now showing a database Data version date of 15 July.",
+        "It works on the phone But not a single indication of it working on Android wear, which was what tempted me to buy it to begin with."
+    ],
+    "recentChanges": [
+        "Map section fixed and performance improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=io.nlopez.speedcam.uk&hl=en&gl=us",
+    "appId": "io.nlopez.speedcam.uk"
+}

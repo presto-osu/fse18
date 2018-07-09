@@ -1,0 +1,51 @@
+{
+    "title": "RING Watchface",
+    "summary": "Elegant Android Wear watchface which shows your next appointment.",
+    "icon": "//lh3.googleusercontent.com/AONLU_TeE-Xrp8HpRKP9T9qAEmUohW1Qj1lnZ3gJuTn3qFdQuIaJMDL8PeNKu8WhEPsR=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 5,
+    "maxInstalls": 10,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Tim Gerhard",
+    "developerId": "Tim+Gerhard",
+    "developerEmail": "tim.tg.gerhard@googlemail.com",
+    "developerAddress": "Meisenweg 8\nApt 134\n67663 Kaiserslautern\nGermany",
+    "updated": "May 5, 2015",
+    "version": "1.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Feature overview:* simple watchface which shows date and time* shows next appointment up to 90 minutes* shows wear battery percentage (phone percentage planned)* colored ambient mode* 11 possible color themes to choose fromThe battery percentage is the bold ring that consists of twelve bars.If you have any issues or wishes, feel free to contact me (English or German only)You need an Android Wear device in order to use this app. The watchface should be installed on your device within a few minutes after installing this app on your phone.App settings can be reached from Android Wear's watchface selector.",
+    "descriptionHTML": "Feature overview:<br>* simple watchface which shows date and time<br>* shows next appointment up to 90 minutes<br>* shows wear battery percentage (phone percentage planned)<br>* colored ambient mode<br>* 11 possible color themes to choose from<br><br>The battery percentage is the bold ring that consists of twelve bars.<br><br>If you have any issues or wishes, feel free to contact me (English or German only)<br><br>You need an Android Wear device in order to use this app. The watchface should be installed on your device within a few minutes after installing this app on your phone.<br>App settings can be reached from Android Wear&apos;s watchface selector.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/5o6TGq2x1RG2yGIJO9bQCkrHoocSJDEmqmdievhO0IyTlqhAGHtF_EF7hl34UnDlGvY=h310",
+        "//lh3.googleusercontent.com/YrhLO8-Wkr4OnNAs-hFbqCc5JVV5fSu8aBzdw0vV5IukVLsL8n7sWdhtkZVJ28dAzQ=h310",
+        "//lh3.googleusercontent.com/Q1akLYWHU7Z-u8YLTdZdZTuxjkdBb3koq7eBzVvByWmF8JDwDAopGhe_bDiQFzDAns8=h310",
+        "//lh3.googleusercontent.com/DkVe14tBZvCPufjXOlKKv5EKWY5ApUDOaQZrt3ZJ7ZOwP8TAFWnHvOru5zBkNrhfg60=h310",
+        "//lh3.googleusercontent.com/U0byEulSZzP1h--qWLM--7CevDDVqhY0-i3PgClykvTwy_C68p5UOtcEZjoXzC9itc0=h310",
+        "//lh3.googleusercontent.com/qSLo02WwQRiS-SpubNvcN-OLMQGSALnp6QdJSNfdGWPxHApjGdY_kWdq0SO4Zg4fIuVf=h310",
+        "//lh3.googleusercontent.com/YSG5xgil6ZeZqoL5l2cLQpNj4cSq90DLFogwt5Zf-57nv2w02tCbADkbQDI2hi633pGD=h310",
+        "//lh3.googleusercontent.com/oNVYkfwy52wmukiav6mtFSIe6QyBZ9J76Tv5anvOkMO5ud25CcE-7mLitUkTSIExdV0=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "* reduced app size",
+        "* fixed a bug where no appointment would be shown while another appointment is ongoing."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.sylar_5.commanderwatchface&hl=en&gl=us",
+    "appId": "de.sylar_5.commanderwatchface"
+}

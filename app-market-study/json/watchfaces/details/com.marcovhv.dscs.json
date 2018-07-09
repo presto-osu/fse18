@@ -1,0 +1,56 @@
+{
+    "title": "DSCS",
+    "summary": "Two discs. All stylish.",
+    "icon": "//lh3.googleusercontent.com/V8SZx62Xa-duPMfbiQoVpMB2Oud3VRN-40LBx_6083okH6cMxhL8t1uIV141dXoatXA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 163,
+    "developer": "Marco van Hylckama Vlieg",
+    "developerId": "Marco+van+Hylckama+Vlieg",
+    "developerEmail": "marcovhv@gmail.com",
+    "developerWebsite": "https://plus.google.com/communities/117764868157901311082",
+    "updated": "November 20, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A stylish minimalist watch face. Make it completely your own by configuring all colors right on your watch. Beautiful minimalist ambient mode. Works on all Android Wear watches.IMPORTANT: If you see a permission dialog asking for 'Identity' permissions it's not because the watch face actually does anything with it. I'm still investigating and trying to get rid of this. Rest assured however, the watchface isn't doing anything with any of your personal information.Supports all Android Wear watches.Configurable:  - hours color  - minutes color  - ticks color  - background colorTap and hold the watch face to get to the customization settings.",
+    "descriptionHTML": "A stylish minimalist watch face. Make it completely your own by configuring all colors right on your watch. Beautiful minimalist ambient mode. Works on all Android Wear watches.<br><br>IMPORTANT: If you see a permission dialog asking for &apos;Identity&apos; permissions it&apos;s not because the watch face actually does anything with it. I&apos;m still investigating and trying to get rid of this. Rest assured however, the watchface isn&apos;t doing anything with any of your personal information.<br><br>Supports all Android Wear watches.<br><br>Configurable:<br><br>  - hours color<br>  - minutes color<br>  - ticks color<br>  - background color<br><br>Tap and hold the watch face to get to the customization settings.",
+    "histogram": {
+        "1": 8,
+        "2": 8,
+        "3": 16,
+        "4": 44,
+        "5": 87
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/MufHNPdE_6YNLPPHZwq8Ps8imYhHIHqCwVw4P5wERmOZRO2dR0wkzx6fXU3HHkY8AQ=h310",
+        "//lh3.googleusercontent.com/Iochj06Ra5XqqxFX3LHDb2Yptcu3KTxqMRHxjJE35bct_I7k396KGMgLO2WXx9WzjH4=h310",
+        "//lh3.googleusercontent.com/JQU-rsNRfKZ6xflWexYvpG8LZLjioAlw9YwQtPH3B_JeMOsAbKjWLcns2ye4IlufjMs=h310",
+        "//lh3.googleusercontent.com/yGwF87SfjBIy5vws1L6XNePYkgdTZMxkJ_v2N3WT0H3azX3EHU98ub6LLovSVvfMRoNz=h310",
+        "//lh3.googleusercontent.com/-ot9MawNTEK761KVYo_EXc-cqr-PNPt-kPlrT7-JnRD65S_wF-gR6BIF4-s16Pr0wykn=h310",
+        "//lh3.googleusercontent.com/Lfknw6QzXzpLNK1fc0VfQ9ei9IORq7rx-H81_Aj35aOEfpLVzX03GOI5moL2LGU7KXc=h310",
+        "//lh3.googleusercontent.com/dozGQpmf7ZPromrRVAzZikzY5an5UWLdGRee82yXNBFa5CsXD1fnBmHJ4fQ3nmrJgA=h310"
+    ],
+    "comments": [
+        "Cool I like this watch face. The only downside is that the ambient color doesn't seem to stick and turns white. I saw a comment that the color brightness needs to be past 50% but that does t work for green. It works for red but literally only changing the color (outermost color wheel) ends up with a white dial in ambient mode. I'd also love an option for ambient ticks.",
+        "Nice watch face. It needs a separate ambient mode editor. Some color combos don't show up in ambient mode on my Moto360 Sport. It's frustrating to have to pick my screen-on color combo based on what works in ambient and not purely on what color combo I want.",
+        "Lovely watch face.... Really like this one, looks cool on my lg. No faults at all, just a suggestion.....perhaps a sweeping \"seconds\" disk would look pretty cool or just a sweeping point on the outer disk....either way, such a sweet looking face, thank you !!",
+        "Crashed my nixon Looks great but Nixon mission crashed out on it.",
+        "Surprised! All I can say is wow! Unique. Need more unique watch faces like this please.",
+        "Really like it Great idea.  Just hard to set up color"
+    ],
+    "recentChanges": [
+        "Should no longer ask for Identity permissions. Now supporting all new Android Wear watches such as Moto360 2nd gen, Huawei and more."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.marcovhv.dscs&hl=en&gl=us",
+    "appId": "com.marcovhv.dscs"
+}

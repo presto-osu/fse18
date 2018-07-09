@@ -1,0 +1,51 @@
+{
+    "title": "Wear Network (Toggle Settings)",
+    "summary": "Change your phone&#39;s network (wifi/mobile) state on/off from your Wear",
+    "icon": "//lh3.googleusercontent.com/oU-ioGZtg9S0dsk9Mgd9HSSrYOLp5Gwi0_3mL0WJC130m3yWEQiKpo6Vt6B3qgV7V7VR=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.8,
+    "reviews": 4,
+    "developer": "DayLight Projects",
+    "developerId": "DayLight+Projects",
+    "developerEmail": "erelozcakirlar@gmail.com",
+    "updated": "July 12, 2016",
+    "version": "1.2.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Wear Network allows you to change your phone's Wifi and Cell-Data state from your Wear. Also you can see your phone's battery state (charging, percent etc.) from your Wear.Set Cell-Data enable/disable function works only ROOTED or pre-Lollipop devices.",
+    "descriptionHTML": "Wear Network allows you to change your phone&apos;s Wifi and Cell-Data state from your Wear. <br><br>Also you can see your phone&apos;s battery state (charging, percent etc.) from your Wear.<br><br>Set Cell-Data enable/disable function works only ROOTED or pre-Lollipop devices.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LYZuyESqWgPx2FwD7O5s50gmCrSvW9Z2NNAo2CAn_GQXXKQtHZIhk8A4CcNxK2WsN5IX=h310",
+        "//lh3.googleusercontent.com/IIm7Ljo1d0tqj0CdAhj__aqjgZWqFvmqRTNT_3gmMmXM-wZlE9CFWeORUIoQTXfnylk=h310",
+        "//lh3.googleusercontent.com/7fUudrAjB9tCETJ5GR779Om6SoZRuvVATzp3Uic_JnFeEIxIPOt56ODcxNHmbvgKzJM=h310",
+        "//lh3.googleusercontent.com/tJu5i8EorkHXE6NE_VMBrA9Iyd6-ULyDm9ehGS8VYeo0zLIOF5RNa_c0RT6OQrsY0iE=h310",
+        "//lh3.googleusercontent.com/mRn8GIroKC3vQuYbAelrOps2jYK1I4oNqDMqvw5DYMQwpwnFCZ4UOkptBSN3sCBBIR8=h310",
+        "//lh3.googleusercontent.com/jY8t0_nxIf-w_OjC77ii6oAiYxuSTeK6AOGhfgy_AILrl4_wqxT8Fw02YtOVyzJ9gGg=h310",
+        "//lh3.googleusercontent.com/rjUl-lFUhJNUDYdogH6EK7mJEKcFsijDeVDeupeVWpwUk970AiGZyb5_uwxMgd2nDns=h310",
+        "//lh3.googleusercontent.com/zvDRTbgYPkSfNYIm2ir_Y95A2uIKZiZK2btT-teras_7vxaSVseZaxgFKcB4jHWGOw=h310",
+        "//lh3.googleusercontent.com/ecYCsP5QteconUntTGLXRiwb3PkJ4g2KB8CqHsGaCiBTIGGZkNbSznDFvkmbeqh37cY=h310",
+        "//lh3.googleusercontent.com/EiNr7Bd8E6n7QGLhhmR4J6gvfUn2JXtSJVpVTjHGfEGt84K-0Bmzs4JraS_BrkRSCU8=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Cell data check added."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.erelozcakirlar.wearnetwork&hl=en&gl=us",
+    "appId": "com.erelozcakirlar.wearnetwork"
+}

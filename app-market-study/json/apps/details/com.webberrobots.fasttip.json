@@ -1,0 +1,61 @@
+{
+    "title": "FastTip",
+    "summary": "Fast​Tip is a quick on-the-go tip calculator with an Android Wear app too!",
+    "icon": "//lh4.ggpht.com/d2OAlgr36HyzUU7R2h_5m5Lj8BAaIKkp-Pcd-hYD6ww58fQ7UsJD_Sy0_henNbETbhLI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.1,
+    "reviews": 17,
+    "developer": "Webber Robots",
+    "developerId": "Webber+Robots",
+    "developerEmail": "webber.robots@gmail.com",
+    "developerWebsite": "http://webberrobots.com",
+    "developerAddress": "2865 Tremainsville Rd,\nToledo, OH 43613",
+    "updated": "September 17, 2014",
+    "version": "1.1.5",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Fast​Tip is a tip calculator. You may be asking, \"Why should I download it? What makes Fast​Tip different from all the other tip calculators out there?\" Fast​Tip was specifically designed to be the easiest to use tip calculator app on the Play Store. Here's the best part - IT'S FREE!Here's how it works:Type in the amount of your bill, then tap or swipe to the \"Calculate Tip\" tab and you're done. If you want to adjust the tip, scroll to the desired percentage using the simple slider control. It can even round for you so you don't have to be bothered by loose change!Fast​Tip can split the bill up to 15 ways. Just tap or swipe to the \"Split Bill\" tab, and there you go.Free, Simple, and Fast. It's Fast​Tip!",
+    "descriptionHTML": "Fast&#x200B;Tip is a tip calculator. You may be asking, &quot;Why should I download it? What makes Fast&#x200B;Tip different from all the other tip calculators out there?&quot; Fast&#x200B;Tip was specifically designed to be the easiest to use tip calculator app on the Play Store. Here&apos;s the best part - IT&apos;S FREE!<br><br>Here&apos;s how it works:<br>Type in the amount of your bill, then tap or swipe to the &quot;Calculate Tip&quot; tab and you&apos;re done. If you want to adjust the tip, scroll to the desired percentage using the simple slider control. It can even round for you so you don&apos;t have to be bothered by loose change!<br><br>Fast&#x200B;Tip can split the bill up to 15 ways. Just tap or swipe to the &quot;Split Bill&quot; tab, and there you go.<br><br>Free, Simple, and Fast. It&apos;s Fast&#x200B;Tip!",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 2,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/x3pfRKcqO5p-AtuGzalENdiUC1_tZmnY-q1OfwuS_pK2Ov6GRf1F4rE4LrjpYCFpHsk=h310",
+        "//lh3.ggpht.com/iAY_7vtqLfqdrbmRl8Uk4QI5N9WJniZbhPdt2sZtXwgVdYTZZtuFCo78Aov94Py-YA=h310",
+        "//lh5.ggpht.com/hkMlnHA94bGh-0AMMjdqCmN6PSOOp6iSzZjvJimuS8VSVQN6-K4e7BJuaAam9CmpE_U=h310",
+        "//lh4.ggpht.com/UGXUwCd8nQNhn0rMhxM8fmBpVINpVBZ-VZjAt3XoAE1_dbrTHR1K2SSTC4Sz-FdvwA=h310",
+        "//lh3.ggpht.com/LEKlMn2c2lIADcb3twWkJgz9mzyBzp-6xGejq1EihE-XP92CprH3vJ_qNWAVSh5cCh8=h310",
+        "//lh6.ggpht.com/h8exHt1zMpLoAd4idGN6zqh8irVWvQzs9C8OzvqyOWSbRNGdmMxr0AX9b3irVs0CQFE=h310",
+        "//lh5.ggpht.com/iQPiXLPWF20mVwlUaY21dAskI4lJZtmLuqDaMBRCKYpU6NIvJYvVMIwOw5esfH7uAw=h310"
+    ],
+    "comments": [
+        "Watch side not working. Split shows same amount for tip and total regardless of total bill. works fine on the phone side.",
+        "No calculator page. Moto 360. No calculate page.... blank.",
+        "The best I love the android wear support!",
+        "The Android Wear support is very well done.",
+        "Great App Does exactly what it says on the tin and has a nice clean look that is in line with modern android design. A pleasure to use.",
+        "it worms! a share feature would be great!"
+    ],
+    "recentChanges": [
+        "Version 1.1.5",
+        "* Can now launch via \"OK Google - Start Fast Tip\" on Android Wear",
+        "* Fixed blank screens on moto 360 issue",
+        "* Fixed LongPress Dismiss on Android Wear",
+        "* Tweaked layouts for Android Wear"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.webberrobots.fasttip&hl=en&gl=us",
+    "appId": "com.webberrobots.fasttip"
+}

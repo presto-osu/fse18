@@ -1,0 +1,49 @@
+{
+    "title": "Hemms Smart House",
+    "summary": "Hemms Smart House is a remote control and integration of systems in your home",
+    "icon": "//lh6.ggpht.com/gimF-9OnFFRR_wJYk6VjwI2IPUvwPATEYqb65X2ad_EsGK9DlVUspOOSxbNcoQ0-Aj5j=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.7,
+    "reviews": 7,
+    "developer": "Hemms sp. z o. o.",
+    "developerId": "Hemms+sp.+z+o.+o.",
+    "developerEmail": "biuro@hemms.pl",
+    "developerWebsite": "http://www.hemms.pl",
+    "updated": "October 5, 2015",
+    "version": "1.5.5",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Dzięki integracji wszystkich urządzeń, masz możliwość stałego nadzoru nad swoim inteligentnym domem. System centralnego sterowania automatycznie poinformuje Cię o zagrożeniu i samodzielnie zawiadomi odpowiednie służby. Podejmie decyzję o otwarciu lub zamknięciu drzwi, bramy wjazdowej, rolet, uruchomieniu systemu zraszania, odblokowaniu zamków itp.Dzięki optymalizacji zużycia energii cieplnej i elektrycznej, system zdalnej kontroli Hemms może oszczędzić nawet 30% zużywanej energii w budynku. Zastosowanie systemu centralnego sterowania Hemms przekłada się bezpośrednio na redukcję emisji gazów cieplarnianych.Wyobraź sobie dom, w którym rolety opadają, gdy zachodzi słońce. Alarm, który pamięta za Ciebie, kiedy ma się uzbroić i światła, które za naciśnięciem jednego przycisku stwarzają nastrój odpowiedni do danej sytuacji. Profesjonalny system centralnego sterowania Hemms został stworzony dla Twojej przyjemności i wygody.",
+    "descriptionHTML": "Dzi&#x119;ki integracji wszystkich urz&#x105;dze&#x144;, masz mo&#x17C;liwo&#x15B;&#x107; sta&#x142;ego nadzoru nad swoim inteligentnym domem. System centralnego sterowania automatycznie poinformuje Ci&#x119; o zagro&#x17C;eniu i samodzielnie zawiadomi odpowiednie s&#x142;u&#x17C;by. Podejmie decyzj&#x119; o otwarciu lub zamkni&#x119;ciu drzwi, bramy wjazdowej, rolet, uruchomieniu systemu zraszania, odblokowaniu zamk&#xF3;w itp.<br><br>Dzi&#x119;ki optymalizacji zu&#x17C;ycia energii cieplnej i elektrycznej, system zdalnej kontroli Hemms mo&#x17C;e oszcz&#x119;dzi&#x107; nawet 30% zu&#x17C;ywanej energii w budynku. Zastosowanie systemu centralnego sterowania Hemms przek&#x142;ada si&#x119; bezpo&#x15B;rednio na redukcj&#x119; emisji gaz&#xF3;w cieplarnianych.<br><br>Wyobra&#x17A; sobie dom, w kt&#xF3;rym rolety opadaj&#x105;, gdy zachodzi s&#x142;o&#x144;ce. Alarm, kt&#xF3;ry pami&#x119;ta za Ciebie, kiedy ma si&#x119; uzbroi&#x107; i &#x15B;wiat&#x142;a, kt&#xF3;re za naci&#x15B;ni&#x119;ciem jednego przycisku stwarzaj&#x105; nastr&#xF3;j odpowiedni do danej sytuacji. Profesjonalny system centralnego sterowania Hemms zosta&#x142; stworzony dla Twojej przyjemno&#x15B;ci i wygody.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/fCrv61Fe08QiGhEZF2AiuSu6H3p3KJ0EGohMrA6KHTIZs07nknUij47HMLv0xmwx7fY=h310",
+        "//lh6.ggpht.com/sKFPxnCgZEZijrfgiatQbw_r7Q8iJstM_NoR30Dw2FTo3bx4C92GysbdJx9sw75JudZl=h310",
+        "//lh5.ggpht.com/JMksDgK8Y14VXxhxyIJGzFF07kjJmQxjAZxTssVEdC-1Nrp8B7vrzufaGLs5e8FBlIxu=h310",
+        "//lh6.ggpht.com/NYiV9vNEuyG1Jfl37kSCCbPkSQzPdFVOwJFs4zeQSeH9U78jJe-MdYaBs4yy4NV5LXOk=h310"
+    ],
+    "video": "https://www.youtube.com/embed/NZ8L4j-7fGc",
+    "comments": [],
+    "recentChanges": [
+        "- Rozszerzona funkcjonalność scenariuszy w aplikacji na telefon i Android Wear.",
+        "- Dodane wsparcie dla powiadomień push.",
+        "- Drobne poprawki i usprawnienia działania aplikacji."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.hkosacki.hemmssmarthouse&hl=en&gl=us",
+    "appId": "pl.hkosacki.hemmssmarthouse"
+}

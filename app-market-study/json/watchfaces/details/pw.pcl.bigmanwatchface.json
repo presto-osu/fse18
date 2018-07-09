@@ -1,0 +1,56 @@
+{
+    "title": "Huge Digital Watch Face",
+    "summary": "A huge digital watch face eases you to read the time even in ambient mode !",
+    "icon": "//lh6.ggpht.com/2L1xw8lkh-AJJTr-L8lRDV1keb8xju5Zra7jfzsoMIkcVlitR6bZxzhjfEi5DNIROn4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.2,
+    "reviews": 32,
+    "developer": "Parallel Computing Lab.",
+    "developerId": "Parallel+Computing+Lab.",
+    "developerEmail": "pond@pcl.pw",
+    "developerAddress": "4-7 Sengokudai, Otsu, Shiga, 5200028 Japan",
+    "updated": "March 8, 2015",
+    "version": "1.0.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Do you have a frustration when reading the time on your smart watch? Huge digital watch face eases you to read the time even in ambient mode. This watch face is not very beautiful, but it is very useful.Features:- Hour and Minute with huge digit- Weekday, Month, Date- Battery indicator- Only 24-hour mode is supported (sorry!)Configuration:- Background color- Hour digit color- Minute digit color- Date, month, battery indicator colorTo install:1. After installation, run \"Resync app\" on Android Wear App.2. Long press the face of your android wear watch and choose \"BigManWatchFace\"Compatible with Moto360, Sony SmartWatch3 and some round or square face android wear 5.0 watchesAndroid phone requires 4.3 or up",
+    "descriptionHTML": "Do you have a frustration when reading the time on your smart watch? Huge digital watch face eases you to read the time even in ambient mode. This watch face is not very beautiful, but it is very useful.<br><br>Features:<br>- Hour and Minute with huge digit<br>- Weekday, Month, Date<br>- Battery indicator<br>- Only 24-hour mode is supported (sorry!)<br><br>Configuration:<br>- Background color<br>- Hour digit color<br>- Minute digit color<br>- Date, month, battery indicator color<br><br>To install:<br>1. After installation, run &quot;Resync app&quot; on Android Wear App.<br>2. Long press the face of your android wear watch and choose &quot;BigManWatchFace&quot;<br><br>Compatible with Moto360, Sony SmartWatch3 and some round or square face android wear 5.0 watches<br>Android phone requires 4.3 or up",
+    "histogram": {
+        "1": 1,
+        "2": 3,
+        "3": 4,
+        "4": 5,
+        "5": 19
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/2WWcyFSextuuUjnUI8dIVsohxhACiC2K_AObyhqsBsTbyKKAUIR9Wdv7DFIzwIgJufQo=h310",
+        "//lh5.ggpht.com/dXxIpj2_eDv9Ieh2JwTLAJwHyub5NuoLQk9nYV4_Hno3oq6_YNHZhejTyNaVMYB8yUU=h310",
+        "//lh3.ggpht.com/caLLWojTNE1ee6n3NNhSpX1tuyRoxge8_WFKP3b097WflzH8Z1lBvochvqhy6CLDQw=h310",
+        "//lh4.ggpht.com/WAUpQHjgPM4nvwtRr1fu0kVoLz9MSXwY6GBYB95g2KVhPTGACWsk0oI_ydWs6R1A44GC=h310",
+        "//lh6.ggpht.com/VNs_IZhrotWXmT8LvAW1LLhlMFiDeoCSbnbXH_LNIVafN6NyXNrMAx1tUjH5D-JE0Ls=h310",
+        "//lh3.ggpht.com/XRKXeF5UhZTXBb6qex_5MNsXxMcS3hofelURcaR5bMtoxnqvusDUArURXCXQecawQw=h310"
+    ],
+    "comments": [
+        "Seems great but..... Please add an option for 12 hour mode. Will change to 5 stars if that is added. Thanks!",
+        "Very nice and battery saving..but only 24 hour face",
+        "Super size Really great display. 24h is no problem. Nice size for day and date. Battery displayed too.",
+        "Please add 12 hourly mode. It would be great.",
+        "Great size, fantastic display. Lovein it",
+        "Burn in Will cause burn in in ambient mode since there will always be certain pixels that are always on."
+    ],
+    "recentChanges": [
+        "The consumption time of drawing the watch face has improved.",
+        "Fixed some cosmetic problems."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pw.pcl.bigmanwatchface&hl=en&gl=us",
+    "appId": "pw.pcl.bigmanwatchface"
+}

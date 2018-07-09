@@ -1,0 +1,49 @@
+{
+    "title": "FiThletics Interval Wear",
+    "summary": "Control your interval Training with your android Wear or your smarphone",
+    "icon": "//lh4.ggpht.com/EqY0NnKPDDH_FHB2syFzz91j4TfOIV-_nzyD8t-Zax4xRZ0-bcJzg4muITsvZK56gqU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.3,
+    "reviews": 12,
+    "developer": "Unai correa cruz",
+    "developerId": "Unai+correa+cruz",
+    "developerEmail": "unaicorreacruz@gmail.com",
+    "updated": "December 20, 2014",
+    "version": "1.36",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Control your interval Training with Android Wear smart Watch or your smartphone.Characteristics:- Independent smartWatch mode.- Custom Intervals.- When you add, modify or delete interval in your phone, the app automatically synchronize the smartwatch.- Control the app with Android Wear smartWatch.- Switch on / off for the vibration and sound of the intervals.- Background Mode.Future characteristics:- Heart rate tracking (External heart rate, interval heart rate in Moto 360 and gear live are inaccurate)",
+    "descriptionHTML": "Control your interval Training with Android Wear smart Watch or your smartphone.<br><br>Characteristics:<br>- Independent smartWatch mode.<br>- Custom Intervals.<br>- When you add, modify or delete interval in your phone, the app automatically synchronize the smartwatch.<br>- Control the app with Android Wear smartWatch.<br>- Switch on / off for the vibration and sound of the intervals.<br>- Background Mode.<br><br>Future characteristics:<br>- Heart rate tracking (External heart rate, interval heart rate in Moto 360 and gear live are inaccurate)",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 4,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/4GhzRay7rfCyUW8YAJetggks0Bp0BPUZ7sqVbZcatc7jFWD_Jyi2HMVFjLe1_6iH7zo=h310",
+        "//lh4.ggpht.com/9MlvjoRpMBHal5_OdWrMmYOc-08Us0qa7TcC0_Xfx2m3zlyc5u9NS-JF92z1dKI7CA=h310",
+        "//lh6.ggpht.com/fmsoFby6FkgAcAqLasctcV5d_buwlKTBkjA7_wC-oiQZS7Yd6UuZOZiqOl3OfE3XaQ=h310",
+        "//lh3.ggpht.com/aoEU_0ABR-WSPebpeiAOxTTlF29LDWQmCU_0Al5iJ9v9R4RKu6-Y4A4K-wHATmM86ajM=h310",
+        "//lh3.ggpht.com/GIm5WmW2KvaIDp2ZT5W52Eu6fud5RVlizXxOVjXBwLS0AP9IUS_5vQ8YmyHkOaihE0s3=h310",
+        "//lh5.ggpht.com/Pp2BMFjdliyHAh4kvmPGcP-GJedgvL1y7jTUzeEUew9yTVURgSmck0PqkaCtSB9IXhU=h310"
+    ],
+    "comments": [
+        "I wish I can setup my own intervals All u can do is use an interval that comes with it but I wanna make my own"
+    ],
+    "recentChanges": [
+        "-Round interfaces works now."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=vssnake.intervaltraining&hl=en&gl=us",
+    "appId": "vssnake.intervaltraining"
+}

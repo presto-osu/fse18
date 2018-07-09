@@ -1,0 +1,47 @@
+{
+    "title": "Nice Time Watch Face",
+    "summary": "Nice Time Watch Face. Customize to your liking.",
+    "icon": "//lh3.googleusercontent.com/3YTvhZHustRN3shmTI8p5oaNqscU99v2aIQXFHaA_KG2PikhI7_kGi7PGbdU2Ud66g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 14,
+    "developer": "Esprit Pixels",
+    "developerId": "Esprit+Pixels",
+    "developerEmail": "espritpixels@gmail.com",
+    "developerWebsite": "http://www.espritpixels.com",
+    "developerAddress": "Triveni\nPilathara\nKannur - 670504\nKerala\nIndia",
+    "updated": "August 4, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Nice Time Watch FaceBeautiful watch face for your Android Wear device.To access customization options (in hand held device)1. Open Android Wear app.2. Select 'Nice Time' as the active watch face3. Tap on the settings icon on top of the watch face icon Upgrade to PRO to customize the look of the watch face.",
+    "descriptionHTML": "Nice Time Watch Face<br><br>Beautiful watch face for your Android Wear device.<br><br>To access customization options (in hand held device)<br><br>1. Open Android Wear app.<br>2. Select &apos;Nice Time&apos; as the active watch face<br>3. Tap on the settings icon on top of the watch face icon <br><br>Upgrade to PRO to customize the look of the watch face.",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 1,
+        "4": 4,
+        "5": 5
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KA6YKCad8j_BIdc0mJpuXMpFPBpB_R1_qNzeLGRwMjr86QVyGxlxY_XjX8X175fSciM=h310",
+        "//lh3.googleusercontent.com/9eyBDgkbAZBA0KbTdcpD2bX8Z8pmcLnIUUK9_iPLXAkNzI48CeGawMp5-hlZ0PAeYL8=h310"
+    ],
+    "comments": [
+        "Uninstalled it immediately It shows a square face on my round watch."
+    ],
+    "recentChanges": [
+        "1. Bug fix for round watches"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.epix.nicetimewatchface&hl=en&gl=us",
+    "appId": "com.epix.nicetimewatchface"
+}

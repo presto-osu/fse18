@@ -1,0 +1,59 @@
+{
+    "title": "DigiWatch for Android Wear",
+    "summary": "A lightweight and customizable watch face for Android Wear.",
+    "icon": "//lh5.ggpht.com/M0GYiIvVZclMITGCIPtscrP37nQQ1bWdYYgwsdgnasz40z1R6Pb8C28KVsbYkPfc8ZY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.1,
+    "reviews": 105,
+    "developer": "Logan Graham",
+    "developerId": "Logan+Graham",
+    "developerEmail": "omacranger@gmail.com",
+    "developerWebsite": "http://designloaf.com",
+    "updated": "April 7, 2015",
+    "version": "1.3.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "DigiWatch is an early watch face for Android Wear which provides custom fonts, background colors, and settings to tailor the watch face to your device/liking. Currently, it's in an early development stage where features and functionality are going to continue to grow (and fairly rapidly). Quick Notes:-  Access settings and customization: Open up the 'Watch Face Picker' screen by long pressing on the watch face, then click on the gear icon below the DigiWatch preview. - Apply Changes: The watch face might have to be re applied for changes to be updated properly. Featured and design changes are welcome and encouraged from users, let me know what you're looking for in a watch face!",
+    "descriptionHTML": "DigiWatch is an early watch face for Android Wear which provides custom fonts, background colors, and settings to tailor the watch face to your device/liking. Currently, it&apos;s in an early development stage where features and functionality are going to continue to grow (and fairly rapidly). <br><br><b>Quick Notes:</b><br>-  Access settings and customization: Open up the &apos;Watch Face Picker&apos; screen by long pressing on the watch face, then click on the gear icon below the DigiWatch preview. <br>- Apply Changes: The watch face might have to be re applied for changes to be updated properly. <br><br>Featured and design changes are welcome and encouraged from users, let me know what you&apos;re looking for in a watch face!",
+    "histogram": {
+        "1": 6,
+        "2": 3,
+        "3": 15,
+        "4": 34,
+        "5": 47
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/n9IsQzjicRwMQpk8ivmM9KOxaKI0zL0pSI39r78N12hwRoXJca6bh3wlgOKo4n0Fxg=h310",
+        "//lh4.ggpht.com/C7HxCqWZBMH7Cvuv7JdCAICxugwrHa_WjwvCFn3wTDjmd2D0P-dvCoE5Z3LHi5hB8A=h310",
+        "//lh4.ggpht.com/EAJySDX8dyvIcwSTqzxj7borK2qSpmqdKeTQlBnzI2GA0lF62y2rmZRnAG1-SSmRxZUt=h310",
+        "//lh5.ggpht.com/5_udPMQ-G7HdTQpntXnws0PH9ugStNRb64C6oWRWiPoLSr2EW2ibeP1-yE-yD0mWAg=h310",
+        "//lh3.ggpht.com/nsxaZ8HN9pM4fJ8pFa-qBtZR2eKw8d5zAjHWS1PqUoD060CyDhYRN36XB-pMf61dkLw=h310",
+        "//lh3.ggpht.com/02kUMm3ZhNf_w9YPpveD9raTFS9OqzwHKOgECiiN3KiolzhtdqyTYidl0kchNA_NvczD=h310"
+    ],
+    "comments": [
+        "Nice and clean. Only thing missing (for me at least) is an option to invert the standby screen. On the Sony's transflective LCD that would lead to better legibility when the backlight is off",
+        "Nice, but one Needs option to hide leading zero.  Seconds go off screen.  What is Sneak Peek?  Add, Fix, Explain, then 5 stars.",
+        "Great watch face Would give it five stars apart from the day and date doesn't change sometimes. If I reset my watch that seems to fix it. Sony smartwatch 3",
+        "Fonts look the same For me, all the fonts look exactly the same Edit: suddenly worked out",
+        "Lg 6.0 Great.",
+        "Completely takes over your watch Can no longer control brightness after installing"
+    ],
+    "recentChanges": [
+        "Version 1.2:",
+        "- Added support for the new watch face API",
+        "- Added ability to chose a small notification card in settings",
+        "Version 1.3:",
+        "- Moved settings screen to the watch face picker screen to better fit with Android Wear standards"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.designloaf.digiwatch&hl=en&gl=us",
+    "appId": "com.designloaf.digiwatch"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Cute Cats Watchface",
+    "summary": "This is a Watchface application specialized for cute cats.",
+    "icon": "//lh3.googleusercontent.com/H26jN9hk7TiUnV4o29ilhICvkizsV8j_HB7UtBCxLFy70CHiAV0-ZYkxmYTZPRDtDZQn=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 16,
+    "developer": "DwarfStar",
+    "developerId": "DwarfStar",
+    "developerEmail": "dwarfstar.dev@gmail.com",
+    "developerAddress": "神奈川県川崎市川崎区日進町",
+    "updated": "May 29, 2015",
+    "version": "1.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Do you love cats?Cute Cats Watchface is the most durable Watchface application specialized for cats. Works for both round and square Android Wear devices. Please try it on if you have no time to design your cool watch face by using Facer Watch Face, WatchMaker Watch Face and so on. [How to set the watch face]When you install this app to your handheld device, you can find this watch face in your wearable device.",
+    "descriptionHTML": "Do you love cats?<br><br>Cute Cats Watchface is the most durable Watchface application specialized for cats. Works for both round and square Android Wear devices. Please try it on if you have no time to design your cool watch face by using Facer Watch Face, WatchMaker Watch Face and so on. <br><br>[How to set the watch face]<br>When you install this app to your handheld device, you can find this watch face in your wearable device.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JVxDzMfupOThOky9ChwbNXsJqMLksN7ifHteujkg36W8KaEiVG-CBi6Put6nVvZd8g=h310",
+        "//lh3.googleusercontent.com/QFLN4QX484AGsjW4YQIss9v52Ytcs9n_iD8Ry-WZxliOkzk-dSc17EMHf9Ta1Y7yWA=h310",
+        "//lh3.googleusercontent.com/Eri3likKaqID9kPNA8c-D1FkbRtkx741WDp-wXVGUA0R1Qy2Xmbn_jYDqeBTcIVxvAI=h310",
+        "//lh3.googleusercontent.com/iKUk1AuHeIXT8c0LCrb4XyBBygdhNFfww3N5ilUTxM5_n6ZQ_c_NdcR-sPTRRwhNOEk=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Support Android 5.1 (API level 22)",
+        "- Add new cute cats"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dwarfstar.watchface.watchface03&hl=en&gl=us",
+    "appId": "com.dwarfstar.watchface.watchface03"
+}

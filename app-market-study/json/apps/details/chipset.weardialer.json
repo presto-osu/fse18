@@ -1,0 +1,50 @@
+{
+    "title": "Wear Dialer (Deprecated)",
+    "summary": "Dial a number directly from your wrist!",
+    "icon": "//lh3.googleusercontent.com/zYYZyIshFqlqqcR9GiMyRd9HBkvjcD3xbL49p3oul7jGu7lB0VNE_1iTjmrE0dwmZbM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 6,
+    "developer": "Kartik Arora",
+    "developerId": "7576938011892005652",
+    "developerEmail": "chipset95@gmail.com",
+    "developerWebsite": "http://kartikarora.me",
+    "updated": "January 4, 2017",
+    "version": "1.0.0",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Hi everyone.I'll be moving this app to a new listing. If you enjoy using this app, please install it from the new location once it is available. The new app will be optimized for Android Wear 2.0. This app will be unpublished on 28th February.Dial a number on the watch and place a call from your phone. No need to take out the phone from pocket!It is very useful if you are using a wired/wireless headset with your phone.Source Code for the app can be found at: https://github.com/kartikarora/WearDialer",
+    "descriptionHTML": "Hi everyone.<br><br>I&apos;ll be moving this app to a new listing. If you enjoy using this app, please install it from the new location once it is available. The new app will be optimized for Android Wear 2.0. <br><br>This app will be unpublished on 28th February.<br><br>Dial a number on the watch and place a call from your phone. No need to take out the phone from pocket!<br>It is very useful if you are using a wired/wireless headset with your phone.<br><br>Source Code for the app can be found at: https://github.com/kartikarora/WearDialer",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NlG8a8VtK-a0VjOKo3tUhQh1TSTvN28c2WVyXsJZF9DexFBK3cS3eXbEC6UzM_EdMuk=h310",
+        "//lh3.googleusercontent.com/H7aPCMPK4X7QYBuhLGbdYRraDdouWG5bHT0yYfDF9dXI1JLSjzCjFWwmhpSw1n7I9pA=h310",
+        "//lh3.googleusercontent.com/lgcQpZdf5YOhjIe26z4DgQkDIolLIFZN9C-9uDO7WXBWDIPZ45hgHbhcGhaVkGiUg_I=h310",
+        "//lh3.googleusercontent.com/26cjdOigUOlXheylwwj9w2KLWgPj2LTEQZjblR94annITSf1rXt15jrkvkC2QhlAUw=h310",
+        "//lh3.googleusercontent.com/lTIlsLY8ZPzLF8AB-HN07DiAf2pdqECsKCte2fLU0QyccvrHR2FzRUpGpV0fO0Nj087U=h310",
+        "//lh3.googleusercontent.com/5vZFBPmsKCmfO3WLL-64MeWz_398SUSbu3524FZ_Ub-BJYL_MKKiutuVmr_Rcn7fNls=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Fixed issue where placing a call caused a crash",
+        "- Added Crashlytics crash analysis",
+        "- Reduced file size"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=chipset.weardialer&hl=en&gl=us",
+    "appId": "chipset.weardialer"
+}

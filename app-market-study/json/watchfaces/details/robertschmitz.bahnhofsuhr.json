@@ -1,0 +1,53 @@
+{
+    "title": "Smartwatch Station Clock",
+    "summary": "A pretty watch face for all who love the German or Swiss railroad station clock.",
+    "icon": "//lh3.googleusercontent.com/7tRsrvdmVDyZCg9hb61J-smyzURVBPof-RjHV7mrJcppeEpuSZzJzsm-P9GHsZCXqQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.1,
+    "reviews": 41,
+    "developer": "Robert Schmitz",
+    "developerId": "Robert+Schmitz",
+    "developerEmail": "email@schmitz-robert.de",
+    "updated": "May 23, 2016",
+    "version": "1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A pretty watch face for all who love the German or Swiss railway station clock.Please note the realistic stop of the seconds arm on the full minute - like in reality.Works with round and squared smart watches.*** This app is dedicated to the birthday of my precious :-) ***NOTE: You need a SmartWatch for using this app.",
+    "descriptionHTML": "A pretty watch face for all who love the German or Swiss railway station clock.<br>Please note the realistic stop of the seconds arm on the full minute - like in reality.<br><br>Works with round and squared smart watches.<br><br>*** This app is dedicated to the birthday of my precious :-) ***<br><br>NOTE: You need a SmartWatch for using this app.",
+    "histogram": {
+        "1": 4,
+        "2": 2,
+        "3": 3,
+        "4": 10,
+        "5": 22
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/fW686mrICLzS62fbSVb_qbgxrE2m3NTWZoOCGbBztBHP_SG0qiNZ6o5NVZdhF_h1RfU=h310",
+        "//lh3.googleusercontent.com/8suqjAHGwgSYroPqzrwz2FbU7v7Lc44Bj0DZPF4RY0Q3Ix_ckB11t78sIcoHYoP2ZJI=h310",
+        "//lh3.googleusercontent.com/q0IqSXmsFa9NDII3FdO5D4IdfWt_N7_VBfS4WlwhYBVp6yTT2ImBc52n1f-LyAhA6lM=h310",
+        "//lh3.googleusercontent.com/0w3xIGPDCr7EtNbXMO0CBkaYqiK7IGJ8HbK_HnaKoihR1TRmHKNKSYCZFZ6nE5j51eE=h310"
+    ],
+    "comments": [
+        "Looks great Would love an inverted color scheme for this one.",
+        "Classy, and free",
+        "Klasse!",
+        "I love the railway second hand delay like the real railway clock. The style could be a bit closer to the one on facerepo."
+    ],
+    "recentChanges": [
+        "*** NEUE ANIMATIONEN FÜR DEN SEKUNDENZEIGER ***",
+        "Einfach auf die Konfigurationsseite der Watch gehen und zwischen \"Linear\", \"Smooth\" und \"Hard\" wählen!",
+        "*** NEW ANIMATIONS ***",
+        "Just select \"Linear\", \"Smooth\" or \"Hard\" in the settings screen of the watch."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=robertschmitz.bahnhofsuhr&hl=en&gl=us",
+    "appId": "robertschmitz.bahnhofsuhr"
+}

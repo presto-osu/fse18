@@ -1,0 +1,62 @@
+{
+    "title": "Mac Remote for Wear",
+    "summary": "A basic Mac remote for wear to control Keynote, iPhoto, iTunes and more",
+    "icon": "//lh6.ggpht.com/JP4i1hmo4ykGpe3Fx1Jy37RqKvMJyMF1f8oNspRfPvwrX1kc-_ywitg2tM5mhtgD_iUx=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 31,
+    "developer": "hcpl",
+    "developerId": "hcpl",
+    "developerEmail": "android@hcpl.be",
+    "developerWebsite": "http://www.hcpl.be",
+    "updated": "April 3, 2015",
+    "version": "0.4.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Mac Remote for Wear is a basic app for Mac remote control of iTunes, Keynote, iPhoto, VLC and more with support for android wear.This app can be used from phone or tablet without wear also. The android wear device is used as an extra control available on your watch while the app is responsible for the wifi connection.Mac Remote for Wear is completely free to use and free of ads.",
+    "descriptionHTML": "Mac Remote for Wear is a basic app for Mac remote control of iTunes, Keynote, iPhoto, VLC and more <br>with support for android wear.<br><br>This app can be used from phone or tablet without wear also. The android wear device is used as an <br>extra control available on your watch while the app is responsible for the wifi connection.<br><br>Mac Remote for Wear is completely free to use and free of ads.",
+    "histogram": {
+        "1": 8,
+        "2": 0,
+        "3": 2,
+        "4": 7,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/BBb-cdg5QCGJTmC9hoeG29oy7GGAgHPUH1lc3QVnXW2OAreRfCjqoma_jp9mq94lzg=h310",
+        "//lh3.ggpht.com/1E0RbknYGVtMNEmK6xBJyNA0wk6_Tv4KNw4pGjz7BZjzx7wtSMlhehhLSm00wnPGc_I=h310",
+        "//lh5.ggpht.com/hEEwiQJFdUxY-fNO408KeXeprF5CqKf3rmmWmCDAmN3XljJKxT2me6viioVTPYFaHg=h310",
+        "//lh3.ggpht.com/hZdCVpvTuoh3ZwALejf5X1rwxf5sU34LsXhC_hnhZAf7eFyIi_8GSpGV6PTfKchab2w=h310",
+        "//lh6.ggpht.com/EOBahfEymNah8XZXSccoP8dYMOWTwVz_JiNBVN2MrP1G3S5AYDFy6JL0rTOEaOThmU4=h310",
+        "//lh3.ggpht.com/B5apK_Rqo6UJRUBxgLFs1xzcStHSPE-cmqnLIl9aJ9BM8hc9_KMoXCyj9ivUdauLzb0=h310",
+        "//lh6.ggpht.com/50JD9TcZhD7QFRXzaxT8hZ_UEaqKl93He3CIjN2SJEDH29G49pIq-NwRqOaGwiaGyQE=h310"
+    ],
+    "comments": [
+        "Wanted a quick working app that runs on my Android Wear watch before a presentation at work, so after it didn't do anything I promptly uninstalled it. Once I got home I tried it again and after some research it's got it to work!  I got confused at the beginning, because I didn't know that it uses Apple Script. It would be worth mentioning that and that you can get a dictionary for any app on a Mac (Google 'Spotify AppleScript dictionary'  for more details). Still trying to figure out how to display a toast after clicking the info question mark. Any thoughts?   It would be great if you could add support for the most commonly used apps like Spotify, Keynote, Powerpoint in the app out of the box (tweakable to change the default settings).  The direct Bluetooth connection would be handy too.   In general it's a great idea. Love the app! Keep up the good work! We, the people, are out there wanting more!",
+        "Great app and because it uses AppleScript commands it's very versatile and powerful. Only thing is, it doesn't work on Android Wear 2.0 (anymore).",
+        "I don't know how to connect Please someone tell me what's that username and password and IP address?",
+        "Just keeps force closing!",
+        "If it doesn't work turn on Remote Login under Sharing in System Preferences Make sure Remote Login is checked in the Sharing section of System Preferences.  Description should specify this or at least have it in a guide upon initial setup, I was about to give it a low rating when I thought to check my sharing settings, lucky I did because the app actually works rather well.",
+        "Good and flexible. I had to find out about AppleScript commands to be able to use it PowerPoint. I had not dabbled in this before so, it took some looking up, but then I got it to work. Now it's great, but I wish it had bluetooth support for \"no wifi\" situations, like presentations at clients' offices (with no network connection)."
+    ],
+    "recentChanges": [
+        "* minimal input validation",
+        "* title resume fixes",
+        "* minimal layout tweaks",
+        "* back navigation loop fixed",
+        "* using gson for communication now",
+        "* improved stability",
+        "* close keyboard in some situations it was left open"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=be.hcpl.android.bubble&hl=en&gl=us",
+    "appId": "be.hcpl.android.bubble"
+}

@@ -1,0 +1,62 @@
+{
+    "title": "KBC Mobile",
+    "summary": "KBC Mobile",
+    "icon": "//lh3.googleusercontent.com/sho70TvbrHtrnEScFI6xBqJFaMCAVnqIXNgJNftSIc-jfOuOCMibzSzCZT-V0ZsAB-Y=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 4.5,
+    "reviews": 32143,
+    "developer": "KBC Groep NV",
+    "developerId": "KBC+Groep+NV",
+    "developerEmail": "kbc.helpdesk@kbc.be",
+    "developerWebsite": "https://www.kbc.be/mobile",
+    "developerAddress": "KBC Groep NV\nHavenlaan 2\n1080 Brussel\nBelgium",
+    "updated": "January 29, 2018",
+    "version": "17.10.2",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Don't fancy going to your branch to do your banking or don't have time? There's no need. With the KBC Mobile app, you can bank where and when you want. It's completely free of charge, really easy to use, 100% secure and packed with great features that let you pay online and withdraw cash with your smartphone, transfer funds in real time between your own accounts or to accounts at other banks, check your account balance and transactions, pay or get paid from one phone to another, and more besides. You can even quickly open a savings account or Pricos pension savings plan, check your assets at a glance and get bespoke insurance quotes. No wonder we've got over 800 000 very happy KBC Mobile users. Are you about to join them? Install it now and take it for a test drive in demo mode. Enjoyed your test drive? Great! Just sign up using your debit card and card reader and you're off. Learn more at www.kbc.be/mobile.",
+    "descriptionHTML": "Don&apos;t fancy going to your branch to do your banking or don&apos;t have time? There&apos;s no need. With the KBC Mobile app, you can bank where and when you want. It&apos;s completely free of charge, really easy to use, 100% secure and packed with great features that let you pay online and withdraw cash with your smartphone, transfer funds in real time between your own accounts or to accounts at other banks, check your account balance and transactions, pay or get paid from one phone to another, and more besides. <br>You can even quickly open a savings account or Pricos pension savings plan, check your assets at a glance and get bespoke insurance quotes. <br>No wonder we&apos;ve got over 800 000 very happy KBC Mobile users. Are you about to join them? Install it now and take it for a test drive in demo mode. <br>Enjoyed your test drive? Great! Just sign up using your debit card and card reader and you&apos;re off. <br>Learn more at www.kbc.be/mobile.",
+    "histogram": {
+        "1": 957,
+        "2": 624,
+        "3": 1226,
+        "4": 8267,
+        "5": 21069
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/CMxP4I6CZtzBkkIs9LgG1Zhg36UKKXj9Cg1O4Ig279V7iZ-EuFnxrzzC8ZcznBq3-wc=h310",
+        "//lh3.googleusercontent.com/ralvqlJS5El0Puh9IOS9NYCpXHeVj72Oj_LutSVo-52ka3ezIg82dvJW0UiLr6LVXf4=h310",
+        "//lh3.googleusercontent.com/qCLzwwougMeH-l5_OZ97jx5yJLvHMEJMPRw-y8nndB_zDww2y2g9jyMeWrhFjG02uk4=h310",
+        "//lh3.googleusercontent.com/T47gX8srmQviM103O0ARlpvJtVBLmOw4Qi5dzEolfnRUtSMz3kyrQHNd_-9yb_TzVNY=h310",
+        "//lh3.googleusercontent.com/42WCMkk6IGn0Hj9q_lfQZRL9B69He65d6PveHLWPsrm9QkI0JCnvX5V8rYQsSyGBcBk=h310",
+        "//lh3.googleusercontent.com/0wiukKc0X5wWPyflNHBFxSjbp10YRQOOWUvr64heeeS3LoGxJB3ftiZu7MbIJR1ILdRQ=h310",
+        "//lh3.googleusercontent.com/cfVgAsoHHvYwBhhooWR4O19UGE16Y63gU9q2ix-s5WgXuQH8kZdxgsdoVVKeICcZ-hg=h310",
+        "//lh3.googleusercontent.com/2M-Nsb8y78DBv3-PtFlVmDOB-oUN3HQCS5Z37XcyoUgUfgegELts7gdHr2h_o1tjHoX_=h310"
+    ],
+    "comments": [
+        "Used to work perfectly, but now can no longer activate fingerprint. 'algemene fout opgetreden'. Already cleared data and stated anew, but still same error. Pixel XL.",
+        "Very awesome app and very easy to use. Only problem is the inability to take screenshots of payments. But in general it's worth it. I'd recommend it for every KBC user",
+        "Awesome, the app is very responsive and extremely useful. Constantly updated also. Only problem it is not possible to take screenshots which would have been useful.",
+        "Uitstekende applicatie. Al mijn banktransacties gebeuren met deze app. Ik zou niet meer zonder kunnen.",
+        "vingerafdruk ipv geheime code zou een optie moeten zijn",
+        "Like it. Does everything it should do and more."
+    ],
+    "recentChanges": [
+        "As a regular KBC Mobile user, you've provided us with interesting feedback, for which we thank you!",
+        "We're already busy doing what we can to make KBC Mobile even better.",
+        "What's new?",
+        "- Minor optimizations",
+        "If you have more tips, remarks or ideas, be sure to let us know on Facebook or Twitter @KBC_BE"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kbc.mobile.android.phone.kbc&hl=en&gl=us",
+    "appId": "com.kbc.mobile.android.phone.kbc"
+}

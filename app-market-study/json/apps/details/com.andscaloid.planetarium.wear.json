@@ -1,0 +1,52 @@
+{
+    "title": "Planetarium for Android Wear",
+    "summary": "Explore the Solar System!",
+    "icon": "//lh4.ggpht.com/ELHozC0fdiLk3Av8TUbuoBTaXLdNkdNrWY8HtmgSka1PzrurjyA_2QSVFIGqv9tWJ2zS=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 23,
+    "developer": "AndScaloid",
+    "developerId": "AndScaloid",
+    "developerEmail": "andscaloid@gmail.com",
+    "developerWebsite": "https://sites.google.com/site/andscaloid",
+    "developerAddress": "Patrick Dewasmes\n94 rue de Bellevue\n92100 Boulogne-Billancourt\nFRANCE",
+    "updated": "November 22, 2016",
+    "version": "1.3.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This application is the Smart Extension of « Planetarium » for your Android Wear watch.It includes both the classic application and extensions that allows you to display the views on your watch.The settings are those of the classic Widget :- Location : determined by wireless networks or GPS or by bookmark- Displayed celestial objectsClick on the icon to start the application in fullscreen mode on your watch. Swype on screen to switch between the available views. Long press to quit and to go back home.",
+    "descriptionHTML": "This application is the Smart Extension of &#xAB;&#xA0;Planetarium &#xBB; for your Android Wear watch.<br><br>It includes both the classic application and extensions that allows you to display the views on your watch.<br><br>The settings are those of the classic Widget :<br>- Location : determined by wireless networks or GPS or by bookmark<br>- Displayed celestial objects<br><br>Click on the icon to start the application in fullscreen mode on your watch. Swype on screen to switch between the available views. Long press to quit and to go back home.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 18
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/niKFomWcbjKOAbhSJK55hC0dskTmWgQYEMVDOSKx8dFfQhVn79hSz2eyCTzfF2wqKe8=h310",
+        "//lh3.ggpht.com/illxaGQh1xxse_rV_-IEhffB4TDOgaOisEm1mnwcArlsAZ9NiPbf-Ko5ewW8LjyZVhvG=h310",
+        "//lh3.ggpht.com/u2YSG24auam8OJuIZ0xnOMPkL0KI5qjZByIrT0JEFr4EkPjqh3yh_HjIMpymOUGTp6o=h310",
+        "//lh5.ggpht.com/Vj7E5PnZuG4xiuPsUb21Zod6X-AVujRRbk3JtYvUuW57QT7KuqzWFlyWzt8yjq-G8s4=h310",
+        "//lh3.ggpht.com/E8s1NPe_74HoNNITVQDKzk9OROZxp_brjk1sndU-70ZDQvt-eybnWsSZ9-cUWKyXhr8=h310",
+        "//lh6.ggpht.com/HSH3UUHuCMJPQzEMubQvYuttoDCdFHGIRV8UjUmvLkuH20neE9yOkFqz9M6yJb73k-c=h310",
+        "//lh3.googleusercontent.com/6xgWuBqgwIavusW-1xxWTCsNh-BnKysmjERlpsS5kowzkUapU4Y55d6JUQ3rYr9yIQY=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "1.3.3",
+        "====",
+        "Technical update and bug fixed for Android 7.X."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.andscaloid.planetarium.wear&hl=en&gl=us",
+    "appId": "com.andscaloid.planetarium.wear"
+}

@@ -1,0 +1,43 @@
+{
+    "title": "MinimalClock",
+    "summary": "Minimal and customizable watch face for your smartwatch",
+    "icon": "//lh3.googleusercontent.com/SZoV_asWW5xUeE0z4mG8dcbFDZO6MuPZIwnCuB9X7cbKAcMlF4TyRcsOrFK660Nh7Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 0,
+    "reviews": 0,
+    "developer": "GiuxDev",
+    "developerId": "GiuxDev",
+    "developerEmail": "giuseppe.ciuffo@gmail.com",
+    "updated": "July 9, 2015",
+    "version": "2.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "MinimalClock is come back with new API, new interface and an amazing color picker, that helps you to customize your minimal watch face.Color picker available at: https://github.com/QuadFlask/colorpicker",
+    "descriptionHTML": "MinimalClock is come back with new API, new interface and an amazing color picker, that helps you to customize your minimal watch face.<br><br>Color picker available at: https://github.com/QuadFlask/colorpicker",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_Z0a6nGn6LIjs0Gr1GNkNa-APega_92UEMcfm6JRfowkvTuR9hSYu4OTXY9s_IOumIhk=h310",
+        "//lh3.googleusercontent.com/wIQvZy7gVgoNUHnDn6P8RZg4iiFHmZMcoUe4Qy_cOTteqsZkDe4ue094KuFXfQhD9F3C=h310",
+        "//lh3.googleusercontent.com/qUA-lRumnk12Z99A-4WlxIDRf3QUsiQIDzIXv2-M0qxq4sMDd93xWLwOIeE50v3JhyY4=h310",
+        "//lh3.googleusercontent.com/aKhPTXuAgbtd5brP4Kr-4v0NoF65zyGopO4_r8v8PtLMOkbX_WSS8dhYTjZmt1UpXKg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.giuxdev.minimalclock&hl=en&gl=us",
+    "appId": "com.giuxdev.minimalclock"
+}

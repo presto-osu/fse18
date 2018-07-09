@@ -1,0 +1,54 @@
+{
+    "title": "Meter (for Android Wear)",
+    "summary": "Meter is a simple, material-design inspired light meter for Android Wear.",
+    "icon": "//lh3.ggpht.com/SKtd6yflaf2kAnTYS_XJjxsV1QMtknywZj90Dsv8IIPd4uU0eSCRnB-JfGzaqMLfTA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.2,
+    "reviews": 30,
+    "developer": "Matthew Huie",
+    "developerId": "Matthew+Huie",
+    "developerEmail": "developer@matthewhuie.com",
+    "developerAddress": "4800 Forbes Avenue\nPittsburgh, PA 15213",
+    "updated": "February 1, 2015",
+    "version": "0.2",
+    "genre": "Photography",
+    "genreId": "PHOTOGRAPHY",
+    "description": "Meter is a simple, material-design inspired photography light meter for Android Wear.  An Android Wear device with a light sensor is required.  (Currently only Moto 360 and Sony SmartWatch 3)  The application may/will not show up on unsupported devices!  If you are still having issues, try re-syncing through the Android Wear application on your phone.Version 0.2- Meter is now free on Google Play- An option to donate $1 to support Meter is now available within the phone appVersion 0.1- Use Meter on your Android Wear device as a companion in your photography workflow  - Select your shooting aperture and ISO, and the correct shutter speed will be displayed- An accompanying material design Phone application will be coming in a future version",
+    "descriptionHTML": "Meter is a simple, material-design inspired photography light meter for Android Wear.  <br><br>An Android Wear device with a light sensor is required.  (Currently only Moto 360 and Sony SmartWatch 3)  The application may/will not show up on unsupported devices!  If you are still having issues, try re-syncing through the Android Wear application on your phone.<br><br>Version 0.2<br>- Meter is now free on Google Play<br>- An option to donate $1 to support Meter is now available within the phone app<br><br>Version 0.1<br>- Use Meter on your Android Wear device as a companion in your photography workflow  <br>- Select your shooting aperture and ISO, and the correct shutter speed will be displayed<br>- An accompanying material design Phone application will be coming in a future version",
+    "histogram": {
+        "1": 8,
+        "2": 4,
+        "3": 2,
+        "4": 6,
+        "5": 10
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/wSbTF_BBiHwIb2Ckf6zs7PX0-K1SK98pZBjub5mXq1FaYQhavufzEp80jX6nMoitWy0=h310",
+        "//lh5.ggpht.com/XsIjRjyxKbCGiZ8-PYps0tMG45ZMZ1-K0ETUJ6goCWOLXth3IRCIVzmoHOFlzB9YMvU=h310",
+        "//lh5.ggpht.com/AEqGCQu5DmCteFb6KPodW4z6Y1PGn0G2n1y-on5zPAQWunOuJx7I8ytG1e3PKETNaH8=h310",
+        "//lh5.ggpht.com/cx1WNsBkSI70_BSGvretRp3A0UUV1WgtWVN69KIYkwvMpdnuChYObD_ynyTGfgwIoqXc=h310",
+        "//lh6.ggpht.com/TCl1cJKYrj5hmQ4do2kG5aOjXiJUuwcfCFAoI2Laooe0TZ8ywUwRojQy9I2DS8cqFPo=h310",
+        "//lh6.ggpht.com/1J6l05l1IaDHheD6m8Pk1D8ZSispLwS6du_iOqx8Y2RRnqhIY25OTjq0EB0bHZHJTQ=h310"
+    ],
+    "comments": [
+        "Cant use it Thought it'd be a nifty tool to see if it really was correct, though there's no app on the watch to open and the phone app is just a donation screen, shame :( my inner nerd was quite excited when I saw this, as I didn't think  there was a tool that could do it.",
+        "This is very nice app to use your watch as exposure meter. I will see how accurate it is in the next days.   I wonder if it can be made a bit smarter (1) do S mode calculation i.e. select aperture when speed is fixed. (2) use auto iso with minimum shutter speed. Exposure meters have a bunch of small nifty features.  PS I tested it along side my Minolta Vf meter and the results are surprisingly similar. Only caveat is to not point the watch perpendicular to the light source as it lacks dome diffuser and it will tend to report one stop more light.  PSS I wonder if flash metering is possible.",
+        "Great app This saves me from having to use my phone",
+        "Works",
+        "Unusable No free functions, only after donations."
+    ],
+    "recentChanges": [
+        "Meter will now be free on Google Play!  An in-app billing option is available for donations."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.matthewhuie.meter&hl=en&gl=us",
+    "appId": "com.matthewhuie.meter"
+}

@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/sootOutput
+log
+*.jobf
+.idea
+.DS_Store
+build
+out
+/captures
+*.pyc
+*.dot

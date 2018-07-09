@@ -1,0 +1,52 @@
+{
+    "title": "dMetronome: Metronome for Wear",
+    "summary": "Metronome in your wrist",
+    "icon": "//lh4.ggpht.com/-u6ll6goihHG7bnSJkELVLlVKWrzWyn22UCFEOPXdzhKHTvbtleiJ-wSHoqPoWs3egA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 227,
+    "developer": "Digutsoft",
+    "developerId": "Digutsoft",
+    "developerEmail": "support@digutsoft.com",
+    "developerWebsite": "http://www.digutsoft.com/",
+    "updated": "January 31, 2017",
+    "version": "17.02",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app supports only Android Wear 2.0dMetronome is the best metronome app runs in Android Wear.Set BPM with slider, and set accurate BPM with buttons.After setting BPM, start metronome. Then, your watch will vibrate in the BPM.You also can set counts from 1 to 8 in preference screen.Also you can use 'Tap Tempo' feature which makes you can measure music's bpm by just simple tapping! Swipe up to use this feature.# Android Wear device frame is from Cyril Mottier. http://bit.ly/1CG52nJ# Check out source at https://github.com/Digutsoft/dMetronome",
+    "descriptionHTML": "<b>This app supports only Android Wear 2.0</b><br><br>dMetronome is the best metronome app runs in Android Wear.<br><br>Set BPM with slider, and set accurate BPM with buttons.<br>After setting BPM, start metronome. Then, your watch will vibrate in the BPM.<br>You also can set counts from 1 to 8 in preference screen.<br>Also you can use &apos;Tap Tempo&apos; feature which makes you can measure music&apos;s bpm by just simple tapping! Swipe up to use this feature.<br><br># Android Wear device frame is from Cyril Mottier. http://bit.ly/1CG52nJ<br># Check out source at https://github.com/Digutsoft/dMetronome",
+    "histogram": {
+        "1": 26,
+        "2": 16,
+        "3": 16,
+        "4": 47,
+        "5": 122
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/gucgaJ846YgjZqU8M4_KG96Vcaaf0HZL5eAdx5WHtrXsZrkwKKJN7hWLpu6Mno-pLA=h310",
+        "//lh6.ggpht.com/yakj-UgwENoG1sgMlUYaxNsgm-P5hU2g_4WLjf-85Rj8trUNj0KeNEVV-TmJMcl5DQ=h310"
+    ],
+    "comments": [
+        "Simple idea, well executed, and really useful. Wish this had been about when I was a kid!",
+        "Love it! Simple design and you can set your own tap tempo. Brilliant!",
+        "Same issue as Brian, but with Samsung Gear Live watch. Restarted, reinstalled, resynced, reset and never shows on the watch.",
+        "Would not connect to watch or show up anywhere. I tried fixing it but there is no way to connect it to the watch.",
+        "Will not install on to watch",
+        "Will no longer install Even after a factory reset, this product says it installs and is shown installed on my LG G3 running Marshmallow, but it never shows up on my watch - Moto360 gen 2. All other Android Ware apps I install work fine. Oh well, time to find another metronome for my watch. The author helped for awhile but now won't help further. Uninstalled."
+    ],
+    "recentChanges": [
+        "17.02",
+        "# Supports Android Wear 2.0 Standalone mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.digutsoft.metronome&hl=en&gl=us",
+    "appId": "com.digutsoft.metronome"
+}

@@ -1,0 +1,51 @@
+{
+    "title": "BigSimple Wear Watchface",
+    "summary": "Watchface for Wear!Just the Time Big and Simple!",
+    "icon": "//lh6.ggpht.com/ZURbqufaUSUZKTtwSZsn_yMmKEBseUnjsMDf1wKpEYorDCO1J03KsMXMwqGSEfL5OQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 38,
+    "developer": "Raimund Arning",
+    "developerId": "Raimund+Arning",
+    "developerEmail": "info@bytecarousel.com",
+    "developerWebsite": "https://plus.google.com/u/0/+RaimundZ",
+    "updated": "January 31, 2015",
+    "version": "1.7",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "BIG SIMPLE Watch Face for WEAR DEVICES.Official API Support, some Features will be added back soon! *Instructions*-Pair your device with watch.-Install the application-Choose the watch face from your Wear watch.*Note:* Please choose the watchface on your Wear Smartwatch, before sending the changes to the wear device.",
+    "descriptionHTML": "BIG SIMPLE Watch Face for WEAR DEVICES.<br><br>Official API Support, some Features will be added back soon! <br><br>*Instructions*<br>-Pair your device with watch.<br>-Install the application<br>-Choose the watch face from your Wear watch.<br><br>*Note:* Please choose the watchface on your Wear Smartwatch, before sending the changes to the wear device.",
+    "histogram": {
+        "1": 2,
+        "2": 5,
+        "3": 9,
+        "4": 3,
+        "5": 19
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/IUVRq7oMK-2Ylp8gouvarsnTmBkFDrcIX2slFH0cd51ErFSn27UFEoAjGp-75C731w=h310",
+        "//lh3.ggpht.com/Cu5RdGlE5lJfl7mG4S5ql2yJ7zOG1_k9DI0Y0Uia-jUPzwnHAVqTd9UHLeKKTPo7am0=h310"
+    ],
+    "comments": [
+        "I'll be the 2nd then Unless you're military, here in the states we dont use 24hr time. Thank you though. I will add this to my collection when 12hr is added. Thanks.",
+        "Euro Time??? We don't tell time in 24hr format here in the United States. Please add 12hr format as well. Also the date and month should be formatted Monday/October/20... Uninstalling and will check back for an update. There is a rest of the world too. Had installed for over 2 months and I'm sure I'm not the first to mention this.",
+        "Love the design. 24-hour time is much cooler than 12-hour time. Easier to set an alarm to and not confuse am with pm. What's so difficult about deducting 12 from a number to figure out the time?",
+        "Needs more work Needs a 12 hour mode and more customization features."
+    ],
+    "recentChanges": [
+        "* added official API Support",
+        "* added option to change all colors",
+        "* dimmed mode full color"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.raimund.bigsimple_ger&hl=en&gl=us",
+    "appId": "com.raimund.bigsimple_ger"
+}

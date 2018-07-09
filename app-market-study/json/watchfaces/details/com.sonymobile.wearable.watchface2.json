@@ -1,0 +1,55 @@
+{
+    "title": "Watch Faces for Smartwatch 3",
+    "summary": "This is the official Sony application for SmartWatch 3 SWR50.",
+    "icon": "//lh3.googleusercontent.com/DeDY--eaqtDp2tJD-kr469S0ImvUFeGwKkWOUwWmL8FL3NRW4ByfLdExveADiIQ4mg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.2,
+    "reviews": 3604,
+    "developer": "Sony Mobile Communications",
+    "developerId": "4851747018805076305",
+    "developerEmail": "apps@sonymobile.com",
+    "developerWebsite": "http://www.sonymobile.com",
+    "developerAddress": "Mobilev. 4\n22188 Lund\nSweden",
+    "updated": "March 16, 2016",
+    "version": "2.0.A.0.20",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "This is the official Sony application for SmartWatch 3 SWR50. Personalize your watch by designing your own watch face. Change background, hands, time markers, accent color and more. Choose from a range of widgets to get the information you need on your wrist.\t\tTo use this accessory app, you must have the Android Wear app installed on your Android smartphone or tablet.To open the Watch Face Editor, pick a Watch Face in the Android Wear application and tap the gear icon or select \"\"Settings\"\" after tapping on three dots.SmartWatch 3 expands your Android experience and introduces new and exciting ways to live and communicate. It interacts with your smartphone via Bluetooth® and what’s happening in your life is mirrored in your watch.",
+    "descriptionHTML": "This is the official Sony application for SmartWatch 3 SWR50. Personalize your watch by designing your own watch face. Change background, hands, time markers, accent color and more. Choose from a range of widgets to get the information you need on your wrist.<br>\t\t<br>To use this accessory app, you must have the Android Wear app installed on your Android smartphone or tablet.<br>To open the Watch Face Editor, pick a Watch Face in the Android Wear application and tap the gear icon or select &quot;&quot;Settings&quot;&quot; after tapping on three dots.<br><br>SmartWatch 3 expands your Android experience and introduces new and exciting ways to live and communicate. It interacts with your smartphone via Bluetooth&#xAE; and what&#x2019;s happening in your life is mirrored in your watch.",
+    "histogram": {
+        "1": 277,
+        "2": 98,
+        "3": 335,
+        "4": 773,
+        "5": 2121
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/cjRZrn93AYcf2qrJNYX8c1UrR8WqjIRnLN6C6U83TShDao5l5vzctjJ4NmvpCY2XZjA=h310",
+        "//lh3.googleusercontent.com/sI4eBuBeOSY2VlTb9_vf-kkt9ITD7PaTsdpNf-wPSvOLLZYrM_Sdv_vJuXKDmJrMFkJv=h310",
+        "//lh3.googleusercontent.com/9y9HHc6KMfi0wuEL0YiZsBaM1zxoNgRWskLNkcCUTTxu8W4jonDEEE1ozHjBgttnZw=h310",
+        "//lh3.googleusercontent.com/Hf0E4085pSUHYscKTKFFIe9QN3gDAc8WAMGJW7ybirDdwOXDUYpZpON0gmWTxoNFdkQ=h310"
+    ],
+    "comments": [
+        "Google fit issue... 18/4 - for some time now fit steps are different to fit app, have tried resync and still not working, any ideas?      Old -Great item having an app from the watch maker but there are some issues to look at please... 1. Please can we have a weather icon, 2. Also a battery tab for phone and watch, this would vastly improve the app and make it more competitive with the others available. Cheers.",
+        "Most widgets don't work or won't load. Watch face is OK, could use more /better background control,  digit options and hand options. Mostly, several widgets fail to load /display: next appt, battery, compass. Would be my watch face of choice if it worked! Hope it's fixed. Smartwatch 3, w/updates.",
+        "Sony's  REALLY Upping Their Game ! Finally. Was Dull & Boring ... March 16 Update Shows Sony's REAL Support of Android Wear! Good New Faces prove you can do it Greatly, too. Keep on showing us you can outdo Anyone in the Android Wear-verse!",
+        "Disappointing Installed it and nothing happens. Wont sync properly. Do i need a marshmallow OS for this to work? Definitely not user friendly. Looking for online help is futile...",
+        "Not great FACES ETC ARE IN THE ANDROID WARE APP!!! Sony could hire some designers and engineers to create some great watch faces with options you want. But you get a few more faces with the same hit and miss additions and backgrounds you had with the other Sony faces. Imo this should offer tens of quality Sony faces each with widgets like steps or date across the range and not just what faces Sony thinks they suit.",
+        "Not bad but... Finally Marshmallow. Just received an update yesterday and everything looks good so far. Don't have to be worried of living phone at home any more. Remote notification work good only \"ok google\" playing up a bit but that the issue with connection speed. Ability to send what's app messages without phone is plus for me."
+    ],
+    "recentChanges": [
+        "-          Fade out effect which provides visual feedback about visibility of the widgets. Available for Active, Modern and Classic Watch Faces",
+        "-          Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sonymobile.wearable.watchface2&hl=en&gl=us",
+    "appId": "com.sonymobile.wearable.watchface2"
+}

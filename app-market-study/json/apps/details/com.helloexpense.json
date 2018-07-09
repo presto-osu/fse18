@@ -1,0 +1,59 @@
+{
+    "title": "Hello Expense",
+    "summary": "A simple expense tracking app.",
+    "icon": "//lh3.ggpht.com/D5IZ2wdlk__d4SWcoJMcFMnvWUieTyTxFJ4K5AZoVNe8kGMcPzSL85KAy4JEWxx9N6M7=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.4,
+    "reviews": 2151,
+    "developer": "Alan L",
+    "developerId": "Alan+L",
+    "developerEmail": "helloapps1+expense@gmail.com",
+    "developerWebsite": "http://sites.google.com/site/androidhelloapps/helloexpense",
+    "developerAddress": "Mountain View, CA 94043",
+    "updated": "January 16, 2018",
+    "version": "Varies with device",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "size": "Varies with device",
+    "description": "Hello Expense is a simple, intuitive, and minimalistic app that allows you to enter expenses in a few taps.  It provides informative charts and graphs to allow you to analyze the data.  Supported features include:• Expenses/income• Customizable categories, currencies, and tags.• Multi-currency and mileage• View by category, day, week, or month• Recurring expenses• Category pie chart• Line graphs• Spreadsheet and QIF export• Backup/restore",
+    "descriptionHTML": "Hello Expense is a simple, intuitive, and minimalistic app that allows you to enter expenses in a few taps.  It provides informative charts and graphs to allow you to analyze the data.  Supported features include:<br><br>&#x2022; Expenses/income<br>&#x2022; Customizable categories, currencies, and tags.<br>&#x2022; Multi-currency and mileage<br>&#x2022; View by category, day, week, or month<br>&#x2022; Recurring expenses<br>&#x2022; Category pie chart<br>&#x2022; Line graphs<br>&#x2022; Spreadsheet and QIF export<br>&#x2022; Backup/restore",
+    "histogram": {
+        "1": 65,
+        "2": 55,
+        "3": 125,
+        "4": 517,
+        "5": 1389
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/GEViUye1Yw0WQ0IUe--VJzKNr8UG4Ovgzm7kJaDyASakAcikooUVGjRdC75T9WoRfP_K=h310",
+        "//lh3.googleusercontent.com/JcQJ1vBWIGn-D2L1SjoFNDTdOj-mfRpFOneBoRRsMDkYUHS0xywW6LyXm4SSPASXWhk=h310",
+        "//lh3.googleusercontent.com/JQvlHFzFNwx_NNFyjgJGQTaBrv7RKFbGsp74TApXFK8Zzf-sB2KqMToalmuaI1PyYoM=h310",
+        "//lh3.googleusercontent.com/yI67UkIIB72NXS5WDZwk8yxS5AQ6kphHz6C2MoX5-n7IC_F94iw4sFtmOd5ul7_FXuI=h310",
+        "//lh3.googleusercontent.com/9MeS-NqUqQscI8s8LuRSJIZN8InUEm1F3QmDsk2WrF0iexG8wMkVrrQcODC_z7UOnGG_=h310",
+        "//lh3.googleusercontent.com/6EkZ_7yR1z96gSwlhd8H0CdWcpeRBljxUbo-CVQvFlcRWZlwp68bRwrj_yd4kHUf5Rw=h310",
+        "//lh3.googleusercontent.com/yye5wYNeY_MJHkcBMgF3EYH4OEtmjjlZjmVO50PjvvPdHksxX_xRt8TXBp32Gfu-ZQ=h310",
+        "//lh3.googleusercontent.com/edXNcHsJEgALKwgiy_AC2nnoVamXxNcHyFccLR_p7uhTcZlfuNISWe-aTyhsPQkHmiI=h310"
+    ],
+    "comments": [
+        "Great app for personal finance.",
+        "Please update it to take auto backup on Google drive please",
+        "I had exported my data in CSV format but when I try to import it, I am getting error that CSV file is corrupted. I am not able to import my 2 years data.  Please do something about it. Otherwise its simple and neat application. Giving 3 star due to this issue only.     Updates (7-Nov-17): I wish it has option for repeat expenses. I need to move to other app due to this missing feature.  Please add repeat expenses feature and improve export and import even if its paid.  Updates (10-Nov-17): Thanks a lot for response. Now i can say its perfect and simple app. Hats off to the team for developing such a useful app that too without any adds.",
+        "Love it! Clean, simple, and easy to use. I use tags to simulate accounts now (like Cash, Credit, etc) would be nice if Accounts could be more formally supported. This way I don't have to check new tag/uncheck old tag when marking the expense account",
+        "Excellent.... I use this application for last three years.... It's really fantastic and much helpful too",
+        "Great app, no bloat at all."
+    ],
+    "recentChanges": [
+        "Add settings to show expense as negative"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.helloexpense&hl=en&gl=us",
+    "appId": "com.helloexpense"
+}

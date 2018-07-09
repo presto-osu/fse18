@@ -1,0 +1,59 @@
+{
+    "title": "Calendar Watchface",
+    "summary": "A Watchface that displays your calendar events along the edge of the clock face",
+    "icon": "//lh5.ggpht.com/OUVMh4zDS8t0FLDyHrXKY9eGawchtBdv-cdhFc5qMI1pKkcH_FtykFv1AnYjHRCibTs=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.5,
+    "reviews": 15,
+    "developer": "Aidan Grabe",
+    "developerId": "Aidan+Grabe",
+    "developerEmail": "aidsgrabe@gmail.com",
+    "developerWebsite": "http://www.aidangrabe.com",
+    "developerAddress": "Cork\nIreland",
+    "updated": "May 12, 2015",
+    "version": "1.7.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Calendar Watchface is a simple watchface for Android Wear that displays your calendar events along the circumference of the clock face. This gives you your daily schedule at a glance, making sure you never miss an important event!Your next event is shown at the bottom, along with it's location and the current date, while all-day events are shown at the top, if you have any.Using the mobile settings app you can customize: - Clock style: numbers or lines - Clock background image - Which calendars to show on the clock - The thickness of the clock handsAny and all feedback is appreciated and will be taken into consideration for future features and updates!Note: Permission for reading to external storage is needed in order to use images from your SD card as the clock's background",
+    "descriptionHTML": "Calendar Watchface is a simple watchface for Android Wear that displays your calendar events along the circumference of the clock face. This gives you your daily schedule at a glance, making sure you never miss an important event!<br><br>Your next event is shown at the bottom, along with it&apos;s location and the current date, while all-day events are shown at the top, if you have any.<br><br>Using the mobile settings app you can customize:<br> - Clock style: numbers or lines<br> - Clock background image<br> - Which calendars to show on the clock<br> - The thickness of the clock hands<br><br>Any and all feedback is appreciated and will be taken into consideration for future features and updates!<br><br>Note: Permission for reading to external storage is needed in order to use images from your SD card as the clock&apos;s background",
+    "histogram": {
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 2,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/lVEmryuwpakIo5o61OM5HyDzDiCbMkETOqQDXHQCVp3kagMy--xx8WoqUU7PAQfFaik=h310",
+        "//lh6.ggpht.com/vlV_7XrvSk3jyfcAaqVR6jWs2RTTNfc84c0ytfIwFSPJQVvseLdP5jp6U0SCQDlj-s7q=h310",
+        "//lh6.ggpht.com/-2bT8OnjZElt74jVzXBiCLu64ffPuMzyJTEHF_J3Q32Ge15cWuJf10dN0upyI3Zd-dY=h310"
+    ],
+    "comments": [
+        "Good idea, but force closes After a few months of use, the watchface is still not working on my watch. It keeps on force closing immediately after applying it. I am using a nexus 5 and LG g watch. Especially a bummer since I paid money for this app",
+        "Crashes every time I apply the watchface on my Huawei Watch. Please help!",
+        "Love the design and functionality, but the watchface doesn't automatically update the calendar data, seems to be stuck on the same day/event.",
+        "Best calendar watchface! Try it out and see for yourself...",
+        "Love the concept but it doesn't work.",
+        "Great! But 1 request! Allow me to change the color of the Clock hands! That'd be nice!"
+    ],
+    "recentChanges": [
+        "Version 1.7.1",
+        "+ Fixed a crash when choosing the colour of the hands on devices Android versions below 5.0 Lollipop, thanks to the user that reported it!",
+        "Version 1.7",
+        "+ You can now change the colour of the clock's hands!",
+        "Version 1.6.1",
+        "Bug Fix:",
+        "- Fixed the events displaying outside the numbers for some devices such as Lg G Watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aidangrabe.customwatchface&hl=en&gl=us",
+    "appId": "com.aidangrabe.customwatchface"
+}

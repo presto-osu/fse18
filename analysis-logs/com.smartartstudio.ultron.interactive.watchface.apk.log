@@ -1,0 +1,326 @@
+Soot started on Thu Jun 21 12:09:55 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.smartartstudio.ultron.interactive.watchface.apk
+[INFO] MySceneTransformer: ############## com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   173
+[INFO] FlowGraph: @@@@ Total Methods: 596
+[INFO] FlowGraph: @@@@ Total Stmts:   37112
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (register_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,18), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,19), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,2), (unregister_sensor_listener,This[com.smartartstudio.turbo.intractive.watchface.AnalogWatchFaceService$Engine]1729,1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (register_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,2), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,18), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,19), (unregister_sensor_listener,NEW[new com.sandhu.carbon.interactive.watchface.AnalogWatchFaceService$Engine]242,1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (register_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,1), (unregister_sensor_listener,NEW[new com.smartartstudio.ultron.interactive.watchface.AnalogWatchFaceService$Engine]883,2)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2, 18, 19] [[<null::SELECT::interactive>, <interactive::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2, 18, 19] [[<null::SELECT::interactive>, <interactive::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2] [[<null::SELECT::interactive>, <interactive::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2, 18, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2, 18, 19] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 6: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 6: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 6: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 7: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 7: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 7: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2, 18, 19] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 8: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 8: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 8: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2, 18, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 9: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 9: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 9: wearable.standby()
+[INFO] MySceneTransformer: TOTAL TIME: 31.152000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:10:29 EDT 2018

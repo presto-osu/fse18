@@ -1,0 +1,52 @@
+{
+    "title": "Vortex Led Watch Face",
+    "summary": "A Vortex Led Clock sucking time away. Literally.",
+    "icon": "//lh3.googleusercontent.com/D4KkOac8rQ29OC-RL4GhvpRmHoZYkHA1UBoherwDrc5RmTDrGPriWtLUMTExGrfo2X8L=w300",
+    "price": "$1.29",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 5,
+    "reviews": 1,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerWebsite": "http://seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "June 4, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "The underlying idea was to create a Led Clock with a Vortex sucking time away.This is the fourth watch in our Creations series.http://www.seenapps.com/index.php/category/creations/Time (Hours and minutes) is displayed parallel to the vortex which gives this slight pitch.Seconds are rendered on the outer rim, disappearing one by one as leds get sucked by the Vortex.12h mode is supported based on your locale.You should be able to catch two different animations:- the seconds ring are used to wake the clock up and change digits.If you are patient enough, you should see all digits disappearing together at midnight.The face comes with 4 color schemes (as per the screenshot below)Don't get fooled by the simplified look and feel, there is a lot going on in this face. In fact, this was one of the most challenging I have written to date in terms on underlying math.I should also add that wear devices are pretty bad at floating point calculation. Animations that typically look smoother on the actual device than the emulator were this time the opposite.If you have questions or concerns about this face, please drop us a note at support@seenapps.comIf you like our faces, don't miss the good stuff at https://twitter.com/SeenApps/You can also checkout http://www.seenapps.com/ for all our watch faces.",
+    "descriptionHTML": "The underlying idea was to create a Led Clock with a Vortex sucking time away.<br><br>This is the fourth watch in our Creations series.<br>http://www.seenapps.com/index.php/category/creations/<br><br>Time (Hours and minutes) is displayed parallel to the vortex which gives this slight pitch.<br>Seconds are rendered on the outer rim, disappearing one by one as leds get sucked by the Vortex.<br><br>12h mode is supported based on your locale.<br><br>You should be able to catch two different animations:<br>- the seconds ring are used to wake the clock up and change digits.<br>If you are patient enough, you should see all digits disappearing together at midnight.<br><br>The face comes with 4 color schemes (as per the screenshot below)<br><br>Don&apos;t get fooled by the simplified look and feel, there is a lot going on in this face. In fact, this was one of the most challenging I have written to date in terms on underlying math.<br><br>I should also add that wear devices are pretty bad at floating point calculation. Animations that typically look smoother on the actual device than the emulator were this time the opposite.<br>If you have questions or concerns about this face, please drop us a note at support@seenapps.com<br>If you like our faces, don&apos;t miss the good stuff at https://twitter.com/SeenApps/<br>You can also checkout http://www.seenapps.com/ for all our watch faces.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/YdQZUMtiD06wDQWmHWyiD1FeZ-Uni19cm43Hht18SK2DB80YP3kS7YPXihA4gnhfSU8=h310",
+        "//lh3.googleusercontent.com/EGjWeWhZeB-7PylBn0HTmKZkF_E4fmfX2otYh2Z53Z5dRAEvVpIj1FRMeRDZNV8m-g=h310",
+        "//lh3.googleusercontent.com/Z8ot01nVmtkhJfu39hrD4SBBxLR8BN4eu2wCMIG7yHmf0HMJoNb1HD6-4QG09WvRogg=h310",
+        "//lh3.googleusercontent.com/N2a804T_XiN4Jn98q6LicccplLIYJki5QUclPqWCFpbn7P9UGtaMvqhKWnQOa0OfmA=h310",
+        "//lh3.googleusercontent.com/qjptiSsYQd1WnfAGUtyzd5x0EkL0GSs4BxtFt2d8ZNUHHs3z0e3V73lyPeUNWuH6jw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "V1.2",
+        "Fixed ambient mode rendering",
+        "V1.1",
+        "Improved rendering speed",
+        "Shortened wake up animation"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.vortex_face&hl=en&gl=us",
+    "appId": "com.seenapps.vortex_face"
+}

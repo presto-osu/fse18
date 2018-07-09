@@ -1,0 +1,55 @@
+{
+    "title": "Meter Watch Face for Wear",
+    "summary": "Watch the time scroll by with this unique yet readable watch face.",
+    "icon": "//lh5.ggpht.com/yR89PKYZa1cAg8NIE4TFHWeDZdgDae8CbGPBLABjFAvdQ2UbyEo9kJrjOhuA8GHwqIw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.1,
+    "reviews": 779,
+    "developer": "Udell Enterprises, Inc",
+    "developerId": "6589881289812568831",
+    "developerEmail": "sterling.udell@googlemail.com",
+    "developerWebsite": "http://sterlingudell.com",
+    "developerAddress": "1338 Grand Ave\nGlenwood Springs, CO 81601\nUSA",
+    "updated": "August 22, 2015",
+    "version": "2.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Displays the current time and date on two horizontally-scrolling \"meter\" displays. Also displays seconds - when the watch is awake - on a third, animated meter.NOTE: This app is a watch face for Android Wear. It will not work unless you have an Android Wear smartwatch. It is not compatible with Pebble or Samsung Gear. • Displays three black-on-white meters when watch is awake.• When watch is asleep, display reverts to white-on-black (without seconds). Less obtrusive, and easier on your watch's battery - plus it leaves room for a notification.• Works well on both square and round watch displays• By the creator of http://wearablewidgets.com",
+    "descriptionHTML": "Displays the current time and date on two horizontally-scrolling &quot;meter&quot; displays. Also displays seconds - when the watch is awake - on a third, animated meter.<br><br>NOTE: This app is a watch face for Android Wear. It will not work unless you have an Android Wear smartwatch. It is not compatible with Pebble or Samsung Gear. <br><br>&#x2022; Displays three black-on-white meters when watch is awake.<br>&#x2022; When watch is asleep, display reverts to white-on-black (without seconds). Less obtrusive, and easier on your watch&apos;s battery - plus it leaves room for a notification.<br>&#x2022; Works well on both square and round watch displays<br>&#x2022; By the creator of http://wearablewidgets.com",
+    "histogram": {
+        "1": 48,
+        "2": 26,
+        "3": 80,
+        "4": 243,
+        "5": 382
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/opGzwDUL6weUUMDFmfws2d-EmCi5miWNU-73IzRCJWNdlldosLqTrcv_OFMgamn6ag=h310",
+        "//lh6.ggpht.com/6LJEOqQJ3xeEyMKmswwEfSfgY2y-r75dXixhpRy7lkZXpTOrAu8g2sTA_fqMXj9bGA=h310",
+        "//lh4.ggpht.com/hk1bctsu7QJ-nj6k0jaJGEPiUyvAoEhTkyNCsnibw3PUPfezxVwOZPF0dG0-rR3sRq8=h310",
+        "//lh4.ggpht.com/BKx-UzQ2cVOeaet_1dXXTAFwl1ndb8TVi-o43LdwanNX56nhsJ6NrHeIi_GNhBez49DZ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/QlXpMLLn4EI",
+    "comments": [
+        "Looks great but... Great idea and well executed. Except for some reason there is a yellow stain colour on my Sony SW3. Its right in the centre where the white is whitest...but its yellow instead. No option/settings either so right now I'm not going to use it. Will keep checking back though cos I like the concept. Could incorporate step counter...? Edit: reply to response - just checked again on my SW3, on all brightness settings the whitest white is yellow. Can email a picture if you require....",
+        "Perhaps my favorite watch face, there are so few good square face designs. Most are just a round face made smaller to fit within the square. I love how the face is dark until you need to check the time, then it becomes black on white and the seconds appear making the most of your battery with an OLED display. This is simple and makes the most use out of the real estate of a square face, using with a Polar M600.",
+        "Nice It works well with my Sony Smartwatch 3. Only thing I'd change is between 5 min intervals is have mark for each minute. (ie: 4 small lines or dots). Looks good otherwise. Good job!",
+        "Great Very nice watch face using a unique way to show the time.  Only thing I would like to see is a mark for each minute on the minute scale.  I control trains in the UK and would like to use this watch face, but It is not possible to glance at the watch and see how many minutes past the hour it is.",
+        "Great face for Android wear But the cylinder tape effect doesn't present very well on the Sony Smartwatch 3 and just looks like a vertical yellow patch along the middle.  Gradation / fade correction?",
+        "Hours I like it a lot, but I wish the hour numbers were center justified over the tick mark like in the screenshot. For me the hour numbers are to the right of the tick mark."
+    ],
+    "recentChanges": [
+        "Adjust red line color for visibility on Sony SW3"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.meterwatchface&hl=en&gl=us",
+    "appId": "com.meterwatchface"
+}

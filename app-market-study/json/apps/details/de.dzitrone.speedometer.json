@@ -1,0 +1,58 @@
+{
+    "title": "Speedometer for Android Wear",
+    "summary": "A GPS based speedometer for Android Wear devices.",
+    "icon": "//lh4.ggpht.com/ZX3ne93A457on7usIziUdZBct9CIMpVvIhNoPLep-7buJd4y4ZZBY4nP_Nntk0NjfGc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.6,
+    "reviews": 102,
+    "developer": "Reductio Ad Absurdum",
+    "developerId": "Reductio+Ad+Absurdum",
+    "developerEmail": "googleplay@timmjati.de",
+    "developerWebsite": "http://www.dzitrone.de",
+    "updated": "February 20, 2015",
+    "version": "1.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "A GPS based speedometer for Android Wear devices.The speed is measured by the GPS of the phone and displayed on the watch in kilometers and miles per hour.*** PLEASE NOTE ***The speed information provided highly depends on the quality of the GPS signal. Please do not rely on the displayed information.",
+    "descriptionHTML": "A GPS based speedometer for Android Wear devices.<br><br>The speed is measured by the GPS of the phone and displayed on the watch in kilometers and miles per hour.<br><br>*** PLEASE NOTE ***<br>The speed information provided highly depends on the quality of the GPS signal. Please do not rely on the displayed information.",
+    "histogram": {
+        "1": 15,
+        "2": 7,
+        "3": 18,
+        "4": 22,
+        "5": 40
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/sVTYbIJbJKjeEEfZfItqyM_yID87njJv5BjHWhwWLf_8k3gFospj1B0bFfeTn4j4CAo=h310",
+        "//lh6.ggpht.com/grILsqNq6vL0GGG1icYz8V-4I2LZBt7cQk-GfC722nhLpmqqDVQFvjN5mIsd8N2CgA=h310"
+    ],
+    "comments": [
+        "A bargain at the price of free Would be nice if the default screen on opening could be set. Otherwise, wonderful!",
+        "Does not work",
+        "It's works!",
+        "Nice, but sorely needs an update. Uses the old pre-GPS Androidwear SDK.   Latest 5 supports native GPS, and means watches that have built in GPS (like the Sony smartwatch) will use this when there is no host mobile connected.  Please consider updating to latest SDK and using LocationManager API.",
+        "Excellent little app. Could still be improved by the option to also show the time on the speedo screen.",
+        "Good The speed has a error of minus 8km/hr"
+    ],
+    "recentChanges": [
+        "1.5:",
+        "- Using the Google Play Services for Location updates",
+        "- Support for GPS sensors on the smartwatch itself",
+        "1.22:",
+        "- Added pages for displaying the users moving direction (GPS & Compass)",
+        "- Fixed: Divide by zero error in pace view",
+        "1.1:",
+        "- Added pages for pace in minutes per kilometer and minutes per mile"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.dzitrone.speedometer&hl=en&gl=us",
+    "appId": "de.dzitrone.speedometer"
+}

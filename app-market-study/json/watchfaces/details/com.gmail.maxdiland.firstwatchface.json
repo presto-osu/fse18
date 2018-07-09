@@ -1,0 +1,54 @@
+{
+    "title": "Diland's classic watch face",
+    "summary": "Strict minimalistic watch face for Android Wear",
+    "icon": "//lh3.googleusercontent.com/tBso1Gl3_B_pDsSvc1CQGzQd2hQKcCfV8Rf6Qv2c0mE9aqqJ5tmLlY0Q1_zBfd9L64IY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 35,
+    "developer": "Maxim Diland",
+    "developerId": "5442695033736804273",
+    "developerEmail": "maxkr@mail.ru",
+    "developerAddress": "Ukraine, Kryvyi Rih",
+    "updated": "October 9, 2017",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Strict minimalistic design in black and white makes maximally visible the watch face on your Android Wear device in any conditionsFunctions:- Time- Date- Watch battery",
+    "descriptionHTML": "Strict minimalistic design in black and white <br>makes maximally visible the watch face on your Android Wear device in any conditions<br><br>Functions:<br>- Time<br>- Date<br>- Watch battery",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 2,
+        "4": 5,
+        "5": 24
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-vjMIZYss_2tVOCSqzUpcPra_GbV4da6bk6PQDScC5s8YkPt22Vg32_CVTbq9W_VLJM=h310",
+        "//lh3.googleusercontent.com/HXqCq2t-0HypT4D08WJkfQoPBRu1OGiNyWjj1ujsAD8pF3xcZzGLYTp2j_HVsvLG59U=h310",
+        "//lh3.googleusercontent.com/c7YvN2FeoPnFmNFMjdZIm_axps58zI-058fUXe7I5a3pq_iDcA617QO1Hn0Tz520GjM=h310",
+        "//lh3.googleusercontent.com/ioUOV0yS4LPSS0HPRa_0aXt8t_yiJAUaCIJ9befRQo4Xf0kaeFaT9xg7CYEwdkF6fBM=h310",
+        "//lh3.googleusercontent.com/aalIxrz3V9kVsOkkHv3OuexbDW0KwocnjkMwfFKBE1KgGodz7fHGcteO65WQUgzlaY0=h310",
+        "//lh3.googleusercontent.com/59qeXiP4AlAAIXhdJgwN57AlO8trleQDDxXnYpX0iIw93diFLVh9QyUExC0f5QJGLA=h310",
+        "//lh3.googleusercontent.com/OnT2B2FRZESpgNdR5WXimOBuHdPziwpZWc6lNyAAp43NHYTQdny628aRfzhcfBSMjg=h310",
+        "//lh3.googleusercontent.com/7gd3-KIzIdv_-HtBGEFQ4Civ4nOIXih-GCKKIDpv-S7sqqK5KdLvg98Z_HeRYKIH_bg=h310"
+    ],
+    "comments": [
+        "Nice",
+        "Awesome!"
+    ],
+    "recentChanges": [
+        "- Updated engine.",
+        "- Added phone app",
+        "- Android Wear 2 support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gmail.maxdiland.firstwatchface&hl=en&gl=us",
+    "appId": "com.gmail.maxdiland.firstwatchface"
+}

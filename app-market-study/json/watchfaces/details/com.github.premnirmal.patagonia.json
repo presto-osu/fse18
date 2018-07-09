@@ -1,0 +1,55 @@
+{
+    "title": "Patagonia Watch Face",
+    "summary": "A minimal watch face with overlapping text and date",
+    "icon": "//lh3.googleusercontent.com/hQlwnVeuv7AmD6NiPm_TtJmW2IZovenVHLxmVtDyWuAcs0W2yvqHq5Z0v-oPI8nwm0vP=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.3,
+    "reviews": 60,
+    "developer": "Prem Nirmal",
+    "developerId": "Prem+Nirmal",
+    "developerEmail": "stockswidget@gmail.com",
+    "updated": "January 12, 2017",
+    "version": "1.2.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "- Features a light mode and a dark mode ★- Choose whether to show a date or not ★- Choose between 24hr or 12hr Time ★Named after the region Patagonia in South America https://en.wikipedia.org/wiki/Patagonia",
+    "descriptionHTML": "- Features a light mode and a dark mode &#x2605;<br>- Choose whether to show a date or not &#x2605;<br>- Choose between 24hr or 12hr Time &#x2605;<br><br>Named after the region Patagonia in South America https://en.wikipedia.org/wiki/Patagonia",
+    "histogram": {
+        "1": 5,
+        "2": 0,
+        "3": 4,
+        "4": 11,
+        "5": 40
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.0 and up",
+    "androidVersion": "7.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/AwsbvCYa-dJkLhZeeeEghZPQUZH2or5qT8vfpzQ0Y_PH3z-87TjeQBHzvlW9Dqa8Gts=h310",
+        "//lh3.googleusercontent.com/dowfKDAralIgjhycBhKTYcXUJgzLocZoyDFQbW3cpicceDH9Lz9TBqxIfCWcdEAt_d0=h310",
+        "//lh3.googleusercontent.com/pRJIVkyXqF7DoB11xm4wk4wIoHtCAEieifnXnu5sqt3JwCoLIC61K50Bwj8UISAMQA=h310",
+        "//lh3.googleusercontent.com/dVv9VgphL10TB16QSbljah2UE880sU0mMwNntpNd8fac7qBFOtVcb95ao2pQSWSihXU=h310",
+        "//lh3.googleusercontent.com/_w48PLNqPEse05bBCrsgwNm_5PAOjL4wGnpNGdBfrKoeKqjoX48WPqa6_LLnr-qyXg=h310",
+        "//lh3.googleusercontent.com/eaLlKm6xvfTTjT6VH8vqklYVUDEhbAlarUzSU4LJjG53C5eUlhv1yj9bMeFMTq21k5M=h310",
+        "//lh3.googleusercontent.com/s2PusxQQY_DC9ru0Z_5IecVa_VSFk83iiPdim5VVLS4TmsJT2pVbKRqnVILAouUuEUU=h310"
+    ],
+    "comments": [
+        "Simple and functional Great watch face with bare minimum impact on battery life. A request to the dev though, is it possible to have it switch from light and dark mode automatically based on sun rise/sun set times? That'd be perfect !",
+        "Good watch face Can you add a non military clock view? And idk what is up with the notifications but they take up a large portion of the screen. Is there a toggle to keep them small untill needed?",
+        "More customisations, I'd love to see AM/PM options and the I'm not a fan of the spots inside the zeros, if there's an an option to remove those I think it would look better",
+        "Great watchface Simply elegant",
+        "Minimal, elegant and simple",
+        "Gorgeous face"
+    ],
+    "recentChanges": [
+        "- updated to wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.github.premnirmal.patagonia&hl=en&gl=us",
+    "appId": "com.github.premnirmal.patagonia"
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Be:Wi WatchFace",
+    "summary": "High-contrast watch face with weather, agenda and battery display",
+    "icon": "//lh3.googleusercontent.com/pSotvYI1-PPnaWbS9Tj_6yLWU8tD6ktFyqhXrjM0CmgOUMeGIcuPu6PHUb1Lt1EOQzDj=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 11,
+    "developer": "Sebcano",
+    "developerId": "Sebcano",
+    "developerEmail": "sebcano.play@gmail.com",
+    "updated": "December 19, 2017",
+    "version": "0.7",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Be:Wi is a digital watch face for Android Wear designed to be simple while being rich in information, highly readable and with good autonomy.This watch face displays:- the date- the watch battery level- the weather (tapping on it display more forecasts, the location is determined automatically)- events for the next 24 hours (tapping on it launch the system planning application)Note for Android 6 and above:To display weather forecasts, the app need to be manually granted the Location permission. This can be done through the phone Settings app -> Applications -> Be:Wi -> Permissions.",
+    "descriptionHTML": "Be:Wi is a digital watch face for Android Wear designed to be simple while being rich in information, highly readable and with good autonomy.<br><br>This watch face displays:<br>- the date<br>- the watch battery level<br>- the weather (tapping on it display more forecasts, the location is determined automatically)<br>- events for the next 24 hours (tapping on it launch the system planning application)<br><br>Note for Android 6 and above:<br>To display weather forecasts, the app need to be manually granted the Location permission. This can be done through the phone Settings app -&gt; Applications -&gt; Be:Wi -&gt; Permissions.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/gyuTm1A-v6WrjRB4d-HJiDMY622sXZXqYSR-G1XoEOqR95ywqvcNoIOcC9PFlZqNYDk=h310",
+        "//lh3.googleusercontent.com/QfxGSInBDNzb4327XYVn7bmqW_H_846ClmdIrcp4dTMJEq4q1BcmI28IavyMv_p5cts=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Fix 12-hour format display for 12:xx"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sebcano.bewiwatchface&hl=en&gl=us",
+    "appId": "com.sebcano.bewiwatchface"
+}

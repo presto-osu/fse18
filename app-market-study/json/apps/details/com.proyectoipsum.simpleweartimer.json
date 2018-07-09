@@ -1,0 +1,47 @@
+{
+    "title": "Simple Wear Timer",
+    "summary": "Simple timer for Android Wear. Can set and run multiple timers at the same time.",
+    "icon": "//lh3.googleusercontent.com/e-RQ9w5XHvMbQgZ3pfRGajWyyqs4YyR-Ub8yLB6IgP5uXPytompfjaOOfYijn1DuiSs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.1,
+    "reviews": 7,
+    "developer": "Rafi S.",
+    "developerId": "Rafi+S.",
+    "developerEmail": "rstkapps@gmail.com",
+    "updated": "June 11, 2016",
+    "version": "1.2",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "***************************************************This app is designed for and requires anAndroid Wear SMARTWATCH, it won't workon a smartphone.***************************************************Instructions:Swipe left to create a new timer or stopwatch.Swipe right to go back or exit the app.You can play, pause, reset and delete each timer.Short vibration when timer finishes.If you exit the app, the timers are saved but reset.If you press the button the app goes to background but keeps counting.",
+    "descriptionHTML": "***************************************************<br>This app is designed for and requires an<br>Android Wear SMARTWATCH, it won&apos;t work<br>on a smartphone.<br>***************************************************<br><br>Instructions:<br><br>Swipe left to create a new timer or stopwatch.<br>Swipe right to go back or exit the app.<br>You can play, pause, reset and delete each timer.<br>Short vibration when timer finishes.<br>If you exit the app, the timers are saved but reset.<br>If you press the button the app goes to background but keeps counting.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/AAwBE_24cBHI9EXypj655XDhzFe0zfS_UVd_7e4uCYe8FkcUnSiOcQA5s2NNWUid2w=h310",
+        "//lh3.googleusercontent.com/0l9VUuTwYnWZBKBLmOLY8pRpubeidU4QLuafBdXSQ7NqkL2jKPsTKkW2YGGpfbCu_A=h310"
+    ],
+    "comments": [
+        "Please update to Android Wear 2.0!!!"
+    ],
+    "recentChanges": [
+        "Added stopwatch functionality.",
+        "New layout and tutorial for creation of timers and stopwatch.",
+        "Improved round screen support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.proyectoipsum.simpleweartimer&hl=en&gl=us",
+    "appId": "com.proyectoipsum.simpleweartimer"
+}

@@ -1,0 +1,823 @@
+{
+  "events": [
+    "tap_screen_center",
+    "press_side_button",
+    "swipe_up",
+    "swipe_down",
+    "swipe_right",
+    "swipe_left",
+    "standby"
+  ],
+  "states": [
+    "Null",
+    "Ambient",
+    "Interactive",
+    "Invisible"
+  ],
+  "callbacks": [
+    "onVisibilityChanged(false)",
+    "onVisibilityChanged(true)",
+    "onAmbientModeChanged(false)",
+    "onAmbientModeChanged(true)",
+    "onCreate()",
+    "onDestroy()"
+  ],
+  "entries": [
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)",
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "standby",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_right",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "tap_screen_center",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      },
+      {
+        "callbacks": [
+          "onAmbientModeChanged(false)"
+        ],
+        "from": "Ambient",
+        "event": "press_side_button",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_left",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_up",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      },
+      {
+        "callbacks": [],
+        "from": "Ambient",
+        "event": "standby",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_up",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)",
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "standby",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "tap_screen_center",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_down",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_left",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)",
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "standby",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "press_side_button",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "tap_screen_center",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_right",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      },
+      {
+        "callbacks": [],
+        "from": "Ambient",
+        "event": "swipe_left",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      },
+      {
+        "callbacks": [],
+        "from": "Ambient",
+        "event": "swipe_down",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      },
+      {
+        "callbacks": [],
+        "from": "Ambient",
+        "event": "swipe_right",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "swipe_down",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_left",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_right",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_up",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_down",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_left",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_left",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_up",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "tap_screen_center",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "press_side_button",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "press_side_button",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "swipe_right",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)",
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "standby",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "press_side_button",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [],
+        "from": "Invisible",
+        "event": "swipe_down",
+        "to": "Invisible"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      },
+      {
+        "callbacks": [],
+        "from": "Ambient",
+        "event": "tap_screen_center",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_down",
+        "to": "Interactive"
+      },
+      {
+        "callbacks": [],
+        "from": "Interactive",
+        "event": "swipe_up",
+        "to": "Interactive"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onAmbientModeChanged(true)"
+        ],
+        "from": "Interactive",
+        "event": "standby",
+        "to": "Ambient"
+      },
+      {
+        "callbacks": [],
+        "from": "Ambient",
+        "event": "swipe_up",
+        "to": "Ambient"
+      }
+    ],
+    [
+      {
+        "callbacks": [
+          "onVisibilityChanged(false)"
+        ],
+        "from": "Interactive",
+        "event": "swipe_right",
+        "to": "Invisible"
+      },
+      {
+        "callbacks": [
+          "onVisibilityChanged(true)"
+        ],
+        "from": "Invisible",
+        "event": "press_side_button",
+        "to": "Interactive"
+      }
+    ]
+  ]
+}

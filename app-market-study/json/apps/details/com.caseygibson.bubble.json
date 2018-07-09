@@ -1,0 +1,44 @@
+{
+    "title": "Bubble for Android Wear",
+    "summary": "Bubble is a Spirit Level app for your Android Wear device.",
+    "icon": "//lh5.ggpht.com/5n0LrdA3e8gs4PY9JY2uaxtI9e4Et4qRosuu2HlW-DB0dC5vA5uIDkRvC_H8mvqkFw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "Casey Gibson",
+    "developerId": "Casey+Gibson",
+    "developerEmail": "casey.d.gibson@gmail.com",
+    "developerAddress": "11 Thoms Crescent, Mount Warren Park, 4207",
+    "updated": "February 9, 2015",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "- Please keep in mind that the app installs through your main phone / tablet to the connected Android Wear device. Installation may take up to a minute on your Wear device.-  Your Android Wear device must have an Accelerometer in order for the Spirit Level to work.",
+    "descriptionHTML": "- Please keep in mind that the app installs through your main phone / tablet to the connected Android Wear device. Installation may take up to a minute on your Wear device.<br><br>-  Your Android Wear device must have an Accelerometer in order for the Spirit Level to work.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/uoU79WnScnpl2037NiWObNUU5A95jYOyHL75nSYnshCCFososBfBGlsVGWuWVqezTxDY=h310",
+        "//lh5.ggpht.com/BW7jlk6N39W0wjam-JP7qxl9yC-sdGKNB1pfRX2MDpZ2c8ULzO7AbNHfMlTOeVqKocE=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.caseygibson.bubble&hl=en&gl=us",
+    "appId": "com.caseygibson.bubble"
+}

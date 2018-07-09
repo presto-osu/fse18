@@ -1,0 +1,46 @@
+{
+    "title": "Battery wear",
+    "summary": "Check the status of your handheld device Directly from your smartwatch.",
+    "icon": "//lh5.ggpht.com/FBP3qfmC3dJBE9B7puR0F3x7yIsJPVYBKwfbd6r7uCIpgyTh3eJLfFIorZp3utGxXA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3,
+    "reviews": 7,
+    "developer": "Dekra",
+    "developerId": "Dekra",
+    "developerEmail": "dekrandroid@gmail.com",
+    "developerWebsite": "http://mbonifazi.wordpress.com/",
+    "developerAddress": "Via Matteotti 114",
+    "updated": "August 6, 2014",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "With battery wear app you can easily check the status of handheld device battery from your Android Wear smartwatch. No need to pick up from your pocket your handheld device to see if the battery is flat...Everything just from your smartwatch!",
+    "descriptionHTML": "With battery wear app you can easily check the status of handheld device battery from your Android Wear smartwatch. No need to pick up from your pocket your handheld device to see if the battery is flat...Everything just from your smartwatch!",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/RuOcCiArk1xmW5cwtC_RBb-1gMlusMDNxYvomTNaY27SzgX-TEUgONgskUpMNHOgWrs=h310",
+        "//lh4.ggpht.com/6minFkmO-PFWLoU2dNH8jXH0L8r7DOIYMprH6DkB7bZLy1kh8-dngi-vj3L0hfbtDjY=h310"
+    ],
+    "comments": [
+        "Looks nice, needs some work still. Nice looking app I must say, quite clean.  An issue and a few thoughts. One, the \"application\" that gets installed to the wear device is called \"My Application\". I also almost always have the battery notification on my wear device. I'd rather have it configurable from the phone to send a notification at various thresholds. That plus on-demand checking by launching the Battery Wear app from the wear device itself. Otherwise, good start!",
+        "When it works The app works great when u 1st open it. After a while, tho, I notice that it stops sending notifications. I have to reopen the app on my phone to get it working again, then the cycle starts all over..."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wear.battery.dekra&hl=en&gl=us",
+    "appId": "wear.battery.dekra"
+}

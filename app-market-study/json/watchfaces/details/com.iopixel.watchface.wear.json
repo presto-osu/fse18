@@ -1,0 +1,50 @@
+{
+    "title": "Watch Designer",
+    "summary": "Watchfaces of GWD Loader files (Watch Gear Designer)",
+    "icon": "//lh3.googleusercontent.com/WDRka6vznJchMgDbixEHFggC3i1RDppO-CleiPLMkwfzDnE_AIyvgUDyeWFv2VxffM8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 1.8,
+    "reviews": 16,
+    "developer": "ioPixel",
+    "developerId": "8626049750728028733",
+    "developerEmail": "devs@iopixel.com",
+    "developerWebsite": "http://www.iopixel.com",
+    "developerAddress": "7 rue du bel air",
+    "updated": "June 23, 2016",
+    "version": "1.0.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Watchfaces loader.Use Watchfaces design by the Gear Watch Designer Tool.",
+    "descriptionHTML": "Watchfaces loader.<br><br>Use Watchfaces design by the Gear Watch Designer Tool.",
+    "histogram": {
+        "1": 13,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Cg8b8x8fKM8UsdE1BXcL77onc9z4ux6Y_4kt5ifrprhLoJClN92xnsYWpncxI40YaGvX=h310",
+        "//lh3.googleusercontent.com/KXbUJ85jEsbokHSyHV299Uq5yaaYDp8e4ED7qRLDfkIF5Nw39O4ks8q6oNVxucJPa_M=h310"
+    ],
+    "comments": [
+        "Just remove it The app doesn't do anything, comes with basically nothing,  you have to goto your website and sign up and then sign in which is down. It's been on the app store for 4 months, just remove it and start over when you have the time to actually work on it.",
+        "Doesn't do absolutely nothing",
+        "Waited my download, this does sweet f a"
+    ],
+    "recentChanges": [
+        "Many Fixes:",
+        "- new GWD 1.1.0 format supported"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.iopixel.watchface.wear&hl=en&gl=us",
+    "appId": "com.iopixel.watchface.wear"
+}

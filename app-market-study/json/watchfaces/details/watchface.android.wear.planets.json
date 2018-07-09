@@ -1,0 +1,58 @@
+{
+    "title": "Planets Watchface Android Wear",
+    "summary": "Planets watchface puts the solar system on your wrist.",
+    "icon": "//lh6.ggpht.com/O9evc1BxUH-ooGFAA-GtGkDOKk8rPaxZj5NFdjkauJGqE7a3jMtAqbRyGnmxOsvWmfA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4,
+    "reviews": 3821,
+    "developer": "Zuhanden",
+    "developerId": "Zuhanden",
+    "developerEmail": "mobile@zuhanden.de",
+    "developerWebsite": "http://www.smartwatchface.co",
+    "developerAddress": "Seehauser Str. 14\n81379 Munich\nGermany",
+    "updated": "December 10, 2014",
+    "version": "1.6.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Planets watchface puts the solar system on your wrist.Captivate the magic of the universe with this modern planetarium. Beautifully rotating planets make your Android Wear smartwatch stunning eye-candy. This gorgeous astronomical watch displays the current positions of the planets in our solar system on your watch face.Planets is optimized for round smartwatches such as the Moto 360 and rectangular watches such as the Samsung Gear Live, the LG G Watch. For more custom Android Wear watch faces please visit our website on www.smartwatchface.coDid you spot \"Carl the Comet\" eagerly circulating the solar system?Visit our exclusive wearface collection for Android Wear on the Play Store http://goo.gl/QOsOu4.  Also please let us know if you like to have any other watch faces to be added to our selection of watch faces.Magical design made in Germany.",
+    "descriptionHTML": "Planets watchface puts the solar system on your wrist.<br><br>Captivate the magic of the universe with this modern planetarium. Beautifully rotating planets make your Android Wear smartwatch stunning eye-candy. <br><br>This gorgeous astronomical watch displays the current positions of the planets in our solar system on your watch face.<br><br>Planets is optimized for round smartwatches such as the Moto 360 and rectangular watches such as the Samsung Gear Live, the LG G Watch. <br><br>For more custom Android Wear watch faces please visit our website on www.smartwatchface.co<br><br>Did you spot &quot;Carl the Comet&quot; eagerly circulating the solar system?<br><br>Visit our exclusive wearface collection for Android Wear on the Play Store http://goo.gl/QOsOu4.  Also please let us know if you like to have any other watch faces to be added to our selection of watch faces.<br><br>Magical design made in Germany.",
+    "histogram": {
+        "1": 295,
+        "2": 185,
+        "3": 514,
+        "4": 933,
+        "5": 1894
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/aDsgG3d2Z6JAMIZYd6H3aH5DDGvT7Xx_-1lmvmh6P_RdklwB04ewrXErCJVUf2-pYKVh=h310",
+        "//lh5.ggpht.com/ZOegM4f2AFA-F-DJqCapjmZuB8tdCx6SfckmmpWepghSVXtYeawXPoWq2GNwugZ9Obg=h310",
+        "//lh3.ggpht.com/NkJODlNC_4rI5L6Hrln3J3PBvn7zDoFSMHAmnZml8hpVpmpUCtec1kv2UdrYBZMOVyQ=h310",
+        "//lh5.ggpht.com/dWh6iI3mu3YXourPqBS4btGfC0veSWYWCdbqUd5W_BOz6kVON98bP4yPMmgI5OP-DKE=h310",
+        "//lh4.ggpht.com/mIfinD3b0RG2DWsVdOJZZ0QZvD_ey910C0Yhfv338byppYKnjS06P_uesrRWj5uwOey1=h310"
+    ],
+    "video": "https://www.youtube.com/embed/xSxF8XQYwx8",
+    "comments": [
+        "Nice but animation too long After tapping watch to wake up the planets animate into their positions. Cool effect, but by the time the animation finishes, the screen has already dimmed again! Needs option to speed up/disable animation or, preferably, stay active for about 5x longer.",
+        "Glitchy Worked at first but now the app doesn't show up anywhere on my phone besides in the settings to uninstall. Tried reinstalling but didn't work. App doesn't open. No error message or anything. On my Samsung Galaxy 5",
+        "Simple and beautiful I love this watch face. Has been my default for a couple weeks now. I have the LG G watch R and haven't noticed significant battery draining. I found out how turn off the animation when the watch wakes up through the wear app on my phone (A gear icon appears over the watch face).  Great job!",
+        "I love it for real But I have to edit this. Last night my g watch got drained 50 percent in five hours because of this watch face that is not good so temporary switching to something else.... I hope it updates soon",
+        "Awesome watch face Disabling the animations is an absolute must to save battery, but once that's done its a really cool watch face. I never noticed, but the planets and moons are in their real positions. You can see where our moon is too",
+        "Very Cool Really cool! Animations are neat! One request, add the option to have the date and put the date somewhere in the middle because too many watch faces are dumb and have the date at the bottom of the screen which gets covered up by notifications"
+    ],
+    "recentChanges": [
+        "-This update makes Planets ready for the upcoming Android Wear 5.0 release",
+        "-In case you updated/downloaded Planets prior to the Android Wear 5.0 update of your watch, you will not be able to see it until your smartwatch is updated to Android Wear 5.0",
+        "-Thanks for your patience"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=watchface.android.wear.planets&hl=en&gl=us",
+    "appId": "watchface.android.wear.planets"
+}

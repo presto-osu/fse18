@@ -1,0 +1,60 @@
+{
+    "title": "Spooky Castle Watchface",
+    "summary": "A spooky halloween castle themed watch face for android wear devices.",
+    "icon": "//lh3.googleusercontent.com/w4iSMN47lS3wKjN-J2Fd8V4iisM__SkwZp--dXZaKQrySwdPbh4cclxJY6jnrf59tux1=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.5,
+    "reviews": 4,
+    "developer": "Bill Hoyland",
+    "developerId": "Bill+Hoyland",
+    "developerEmail": "billionhoyland@gmail.com",
+    "developerWebsite": "http://www.dubassoc.wordpress.com/",
+    "developerAddress": "Beulah Cottage\nUpper Street\nShere\nGuildford\nGU5 9JE",
+    "updated": "October 12, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Lightening strikes a haunted castle that glowers against the growing gloom of dusk. Monsters and apparitions appear. The time is drawn in letters of slime. More fun than it sounds!Features:Supernatural cartoon monstersLightening strikesSlimy green or red digitsTouch to advance to next monster (supported from version 2)Moon follows the real moon phase (as viewed from western Europe)Low battery indicated by a sickly orange glow from the upper window of the left towerVery low battery indicated by a red glow from the same windowCompanion phone app enables you to choose sky and time coloursWear 2.0 versions support on-watch configuration and Wear 2.0 Complications (display data from other applications and app shortcuts)",
+    "descriptionHTML": "Lightening strikes a haunted castle that glowers against the growing gloom of dusk. Monsters and apparitions appear. The time is drawn in letters of slime. More fun than it sounds!<br><br>Features:<br>Supernatural cartoon monsters<br>Lightening strikes<br>Slimy green or red digits<br>Touch to advance to next monster (supported from version 2)<br>Moon follows the real moon phase (as viewed from western Europe)<br>Low battery indicated by a sickly orange glow from the upper window of the left tower<br>Very low battery indicated by a red glow from the same window<br>Companion phone app enables you to choose sky and time colours<br>Wear 2.0 versions support on-watch configuration and Wear 2.0 Complications (display data from other applications and app shortcuts)",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_VOkrSJ9qYs6yQRaAz1-fwgkjDyBvaxonPCfIlZysJV0AFVZ0Be_Men0n30k2j-dNw=h310",
+        "//lh3.googleusercontent.com/YB0ivwkDT3wgVyqc_2e0oTn8GObQPyKrYkQm96e_WCeIAz2WHVW8opvngfph4pSi1hxn=h310",
+        "//lh3.googleusercontent.com/mBIv8ABf9eiVoQnhHQEMui324Eu1jYVFzJgQTeEuI3D-JPbTzVGJwjPaSX9oGMEQn9l4=h310",
+        "//lh3.googleusercontent.com/A-ErFbe2J_tQxIli6kNZN55-d4gha-vdEvFWTwacJV38OoF2opgd9QBh6LpWzotc8w=h310",
+        "//lh3.googleusercontent.com/-sC9gp8t93YKaQMGX9UbpWF85ubFi6CngzNTrOJmI17wptDSzTou7CTdITpakHzAQTML=h310",
+        "//lh3.googleusercontent.com/Ka-V5a8OOjs0n5z3BwMeCsk_S3UJnp57fklLB0tR6crAetPlYb0sVX5pvbR2zoq-4YM=h310",
+        "//lh3.googleusercontent.com/ranv9lmLGV7Xuv5KJkFv79jiD4K6lhkj-_gbXdMY0Zgd1IHnyubuTYjih4G3SFNJsDU=h310",
+        "//lh3.googleusercontent.com/-VwFHqdzJjarI5o8hcuJkXGL68AKKEoY8Ut3AqCsV1vimmvB6GRbaMTy3_8Poz_aE0E=h310"
+    ],
+    "comments": [
+        "This complication is great!  But it doesn't get five stars because you can't change the 12/24 format.",
+        "Pretty cool A nice, \"spooky\" watch face.  Just what I was looking for.",
+        "Awesome Love the different pictures when you tap the face."
+    ],
+    "recentChanges": [
+        "Added support for Android Wear 2.0.",
+        "- All settings are now configurable on the watch (version 4.0 onward)",
+        "- Android Wear 2.0 \"Complications\" are now supported.  Data from other watch applications, or application shortcuts can be added to the left and right of the watch face.",
+        "- Time drawing improved",
+        "- Improved support for Ambient Mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=dubious.associates.dubwatch&hl=en&gl=us",
+    "appId": "dubious.associates.dubwatch"
+}

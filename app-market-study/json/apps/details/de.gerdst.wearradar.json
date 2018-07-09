@@ -1,0 +1,52 @@
+{
+    "title": "WearRadar",
+    "summary": "The navigation solution for your smart watch",
+    "icon": "//lh3.googleusercontent.com/b088FqXWKFyKvjvKqRqV76KYmrl4veC51G44PhhnysfPUy4ALwNtzIL5VNxgsEnbXHx6=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 5,
+    "developer": "Gerd Staudenmaier",
+    "developerId": "Gerd+Staudenmaier",
+    "developerEmail": "gerdst.soft@gmail.com",
+    "developerWebsite": "http://gerd-st.gmxhome.de/WR_PrivacyPolicy.pdf",
+    "developerAddress": "Gerd Staudenmaier\nFriedrichshafenerstrasse 24 B\nD-88090 Immenstaad\nGermany",
+    "updated": "June 13, 2017",
+    "version": "1.0.12",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "WearRadar shows a radar-like screen at your watch with your actual position in the centre. Up to 2 (10 for WearRadar Pro) targets may be defined either by the mobile app or directly at the watch.WearRadar is therefore the ideal tool for a variety of activities, ranging from the retrieval of your parked vehicle up to geocaching.Features of the wear app:• Shows targets on a north-facing radar-like screen• Shows an optional external target which may be set by a third-party app• Automatic scaling with manual override support by swiping up and down• Data screen: one swipe to the left shows the current position, position of selected and external targets, direction and distance to targets• Target screen: twice swiping left shows a list of targets, sorted according to distance with the selected target highlighted.• Options screen: three times swiping left shows options for deleting the selected target, setting or deleting the external target and a compass calibration function• Standalone operation: Usially WearRadar will use your mobile's built-in GPS receiver. If there is no connection, WearRadar will use the internal GPS receiver of your watch, if available. The Pro version also supports permanent GPS operation also in AmbientMode, so the position will be available immediately after tapping onto the screenFeatures of the mobile app:• Editing of targets, either by numeric entry or by selecting from a Google Maps window• Import and export of targets as XML files, therefore easy exchange of targets with other users• Basic unit settings for wear appAdditional features of WearRadar Pro:• Up to 10 targets instead of just 2• Address search within mobile app• Future feature extensionsPlease also read the manual available at http://gerd-st.gmxhome.de/WearRadar_Manual_EN.pdf!",
+    "descriptionHTML": "<i>WearRadar</i> shows a radar-like screen at your watch with your actual position in the centre. Up to 2 (10 for <i>WearRadar Pro</i>) targets may be defined either by the mobile app or directly at the watch.<br><i>WearRadar</i> is therefore the ideal tool for a variety of activities, ranging from the retrieval of your parked vehicle up to geocaching.<br><br><u>Features of the wear app:</u><br>&#x2022;&#x2003;Shows targets on a north-facing radar-like screen<br>&#x2022;&#x2003;Shows an optional external target which may be set by a third-party app<br>&#x2022;&#x2003;Automatic scaling with manual override support by swiping up and down<br>&#x2022;&#x2003;Data screen: one swipe to the left shows the current position, position of selected and external targets, direction and distance to targets<br>&#x2022;&#x2003;Target screen: twice swiping left shows a list of targets, sorted according to distance with the selected target highlighted.<br>&#x2022;&#x2003;Options screen: three times swiping left shows options for deleting the selected target, setting or deleting the external target and a compass calibration function<br>&#x2022;&#x2003;<b>Standalone operation:</b> Usially <i>WearRadar</i> will use your mobile&apos;s built-in GPS receiver. If there is no connection, <i>WearRadar</i> will use the internal GPS receiver of your watch, if available. The Pro version also supports permanent GPS operation also in AmbientMode, so the position will be available immediately after tapping onto the screen<br><br><u>Features of the mobile app:</u><br>&#x2022;&#x2003;Editing of targets, either by numeric entry or by selecting from a Google Maps window<br>&#x2022;&#x2003;Import and export of targets as XML files, therefore easy exchange of targets with other users<br>&#x2022;&#x2003;Basic unit settings for wear app<br><br><u>Additional features of <i>WearRadar Pro</i>:</u><br>&#x2022;&#x2003;Up to 10 targets instead of just 2<br>&#x2022;&#x2003;Address search within mobile app<br>&#x2022;&#x2003;Future feature extensions<br><br>Please also read the manual available at http://gerd-st.gmxhome.de/WearRadar_Manual_EN.pdf!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/YhF96iRMRZnixu7mFqADTzNk55T38AipjBCXjpeAb33nK9I-ObK8WeRF6D4p-c8IsA=h310",
+        "//lh3.googleusercontent.com/-9VgepPCMLIlyZh7c6qjg6zJ7njodi9o1721e20yn5mzIwIUPIFIiJR3_2Abl7sm6Vps=h310",
+        "//lh3.googleusercontent.com/olUkUsCBsEyHH3xfPMwBgwc3FoQY5gWcJsDMZoFGY6o7J7SpcvTqtBObR9418rIe-kE=h310",
+        "//lh3.googleusercontent.com/tso51SKsfmgWFYm2KqxeQf7Gwy2TWAgQgB8ZIcH0M1LFdkdKtfeg3XbuWXv_Y73BDaQ=h310",
+        "//lh3.googleusercontent.com/BIm2oHpkMcrhteAPSc6BueRw_DGEavDDrp-Fq4mxAiuYeCbYPeWDmrean5n6Kszwd5s=h310",
+        "//lh3.googleusercontent.com/619U-HCNDMYwujfRr70eq9jjKg1XSf3vgb84dwPCOaeyFCihb7_Vk72kosWo5rnYuA=h310",
+        "//lh3.googleusercontent.com/z9-9gyiTHKxMXjyJRzdpoxmYmEhxZUbQBHZHcH3QhIhstD7whNKEaOlvzMpWkNtDF0w=h310",
+        "//lh3.googleusercontent.com/ogj5Rd7sFJBsfdqnFoc7Un7zA2YC6LOgDPlGAi1M3to-TiEuT-enERUdCPhpsgPNdyg0=h310",
+        "//lh3.googleusercontent.com/ELkBQ_qFoKbJcBvkqmWzLw8izs1Xs9r5vn1WaEjZQKlpLYPq8MpcwPe_zlNMjRLRfQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "updated Google libraries"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.gerdst.wearradar&hl=en&gl=us",
+    "appId": "de.gerdst.wearradar"
+}

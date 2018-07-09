@@ -1,0 +1,52 @@
+{
+    "title": "Calendar Watch Face Pack",
+    "summary": "Package of Wear Watch Faces, displaying calendar events.",
+    "icon": "//lh6.ggpht.com/hShNheS_czv6bXBrktCsGtYxBty5mPf9rw9iL06vN_gVjs0tj3fl2tIeRMkOVBxhKg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 36,
+    "developer": "Shuisky",
+    "developerId": "9119051711844257493",
+    "developerEmail": "shuisky@gmail.com",
+    "developerAddress": "Russia, Moscow",
+    "updated": "January 14, 2016",
+    "version": "27",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Package of Wear Watch Faces, displaying calendar events.Styles:• Allure;• Analog;• Digital;• Flower;• Sector.Features:• Upcoming events in 12 hours period;• Countdown to the closest 1 hour event;• Events painted in your calendar colors;• Color themes;• 12/24 hour format.• Battery level.• Date.Note: In Ambient and Mute modes watch faces are refreshed one time per minute for saving battery energy.Support square (G Watch, Gear Live, ZenWatch, SmartWatch 3 etc.) and round (G Watch R, Moto 360 etc.) displays.After installing the application, new styles of watches appear in the menu selection of watch faces in your Android Wear after 2-3 minutes.If you encounter problems with the installation of watch faces on Wear, please go to the android wear app -> Settings and \"Resync apps\".If you find any bugs or you have any suggestions, please email me at shuisky@gmail.com in order to correct or implement it.",
+    "descriptionHTML": "Package of Wear Watch Faces, displaying calendar events.<br><br><b>Styles:</b><br>&#x2022; Allure;<br>&#x2022; Analog;<br>&#x2022; Digital;<br>&#x2022; Flower;<br>&#x2022; Sector.<br><br><b>Features:</b><br>&#x2022; Upcoming events in 12 hours period;<br>&#x2022; Countdown to the closest 1 hour event;<br>&#x2022; Events painted in your calendar colors;<br>&#x2022; Color themes;<br>&#x2022; 12/24 hour format.<br>&#x2022; Battery level.<br>&#x2022; Date.<br><br>Note: In Ambient and Mute modes watch faces are refreshed one time per minute for saving battery energy.<br><br>Support square (G Watch, Gear Live, ZenWatch, SmartWatch 3 etc.) and round (G Watch R, Moto 360 etc.) displays.<br><br><b>After installing the application, new styles of watches appear in the menu selection of watch faces in your Android Wear after 2-3 minutes.</b><br>If you encounter problems with the installation of watch faces on Wear, please go to the android wear app -&gt; Settings and &quot;Resync apps&quot;.<br><br>If you find any bugs or you have any suggestions, please email me at shuisky@gmail.com in order to correct or implement it.",
+    "histogram": {
+        "1": 7,
+        "2": 2,
+        "3": 5,
+        "4": 6,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NsiGN8G7JiRxXC59QWPMQEVJbUvtav8YQ45DLBd-BAyiVUPWw_OKi_yRTW10Zdyr5rk=h310",
+        "//lh3.googleusercontent.com/i5PGcxHaDvdhqmcmgkJ3X-LOd8go2u6UFrbb_2cTN0Q_i2AhiKlAVb5JeiS9dreivls=h310",
+        "//lh3.googleusercontent.com/CV5ybaVd0jb7dcLQRieitQ7My7aAggtevyml4v1AbXuT83SJapsxlKkxy-QjgvWw3rY=h310"
+    ],
+    "comments": [
+        "Dont know why this watch face is not working on my watch any more.  It used to work great.  Had to do a factory reset and REpurchased this app and now it's not working.  Watch calendar face just  wont load.  It will blink on then disappear.  Please help. 5 stars when it's working!",
+        "Used to work fine, but recently all appointments have 4 am start & end time.  Messaged developer but no response.",
+        "Be carefull. This app does not work at all. I cannot find it on phone nor on the watch. Even after one hour . Do not buy it. It is a fraud.",
+        "Love the app but... Things from my calendar don't seem to be appearing on my watch face.",
+        "Agenda watch face is good More like this is needed",
+        "Good I do find however that, on the agenda watchface when I have several appointments, that the most current appointments are not always shown. This seems to happen after the watch is disconnected then reconnects to my phone (LG G watch)."
+    ],
+    "recentChanges": [
+        "Time offset bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=shuisky.wearcalendarclock&hl=en&gl=us",
+    "appId": "shuisky.wearcalendarclock"
+}

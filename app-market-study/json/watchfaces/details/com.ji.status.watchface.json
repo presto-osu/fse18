@@ -1,0 +1,51 @@
+{
+    "title": "Status Watchface Wear",
+    "summary": "Luxurious Watchface for Wearable",
+    "icon": "//lh3.googleusercontent.com/a-6U2vEUbQlg3blhMQGIQSlImngC4smmqZMcO2GFRg3iaceZ8tDQs9wFR1AvlBgnivU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 124,
+    "developer": "Suresh Kheni",
+    "developerId": "Suresh+Kheni",
+    "developerEmail": "sureshdkheni@gmail.com",
+    "developerAddress": "A-150, Tirupati Soc,Yogi-chowk, Puna-simada Road,Varacha, Surat",
+    "updated": "April 24, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Simple, Classic and Luxurious Watchface for Android Wear Watch .Support both Round And Square Watches.If you find any bugs or you have any suggestions, please email me at jigneshdkheni@gmail.com in order to correct or implement it before rating.",
+    "descriptionHTML": "Simple, Classic and Luxurious Watchface for Android Wear Watch .<br>Support both Round And Square Watches.<br>If you find any bugs or you have any suggestions, please email me at jigneshdkheni@gmail.com in order to correct or implement it before rating.",
+    "histogram": {
+        "1": 14,
+        "2": 10,
+        "3": 22,
+        "4": 29,
+        "5": 49
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/wiacuwoxZnlUBroU0Qa48As8JUSnfyn6A8CkOR1wviB1O2yArfFPItXjHSEpl0L3W3o=h310",
+        "//lh3.googleusercontent.com/IroXBGZc761rYTIL-aAVDs7Vy00aUigqlR2P0c9UohEwYrcc5MBnzL2ctDw8WvTuZJWI=h310"
+    ],
+    "comments": [
+        "Decent First Attempt! I like this watchface but it would be awesome if the status of the watch battery was also displayed on the face. Yes the battery status can be shown on moto 360 but that requires a down swipe. As others have said, display a date too & this could be a great app. Thanks for a decent first version.",
+        "Nice Very nice app, I like the clock everything seems to work just fine except battery percentage is off a little bit.",
+        "Great Please make the battery % numbers a wee bit larger.   Like the WiFi name!",
+        "Nice Great idea possible to request digital clock option? Will rate it 5 then for sure.",
+        "Clean Its a cool app but could u add the day's date to it",
+        "I love it for casual and semi-formal wear"
+    ],
+    "recentChanges": [
+        "Improved for new WatchFace API"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ji.status.watchface&hl=en&gl=us",
+    "appId": "com.ji.status.watchface"
+}

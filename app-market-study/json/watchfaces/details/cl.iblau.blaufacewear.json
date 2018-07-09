@@ -1,0 +1,48 @@
+{
+    "title": "blauWear",
+    "summary": "Simple sample UF and dollar value WearFace Chile",
+    "icon": "//lh3.googleusercontent.com/XswKE-ndfcIr7DeVN1hPGle4Aull3Y2XkDOYqLUEleH6u3Kz9LOvIIyYApmTkuOp1w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 4,
+    "developer": "Blau Technology",
+    "developerId": "Blau+Technology",
+    "developerEmail": "info@iblau.cl",
+    "developerWebsite": "http://www.iblau.cl",
+    "developerAddress": "Vital Apoquindo 1380 c.18\nLas Condes\nSantiago\nChile",
+    "updated": "December 4, 2015",
+    "version": "1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Aplicación para reloj con información de valor de la UF y valor del dolar",
+    "descriptionHTML": "Aplicaci&#xF3;n para reloj con informaci&#xF3;n de valor de la UF y valor del dolar",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ycOQ2fLBX8NyVuuszHp5yNUtkwIWMuLQj9mlPp87uZpZs34tP2AMSsjlEvZyNPp9_nY=h310",
+        "//lh3.googleusercontent.com/pJwm2O6sUYtbIddkKjhbAv6pYl_iC-6E3eHMg8FoBt1eMsxKhcebO7kRttmJhlKNHA=h310",
+        "//lh3.googleusercontent.com/rXKop_rPa3eKCDrXhVL65jUDwUMDBWtf_TVZs9kgysI38d3TRqGSZ3FcsHcycJwVK2Bf=h310",
+        "//lh3.googleusercontent.com/y559LjiUtX1atCVycn_kjX4_74EiSxjpHdpmbt95lbp0GMUFZdNiY4XlU8wRC_Y7Rio=h310",
+        "//lh3.googleusercontent.com/oFA9jnt-9tiObN8USjQDW-QXxQ9xtr3wiRLwKDzOHKm2waBPEZr77nQFxJFnHdnJSg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Se agrega Temperatura Ciudad"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cl.iblau.blaufacewear&hl=en&gl=us",
+    "appId": "cl.iblau.blaufacewear"
+}

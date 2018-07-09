@@ -1,0 +1,53 @@
+{
+    "title": "Tasker Tap Wear (TTW)",
+    "summary": "A Tasker Plugin to tap a vibration pattern on your android wearable device.",
+    "icon": "//lh3.googleusercontent.com/J_it4fskim8rVwn2ybATmkEXVD9ih4wvslcjQ6JXErO3jOJOU1onpIFgBqTJSEbKwcw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 20,
+    "developer": "CodeChimp",
+    "developerId": "8386908236515041315",
+    "developerEmail": "android@codechimp.org",
+    "developerWebsite": "http://www.codechimp.org",
+    "developerAddress": "2 Albert Road\nWitham\nEssex\nCM8 2BS",
+    "updated": "January 14, 2018",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "This app is a Tasker plugin to trigger a vibration pattern on the wearable device only, for a discreet notification tap where a popup is not required.To use it create a new Tasker task and add TTW from the plugins.  You'll be able to change the type of vibration tap within the configuration screen.Any Tasker event can be used to trigger TTW, examples include getting a tap when your WiFi is down, when your phone is low on battery or even just at scheduled times.Requires Android Wear, it does not work with non-wear devices.Requires Tasker https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
+    "descriptionHTML": "This app is a Tasker plugin to trigger a vibration pattern on the wearable device only, for a discreet notification tap where a popup is not required.<br><br>To use it create a new Tasker task and add TTW from the plugins.  You&apos;ll be able to change the type of vibration tap within the configuration screen.<br><br>Any Tasker event can be used to trigger TTW, examples include getting a tap when your WiFi is down, when your phone is low on battery or even just at scheduled times.<br><br>Requires Android Wear, it does not work with non-wear devices.<br><br>Requires Tasker <br>https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/8240KKXmI3aWufNiaNuwYBvJdZJiDu0zQ6IR1sVNMIxrrf_b82qHeyJglWQbJOHDUm0b=h310",
+        "//lh3.googleusercontent.com/ZpzccNJ1ppXlUMo5jfpOMWXSQBRlsUFs6hV7Uuv7Lm6A6tf3dosstbFq_Rsz_90yqJ8=h310",
+        "//lh3.googleusercontent.com/Y7QnCNFOBPzh3uY53d9DgDwPvRnPK1ZmbHWRqnujqYgUG5tmGhXW_HNRSsDephDTyQ=h310",
+        "//lh3.googleusercontent.com/bwFaHCkdPZMeA7j0tPrrLx719ky_uMkk0jZtwAwa919L7oDd3v0NSsnKxFzLa--9XQ=h310"
+    ],
+    "comments": [
+        "It's wonderful Tasker plug-in app with persnoal vibration patterns. Never missed alarm with TTW. Thank you!!",
+        "Very useful and free Although there's been no update for a year, thanks developer for creating this useful app",
+        "I am seeking for a watch PowerPoint presenter for Mac with Android wear. Please help me",
+        "Simple but perfect. This is great, I was missing the vibration integration like what I had with the miband."
+    ],
+    "recentChanges": [
+        "Wear 2 Release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.codechimp.ttw&hl=en&gl=us",
+    "appId": "org.codechimp.ttw"
+}

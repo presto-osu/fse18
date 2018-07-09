@@ -1,0 +1,60 @@
+{
+    "title": "Run a' Wear",
+    "summary": "Standalone running / walking app for Android Wear. With Google Fit integration.",
+    "icon": "//lh3.googleusercontent.com/-w9Bvb_w3guThVSiGQP8QZX0ZyNW0ugaKRVkESvRG34JQ2vsbFNGmq1K3xbjekP1mQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 22,
+    "developer": "Avoima Software",
+    "developerId": "Avoima+Software",
+    "developerEmail": "avoimasoftware@gmail.com",
+    "developerAddress": "Kyyhkysmäki 20 B 29\n02650 ESPOO\nFinland",
+    "updated": "June 13, 2015",
+    "version": "1.4",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Run a' Wear is an app for your Android Wear smartwatch which recognizes your activity - walking, running or rest - in a standalone mode: no need to carry a phone with you while exercising.Google Fit integration is included. After you give the app permission to access Google Fit, it will upload your exercise data to Google Fit automatically. Check the phone app's Help in the Google Fit Integration area for more information on how this works.Run a' Wear displays on your Android Wear watch:☆ Time since start of activity (stopwatch or countdown)☆ Number of steps☆ Distance (in km or miles)☆ Calories expended☆ Heart Rate☆ Accuracy of Heart Rate measurement☆ Heart Rate as percentage of Maximal Heart Rate☆ Heart Rate training zone (5 zones)☆ Current timeHow it worksAfter the installation of the app finished - and you see the app icon both on the watch and on the phone - create a profile on the phone (see below). Then, open the app on the watch. You should now see the Start screen which allows you to choose a profile (by swiping up / down) or start a session by swiping to the left.  The app on the watch will try to recognize your activity based on what you did in the previous 10 seconds. Thus, if you suddenly change from 'walking' to 'running', there is a delay of 10 seconds until the watch recognizes that you are not walking any more but running. The distance that you walked or ran is then estimated based on your current activity and the step lengths that you have specified for the profile you are currently using. The app on the phone gives further information about different calculations used (like the equation for determining Maximal Heart Rate or the calorie calculation).Creating a profileRun a' Wear has to be configured on the phone (but then can be used without the phone). You can create several profiles, varying a number of features like walking / running step length, age, gender. etc.After you filled out the profile details in the phone app, tap the SAVE button (while the watch is near to you). This will transfer the profile to the watch.Actions on the watchThe watch has three screens: (1) Configuration request screen (this is shown only if you haven't created at least one  profile yet), (2) Start screen, (3) Main screen.The  Configuration request screen is just a screen telling you that you need to create a profile before the app on the watch can be used.The Start screen has these actions available:☆ Swipe left to open the Main screen☆ Swipe right to exit from the app☆ Swipe up / down to select a profile (in case you have created more than one profiles)The Main screen has these actions available:☆ Long press: brings up the 'exit' button☆ Single tap: when in 'dimmed' mode, brings up 'normal mode' for 30 sec, with full colors and seconds in timing display☆ Double tap: when in 'Stopwatch' mode, pauses the stopwatch, step counter and calorie counter☆ Double tap (while 'Stopwatch' is paused): restarts the stopwatch, step counter and calorie counterCompatible devices☆ Phone: Android 4.3 and higher☆ Watch: for Android Wear, with Heart Rate sensor included (like, for example, LG G Watch R or Moto 360)LimitationsThe accuracy of Heart Rate measurement strongly depends on the watch on which the app is installed: on some watches, an accurate measurement is possible only if you are not moving.ContactPlease write email to avoimasoftware@gmail.com with any questions, comments or problems regarding the app - or leave a comment here.Credits☆ The 'glossy silver walker' in the Run a' Wear icon is based on an icon found at http://icons.mysitemyway.com/",
+    "descriptionHTML": "Run a&apos; Wear is an app for your Android Wear smartwatch which recognizes your activity - walking, running or rest - in a <b>standalone</b> mode: no need to carry a phone with you while exercising.<br><br><b>Google Fit</b> integration is included. <br>After you give the app permission to access Google Fit, it will upload your exercise data to Google Fit automatically. Check the phone app&apos;s Help in the <i>Google Fit Integration</i> area for more information on how this works.<br><br>Run a&apos; Wear displays on your Android Wear watch:<br><br>&#x2606; Time since start of activity (stopwatch or countdown)<br>&#x2606; Number of steps<br>&#x2606; Distance (in km or miles)<br>&#x2606; Calories expended<br>&#x2606; Heart Rate<br>&#x2606; Accuracy of Heart Rate measurement<br>&#x2606; Heart Rate as percentage of Maximal Heart Rate<br>&#x2606; Heart Rate training zone (5 zones)<br>&#x2606; Current time<br><br><b>How it works</b><br><br>After the installation of the app finished - and you see the app icon both on the watch and on the phone - create a profile on the phone (see below). Then, open the app on the watch. You should now see the <i>Start screen</i> which allows you to choose a profile (by swiping up / down) or start a session by swiping to the left.  <br><br>The app on the watch will try to recognize your activity based on what you did in the previous 10 seconds. Thus, if you suddenly change from &apos;walking&apos; to &apos;running&apos;, there is a delay of 10 seconds until the watch recognizes that you are not walking any more but running. The distance that you walked or ran is then estimated based on your current activity and the step lengths that you have specified for the profile you are currently using. <br><br>The app on the phone gives further information about different calculations used (like the equation for determining Maximal Heart Rate or the calorie calculation).<br><br><b>Creating a profile</b><br><br>Run a&apos; Wear has to be configured on the phone (but then can be used without the phone). You can create several profiles, varying a number of features like walking / running step length, age, gender. etc.<br><br>After you filled out the profile details in the phone app, tap the SAVE button (while the watch is near to you). This will transfer the profile to the watch.<br><br><b>Actions on the watch</b><br><br>The watch has three screens: (1) Configuration request screen (this is shown only if you haven&apos;t created at least one  profile yet), (2) Start screen, (3) Main screen.<br><br>The  <i>Configuration request screen</i> is just a screen telling you that you need to create a profile before the app on the watch can be used.<br><br>The <i>Start screen</i> has these actions available:<br>&#x2606; Swipe left to open the Main screen<br>&#x2606; Swipe right to exit from the app<br>&#x2606; Swipe up / down to select a profile (in case you have created more than one profiles)<br><br>The <i>Main screen</i> has these actions available:<br>&#x2606; Long press: brings up the &apos;exit&apos; button<br>&#x2606; Single tap: when in &apos;dimmed&apos; mode, brings up &apos;normal mode&apos; for 30 sec, with full colors and seconds in timing display<br>&#x2606; Double tap: when in &apos;Stopwatch&apos; mode, pauses the stopwatch, step counter and calorie counter<br>&#x2606; Double tap (while &apos;Stopwatch&apos; is paused): restarts the stopwatch, step counter and calorie counter<br><br><b>Compatible devices</b><br><br>&#x2606; Phone: Android 4.3 and higher<br>&#x2606; Watch: for Android Wear, with Heart Rate sensor included (like, for example, LG G Watch R or Moto 360)<br><br><b>Limitations</b><br><br>The accuracy of Heart Rate measurement strongly depends on the watch on which the app is installed: on some watches, an accurate measurement is possible only if you are not moving.<br><br><b>Contact</b><br><br>Please write email to avoimasoftware@gmail.com with any questions, comments or problems regarding the app - or leave a comment here.<br><br><b>Credits</b><br><br>&#x2606; The &apos;glossy silver walker&apos; in the Run a&apos; Wear icon is based on an icon found at http://icons.mysitemyway.com/",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 7,
+        "4": 4,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/IshB89WTU5D5zLroo8LGBa7iDh4OZvfybCsPE0o4Yh_vgSXaIu6T_PhuypriatFekw=h310",
+        "//lh3.googleusercontent.com/3PaFq74vUpwO5FBBB9IY_rLlOhvBCYLIDd7C_NA8bVZZ-cjiIX4kklsmN9oUpGL_uHI=h310",
+        "//lh3.googleusercontent.com/plupTFAB9rW-yXxptdL3qa7593oVVrQL4OQdjYhzX7BjFYgPsHgeZWIaLvFqfNV1QVI3=h310",
+        "//lh3.googleusercontent.com/ROtzJnl7zFmpMH1_9ZEtdhG19H0oGTK9-YrdtNy-LRFppt0wGGrtk_DjpRd1OTZc_YWf=h310"
+    ],
+    "comments": [
+        "The everything on one screen is a brilliant idea! However it's impossible to save recorded data. It doesn't export anything into Google fit. Useless.",
+        "Doesn't work on my Sony SmartWatch 3 Works and connects just fine with my LG G Flex 2 and SW3.",
+        "Its ok Wear app works great, the android app could use a material design makeover",
+        "Perfect A great free \"runner\" face with all the data you need.",
+        "Keep updating, very nice",
+        "Needs improvement Google fit integration and heart accuracy needed"
+    ],
+    "recentChanges": [
+        "1.4",
+        "- Screen  low power mode can now be configured to be 'dimmed' or totally dark. The app can be woken up from low power mode by wrist tilt or single tap.",
+        "1.3.1",
+        "- Fixed an issue with screen brightness of the Wear app: now it uses the brightness value set in 'Settings' on the watch.",
+        "1.3",
+        "- Renamed app from MoveIt! for Wear to Run a' Wear",
+        "- Modified Google Fit upload process",
+        "- Added 'Support' page, allowing sending of app log files to developer, in case of problems."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.avoima.moveit&hl=en&gl=us",
+    "appId": "com.avoima.moveit"
+}

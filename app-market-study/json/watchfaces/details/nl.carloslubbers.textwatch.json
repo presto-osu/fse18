@@ -1,0 +1,53 @@
+{
+    "title": "Text Watchface",
+    "summary": "A watch face for your Android Wear smartwatch which tells you the time in words",
+    "icon": "//lh3.googleusercontent.com/yQTwTUzsSbKI9o4PoizaFtRrh3AIbbp1wd-KBDnIYDyHY3rTcwRyu1o95mwSTV9HEQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 87,
+    "developer": "Carlos L",
+    "developerId": "Carlos+L",
+    "developerEmail": "carloslubbers111@gmail.com",
+    "developerWebsite": "http://www.carloslubbers.nl",
+    "updated": "May 18, 2015",
+    "version": "2.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A watch face for your Android Wear smartwatch which tells you the time in words.This watchface is optimized for the LG G Watch and G Watch R (but might work fine on other watches, let me know if you have any problems)Features:* Watchface for Android Wear watches* Languages: English (more will be added soon)If the watchface doesn't show up on your watch immediatly, resync applications in the Android Wear app settings or wait a few minutes. You can change watchfaces with a long press on your current watchface or in the settings on your watch.",
+    "descriptionHTML": "A watch face for your Android Wear smartwatch which tells you the time in words.This watchface is optimized for the LG G Watch and G Watch R (but might work fine on other watches, let me know if you have any problems)<br><br>Features:<br>* Watchface for Android Wear watches<br>* Languages: English (more will be added soon)<br><br>If the watchface doesn&apos;t show up on your watch immediatly, resync applications in the Android Wear app settings or wait a few minutes. You can change watchfaces with a long press on your current watchface or in the settings on your watch.",
+    "histogram": {
+        "1": 7,
+        "2": 7,
+        "3": 19,
+        "4": 33,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NQVuMLimsMY82vS0gNszAI-S8Sy2I-16OfOlWptKsmt02TmLCshKKk234e9Ry2L7xarl=h310",
+        "//lh3.googleusercontent.com/ijtuHdJgcnIfdjZ2FKbsMtkp6PaT97_qEyMx1DBdiWkrD7eIRD-VBDr2Pq_0DZtx3qY=h310"
+    ],
+    "comments": [
+        "Terrible on Huawei Watch Occupies less than half the screen. Shame",
+        "Last update broke alignment Used to look perfect on my Moto 360, the latest update makes the bottom line of text misaligned with the other lines.",
+        "date Please allow a date option!",
+        "Can't access settings.",
+        "Moto360 Pls update for moto360 then it will be 5 stars",
+        "Great concept! Configuration could be a bit more clear and option-full, but I'd probably want black-and-white anyway. I'd love to add new languages too! Especially Swiizerduutch ;-)"
+    ],
+    "recentChanges": [
+        "I'm starting to work on a version based on the new Watchface API. This version is not finished yet, but the old version is no longer allowed on Google Play.",
+        "Currently only supports english until I add configuration again. Tested on the LG G Watch and the G Watch R. Please send me a message with a picture/screenshot if you have problems on your device.",
+        "2.0.2: Hotfix for missing wakelock permission (this is needed for all watchfaces)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=nl.carloslubbers.textwatch&hl=en&gl=us",
+    "appId": "nl.carloslubbers.textwatch"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Surf Watch Face Wind Wave Info",
+    "summary": "You can display the info of the wave &amp; wind  on the smart watch (Android Wear).",
+    "icon": "//lh4.ggpht.com/cmSTFMQSQvGVqDHv1qq2VJMpSGjjlICAzSgf5QvkFBrtpxT9rBYxdFwuR5fEJnldgiI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "Gashfara,Inc.",
+    "developerId": "Gashfara,Inc.",
+    "developerEmail": "mogi@gashfara.com",
+    "developerWebsite": "http://gashfara.com",
+    "updated": "January 17, 2015",
+    "version": "1.3",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "You can display the information of the waves and the wind every hour on the smart watch (Android Wear).You can change the image (wallpaper) of the watch.How to use1. Please \"set\" by entering the latitude and longitude. 2. Please send the data by pressing the \"Update Data\" button .3. Wind and wave information of time series in the vicinity of latitude and longitude will be displayed in the clock .How to change the watch image.1. Please select the image by pressing the \"Select image\" button.2. Please send the image by pressing the \"Send image\" button.3. Selected image is displayed on the clock .",
+    "descriptionHTML": "You can display the information of the waves and the wind every hour on the smart watch (Android Wear).<br>You can change the image (wallpaper) of the watch.<br><br>How to use<br>1. Please &quot;set&quot; by entering the latitude and longitude. <br>2. Please send the data by pressing the &quot;Update Data&quot; button .<br>3. Wind and wave information of time series in the vicinity of latitude and longitude will be displayed in the clock .<br><br>How to change the watch image.<br>1. Please select the image by pressing the &quot;Select image&quot; button.<br>2. Please send the image by pressing the &quot;Send image&quot; button.<br>3. Selected image is displayed on the clock .",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/YP6wMDsTDdbq3Pa7c0s5MGysrNR9uJJWMumhV70kdpTyx9OV0vZ7XV2KyNiT1_yaeZI0=h310",
+        "//lh3.ggpht.com/jrva9DnM05EchAlXecP6LNzW3LBXNPSPzTMnrrgNxt7eGhjzOwUcIfePTg2FB_xNfA=h310",
+        "//lh5.ggpht.com/22B5fGYYB6KTpm3sBdoemjsuipBZFS4AJkJNiTw7Yiyj36obyrJxwDnrqIIHte_g5uw=h310",
+        "//lh3.ggpht.com/nIbvUKjbj4wTg5Ghg1mtNm8UIuZJeScrNfg2kFKVByMkM3VyQodUi5dsZuehjaflutU=h310",
+        "//lh6.ggpht.com/QXXl5bn3AGAX-cK4JAP8XU0p4HOAxemhTZe5chpNqgNMNwa1oqPaUbvz72KgmAlvRg=h310"
+    ],
+    "comments": [
+        "App never produced a report"
+    ],
+    "recentChanges": [
+        "データが消えないようにしました。"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gashfara.surfwatchface&hl=en&gl=us",
+    "appId": "com.gashfara.surfwatchface"
+}

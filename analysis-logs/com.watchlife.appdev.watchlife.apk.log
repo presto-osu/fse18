@@ -1,0 +1,11 @@
+Soot started on Thu Jun 21 12:36:37 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.watchlife.appdev.watchlife.WatchLifeFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.watchlife.appdev.watchlife.apk
+[INFO] MySceneTransformer: ############## com.watchlife.appdev.watchlife.WatchLifeFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   54
+[INFO] FlowGraph: @@@@ Total Methods: 330
+[INFO] FlowGraph: @@@@ Total Stmts:   9733
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[ERROR] FlowAnalysis: unexpected invocation in use-def chain

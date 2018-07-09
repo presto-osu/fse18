@@ -1,0 +1,46 @@
+{
+    "title": "Karellis WebCam Widget",
+    "summary": "Karellis webcams!",
+    "icon": "//lh3.googleusercontent.com/MVNDu2BPtZ2blDerLwOaqWSa5h8_wAYG9mMowsz5pZ_00a_7fmionbJNg1G4ouWEWUc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 9,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michel.gauzins@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "January 2, 2018",
+    "version": "3.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Voici l'application montrant les webcams des Karellis, station de ski en Savoie.Celle ci est bien sûr non officielle !Compatible avec Android Wear. Regardez les webcams sur votre montre !Vous pouvez mettre la webcam que vous souhaitez en widget, et c'est bien l'intérêt d'une application dont le titre contient le mot \"Webcam\" :)",
+    "descriptionHTML": "Voici l&apos;application montrant les webcams des Karellis, station de ski en Savoie.<br><br>Celle ci est bien s&#xFB;r non officielle !<br><br>Compatible avec Android Wear. Regardez les webcams sur votre montre !<br><br>Vous pouvez mettre la webcam que vous souhaitez en widget, et c&apos;est bien l&apos;int&#xE9;r&#xEA;t d&apos;une application dont le titre contient le mot &quot;Webcam&quot; :)",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 0,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/iUddzRoksbYb4m12ghYgv9lSVFT7Ej67agcH9YEMLtR5xpjeaj5fTxJhh_m9QpG3NKtz=h310",
+        "//lh4.ggpht.com/BHwgWlmaRywJOiUF93_OHdybPHMhGnnpobKXi-sszq7aZ7-Op3jy40FSgbfUOT1aZA=h310",
+        "//lh3.ggpht.com/p5uq6YyLDm-CxZNAIIFt35vjliZguVGBRaaepPsu9lriKfZn1jpFmjyMon5Ry0ijFtoP=h310",
+        "//lh3.ggpht.com/m8RulQGuRii89OdGMObK1ko4xsViu7fDPWeWliBJl2Clxz5KaGIdjPkHJZzHrGhyJqs=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Correction d'un crash sur le partage"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.karellis2&hl=en&gl=us",
+    "appId": "com.michgauz.karellis2"
+}

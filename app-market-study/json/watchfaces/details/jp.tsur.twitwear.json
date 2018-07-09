@@ -1,0 +1,56 @@
+{
+    "title": "Twitwear",
+    "summary": "Android Wear Twitter Client.",
+    "icon": "//lh6.ggpht.com/1F9aH86uY1MrLAnlIxaoGVsPuB2mV241fSzUgjEsxWIvfXVwfY90d9Q9dElhzrXRxQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 22,
+    "developer": "teshi04",
+    "developerId": "6946862596227132711",
+    "developerEmail": "teshi04@gmail.com",
+    "developerWebsite": "http://tsur.jp",
+    "updated": "September 26, 2015",
+    "version": "1.0.5",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "description": "This application can be tweeted and seen a time line in Android wear.# feature- Tweet to twitter- Show the latest of 10 tweet- Favorite, Retweet, Reply to tweet# How to use1. Launch the app on your smartphone and sign in to Twitter from \"Sign in with Twitter\"2. launch the app from wear !!  can be tweeted and seen a time line!!",
+    "descriptionHTML": "This application can be tweeted and seen a time line in Android wear.<br><br># feature<br>- Tweet to twitter<br>- Show the latest of 10 tweet<br>- Favorite, Retweet, Reply to tweet<br><br># How to use<br>1. Launch the app on your smartphone and sign in to Twitter from &quot;Sign in with Twitter&quot;<br>2. launch the app from wear !!  can be tweeted and seen a time line!!",
+    "histogram": {
+        "1": 0,
+        "2": 4,
+        "3": 3,
+        "4": 2,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/x_lYQ9utiM0oucui6GizysFdcJUAhRCOfwyeoVL5hHU1RSuHkP9f3z46HW9Dw1MtDZS5=h310",
+        "//lh3.googleusercontent.com/hPbDqLIAtYsJsgNG8aKwCdaITTfciFUVb17ORUsXBRvcZRFIR1SzDh2YmhrwNB0diw=h310",
+        "//lh3.googleusercontent.com/uDIgwQ-5mTtF3b6nJcTFzj2FgFU9SmY6s8kTTq07pgo4DLonzFBpOFzcG7oiPaAE6qEd=h310",
+        "//lh3.googleusercontent.com/80VZBj1jlaujrBNQZjYgz_t15ogg7A4-l3xsLGBx98LamBLzuyOge14J1t5MDxh8XnI=h310",
+        "//lh3.googleusercontent.com/CZxXtXr3Gpz4SBwi1k0_ekjqxF1EPikZU1ee4YD1EB3ZxqQD_vBGIZKPqlRockOtdAI=h310",
+        "//lh3.googleusercontent.com/wagv_nVVgnC64J1swJKdkql_1M2N8qdQGkOhCylCwOpYY_WxTwWIflH6NbanIEcp9w=h310",
+        "//lh3.googleusercontent.com/Vj_kWWP1ToLdQkCdlT2r-1UnGy8kB_ypXLnhj6lAUmXtdNVIwZX3qgh9eIWlaFn50a4=h310",
+        "//lh3.googleusercontent.com/YN11rNGudRFOH3zws6LKo8fmbCuQVZiy5N1NlqsXYEWgnzaSHbTaFdZgtbwegJSkR9Q=h310",
+        "//lh3.googleusercontent.com/jVMEFPizmSua5sbjjZqKp1L3u9oBXOus4OiG_8EkN-Fq5YqOWdAfQYSOh3ZqJjNyQw=h310",
+        "//lh3.googleusercontent.com/_RE7AlGBbEY1SCu0czbbsAS-VGeCwa6PI0R7JTt9XZc2SNE0k_3pHbnXPNYVPGs5JBZb=h310"
+    ],
+    "comments": [
+        "Great app with a few drawbacks. It could be better if the resolution of background pictures is higher. But I guess that's not up to you right?? Also it would be great if it is better optimised for round watches like moto 360. Anyway it's still above my expectations. Good job!"
+    ],
+    "recentChanges": [
+        "2015/09/26",
+        "- レイアウトを調整",
+        "- TL取得に失敗するバグを修正"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.tsur.twitwear&hl=en&gl=us",
+    "appId": "jp.tsur.twitwear"
+}

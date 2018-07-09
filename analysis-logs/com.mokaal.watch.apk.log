@@ -1,0 +1,85 @@
+Soot started on Thu Jun 21 11:50:49 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: watchface.DigitalWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.mokaal.watch.apk
+[INFO] MySceneTransformer: ############## watchface.DigitalWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   77
+[INFO] FlowGraph: @@@@ Total Methods: 322
+[INFO] FlowGraph: @@@@ Total Stmts:   4325
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[0]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[0]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 3.548000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 11:50:56 EDT 2018

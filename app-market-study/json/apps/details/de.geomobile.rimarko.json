@@ -1,0 +1,59 @@
+{
+    "title": "Tickit for Android Wear",
+    "summary": "The shopping list directly at your wrist.",
+    "icon": "//lh6.ggpht.com/N8JUeYGAERI72e_85Kr8S59vsne0yhmuLiCJM2CCDLUu3o1J78KHrUpO4Dd3WYgTMPot=w300",
+    "price": "$1.35",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 21,
+    "developer": "GeoMobile GmbH",
+    "developerId": "GeoMobile+GmbH",
+    "developerEmail": "info@geomobile.de",
+    "developerWebsite": "http://www.geomobile.de",
+    "developerAddress": "GeoMobile GmbH\nEmil-Figge-Straße 80\n44227 Dortmund\nGermany",
+    "updated": "October 16, 2014",
+    "version": "1.2",
+    "genre": "Shopping",
+    "genreId": "SHOPPING",
+    "description": "Are you annoyed about taking your phone out of your pocket every time you want to cross something off your shopping list app?We have the solution! With our new Tickit app you can manage your shopping list directly from your smartwatch (Samsung Gear Live, LG G Watch, Moto 360). Everything is right at your wrist.Time is not standing still. In the upcoming weeks we are going to provide you with additional updates.Look forward to:- Support for additional languages- Further suprises",
+    "descriptionHTML": "Are you annoyed about taking your phone out of your pocket every time you want to cross something off your shopping list app?<br>We have the solution! With our new Tickit app you can manage your shopping list directly from your smartwatch (Samsung Gear Live, LG G Watch, Moto 360). Everything is right at your wrist.<br><br>Time is not standing still. In the upcoming weeks we are going to provide you with additional updates.<br>Look forward to:<br>- Support for additional languages<br>- Further suprises",
+    "histogram": {
+        "1": 0,
+        "2": 4,
+        "3": 2,
+        "4": 5,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/KSupfNcBsjcAn18FTTOKBqmiwQNLITNcW_viWaIdNisQ23A3uqe-xYK4PSnpWfGnsQ=h310",
+        "//lh4.ggpht.com/QcNctoU0Enl66_sObatKnt8tH6oYAYpSoEs0rgJ7am44mIpQULXPIuMJXH2hp1eddQ=h310",
+        "//lh3.ggpht.com/jb8TlgEnK5cgemH1w9lOn5OsbgEByZuwXHN6wOmuTjxqyK4pjKrcNzBumbvaIj2xDPj8=h310",
+        "//lh4.ggpht.com/m6LYzpebW1acavfPOz1zzGb4jLLoQPVpSW21V2yMNvj8j7ehFfpKnoZWVbleF1VRv7s=h310",
+        "//lh3.ggpht.com/u9KX8_HSpEAL4plXxoUR7hQNfXvJw9fzCv2FE_TnPmVFh976E-tm1tx5PEjtvvKbgMkm=h310",
+        "//lh6.ggpht.com/Nvj8IFX190APjHndeDuShsQz6sxQcHHQAKEF02zow86pbgZ9OYoRz4RQFRPoNXaNx3c=h310"
+    ],
+    "comments": [
+        "Help Please, could anybody tell me how to kill the app in my watch, because the only way to close the app in my LG G watch is rebooting. Thanks",
+        "Needs to stay active Love the simplicity of the list and the idea, but to be effective on Android Wear, the list needs to stay active.  On Moto 360, it keeps timing out, so you have to reactivate the app by swiping up, then swiping left, then pressing \"Open\" to see the list. I have reported to developers. But for now,  it's easier to just use your phone.",
+        "Rearrange list Good but can't rearrange list items.",
+        "Awsome I usually don't write reviews, but had to for this one. It is perfect. No more having to take out my phone, check my list, put phone away, get some groceries,  take out phone, check list again, etc, etc...I can't wait to see what else it can do. Adding items from my watch would be the bomb...hint...hint",
+        "Best Wear list app bar none Works really smoothly. I would give 5 stars if the font could be made smaller on the watch. That would allow more description to appear. If it's possible to add ability to add items to list on watch with voice it would be a 10. Look forward to future updates.",
+        "Nice todo app for Android Wear This app is off to a good start. Developers are responsive and keep making improvements."
+    ],
+    "recentChanges": [
+        "Thank you for your amazing feedback!",
+        "New in this version:",
+        "- You can now sort items",
+        "- New setting for keeping the watch-display always on (watch your battery)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.geomobile.rimarko&hl=en&gl=us",
+    "appId": "de.geomobile.rimarko"
+}

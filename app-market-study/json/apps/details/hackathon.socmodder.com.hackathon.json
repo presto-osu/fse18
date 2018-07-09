@@ -1,0 +1,54 @@
+{
+    "title": "NoteThis",
+    "summary": "Remember places with a single voice command",
+    "icon": "//lh6.ggpht.com/zZAoknOntDvY1NSGyFCQWBfRStqISeoAwEu4JK__Wivo0ckKWeQ8eMu-EZGA2cKXmnc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.4,
+    "reviews": 25,
+    "developer": "MaliciousMitch",
+    "developerId": "MaliciousMitch",
+    "developerEmail": "socmodder@gmail.com",
+    "developerAddress": "800 S Washington Street\nAlexandria, VA 22314",
+    "updated": "November 3, 2014",
+    "version": "1.4",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "NoteThis is the easiest way to bookmark any location. With a single voice command you can bookmark the free parking spot, cool bar, coffee shop or any place that caught your eye. NoteThis will store your saved locations for you to check out at a later time. Just say \"Ok Google, note to self\" along with a description of the place you want to save, or launch the app and tap the mic icon. Don’t forget to enable GPS to get the most accurate address on your saved locations.UX & UI design by todoriliev.com",
+    "descriptionHTML": "NoteThis is the easiest way to bookmark any location. With a single voice command you can bookmark the free parking spot, cool bar, coffee shop or any place that caught your eye. NoteThis will store your saved locations for you to check out at a later time. <br><br><b>Just say &quot;Ok Google, note to self&quot; along with a description of the place you want to save, or launch the app and tap the mic icon.</b> <br><br>Don&#x2019;t forget to enable <b>GPS</b> to get the most accurate address on your saved locations.<br><br>UX &amp; UI design by todoriliev.com",
+    "histogram": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 2,
+        "5": 18
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/KrJ1YPxmoKrWskBToJ5Ueonmq1ug4ljDm-JUxLb5pc0QCzDGorpF-5p48gC9pO7afAQ=h310",
+        "//lh6.ggpht.com/nE1VSLanjcvhTXuq2b3xtlXRLX3Obt7_kgNVbIobReTs1GvmxzZzw65z9_31cSa_qZ0=h310",
+        "//lh3.ggpht.com/pZWv9j0VROAAMg45mxOZqRzhh5By795btQLFilnWHlMKnTBVbhXIrQGy3VhXGzziWO4=h310",
+        "//lh3.ggpht.com/ySBVHfZH_cIB-Bhf6d78LRnBQ-SqX2jHSW4mx2CUx-rtgvotPOk1Mi0Dxd1iROiPqFVS=h310",
+        "//lh3.ggpht.com/JBlVuNFlOq0_hOZEE0nfZFs5jOz0waZsjJZWg60T9yP5JdHKvTzsKFIevbW8UvKSEi4=h310"
+    ],
+    "comments": [
+        "Life Saver Just saved me hours of hunting for my parking spot in a crowded city with poor reception. This app proudly carried the baton where others had failed. Why should you need data connectivity to store a simple gps coordinate? You don't, that's stupid. Simply brilliant.",
+        "Battery killer",
+        "Very useful",
+        "Wonderful But it worked on my mobile for first time. Note it's not working",
+        "Very convenient! Nice Job!",
+        "Very cool! This app is a must have for anyone with an Android Wear device.  I love how simple it is to note places from my Moto 360.  Excited to see what they add next!"
+    ],
+    "recentChanges": [
+        "Fix crash caused by location services being disabled."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=hackathon.socmodder.com.hackathon&hl=en&gl=us",
+    "appId": "hackathon.socmodder.com.hackathon"
+}

@@ -1,0 +1,94 @@
+Soot started on Thu Jun 21 12:41:01 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.watch.richface.neo.DigitalRichFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.watch.richface.neo.apk
+[INFO] MySceneTransformer: ############## com.watch.richface.neo.DigitalRichFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   293
+[INFO] FlowGraph: @@@@ Total Methods: 1256
+[INFO] FlowGraph: @@@@ Total Stmts:   22827
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,-1), (unregister_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,11), (unregister_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]14938,-1), (unregister_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,-1), (register_sensor_listener,NEW[new com.watch.richface.neo.common.manager.CompassManager]15847,11)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r9_1=[-1], $r2=[-1], $r2_5=[-1], $r4=[-65536], $r2_3=[-1], $r2_4=[-16777216], $r2=[-1]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r9_1=[-1], $r2=[-1], $r4=[-65536], $r2_2=[-4342339, -11652050, -12434878, -769226, -8336444, -5262293, -12245088, -2300043, -7288071, -15174191, -10453621, -4776932, -16746133, -7508381, -10240788, -1086464, -10167017, -6982195, -22746, -14273992], $r2_1=[-16777216], $r2=[-4342339, -11652050, -12434878, -769226, -8336444, -5262293, -12245088, -2300043, -7288071, -15174191, -10453621, -4776932, -16746133, -7508381, -10240788, -1086464, -10167017, -6982195, -22746, -14273992], $r2=[-1]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [red]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ff64dd17, ff90caf9, ffafb42b, ff4527a0, fff44336, ff8d6e63, ff9575cd, ff607d8b, ff63bcec, ffef6c00, ff1875d1, red, ff4e342e, ffb71c1c, ff00796b, ffdce775, ffffa726, ffbdbdbd, ff80cbc4, ff263238]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [11] [[<null::SELECT::interactive>, <interactive::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [11] [[<null::SELECT::interactive>, <interactive::SWIPE_LEFT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.swipe_left()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [11] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [11] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [11] [[<null::SELECT::interactive>, <interactive::SWIPE_RIGHT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.swipe_right()
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: TOTAL TIME: 46.035000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:41:52 EDT 2018

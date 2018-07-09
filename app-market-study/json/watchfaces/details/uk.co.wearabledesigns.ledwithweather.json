@@ -1,0 +1,62 @@
+{
+    "title": "LED Watch face with Weather",
+    "summary": "LED Style Watchface for Andriod Wear which displays local weather information",
+    "icon": "//lh3.googleusercontent.com/_K9_W238NzRtMu2yVTtsV74ehgxnEYQiKz66yaCc7kLTCOzgZbci7Zjougx4lZAb5EBQ=w300",
+    "price": "$1.35",
+    "free": false,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 1102,
+    "developer": "Wearable Designs",
+    "developerId": "5117509099958351335",
+    "developerEmail": "support@wearabledesigns.co.uk",
+    "developerWebsite": "http://www.wearabledesigns.co.uk",
+    "developerAddress": "AdminExcellence Limited trading as Wearable Designs\nThe Castle House\nNewnham\nGloucestershire\nGL14 1AE",
+    "updated": "February 22, 2018",
+    "version": "Varies with device",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "size": "Varies with device",
+    "description": "Dot matrix LED Style Watch face which displays local weather information including Wind Speed & Direction, Temperature, Sunrise and Sunset time, Pressure and Humidity together with current time and date, Phone Battery and Watch Battery.Weather information supplied under license by OpenWeatherMap. Includes localisations for French, Spanish, German, Polish, Italian and Portuguese.Requires an Android Wear device.  Before leaving any negative feedback, please email support@wearabledesigns.co.uk and we will be able to assist you.Version (3.0.3) removed the Settings from the phone and moves them to the Watch directly.  Settings can now be accessed via the Gear icon under the watch face in the Watch face selector.",
+    "descriptionHTML": "Dot matrix LED Style Watch face which displays local weather information including Wind Speed &amp; Direction, Temperature, Sunrise and Sunset time, Pressure and Humidity together with current time and date, Phone Battery and Watch Battery.<br><br>Weather information supplied under license by OpenWeatherMap. Includes localisations for French, Spanish, German, Polish, Italian and Portuguese.<br><br>Requires an Android Wear device.  <br><br>Before leaving any negative feedback, please email support@wearabledesigns.co.uk and we will be able to assist you.<br><br>Version (3.0.3) removed the Settings from the phone and moves them to the Watch directly.  Settings can now be accessed via the Gear icon under the watch face in the Watch face selector.",
+    "histogram": {
+        "1": 63,
+        "2": 38,
+        "3": 68,
+        "4": 276,
+        "5": 657
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/4DN3_XCvMevuhFpNUYJmC6Acsfogx_JcKUcAEye29fHwSgZlOtj00jPWrXhpfi9bLQM=h310",
+        "//lh3.googleusercontent.com/TQ-eY0fRFSwVsWoxP-HkNIoEGOGPGofuPVlv_p5cyb6LgIU75ACUIMzemm3Y8qYVsWo=h310",
+        "//lh3.googleusercontent.com/i4dVSYPMPtUEhLFanZsvRtDd8lBzUhoHH_M_T07YVg0jlSVEtQAozZYd9suq8pc35A=h310",
+        "//lh3.googleusercontent.com/TWS1R7t2WWkbW9TpWGfkJTKkZzZdMeM2Sg9qenBUZh-BJ9-jPgQzTjSNzp96d9vzWpM=h310",
+        "//lh3.googleusercontent.com/qBYFaGep1ED5W7Uzpr563LBkb_3joB_Gkxcekxr7lEz99PKRFNqp1qfgFnQCKbEeweA=h310",
+        "//lh3.googleusercontent.com/mLwENIoktC5stLKzPQrKAtaOTnX4xo_qGgjRsMx9HF4ne3zyQNZ_yURuyGLHZqUPRanE=h310",
+        "//lh3.googleusercontent.com/nlyxy7Rlsg6fx6MUPaGXMrCVXuE0NvvjQmCLcazldSj9Xnecr2qVEEF2Lf7eGLRENA=h310",
+        "//lh3.googleusercontent.com/JOcNyHBnYsERRrtQE1HBIEpdWvacPOXn2dwhl2ncWfkwoR-W9mrgmOJO1kKFT4-c_1g=h310"
+    ],
+    "comments": [
+        "Such a great WF design. Just need some tweaks to make it perfect. Make it able to setting inside AW app, time interval weather update, add screen time and if possible add step counter. And please improve phone battery update (it's important to me). Thanks. ***Edited 02/18, please fix green colour on widget 1 and 2. Now it just black. And also improve refresh phone battery status! Thanks.",
+        "Update- thanks for fixing all my issues. Now it's back to being the best watch face around.",
+        "Calories are not showing up in the latest update...please fix the issues  ( Since they are working on the bug fixes , given it 3 ). But it desrves 5 once all is working fine , love the way it looks.",
+        "Hate that the settings have been taken off the phone on put on the watch...very hard to customise now",
+        "The new update has seemed to fix all of the issues I was having. thank you.",
+        "Bad update can not even change screen color.., the same still can't change the screen color."
+    ],
+    "recentChanges": [
+        "v3.0.6",
+        "Split out Timezones into Sections",
+        "Fixed issue selecting Colours",
+        "Minor Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.wearabledesigns.ledwithweather&hl=en&gl=us",
+    "appId": "uk.co.wearabledesigns.ledwithweather"
+}

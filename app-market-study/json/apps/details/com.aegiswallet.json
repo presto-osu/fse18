@@ -1,0 +1,61 @@
+{
+    "title": "Aegis Bitcoin Wallet",
+    "summary": "The most secure bitcoin wallet for Android.",
+    "icon": "//lh3.ggpht.com/zd3IMYtInP-uwgE2WaMn9i7HtZgivwqwg9ckaJr4WvqK3D8QUfex0qtsvwbUUnnQsg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 95,
+    "developer": "Bojan Simic",
+    "developerId": "Bojan+Simic",
+    "developerEmail": "bojan@bitcoinsecurityproject.org",
+    "developerWebsite": "http://aegisbtc.com",
+    "updated": "December 19, 2017",
+    "version": "1.2",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "The Aegis Bitcoin Wallet is developed using the highest standards in the fields of cryptography and information security. We utilize proven security algorithms and protocols. Moreover, our team leverages years of knowledge and experience in software development and security to deliver you a first class application / system and user experience.Aegis is the most secure mobile bitcoin wallet for the Android platform.Key features include:- \"Active Bitcoin Wallet\": Balance and transactions are continuously updated in real-time- Encrypt your wallet using a strong password or NFC tag- Aegis security features protect your bitcoins in the event of phone loss, theft, or malware- Send, receive and store bitcoins in the most secure way available today- Backup your bitcoins securely using the Aegis Backup feature, then restore your wallet when needed- Complete bitcoin actions intuitively using our clean and slick user interface- Aegis Bitcoin Wallet is free and open sourceIncludes Android Wear features that allow you to view your balance, show your current receive address, and notifications when Bitcoins are sent/received to and from your wallet. Check out http://www.aegisbtc.com for more informationThis wallet was developed by the Bitcoin Security Project.",
+    "descriptionHTML": "The Aegis Bitcoin Wallet is developed using the highest standards in the fields of cryptography and information security. We utilize proven security algorithms and protocols. Moreover, our team leverages years of knowledge and experience in software development and security to deliver you a first class application / system and user experience.<br><br><br><b>Aegis is the most secure mobile bitcoin wallet for the Android platform.</b><br><br><br>Key features include:<br><br><br>- &quot;Active Bitcoin Wallet&quot;: Balance and transactions are continuously updated in real-time<br>- Encrypt your wallet using a strong password or NFC tag<br>- Aegis security features protect your bitcoins in the event of phone loss, theft, or malware<br>- Send, receive and store bitcoins in the most secure way available today<br>- Backup your bitcoins securely using the Aegis Backup feature, then restore your wallet when needed<br>- Complete bitcoin actions intuitively using our clean and slick user interface<br>- Aegis Bitcoin Wallet is free and open source<br><br><br>Includes Android Wear features that allow you to view your balance, show your current receive address, and notifications when Bitcoins are sent/received to and from your wallet. <br><br><br>Check out http://www.aegisbtc.com for more information<br><br>This wallet was developed by the Bitcoin Security Project.",
+    "histogram": {
+        "1": 19,
+        "2": 5,
+        "3": 7,
+        "4": 13,
+        "5": 51
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/rbD5gTn93J-thU2UvTNSYDF75534iMoE97HyHHauG2GpfEq1PKodCORXaQJdhU-ZS6I=h310",
+        "//lh5.ggpht.com/tftqKaXO3QhY888JI4v8robJjVa12Riw5bSLVK51uSb95ab8gxfzEEWLA9a-nLe_rG8=h310",
+        "//lh6.ggpht.com/6c1H-VcwtovrZjdvRL8x4MUqvTXs_bslNo1_-xcDmrVwYbA2EWoS--caMjhViZafVTA=h310",
+        "//lh5.ggpht.com/XfCifpL034DJvxIqFtYFPvXVy4tzdPRRMjNl0KreyWQO45iWAodhN12pt2yVHeKqkwU=h310",
+        "//lh5.ggpht.com/1Sgsp--oHW0StdmYHS5eu8fVISmBFfFP-9_NTpRBLfrp0EHtnIJFFZpyvJcPzJp6D_Q=h310",
+        "//lh3.ggpht.com/IfeHhQDp7mvn0FDSE6_HymsxF-b69Mu9YxZCzgu-zEIR3V87e3DKteQiGWJ5yhi9sG4=h310",
+        "//lh4.ggpht.com/e5y66i7bI22FuMbMI2TorP84cnEEx6I8uoyvtHj1AG3nWo4iRwvoJu00cOc3JLKBLA=h310",
+        "//lh3.ggpht.com/pDy47K_axM_cyKx_54N4MaN7YrOxaHLAVXls79GPrU3AWLdsUr1dsLbgp9xAwZeJgxs=h310"
+    ],
+    "comments": [
+        "Great app and support!  I made a mistake and sent  bitcoin cash instead of bitcoin to the wallet and then made another mistake. Anyway, Bojan Simic from support was able to fix my mistake and recover my coins. Highly recommend!",
+        "No longer supported or updated and if you have Bitcoin you can't send. An option is a forum on BitcoinTalk to see if its enough people for a class-action suit.",
+        "Unable to import back up. Lets me select file enter password. Cant hit submit or anything to confirm password",
+        "It acts like the send is successful, but nothing ever sends and it isn't loved in the transaction history. Horrible.",
+        "App keeps crashing over and over and won't let me send BTC only receive.",
+        "Unable to send BTC. High fees."
+    ],
+    "recentChanges": [
+        "- Fixed crashing issues on Samsung devices.",
+        "- Removed unnecessary permissions.",
+        "- Removed text message related sending because no one was using it.",
+        "- Improved backups.",
+        "- Added better crash reporting."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aegiswallet&hl=en&gl=us",
+    "appId": "com.aegiswallet"
+}

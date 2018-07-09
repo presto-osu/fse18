@@ -1,0 +1,61 @@
+{
+    "title": "Feather - Music / Video Player",
+    "summary": "[No longer under active development]Lightweight, Music and Video Player",
+    "icon": "//lh6.ggpht.com/JwLPtBteaYjLbeAovk_3Eikd4jibRU9WXvS4BqU9iQ3ob5dpfTIg1sM3ntIY30qT6e2G=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.1,
+    "reviews": 9,
+    "developer": "Aaron Turner",
+    "developerId": "7725420572806800529",
+    "developerEmail": "android@mail.aaronthedev.com",
+    "developerWebsite": "http://aaronturnerapps.tumblr.com/",
+    "developerAddress": "13786 Caspian Way\nMoreno Valley, CA 92553",
+    "updated": "April 19, 2015",
+    "version": "4.0",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "[No longer under active development]This version removes ads, supports an indie developer, and gives you a faster / more enjoyable experience!Looking for a music or video player that isn't slow, always crashing, or freezing your phone? One that allows you to find what you want to listen to or watch through a file explorer, instead of scanning your entire external storage, just to not find everything you have on there? Tired of external codecs, and just want the native ones that are much more reliable and fast? Do you find full screen video controls getting in the way of your video, and you think that they are annoying? Well, Feather was created for just these reasons, and it is presented in a minimal, beautiful, and easy to use format. Where it is all quite reliable, and always quick.I'm open to suggestions, and would love to make this app better for the community, if there are any bugs are suggestions you would like to give, send them to me email below!Thank you very much for supporting me ( Aaron Turner ) and this app!",
+    "descriptionHTML": "[No longer under active development]<br>This version removes ads, supports an indie developer, and gives you a faster / more enjoyable experience!<br><br>Looking for a music or video player that isn&apos;t slow, always crashing, or freezing your phone? One that allows you to find what you want to listen to or watch through a file explorer, instead of scanning your entire external storage, just to not find everything you have on there? Tired of external codecs, and just want the native ones that are much more reliable and fast? Do you find full screen video controls getting in the way of your video, and you think that they are annoying? Well, Feather was created for just these reasons, and it is presented in a minimal, beautiful, and easy to use format. Where it is all quite reliable, and always quick.<br><br>I&apos;m open to suggestions, and would love to make this app better for the community, if there are any bugs are suggestions you would like to give, send them to me email below!<br><br>Thank you very much for supporting me ( Aaron Turner ) and this app!",
+    "histogram": {
+        "1": 2,
+        "2": 3,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/LrwK7MdlJQvqA7c_hGeX49irylfAeYtZnqVhgZbXEbCVrJZ59opY1Dcv2vK4uRLn-g=h310",
+        "//lh5.ggpht.com/1_ziX7fCiaLfhy1riXg8YmOJ12lrRTu2ljqnqtXXu_DXMAa0zXw0cT1qz7iac-s91U0=h310",
+        "//lh5.ggpht.com/kRbtc4j1Y0XzxMgead8cyLXHLizov6jdKKjEVr6TI1rLi1IWGundLVl5UhLIrUrFpig=h310"
+    ],
+    "comments": [
+        "Oh, if only. . .  You can only access the controls in portrait mode.  Simple enough for a phone or tablet, albeit a bit tedious.  However, this means I have to rotate my CAR or AndroidTV to hit pause?  My car doesn't have an autorotate mode, nor does my AndroidTV.  A couple simple changes and this would be my goto player.  I love the simple interface.  Fits my old school personality well.",
+        "Plays wrong aspect ratio I wanted an app that could play all my music files in a playlist so as not having to choose each one individually. Unfortunately this app plays all my 4.3 ratio videos in 16.9 and makes them look ridiculous. A very basic player and having to keep turning the phone into portrait mode to access the controls is absolutely ridiculous ... uninstalled.",
+        "My Default Local Media Player PROS: Tiny, folder based, multi-format, simple, intuitive. CONS: No external subtitle support. Working perfectly on Pure Nexus 6.0.1 on bullhead and grouper but not flo, (bizarre!).",
+        "Didn't work for zero USB phone.",
+        "Very good player",
+        "Finally, access to ext-sd"
+    ],
+    "recentChanges": [
+        "***HUGE UPDATE (Sorry for the wait!)***",
+        "Feather v4 :",
+        "Android Wear: Feather now had Android Wear Support!",
+        "Settings: Feather now offers settings that you can change!",
+        "Music Sort(Settings): Feather can now sort by track number inside a folder!",
+        "Default Folder: You can now have a default directory feather opens to!",
+        "Quit Button Notification: Now there is a quit button in the notification!",
+        "And Much More!",
+        "See full changelogs that also has plans at: http://aaronturnerapps.tumblr.com"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.torch2424.feather&hl=en&gl=us",
+    "appId": "com.torch2424.feather"
+}

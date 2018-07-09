@@ -1,0 +1,49 @@
+{
+    "title": "itsumo NAVI for Android Wear β",
+    "summary": "This app is a navigation service for walk for Android Wear.※Android 4.3～6.0.1",
+    "icon": "//lh3.googleusercontent.com/4IpBD7g7gPVGFLg0kvNp-kPGp9j0Bc2vegLryNY1m29_-If-kLUbrrTRN-nfkMQ-asc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.1,
+    "reviews": 42,
+    "developer": "ZENRIN DataCom Co., Ltd.",
+    "developerId": "ZENRIN+DataCom+Co.,+Ltd.",
+    "developerEmail": "androidwear_navi_support@zenrin-datacom.net",
+    "developerWebsite": "http://www.zenrin-datacom.net/service/android_wear/index.html",
+    "developerAddress": "〒108-6206\n東京都港区港南2-15-3　品川インターシティC棟6階",
+    "updated": "November 5, 2015",
+    "version": "1.0.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "■Functions1.Find the spots you want to go around.(Radius 750m at your position)Select type of destination from the menu (convenience store, cafe, family restaurant, station, fast food) , otherwise enter the destination by voice input on your watch.2.3 type navigation mode1.Arrow navigationDisplay the direction of destination by simple arrow.2.Rader navigationDisplay the direction of destination and surrounding facilities in rader.3.Turn-by-Turn navigation(scroll up)Display information of Turn-by-Turn by scrolling up.3.SettingYou can make various setting in App on your Smartphone.[Set Application]・Set using voice input for searching spots.・Demo mode:In case of being in overseas or no GPS,it is possible to get simulated experience if you set a specific point (Tokyo Station, Kyoto Station) .・Set starting application on your watch by swiping the screen.[Set about during navigation]・Display the messages・Select the navigation modes・Display the facilities on the root during using the Turn-By-Turn mode.[Set power saving]You can save the power by setting the frequency of getting your position,sleeping and the brightness of the screen.Notice;※As using a Terminal device or Watch or watching its screen display while driving or operating a vehicle, marine vessel, boat, etc., train, aircraft, heavy machinery or other form of conveyance or while otherwise performing work that may entail danger is extremely dangerous and may violate the law, Users must never use the Service during such times;※Battery less of it will be faster when using the GPS long period of time.※This app get the current position with high accuracy,in order to guide you accurately. So please use outdoors. If the status of GPS is bad, please change the environment to use this app.",
+    "descriptionHTML": "&#x25A0;Functions<br>1.Find the spots you want to go around.(Radius 750m at your position)<br>Select type of destination from the menu (convenience store, cafe, family restaurant, station, fast food) , otherwise enter the destination by voice input on your watch.<br><br>2.3 type navigation mode<br>1.Arrow navigation<br>Display the direction of destination by simple arrow.<br><br>2.Rader navigation<br>Display the direction of destination and surrounding facilities in rader.<br><br>3.Turn-by-Turn navigation(scroll up)<br>Display information of Turn-by-Turn by scrolling up.<br><br>3.Setting<br>You can make various setting in App on your Smartphone.<br><br>[Set Application]<br>&#x30FB;Set using voice input for searching spots.<br>&#x30FB;Demo mode:<br>In case of being in overseas or no GPS,it is possible to get simulated experience if you set a specific point (Tokyo Station, Kyoto Station) .<br>&#x30FB;Set starting application on your watch by swiping the screen.<br><br>[Set about during navigation]<br>&#x30FB;Display the messages<br>&#x30FB;Select the navigation modes<br>&#x30FB;Display the facilities on the root during using the Turn-By-Turn mode.<br><br>[Set power saving]<br>You can save the power by setting the frequency of getting your position,sleeping and the brightness of the screen.<br><br>Notice;<br>&#x203B;As using a Terminal device or Watch or watching its screen display while driving or operating a vehicle, marine vessel, boat, etc., train, aircraft, heavy machinery or other form of conveyance or while otherwise performing work that may entail danger is extremely dangerous and may violate the law, Users must never use the Service during such times;<br>&#x203B;Battery less of it will be faster when using the GPS long period of time.<br>&#x203B;This app get the current position with high accuracy,in order to guide you accurately. So please use outdoors. If the status of GPS is bad, please change the environment to use this app.",
+    "histogram": {
+        "1": 11,
+        "2": 3,
+        "3": 10,
+        "4": 7,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Yry_7J3hchMyA4vHJnOPbr_dVse3GPQHR3E6hsD_MUieyiJ959tFLRw3f0l99ZaUvm8=h310",
+        "//lh3.googleusercontent.com/2EEYZAJGIhr0wowYBYPNypyDgrywFoFA8dK6DUjRjmox7X2yApayeQ5IEu3JJivy3a8=h310",
+        "//lh3.googleusercontent.com/JrI-es9ayAjGfpxq2vmsXuQkeG-oYQKhN3q9StOR08BovlllvbgdtuMgjTZMJodSv-M=h310",
+        "//lh3.googleusercontent.com/tCqV1MqrYJF7I_vEAbUoccI0deBLqZNXbq3KWnVzeWJRdCN0tzLNDznXwnP2hLXgnSE=h310",
+        "//lh3.googleusercontent.com/PdOSDftu9gO5w965UhnidlnRKBbKcbrdN_ZmSVFjWzJjQqs16LkkEsTtHG9YNvVH3Q=h310",
+        "//lh3.googleusercontent.com/1rPDW2u2cOAhWlPDhYJ1KoOga3k3AHduQGpnH8AHMZq6xATTMRo3KFsPjo-l_yyCWQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.zenrindatacom.itsmonaviandroidwear&hl=en&gl=us",
+    "appId": "net.zenrindatacom.itsmonaviandroidwear"
+}

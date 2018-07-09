@@ -1,0 +1,57 @@
+{
+    "title": "07000 Taxi",
+    "summary": "07000 Taxi gives you a quick, easy and smart way to order taxis.",
+    "icon": "//lh3.googleusercontent.com/IFghYAEl7lVtPFkz8k0fmWhIiTL5CYeOuJxae8wUOuMIbV9xKMCHcXR2-WcyjZ07KOs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 190,
+    "developer": "EVRY NORGE AS",
+    "developerId": "EVRY+NORGE+AS",
+    "developerEmail": "marked@bergentaxi.no",
+    "developerWebsite": "http://bergentaxi.no/",
+    "developerAddress": "Folke Bernadottes Vei 40\n5147 Fyllingsdalen\nNorway",
+    "updated": "December 5, 2017",
+    "version": "4.4.2",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "With this app you can book a taxi with one tap, calculate the price in advance and order right from your smartwatch.The new 07000 app makes taxi travel easier, faster, and smarter. Here are some of the main features:Taxi booking:- Automatic positioning: order taxi to your location with just one touch- Choose to pay with credit cards in the app- Manual address: enter/search addresses by text- Favorites: save your favorite addresses and order to any of them- Book a taxi now or pre-order for later- Enter destination address and calculate the price in advance- Order from your Android Wear watch without even picking up your phoneUnderway:- Cancel your taxi from the app (until a car is assigned)- Get estimated pick-up time as soon as a taxi is assigned- Follow your taxi on the map to know exactly when you need to be readyAfter your journey:- Register payment cards in the app and get automatic email receipts for all trips - even those taken from taxi stands- Keep track of previous bookings and order receipts copies right from the appThe 07000 Taxi app covers Bergen, Kristiansand and surrounding areas, including Os, Stord and Nordhordland. It can also be used other places in Norway, including Trondheim, Asker / Bærum, Drammen and Østfold, as well as between Oslo and Gardermoen Airport.",
+    "descriptionHTML": "With this app you can book a taxi with one tap, calculate the price in advance and order right from your smartwatch.<br><br>The new 07000 app makes taxi travel easier, faster, and smarter. Here are some of the main features:<br><br>Taxi booking:<br>- Automatic positioning: order taxi to your location with just one touch<br>- Choose to pay with credit cards in the app<br>- Manual address: enter/search addresses by text<br>- Favorites: save your favorite addresses and order to any of them<br>- Book a taxi now or pre-order for later<br>- Enter destination address and calculate the price in advance<br>- Order from your Android Wear watch without even picking up your phone<br><br>Underway:<br>- Cancel your taxi from the app (until a car is assigned)<br>- Get estimated pick-up time as soon as a taxi is assigned<br>- Follow your taxi on the map to know exactly when you need to be ready<br><br>After your journey:<br>- Register payment cards in the app and get automatic email receipts for all trips - even those taken from taxi stands<br>- Keep track of previous bookings and order receipts copies right from the app<br><br>The 07000 Taxi app covers Bergen, Kristiansand and surrounding areas, including Os, Stord and Nordhordland. It can also be used other places in Norway, including Trondheim, Asker / B&#xE6;rum, Drammen and &#xD8;stfold, as well as between Oslo and Gardermoen Airport.",
+    "histogram": {
+        "1": 40,
+        "2": 10,
+        "3": 15,
+        "4": 25,
+        "5": 100
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/7w60pMB0fstsxL7JF8qowgMlIbBdCGm7-m1E2_o7Pf94p1JOLGJXbpCr2JzfMXh5YoY=h310",
+        "//lh3.googleusercontent.com/xCW6x-vo1NE6WNrhe2Vhf3BSQbjrj_vwbUVBcaa316RICfJgUwBbtjITq8fYzIlcjns=h310",
+        "//lh3.googleusercontent.com/zXjESJrB9auB7Hb0bEpllQT-XzTdFAe4hYtJkE-RBfx-aXkgx_1GhVBTWZh4LF8Vg1AB=h310",
+        "//lh3.googleusercontent.com/WtShzsOqc1Ptpu6Fzmw5OP_ArET9Q2pBVvl3ZT2Bqnc8GSmFoZuZsgDXXXrB0SAK3OQ=h310",
+        "//lh3.googleusercontent.com/bbjS_EpDdSBh3oRFV4Lqsg7wuEGuPdBFf7doguL2r7U1DYAsvMFvI0Xt1r43I8BzYCg=h310"
+    ],
+    "comments": [
+        "Does not work with Swedish number.",
+        "confirmation code via sms not working, uk number in Bergen",
+        "Phone number confirmation via sms is not working anymore after the last update",
+        "Fantastic app.  Possible to pay with card.  Can email taxi receipts.  Easy to book and administer bookings.  Great product!",
+        "Getting worth Tried to book a taxi to the airport, Flesland. the only way to do it is to put the actual address, street and the number. The time for booking is also misleading with am and pm, not often used in Norway. The previous version of the app worked better, in my opinion",
+        "You can't register your VISA-card in this app. Goddamn farmers country."
+    ],
+    "recentChanges": [
+        "- New profile page",
+        "- Combined lists of active bookings and booking history",
+        "- Multiple bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.edb.taxi.bergentaxi&hl=en&gl=us",
+    "appId": "com.edb.taxi.bergentaxi"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Find My Watch!",
+    "summary": "Lost your Android Wear? This app flashes and vibrates until your watch is found!",
+    "icon": "//lh5.ggpht.com/hEkNCHRNL9GoT-wN0b-DaiM1LdcCemHGPx5lK6lfJs9dYvUKG3HDfBHD2rRXOkIH-A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 114,
+    "developer": "Jacoh",
+    "developerId": "Jacoh",
+    "developerEmail": "support@jacoh.com",
+    "developerWebsite": "http://jacoh.com",
+    "developerAddress": "955 Massachusetts Ave #141\nCambridge, MA 02139",
+    "updated": "April 22, 2015",
+    "version": "1.2.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Install now! You'll never know when you need it and it's much easier to sync when your device is close by!Lost your Android Wear? No Problem! This app flashes and vibrates your Android Wear device until your watch is found! ***Watch must be within Bluetooth range for this to work! Otherwise it cannot communicate with the phone***Already lost your watch? As long as it's in range of your phone, this app will automatically install and sync. Simply open up the mobile app, hit \"Find My Watch!\" and listen closely as the watch flashes and vibrates. When you find your wear, tap the stop button to stop, or swipe left on the watch.Make sure to give it a minute or two to sync before trying it out.Story behind this app: Lost my watch one day and couldn't find it. Spent 20 minutes looking for it. Turns out it fell behind my bed! With this app you no longer have to look for your watch by yourself.",
+    "descriptionHTML": "Install now! You&apos;ll never know when you need it and it&apos;s much easier to sync when your device is close by!<br><br>Lost your Android Wear? No Problem! This app flashes and vibrates your Android Wear device until your watch is found! ***Watch must be within Bluetooth range for this to work! Otherwise it cannot communicate with the phone***<br><br>Already lost your watch? As long as it&apos;s in range of your phone, this app will automatically install and sync. Simply open up the mobile app, hit &quot;Find My Watch!&quot; and listen closely as the watch flashes and vibrates. When you find your wear, tap the stop button to stop, or swipe left on the watch.<br><br>Make sure to give it a minute or two to sync before trying it out.<br><br>Story behind this app: Lost my watch one day and couldn&apos;t find it. Spent 20 minutes looking for it. Turns out it fell behind my bed! With this app you no longer have to look for your watch by yourself.",
+    "histogram": {
+        "1": 25,
+        "2": 3,
+        "3": 5,
+        "4": 11,
+        "5": 70
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/YXC6tRLNCi5W2OzbmeFjTkgPjPqhvVuza9fgsqFhw4TWFWNf-iMEfDOunAnZdzjGk2Ph=h310",
+        "//lh5.ggpht.com/Yc1mbH976Lz6B-U2WwKL_jeNQef0dM9ts85zIT1oaH2gUZf9_j0KwfR1azH7wecS0w=h310"
+    ],
+    "comments": [
+        "Does nothing Installed and it does absolutely nothing.  Nothing at all.  There are three buttons and they are entirely unresponsive.  Correction, the donate button works.  The other two buttons do nothing.",
+        "Simple and fast, limited only by your hearing Found my watch after 15 minutes, was hard to hear vibrations because of where it fell. Fast install, simple, and works like a charm!",
+        "Wonderful App. This app saved me from looking in the dumbest places. I turn on the app and click the send message button and boom! My watch is simply under my pillow again. Thanks for the app, works amazing!",
+        "Many Android Wear Watches have a speaker. Please make your app also play a noise on the watch speaker. This would make it much easier to find.",
+        "Why does this app not work? Does nothing but install and show a very simple gui, find, stop and donate. Fix your app and include complimentary instructions and troubleshooting.",
+        "Need to add sound.. Would be a whole lot better if it had a sound for those who have a speaker on their watch... the flashing colors don't help if my watch is under a shirt"
+    ],
+    "recentChanges": [
+        "Removed in app payments"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jacoh.findmywatch&hl=en&gl=us",
+    "appId": "com.jacoh.findmywatch"
+}

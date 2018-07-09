@@ -1,0 +1,58 @@
+{
+    "title": "Agenda Wear",
+    "summary": "Get your next events on your wirst",
+    "icon": "//lh3.googleusercontent.com/IBbl29V1TkWmmVJprc1X8GZgn44C8tb5kS02_HgCE7PQbJ4fr9g4huZ6ssuSa2Y6M6sj=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 437,
+    "developer": "QHutch",
+    "developerId": "QHutch",
+    "developerEmail": "quentin.menini+play@gmail.com",
+    "updated": "August 13, 2015",
+    "version": "3.3.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "With Agenda Wear, your upcomming events are synced on your watch so you don't have to pick your phone out of your pocket to know your plans",
+    "descriptionHTML": "With Agenda Wear, your upcomming events are synced on your watch so you don&apos;t have to pick your phone out of your pocket to know your plans",
+    "histogram": {
+        "1": 25,
+        "2": 35,
+        "3": 64,
+        "4": 150,
+        "5": 163
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/7cG73AXMqf9TfygFuZLyBrPqJ3qIzITT6U0KwbBEmvkuB7lEwS0CYItxTdWsS8gVBuk=h310",
+        "//lh3.googleusercontent.com/J-KrXRU7SnnIqLwi5uP2MzXdhKuOndqooA2AHLUMY08tR8Oj6qvUWIJZbuuCIAAdCA=h310",
+        "//lh3.googleusercontent.com/nA54bfNyHLvOBsuxzfvu0w19WfaNLGPo1IV3D4MoguTge5w0nBaFoA5nLJCm4ohKsR67=h310",
+        "//lh3.googleusercontent.com/8IjlkXSzFWfP9Iij64AjM-d3XeGC4ZIpdiZNiFMj45hu2FSrfqnxaO-FcunjwKWUfubR=h310",
+        "//lh3.googleusercontent.com/dHcgWzEOlXj1OqOyrPE86W5JJ1lqpsyvqan5H7dFbeHsSb6EXTODHRlZjIFM4k2uNw=h310",
+        "//lh3.googleusercontent.com/1X6S09lBJKWNf8gWd2w3No-A1tVKyjbGl-9nMPldR1kDKxecO0U88xcnKpqCXv46Ug=h310",
+        "//lh3.googleusercontent.com/F8lfqJEw68tEi5e5F3Ese49oooTqpqZAedtUpUNefyVFy7j-1pU_8UAJGhp-xDna1Q=h310",
+        "//lh3.googleusercontent.com/yQfLoWtCevTIWw_M6uqyLoGchjzPQrHgAmUefuaIi5IqxE70YR1LE9kAQLvWayw1CHHE=h310"
+    ],
+    "comments": [
+        "It would really be nice if the app started by displaying the event closest to the current time. I don't really need to see an event that happened yesterday. It needs to auto-refresh.  Also, it needs the option of turning off the birthday calendar.  ** I changed this from 3 to 4-stars because the developer is very responsive to email. We just had an email conversation less than five minutes after I posted my review. :)",
+        "Works but not great So in principle this app is good, but in practice I can't see my events. The date should be above the items so they can take the full width, and the font needs to be smaller - half the screen is white at the moment. Be nice to have a more material icon too... I'd pay then!!",
+        "Awesome except for one thing Gives you the option for which account calenders to display which is working flawlessly. Colour coding is awesome too, miles better than that stock agenda app. Only complaint is that I cannot get rid of the birthdays, there is no option to turn that off...",
+        "Pretty good, but:  1. too much white space in between the detailed events screen makes you think there are no more next events. Maybe you can trim it down? 2. colors deviate from google scheme, which is ok, but kind of off-putting when most wear apps follow a similar color palate. 3. event names are truncated too short in main screen making it almost useless and have to swipe to the left one more time to see what your events are.",
+        "Why does it start 2 days ago? Nice, but not good enough.  For one, NEEDS the option for a smaller font - the agenda items are horribly truncated because of the limited space.  For two, when I open the app it goes to the first event from two days ago. It's nice to see past events, but why doesn't it start centered on the next upcoming event, instead of making me scroll down to see what's up for today??  Looking for a better option unless/until this gets fixed.",
+        "Does what it's supposed to perfectly I would have given it a 5 but I had to turn off the ads and get a guilt message from the developer because every time I changed screens a popup would come up that I had to dismiss.  I could have lived with the banner ads."
+    ],
+    "recentChanges": [
+        "- First set up made easier (just open the app once on your phone and it's all good)",
+        "- Refresh button on the watch (now also on square watches)",
+        "- Choose your calendar pop up is now easier to read"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.qhutch.agendawear&hl=en&gl=us",
+    "appId": "com.qhutch.agendawear"
+}

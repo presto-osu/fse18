@@ -1,0 +1,48 @@
+{
+    "title": "Watch Light - Wear Flashlight",
+    "summary": "Watch Light",
+    "icon": "//lh6.ggpht.com/Exrtan3qa1ZC5t7OAOh7KFYqNaxFgTkdCa6qo35TdsTrJXXfCpf9G3JIlen-0dluAg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.7,
+    "reviews": 10,
+    "developer": "Kevin Tydlacka",
+    "developerId": "7022106576288555337",
+    "developerEmail": "ktydlackaapps@gmail.com",
+    "developerWebsite": "https://www.facebook.com/kevintydlackaapps",
+    "developerAddress": "1409 Marble Cove Ln\nDenton, TX 76210",
+    "updated": "July 14, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Turn your Android wearable device (Samsung Gear Live, LG G Watch, Moto 360) into a flashlight.  No-frills, simple, fast, and bright light right on your wrist when you need it.  No more digging in your pocket for your phone when it's too dark to see.After installing on your mobile, launch from your Wear Device's \"Start...\" option, or with the voice command \"Start Watch Light\"",
+    "descriptionHTML": "Turn your Android wearable device (Samsung Gear Live, LG G Watch, Moto 360) into a flashlight.  <br><br>No-frills, simple, fast, and bright light right on your wrist when you need it.  No more digging in your pocket for your phone when it&apos;s too dark to see.<br><br>After installing on your mobile, launch from your Wear Device&apos;s &quot;Start...&quot; option, or with the voice command &quot;Start Watch Light&quot;",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/6VigvxzbX7AewfBudYLlRDqzc5HV2BfpbiJSmpJfuCFNl09BeTE9Fw-h5MvXOOkTUjk=h310",
+        "//lh3.ggpht.com/F1CtkGdgaBouCo-tFG_YDaBj17fLUE5pUB0DhPCd7Z0cYk6gn-9dJy0NSSwivqe9Pco=h310",
+        "//lh3.ggpht.com/PrHWWOjwilqJavgcAM7CJfOnNXS3unFbN3xP6MwFiEVHIz7pDjHqyPn-pPwy7I5edZc=h310"
+    ],
+    "comments": [
+        "Garbage"
+    ],
+    "recentChanges": [
+        "-Added button to start Wear Light from app on mobile"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kevinTydlacka.wearFlashlight&hl=en&gl=us",
+    "appId": "com.kevinTydlacka.wearFlashlight"
+}

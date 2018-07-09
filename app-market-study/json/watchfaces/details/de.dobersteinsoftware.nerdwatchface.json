@@ -1,0 +1,51 @@
+{
+    "title": "Nerd Watch Face",
+    "summary": "A binary watch for android wear",
+    "icon": "//lh4.ggpht.com/cXp7fmzwTnxsQYUwi9EFt0EqZsgZ2FuHwhrmaGWmWczfdQUAtFPdjk_Syfcul63Bpg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.7,
+    "reviews": 6,
+    "developer": "Reinhard Doberstein",
+    "developerId": "Reinhard+Doberstein",
+    "developerEmail": "info@doberstein-software.de",
+    "developerWebsite": "http://www.doberstein-software.de",
+    "developerAddress": "Neue Kempener Strasse 222\n50739 Köln\nGermany",
+    "updated": "March 12, 2015",
+    "version": "1.2.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A binary watch, a real Nerd-Watch, as watchface for all smartwatchs who support android wear.",
+    "descriptionHTML": "A binary watch, a real Nerd-Watch, as watchface for all smartwatchs who support android wear.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 0
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/_E9011U7FPPH5B17oMdje5y3KArRBRaMfPsJS_CqJ4YGxPv0vmbU7m8ehFoEizrRqOD1=h310",
+        "//lh3.ggpht.com/xCmMGhmyapYWDuz9Yk3OCFeiWUTVtB3EQhnHP15U9rDrUc3804lPWpVcxYggeYJ1Gw=h310",
+        "//lh3.ggpht.com/_-BFqG_B_2ljy2HQ-9dS9zOdERuE0dDTxTFEfsfbA_XL4zts5xruRr05XyB1aQksHFk=h310"
+    ],
+    "video": "https://www.youtube.com/embed/K7qVpBkUkf0",
+    "comments": [
+        "Better than most binary faces. Would like to see options to change size, select color and brightness for low power mode.  There is no need for zero placer on hour. Would also like to have a 99 cent version with no logo, nor HRS with time centered in center of screen, top row with 4 dots, second row with 6 dots.",
+        "Pretty nice Would love to see 12hr option.",
+        "Logo on the front? Great, much better than other binary watch faces but can you take the DoSo off the face?"
+    ],
+    "recentChanges": [
+        "small optimizations"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.dobersteinsoftware.nerdwatchface&hl=en&gl=us",
+    "appId": "de.dobersteinsoftware.nerdwatchface"
+}

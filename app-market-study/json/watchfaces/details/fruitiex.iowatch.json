@@ -1,0 +1,47 @@
+{
+    "title": "iowatch",
+    "summary": "Android Wear watchface inspired by a Google I/O talk.",
+    "icon": "//lh3.googleusercontent.com/DFW86ywzJYqh5xlnJdU_7YCmjsqlXd3qWrs3YiWJkBrOpVDHW2lQ-FB44R72sJjYSQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4,
+    "reviews": 2,
+    "developer": "FruitieX",
+    "developerId": "FruitieX",
+    "developerEmail": "fruitiex@gmail.com",
+    "developerWebsite": "https://github.com/FruitieX/iowatch",
+    "developerAddress": "Servin Maijan Tie 12 C 34,\n02150,\nFinland",
+    "updated": "June 23, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Minimalistic Android Wear watch face inspired by a Google I/O talk.http://i.imgur.com/ELY80tT.pngTroubleshooting:Sometimes it takes a little while to install new watch faces over a slow Bluetooth connection. Wait at least a few minutes after installing on phone, by then watch face should be installed on the watch as well. Try reinstalling or re-syncing all apps to the watch if it still fails. This unfortunately affects all third party watch faces on Android Wear.Suggestions and feature requests are welcome!GitHub repository: https://github.com/FruitieX/iowatch",
+    "descriptionHTML": "Minimalistic Android Wear watch face inspired by a Google I/O talk.<br><br>http://i.imgur.com/ELY80tT.png<br><br>Troubleshooting:<br>Sometimes it takes a little while to install new watch faces over a slow Bluetooth connection. Wait at least a few minutes after installing on phone, by then watch face should be installed on the watch as well. Try reinstalling or re-syncing all apps to the watch if it still fails. This unfortunately affects all third party watch faces on Android Wear.<br><br>Suggestions and feature requests are welcome!<br>GitHub repository: https://github.com/FruitieX/iowatch",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/8HZZZ62srcOddgd8uwMWhRY1u8uOQR5eQmcGtcJSHdD4839Hra2D310-mUir7jj0IZI=h310",
+        "//lh3.googleusercontent.com/9AEbD36Kwe4G3ZSkv2YE2Nyvr9_tKR2xG43vGjYxhU3mfNb_CYoM_qzXGzl1ypkh2Os=h310"
+    ],
+    "comments": [
+        "Shrink Ring just a bit I was very disappointed when I installed this face for use on my Moto 360. The bottom where 6 o'clock is is covered."
+    ],
+    "recentChanges": [
+        "Made the lines in ambient mode thinner to minimize screen burn-in risk and improve battery life."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fruitiex.iowatch&hl=en&gl=us",
+    "appId": "fruitiex.iowatch"
+}

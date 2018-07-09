@@ -1,0 +1,48 @@
+{
+    "title": "BTime Wear Watch Face",
+    "summary": "A binary Wear Watch Face clock with display of days - hours - minutes - seconds",
+    "icon": "//lh3.ggpht.com/P5cnNJ5zKeX3Qcl9CgE3GhZa2VkqFys6tigp2mYxCOBWRyfXhs7DLqbvxxj37TgOnw=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.5,
+    "reviews": 2,
+    "developer": "Mario Peham",
+    "developerId": "Mario+Peham",
+    "developerEmail": "mario.peham@gmail.com",
+    "developerAddress": "Kaplanstrasse 32\nA-4300 St. Valentin\nAUSTRIA",
+    "updated": "February 4, 2015",
+    "version": "1.1.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "A binary Wear Watch Face clock with display of day - hour - minute - second 1st line - day - can be hidden Second row - hours 3rd line - minutes 4th line - seconds - can be hidden In dimmed mode, the seconds are not displayed. The numbers can be hidden. All colors can be changed over the phone.",
+    "descriptionHTML": "A binary Wear Watch Face clock with display of day - hour - minute - second <br><br>1st line - day - can be hidden <br>Second row - hours <br>3rd line - minutes <br>4th line - seconds - can be hidden <br><br>In dimmed mode, the seconds are not displayed. <br>The numbers can be hidden. <br><br>All colors can be changed over the phone.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/edRRZQZdTxv9dXNFlHKRkqolKwvTTbkC_bIQo4v7Bfct7TOEhJq_q_TJ6nlUuOa-hA=h310",
+        "//lh3.ggpht.com/XFgVfaLN5M7OxRipQHOJ_VulP9odKvQAWCBLAaFW-lpY1Dd--YwLUq5iuVjy_gM98mw=h310",
+        "//lh4.ggpht.com/2NLtSSvWsZKt5fNcufnMZboF2C7Bblvq_VEDPlpQpvHRXqcnheebrL6xuOe-BaEXWw=h310"
+    ],
+    "comments": [
+        "True Binary This is a lot better than the other binary faces currently available for wear. Not sure why you're only at ten downloads right now, maybe it's brand new? The only thing I'd change would be to add an option for round makers. Good show sir."
+    ],
+    "recentChanges": [
+        "Update to the new version 5.0.1",
+        "Support for round watches"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=at.peham.mario.btime&hl=en&gl=us",
+    "appId": "at.peham.mario.btime"
+}

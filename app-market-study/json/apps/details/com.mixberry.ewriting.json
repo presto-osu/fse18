@@ -1,0 +1,51 @@
+{
+    "title": "Watch EWriting",
+    "summary": "Handwriting keyboard substitution specially designed for small Wearable screens",
+    "icon": "//lh6.ggpht.com/oMhke2vfD3FTJWYys39iPqVnBBkRmJ9EBITvonhxr94GMd3yKJLWwQ0LvZ_IgQxYIw8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 45,
+    "developer": "MIXBERRY LABS  PTE. LTD",
+    "developerId": "MIXBERRY+LABS++PTE.+LTD",
+    "developerEmail": "google.developer@mixberry.com",
+    "developerWebsite": "http://www.mixberry.com",
+    "updated": "December 24, 2014",
+    "version": "1.0.7",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "In Watch EWriting you use whole screen surface for drawing symbols – one at a time. While drawing, you simultaneously observe all fields of your APP, including the field you input to. This makes such a contrast with using standard keyboard, which occupies critically important space on the Smart Watch screen. You can draw most of the symbols in SIMPLIFIED style (\"Graffiti\" style, see help) to increase input speed.Latin and Cyrillic symbols are supported as well as digits and most punctuation and control ones.To finish input just Long Tap anywhere on the screen.Designed with Omate Truesmart, x201, AW-414/420, Iconbit's Callisto, ZGPAX S5, IKWEAR IK8 and other watches with 1.5\" screen in mind.You need to enable \"EWriting\" in the list of input methods  and to set it as default input method in \"Settings->Language and Input\" in order to use it after installation",
+    "descriptionHTML": "In Watch EWriting you use whole screen surface for drawing symbols &#x2013; one at a time. While drawing, you simultaneously observe all fields of your APP, including the field you input to. This makes such a contrast with using standard keyboard, which occupies critically important space on the Smart Watch screen. <br>You can draw most of the symbols in SIMPLIFIED style (&quot;Graffiti&quot; style, see help) to increase input speed.<br>Latin and Cyrillic symbols are supported as well as digits and most punctuation and control ones.<br>To finish input just Long Tap anywhere on the screen.<br>Designed with Omate Truesmart, x201, AW-414/420, Iconbit&apos;s Callisto, ZGPAX S5, IKWEAR IK8 and other watches with 1.5&quot; screen in mind.<br>You need to enable &quot;EWriting&quot; in the list of input methods  and to set it as default input method in &quot;Settings-&gt;Language and Input&quot; in order to use it after installation",
+    "histogram": {
+        "1": 13,
+        "2": 3,
+        "3": 1,
+        "4": 11,
+        "5": 17
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/CSRy079Mmhb9NUIpUcheOugxCU_cZcfAHYduFvW-N68sTz3yGo8U46HP6daUXd5w3g=h310",
+        "//lh3.ggpht.com/4aG6yo-cci6FAxVv32TSYq8QHQhlYzbTGZJ11WJgmC9es_fS1zoAhwQHwWvWP0xZ2T4=h310"
+    ],
+    "comments": [
+        "Wtf If you never tried it on Android wear, then what the hell is it for? You say it is for watches but that makes no sense. I wonder if the devs who made this is more confused than I am... Fail",
+        "For smartphone watches NOT Android wear There are watches out there which run full Android, include a phone and don't require tethering. This app is for them as the developer has said. If you have an inferior watch then this is not for you so please don't show your ignorance by rating it.",
+        "Useless This is useless. There's no way to get it to work on Android Wear.",
+        "Good idea Seems like a good idea but how do you actually get it to work on android wear?",
+        "takes me back to palm :) excellent!",
+        "Feedback the EWriting I have checked this app. The app is very simply and affordable. Some times for training and you can enjoy the ease of entry the symbols"
+    ],
+    "recentChanges": [
+        "Fixed: exit from empty field with LongTap and wrong images of 2 control symbols in Help."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mixberry.ewriting&hl=en&gl=us",
+    "appId": "com.mixberry.ewriting"
+}

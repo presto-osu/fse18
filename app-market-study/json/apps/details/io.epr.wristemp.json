@@ -1,0 +1,53 @@
+{
+    "title": "WrisTemp works with Nest",
+    "summary": "Control your Nest thermostat from your wrist!",
+    "icon": "//lh4.ggpht.com/bl6LHHzRe3doORAikp4B1Vge--7EPFgBLH_PMQwWny1I1IJYPCmXl3BZelWxAvs__Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 17,
+    "developer": "{epr}.io",
+    "developerId": "%7Bepr%7D.io",
+    "developerEmail": "support@epr.io",
+    "developerWebsite": "http://epr.io",
+    "developerAddress": "Iain Parkes\nUnit 5955\nPO Box 15113\nBirmingham\nB2 2NJ",
+    "updated": "February 21, 2016",
+    "version": "1.56",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "WrisTemp Pro enhances the convenience of owning a Nest Learning Thermostat by allowing you to easily and quickly make adjustments using your Android Wear watch without having to get your phone out.Features you can control from your wrist:- See the current thermostat temperature- See and set the current target thermostat temperature- Choose between fahrenheit or celsiusPro Features:- Choose from any thermostat connected to your Nest account- Voice control- See and set your away status from home or awaySetting up the app is easy. Simply download and install the app, launch the phone companion app and login with your nest account. From then on you can control everything via your Android Wear watch.PLEASE NOTE: This application will currently only work with Android Wear devices therefore it does not currently work with Samsung Gear smartwatches.Legal disclaimerNest®, Nest Learning Thermostat®, Nest Leaf Logo®, Auto-Away®, and the Works with Nest logos are trademarks licensed by Nest Labs, Inc.",
+    "descriptionHTML": "WrisTemp Pro enhances the convenience of owning a Nest Learning Thermostat by allowing you to easily and quickly make adjustments using your Android Wear watch without having to get your phone out.<br><br>Features you can control from your wrist:<br>- See the current thermostat temperature<br>- See and set the current target thermostat temperature<br>- Choose between fahrenheit or celsius<br><br>Pro Features:<br>- Choose from any thermostat connected to your Nest account<br>- Voice control<br>- See and set your away status from home or away<br><br>Setting up the app is easy. Simply download and install the app, launch the phone companion app and login with your nest account. From then on you can control everything via your Android Wear watch.<br><br>PLEASE NOTE: This application will currently only work with Android Wear devices therefore it does not currently work with Samsung Gear smartwatches.<br><br>Legal disclaimer<br>Nest&#xAE;, Nest Learning Thermostat&#xAE;, Nest Leaf Logo&#xAE;, Auto-Away&#xAE;, and the Works with Nest logos are trademarks licensed by Nest Labs, Inc.",
+    "histogram": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 7,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/Ww3PxIUSLcydXTEHrhjo3k7ZceN8ZCZxvuIAxFjiLzrJOdJVj5G2JymDQwsnKz_wyPI=h310",
+        "//lh6.ggpht.com/FRTKFol8tMCLh9--_0YHS6OEisKFTuB7A0n3MI_PkBv-JiDYZ-VpkKtwh8u-ctRmgko=h310",
+        "//lh6.ggpht.com/O5UzYDbLp45oYlS1OCX4SRmaAoUf5PTAsZuSwz_oDTFMtmd2MhqUIQvwumFbx6jYf22R=h310"
+    ],
+    "comments": [
+        "This does the exact same thing the standard nest wear app does, not sure why I'd need this, I got it because I thought it include the \"turn fan on\" function. Thanks anyway, going back to the nest app",
+        "Works a treat Thanks for the update Dev. Works perfectly now. Really simple and easy to use. Great work.",
+        "This is a great app! Able to see and control my Nest temperature from my Huawei Watch! Tried the pro, and since I only have one Nest, decided to stick with the base version. I would upgrade to the pro if it showed the humidity, that would be a really good addition! Also would be good if it showed the local temp outside the house.",
+        "So far Working fine",
+        "Works well Basic temperature control & colour coding for burner. Love that. Isn't it strange third party apps need to be relied upon to do basic stuff that original product companies or teams have already been paid through the nose for! So, thank you for providing this.",
+        "Does what it says on the tin. For free! Works well (Moto 360) and the change of colours when increasing the temperature brings it in line with the official app. The fact that's it's free is a big plus, I'll probably pay for the pro version to get voice control. Only 'downside' is the basic UI but it doesn't hamper functionality."
+    ],
+    "recentChanges": [
+        "- Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=io.epr.wristemp&hl=en&gl=us",
+    "appId": "io.epr.wristemp"
+}

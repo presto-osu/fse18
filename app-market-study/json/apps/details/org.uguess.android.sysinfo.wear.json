@@ -1,0 +1,51 @@
+{
+    "title": "Quick System Info Wear",
+    "summary": "Explore your system better",
+    "icon": "//lh3.googleusercontent.com/yNX-HV3XrRwfzv2UDxXGk5VMqzct_sENmZnC3A8mqtWzg2mfdagO4DbKEIXyFTnKPOs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 7,
+    "developer": "Shawn Q.",
+    "developerId": "Shawn+Q.",
+    "developerEmail": "qauck.aa@gmail.com",
+    "developerWebsite": "http://qsysinfo.appspot.com",
+    "developerAddress": "1210 Sierra Village Way\nSan Jose, CA 95132",
+    "updated": "February 5, 2018",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Quick System Info now comes to your wearable devices!** Note this app is for your wearable devices ONLY, you will see the app from your wearable devices after install and syncing, NO launchable app on your handheld devices**Quick access of the basic system information for your Android platform, including information for CPU, memory, SD Card, running processes, network states and installed applications. * Live CPU/MEM Usage Monitor* Live 2G/3G/Wi-Fi Traffic Monitor* Comprehensive Device/Hardware Details Viewer, e.g. Storage/Memory/Processor/Sensor/Network* One-click Application Cache Cleaner* Application History Cleaner* Advanced System Properties Viewer, e.g. System/Phone/Screen/OpenGL/Build and Runtime Settings* Enhanced Application Viewer with Tag and Backup/Restore support* Enhanced Process Management and Viewer* Enhanced Network Connection and Traffic Viewer* Enhanced Battery Status in Notification Area.** The 'read/write bookmark' permission is needed for the 'Clean History' function only **",
+    "descriptionHTML": "Quick System Info now comes to your wearable devices!<br><br>** Note this app is for your wearable devices ONLY, you will see the app from your wearable devices after install and syncing, NO launchable app on your handheld devices**<br><br>Quick access of the basic system information for your Android platform, including information for CPU, memory, SD Card, running processes, network states and installed applications. <br><br>* Live CPU/MEM Usage Monitor<br>* Live 2G/3G/Wi-Fi Traffic Monitor<br>* Comprehensive Device/Hardware Details Viewer, e.g. Storage/Memory/Processor/Sensor/Network<br>* One-click Application Cache Cleaner<br>* Application History Cleaner<br>* Advanced System Properties Viewer, e.g. System/Phone/Screen/OpenGL/Build and Runtime Settings<br>* Enhanced Application Viewer with Tag and Backup/Restore support<br>* Enhanced Process Management and Viewer<br>* Enhanced Network Connection and Traffic Viewer<br>* Enhanced Battery Status in Notification Area.<br><br>** The &apos;read/write bookmark&apos; permission is needed for the &apos;Clean History&apos; function only **",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/lxNzhGnSh3EDTknCHgjt39H5iskXrl1_Bt6-asWmdeRdsfIlVRyKCb6AcJyUsmcSlizR=h310",
+        "//lh3.googleusercontent.com/i_vvRVNHUY_vymy6sci2I5lOPQ0OmNmNaXMEGuSfWZws45yd3YyL06wMQNzszVatANk=h310",
+        "//lh3.googleusercontent.com/rLXtNsR5wmprd6ay8-iFARIonDEiK4Wz5RNUAs_Z-9swhF2soBnfjx4spsXkl2FEzA=h310",
+        "//lh3.googleusercontent.com/EZ83RHUGlW4WNQuaUzkcoajqBCgSXiTUEMsbAffB3-_tloZrU2wAe6eKlitfaMWsq6I=h310",
+        "//lh3.googleusercontent.com/rVPrSee31_g40r9M3uAHyUOglIxhdrk-995Er3cnXZmdf7zyNMdhGxNX_rE4Lux2w5U=h310"
+    ],
+    "comments": [
+        "Doesn't appear to work for Garmin Devices."
+    ],
+    "recentChanges": [
+        "* Fix Oreo related issues."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.uguess.android.sysinfo.wear&hl=en&gl=us",
+    "appId": "org.uguess.android.sysinfo.wear"
+}

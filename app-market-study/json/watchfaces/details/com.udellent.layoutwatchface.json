@@ -1,0 +1,48 @@
+{
+    "title": "Layout Watch Face Example",
+    "summary": "A sample watch face for Android Wear built using layouts.",
+    "icon": "//lh3.googleusercontent.com/egTbNEJCwonTDtF39lHeoAlH2HbkPi33oRoZN59Y8KR9RBdfZUZRmijmvpTHWpCMFRQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.4,
+    "reviews": 7,
+    "developer": "Udell Enterprises, Inc",
+    "developerId": "6589881289812568831",
+    "developerEmail": "sterling.udell@googlemail.com",
+    "developerWebsite": "http://sterlingudell.com",
+    "developerAddress": "1338 Grand Ave\nGlenwood Springs, CO 81601\nUSA",
+    "updated": "May 13, 2015",
+    "version": "1.1",
+    "genre": "Libraries & Demo",
+    "genreId": "LIBRARIES_AND_DEMO",
+    "description": "Demonstrates a technique of building Android Wear watch faces using standard Android layouts, rather than drawing to the Canvas directly. Please be aware that this is a sample, and while it does work, it is not meant to be a full-featured watch face. Source code is available on GitHub at https://github.com/StringMon/layout-watch-faceA full writeup on this technique, and the making of this watch face, can be found at https://sterlingudell.wordpress.com/2015/05/10/layout-based-watch-faces-for-android-wear/",
+    "descriptionHTML": "Demonstrates a technique of building Android Wear watch faces using standard Android layouts, rather than drawing to the Canvas directly. <br><br>Please be aware that this is a <b>sample</b>, and while it does work, it is not meant to be a full-featured watch face. <br><br>Source code is available on GitHub at https://github.com/StringMon/layout-watch-face<br><br>A full writeup on this technique, and the making of this watch face, can be found at https://sterlingudell.wordpress.com/2015/05/10/layout-based-watch-faces-for-android-wear/",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_IX37BqKPxtcvjvwbxlQsmwBr34Tv3CUJkEM1kbPsLVl6YQ5z0_SOgFT2LCxXTcGXWIq=h310",
+        "//lh3.googleusercontent.com/RxwwKjjDk4dqYGa1OXm26oHpRnetjmAZkyn4A2Zxai-6_GbY5CbOc2OEAyFxwTGZbCNS=h310"
+    ],
+    "comments": [
+        "Really nice! I know its kind of a tech demo, but it still looks pretty good!",
+        "Simple N Elegant Simple N informative as required. Does not kill the battery."
+    ],
+    "recentChanges": [
+        "Fix a couple of bugs with the, er, layout"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.udellent.layoutwatchface&hl=en&gl=us",
+    "appId": "com.udellent.layoutwatchface"
+}

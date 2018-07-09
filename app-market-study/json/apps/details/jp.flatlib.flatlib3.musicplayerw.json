@@ -1,0 +1,56 @@
+{
+    "title": "Music Player for Android Wear",
+    "summary": "It is an application to perform the music playing in the Android Wear alone. Offline is player.",
+    "icon": "//lh3.ggpht.com/CfpTEqtdsyVjpy19TG00TdBmtXjbUohY9MDfZUj9qUtv-sRnf33IA4oOllUIJUSNvEs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 40,
+    "developer": "flatlib.jp",
+    "developerId": "flatlib.jp",
+    "developerEmail": "developer@flatlib.jp",
+    "developerWebsite": "http://dench.flatlib.jp/app/musicplayerw",
+    "updated": "February 1, 2015",
+    "version": "1.1.1",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Android Wear デバイスだけで音楽再生を行うアプリです。オフライン再生できます。再生には Bluetooth ヘッドホンや Bluetooth スピーカーが必要です。新しいバージョンをリリースしました  (Music Player2 for Android Wear)https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.musicplayerw2Android 4.4W.2 で音楽再生機能が追加されましたが、日本では Google Play ミュージックが対応していなかったのでシンプルな再生ソフトを作ってみました。任意のファイルを Android Wear デバイス (Wearable) に転送して再生することができます。機能は最小限でシャッフルプレイしかありません。●再生までAndroid Wear デバイスにはヘッドホン端子がないので、Bluetooth ヘッドホンが必要です。あらかじめペアリングしておいてください。　1. スマートフォン、タブレット側でこのアプリを開き、転送したいファイルを「同期リスト」に追加してください。　2. 同期リストに追加したファイルはバックグラウンドで転送が行われます。アプリを閉じても構いません。　3. Android Wear 側でこのアプリを開き「Play」で再生が始まります。●注意点・Bluetooth による転送は遅いので、最初は必ず 1～2 ファイルの転送を試してください。一度に多くのファイルを追加すると転送が終わるまで非常に時間がかかります。・追加したファイルの転送が終わるまで再生できなくなります。(この問題は Music Player2 for Android Wear で改善されています)・新たに追加したファイルを再生するには、一旦 Stop してから Play し直してください。● その他詳しくは下記をご覧ください。http://dench.flatlib.jp/app/musicplayerw",
+    "descriptionHTML": "Android Wear &#x30C7;&#x30D0;&#x30A4;&#x30B9;&#x3060;&#x3051;&#x3067;&#x97F3;&#x697D;&#x518D;&#x751F;&#x3092;&#x884C;&#x3046;&#x30A2;&#x30D7;&#x30EA;&#x3067;&#x3059;&#x3002;&#x30AA;&#x30D5;&#x30E9;&#x30A4;&#x30F3;&#x518D;&#x751F;&#x3067;&#x304D;&#x307E;&#x3059;&#x3002;<br>&#x518D;&#x751F;&#x306B;&#x306F; Bluetooth &#x30D8;&#x30C3;&#x30C9;&#x30DB;&#x30F3;&#x3084; Bluetooth &#x30B9;&#x30D4;&#x30FC;&#x30AB;&#x30FC;&#x304C;&#x5FC5;&#x8981;&#x3067;&#x3059;&#x3002;<br><br><br>&#x65B0;&#x3057;&#x3044;&#x30D0;&#x30FC;&#x30B8;&#x30E7;&#x30F3;&#x3092;&#x30EA;&#x30EA;&#x30FC;&#x30B9;&#x3057;&#x307E;&#x3057;&#x305F;  (Music Player2 for Android Wear)<br>https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.musicplayerw2<br><br><br><br>Android 4.4W.2 &#x3067;&#x97F3;&#x697D;&#x518D;&#x751F;&#x6A5F;&#x80FD;&#x304C;&#x8FFD;&#x52A0;&#x3055;&#x308C;&#x307E;&#x3057;&#x305F;&#x304C;&#x3001;&#x65E5;&#x672C;&#x3067;&#x306F; Google Play &#x30DF;&#x30E5;&#x30FC;&#x30B8;&#x30C3;&#x30AF;&#x304C;&#x5BFE;&#x5FDC;&#x3057;&#x3066;&#x3044;&#x306A;&#x304B;&#x3063;&#x305F;&#x306E;&#x3067;&#x30B7;&#x30F3;&#x30D7;&#x30EB;&#x306A;&#x518D;&#x751F;&#x30BD;&#x30D5;&#x30C8;&#x3092;&#x4F5C;&#x3063;&#x3066;&#x307F;&#x307E;&#x3057;&#x305F;&#x3002;<br><br>&#x4EFB;&#x610F;&#x306E;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092; Android Wear &#x30C7;&#x30D0;&#x30A4;&#x30B9; (Wearable) &#x306B;&#x8EE2;&#x9001;&#x3057;&#x3066;&#x518D;&#x751F;&#x3059;&#x308B;&#x3053;&#x3068;&#x304C;&#x3067;&#x304D;&#x307E;&#x3059;&#x3002;<br>&#x6A5F;&#x80FD;&#x306F;&#x6700;&#x5C0F;&#x9650;&#x3067;&#x30B7;&#x30E3;&#x30C3;&#x30D5;&#x30EB;&#x30D7;&#x30EC;&#x30A4;&#x3057;&#x304B;&#x3042;&#x308A;&#x307E;&#x305B;&#x3093;&#x3002;<br><br><br>&#x25CF;&#x518D;&#x751F;&#x307E;&#x3067;<br><br>Android Wear &#x30C7;&#x30D0;&#x30A4;&#x30B9;&#x306B;&#x306F;&#x30D8;&#x30C3;&#x30C9;&#x30DB;&#x30F3;&#x7AEF;&#x5B50;&#x304C;&#x306A;&#x3044;&#x306E;&#x3067;&#x3001;Bluetooth &#x30D8;&#x30C3;&#x30C9;&#x30DB;&#x30F3;&#x304C;&#x5FC5;&#x8981;&#x3067;&#x3059;&#x3002;<br>&#x3042;&#x3089;&#x304B;&#x3058;&#x3081;&#x30DA;&#x30A2;&#x30EA;&#x30F3;&#x30B0;&#x3057;&#x3066;&#x304A;&#x3044;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br><br>&#x3000;1. &#x30B9;&#x30DE;&#x30FC;&#x30C8;&#x30D5;&#x30A9;&#x30F3;&#x3001;&#x30BF;&#x30D6;&#x30EC;&#x30C3;&#x30C8;&#x5074;&#x3067;&#x3053;&#x306E;&#x30A2;&#x30D7;&#x30EA;&#x3092;&#x958B;&#x304D;&#x3001;&#x8EE2;&#x9001;&#x3057;&#x305F;&#x3044;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x300C;&#x540C;&#x671F;&#x30EA;&#x30B9;&#x30C8;&#x300D;&#x306B;&#x8FFD;&#x52A0;&#x3057;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br>&#x3000;2. &#x540C;&#x671F;&#x30EA;&#x30B9;&#x30C8;&#x306B;&#x8FFD;&#x52A0;&#x3057;&#x305F;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x306F;&#x30D0;&#x30C3;&#x30AF;&#x30B0;&#x30E9;&#x30A6;&#x30F3;&#x30C9;&#x3067;&#x8EE2;&#x9001;&#x304C;&#x884C;&#x308F;&#x308C;&#x307E;&#x3059;&#x3002;&#x30A2;&#x30D7;&#x30EA;&#x3092;&#x9589;&#x3058;&#x3066;&#x3082;&#x69CB;&#x3044;&#x307E;&#x305B;&#x3093;&#x3002;<br>&#x3000;3. Android Wear &#x5074;&#x3067;&#x3053;&#x306E;&#x30A2;&#x30D7;&#x30EA;&#x3092;&#x958B;&#x304D;&#x300C;Play&#x300D;&#x3067;&#x518D;&#x751F;&#x304C;&#x59CB;&#x307E;&#x308A;&#x307E;&#x3059;&#x3002;<br><br><br>&#x25CF;&#x6CE8;&#x610F;&#x70B9;<br><br>&#x30FB;Bluetooth &#x306B;&#x3088;&#x308B;&#x8EE2;&#x9001;&#x306F;&#x9045;&#x3044;&#x306E;&#x3067;&#x3001;&#x6700;&#x521D;&#x306F;&#x5FC5;&#x305A; 1&#xFF5E;2 &#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x306E;&#x8EE2;&#x9001;&#x3092;&#x8A66;&#x3057;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;&#x4E00;&#x5EA6;&#x306B;&#x591A;&#x304F;&#x306E;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x8FFD;&#x52A0;&#x3059;&#x308B;&#x3068;&#x8EE2;&#x9001;&#x304C;&#x7D42;&#x308F;&#x308B;&#x307E;&#x3067;&#x975E;&#x5E38;&#x306B;&#x6642;&#x9593;&#x304C;&#x304B;&#x304B;&#x308A;&#x307E;&#x3059;&#x3002;<br>&#x30FB;&#x8FFD;&#x52A0;&#x3057;&#x305F;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x306E;&#x8EE2;&#x9001;&#x304C;&#x7D42;&#x308F;&#x308B;&#x307E;&#x3067;&#x518D;&#x751F;&#x3067;&#x304D;&#x306A;&#x304F;&#x306A;&#x308A;&#x307E;&#x3059;&#x3002;(&#x3053;&#x306E;&#x554F;&#x984C;&#x306F; Music Player2 for Android Wear &#x3067;&#x6539;&#x5584;&#x3055;&#x308C;&#x3066;&#x3044;&#x307E;&#x3059;)<br>&#x30FB;&#x65B0;&#x305F;&#x306B;&#x8FFD;&#x52A0;&#x3057;&#x305F;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x518D;&#x751F;&#x3059;&#x308B;&#x306B;&#x306F;&#x3001;&#x4E00;&#x65E6; Stop &#x3057;&#x3066;&#x304B;&#x3089; Play &#x3057;&#x76F4;&#x3057;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br><br><br>&#x25CF; &#x305D;&#x306E;&#x4ED6;<br><br>&#x8A73;&#x3057;&#x304F;&#x306F;&#x4E0B;&#x8A18;&#x3092;&#x3054;&#x89A7;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br>http://dench.flatlib.jp/app/musicplayerw",
+    "histogram": {
+        "1": 2,
+        "2": 3,
+        "3": 3,
+        "4": 4,
+        "5": 28
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/gK5smcald-RI0JLWhwdp53GnrxvJc7Oujf-j4ggUecmaf-1plwe7D-CMUtHhjDWtJSs=h310",
+        "//lh3.ggpht.com/mVVGY11xaoQ8ffX-GFcGbchNJeu318otPNSjWPIKOZUoiW4_KL8jiosenu7hiCKvfUiQ=h310",
+        "//lh4.ggpht.com/i2yLM8UDRa4DenIFuC2wD8CG6uWQAGFDw-RHDq9P_OsU06R6z90Zi4LvS3wGVGg5v9A=h310",
+        "//lh3.ggpht.com/Rx-9VmTGraB46nVf6ldgStq3uWvEdwkIP4eHOJs_xXZm1BPbM6foIlhUf2dDBB7cFnIF=h310",
+        "//lh3.ggpht.com/cs9ri0y9z4YRh4H1uc4fwMH6tq2nDlakTDoLA4Ix5wSjN5Z7WPZlysGUdMS_SkPz6tc=h310",
+        "//lh4.ggpht.com/IGuF3cmf15Ft8zAbgsrST8Lg4eC9iBDuqifKH7Cb2xhkkC0oXS7-9tLyjEsKDNDax1k=h310"
+    ],
+    "comments": [
+        "The most wanted APP Finally the app made it possible to sync music on phone to smart wear like the watch is itself bcum an MP3 player gr8. But it dosent play music on phone or in earphones. So need to keep two apps for music. So cheers for the work. I got LG G WATCH so it syncs well with the phone. I will give 5 star if able to shuffle or view playlist on Android wear. So make the nxt update interesting. Thanks.",
+        "Excellent app Must have app for runners who listen to music while on a run but don't want the extra bulk of a phone. Prefect companion for Sony smart watch 3 and offline GPS running app",
+        "Sweet *Update - I wish the icons were prettier or themeable.                                        Great for a quick workout list without messing with the lacking google music sync.",
+        "A much needed app! Not the prettiest but does the job.",
+        "Few bugs that are important to be taken care of 1) at times deletes all the songs on the wear 2) glitches 3) creates a duplicate in the mobile phone of all the media 4) can have a better interface and options to select",
+        "Have given a five star in hope of a playlist. Finally the alternate of google play music has come. Well done guys, its pretty stable and easy to use."
+    ],
+    "recentChanges": [
+        "v1.1.1 : バグ修正",
+        "v1.0.1 : バグ修正"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.musicplayerw&hl=en&gl=us",
+    "appId": "jp.flatlib.flatlib3.musicplayerw"
+}

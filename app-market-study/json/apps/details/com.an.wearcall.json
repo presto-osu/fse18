@@ -1,0 +1,49 @@
+{
+    "title": "Wear Watch Call",
+    "summary": "Wear Watch Call application allows you to call directly from your  wear watch",
+    "icon": "//lh6.ggpht.com/UlpCBIhv6WVQPl-SseF1MLFr6AxiKWqCWZ4CnEyk8cDXE2xEevcMPSYObPeCzSqWHM8n=w300",
+    "price": "$1.97",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2,
+    "reviews": 5,
+    "developer": "mukesh virpara",
+    "developerId": "mukesh+virpara",
+    "developerEmail": "mukesh1659@gmail.com",
+    "developerAddress": "C/402,Gunatitnagar,\nNear Gurudwara Temple,\nOpp. Vishvakrupa Soc.,\nSumul Dairy Road,\nSurat,Gujarat-395004\nindia.",
+    "updated": "October 4, 2014",
+    "version": "1.1",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Wear Watch Call application allows you to call directly from your Android wear watch.You can call a person, get  contact deatils  from Android wear watch according to alphabetics.Features:- Sync contacts from Mobile device to Android Wear Watch with photos and mobile numbers- You can search contact of person according to alphabetics - Call from wear watch - Android Wear application must be installed into your mobile device to sending this application to Android Wear Watch- User can look at contact details with their photos- User can also switch on spekar of mobile devices while calling from Android Wear Watch",
+    "descriptionHTML": "Wear Watch Call application allows you to call directly from your Android wear watch.<br>You can call a person, get  contact deatils  from Android wear watch according to alphabetics.<br><br><br>Features:<br>- Sync contacts from Mobile device to Android Wear Watch with photos and mobile numbers<br>- You can search contact of person according to alphabetics <br>- Call from wear watch <br>- Android Wear application must be installed into your mobile device to sending this application to Android Wear Watch<br>- User can look at contact details with their photos<br>- User can also switch on spekar of mobile devices while calling from Android Wear Watch",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/u5ZGDbI7mgFam60ZBVHoQ9EsQfob532bzoEVee7wwnBKMePjUPr0b1zt9bGo9QI_GIc=h310",
+        "//lh4.ggpht.com/6bgIFr7r8Jx6MfsmbEWBONSx8d5w-R0nAIs3wlKc4kdDS48vYL_h943pGH_Agx_ejA=h310",
+        "//lh6.ggpht.com/2ywBhkgiwFGiHH3DQKsZoqF8yDpO7-CE39GmwZHSvT1F2397ntW1NnzARiFoPAhLJg-E=h310"
+    ],
+    "comments": [
+        "Not working",
+        "Simply not working and also the UI doesen`t fit properly the moto360 screen",
+        "Buggy Contacts don't come over from phone or if they do, they can disappear for no apparent reason."
+    ],
+    "recentChanges": [
+        "Resolution issue for Moto 360 wear watch has been solved."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.an.wearcall&hl=en&gl=us",
+    "appId": "com.an.wearcall"
+}

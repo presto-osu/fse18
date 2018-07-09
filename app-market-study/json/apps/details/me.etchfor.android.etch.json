@@ -1,0 +1,54 @@
+{
+    "title": "Etch Keyboard (Beta)",
+    "summary": "Search Google, Yelp, YouTube, Giphy and more from your keyboard!",
+    "icon": "//lh3.googleusercontent.com/6I5UK0-h8kwMJDsQlQiXE3AcZMddDY66fp7y8iW6-fr36wZ0-3QF0fW6b0yQLVHjZQtN=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 6,
+    "developer": "Etch Mobile, Inc.",
+    "developerId": "Etch+Mobile,+Inc.",
+    "developerEmail": "etch@etchfor.me",
+    "developerWebsite": "http://www.etchfor.me",
+    "updated": "March 7, 2016",
+    "version": "2.0.0-beta",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Etch KeyboardSearch Google, Yelp, YouTube, Giphy and more from your keyboard!",
+    "descriptionHTML": "Etch Keyboard<br><br>Search Google, Yelp, YouTube, Giphy and more from your keyboard!",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/vZUgArP7-_A535zzRcAVTX9bj35ElJ1eiv7X8J5gFdJPmWHqAz0A5tRO2tVqwzlfo9Ih=h310",
+        "//lh3.googleusercontent.com/LrJxI_Z8laYhhYGKMeKtms1ZU93e0qZDQVet_77A_oGC1PJTvzzh_lmQAvCvC66Leg=h310",
+        "//lh3.googleusercontent.com/XiguYsARiWHCjAxw6e7IgAW5c1pVBCRXVcnJpDIo0nplqjzbUZG0k4MHkXTLccO16Zo=h310",
+        "//lh3.googleusercontent.com/_rJva78ZpD566ZqzIL1gukWl2DfHp_hjuXJOBi_DwysHBZK8AgOimf3x2Wk_EouAAA=h310",
+        "//lh3.googleusercontent.com/kDqIwasBVJvK4cNmFis1wbxNibtvvb0ET-sNcOtqWhPtthFTULb3yYfqC6uusrrndg=h310",
+        "//lh3.googleusercontent.com/C8TYtLcU-uocKk9nFADA3kPDPuKLOrxS99EVIrArNfrtsgWqmWODbmVHJJe98AOFWdM=h310",
+        "//lh3.googleusercontent.com/A9e2KW40VbomU9sNuURN_b8LUU61GwgpIr_s_mcrt3BQEVIYFD0CaSwIsX-g50LyR1DK=h310",
+        "//lh3.googleusercontent.com/AQU_M1jzX6GQgVuHqxokloMT53dqqPDOJPOAUa1N7F3rbDuUlH29MlWE3u0s9UxfvA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/AonYSNjP_9I",
+    "comments": [
+        "It's a cool app, but it should have an option for confirmation before it sends the text in case I draw the wrong symbol.",
+        "I have no idea how to respond to whatsapp on my smartwatch using the Etch message option. Great concept."
+    ],
+    "recentChanges": [
+        "Etch Keyboard"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=me.etchfor.android.etch&hl=en&gl=us",
+    "appId": "me.etchfor.android.etch"
+}

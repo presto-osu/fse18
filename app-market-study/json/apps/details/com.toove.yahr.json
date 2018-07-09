@@ -1,0 +1,59 @@
+{
+    "title": "Yahr",
+    "summary": "Fast Harmony Hub  remote control.",
+    "icon": "//lh4.ggpht.com/pdOjcxh8_GXDLnR2XG8piQpyfAJRfd7_XsyJPji29roDjc16GaJejNlHgTDEwbjFzKw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 24,
+    "developer": "Toove",
+    "developerId": "Toove",
+    "developerEmail": "yahr@toove.com",
+    "developerWebsite": "http://www.toove.com/yahr",
+    "updated": "June 1, 2015",
+    "version": "1.0.4",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "This is an alternative app for controlling your Logitech Harmony™ Hub.I created this app because i did not like the looks and the responsiveness of the official app. Also i would like to add extra features.* Auto detects your hub(s).* Support for multiple hubs* Fast* CleanThis is the first version of the app. Feedback is really appreciated. Future versions will include:* Android Wear support. Control A/V devices from your wrist.* Tasker support. Create tasker tasks and profiles to control your devices.Harmony is either a registered trademark or trademark of Logitech in the United States and/or other countries. All other trademarks are the property of their respective owners.",
+    "descriptionHTML": "This is an alternative app for controlling your Logitech Harmony&#x2122; Hub.<br>I created this app because i did not like the looks and the responsiveness of the official app. Also i would like to add extra features.<br><b><br>* Auto detects your hub(s).<br>* Support for multiple hubs<br>* Fast<br>* Clean<br></b><br>This is the first version of the app. Feedback is really appreciated. Future versions will include:<br>* Android Wear support. Control A/V devices from your wrist.<br>* Tasker support. Create tasker tasks and profiles to control your devices.<br>Harmony is either a registered trademark or trademark of Logitech in the United States and/or other countries. All other trademarks are the property of their respective owners.",
+    "histogram": {
+        "1": 3,
+        "2": 3,
+        "3": 1,
+        "4": 6,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/h6HHY6itxhbxHk8hz6hM905jpG257cgy3gc1946aZjQU5i9N0-3zKCVg48iPpB96Qw=h310",
+        "//lh4.ggpht.com/EImydUkx88IGo0HGOZVm_yYLxDulhFQRz693LDr9BCvdt7FHi0IGQsf-LAlDEn3aL1U=h310",
+        "//lh6.ggpht.com/IVsxKw5HtoBY2oPRTOPTO2rHTYCfKwOIJB3C4d6OiHKskpKLHj1Jm4gUo7wBDrNu-w=h310",
+        "//lh3.ggpht.com/kACRi8ponuweOWS4ST-6XppZ-lQ5AsAC9Mwkw50pyhce6CUq1iX84T507rU324zovliO=h310",
+        "//lh3.ggpht.com/uUexyXrClVG1qcD379pa_OiWQC-oQXqmxzEPBtJJJC-Zn2fmLFEyfmr-KldotKu5-A=h310",
+        "//lh6.ggpht.com/HKvvHABF2hoOMzwYhrn8hd1HyZvebULtfJQW2Om2rr1xnMEyRTOkEzPcUtRjXwMKZnE=h310",
+        "//lh6.ggpht.com/8TPKRKqxSiGvLQHFHgCg6Kh2GiMkonwm-kCZwZx2Lg6eDJYuSkufoTKut0MDAPVTCm-D=h310",
+        "//lh4.ggpht.com/EF4kpU-B-BL7xv6G3BztvnM0whFaK5FWPawAIS6hlg4eCqdkURcoshQ_eKd0cJIdGg=h310",
+        "//lh4.ggpht.com/0qRPCDLZHSMPlQpdw17jPebIc-M9DIHR2Yw7oJl93J7v2zUYVLL6GiEEVlxs6lHV0w=h310"
+    ],
+    "comments": [
+        "So far so good This looks promising. Is development still ongoing? Would like to see tasker integration!",
+        "Dead project? Almost a year since the last update,  no tasker support as yet.",
+        "Great App I can't wait for Wear integration!",
+        "So much better than the stock",
+        "Best Harmony remote Unlike the original Harmony app from Logitech, this app is clean, fast and does exactly what it should do. I was expecting ads as the app is free, but no ads! Can't wait for Android Wear support, keep up the good work!",
+        "Great start It will need some improvements, eg. some buttons missing, devices screen etc. Overall it is very promising. Can't wait for Tasker integration!"
+    ],
+    "recentChanges": [
+        "- Possible fix for not working 'back' button",
+        "- Small improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.toove.yahr&hl=en&gl=us",
+    "appId": "com.toove.yahr"
+}

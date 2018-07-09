@@ -1,0 +1,60 @@
+{
+    "title": "Feedly for Wear",
+    "summary": "Delivers feedly articles to your Android Wear device!",
+    "icon": "//lh5.ggpht.com/CdEYawdgXbHnv5zbrjKvjlUaCHI7lQ5tlAXVqS_dAFQ_MxYPKmOxQb7MpF5N3rWDFg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 55,
+    "developer": "taqanori",
+    "developerId": "taqanori",
+    "developerEmail": "taqanori@gmail.com",
+    "developerWebsite": "http://hoge.atso-net.jp/blog/",
+    "updated": "May 19, 2015",
+    "version": "1.6",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "Delivers feedly articles as stacked cards on your Android Wear device.You can read, make read/unread, and save the articles on your Android Wear device. You can also schedule automatic update of article cards at a period you like.How to use* How to Setup (only for the first time)(1) Launch the application on your phone device(2) Login Feedly(3) Configure the settings, such as max number of articles at a time.(optional)(4) Setup Pocket account from the menu at upper right.     (optional, necessary if you want send articles to Pocket on the wear device)* How to Read Feedly articles or perform actions on the wear device(1) Tap \"Refresh\" button on the phone application or launch \"Feedly For Wear\" on your Android Wear device.(2) Just wait a while and then enjoy articles on your Android Wear device! (3) Select A card and swipe it to left to read full article.(4) Keep swiping left and tap the corresponding button to perform mark read/unread, save, open on the phone.     (Send to Pocket will also be available if you have setup the Pocket account on the phone)(5) Tap the last card to load next articles.* Every stacked cards has only 12 articles at most, and next 12 articles are stacked on the next card (due to limitation of Android Wear).Uses icons provided by http://simpleicon.com/http://www.iconsdb.com/",
+    "descriptionHTML": "Delivers feedly articles as stacked cards on your Android Wear device.<br>You can read, make read/unread, and save the articles on your Android Wear device. You can also schedule automatic update of article cards at a period you like.<br><br>How to use<br><br>* How to Setup (only for the first time)<br>(1) Launch the application on your phone device<br>(2) Login Feedly<br>(3) Configure the settings, such as max number of articles at a time.(optional)<br>(4) Setup Pocket account from the menu at upper right. <br>    (optional, necessary if you want send articles to Pocket on the wear device)<br><br>* How to Read Feedly articles or perform actions on the wear device<br>(1) Tap &quot;Refresh&quot; button on the phone application or launch &quot;Feedly For Wear&quot; on your Android Wear device.<br>(2) Just wait a while and then enjoy articles on your Android Wear device! <br>(3) Select A card and swipe it to left to read full article.<br>(4) Keep swiping left and tap the corresponding button to perform mark read/unread, save, open on the phone.<br>     (Send to Pocket will also be available if you have setup the Pocket account on the phone)<br>(5) Tap the last card to load next articles.<br><br>* Every stacked cards has only 12 articles at most, and next 12 articles are stacked on the next card (due to limitation of Android Wear).<br><br>Uses icons provided by <br>http://simpleicon.com/<br>http://www.iconsdb.com/",
+    "histogram": {
+        "1": 8,
+        "2": 7,
+        "3": 5,
+        "4": 16,
+        "5": 19
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/QajzQk1BkLD3BIGbTIpLkGTioNa7YgeFSShsWY0GdjonFzFH9hvvnzrfXBjeJR-ICg=h310",
+        "//lh3.ggpht.com/xmAUMRtyg_9vIEoqkz2iza9XjKxhZ31jjg2u4eKTyUZNLkuzxWEEef_OyztOqGNBTSY=h310",
+        "//lh3.ggpht.com/512tDmhCYHX1NbiMEj9342dT8NgEObp_3cgsx40HYXkjM_649o95rXiwDCBIOk6Mbcs=h310",
+        "//lh4.ggpht.com/DYB-xpil8uLgikDyK-r3dImGY2MME3BgKkK3pwHoHUAsj9RR6cCsFbJwU2PvwORZ1g=h310",
+        "//lh3.ggpht.com/ulP3Lb5rY7PHW45G_EZCLcJxd3U-NhlhWmvwMCggQN-uPCnH517VGlZZzqFDZDq6lA=h310",
+        "//lh4.ggpht.com/MRxxLmfhxiqVNAbRX-SkErtxQb2HAMkzptToH0wijHHPoduHE7Itz0d4puh2AcryRkY=h310",
+        "//lh5.ggpht.com/rAg9CbKd4M_gpFo-sFbU7N_NMYPFv5MEJ5xA3QFBalCYLqGoIGtT8kZnnrJygPCAymlR=h310",
+        "//lh4.ggpht.com/6qiMW6Y9HJeO_wjmi6LJpYHQXOjI4UtvTz3bsUuPJ1mGnKEkZIJ6DOAXUkhaT96vmhI=h310",
+        "//lh4.ggpht.com/sKMwd8WMFQeBW9RD8Hnw_TnePZVLgr6AiOu0Q_I7A8D4pDs7Rc4e-KqLZa528b9mdzE=h310",
+        "//lh4.ggpht.com/wkxhJj9otovFo2vJ75qMxJlmL_8s-3oLi9_b5Ep6CxkTibSDez8qs6x685axpOWHnkar=h310"
+    ],
+    "comments": [
+        "Very useful The layout is very easy to use. It sometimes crashes when I open on my phone. The only problem I am having is that both save for later and send to pocket buttons are not working.  I am not seeing the articles in either accounts.",
+        "Unfortunately I can't use this. When trying to log into Feedly using my Google account the Google OAuth page throws a 403 error with   Error: disallowed_useragent",
+        "Question Wouldn't it be possible to use a Chrome Custom tab to avoid having to blindly trust that this isn't phishing? (No offense, but its just a best practices sort of thing).",
+        "Unistalled and Re installed and now will not log into Google. This user agent is not allowed to make a 0auth authorisation to google.",
+        "Feedly and pocket on your Android wear",
+        "Simple yet effective I just launch this manually when I have a quick moment to kill. Great for boring meetings or when waiting in the dentist chair."
+    ],
+    "recentChanges": [
+        "V1.6 (2015/05/20)",
+        "Mark All as read, Keep All as unread, Send All to Pocket, and Save All for later actions are available from the menu of the last \"Load Next\" card. The action is performed against all the articles shown on the wear device. (Send to Pocket needs Pocket account setup on the phone)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.taqanori.feedly4wear&hl=en&gl=us",
+    "appId": "info.taqanori.feedly4wear"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Bézier Watch Official",
+    "summary": "The official Android Wear edition of Jack Frigaard&#39;s Bézier Clock - Full Version",
+    "icon": "//lh6.ggpht.com/iUqdrEQDnL7ebDk6Qchum3YjUJ1eg1cpR7BA6v0n3HmGqthn8gd_xtZVPVcgjEmq2A=w300",
+    "price": "$1.24",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 9,
+    "developer": "Jack Frigaard",
+    "developerId": "Jack+Frigaard",
+    "developerEmail": "mail@jackf.net",
+    "developerWebsite": "http://jackf.net/bezier-clock/",
+    "developerAddress": "OX1 3TF Oxford, United Kingdom",
+    "updated": "January 21, 2015",
+    "version": "1.0.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "DOWNLOAD THE FREE TRIAL VERSION HERE: https://play.google.com/store/apps/details?id=net.jackf.bezierwatch.freeThis is the official Android Wear version of Jack Frigaard's Bézier Clock (http://jackf.net/bezier-clock/). With the same mesmerising animations, it'll look great on your wrist. This is version allows full customization of the following:    -  Foreground & background colours    -  4 different animation styles    -  12/24h time    -  6 different digit layouts    -  Digit stroke widthOn the free version these are customizable but are reset to defaults every 3 minutes. You can download the free version here: https://play.google.com/store/apps/details?id=net.jackf.bezierwatch.freeAll layouts are compatible with both round & square watches.",
+    "descriptionHTML": "DOWNLOAD THE FREE TRIAL VERSION HERE: https://play.google.com/store/apps/details?id=net.jackf.bezierwatch.free<br><br>This is the official Android Wear version of Jack Frigaard&apos;s B&#xE9;zier Clock (http://jackf.net/bezier-clock/). With the same mesmerising animations, it&apos;ll look great on your wrist. <br><br>This is version allows full customization of the following:<br><br>    -  Foreground &amp; background colours<br>    -  4 different animation styles<br>    -  12/24h time<br>    -  6 different digit layouts<br>    -  Digit stroke width<br><br>On the free version these are customizable but are reset to defaults every 3 minutes. You can download the free version here: https://play.google.com/store/apps/details?id=net.jackf.bezierwatch.free<br><br>All layouts are compatible with both round &amp; square watches.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/yDbBup-xUjslMdg1cYTVLu7QwPwgwMcvbNYLjmoA_VC9CM4-iryf2VBOt5iAr65Qt4A=h310",
+        "//lh6.ggpht.com/n60McIFfS6oF-vjvGAoa9nPG2hM-slZpDD3FKMUsurivc0W8SK0GGjjRkYVpc8hldHam=h310",
+        "//lh4.ggpht.com/_t5w2HcOFoGsicLMpmHXSZSljPEAZU7_6-uvv2HjxFflnmu-cYrAzd9gnO-aENSI04Y=h310",
+        "//lh5.ggpht.com/UADTLdqJKsNOM_lyywyjzy1HAMbckvGUIbvvcvYxNoVC0woeyAa2iZ1aQWX_fWxpyKw=h310",
+        "//lh4.ggpht.com/y1i2Cpht_XE4Il8h2ABrY90G3OMBGNJSn8mxU5Q34NfQ9x-C6WX_fS4zJkJ3hW2W5A=h310"
+    ],
+    "comments": [
+        "Different, very friendly First time I feel I need to give stars. With so many watch faces,and they all look similar. Works, looks perfect on lg round.",
+        "Great watch face and responsive dev I really like this watch face; very configurable and the animation is smooth. Had a small bug when I first bought it, and the developer was very responsive and fixed it quickly.",
+        "Incredibly Broken It's not working at all on my Asus Zenwatch. I expected better. Please update and fix because I like the minimalistic and animation heavy idea for the watch face.",
+        "Great idea. Constant crashing"
+    ],
+    "recentChanges": [
+        "Fixed problem where cards would prevent the watchface from showing."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.jackf.bezierwatch&hl=en&gl=us",
+    "appId": "net.jackf.bezierwatch"
+}

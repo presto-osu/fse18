@@ -1,0 +1,51 @@
+{
+    "title": "Calculator SP for Android Wear",
+    "summary": "Calculator - Simple yet powerful calculator for daily use for Android Wear",
+    "icon": "//lh3.googleusercontent.com/CqzBW8T8fu8JttevI8QYFZ-KeQbmrDVx21bacfdomHU6YM9sDnImBcwrAmeyyc3JwiM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 15,
+    "developer": "Two Leaves",
+    "developerId": "Two+Leaves",
+    "developerEmail": "Info@two-leaves.net",
+    "developerWebsite": "http://two-leaves.net",
+    "developerAddress": "Kirkland WA 98033, USA",
+    "updated": "May 1, 2015",
+    "version": "1.3.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Simple yet powerful calculator for daily use.     - You can see all you typed - so very easy to make sure you are doing right.    - Undo what you did - it allows unlimited number of undo, so you don't have to retype everything. This is a perfect companion to fill the gap between ordinary calculator and spreadsheet. Works for Android Wear, Android Watch. Please look for Smartphone/Tablet version at http://goo.gl/CO5jeD",
+    "descriptionHTML": "Simple yet powerful calculator for daily use.  <br>   - You can see all you typed - so very easy to make sure you are doing right. <br>   - Undo what you did - it allows unlimited number of undo, so you don&apos;t have to retype everything. <br><br><br>This is a perfect companion to fill the gap between ordinary calculator and spreadsheet. Works for Android Wear, Android Watch. <br><br><br>Please look for Smartphone/Tablet version at http://goo.gl/CO5jeD",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/xCO-AEVed32PbbH7C3uJd7Im7YrU2fiTno8qBuW9piDqvOwcPpFqixyMsQJUwogFrj9J=h310",
+        "//lh3.googleusercontent.com/a80wnq006vOuVeIle1VNHVhya4p_pPa1BZFGfofvttK4AXYmTwHZHaGhM65CBJ4gKT4=h310"
+    ],
+    "video": "https://www.youtube.com/embed/PrR2fdnod8M",
+    "comments": [
+        "I Love It! This is the best calculater app for wear. I love how instead of using a watch for the icon you used a calc icon, it really makes it fit in with the stander apps.",
+        "Perfect 👍 The best calc wear app I've tried.  Great UI.  Thanks dev. 😁",
+        "Doesn't appear on smartwatch Using Asus Zenwatch 2"
+    ],
+    "recentChanges": [
+        "1.3.1  Bug fix",
+        "1.3   First public release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.products.thonda.ecalcw&hl=en&gl=us",
+    "appId": "com.products.thonda.ecalcw"
+}

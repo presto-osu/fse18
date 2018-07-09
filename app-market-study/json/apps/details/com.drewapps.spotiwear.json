@@ -1,0 +1,60 @@
+{
+    "title": "SpotiWear",
+    "summary": "Standalone Android Wear Spotify app. Stream Spotify directly from your watch.",
+    "icon": "//lh3.googleusercontent.com/iKxRZkJt9BrmpHqXn7Qn7A6BOrDWOOZEAYEjVS9UG41gzPHcJ9q4EVUP85JKEFln6IU=w300",
+    "price": "$4.49",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 9,
+    "developer": "DrewApps",
+    "developerId": "DrewApps",
+    "developerEmail": "andrew.bakhuis@gmail.com",
+    "developerWebsite": "http://drewapps.nl",
+    "developerAddress": "Karthuizerserf 60\n5706 JL Helmond\nNetherlands",
+    "updated": "January 10, 2018",
+    "version": "Varies with device",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "size": "Varies with device",
+    "description": "This is a standalone Android Wear Spotify app. With this app you can stream Spotify music directly from your wear watch. You can now leave your phone and stream music directly from your wear watch.** NEW**By tapping on the center of the screen you can cycle trough different Display states.1 Display the Spotify album art2 Display song name3 Display time4 Display current speed (ideal for running and cycling, etc)5 Display nothing (saves battery)** NEW**For this app to work your Android Wear watch need a WIFI or MOBILE network connection. You can use the speaker on your watch but you can also connect your Bluetooth headset (or speaker) to listen to the music stations.For this app to work you need a Spotify Premium Account.A first time login on your ANDROID phone (via the phone app) is required. This app is ideal for any situation where you rather not take your phone with you. (e.g. running, cycling, etc)The app has a nice and clean interface. The interface is basically self explanatory.This is a must have app for any Android Wear watch owners with network capabilities !!This app uses network streaming, therefore:A) It will have an impact on the your batteryB) It will have an impact on your data planFor any feedback, improvements or any inconveniences please consider contacting me personally before giving bad ratings.Based on the users feedback we will include new features, but we already are developing color customization, watch face complications, and much more.FAQ:Why does this app need Location permissionThis app uses the location to calculate and show you your speed. Nothing more and nothing less. After download you can choose not to give to app the location permission. Also the location provider is closed if the user changes the the app screen to anything else then the speed screen (this saves your battery). This a a paid app for friends and like minded we grantee not to use anything other then intended.Android Applications by, DrewApps.Spotify is in no way associated with this app and/or its its development. This app uses a unsupported android Spotify library. No offline support at this moment. Spotify can at any time remove or change their third party support or policy which could make this app useless. If this happens we are all out of luck.",
+    "descriptionHTML": "This is a standalone Android Wear Spotify app. With this app you can stream Spotify music directly from your wear watch. You can now leave your phone and stream music directly from your wear watch.<br><br>** NEW**<br>By tapping on the center of the screen you can cycle trough different Display states.<br>1 Display the Spotify album art<br>2 Display song name<br>3 Display time<br>4 Display current speed (ideal for running and cycling, etc)<br>5 Display nothing (saves battery)<br>** NEW**<br><br>For this app to work your Android Wear watch need a WIFI or MOBILE network connection. You can use the speaker on your watch but you can also connect your Bluetooth headset (or speaker) to listen to the music stations.<br><br>For this app to work you need a Spotify Premium Account.<br>A first time login on your ANDROID phone (via the phone app) is required. <br><br>This app is ideal for any situation where you rather not take your phone with you. (e.g. running, cycling, etc)<br><br>The app has a nice and clean interface. The interface is basically self explanatory.<br>This is a must have app for any Android Wear watch owners with network capabilities !!<br><br>This app uses network streaming, therefore:<br>A) It will have an impact on the your battery<br>B) It will have an impact on your data plan<br><br>For any feedback, improvements or any inconveniences please consider contacting me personally before giving bad ratings.<br><br>Based on the users feedback we will include new features, but we already are developing color customization, watch face complications, and much more.<br><br>FAQ:<br>Why does this app need Location permission<br>This app uses the location to calculate and show you your speed. Nothing more and nothing less. After download you can choose not to give to app the location permission. Also the location provider is closed if the user changes the the app screen to anything else then the speed screen (this saves your battery). This a a paid app for friends and like minded we grantee not to use anything other then intended.<br><br>Android Applications by, DrewApps.<br><br>Spotify is in no way associated with this app and/or its its development. This app uses a unsupported android Spotify library. No offline support at this moment. Spotify can at any time remove or change their third party support or policy which could make this app useless. If this happens we are all out of luck.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/VUshUYVXJ4KthiDUj8cF49y_QmPALt4lp3XELulSneLY8EcnFwvWNzzW-iiNzpnUIcA=h310",
+        "//lh3.googleusercontent.com/6Ct5SJ-MFyivRJJBQBFd8G3NyQhK7pzUnZCg-nfdfLYuY62IqxcpkTnBihjwqt0z5LSI=h310",
+        "//lh3.googleusercontent.com/KKQvZhJorVRBlw7vKUpfPg4HTNs-IAnZNkV0F5fdthUwkTUYvW6rys6ZkAp9CSQBOgU=h310",
+        "//lh3.googleusercontent.com/7F7Dr17fnyqk74UgSQQa6ep-fTZIo-M12FajE3PCwx9VcrJ1f_R9mryVOLlN3F48nwU=h310",
+        "//lh3.googleusercontent.com/KVlkN_uYJAY6Wlty85ns8fF-fU6Y8BNrBJsB5gjaFB3Gq6-6VwUpsoXJm1D8yG1qrSQ=h310",
+        "//lh3.googleusercontent.com/r_LjfZpcb3vaBZhh5owZJhal8cChwC3x5FyWicAVYxlw4qyxbZbOLvubi0uFHf-aCqDA=h310",
+        "//lh3.googleusercontent.com/uTf03J8EhPezO9LnEEotNDeQpXV5FNaCNul09TKlJFE7BTjVW82SQoLQdPPBvAbwXg=h310",
+        "//lh3.googleusercontent.com/_aYixv2gXOwfYJ5Isv0UHBwmQedaNFvOOtwbxcoq17YjLUdp7RxjYscIc60WZXgl1Wo=h310",
+        "//lh3.googleusercontent.com/x1GItz826rAGvZeBKUfvx6qI6PTy-KiU5DaoCYf4jhvVMWDVOu1uYkpoyLZEgZ5reA=h310"
+    ],
+    "comments": [
+        "Works, but this needs more work. Installed initially on my watch, expecting it to be a standalone app - which it is, but with a catch. It doesn't tell you when you initially open the app on the watch that you need to install the app on the phone to log in to Spotify. So was getting connection errors with nothing to tell me why I was getting the connection errors. Installed app on phone and again, and application login didn't work at all and it doesn't tell you if it's successfully connected to Spotify or that It's actually logged in. The app needs to give more feedback to users so that they actually know what's going on and how to use the app.",
+        "Had trouble with app at first then I messaged the guy who made the app and he helped me get it working thanks for the help",
+        "Amazing app, honestly this is a pretty awesome app. Spotify will one day provide a standalone version for Android when there's more demand for it, in the meantime I HIGHLY recommend this app as the alternative. Works great & no complaints."
+    ],
+    "recentChanges": [
+        "Added check for phone app. if no phone app is detected the watch app will open a link on the (Android) phone to download the (android) phone app",
+        "Added a Time display. Now you can also see the time while using the app",
+        "Added a Speed display. Now you can also see you speed during a run (or any other activity) and while using this app",
+        "Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.drewapps.spotiwear&hl=en&gl=us",
+    "appId": "com.drewapps.spotiwear"
+}

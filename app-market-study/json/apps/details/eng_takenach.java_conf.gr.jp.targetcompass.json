@@ -1,0 +1,45 @@
+{
+    "title": "Wear Navigator",
+    "summary": "Wear Navigator is an app that points to the destination spot on Android Wear.",
+    "icon": "//lh3.googleusercontent.com/6vKBfLS8Bz1UzNqx4fdq4EBzrYopkHdFEjsS3m2Cw1f_qRQGIInMWtiC3Bwxxu72dg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 1,
+    "developer": "HAL Take",
+    "developerId": "HAL+Take",
+    "developerEmail": "eng.takenach@gmail.com",
+    "updated": "May 16, 2015",
+    "version": "2.0.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "After setting the destination on the mobile app, without looking at the mobile phone, you can move while checking the destination and the \"direction\" and \"distance\" in the just by looking at the \"Android Wear\".Without worrying about, such as the route to the destination, let's proceed with the aim of destination!※ This app is a dedicated \"Android Wear\".※ In moto360, there is a possibility that it is not working properly because there is a thing that can not get of orientation during operation. In that case, you'll need to restart the \"Android Wear\".",
+    "descriptionHTML": "After setting the destination on the mobile app, without looking at the mobile phone, you can move while checking the destination and the &quot;direction&quot; and &quot;distance&quot; in the just by looking at the &quot;Android Wear&quot;.<br><br>Without worrying about, such as the route to the destination, let&apos;s proceed with the aim of destination!<br><br>&#x203B; This app is a dedicated &quot;Android Wear&quot;.<br>&#x203B; In moto360, there is a possibility that it is not working properly because there is a thing that can not get of orientation during operation. In that case, you&apos;ll need to restart the &quot;Android Wear&quot;.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/gndLH5hh2M1pHszCi2QtNzc7JIHYVXepyImeByXgTcP93kp_Eq8Y9vhi5zNlQfoswU0=h310",
+        "//lh3.googleusercontent.com/lzQenCqg0LigyDcyaHA6PVoN9LmJZk_v2mgttBbgp_T3ZqS3iAXD0C_PznzfxNI37w=h310",
+        "//lh3.googleusercontent.com/WtmPZTxGXHT7jyBPyteMhxQqFgavuNRWlgNSNFprFfkzBE29Wa-Zg0hBN0T9SeaSKUE=h310",
+        "//lh3.googleusercontent.com/u9m9nUx-GabWyUa7vbzlQx__6--BF0wK0d1v0_KWUn-dy7wx0cciXS-oV_sL4A7mXCo=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "We have applied the material design theme."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eng_takenach.java_conf.gr.jp.targetcompass&hl=en&gl=us",
+    "appId": "eng_takenach.java_conf.gr.jp.targetcompass"
+}

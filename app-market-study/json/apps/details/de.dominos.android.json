@@ -1,0 +1,55 @@
+{
+    "title": "Domino's Pizza Germany",
+    "summary": "Domino&#39;s App!",
+    "icon": "//lh3.googleusercontent.com/stC1Gpu48_-cJyrrd6HKAIK5yy76cN47LEe2c-OAG3GjtOBzdwrvGC2KUMzN0mcc0A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 2.8,
+    "reviews": 830,
+    "developer": "Domino's Pizza Enterprises Limited",
+    "developerId": "Domino's+Pizza+Enterprises+Limited",
+    "developerEmail": "info@dominos.de",
+    "developerWebsite": "http://www.dominos.de",
+    "updated": "July 20, 2017",
+    "version": "2.6.10",
+    "genre": "Food & Drink",
+    "genreId": "FOOD_AND_DRINK",
+    "description": "Want a Domino’s store anywhere, anytime? Now you can with the Domino’s app!Features: -\tOrder in just 2 taps on your Android Smart Watch when reordering one of your favourite Quick Orders -\tOrder in as little as 4 clicks with Quick Order-\tSave a Fast Favourite Quick Order for faster ordering-\tReceive Live Pizza Tracker push notifications on the progress of your order directly to your Android device-\tBuild a better pizza using Domino’s Pizza Chef®-\tOrder your favourite pizzas, sides and desserts from the easy to navigate menu-\tCheck out quickly and easily with the PayPal payment option* The pricing may vary from the actual pricing in the screenshots.",
+    "descriptionHTML": "Want a Domino&#x2019;s store anywhere, anytime? Now you can with the Domino&#x2019;s app!<br><br>Features: <br>-\tOrder in just 2 taps on your Android Smart Watch when reordering one of your favourite Quick Orders <br>-\tOrder in as little as 4 clicks with Quick Order<br>-\tSave a Fast Favourite Quick Order for faster ordering<br>-\tReceive Live Pizza Tracker push notifications on the progress of your order directly to your Android device<br>-\tBuild a better pizza using Domino&#x2019;s Pizza Chef&#xAE;<br>-\tOrder your favourite pizzas, sides and desserts from the easy to navigate menu<br>-\tCheck out quickly and easily with the PayPal payment option<br>* The pricing may vary from the actual pricing in the screenshots.",
+    "histogram": {
+        "1": 357,
+        "2": 64,
+        "3": 48,
+        "4": 90,
+        "5": 271
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/GnEjRBwiMfPvqvWQwAWy78PBduMKoBfbljfbLWXHIdp-ulgb-qr2MUZYHKIYxZkT7Lc=h310",
+        "//lh3.googleusercontent.com/06qOw-DWD_gnDvmJduwUgnzspEAfPJZUqK6f5e86pYQnvkdD1A3RkE_e4ft5Wh9-50Sk=h310",
+        "//lh3.googleusercontent.com/p-YqktJPo7fmLlmQ4u2vEfhLl2pRS67mazrwcMYK2cQ7hUz41lMJJ6cd3R5CVNI9rX0=h310",
+        "//lh3.googleusercontent.com/POPOVW5G0WRxIZSkJCqpVKAv-6PJprZq2t5kjLNOtuYxnryN3LdjmmrZVVBUzj8P1Q=h310",
+        "//lh3.googleusercontent.com/bd4PCZnQsRCkK57WlBRTpin13lEXMo1Dklov-2VnxmVvolEC-YSHERbRQy2vsqhe0Ice=h310",
+        "//lh3.googleusercontent.com/ntcwzdU6J2pmi38J7IllfXifr-ll0KuYNPdvEOSPiFmjW18QeCSQZao7prGq8-x9hwQ=h310"
+    ],
+    "comments": [
+        "Cant find/recognise my address even though i live in central Berlin",
+        "Takes for ever to load anything, stops working completely midway, does not recognize input correctly",
+        "Die App ist funktional. Es fehlt aber ein Textfeld für Lieferanweisungen. Gerade Leute, die aus Institutionen (Arbeit, Krankenhaus, etc.) bestellen, brauchen diese option zur Spezifizierung über die Adresse hinaus.",
+        "Did what i needed it to do.",
+        "Pathetic app",
+        "Funktioniert nicht"
+    ],
+    "recentChanges": [
+        "Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.dominos.android&hl=en&gl=us",
+    "appId": "de.dominos.android"
+}

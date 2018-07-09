@@ -1,0 +1,49 @@
+{
+    "title": "Healthy Miami Watch Face",
+    "summary": "An open-source watch face that shows your Miami University spirit",
+    "icon": "//lh3.googleusercontent.com/tGkjL9W71ITwfUyXs3Cpg4Ubr5MegGNTGtE5GNA4kU3aj5Jvv0RtRCBcgAA5kaQg9Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4,
+    "reviews": 4,
+    "developer": "Bo Brinkman",
+    "developerId": "Bo+Brinkman",
+    "developerEmail": "brinkmwj@gmail.com",
+    "developerWebsite": "http://bobrinkman.com/",
+    "updated": "May 5, 2015",
+    "version": "1.03",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Track your steps and show your Miami University spirit with this contemporary watch face.This app's use of the \"Beveled M\" logo has been officially approved by Miami University, but this app is not affiliated with or endorsed by Miami University.This project is free and open source. Source code can be obtained at https://github.com/brinkmwj/HealthyMiamiWatchFace",
+    "descriptionHTML": "Track your steps and show your Miami University spirit with this contemporary watch face.<br><br>This app&apos;s use of the &quot;Beveled M&quot; logo has been officially approved by Miami University, but this app is not affiliated with or endorsed by Miami University.<br><br>This project is free and open source. Source code can be obtained at https://github.com/brinkmwj/HealthyMiamiWatchFace",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/bfDLJ1Kt_0S07rlS4aII1ldaT1FirKafTcLerwZPvhcGWMso4baegRSYUVVUoHnA7V2H=h310",
+        "//lh3.googleusercontent.com/Agq5GbWmMn0ciBMn69hAF5fyGeEZRiA0Z6I5QX3zB84SZfi_4xpJnmqZW0y3s6vdC28=h310",
+        "//lh3.googleusercontent.com/7fwintfiz9IUTeVXqXPV6PkqRWAjlMc7P8pm8Oz32aNexvURpeCdAeHJuPulIoRIKic=h310"
+    ],
+    "comments": [
+        "Great Watchface I like it too. Does exactly what its intended to do",
+        "Good app. Looks high quality.",
+        "So ... lonely ... This is the app I made. I'm the only person that has ever downloaded it. I really like it though."
+    ],
+    "recentChanges": [
+        "Initial public release."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bobrinkman.healthymiamiwatchface&hl=en&gl=us",
+    "appId": "com.bobrinkman.healthymiamiwatchface"
+}

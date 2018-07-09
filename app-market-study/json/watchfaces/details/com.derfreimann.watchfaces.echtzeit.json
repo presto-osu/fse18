@@ -1,0 +1,58 @@
+{
+    "title": "echtZeit Watch Face",
+    "summary": "The time as text in 21 different German variants / dialects!",
+    "icon": "//lh3.googleusercontent.com/FqpD-2H47lTIwV07QHcKASJgrYyQlkNoaBShtuDrktLfaSqCcXf0AtjbC5gmwVC7yQ6E=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 26,
+    "developer": "derfreimann",
+    "developerId": "derfreimann",
+    "developerEmail": "fonkri@gmail.com",
+    "developerAddress": "Guglgasse 8/2/9/82, 1110 Wien, Österreich",
+    "updated": "December 13, 2015",
+    "version": "1.12.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Entstanden aus meinem Pebble-Projekt... und jetzt ist das \"Dialekt-Watchface\" endlich auch für AndroidWear-Geräte verfügbar.==================================Kompatibel mit Android Wear 5+ (5.0.1, 5.0.2, 5.1.1).==================================Funktionen des WatchFaces:**********************************+ Unread Counter+ kleine Kartenvorschau+ Ambient-Modus mit Burn-In Protection+ Kartenvorschau im Ambient-Modus+ Anpassung der Farben am Handy bzw. direkt auf der Uhr (z.Zt. 30 vordefinierte Farben)~~~~~~~~~~~~~~~  Sprachvariationen~~~~~~~~~~~~~~~ÖSTERREICH+ Ennstal+ Ostösterreich+ Westösterreich+ VorarlbergBAYERN+ BairischSCHWEIZ+ Aargau+ Bern (2 Varianten)+ St. Gallen+ WallisDEUTSCHLAND+ Mainfranken+ Mittelfranken+ Pfalz+ Schwaben+ Sachsen+ SüdhessenSÜDTIROL+ Pustertal+ drei verschiedene hochdeutsche Varianten ...der Unterschied sieht dabei so aus:Deutsch1: X:15 => 'viertel X+1' / X:45 => 'dreiviertel X+1'Deutsch2: X:15 => 'viertel nach X' / X:45 => 'dreiviertel X+1'Deutsch3:X:15 => 'viertel nach X' / X:45 => 'viertel vor X+1'+ traditionell ungenaues Akademiker(uhrzeit)deutsch ;)Diese Watchface ist sehr(!!!) akkufreundlich! ;)Die WatchFaces werden alle als einzelne Faces auf der Uhr angezeigt - die die ihr nicht benötigt können aber ausgeblendet werden, damit Eure Uhr wieder etwas übersichtlicher wird. [Handy -> AndroidWear App -> Startdispalys MEHR -> auf die drei kleinen Punkte neben dem unerwünschten WatchFace klicken -> \"Auf Uhr ausblenden\" wählen]==================================Wann welche Uhrzeit angezeigt wird kann hier nachgelesen werden:http://derfreimann.bplaced.net/AndroidWear/echtZeit/index.htmlIm Ambient-Modus wird aus Energiespargründen nicht bei 30 Sek. gewechselt, sondern immer zur nächsten vollen Minute, d.h. z.B. der Wechsel von 'fünf nach vier' auf 'zehn nach vier' passiert dann nicht um 16:07:30,sondern um 16:08:00!==================================Die Farben der angezeigten Inhalte können über die AndroidWear App angepasst werden.Im Moment kann zwischen 30 Farben ausgewählt werden.Außerdem kann man die Hintergrundfarbe des Watchfaces auch direkt auf der Uhr verändern!==================================Getestet und entwickelt wurde mit Hilfe einer *Moto360* und *Sony Smartwatch 3*, es werden aber natürlich auch andere Uhren unterstützt.Inzwischen gibt es auch schon positive Erfahrungsberichte von der LG Watch R ╰༼=ಠਊಠ=༽╯==================================Der Funktionsumfang des WatchFaces wird sich wahrscheinlich nicht mehr erweitern (abgesehen von neuen Dialekten natürlich!!!). Es gibt aber dennoch ein paar Punkte auf der TODO-Liste die ich nach Möglichkeit noch realisieren will/werde:TODO********+ freie Farbwahl ermöglichen (anstelle der 30 vordefinierten Farben)[Das WatchFace wird auf as-is Basis zur Verfügung gestellt!]==================================Erklärung der App-Rechte:******************************+ \"Standy-Modus des Telefons deaktivieren\" -> wird benötigt damit der Ambient-Modus funktioniert!+ \"Benutzerdefiniertes Startdisplay\" -> wird benötigt damit das WatchFace überhaupt auf der Uhr erscheint!==================================Wenn Dein Dialekt fehlt und Du ihn unbedingt haben willst, dann schicke mir bitte ein Mail und ich werde ihn hinzufügen :)",
+    "descriptionHTML": "Entstanden aus meinem Pebble-Projekt... und jetzt ist das &quot;Dialekt-Watchface&quot; endlich auch f&#xFC;r AndroidWear-Ger&#xE4;te verf&#xFC;gbar.<br><br>==================================<br><br>Kompatibel mit Android Wear 5+ (5.0.1, 5.0.2, 5.1.1).<br><br>==================================<br><br>Funktionen des WatchFaces:<br>**********************************<br>+ Unread Counter<br>+ kleine Kartenvorschau<br>+ Ambient-Modus mit Burn-In Protection<br>+ Kartenvorschau im Ambient-Modus<br>+ Anpassung der Farben am Handy bzw. direkt auf der Uhr (z.Zt. 30 vordefinierte Farben)<br><br>~~~~~~~~~~~~~~~<br>  Sprachvariationen<br>~~~~~~~~~~~~~~~<br><b>&#xD6;STERREICH</b><br>+ Ennstal<br>+ Ost&#xF6;sterreich<br>+ West&#xF6;sterreich<br>+ Vorarlberg<br><b>BAYERN</b><br>+ Bairisch<br><b>SCHWEIZ</b><br>+ Aargau<br>+ Bern (2 Varianten)<br>+ St. Gallen<br>+ Wallis<br><b>DEUTSCHLAND</b><br>+ Mainfranken<br>+ Mittelfranken<br>+ Pfalz<br>+ Schwaben<br>+ Sachsen<br>+ S&#xFC;dhessen<br><b>S&#xDC;DTIROL</b><br>+ Pustertal<br><br>+ <b>drei verschiedene hochdeutsche Varianten</b> <br>...der Unterschied sieht dabei so aus:<br><br><i>Deutsch1:</i> <br>X:15 =&gt; &apos;viertel X+1&apos; / X:45 =&gt; &apos;dreiviertel X+1&apos;<br><i>Deutsch2:</i> <br>X:15 =&gt; &apos;viertel nach X&apos; / X:45 =&gt; &apos;dreiviertel X+1&apos;<br><i>Deutsch3:</i><br>X:15 =&gt; &apos;viertel nach X&apos; / X:45 =&gt; &apos;viertel vor X+1&apos;<br><br>+ <b>traditionell ungenaues Akademiker(uhrzeit)deutsch</b> ;)<br><br><br>Diese Watchface ist sehr(!!!) akkufreundlich! ;)<br><br>Die WatchFaces werden alle als einzelne Faces auf der Uhr angezeigt - <b>die die ihr nicht ben&#xF6;tigt k&#xF6;nnen aber ausgeblendet werden</b>, damit Eure Uhr wieder etwas &#xFC;bersichtlicher wird.<br> <br><i>[Handy -&gt; AndroidWear App -&gt; Startdispalys MEHR -&gt; auf die drei kleinen Punkte neben dem unerw&#xFC;nschten WatchFace klicken -&gt; &quot;Auf Uhr ausblenden&quot; w&#xE4;hlen]</i><br><br>==================================<br><br>Wann welche Uhrzeit angezeigt wird kann hier nachgelesen werden:<br>http://derfreimann.bplaced.net/AndroidWear/echtZeit/index.html<br><br>Im Ambient-Modus wird aus Energiespargr&#xFC;nden nicht bei 30 Sek. gewechselt, <br>sondern immer zur n&#xE4;chsten vollen Minute, d.h. <br>z.B. der Wechsel von &apos;f&#xFC;nf nach vier&apos; auf &apos;zehn nach vier&apos; passiert dann nicht um 16:07:30,<br>sondern um 16:08:00!<br><br>==================================<br><br>Die Farben der angezeigten Inhalte k&#xF6;nnen &#xFC;ber die AndroidWear App angepasst werden.<br>Im Moment kann zwischen <b>30 Farben</b> ausgew&#xE4;hlt werden.<br>Au&#xDF;erdem kann man die Hintergrundfarbe des Watchfaces auch direkt auf der Uhr ver&#xE4;ndern!<br><br>==================================<br><br>Getestet und entwickelt wurde mit Hilfe einer *Moto360* und *Sony Smartwatch 3*, es werden aber nat&#xFC;rlich auch andere Uhren unterst&#xFC;tzt.<br><br>Inzwischen gibt es auch schon positive Erfahrungsberichte von der LG Watch R &#x2570;&#xF3C;=&#xCA0;&#xA0A;&#xCA0;=&#xF3D;&#x256F;<br>==================================<br><br>Der Funktionsumfang des WatchFaces wird sich wahrscheinlich nicht mehr erweitern (abgesehen von neuen Dialekten nat&#xFC;rlich!!!). Es gibt aber dennoch ein paar Punkte auf der TODO-Liste die ich nach M&#xF6;glichkeit noch realisieren will/werde:<br><br>TODO<br>********<br>+ freie Farbwahl erm&#xF6;glichen (anstelle der 30 vordefinierten Farben)<br><br>[Das WatchFace wird auf as-is Basis zur Verf&#xFC;gung gestellt!]<br><br>==================================<br><br><b>Erkl&#xE4;rung der App-Rechte:</b><br>******************************<br>+ &quot;<i>Standy-Modus des Telefons deaktivieren</i>&quot; -&gt; wird ben&#xF6;tigt damit der Ambient-Modus funktioniert!<br>+ &quot;<i>Benutzerdefiniertes Startdisplay</i>&quot; -&gt; wird ben&#xF6;tigt damit das WatchFace &#xFC;berhaupt auf der Uhr erscheint!<br><br>==================================<br><br><b>Wenn Dein Dialekt fehlt und Du ihn unbedingt haben willst, dann schicke mir bitte ein Mail und ich werde ihn hinzuf&#xFC;gen</b> :)",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Etfjgmmht1la0nAVEe-QS7BIG8-tsflb-vv5yeJVVTi1qywYH3CKk18_zuZz9asxiFIj=h310",
+        "//lh3.googleusercontent.com/_28p4fRoGssmTorzLT1v7erEZOLMVKV8N6y8mQjr7gA3wR_Unm9--E_eOY41Q1kKpw=h310",
+        "//lh3.ggpht.com/gCL-yAkhBGkk8NkzZfmzqT3Ehxl71HjRtAstzZ_YGKKvPxAIly5LqceHE_XMKDSZHdpG=h310",
+        "//lh6.ggpht.com/abDXjfFxu7O4u7w6vg0TJieMF2ELHL4dpAdZ2XkpMeyB2hUvpnv4ENef8arkDsBXvb-T=h310",
+        "//lh5.ggpht.com/306lTacTmdw9rnmblqGv6Wg3kpCe5SPCNZaF_Y3HK7YvLdxum4dSqDexJYcnUc8ec8w=h310",
+        "//lh3.googleusercontent.com/Qn6il9rwV5hpwV1dz_dNbqb7bP7A6y3_8YHE0BNHH_-zEJdWNNem2BrybLNpYykU0sA=h310",
+        "//lh5.ggpht.com/CKSD7T3qLcha_S4XKXfXwUrO5Lxr530q134pKtqMUOl2hhdq1EmEjNCfyOgwlxQ-bI81=h310",
+        "//lh3.googleusercontent.com/HefJq1yYfRlu6tUchaY8INyaRlpWy-B-9utzp6QC9ryM-omiDye-geTLMf2nGtAjWg=h310"
+    ],
+    "comments": [
+        "Super Fehlt nur rheinisch / Kölsch",
+        "Isch ja geil!"
+    ],
+    "recentChanges": [
+        "--- Version 1.12 ---",
+        "✔ Vorarlbergerisch berichtigt & aufgeteilt in <b>V.-Oberland</b> und <b>V.-Unterland</b [Danke@Rafael&Christoph]",
+        "--- Version 1.11 ---",
+        "✔ neuer Dialekt: <b>(D) Pfälzisch</b> [Danke@Jan]",
+        "--- Version 1.10 ---",
+        "✔ neue \"Multi\"-Variante hinzugefügt: <b>(Multi) Akademisch</b> [Akademiker brauchen's anscheinend besonders ungenau! Danke@Arne]"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.derfreimann.watchfaces.echtzeit&hl=en&gl=us",
+    "appId": "com.derfreimann.watchfaces.echtzeit"
+}

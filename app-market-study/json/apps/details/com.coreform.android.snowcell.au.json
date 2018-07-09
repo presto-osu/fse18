@@ -1,0 +1,56 @@
+{
+    "title": "SnowCell AU",
+    "summary": "Australia&#39;s greatest little snow weather widget, updated fresh for 2014!",
+    "icon": "https://lh3.ggpht.com/1FhX4rswaA2wnI1hR2B2eC4pXlU-Wq6I7RVP-EIZtSZNRXAHsXHEl3H8DMFSWyAMEYg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 41,
+    "developer": "coreForm",
+    "developerId": "coreForm",
+    "developerEmail": "coreform@gmail.com",
+    "developerWebsite": "http://www.snowcell.net",
+    "updated": "July 13, 2014",
+    "version": "1.3.0",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "NEW: Android Wear support!Keep an eye on lifts and weather on your smartwatch.Australia's greatest little snow related app. If you like skiing, snowboarding, or anything to do with the snow or mountains then this app is for you. Get latest weather observations and snow reports, weather forecasts, and what the snow resorts are saying on Twitter - all crammed into a Homescreen widget. Easily access the Bureau of Meteorology radar images per district. A huge improvement of the old app, which itself was pretty cool - and was ahead of its time. The weather widget bar of awesome and quality has been raised again.This is the NEW and greatly improved version of the app which replaces the old app which was named SnowCell.net Australia Ski.Please note: Android Launcher is bugged (until Jelly Bean) and you may not see Snowcell AU under Widgets until you Force Close the Launcher app OR reboot phone OR Launcher decides to update the widgets list of its own accord.",
+    "descriptionHTML": "NEW: Android Wear support!<br>Keep an eye on lifts and weather on your smartwatch.<br><br>Australia&apos;s greatest little snow related app. If you like skiing, snowboarding, or anything to do with the snow or mountains then this app is for you. Get latest weather observations and snow reports, weather forecasts, and what the snow resorts are saying on Twitter - all crammed into a Homescreen widget. Easily access the Bureau of Meteorology radar images per district. A huge improvement of the old app, which itself was pretty cool - and was ahead of its time. The weather widget bar of awesome and quality has been raised again.<br><br>This is the NEW and greatly improved version of the app which replaces the old app which was named SnowCell.net Australia Ski.<br><br>Please note: Android Launcher is bugged (until Jelly Bean) and you may not see Snowcell AU under Widgets until you Force Close the Launcher app OR reboot phone OR Launcher decides to update the widgets list of its own accord.",
+    "histogram": {
+        "1": 9,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 30
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/q4T36gWMcGtc-ZxH7b5frXF-erdYWe2PebNCllJhUiViJwwjD5sYmQ6SoLbsYyzy3wVo=h310",
+        "https://lh6.ggpht.com/PmlSWcyBr17bfJAKuVsEMpGpHI5QmxRCOG_NLa8e0AENBaORQ69KbsQFkSCMzsbrEg=h310",
+        "https://lh5.ggpht.com/hE8pgv6qMHIqc_8VtHOgug4eu0XCbZXo-ax8y4wJveUdphZl2Fu5gGTNNrAEtWtBo38=h310"
+    ],
+    "comments": [
+        "Doesn't work on a HTC Don't bother if u run a HTC, not worth the hassle. No big deal as I forecast no snow for 2014, no widget required.  Upon install widget was automatically placed on home screen, from there it continues to prompt me 2 place it on homescreen. WTF",
+        "Winter funfacts... SnowCell is great. Works well on my galaxy note 2. Since it is an Australia-only widget, would you consider a adding an off-season \"temporary disable\" option so I can stop it auto-updating itself until next winter without having to uninstall it...?",
+        "Everything you need for planning your snowfield adventures!",
+        "Snow",
+        "Great",
+        "Configure options Thanks for fixing the twitter feed issue. Only problem is you can't configure the widget to display just the info your interested in."
+    ],
+    "recentChanges": [
+        "--update v1.3.0--",
+        "- Android Wear extended Notifications.",
+        "--update v1.2.2--",
+        "- fix to ensure config changes are shown as soon as data update finishes.",
+        "- fix to screen sequence."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.coreform.android.snowcell.au&hl=en&gl=us",
+    "appId": "com.coreform.android.snowcell.au"
+}

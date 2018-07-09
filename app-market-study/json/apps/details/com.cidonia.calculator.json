@@ -1,0 +1,61 @@
+{
+    "title": "Watch Calculator",
+    "summary": "Calculator for Android Wear devices",
+    "icon": "//lh5.ggpht.com/HS7SJilYuH7GP-3DJRcBwhbNKw1-yvXFpx0U7dx_eiLfaQObBSr_x_gLalF1gWsCmFk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3,
+    "reviews": 100,
+    "developer": "cidonia.com",
+    "developerId": "cidonia.com",
+    "developerEmail": "support@cidonia.com",
+    "developerWebsite": "http://www.cidonia.com",
+    "updated": "October 20, 2015",
+    "version": "1.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "A simple and handy calculator for your Android Wear device.",
+    "descriptionHTML": "A simple and handy calculator for your Android Wear device.",
+    "histogram": {
+        "1": 39,
+        "2": 5,
+        "3": 8,
+        "4": 12,
+        "5": 36
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/ZJw_TQQT-QVaHUK7iue0tKa6zLaPhzGPVCBIcoy93d3VHrP0A_tmRTVFklCRgcpasR8=h310",
+        "//lh6.ggpht.com/CyNEFwZ73zegWUIOqnsyttSiRT1KZRTJFR1rRFo85lQHAKA5enhMxhzJhrSQzAqkEw=h310",
+        "//lh6.ggpht.com/SAEoUy53KBjVcWg9NK9QaJUw5XhzLZub6FgOKBfPjT0n9U4TqzW0nZ-vWoA4Q-e1gGE=h310",
+        "//lh5.ggpht.com/Me47k05i4Jh8Rd0gNEFckHEVCDPhwHTbTHcHLsx7nJaSrURIPT5pQwXwggzSVLr3Rus=h310",
+        "//lh3.googleusercontent.com/ZCXQs0j0TuvCqZPHNjONKmhWukln4d6LBfKvLwj0COPM9CK709z9eikSGiXYzcY3_P8=h310",
+        "//lh3.googleusercontent.com/jqpgWuWiWXsGfS_lMwD7AGHJXMCxfF0xoRJfysfyJ-8FYU6sylYbm4ePnUrAH8bEw54=h310",
+        "//lh3.googleusercontent.com/PenhCNAkyR2LVX4yyCRkIRdYUmlaX-GJGsljabUegXRqqQOF3g9q8fiTNwVQARnZNg=h310",
+        "//lh3.googleusercontent.com/vFmEmDi0b5GuuOlZxim5nMEvwZ1dkj4W7ifbYDe0tIXQsMqeHeSDQXeqRRmCJBlPkdEP=h310",
+        "//lh3.googleusercontent.com/rDGklr3Gs6gLE_NXSU6MfehUYiMSGY59RDwlLTKPb3-ndP04flwWTdwM9LycmfG--0o=h310"
+    ],
+    "comments": [
+        "Great for square watches This is the best calculator I could find. It only does simple tasks as it is not a scientific calculator but that's exactly what I need. It also has feedback for button presses which is awesome!",
+        "Non starter Installed to G Watch R and won't even start! Message \"unfortunately  calculator has stopped\"",
+        "Will not open Every time I try to open it on my Moto 360, it gives me the \"unfortunately, Calculator has stopped\" message. I noticed another review with the same complaint that the developer had replied to, saying they were working to fix this as fast as possible. This reply was left almost a year ago. I'd skip this app if you have a Moto 360. :(",
+        "Doesn't work Downloaded it for LG G watch R, went to open it on the watch and shows message that it's stopped working. Please fix.",
+        "Doesn't work on LG G Watch R \"stopped working\" even before showing anything",
+        "Not Working Fails to work on LG G Watch R"
+    ],
+    "recentChanges": [
+        "- Added support for rounded devices (experimental)",
+        "Please note:",
+        "- Make sure your watch is compatible with Android Wear.",
+        "- Make sure to pair your phone with the wearable device with help of the Android Wear app."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.cidonia.calculator&hl=en&gl=us",
+    "appId": "com.cidonia.calculator"
+}

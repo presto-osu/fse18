@@ -1,0 +1,59 @@
+{
+    "title": "Sports Alerts - NHL edition",
+    "summary": "LIVE, FAST scores, stats and alerts for the NHL",
+    "icon": "//lh3.googleusercontent.com/gfDIA_tuIHT7BmywEIli1zsSxtT5RigNrMmImukwGmczdBcPMd17s1WoPk9yu4RSWDk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.6,
+    "reviews": 2094,
+    "developer": "Luno Software, Inc.",
+    "developerId": "Luno+Software,+Inc.",
+    "developerEmail": "support@lunosoftware.com",
+    "developerWebsite": "http://www.lunosoftware.com",
+    "developerAddress": "12472 Lake Underhill Rd. #308\nOrlando, FL 32828",
+    "updated": "January 27, 2018",
+    "version": "2.3",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "Get LIVE, FAST scores, stats and alerts for the NHL!All your received alerts are saved in your alert history in case you missed any.Get standard game alerts and player alerts you won't find anywhere else, all easily configurable.We use real push technology with no background services running for faster alerts with no wasted bandwidth and battery life.We also provide:● scoring plays and penalties● live scores widget, updated every minute● custom notification cards for Android Wear● full team rosters● team schedules● season stats for every player● team news from multiple outlets● league leaders for a dozen stat categoriesThe following alert types are available: ● game start ● game end ● score change● lead change ● overtime game ● power plays● hat trick ● 3 assists ● close game (5 min. or less remaining, within 1 goal)** note: This app is not affiliated with or endorsed by the National Hockey League. Any trademarks used in the app are done so under \"fair use\" with the sole purpose of identifying the respective entities, and remain the property of their respective owners.",
+    "descriptionHTML": "Get LIVE, FAST scores, stats and alerts for the NHL!<br><br>All your received alerts are saved in your alert history in case you missed any.<br><br>Get standard game alerts and player alerts you won&apos;t find anywhere else, all easily configurable.<br><br>We use real push technology with no background services running for faster alerts with no wasted bandwidth and battery life.<br><br>We also provide:<br><br>&#x25CF; scoring plays and penalties<br>&#x25CF; live scores widget, updated every minute<br>&#x25CF; custom notification cards for Android Wear<br>&#x25CF; full team rosters<br>&#x25CF; team schedules<br>&#x25CF; season stats for every player<br>&#x25CF; team news from multiple outlets<br>&#x25CF; league leaders for a dozen stat categories<br><br>The following alert types are available: <br><br>&#x25CF; game start <br>&#x25CF; game end <br>&#x25CF; score change<br>&#x25CF; lead change <br>&#x25CF; overtime game <br>&#x25CF; power plays<br>&#x25CF; hat trick <br>&#x25CF; 3 assists <br>&#x25CF; close game (5 min. or less remaining, within 1 goal)<br><br>** note: This app is not affiliated with or endorsed by the National Hockey League. Any trademarks used in the app are done so under &quot;fair use&quot; with the sole purpose of identifying the respective entities, and remain the property of their respective owners.",
+    "histogram": {
+        "1": 29,
+        "2": 17,
+        "3": 80,
+        "4": 503,
+        "5": 1465
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/W5N_NMV_voJpT8blR1H7Mm0gobRIU1VyBqjIwIEqqMoHz0aTJciQEKn-dQ1iSSKJMxvT=h310",
+        "//lh3.googleusercontent.com/nc78OoPtgtzVWL3mYC5xMpJViAiBIYKScwXS9q-QYWwA4o-2V-nRClCbOOTWZ6Ebkrg=h310",
+        "//lh3.googleusercontent.com/uEqq5u3MDj7K6l8BcLflyQGeMoClneFyxhL48x57VQGt-OU_XvYwpP4C4SCN7VCmknI=h310",
+        "//lh3.googleusercontent.com/Z8AQZ-BTbuVbwcEE7cc2AwvLCYQnJrbpCclmhQwARR2cf4FouJ86fnj_XaguXOLABPw=h310",
+        "//lh3.googleusercontent.com/RQ6THVl95Bi0T9sOFUBv51SX3CUzwQoqEorXfgnLZ71GTn4IXKeOqp1ak-0NxGN5H5s=h310",
+        "//lh3.googleusercontent.com/uxIWVUGqkpcalBWrqQz21KvPaRPxbnyoEm1tzkUBbqAwUJZG4lnsMYihCpJ1uNqtLxE=h310",
+        "//lh3.googleusercontent.com/wvXtRb-bHwIk90gakxd_T01wRQOSNozFrjnDGNZDqDcfDVVbg_WX4VyGhLy3hmFT6Wc=h310",
+        "//lh3.googleusercontent.com/seJBYK28ZiMo4CdkqfJmGjFqD2cttJG0LWk8CJjDHRj6gSnch82YiUadVZzrB_cNrmE=h310",
+        "//lh3.googleusercontent.com/kFuG_q2WxeUO-abBc_MncCHAeSh8Krve1HI_gEh3CjTG6YEQuce1ugK_Jo3eH8ZxKZw=h310"
+    ],
+    "comments": [
+        "So, my biggest beef is that in hockey they are called periods and not quarters. Small beef...",
+        "The only app I use for NHL scores HOWEVER notification do not work at all.  Fix it please. Extremely annoying.",
+        "THE VEGAS GOLDEN KNIGHTS LOGO IS NOT APPEARING IN THE SCORING NOTIFICATION  ALERTS.",
+        "Does the job, ads aren't intrusive. But please please update to fix the periods being listed as \"quarters\".",
+        "Does the job to keep me up to date on scores and also on any other updates I configure it for",
+        "Pretty good app. I like it."
+    ],
+    "recentChanges": [
+        "improved game info screen, now with shootout details"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=lunosoftware.nhlscores&hl=en&gl=us",
+    "appId": "lunosoftware.nhlscores"
+}

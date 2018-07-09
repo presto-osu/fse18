@@ -1,0 +1,62 @@
+{
+    "title": "PDF Presenter for Android Wear",
+    "summary": "Remote control for PDF viewer on a tablet, no need to swipe console anymore",
+    "icon": "//lh3.ggpht.com/aLlFa17tWsBtbZkdauNxp7CaFRkolEL9W20eNMEN2gxzVKaW1C-CCfXqXWiksW0L3Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.4,
+    "reviews": 15,
+    "developer": "Tail of fox",
+    "developerId": "Tail+of+fox",
+    "developerEmail": "n.miyaba@gmail.com",
+    "developerWebsite": "http://tailoffox.blog.fc2.com/blog-category-5.html",
+    "updated": "October 19, 2015",
+    "version": "1.31",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "When you make a presentation using a tablet, have you ever felt dissatisfaction with interrupting your audience by yourself's swiping behavior? This app allows you to turn a page only by tapping nearby Android Wear without touching the display. Of course, it can be also used to control PDF and Powerpoint(.ppt and .pptx) remotely on any smartphone connected to a projector or to a wide screen.*** Main Function ***Tapping console of Android Wear, turn a page of PDF or Power Point(.ppt or .pptx) material on the connected device.*** Procedure ***[Connected device side]Following application’s guide, complete presentation setup1.\tSelect PDF Presenter Keyboard as a input method2.\tSelect a viewer application* for PDF or for Power Point material3.\tSelect a file to open*: Please choose “Single Page” from “View Modes” menu, because some operations don’t have effect in the other modes.[Android Wear side]1.\tLaunch PDF Presenter2.\tTap card view of “Next Page” or “Prev. Page”[Notice]Adobe Reader by Adobe Systems, Inc, OfficeSuite by Mobisystems, Inc, or PowerPoint by Microsoft corp. is needed to install as viewer application.",
+    "descriptionHTML": "When you make a presentation using a tablet, have you ever felt dissatisfaction with interrupting your audience by yourself&apos;s swiping behavior? This app allows you to turn a page only by tapping nearby Android Wear without touching the display. Of course, it can be also used to control PDF and Powerpoint(.ppt and .pptx) remotely on any smartphone connected to a projector or to a wide screen.<br><br>*** Main Function ***<br>Tapping console of Android Wear, turn a page of PDF or Power Point(.ppt or .pptx) material on the connected device.<br><br>*** Procedure ***<br>[Connected device side]<br>Following application&#x2019;s guide, complete presentation setup<br>1.\tSelect PDF Presenter Keyboard as a input method<br>2.\tSelect a viewer application* for PDF or for Power Point material<br>3.\tSelect a file to open<br>*: Please choose &#x201C;Single Page&#x201D; from &#x201C;View Modes&#x201D; menu, because some operations don&#x2019;t have effect in the other modes.<br><br>[Android Wear side]<br>1.\tLaunch PDF Presenter<br>2.\tTap card view of &#x201C;Next Page&#x201D; or &#x201C;Prev. Page&#x201D;<br><br>[Notice]<br>Adobe Reader by Adobe Systems, Inc, OfficeSuite by Mobisystems, Inc, or PowerPoint by Microsoft corp. is needed to install as viewer application.",
+    "histogram": {
+        "1": 7,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/pXknG3fHF15_c9I2X-mKw6J7PtZcQxHNGRi73_03mQZ_4pMKGZ6vt-0e-DFrnPVRgw=h310",
+        "//lh5.ggpht.com/R2hPr9OXbtr-BUqz2KMeegV8dr0-An7OZ70SLNm3JRYg6qq7jInqQkGvXY7n0bCeKU64=h310",
+        "//lh3.ggpht.com/BKPzAhAcY9ITSOyQRosqsaO2yQ_D-25ZqohI9WpS5KcSY8bD59qVQCmjPhn3X12hvw=h310",
+        "//lh3.ggpht.com/zZBGTrce_P5xdC9FqpwXG5nEU7Jccnws0VZezSznZWpUtoWvyeQJzjudc5lsqEDoRw=h310",
+        "//lh6.ggpht.com/qbDPv7EIGN1fY9WayGvhSOGsMS9lXjxJoaAU3CN6h0Qt_go2gFty6GtdjVYTxKRWNfM=h310",
+        "//lh3.ggpht.com/_Am_KtN__8EDglx71ZWgDGcz2t9Yst_jftW_vWUUmR-AXeT5MTdwzC_WvgwqCR3tSA=h310",
+        "//lh4.ggpht.com/7X-TLKP18IUX9Lusv5n6j5dspIt6jwRqFg2LDso56UOtamOM5kpz4NbHuTUPY42IFg=h310",
+        "//lh6.ggpht.com/wBXWBgFkaYP1mhNChj4VT6pjAAJw3OW7uvdLcGdWpRQVlgL7HHk6mnbbgB4HgeWyCME=h310",
+        "//lh3.ggpht.com/2yhRFehIZ4dpsXaVNHSx1WIEafDsZE3yhRktvkooeV_Y-QtslPLbF5TCBdd2Dx9ilQ=h310",
+        "//lh6.ggpht.com/3TW3rFLJk5Mcu2SfKUHnoCa4IKOBvVA8ZS7Dq1A2Rt9RkjKjTSQVhXQyX0A-8fcMwPw=h310",
+        "//lh3.googleusercontent.com/NF1JVHI7ShO2hJHH8_UGzicEpqogytd5BXZ9ArPfBGrUXCvVqjz0S4K2gCj9UBnThhM=h310"
+    ],
+    "comments": [
+        "Works like a charm! While the setup sure is complicated to understand, I was however able to change next/previous pages in a PDF file (viewed from phone, casted to Chromecast) from my LG G Watch Urbane in latest January Marshmallow update. This app saves me the trouble and the time to converting pdf files to pptx because my teachers in university refuse to give their slides in pptx for some reason. Awesome work dev!",
+        "Doesn't work",
+        "Needs others apps installed to work"
+    ],
+    "recentChanges": [
+        "[Ver. 1.3]",
+        "New Feature",
+        "* Supported Microsoft PowerPoint",
+        "Bug fix",
+        "* Fixed page control failure in Android 5.0 or later",
+        "* Changed file permission from write to read（Ver.1.31）"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nmiyaba.android.app.pdfpresenter&hl=en&gl=us",
+    "appId": "com.nmiyaba.android.app.pdfpresenter"
+}

@@ -1,0 +1,54 @@
+{
+    "title": "SensorFace",
+    "summary": "2 basic watch faces showcasing what can be done using sensor.",
+    "icon": "//lh3.ggpht.com/Hql1MQ41Zuq9m3xe-ajMbcUChOKaF13o7RPnduWa_0rw7JtZlW0XX5fWOG3V4-F5d-uM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 14,
+    "developer": "Kilo",
+    "developerId": "Kilo",
+    "developerEmail": "wes@kilo-app.com",
+    "developerWebsite": "http://www.kilo-app.com",
+    "updated": "January 6, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "2 basic watch faces showcasing what can be done using sensor.You can find a Gist showing how to use the accelerometer to produce the same effect here:https://gist.github.com/degliwe/cb115278fbb62065e76eIf you are interested by the theming selector you can find a Gist about how it is done here:https://gist.github.com/degliwe/47ca967d0041cffade12/!\\ this is a sample intended for developers, if you want to use these faces, feel free to do it, but they come as is without any support.",
+    "descriptionHTML": "2 basic watch faces showcasing what can be done using sensor.<br>You can find a Gist showing how to use the accelerometer to produce the same effect here:<br>https://gist.github.com/degliwe/cb115278fbb62065e76e<br><br>If you are interested by the theming selector you can find a Gist about how it is done here:<br>https://gist.github.com/degliwe/47ca967d0041cffade12<br><br>/!\\ this is a sample intended for developers, if you want to use these faces, feel free to do it, but they come as is without any support.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/uFsoTPubvbCLZJSu8G1EtOPr31OZrGhv5wkD1vh6oMVdkoC_atJ8cvx9EqpU6iuyxxY=h310",
+        "//lh6.ggpht.com/lAf8eH_sXaU-NbODS6Nb047THcf3oPXytRRqTEb5zup221g6XrrYzGNIwwUl8kaRXg=h310",
+        "//lh4.ggpht.com/nP8TST-uB-QxnQIq4FJLUPZ-TS8J3fdOeibq3Sr0PQDnHlB4xxGAtaXBBX-lHpL2JmA=h310",
+        "//lh6.ggpht.com/jgPgzpDhB5zM4lFFokbFrBU3HrTo0vNmhsFIYii6wsyEc8y5dWf6uwmA9Xw_UduAajrm=h310",
+        "//lh5.ggpht.com/_Kjqio8_LQ0kITSI-P-BLP8FB0mGyc0RKRaQhWV-aEkaFYrc5SIXkesW6_1zmqDv43Y=h310",
+        "//lh6.ggpht.com/RznsApeq8E_IpR1s9mpvT4XKubduf9PxzsBt_YD0zIW2thU10Ed7ihjDyh1rSQTpiqg=h310",
+        "//lh6.ggpht.com/RkyMLnNckmrGqxjTsIyZaFNwJPAGD4oKcXG3HYtFv_xjqBbubIebR1x9ouVJ4NG2V0E=h310"
+    ],
+    "comments": [
+        "Really nice! Thanks for the gist! Will be usefull!",
+        "Interesting idea!",
+        "Digital one crashes a lot"
+    ],
+    "recentChanges": [
+        "Improved performances,",
+        "Now with many themes to change the color of the face according to your mood."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.deglise.sensorface&hl=en&gl=us",
+    "appId": "com.deglise.sensorface"
+}

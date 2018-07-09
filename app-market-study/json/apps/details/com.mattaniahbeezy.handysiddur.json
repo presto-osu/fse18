@@ -1,0 +1,51 @@
+{
+    "title": "Handy Siddur (Pre-release)",
+    "summary": "אות על ידך",
+    "icon": "//lh3.googleusercontent.com/m7OgC-J2jSBzyLzIctxO-IYFfaHrW1BUZuAdJABNspFq8RVXgYrTSOnKg4l2V8jS5Io=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4.2,
+    "reviews": 6,
+    "developer": "Beezy Works Studios",
+    "developerId": "4919930007646819844",
+    "developerEmail": "beezyworksstuidos@gmail.com",
+    "developerWebsite": "http://beezyworks.com",
+    "developerAddress": "2106 46th Ave\nSan Francisco, CA 94116",
+    "updated": "June 9, 2017",
+    "version": "0.5",
+    "genre": "Books & Reference",
+    "genreId": "BOOKS_AND_REFERENCE",
+    "description": "This is a pre-release version of the handheld companion to Ice Cream Siddur. So far it only works with nusach Ashkenaz. Expect errors, lack of features, and general lack of polish.Please send me reports via email (rating this would be like rating a hunk of marble and complaining it's not yet a statue)Only for Android Wear devices.Tested on ZenWatch 3.Includes:Zman based watchfaceLuach ZmanimBirkas HaMazonMein Shalosh",
+    "descriptionHTML": "This is a pre-release version of the handheld companion to Ice Cream Siddur. So far it only works with nusach Ashkenaz. <br><br>Expect errors, lack of features, and general lack of polish.<br>Please send me reports via email (rating this would be like rating a hunk of marble and complaining it&apos;s not yet a statue)<br><br>Only for Android Wear devices.<br>Tested on ZenWatch 3.<br><br>Includes:<br>Zman based watchface<br>Luach Zmanim<br>Birkas HaMazon<br>Mein Shalosh",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/NnhDgX0pwT9Bookpi1C0cL8W-anCfi9yodinoN5m0rduvio8sidtHLJ6JQnTWYdwObda=h310",
+        "//lh5.ggpht.com/pvQpFMaD1DxRXhXZYyV6wLXOUXAu2TlyOaaopSgRLF6gsHEZV48qB46DLnB7vw_lyBKL=h310",
+        "//lh3.googleusercontent.com/E6tLedGA44SiwJFNBgM2hJ-i29m778v6lQF28XLsTAMUNJ2_lz6Z5H7CkzSX1y3ouW5-=h310"
+    ],
+    "comments": [
+        "Thanks for making this watch face, it's perfect! Only watch face I could find that displays the Hebrew date and the upcoming zman.  Also come with a number of useful prayers such as grace after meals,  the traveller's prayer, etc.",
+        "Great Thank you. Please give us an icon which when touched on the Smart Watch, it will open the list of Zmaniem.",
+        "Awesome! Thanks for making the only Jewish watchface woth Zmanim",
+        "Doesn't work"
+    ],
+    "recentChanges": [
+        "This is a completely rebuilt version of the app. No longer supports Wear 1. Better UI and more efficient use of resources. Removed Material Watchface. Added complications."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mattaniahbeezy.handysiddur&hl=en&gl=us",
+    "appId": "com.mattaniahbeezy.handysiddur"
+}

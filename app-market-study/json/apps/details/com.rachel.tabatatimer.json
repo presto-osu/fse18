@@ -1,0 +1,54 @@
+{
+    "title": "Tabata Wear",
+    "summary": "Simple, easy-to-use way to time Tabata intervals with Android Wear.",
+    "icon": "//lh5.ggpht.com/Z1lvi8gYo3MMZ9HNvqPz1QyY_lRWEhI_0LpAwT5L2NZOp39xqIZEPsG9NSly155di_A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.4,
+    "reviews": 9,
+    "developer": "Rachel Xiang",
+    "developerId": "Rachel+Xiang",
+    "developerEmail": "rachelxiangg@gmail.com",
+    "developerWebsite": "http://rachelxiang.com",
+    "updated": "November 24, 2014",
+    "version": "1.0.3",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "A simple tabata app for Android Wear.What is tabata? Tabata training is a High Intensity Interval Training (H.I.I.T) workout that lasts four minutes.About the App: Time tabatas with Andorid Wear by starting the app (either by clicking it or by saying \"Okay Google, Start Tabata Watch\") By default, it supports the 'standard' 8 intervals of 20 second work and 10 second rest. Uses notifications on the watch to display vital info and vibrates when time runs up.New! Configure settings from your phone and it'll sync with your watch! Great for custom intervals.",
+    "descriptionHTML": "A simple tabata app for Android Wear.<br><br>What is tabata? Tabata training is a High Intensity Interval Training (H.I.I.T) workout that lasts four minutes.<br><br>About the App: Time tabatas with Andorid Wear by starting the app (either by clicking it or by saying &quot;Okay Google, Start Tabata Watch&quot;) By default, it supports the &apos;standard&apos; 8 intervals of 20 second work and 10 second rest. Uses notifications on the watch to display vital info and vibrates when time runs up.<br><br>New! Configure settings from your phone and it&apos;ll sync with your watch! Great for custom intervals.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/XdvjkgQMp4bHtZOiPRvG7XW0R41hOaOi5y7I9f2jaKFgXFKNO4VIMg0LocldGGX6LIc=h310",
+        "//lh5.ggpht.com/hhKuhCN77SnpJcYqqD1f7OW3_PheRkzjLTX9lSF9aPVmYSkal39izNIh9NWd-g_Txi4=h310",
+        "//lh6.ggpht.com/Y3fWOOGANI4r3dSEcaOf3OtzpxzM6BRevm8ewXFeFhreKZV7ASJBQNFdyGZmvqi89iQ=h310",
+        "//lh6.ggpht.com/rLxuQ3khgk8yMpRHFbXNhvWSSLOAA4vyKNylw-GWCIjqRbwyCdhyX5KOe-W2THQaEz8=h310",
+        "//lh4.ggpht.com/grXnXCzZedWSVKW9EO3-1ncYCQ3lP3mP_ID80o84DJNV5v6ShszMfJrP9J5qvvrIibs=h310",
+        "//lh5.ggpht.com/yX7pF0X6goq0igZP9fV-mPX9ItpQU8HGQyGKxLobbpSANGbxLPOqOAVxXVTQaLjFN3I=h310"
+    ],
+    "comments": [
+        "I am able to use this app however it is very user unfriendly. The following must be improved:  1. Start/Stop button. The app will start counting down time immediately when opened  2. Worst of all if I do not constantly touch the watch the app face disappears and my watch face (normal time) appears, whilst the app works in the background. This totally disables me from focusing on my workout.  Finally user interface should be improved. Before reading the app update I never knew I could customize the timings and cycles etc.",
+        "Simple. Nice. Doesn't vibrate when done a part. Please add vibration maybe even one custom pattern. If you do I'll give five 🌟",
+        "Cannot get to sync to watch.",
+        "Needs work This app would be pretty awesome, except for the fact that as soon as I start the app it starts the countdown timer. It would make much more sense to be able to start the app and then hit a start button to begin to work out.",
+        "Pretty Simple"
+    ],
+    "recentChanges": [
+        "Cancel, restart etc work on Moto 360. No longer crashes on Moto 360! Updated phone UI."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rachel.tabatatimer&hl=en&gl=us",
+    "appId": "com.rachel.tabatatimer"
+}

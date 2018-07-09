@@ -1,0 +1,54 @@
+{
+    "title": "ART WATCH - Show GIF to Wear",
+    "summary": "ART WATCH is the App show GIF image on Tumblr onto Android wear as Watch Face.",
+    "icon": "//lh3.googleusercontent.com/OsuU9vtOQ-J-Qs4X66RsUbdW5O5aNTAhBX3g9k0b0lnOB_JUaixn-Q8DUpNHM3mrMA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2,
+    "reviews": 2,
+    "developer": "r21nomi",
+    "developerId": "r21nomi",
+    "developerEmail": "ryotaniinomi@gmail.com",
+    "updated": "April 20, 2017",
+    "version": "1.0.8",
+    "genre": "Art & Design",
+    "genreId": "ART_AND_DESIGN",
+    "description": "You can set GIF image on Tumblr blog onto Android Wear as Watch Face.You are able to change GIF image from Android app.Let's create your own GIF list by reblog with Tumblr and enjoy GIF art on Android Wear.【Features】- Set GIF on Tumblr to Watch Face- GIF list is on Android app- Change your Tumblr blog- History you set GIF to Watch Face- Change the time to sleep showing GIF on Watch Face【Contacts and requests】Please contact the following address for bug report or another contacts.ryotaniinomi@gmail.com",
+    "descriptionHTML": "You can set GIF image on Tumblr blog onto Android Wear as Watch Face.<br>You are able to change GIF image from Android app.<br>Let&apos;s create your own GIF list by reblog with Tumblr and enjoy GIF art on Android Wear.<br><br><b>&#x3010;Features&#x3011;</b><br>- Set GIF on Tumblr to Watch Face<br>- GIF list is on Android app<br>- Change your Tumblr blog<br>- History you set GIF to Watch Face<br>- Change the time to sleep showing GIF on Watch Face<br><br><b>&#x3010;Contacts and requests&#x3011;</b><br>Please contact the following address for bug report or another contacts.<br>ryotaniinomi@gmail.com",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qHA9vd5GB7y36FXU_ZccSdpkGnEPtmPdhkrR6W4tdXiKhvp3oaFBgBjb6f8-Z-6xndM=h310",
+        "//lh3.googleusercontent.com/PkJAk3UM7Uf92IFMyyFjyFbfR8kaUGFpcUIUd7QcMjWolgBuTKSacqc51VgtTBJuxuw=h310",
+        "//lh3.googleusercontent.com/G_9ZugxxRY2nAnZFNiVZf60M6tE-einK0XEsymPccF_4tzOf-fUH2EYz5aSb0fEbOHE=h310",
+        "//lh3.googleusercontent.com/pwNpGdIkRWSYL10qfoPtOKZFpu-qt_WJdMdVpbUG95rU2gg4oq-8ZwLGUZQOKlSpQn4=h310",
+        "//lh3.googleusercontent.com/e0ljLYiGA9kuczmbzA-egau8AtpR6AzCsoF1M5mCMn_cSbfkvrQxdoNMrtmMrywz9n_i=h310",
+        "//lh3.googleusercontent.com/JHsYgOEgu3YhvesWtlJUJE8RBM20sNBEazUk69a1H6sZkPS0PnABY2ljQmquU-FWXw=h310"
+    ],
+    "comments": [
+        "Awful took ages to get it working and when it is ill can't get it to show me the actual time"
+    ],
+    "recentChanges": [
+        "Version 1.0.8",
+        "操作性を向上しました",
+        "Version 1.0.7",
+        "スクロールで追加のGIF画像を読み込めるようになりました",
+        "Version 1.0.5",
+        "TumblrブログのGIF画像をWearのWatch Faceにできるアプリです"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nomi.artwatch&hl=en&gl=us",
+    "appId": "com.nomi.artwatch"
+}

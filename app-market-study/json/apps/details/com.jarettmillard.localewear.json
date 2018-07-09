@@ -1,0 +1,54 @@
+{
+    "title": "Tasker Plugin for Android Wear",
+    "summary": "Start any task from your watch, monitor your Wear device&#39;s connection, and more!",
+    "icon": "//lh3.ggpht.com/eUT8Cd8ob9ze3Gjpl9g37vZSsbmEL_q_uwU90nKiz6dLovlE2dgeElhMpUbRNqGbSLVA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.6,
+    "reviews": 42,
+    "developer": "Millard Consulting, LLC",
+    "developerId": "Millard+Consulting,+LLC",
+    "developerEmail": "jarett.millard@gmail.com",
+    "developerWebsite": "http://www.jarettmillard.com",
+    "developerAddress": "3993 Ferrarra St\nJacksonville, FL 32217",
+    "updated": "November 25, 2014",
+    "version": "1.1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "The missing companion for automating your Android Wear device. Start tasks with voice commands from your Android Wear watch, monitor the status of your wearable device, and more! This plugin for Tasker and Locale features:● Start any task on your phone from your Wear device. Say \"Ok Google, Start Task\" or launch the \"Task\" app through the launcher. This action is not supported on Locale.● Monitor the state of the connection between the wearable and your phone.● Monitor the charging state of the Android Wear device.● Monitor when your watch's battery is low.● Events for wearable apps being installed, updated, and removed, including variables for the app's name and package.This is only a plug-in. It requires either \"Locale\" or \"Tasker\" from the Google Play store and an Android Wear device. Some actions are not available in Locale.",
+    "descriptionHTML": "The missing companion for automating your Android Wear device. Start tasks with voice commands from your Android Wear watch, monitor the status of your wearable device, and more! This plugin for Tasker and Locale features:<br><br>&#x25CF; Start any task on your phone from your Wear device. Say &quot;Ok Google, Start Task&quot; or launch the &quot;Task&quot; app through the launcher. This action is not supported on Locale.<br>&#x25CF; Monitor the state of the connection between the wearable and your phone.<br>&#x25CF; Monitor the charging state of the Android Wear device.<br>&#x25CF; Monitor when your watch&apos;s battery is low.<br>&#x25CF; Events for wearable apps being installed, updated, and removed, including variables for the app&apos;s name and package.<br><br>This is only a plug-in. It requires either &quot;Locale&quot; or &quot;Tasker&quot; from the Google Play store and an Android Wear device. Some actions are not available in Locale.",
+    "histogram": {
+        "1": 5,
+        "2": 2,
+        "3": 11,
+        "4": 10,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/pb-aaHPXbLNAW81idRbSwxQfT7Ua2mrbcJEDg3dlruH1GhzBm-3PKgKY3KFkJh_aBA=h310",
+        "//lh6.ggpht.com/DED0H23qizcPRlJZcse-5FmjmUPJpaHRNOfYqjwJEMBjQgmNs8mOzkjYh2ZPmBO43Q=h310",
+        "//lh5.ggpht.com/ZgaubHeUwL43fibwVKva-6nOM3ADYV0ahSP-is-XegAtWTlLIHn5Jg0y737ioHkpZjga=h310",
+        "//lh3.ggpht.com/cwKKnu8FJB2Jy2Tm2akmzzgHxsVbvwd_qpwj-aPlkQH3EG9RqSaZsiaG58iywEagLg=h310"
+    ],
+    "comments": [
+        "Looks promising but I can't figure it out. I set it up for a voice command from the watch, but then what? Not all my task names are pronounceable, but is that what triggers the task? Nothing on the website. Using a competitor's product for now (has 3 slots for voice commands), or maybe a hacky work around with AutoVoice with my phone's microphone.",
+        "poorly implemented not worth a buck I wish the battery monitoring let you pick the level because an \"okay\" battery or low battery is very subjective. I also wish the \"start task\" could trigger more than one task and be more natural elegant, \"Ok Google, open the garage\"",
+        "Was great while it worked The charging detection doesn't work anymore on my moto 360. Even if its charging, the task for not-charging is still going and not the charging task (which is just mute/unmute my phone). If this can be fixed, I'll give 5/5",
+        "Unreliable After upgrade to 6.0.1, the watch does not report the charging state any more. At all. Is there upgrade planned?",
+        "Could be better Correct me if I'm wrong but it appears I can only have 1 task? Hardly useful... would be nice to have multiple",
+        "Good, but needs more actions Currently I only use this to monitor connection state to my phone and turn on/off the pattern unlock. I would love to be able to adjust screen brightness, run actions based on number of steps, change the device interface (turn mute and theater mode on/off), etc."
+    ],
+    "recentChanges": [
+        "Added app add/update/remove events"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jarettmillard.localewear&hl=en&gl=us",
+    "appId": "com.jarettmillard.localewear"
+}

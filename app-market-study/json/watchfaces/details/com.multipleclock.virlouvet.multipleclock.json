@@ -1,0 +1,52 @@
+{
+    "title": "Multiple clocks watchface",
+    "summary": "Each digit is composed of 24 small independent clocks.",
+    "icon": "//lh3.googleusercontent.com/mJlU5rpocRv0xjq1cRuwZsV-GlNs3dRibIz0-LN9XkYAKuPiyS0szD5seJ7sMyLUdvA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1,
+    "maxInstalls": 5,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Virlouvet Xavier",
+    "developerId": "Virlouvet+Xavier",
+    "developerEmail": "virlouvetxavier@gmail.com",
+    "developerWebsite": "http://www.virlouvetxavier.fr",
+    "developerAddress": "Mr Virlouvet Xavier 68 Avenue de la Libération Appartement 101 72000 Le Mans",
+    "updated": "August 11, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "This watchface displays time and date through multiple small independent clocks. The display is dynamic and the movement of each clock is displayed.This WatchFace allows you to have the time and date, and especially to be able to customize it to make it unique.Customize your WatchFace with Android Wear application from your smartphone.Colors are available in Red Level, Green and Blue over 16 million possible combinations.I still developing this WatchFace so do not hesitate to ask for new features.There is also a good battery management to improve the battery life of your SmartWatch.Thank you",
+    "descriptionHTML": "This watchface displays time and date through multiple small independent clocks. The display is dynamic and the movement of each clock is displayed.<br><br>This WatchFace allows you to have the time and date, and especially to be able to customize it to make it unique.<br>Customize your WatchFace with Android Wear application from your smartphone.<br><br>Colors are available in Red Level, Green and Blue over 16 million possible combinations.<br><br>I still developing this WatchFace so do not hesitate to ask for new features.<br><br>There is also a good battery management to improve the battery life of your SmartWatch.<br><br>Thank you",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/yON3pctgoRm5tgK3Dy95cDg9vD_v6YOC02xGQvJ5wNTHlM_37DQLLqdVIUajTMYJSjDZ=h310",
+        "//lh3.googleusercontent.com/t2IOgjEyIbg-83L8h5QFWXPxPXQe2da9rtSOHjiUqcTlCIkaa61fdkr5hjs3XQqHL6Q=h310",
+        "//lh3.googleusercontent.com/HMhh2hs2iO5QmksbJatCMOFPWfOEswrKb2yWfdcnVU6T_rlUKVNCVdlqQmmB8vS8aYo=h310",
+        "//lh3.googleusercontent.com/lXu1k8pbfSJmyTRTvZeGQUouCnY84gOdxlwJOrLrfHqdTXA5EfPgSrv9uMWmol5UTA=h310",
+        "//lh3.googleusercontent.com/xAvDycrQRKbROgXNbF_YE3yK4GziXokXlwV13sXfN0U2fRma8jp9lTHqi1RU1pgUBhM=h310",
+        "//lh3.googleusercontent.com/DzhTr7CVS76NO8tqq20xYoOcjyi0LjjOAyT2xJHVYg6oYvhPT8yEs-4LP2Oz2BHpUdHn=h310",
+        "//lh3.googleusercontent.com/Bk5qEmClDz5Ep358Zn7HZTaoTFnZJXM-SUYcwnkrbQzq5WtKqz38zJUJgCapTteOdw=h310",
+        "//lh3.googleusercontent.com/_nZRypV9vlzm7NnQbzvQOBnJSmJ_4AN3DrelgLdFrdbrtkDwQWMjA3Bqchph5QfN4A=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "add  <uses-feature android:name=\"android.hardware.type.watch\" android:required=\"true\"/>"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.multipleclock.virlouvet.multipleclock&hl=en&gl=us",
+    "appId": "com.multipleclock.virlouvet.multipleclock"
+}

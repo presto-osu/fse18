@@ -1,0 +1,53 @@
+{
+    "title": "Leaflet Clock",
+    "summary": "Get weather updates with a flick of your wrist",
+    "icon": "//lh4.ggpht.com/dxHeC0nshbgIdep3X8rFwVRFgAkk1O3vFzfM1UEOCj07TauOm_C-fi8yij4rNcdD6nM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 81,
+    "developer": "Xlythe",
+    "developerId": "5169167096263035875",
+    "developerEmail": "support@xlythe.com",
+    "developerWebsite": "http://www.xlythe.com",
+    "developerAddress": "1 Vista Montana #4422\n95134 San Jose, California",
+    "updated": "January 5, 2017",
+    "version": "1.4.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Leaflet is a small clock face with real-time weather updates. All of it fits on to a small piece of paper, with changeable backgrounds. Get weather, temperature, and wind speed with a flick of your wrist. Works with Android Wear or on your phone as a widget.For $0.99, get faster weather updates and 5 more backgrounds.",
+    "descriptionHTML": "Leaflet is a small clock face with real-time weather updates. All of it fits on to a small piece of paper, with changeable backgrounds. Get weather, temperature, and wind speed with a flick of your wrist. Works with Android Wear or on your phone as a widget.<br><br>For $0.99, get faster weather updates and 5 more backgrounds.",
+    "histogram": {
+        "1": 9,
+        "2": 5,
+        "3": 22,
+        "4": 21,
+        "5": 24
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/crjF9LpxZ9JnCm5_BaoBVHNRap1yUwWJ97PDQVl27O9_JrmrLRKZqKH2YKAAxwCEf34=h310",
+        "//lh4.ggpht.com/D6lMKp74tPaGBWmUX-DSDJPDtuOKY7iQc70H081DChejzSQ_FXZ3t6LU0A73Mchj19g=h310"
+    ],
+    "comments": [
+        "Needs to have options, or location based weather updates. Currently no idea where or which city the weather is based off of. It always seems to be 32°",
+        "Good design, where are the options? Really love how the design integrates the black bar on my moto360 but where is the weather info coming from? How often is it updated? It seems wildly innacurate or only updating every 6 hours but then I wouldn't know since there are no options! Would buy this app of these basic features were added. The option to select GPS or town or city and set the refresh interval at least are needed.",
+        "Great design, crappy mechanics. The weather is always wrong. Wish I hadn't purchased this. I wish we could also change the opacity of the white circle so you could see more of the beautiful background pictures I paid for.",
+        "Good idea, bad execution. Needs to be better optimized for square watches. In ambient mode, the letters are so faint and thin it's almost impossible to see them.",
+        "Nice Nice watch face but doesn't work in ambient mode also the phone widget is 1 minute slow. I would upgrade to paid version if you could customise battery bar colour, circle colour and select your own picture as background.",
+        "Paid for the app but I wish it had a feature where you enter your city for weather. Or even better if it could integrate with yahoo weather. The weather surely isn't of my location as of now and no way to force update weather. When these are fixed 5 star 🌟edit: I'm sure the weather isn't for my city."
+    ],
+    "recentChanges": [
+        "1.4.1",
+        "-Wear config activity"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.xlythe.clock.leaflet&hl=en&gl=us",
+    "appId": "com.xlythe.clock.leaflet"
+}

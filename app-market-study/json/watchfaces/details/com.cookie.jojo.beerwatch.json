@@ -1,0 +1,45 @@
+{
+    "title": "Beer Watch",
+    "summary": "First Beer Watchface",
+    "icon": "//lh3.ggpht.com/Jrp1JOSWoWQ7wAg3a3pGoFdkhydV0BO_zDjHp6d2jsIn7kAmjhmS5-zJJGfvYM9x3n6f=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.8,
+    "reviews": 6,
+    "developer": "Fabi und Jojo Development",
+    "developerId": "Fabi+und+Jojo+Development",
+    "developerEmail": "fabijojo.dev@gmail.com",
+    "developerWebsite": "http://www.facebook.com/FabiUndJojoDevelopment",
+    "updated": "March 10, 2015",
+    "version": "1.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Do you want to carry your beer in public?Then say Hello to the Beer Watch! No matter if digital (Military-Time) or analog we have both for you! And the beer fill level shows the battery level of your android wear device so you always now when you run level runs low.(No Alcohol included, could also be an apple juice watchface)",
+    "descriptionHTML": "Do you want to carry your beer in public?<br><br>Then say Hello to the Beer Watch! No matter if digital (Military-Time) or analog we have both for you! <br><br>And the beer fill level shows the battery level of your android wear device so you always now when you run level runs low.<br><br>(No Alcohol included, could also be an apple juice watchface)",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/euYVds2-vXMpN7cfIqp-V6b9WMoY3GIS83UJRHHJSX77DLpO1NBl0UGIYFGxo0KFZsew=h310",
+        "//lh4.ggpht.com/OcY9LZG5Qlbuz6n_WUa6zLIn1btjcVZlVyI9Fe4Z6FXMtZMVhFNVsuOjeMyNrzBEKA=h310",
+        "//lh5.ggpht.com/0RW7uAYPd8sD04EO9Sb-9GV6-rLwzlcUHZa9kD3eB-41WoSlkDviYV2zJI9QcTMrNA=h310"
+    ],
+    "comments": [
+        "Fun Face Very novel idea, keeps me updated on battery life of my phone."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.cookie.jojo.beerwatch&hl=en&gl=us",
+    "appId": "com.cookie.jojo.beerwatch"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Androsens classic",
+    "summary": "Androsens classic helps you to monitor all your device sensors! Android wear too",
+    "icon": "//lh3.ggpht.com/PtaS5yXFfyRvXpx_pkj0IPXI0tvFLfN_1K8wnmPLucx5h0HtLvlpVatQS6b7rZbxUJI4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.5,
+    "reviews": 8,
+    "developer": "Christian Schneider",
+    "developerId": "Christian+Schneider",
+    "developerEmail": "christian.d.schneider@googlemail.com",
+    "developerWebsite": "http://twitter.com/androidtritop",
+    "updated": "December 14, 2014",
+    "version": "1.5",
+    "genre": "Libraries & Demo",
+    "genreId": "LIBRARIES_AND_DEMO",
+    "description": "Androsens classic helps you to monitor all your device sensors!  Android wear is also supported! Gyroscope, light, acceleration, barometer and many more sensors can be displayed. Every Sensor your device has can be inspected. Test your sensors with this small app, its only 60 Kb small and requires no permissions! This is the replacement for the original androsens app without any extras there is also an enchanced version with gps and loging to sdcard features, its also free. Its open source and its free cheers! GPL3 https://code.google.com/p/androsens-classic/What sensors are tracked? Thats simple to answer: all! Even Android wear is supported now!- accelerometer- light sensor- gravity- magnetic field sensor- pressure (barometer)- orientation sensor- proximity sensor- linear acceleration- rotation vector- step detector- significant motion degtector- geomagnetic rotation vector",
+    "descriptionHTML": "Androsens classic helps you to monitor all your device sensors!  Android wear is also supported! Gyroscope, light, acceleration, barometer and many more sensors can be displayed. Every Sensor your device has can be inspected. Test your sensors with this small app, its only 60 Kb small and requires no permissions! This is the replacement for the original androsens app without any extras there is also an enchanced version with gps and loging to sdcard features, its also free. Its open source and its free cheers! GPL3 https://code.google.com/p/androsens-classic/<br><br>What sensors are tracked? Thats simple to answer: all! Even Android wear is supported now!<br>- accelerometer<br>- light sensor<br>- gravity<br>- magnetic field sensor<br>- pressure (barometer)<br>- orientation sensor<br>- proximity sensor<br>- linear acceleration<br>- rotation vector<br>- step detector<br>- significant motion degtector<br>- geomagnetic rotation vector",
+    "histogram": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "3.2 and up",
+    "androidVersion": "3.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/_0os4WqcMNoyGqF9sdJK_P0qtJloTx3qZkGlW2hflpaQoBMNUL5KD01T9seKQryctQ=h310",
+        "//lh4.ggpht.com/1jjg97qxcmF4PrtCSDnDK9pOKnBoPrIN_yQsXO7WOEQXSYG8m3XscPkvyICLj8Avm4A=h310",
+        "//lh6.ggpht.com/jBgSpZQOTFx3vfVP42WK4q4Np7rXuaabO1VRUjWQDTR1foMqfCki-cuOeeOwYYrbjQ=h310"
+    ],
+    "comments": [
+        "Useless Gyroscope Information is not constant even when watch sitting on a table.",
+        "Star N9599T for my device displays accelerometer & light/proximity but not GPS! I don't yet know if there are other sensors fitted"
+    ],
+    "recentChanges": [
+        "+ Android wear support added"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tritop.androsensclassic&hl=en&gl=us",
+    "appId": "com.tritop.androsensclassic"
+}

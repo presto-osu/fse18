@@ -1,0 +1,58 @@
+{
+    "title": "Tweets on Wear",
+    "summary": "Tweets client for Android Wear.",
+    "icon": "//lh3.ggpht.com/ME5NUXaYOLlXLOQB6hGJkY0ZSPnIxDs_Fb5jx3Wqck8a8c8vbEegFFvJaAKssdYUtw=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.7,
+    "reviews": 29,
+    "developer": "Tower Labs",
+    "developerId": "Tower+Labs",
+    "developerEmail": "info@towerlabs.co",
+    "developerWebsite": "http://www.towerlabs.co",
+    "developerAddress": "Tower Labs.",
+    "updated": "August 26, 2016",
+    "version": "1.7",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "description": "Tweets client for Android Wear. All your tweets right on your wrist! Even if your smartphone in your pocket you can check out your Tweets, freely! Once you open Tweets on Wear app on your smartphone then you can use anytime you want the ToW app on watch even you close the application on your smartphone! Features:* You will able to see last 50 tweet on your watch! * Swipe right then Retweet and Favorite! ( Double touch for Retweet, Single touch for favorite. Don’t worry you will be notified) * User-friendly minimalist interface! We will glad to see your feedback in our mailbox. Please feel free to contact us. Email: info@towerlabs.coWe will be happy to help you and answer your question. Email: help@towerlabs.co",
+    "descriptionHTML": "Tweets client for Android Wear. All your tweets right on your wrist! <br><br>Even if your smartphone in your pocket you can check out your Tweets, freely! Once you open Tweets on Wear app on your smartphone then you can use anytime you want the ToW app on watch even you close the application on your smartphone! <br><br>Features:<br>* You will able to see last 50 tweet on your watch! <br>* Swipe right then Retweet and Favorite! ( Double touch for Retweet, Single touch for favorite. Don&#x2019;t worry you will be notified) <br>* User-friendly minimalist interface! <br><br>We will glad to see your feedback in our mailbox. <br>Please feel free to contact us. <br>Email: info@towerlabs.co<br><br>We will be happy to help you and answer your question. <br>Email: help@towerlabs.co",
+    "histogram": {
+        "1": 5,
+        "2": 1,
+        "3": 4,
+        "4": 7,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone 10+",
+    "screenshots": [
+        "//lh5.ggpht.com/Ux7UMrDPclYnBQPMCKH6PJ_4fJfUIbS_m3BNPmbHKH3dgOOr-wTn1STmND79mJyQ3h7J=h310",
+        "//lh6.ggpht.com/FRRr51FDOOFFWrMtUcMshdI1-uvGJrzGu-x41qgbR9_RJk9F727ic6H16wMGz04USsw=h310",
+        "//lh5.ggpht.com/u11qOgLSMH30W6Zp4lpIetVi9wm2a9Pmj1q1lQSqeH_bJw3ZJKI_MWEFs9u8eQAEtsU=h310",
+        "//lh4.ggpht.com/6oznub8tKT4hEEX_2H1mdy6PwUCj80My9-ERu_HnWbWr0oVHSuzbT9K9jgOqy0Wbaw=h310",
+        "//lh5.ggpht.com/uBC0yAiCrcthJK93GuqYichHXJDum_6zJGnEMPBHJSQGgkvrqycVCZefDbuoUre2GE8=h310",
+        "//lh4.ggpht.com/_4BWEm6YMeT21Xq3MCTxIqwCGW23PukVdNgNFJUQZsW3Du7uis5sD_RjiSV5GfMdNLJs=h310"
+    ],
+    "video": "https://www.youtube.com/embed/adkm6QL_ELU",
+    "comments": [
+        "Not bad! Icon could be a bit bigger. Maybe use the profile picture as a background (á la hangouts messaging). I like it but the ui could use some work. Transitions are really nice though.",
+        "Annoying daily notification \"Crispy tweets had arrived!..\" Please stop.",
+        "Nice app Unfortunately the retweet button won't work. You should change the font to something taller like the system font.  Otherwise very beautiful wear app.",
+        "Won't even open. Want my money back. Get Network Error every time. Uninstalled and reinstalled etc",
+        "*where is the new notification feature?*   Great just needs a card or notification for new tweets instead of having to start the app each time on the watch to see the timeline",
+        "Really nice app but... It needs reply and new tweet options."
+    ],
+    "recentChanges": [
+        "*First launch problem fixed.",
+        "*Performance upgrade."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.towerlabs.twitterforwear&hl=en&gl=us",
+    "appId": "com.towerlabs.twitterforwear"
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Pujie Blue - Wear Watch Face",
+    "summary": "Modern blue accented watch face with animated battery and date indicator.",
+    "icon": "//lh3.ggpht.com/6Nug4-GEhYN6D6gumZRO25Pae2hI8QQaui0xT4zkMb09uMD_fkOHilf-dn-wXh-WDYw=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 42,
+    "developer": "Pujie",
+    "developerId": "7780011900367662392",
+    "developerEmail": "pujiemails@gmail.com",
+    "developerAddress": "1e J v/d Heijdenstr. 52A,1072 TW Amsterdam",
+    "updated": "December 23, 2014",
+    "version": "2.0.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Modern blue accented watch face with animated battery and date indicator for Android Wear.The watch face contains:✔ analog watch hands (hour, minutes, seconds)✔ battery indicator, displaying colored ring. (red when lower than 20, orange when lower than 50, green otherwise)✔ date indicator, displaying colored ring denoting the month progress✔ highly visible watch hands✔ black ambient state on devices with an Amoled or Oled screen✔ animations from ambient to interactive state✔ responds to peek cards by moving the indicators to the top sectionTo install:1. After install run 'Resync app' on Android Wear App.2. Long press your android wear watch and choose Pujie Blue as you watch faceCompatible with Moto360, LG G Watch R, LG G Watch, Samsung Gear Live, Sony Smartwatch 3 & Asus ZenWatch.Check out my other watchfaces too at: http://goo.gl/OxiezW!! Please contact me if you have any trouble installing the app !!",
+    "descriptionHTML": "Modern blue accented watch face with animated battery and date indicator for Android Wear.<br><br>The watch face contains:<br><br>&#x2714; analog watch hands (hour, minutes, seconds)<br>&#x2714; battery indicator, displaying colored ring. (red when lower than 20, orange when lower than 50, green otherwise)<br>&#x2714; date indicator, displaying colored ring denoting the month progress<br>&#x2714; highly visible watch hands<br>&#x2714; black ambient state on devices with an Amoled or Oled screen<br>&#x2714; animations from ambient to interactive state<br>&#x2714; responds to peek cards by moving the indicators to the top section<br><br><br>To install:<br>1. After install run &apos;Resync app&apos; on Android Wear App.<br>2. Long press your android wear watch and choose Pujie Blue as you watch face<br><br>Compatible with Moto360, LG G Watch R, LG G Watch, Samsung Gear Live, Sony Smartwatch 3 &amp; Asus ZenWatch.<br><br>Check out my other watchfaces too at: http://goo.gl/OxiezW<br><br>!! Please contact me if you have any trouble installing the app !!",
+    "histogram": {
+        "1": 5,
+        "2": 5,
+        "3": 7,
+        "4": 9,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/IuL4ObmAK2bVhg42Sc9hQnBocz7k3edYlI4rIei6xX2UTaKcl1ubxE-iUruFGphb_w=h310",
+        "//lh4.ggpht.com/QmbAihIJ9f29eFhVzVE-qVxb82JUEdcbDVLFpyuZfDRI3nLe9ca8hm90GxKvhAFarSus=h310",
+        "//lh6.ggpht.com/PkdRVaarIOoks2-WP7_NsJa3md-6_JaNnvuEC3_Vp8qwBvUQXuaoXJqh1BOOk9tMlQ=h310",
+        "//lh3.ggpht.com/hj95yvPdt6fUUGfB2tB_ZwWw7XsIpg1HS6e_5g-iMhR3M6Eru8YmUKna6AUIEgsEnLoN=h310"
+    ],
+    "comments": [
+        "The best I've seen. Even though this may be less flexible than the black face (which I have) these are still the best quality faces for my LG R out there. The quality of the rendering is superb. Worth every penny, thanks.",
+        "Looks blurry on Moto 360 The watch face looks blurry on my Moto 360.",
+        "Looks great, but more custom option's please. Some more settings please though dev, like the black version which has many options for customising.",
+        "Help! Can't find face? Download and install but can't find app.. Really like the black version got this one bec  I want the same thing just white background.",
+        "Nice watch face Needs more settings!",
+        "Never shows up on my lg watch r urban"
+    ],
+    "recentChanges": [
+        "v 2.0.3",
+        "- Android Wear 5.0 Support!",
+        "- Indicators move up when peek card is visible",
+        "- Black ambient mode on devices with Oled or Amoled screens"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.pujie.wristwear.pujieb&hl=en&gl=us",
+    "appId": "com.pujie.wristwear.pujieb"
+}

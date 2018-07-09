@@ -1,0 +1,56 @@
+{
+    "title": "Memory Info for Wear",
+    "summary": "Display information about the Memory, RAM and CPU of and on your Android Wear",
+    "icon": "//lh5.ggpht.com/fww8oYiz1qum8RH_AkPQB86ZUL0y5JVjPoUwJGGLcdQMU0pJOhhQlH_7Z1kSXLPTlw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4,
+    "reviews": 777,
+    "developer": "Abdulla Eqab",
+    "developerId": "Abdulla+Eqab",
+    "developerEmail": "AHEqab@gmail.com",
+    "developerAddress": "American University of Sharjah\nPOBox 26666 Key 128",
+    "updated": "February 3, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "A small app for your Android Wear device that provides information aboutInternal Memory (Available and Total)RAM (Available and Total)CPU Usage To switch to details mode, click on one of the icons on the main screen,Please note: This app is only for Android Wear SmartWatches. It supports both Squared  (LG G Watch, Samsung Gear Live...) and Round (Moto 360...) watches.",
+    "descriptionHTML": "A small app for your Android Wear device that provides information about<br><br><b>Internal Memory (Available and Total)<br><br>RAM (Available and Total)<br><br>CPU Usage </b><br><br><br>To switch to details mode, click on one of the icons on the main screen,<br><br>Please note: This app is only for Android Wear SmartWatches. <br><br>It supports both <b>Squared </b> (LG G Watch, Samsung Gear Live...) and <b>Round</b> (Moto 360...) watches.",
+    "histogram": {
+        "1": 62,
+        "2": 37,
+        "3": 103,
+        "4": 202,
+        "5": 373
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/kOqAFDunm21HPatfQo3mF91ugW2j31jXrix8G-9AodPgC55o8nEFAgbeevgRJpMfcA=h310",
+        "//lh3.ggpht.com/l_7W4ovygIkqgapFFJbzJ6YzTzOSIf8dpfKvQR4yrX7lCdwgy5u3uqn72Ac-UYKVdA=h310",
+        "//lh3.ggpht.com/VmoEuQWpJprp9Oih7OhKH_Eloit96gJ39nv6e-pgAV3NHrSAq9_C23DFWLZf5JKyHA=h310"
+    ],
+    "comments": [
+        "Simple, good, yet one flaw I can't get over the incorrect naming used: storage is incorrectly named \"memory\" in this app. Memory and RAM are the same thing. Storage is something else entirely. The first tab needs to be named \"storage\".",
+        "Very good This app could be much better. The CPU updates are a bit slow and the graphics seem childish, otherwise minimalistic and great. I like the icon.",
+        "Hmm, opened it once, crashed, then stated not installed. Rebooted & hoping for the best... Didn't really work for me...",
+        "Does exactly what it says! Clean interface, useful app. A very good addition to my LG G Watch Urbane.",
+        "Too simplistic and little useful information displayed.",
+        "Great app The app works great on the LG G Watch. It would be great if you could see more information inside the app."
+    ],
+    "recentChanges": [
+        "- No more freezes",
+        "- App is much more stable",
+        "- Fast CPU updates",
+        "- Removed app icon from phone"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aheqab.memoryinfoforwear&hl=en&gl=us",
+    "appId": "com.aheqab.memoryinfoforwear"
+}

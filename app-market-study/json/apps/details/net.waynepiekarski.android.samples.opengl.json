@@ -1,0 +1,46 @@
+{
+    "title": "WP OpenGL Data API Sample",
+    "summary": "OpenGL Android demo combined with DataLayer sample on Android Wear",
+    "icon": "//lh4.ggpht.com/E9iU-jH6xBNWdkjI4VYULK5Zp8I2iuR2DuIq8u9rTErPRCl45QK4s53PB2uBmZQbA782=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 5,
+    "developer": "Wayne Piekarski",
+    "developerId": "Wayne+Piekarski",
+    "developerEmail": "android@waynepiekarski.net",
+    "developerWebsite": "http://plus.google.com/+WaynePiekarski",
+    "developerAddress": "1600 Amphitheatre Parkway\nMountain View, CA, 94043",
+    "updated": "June 15, 2015",
+    "version": "2015/06/15 23",
+    "genre": "Libraries & Demo",
+    "genreId": "LIBRARIES_AND_DEMO",
+    "description": "OpenGL Android demo combined with DataLayer sample on Android Wear to synchronize interactions between devices",
+    "descriptionHTML": "OpenGL Android demo combined with DataLayer sample on Android Wear to synchronize interactions between devices",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/h37k133kCKiwEurluxZV6KzlqlIbHBSJNG1hGBqpZ0-iOliIxZVuEZ0tP0GWkIcTPM8=h310",
+        "//lh5.ggpht.com/f8aINjbuzy_cl95PnOM3AtWYlTV_So1sdHRDznnTMse62_HC0DFlPB4IkpicI3Z6Iw=h310"
+    ],
+    "comments": [
+        "Useful for devs I guess",
+        "Show's that wear and phone interaction is possible"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.waynepiekarski.android.samples.opengl&hl=en&gl=us",
+    "appId": "net.waynepiekarski.android.samples.opengl"
+}

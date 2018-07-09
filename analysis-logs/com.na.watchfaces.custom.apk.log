@@ -1,0 +1,89 @@
+Soot started on Thu Jun 21 11:52:21 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.na.watchfaces.custom.CustomWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.na.watchfaces.custom.apk
+[INFO] MySceneTransformer: ############## com.na.watchfaces.custom.CustomWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   73
+[INFO] FlowGraph: @@@@ Total Methods: 255
+[INFO] FlowGraph: @@@@ Total Stmts:   12378
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19), (unregister_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19), (unregister_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19), (unregister_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19), (unregister_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19), (unregister_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19), (unregister_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19), (register_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19), (unregister_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.na.watchfaces.custom.BaseWatchface$BaseEngine]9975,19), (unregister_sensor_listener,This[com.na.watchfaces.custom.CustomWatchFaceService$Engine]196,19)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r3_11=[-1, 0], $r4_2=[-1, 0], $r2_17=[-1, 0], $r3_13=[-1, 0], $r2_11=[-1, 0], $r5_2=[-1, 0], $r1=[-16777216], $r2_12=[-1, 0], $r2_16=[-1, 0], $r2_18=[-1, 0], $r2_13=[-1, 0], $r3_8=[-1, 0], $r2_10=[-1, 0], $r3_9=[-1, 0], $r2_15=[-1, 0], $r5_3=[-1, 0], $r3_16=[-1, 0], $r3_17=[-7829368, 0], $r3_10=[-7829368, 0], $r3_12=[-1, 0], $r3_15=[-7829368, 0], $r2_9=[-1, 0], $r2_14=[-1, 0], $r3_14=[-7829368, 0]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r4=[-1], $r3_1=[-15658735], $r3=[-15658735], $r6_2=[-15658735], $r6_2=[-15658735], $r6_2=[-15658735], $r4=[-1]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ff111111]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 7.749000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 11:52:32 EDT 2018

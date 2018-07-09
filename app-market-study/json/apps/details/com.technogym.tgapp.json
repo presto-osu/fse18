@@ -1,0 +1,55 @@
+{
+    "title": "Technogym",
+    "summary": "Technogym is the application that helps you lead a more healthy and active life.",
+    "icon": "//lh3.googleusercontent.com/lGW83peQ6iDO9xoVZmoOHPzDUiutAZReFKpPmavc2RIHbt6IGKhxiTMjM9vaHY7DEMPK=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.7,
+    "reviews": 480,
+    "developer": "Technogym SpA",
+    "developerId": "Technogym+SpA",
+    "developerEmail": "app@technogym.com",
+    "developerWebsite": "http://www.mywellness.com",
+    "developerAddress": "Technogym SpA\nvia Calcinaro, 2861\n47521 Cesena (FC)",
+    "updated": "February 21, 2017",
+    "version": "2.9.1",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "The Technogym App is the application that helps you lead a more healthy and active life.Measure and analyze the intensity of your activities  through the Movergy Index, an innovative index that allows you to know immediately how active you are in every moment of your daily life. Every single activity you do, such as outdoor running, bike riding with friends, evening stretching exercises or gym workouts allow you to collect MOVEs. Use Movergy Index to reach your daily goal and to help you to keep a more healthy and active life.The best way to keep yourself in shape is starting to move.In the Workout Section, every day we will suggest you a workout tailored to you. Or if you wish to change, you can simply click on “choose your workout” and discover all workouts organized according to needs and levels. In the “Outdoor” section you can track your outdoor running, a bike ride or a simple walking in the park. A huge effort is not necessary to healthy life, but improving your activity day by day.Last but not least, in the “Results” section you can monitor all the activities you do in a gym with our equipment or with your Mywellness account.",
+    "descriptionHTML": "The Technogym App is the application that helps you lead a more healthy and active life.<br><br>Measure and analyze the intensity of your activities  through the Movergy Index, an innovative index that allows you to know immediately how active you are in every moment of your daily life. Every single activity you do, such as outdoor running, bike riding with friends, evening stretching exercises or gym workouts allow you to collect MOVEs. Use Movergy Index to reach your daily goal and to help you to keep a more healthy and active life.<br><br>The best way to keep yourself in shape is starting to move.<br>In the Workout Section, every day we will suggest you a workout tailored to you. Or if you wish to change, you can simply click on &#x201C;choose your workout&#x201D; and discover all workouts organized according to needs and levels. <br><br>In the &#x201C;Outdoor&#x201D; section you can track your outdoor running, a bike ride or a simple walking in the park. A huge effort is not necessary to healthy life, but improving your activity day by day.<br><br>Last but not least, in the &#x201C;Results&#x201D; section you can monitor all the activities you do in a gym with our equipment or with your Mywellness account.",
+    "histogram": {
+        "1": 80,
+        "2": 43,
+        "3": 55,
+        "4": 77,
+        "5": 225
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_O7krChbn3RT4W95i-Y35NsysaPaNErBvkxBerxOX2EEK8c_Z4TXd17sHH-P9i_GIvs=h310",
+        "//lh3.googleusercontent.com/gq19qiSSiCk6Rc0IVEaOG_V0-ZpqWhgVpBQfEM_o26nCoCOytJhYjDS3wNPgerJrNw=h310",
+        "//lh3.googleusercontent.com/P_hSP3uSd8_wmxY9xLH3dj3A7ZkfW0oGL_1zXW4RDSitzU-xaJd6A5ZpEtNl_8m0Drw=h310",
+        "//lh3.googleusercontent.com/pAZVYogCWtAkl7e9-ansN_NVGaXuxQPs6z24NJsv8TJptpt-vpFfmo0dmcTD3mGTZjbK=h310",
+        "//lh3.googleusercontent.com/EIw61SgSFljKCcz_IL7Jxrecc2Yq6TKIoPoRDIk8ojtNRDXB3VhWtdAn2N6jBq0BPaQ=h310"
+    ],
+    "comments": [
+        "The app sync with other sport apps works very slow and has small bugs. For example, I linked it with the Polar account and after I follow all the steps for that, it still shows them not connected in the linked accounts section. They are connected but it shows them like they are not. I accepted the invitation in my polar flow app.",
+        "Useless. Impossible to get it open.  I registered then it wouldn't let me in but took me to another registration screen in Italian. Then said my email was already registered.  I tried to log in again but it said I had put the wrong email/ password. Uninstalling",
+        "Can't log in with Facebook account. If you offer that option, it should work. Personal opinion. Waste of time.",
+        "Came up in spanish or some such. To input birth date I need to scroll back from todays date 1 month at a time. Total waste of time.",
+        "App would not even let me in. Just hangs up on a blank loading screen after login.",
+        "Waste of time. Cannot log in nor can you create account. App just doesn't work."
+    ],
+    "recentChanges": [
+        "2.9.1 Let's move for a better world"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.technogym.tgapp&hl=en&gl=us",
+    "appId": "com.technogym.tgapp"
+}

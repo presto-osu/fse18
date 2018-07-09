@@ -1,0 +1,55 @@
+{
+    "title": "Search button for ZenWatch 3",
+    "summary": "Assign Voice Search and Now Feed to hardware buttons on watches with 3 buttons",
+    "icon": "//lh3.googleusercontent.com/2BYmiG8Iwo0U59TWCNHaIwiJ6tm2d59m_xoeN2tenKcEVOADiAx60_dupTqFXz5ayMI7=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 10,
+    "developer": "DYNA Logix",
+    "developerId": "6165670359285464177",
+    "developerEmail": "dyna.logix.hu@gmail.com",
+    "developerAddress": "DYNA Logix\nBudapest\nHidasz 7\nH-1026",
+    "updated": "February 16, 2017",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app is only a proxy which calls the default Voice Search app on your watch. Android Wear 2.0 compatible standalone wearable app SETUP► Wait for the Android Wear component to get installed on the watch► Open Button Setting on your ZenWatch 3► Pick a button (Top or Bottom)► Select \"Button to Search\" in the list of appsor► Select \"Feed\" in the list of apps Only useful on Android Wear watches with customizable hardware buttons► ASUS ZenWatch 3 (Android Wear 1.5 and 2.0)► LG Watch Urbane 2 (Android Wear 2.0)► LG Watch Sport (Android Wear 2.0) Cannot be assigned to main button. Does nothing on watches with one button! TROUBLESHOOTINGA few users found that the watch component of the app did not transfer immediately to the watch. Unfortunately it is outside of my control how quickly Android Wear \"discovers\" newly installed apps... Here are a few things you can try:► Make sure you look for my app under the name \"Button to Search\" on the watch► Wait► Reboot the watch► Reboot watch and phone at the same time► Resync All (from Android Wear app on the phone) → But please know that the complete resync process can take as long as 20 minutes, because then every app is re-transferred and re-installed on the watchConnection problems are usually caused by outdated or non-matching Android Wear and Google Play Services versions on the phone or watch:► Update your Android Wear app from the Play Store: https://play.google.com/store/apps/details?id=com.google.android.wearable.app► You can try to manually update Google Play Services from APKMirror NEW: GOOGLE NOW FEED BUTTON► A second command appears that you can also assign to one of the buttons: \"Feed\"",
+    "descriptionHTML": "This app is only a proxy which calls the default Voice Search app on your watch.<br>&#xA0;<br>Android Wear 2.0 compatible standalone wearable app<br>&#xA0;<br><b>SETUP</b><br>&#x25BA; Wait for the Android Wear component to get installed on the watch<br>&#x25BA; Open Button Setting on your ZenWatch 3<br>&#x25BA; Pick a button (Top or Bottom)<br>&#x25BA; Select <i>&quot;Button to Search&quot; in the list of apps<br>or<br>&#x25BA; Select <i>&quot;Feed&quot; in the list of apps<br>&#xA0;<br>Only useful on Android Wear watches with customizable hardware buttons<br>&#x25BA; ASUS ZenWatch 3 (Android Wear 1.5 and 2.0)<br>&#x25BA; LG Watch Urbane 2 (Android Wear 2.0)<br>&#x25BA; LG Watch Sport (Android Wear 2.0)<br>&#xA0;<br><b>Cannot</b> be assigned to main button. Does nothing on watches with one button!<br>&#xA0;<br><b>TROUBLESHOOTING</b><br>A few users found that the watch component of the app did not transfer immediately to the watch. Unfortunately it is outside of my control how quickly Android Wear &quot;discovers&quot; newly installed apps... <br><br>Here are a few things you can try:<br><br>&#x25BA; Make sure you look for my app under the name <b>&quot;Button to Search&quot;</b> on the watch<br>&#x25BA; Wait<br>&#x25BA; Reboot the watch<br>&#x25BA; Reboot watch and phone at the same time<br>&#x25BA; Resync All (from Android Wear app on the phone) &#x2192; <i>But please know that the complete resync process can take as long as 20 minutes, because then every app is re-transferred and re-installed on the watch</i><br><br>Connection problems are usually caused by outdated or non-matching Android Wear and Google Play Services versions on the phone or watch:<br><br>&#x25BA; Update your <b>Android Wear app</b> from the Play Store: https://play.google.com/store/apps/details?id=com.google.android.wearable.app<br>&#x25BA; You can try to manually update <b>Google Play Services</b> from APKMirror<br>&#xA0;<br><b>NEW: GOOGLE NOW FEED BUTTON</b><br>&#x25BA; A second command appears that you can also assign to one of the buttons: &quot;Feed&quot;</i></i>",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/eWoncEJEGHSgCoqoRuL32e9fmk9oROIrpswlnOZ6i89BzvCgKYLjGUR0rxse3Rx9gg=h310",
+        "//lh3.googleusercontent.com/_X1I_y1PpcgsPmiln-yhF8K8mX6oeCexGVbwXk611xvXr9GouWKUVqh6h-u8bLtuC9c=h310",
+        "//lh3.googleusercontent.com/AnMK8low-5t5vwvHpV_vc2g-h12leHC1fBXw8R3hvJHkNuyZMaKojVFnDrFH3ihQRVZh=h310",
+        "//lh3.googleusercontent.com/YSKn5RI4QrHLa-bg4S-_LowBy9dB84j8dI6KkDyUcfJ3eY159NrwvNHNP6WXBDGABg=h310",
+        "//lh3.googleusercontent.com/TcykbQE7lwnjfrw7WpG6I-xyWgpLZS9YFnXDivwO4hpEr3EpBEJPSwJHUafY_iONlfI=h310"
+    ],
+    "comments": [
+        "Spot on.. No more \"OK Google\"!",
+        "Works well. 2 minor things:   1 when activating voice search, the ZenWatch 3 goes through the app screen. It'd be nice if it was bypassed completely, if possible.   2 Google Now Cards cannot be assigned to a button. Again, if possible, it'd be a nice addition.   Still running version one of Android Wear.",
+        "Useful idea! I'm sure a lot of people will find this useful",
+        "I would like to say this save you from needing to toggle to or say okay google. You are able to directly just talk to your watch which makes it less akward when out.  The one thing to note is that it took a while for this to show up on my watch but it did show up and was as simple as assigning it to one of the two button on my Zenwatch 3.",
+        "Great little app Saves me the \"ok Google\"  step and opens up the speak now at the push of a button. Really useful",
+        "Simple and to the point App works as described looking forward to seeing what else is brought to the ZW3"
+    ],
+    "recentChanges": [
+        "v1.03: Second button: Google Now Feed",
+        "v1.02: Standalone Android Wear 2.0 app",
+        "v1.01: Quicker, smoother startup when pressing the button"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=dynalogix.searchbuttonforzenwatch3&hl=en&gl=us",
+    "appId": "dynalogix.searchbuttonforzenwatch3"
+}

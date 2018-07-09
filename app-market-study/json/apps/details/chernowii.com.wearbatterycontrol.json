@@ -1,0 +1,48 @@
+{
+    "title": "[Root] Wear Battery Control",
+    "summary": "An Android Wear app to control the battery saver on your Android 5.0+ device.",
+    "icon": "//lh3.googleusercontent.com/KqyCayINP-idHRq0zILV1tZXcZ7hgpABHOPx0c3CFnhHNrJS4YpM-Nz-rHWQHyG-BB0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.1,
+    "reviews": 14,
+    "developer": "Konrad Iturbe - Chernowii",
+    "developerId": "8327692895936242590",
+    "developerEmail": "mail@chernowii.com",
+    "developerWebsite": "http://chernowii.com",
+    "developerAddress": "The internet\nAFK: Calle Timoteo Padros 14, 28200 El Escorial, Madrid, Spain",
+    "updated": "February 1, 2016",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "NOTE: The app needs the phone to be rooted and running 5.0 Lollipop or higherWear Battery Control is an app to switch On or Off the battery saver on your phone, when your phone is at low battery level it kicks a mode called battery saver which reduces the 3G working time, GPS, WiFi, using this app you can switch on or off the battery saving modeSource code: https://github.com/KonradIT/WearBatteryControl",
+    "descriptionHTML": "<b>NOTE: The app needs the phone to be rooted and running 5.0 Lollipop or higher</b><br><br>Wear Battery Control is an app to switch On or Off the battery saver on your phone, when your phone is at low battery level it kicks a mode called battery saver which reduces the 3G working time, GPS, WiFi, using this app you can switch on or off the battery saving mode<br><br>Source code: https://github.com/KonradIT/WearBatteryControl",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/A0GX7HS5fxa-zF-CWdtj8RTOsuYKTm0ZQ284JswD79I3xSW8ZMu3CW3p2kUKla8SzW0=h310",
+        "//lh3.googleusercontent.com/GgdRSmSc5uZctQtLRbd0W0wAmTIAVu3Q0-3dSYXwaE4altoB0AmRbMJmqhrGL9lFog=h310",
+        "//lh3.googleusercontent.com/vf8TAcEsvePreM_trLNwMD6cmaQ5JBB8t7viU0y5cajDMtIkpL8i_Pitf2qGNqaOtg=h310"
+    ],
+    "comments": [
+        "Nice Great app.  When I'm busy like doing a test it saves me big time.",
+        "Nothing Nothing happens when I press turn on",
+        "Nice"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=chernowii.com.wearbatterycontrol&hl=en&gl=us",
+    "appId": "chernowii.com.wearbatterycontrol"
+}

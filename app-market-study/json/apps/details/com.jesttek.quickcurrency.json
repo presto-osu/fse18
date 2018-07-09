@@ -1,0 +1,50 @@
+{
+    "title": "Quick Currency",
+    "summary": "Quickly check crypto-currency exchange rates on your smartwatch, phone or tablet",
+    "icon": "//lh6.ggpht.com/rVcoh4sYhRm2Ju91otc5jq0Ti1XAOm1BO-GzeTllCXOYLqr317ISefZS7-CeHfGKkdOa=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 3,
+    "developer": "jesttek",
+    "developerId": "jesttek",
+    "developerEmail": "jesttek@gmail.com",
+    "updated": "June 6, 2015",
+    "version": "3.2",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Check the exchange rate between a range of crypto-currenices from your smartwatch or with widgets on your phone and tablet.Currently supports the currencies:bitcoin, dogecoin, litecoin, darkcoin, monero and usd on exchanges:bitfinex, coinbase, bitstamp, kraken, poloniex, cryptsy, btce and btermore to be added",
+    "descriptionHTML": "Check the exchange rate between a range of crypto-currenices from your smartwatch or with widgets on your phone and tablet.<br><br>Currently supports the currencies:<br>bitcoin, dogecoin, litecoin, darkcoin, monero and usd <br><br>on exchanges:<br>bitfinex, coinbase, bitstamp, kraken, poloniex, cryptsy, btce and bter<br><br>more to be added",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/rSopXZBrNVEHiessHU3k__97rEMwp7VYcPvNuRJXmO8lsiFY7aVCcIv8Jb_OEMkDgA=h310",
+        "//lh5.ggpht.com/Hut_FW1-UGNpGiZHO_q5ZL3fQyPcxMmDoAwRz4ladfjCOflU2kYnFoEvEvsZaQkOEzA=h310",
+        "//lh4.ggpht.com/EQLk343GcGoWGRUdHvXdsTdNqg5rysDWeTdq0rgvUipP0Bj1B6SOPv6Sx8BxwG2iIf0=h310",
+        "//lh3.ggpht.com/QukdZttWR8hdTyCdcqbAXEqojHkNgcI3LFhe6msxIGVNCoz8OpgqE3zRPT4OkQ5fZQ=h310",
+        "//lh5.ggpht.com/aHkMhPYGc4JIoTnT-MxhjIco3YY_P3yuw6gujdqfkMQilVeLucGWP891gAAhHVwtCZY=h310",
+        "//lh4.ggpht.com/T9iOppGQWk7CzdYgVKfO8eOCZmdpZ8C31T1FZ_rJrBPGzaZOWTMKYc0AbGlfY0uudw=h310"
+    ],
+    "comments": [
+        "Cool! Just what I need /widgets on phone / really like it so far /kit kat",
+        "Just what I was looking for!"
+    ],
+    "recentChanges": [
+        "Fixed memory error"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jesttek.quickcurrency&hl=en&gl=us",
+    "appId": "com.jesttek.quickcurrency"
+}

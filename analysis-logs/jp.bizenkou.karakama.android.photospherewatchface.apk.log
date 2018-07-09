@@ -1,0 +1,119 @@
+Soot started on Thu Jun 21 13:11:14 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: jp.bizenkou.karakama.android.photospherewatchface.PhotoSphereWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/jp.bizenkou.karakama.android.photospherewatchface.apk
+[INFO] MySceneTransformer: ############## jp.bizenkou.karakama.android.photospherewatchface.WatchService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   893
+[INFO] FlowGraph: @@@@ Total Methods: 7003
+[INFO] FlowGraph: @@@@ Total Stmts:   122034
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.RendererGles3]72514,-1), (unregister_sensor_listener,NEW[new jp.bizenkou.karakama.android.photospherewatchface.Renderer]13224,-1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 151.586000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:13:50 EDT 2018

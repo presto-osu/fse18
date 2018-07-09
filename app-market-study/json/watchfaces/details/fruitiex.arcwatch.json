@@ -1,0 +1,52 @@
+{
+    "title": "Arc Watch",
+    "summary": "Minimalistic Android Wear watchface for round and square watches.",
+    "icon": "//lh3.googleusercontent.com/O15OrxLWLfQDtfjk-MVPw8oWMmwDEMjpKhFMMHqLhu58AC-vUpM4BVwYLAPk9e_w5g5S=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4.7,
+    "reviews": 3,
+    "developer": "FruitieX",
+    "developerId": "FruitieX",
+    "developerEmail": "fruitiex@gmail.com",
+    "developerAddress": "Servin Maijan Tie 12 C 34,\n02150,\nFinland",
+    "updated": "July 1, 2015",
+    "version": "1.6",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Sleek and minimalist watch face for Android Wear. Represents hour and minute pointers as arcs of varying lengths. Long press the watch face and click the little gear icon at the bottom to configure watch face colors and toggle 12 / 24 hour mode.The watch face supports both burn-in protection and low-bit mode for watches that use these.Troubleshooting:Sometimes it takes a little while to install new watch faces over a slow Bluetooth connection. Wait at least a few minutes after installing on phone, by then watch face should be installed on the watch as well. Try reinstalling or re-syncing all apps to the watch if it still fails. This unfortunately affects all third party watch faces on Android Wear.Sources are available at:https://github.com/FruitieX/ArcWatchSuggestions and feature requests are welcome!",
+    "descriptionHTML": "Sleek and minimalist watch face for Android Wear. Represents hour and minute pointers as arcs of varying lengths. Long press the watch face and click the little gear icon at the bottom to configure watch face colors and toggle 12 / 24 hour mode.<br><br>The watch face supports both burn-in protection and low-bit mode for watches that use these.<br><br>Troubleshooting:<br>Sometimes it takes a little while to install new watch faces over a slow Bluetooth connection. Wait at least a few minutes after installing on phone, by then watch face should be installed on the watch as well. Try reinstalling or re-syncing all apps to the watch if it still fails. This unfortunately affects all third party watch faces on Android Wear.<br><br>Sources are available at:<br>https://github.com/FruitieX/ArcWatch<br><br>Suggestions and feature requests are welcome!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XfFSqZAdpn5agW4RM-BSm37YDf2uY69X1I8JwEg2P2n7Lbq7xAHo9OY_8m2ONGbyuyk=h310",
+        "//lh3.googleusercontent.com/H1ugYdYPXR6krIHyBwHlfoh4cbsaQu1IRbsbIVH_QhCVYMkkBoSowIIkwb_bRUzuzCs=h310",
+        "//lh3.googleusercontent.com/E0714vf9s_6JWAkPcufNZcOMNDNk-t3JnoKTeFbMIBg4rZ6wtVW4TRIN4YNTghHOcu0=h310",
+        "//lh3.googleusercontent.com/eapVgDeWvrJyXCxBNr5hD2OZAxHEtms_6uqYmC-U_jpOaCI4gGMTJxUmnULEGxWuEpZV=h310",
+        "//lh3.googleusercontent.com/SwtRwzWbNi6oDyWjDUuAadYg4ndI0ZQIabpMwC7UCenguU_zmoy9J0CR4jFwzc3A84c=h310",
+        "//lh3.googleusercontent.com/T7jPDxIyVx_YYKheHUUK8XeGuYSOx7lkxIBhzfdmGrN4iCuiIrQxgQFIPp7k71PucDrm=h310",
+        "//lh3.googleusercontent.com/61yMOn_W1yP_Qi3SBhWCRiOHEgT8C9RDYhwD4-nhmsoQ0Ay9QwfIpgmYsbJck1EDz6Q=h310",
+        "//lh3.googleusercontent.com/tOM1k0ZrE-ICStHlrZVJP0a4AsAO0dbPVWN4lJd7I28wisMXwLEsUjcCc1TrCoKyeOc=h310"
+    ],
+    "comments": [
+        "Doesn't work Update. I eventually got it working and it's fantastic.  Great watch face."
+    ],
+    "recentChanges": [
+        "- 12h mode fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fruitiex.arcwatch&hl=en&gl=us",
+    "appId": "fruitiex.arcwatch"
+}

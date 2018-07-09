@@ -1,0 +1,56 @@
+{
+    "title": "Rokontrol",
+    "summary": "Remote control app for Roku",
+    "icon": "//lh3.googleusercontent.com/Rx7ds9rnbvuTL0-qM_cOyg0wXHch5hD9juHQGFejF2UOyLy553ONDnxcmdmO58oDkQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3,
+    "reviews": 20,
+    "developer": "Keditek LLC",
+    "developerId": "Keditek+LLC",
+    "developerEmail": "support@rokontrol.com",
+    "developerWebsite": "http://rokontrol.com",
+    "developerAddress": "10430 Morado Cr\nAustin, TX 78759",
+    "updated": "December 29, 2015",
+    "version": "1.0.1",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Rokontrol is a remote control app for your Roku with a focus on design and usability.  Using Rokontrol to watch TV is natural and easy to use and feels list a traditional remote control.",
+    "descriptionHTML": "Rokontrol is a remote control app for your Roku with a focus on design and usability.  Using Rokontrol to watch TV is natural and easy to use and feels list a traditional remote control.",
+    "histogram": {
+        "1": 8,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/5EB-3ObNHOS9TtF254mmqYUl65P9fM64ple9iaIzDILVR_aVSSLEVeMdCrXkh1xeGjs=h310",
+        "//lh3.googleusercontent.com/iVYq7BH80vchMevsBV_N1CEUWk5uD1-Y7R5kosuHDmgjU6zwc_hr6Op1Vf7BJJ0ajA=h310",
+        "//lh3.googleusercontent.com/q71SJU5LV8_9UoH3w6FiYC-FGBRv0zY1usonDYiCZ_p5UsTVsCIB_D0CaCjhpdAQVjY=h310",
+        "//lh3.googleusercontent.com/bDYVJZSp3lagDWR5F5EtLeOfMI056sMSkuXX5G-tcLvQsUXLpILkFaK2D_aylz_1e0o=h310",
+        "//lh3.googleusercontent.com/2oVwxlGBPbUyrfz5p89P8ordTtnYaJsyF1heJniCzwKwZI8og9ltrFbHpBFBifQWC6A=h310"
+    ],
+    "comments": [
+        "Doesn't work Every button arrow button I touch only the middle works",
+        "Good but.. This app is good but you should add a play/pause button, especially for the Android Wear",
+        "Suck This remote sucks",
+        "This  app sucks",
+        "Another app that never opens Crashes immediately, can't tell if it is any good since I can't even open the app.",
+        "Just what I needed! Handles switching between different Rokus awesome!"
+    ],
+    "recentChanges": [
+        "- Bug fixes",
+        "- Android Wear support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rokontrol.android&hl=en&gl=us",
+    "appId": "com.rokontrol.android"
+}

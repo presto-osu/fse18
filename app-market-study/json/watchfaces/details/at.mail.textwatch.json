@@ -1,0 +1,45 @@
+{
+    "title": "Text Uhrzeit",
+    "summary": "&quot;Text Uhrzeit&quot; is a watch face for Wear, which shows the time as text in german.",
+    "icon": "//lh6.ggpht.com/H8rXhUnyy7tuIpqcqfIj0iefcGYLac0zozALlp8bl_xIAz6iedjILh-dWCMfI5LlkjR4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 9,
+    "developer": "Alexander Terczka",
+    "developerId": "Alexander+Terczka",
+    "developerEmail": "alex@mail.at",
+    "developerWebsite": "http://mail.at/",
+    "updated": "December 13, 2014",
+    "version": "2.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "\"Text Uhrzeit\" is a watch face for Android Wear, which shows the time as written text in german.2:32pm is \"kurz nach halb drei\"",
+    "descriptionHTML": "&quot;Text Uhrzeit&quot; is a watch face for Android Wear, which shows the time as written text in german.<br><br>2:32pm is &quot;kurz nach halb drei&quot;",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/VUjmCdTAaxyW1icRfZa22uQ_Q19YaI_p5ySoUwb7ShCf-0YEXzAchbT2pAYvVbgoCGSo=h310",
+        "//lh3.ggpht.com/8WiSc9VlXwfxg6AGm5dojJav5ctMOF5csc_n0vSkfJZTEmadcvnSXG-MjWCQ9qKmlzU=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Die Android 5.0 API ermöglicht einen Konfigurationsdialog zum",
+        "Einstellen der Textfarbe!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=at.mail.textwatch&hl=en&gl=us",
+    "appId": "at.mail.textwatch"
+}

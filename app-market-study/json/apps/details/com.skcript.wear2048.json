@@ -1,0 +1,51 @@
+{
+    "title": "2048 for Android Wear",
+    "summary": "World&#39;s most popular puzzle game, 2048 is now available for your Android Wear.",
+    "icon": "//lh6.ggpht.com/_SNd83r1c4_meqT2zCcsCMMBlPEsTLO3X8uvivEa_UxSIIhdJfQ7nlpiRq_WbsSHAYY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 39,
+    "developer": "Skcript Technologies Pvt. Ltd.",
+    "developerId": "Skcript+Technologies+Pvt.+Ltd.",
+    "developerEmail": "karthik@skcript.com",
+    "developerWebsite": "http://www.skcript.com",
+    "updated": "August 11, 2014",
+    "version": "1.0.1",
+    "genre": "Puzzle",
+    "genreId": "GAME_PUZZLE",
+    "description": "The \"Candy Crush\" for math geeks, 2048 is now available for Android Wear. The game is pretty straight forward, and if you are looking at this App Description page, then you might know how to play it on a smartphone or tablet or desktop or even web. To install 2048 on Android Wear, just download this app on your Smartphone, and Re-sync all the apps to your Smartwatch (LG G Watch or Samsung Gear Live).****Coming Up:****Improved Score card, Sharing option (Directly from Wear), dynamic tile colors and subtle animation. If you would like to support us, please give us your feedback, and we will do as much as possible to make this game better on Android Wear. :)Have fun.",
+    "descriptionHTML": "The &quot;Candy Crush&quot; for math geeks, 2048 is now available for Android Wear. The game is pretty straight forward, and if you are looking at this App Description page, then you might know how to play it on a smartphone or tablet or desktop or even web. <br><br>To install 2048 on Android Wear, just download this app on your Smartphone, and Re-sync all the apps to your Smartwatch (LG G Watch or Samsung Gear Live).<br><br>****<br>Coming Up:<br>****<br>Improved Score card, Sharing option (Directly from Wear), dynamic tile colors and subtle animation. <br><br>If you would like to support us, please give us your feedback, and we will do as much as possible to make this game better on Android Wear. :)<br><br>Have fun.",
+    "histogram": {
+        "1": 5,
+        "2": 6,
+        "3": 6,
+        "4": 14,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/M3cO96lB_uiAIB0NuOKFHEcazmqSwGoGW-5d9PJyR7XN1yqnESGzNo_LQdq537A8EH0=h310",
+        "//lh5.ggpht.com/DvOnJECM0ugfARbzs2vwwRmMoNonFqwViV6Mju-aKCCAQPEg3oD3qD0W5WABtwJG7hpM=h310",
+        "//lh3.ggpht.com/TbhaqEXHSvBuqYLGBICo6V1qEbaiHDltJxLY2SgNerKdVoai_UAeVkdq_WqjY8MPxQ=h310"
+    ],
+    "comments": [
+        "Not bad It's good, but doesn't look very nice on a round screen. Still, it's enough to keep me distracted at work.",
+        "Unplayable It automatically combines numbers I didn't ask it to, doesn't have any animation, and one time I combined two 64 tiles and it made a 102 tile.  Nowhere near as good as the original game"
+    ],
+    "recentChanges": [
+        "- Removed the share option for now. It's coming back in the next release",
+        "- Fixed a bug where the app will not respond after resuming the game",
+        "- Testing sharing feature: Sharing from the Smartwatch will be enabled once you hit 2048. :)",
+        "- Subtle animations for the numbers moving between tiles are coming in the next release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.skcript.wear2048&hl=en&gl=us",
+    "appId": "com.skcript.wear2048"
+}

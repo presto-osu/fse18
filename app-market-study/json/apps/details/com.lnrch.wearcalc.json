@@ -1,0 +1,54 @@
+{
+    "title": "Wear Calculator",
+    "summary": "Wear Calculator reimagines the calculator for Smartwatches.",
+    "icon": "//lh3.googleusercontent.com/7xFyjpgUYwVfxg4fEDbnla4IAtIfm8ZYwPCCd28ndhZVDjmaCr0jLy-I6lMbrJqhjXA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.5,
+    "reviews": 6,
+    "developer": "CandidApps",
+    "developerId": "CandidApps",
+    "developerEmail": "support@candidapps.com",
+    "developerWebsite": "https://www.candidapps.com",
+    "developerAddress": "Alan Eurich,\nBirsteiner Str. 34,\n63636 Brachttal,\nDeutschland",
+    "updated": "July 31, 2015",
+    "version": "1.2",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "The normal Calculator Input tends to be really hard on small Smartwatch Displays. Wear Calculator tries to solve this problem by providing a unique way of entering your wished number. To do so you just have to spin a wheel till you reach your desired number.Features:- Addition, Subtraction, Multiplication, Division- Unique Input- Live-Preview of Result- Choose from all Colors of the Material-Design Color Palette: Backgroundcolor, Wheelcolor, Textcolor, Buttoncolor & more (PRO-Function)Only tested on Moto 360.",
+    "descriptionHTML": "The normal Calculator Input tends to be really hard on small Smartwatch Displays. Wear Calculator tries to solve this problem by providing a unique way of entering your wished number. To do so you just have to spin a wheel till you reach your desired number.<br><br>Features:<br><br>- Addition, Subtraction, Multiplication, Division<br>- Unique Input<br>- Live-Preview of Result<br>- Choose from all Colors of the Material-Design Color Palette: Backgroundcolor, Wheelcolor, Textcolor, Buttoncolor &amp; more (PRO-Function)<br><br>Only tested on Moto 360.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/QuLHQ_zqOZ14TnpDo2ivwIRNBxYVEk_tOoPNYcvuz2oWfBkbvwVoGEkzBeUP7_yAqqs=h310",
+        "//lh3.googleusercontent.com/PezC41AkMabwqcWdeZEiAWUCTN1d9tO7a0W4hUjP-IsBEUS3vO_0YaYc5KZgsAhGn14=h310",
+        "//lh3.googleusercontent.com/0hgXvTIrwnAXusHDK5VBC0GCsmFdHVwK5i7SbN_G-afgOkXfJIg3Btgl8zAuWXDP31QZ=h310"
+    ],
+    "comments": [
+        "Cant work this app"
+    ],
+    "recentChanges": [
+        "1.2:",
+        "FIX: IAP-Bug",
+        "1.1:",
+        "TRANSLATION [PHONE&WEAR]: Jetzt auch auf deutsch :)",
+        "FIX [WEAR]: Dismiss Overlay now triggers consistently",
+        "1.0:",
+        "INITIAL RELEASE"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.lnrch.wearcalc&hl=en&gl=us",
+    "appId": "com.lnrch.wearcalc"
+}

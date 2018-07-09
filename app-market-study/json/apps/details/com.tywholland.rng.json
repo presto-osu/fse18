@@ -1,0 +1,52 @@
+{
+    "title": "Random Number Generator",
+    "summary": "A simple app for simulating dice, RNG, or any other type of random number!",
+    "icon": "https://lh4.ggpht.com/Zm9dCWU6H4uyTMPnnuO5sdI6i9I1yBY73QmkWKP9A4CI3gUhJMLvsxlVSRv009DzjTTq=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 179,
+    "developer": "Tywholland",
+    "developerId": "Tywholland",
+    "developerEmail": "tywholland@gmail.com",
+    "developerWebsite": "https://github.com/Tywholland/RandomNumberGenerator",
+    "updated": "November 19, 2014",
+    "version": "3.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "A very simple app that will provide random numbers between any two start and end numbers between 0 and 999,999,999.Great for simulating dice, RNG, or for any other time you need a random number!Uses Java's Random class (http://docs.oracle.com/javase/1.4.2/docs/api/java/util/Random.html) and nextInt(int) method to generate the numbers, if you are interested in what the app uses to generate these numbers. A fresh Random class is generated on each button press, so the same seed is not used twice.This app is completely open source, and the github page is linked via the \"Developer's Website\" link below this description.",
+    "descriptionHTML": "A very simple app that will provide random numbers between any two start and end numbers between 0 and 999,999,999.<br><br>Great for simulating dice, RNG, or for any other time you need a random number!<br><br>Uses Java&apos;s Random class (http://docs.oracle.com/javase/1.4.2/docs/api/java/util/Random.html) and nextInt(int) method to generate the numbers, if you are interested in what the app uses to generate these numbers. A fresh Random class is generated on each button press, so the same seed is not used twice.<br><br>This app is completely open source, and the github page is linked via the &quot;Developer&apos;s Website&quot; link below this description.",
+    "histogram": {
+        "1": 14,
+        "2": 8,
+        "3": 10,
+        "4": 30,
+        "5": 117
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/99FwjjJTOaU1evXDRqe8e9vnVcZ5IcnlV2hPqhelo_Q4T_K8MldP4sho1gmaSnuk-w=h310",
+        "//lh3.ggpht.com/_rxwnpc7WxgLaAVKifC9LPBaj3GFBzkD3Pr-Qn51rI6zAPqG1USLeAnhc3DsvkVgO44=h310"
+    ],
+    "comments": [
+        "Great, with a Wear bug Love the app, but it creates a useless app entry on my Android Wear device that brings up a \"Hello World\" screen. Is this a bug, or is Wear support supposed to be working?",
+        "Nice! Very good, simple, and clean. Just want I want from an app like this. One suggestion. Update the icon. It looks pretty ugly the way it is now..",
+        "Good .....  I guess Perfect for being a stand in for my 20 sided dice or for any dice for that matter but I haven't the faintest idea why it takes up 4 MB of my space on my phone for peat sake it is only a bunch of numbers and it doesn't even have any ad's to take up the space",
+        "Useful Very good and does what its supposed to but I find the generate button a bit small maybe add the ability to scale the size of it?",
+        "Refreshingly, it doesn't require the user to delete the numbers using backspace before entering new ones. Just what I wanted!",
+        "Simple I only wish you could input negative numbers"
+    ],
+    "recentChanges": [
+        "UI completely redesigned based on Material Design!",
+        "New animation for generating numbers!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tywholland.rng&hl=en&gl=us",
+    "appId": "com.tywholland.rng"
+}

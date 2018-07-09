@@ -1,0 +1,56 @@
+{
+    "title": "Buff Buddy",
+    "summary": "Buff Buddy is a workout tracker that doesn&#39;t limit you to predefined exercises",
+    "icon": "//lh3.googleusercontent.com/tH5_B0IGMQYeOydJM7HzTBBGH2QMBOeIQqn0wOOjYrFs_sTKrItUoyfBqq2kNZJYJmk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.6,
+    "reviews": 9,
+    "developer": "Joe Acosta",
+    "developerId": "Joe+Acosta",
+    "developerEmail": "joe@joeracosta.com",
+    "updated": "September 13, 2015",
+    "version": "1.1",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Want to track your workout at the gym but don't want to be confined to a list of predefined exercises? Buff Buddy will let you track your workouts and the exercises you choose to enter.Add your exercises right on Buff Buddy and start tracking today! Buff Buddy will give you important information about your workout. You'll easily be able to track what exercise you should be doing, how many reps you should be doing, how much weight to add, and the time that has passed since your last completed set. All of this can be tracked from the notification tray on your phone even when you're outside of the app. This ensures minimal interruption during your workout.Workouts in Buff Buddy are organized by day. Store your exercises for a specific day, and pick and choose from your saved exercises when it comes time to work out. Doing chest and triceps on Monday? Add all your chest and triceps exercises to your saved workouts. Then, when it comes time to do your workout, pick and choose from those exercises to decide what you want to accomplish today.Buff Buddy also supports Android Wear. You can track and complete your exercises right from your wrist. Start using Buff Buddy today to reach your exercise goals!",
+    "descriptionHTML": "Want to track your workout at the gym but don&apos;t want to be confined to a list of predefined exercises? Buff Buddy will let you track your workouts and the exercises you choose to enter.<br><br>Add your exercises right on Buff Buddy and start tracking today! Buff Buddy will give you important information about your workout. You&apos;ll easily be able to track what exercise you should be doing, how many reps you should be doing, how much weight to add, and the time that has passed since your last completed set. All of this can be tracked from the notification tray on your phone even when you&apos;re outside of the app. This ensures minimal interruption during your workout.<br><br>Workouts in Buff Buddy are organized by day. Store your exercises for a specific day, and pick and choose from your saved exercises when it comes time to work out. Doing chest and triceps on Monday? Add all your chest and triceps exercises to your saved workouts. Then, when it comes time to do your workout, pick and choose from those exercises to decide what you want to accomplish today.<br><br>Buff Buddy also supports Android Wear. You can track and complete your exercises right from your wrist. Start using Buff Buddy today to reach your exercise goals!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/IMMcwhaySTciKaKdZL_WP3Khq6ezA4L_UnBrCYLMmX4efgStqo3U8TYIy_cze6yrUI3f=h310",
+        "//lh3.googleusercontent.com/TEEkl9YLvNcX5Y7jr6LnxireSnuAcW6npAVjSegqltEbPd4eb1B_NiyZtqGLYoV1o9g=h310",
+        "//lh3.googleusercontent.com/crgd3P-dApBuqhZ3p2u79kGxkulGaxVVUqCj1gSqm6dUPVdxS37m-O7t_BeRH2caNw=h310",
+        "//lh3.googleusercontent.com/HYlAd-A8w_ercHEjMsr11koMUQMQD0OhXTGH1TYB5bYQBHob6jCG-8aD3pSaKX_Ltw=h310",
+        "//lh3.googleusercontent.com/GnicLkL-XUy0AIem-lVOAEjevum2UhqW2V8i5bshwgzFevwxoABZTbJ4gjTqxsmaRg=h310",
+        "//lh3.googleusercontent.com/7m6f_YWP0ja5D1k__QdA1BNHiwxRsL3cRurj_5YorcC9FBw1I7hFsuWZaaiZFXAJ1Im-=h310",
+        "//lh3.googleusercontent.com/T3gtyDTKn0t6G5RfT_i7F5g-LdYx4UeYe8qMaRcT0BW1pKTOYpajTp9dMv7Yk8U081WP=h310",
+        "//lh3.googleusercontent.com/EIqgk5ozCLRVqbJQoRkMW9-uB9DV5evOS8V0kCdyM_-Gx1gfq-FrmczTLTwb1u-PyQY_=h310"
+    ],
+    "comments": [
+        "This is seriously one of the best workout apps i've ever tried. kudos.",
+        "One of the best app with a great design.",
+        "Simply Wow! This is by far the most intuituve, easy-to-use workout app on the play store. I no longer have to count down the seconds between sets!",
+        "Finally I can finally achieve the washboard abs I've always wanted!"
+    ],
+    "recentChanges": [
+        "Back button works on main screen",
+        "Weight can now be 0",
+        "Fixed potential crash on devices running <Android 5.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jayr.buffbuddy&hl=en&gl=us",
+    "appId": "com.jayr.buffbuddy"
+}

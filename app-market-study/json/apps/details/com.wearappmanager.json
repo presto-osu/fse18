@@ -1,0 +1,60 @@
+{
+    "title": "Wear App Manager",
+    "summary": "Manage all your Android Wear smartwatch apps from a single convenient location.",
+    "icon": "//lh3.googleusercontent.com/LIOhOkLR3uO0CN0VidaeUiVGZdZN41K5sp4zMlEXx-Q08wSc49IMSW0rDKonzI1eVQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 333,
+    "developer": "Udell Enterprises, Inc",
+    "developerId": "6589881289812568831",
+    "developerEmail": "wam@udellenterprises.com",
+    "developerWebsite": "http://wearappmanager.com",
+    "developerAddress": "1338 Grand Ave\nGlenwood Springs, CO 81601\nUSA",
+    "updated": "May 12, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Update: now fully supporting Wear 2.0, with new actions on the watch (including Uninstall), and info about each app's watch faces and complications!___________________________________Wear App Manager runs on your phone but manages the apps you have installed on Android Wear. See all your Wear apps (and only your Wear apps) at a glance, and see more details about any of them. Easily uninstall ones you're not using. Wear App Manager puts you in control of your Wear apps at last.IMPORTANT: uninstalling apps directly from your Wear device is only supported on Android Wear 2.0 (currently in developer preview and not available for most watches). On Wear 1, the system requires us to uninstall apps from your linked phone in order to remove them from the watch. When your watch gets Wear 2, this linkage will be removed automatically - but not until then! Thanks for your understanding.ALSO: it's not possible to uninstall system apps from the watch, by any means (including this app).___________________________________WAM was the first app manager for Wear and is still the best! But don't just take our word for it:\"Some of the apps on your phone have Wear modules, but which ones? And what the heck do they do? Wear App Manager lists them all in one handy place.\" - Android Police\"Wear App Manager takes the guesswork out of the equation\" - re/code\"It’s boring having to scroll through hundred of other apps from the settings menu. Enter Wear App Manager, a slick and easy way to see what’s taking up what on your wearable\" - Android Headlines\"It’s a potentially useful tool and even more so if you’re a new Android Wear owner.\" - Android AuthorityFull feature list: ▶ Quickly uninstall apps from watch (Wear 2 only) ▶ Notifications (on your watch, handheld, or both) when Wear apps are installed, updated, or uninstalled ▶ See permissions each app is actually using on your watch ▶ Storage space available on-device, and how much each app is using - in more detail than that shown by the Android Wear app ▶ Directly open system settings for an app, or its listing on Google Play, without cumbersome navigation on the watch (Wear 2 only) ▶ Share app details or lists with friends ▶ Launch apps (on watch or handheld) easily ▶ Shows apps installed only on watch (in development, or sideloaded), and those whose watch components are missing ▶ Sort app list by name, size, update or install date ▶ Full support for multiple wearable devices linked to your phone ▶ Lots of geeky internal details about each app, like version codes and install dates. Handy for devs!",
+    "descriptionHTML": "<b>Update: now fully supporting Wear 2.0</b>, with new actions on the watch (including <b>Uninstall</b>), and info about each app&apos;s watch faces and complications!<br>___________________________________<br><br><i>Wear App Manager</i> runs on your phone but manages the apps you have installed on Android Wear. See all your Wear apps (and <b>only</b> your Wear apps) at a glance, and see more details about any of them. Easily uninstall ones you&apos;re not using. <i>Wear App Manager</i> puts you in control of your Wear apps at last.<br><br>IMPORTANT: uninstalling apps directly from your Wear device is <b>only supported on Android Wear 2.0</b> (currently in developer preview and not available for most watches). On Wear 1, the system requires us to uninstall apps <i>from your linked phone</i> in order to remove them from the watch. When your watch gets Wear 2, this linkage will be removed automatically - but not until then! Thanks for your understanding.<br><br>ALSO: it&apos;s not possible to uninstall system apps from the watch, by any means (including this app).<br>___________________________________<br><br>WAM was the first app manager for Wear and is still the best! But don&apos;t just take our word for it:<br><br>&quot;Some of the apps on your phone have Wear modules, but which ones? And what the heck do they do? Wear App Manager lists them all in one handy place.&quot; - Android Police<br><br>&quot;Wear App Manager takes the guesswork out of the equation&quot; - re/code<br><br>&quot;It&#x2019;s boring having to scroll through hundred of other apps from the settings menu. Enter Wear App Manager, a slick and easy way to see what&#x2019;s taking up what on your wearable&quot; - Android Headlines<br><br>&quot;It&#x2019;s a potentially useful tool and even more so if you&#x2019;re a new Android Wear owner.&quot; - Android Authority<br><br><br>Full feature list: <br>&#x25B6; Quickly uninstall apps from watch (Wear 2 only) <br>&#x25B6; Notifications (on your watch, handheld, or both) when Wear apps are installed, updated, or uninstalled <br>&#x25B6; See permissions each app is actually using on your watch <br>&#x25B6; Storage space available on-device, and how much each app is using - in more detail than that shown by the Android Wear app <br>&#x25B6; Directly open system settings for an app, or its listing on Google Play, without cumbersome navigation on the watch (Wear 2 only) <br>&#x25B6; Share app details or lists with friends <br>&#x25B6; Launch apps (on watch or handheld) easily <br>&#x25B6; Shows apps installed only on watch (in development, or sideloaded), and those whose watch components are missing <br>&#x25B6; Sort app list by name, size, update or install date <br>&#x25B6; Full support for multiple wearable devices linked to your phone <br>&#x25B6; Lots of geeky internal details about each app, like version codes and install dates. Handy for devs!",
+    "histogram": {
+        "1": 43,
+        "2": 8,
+        "3": 32,
+        "4": 82,
+        "5": 168
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/lAW8FMzFuPjoAY_Zb0vQ6U8exXODuezfohYSbNmMlFhUgJFGmwv0xxIyVSP6ZOjBgpKQ=h310",
+        "//lh3.googleusercontent.com/BGkyOoWWcYw0zvqEq65SiMCT1DSjI5jgcjPI5IvtSUa7zI2p3CMLPWiU3z0qLY5QXQ=h310",
+        "//lh3.googleusercontent.com/ufQ2-H2gjvaC9hou5lWCOMmDmRcMzwBiTDHAGD2AY8MyW7I1ev_ImXbbhZ5V7qSopGk=h310",
+        "//lh3.googleusercontent.com/sT9Kt8M_YbC-1TKw0bTUlBUphNauUarpCxXs0h6fTd8ZhN0G-mV3pyNlo1dZO2A6S0A=h310",
+        "//lh3.googleusercontent.com/UJrnSq87Er0V8naDxj1fwasOx2KEiJrBi7ak2QSOTA7Gnn2Q55tX3iga5driW_sEEmM=h310",
+        "//lh3.googleusercontent.com/tmAsFy3LujIir9df7zX2x7ywkkNiefZGpxPxVXoEvjIENfMvFwMUQBMja04c5yqguw=h310",
+        "//lh3.googleusercontent.com/tjIGPnEAITtK-0UTRAcna0iFsMQQUOe6AaazInLlzJOXtgOTAc784hzQOd9vaY3psM8=h310",
+        "//lh3.googleusercontent.com/Uau2QmMXFnt0sadAulhVIw6bKKmdsxlIzqTNv-JSjVzTaOei7JQ57n3Yx23doA_fp8E=h310",
+        "//lh3.googleusercontent.com/Jru2OuuVKUU4sNAlUSBWKt4GeRHFtMXRINeT8_Cl_VwN7ELmzHlO9r6_OyQka-B7RQ=h310"
+    ],
+    "comments": [
+        "I left a bad review when the app stopped working after AW 2.0 came out. All it took was a reinstall and it works great. Lets me see exactly what's installed on my wearable, and remove apps all in one place. I like it a lot, seems indispensable for managing my watch.",
+        "Great app! I love managing what's on my watch using the big screen of my PadFone rather than the small round display on my ZenWatch. The only bug I came across so far is that the app will claim \"Not found on wearable\" for pretty much every app that absolutely IS on my wearable.",
+        "It's ridiculous Google didn't include this functionality with wear 2.0. I do wish I could filter apps based upon install location. You already have that column mode, perhaps a single column each for installed on phone, watch, and both?",
+        "Really good for managing watch faces that sit on the watch and either don't install or uninstall appropriately.",
+        "\"No response from wearable app.\"",
+        "Well this app is pretty much useless. Duplicates uninstall features built in your app drawer. Guess it's good for noobs.. A waste of money for me..."
+    ],
+    "recentChanges": [
+        "• Fix rare crash bug"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wearappmanager&hl=en&gl=us",
+    "appId": "com.wearappmanager"
+}

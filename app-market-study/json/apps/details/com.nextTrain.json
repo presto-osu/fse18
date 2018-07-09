@@ -1,0 +1,57 @@
+{
+    "title": "Next Train Ireland Free",
+    "summary": "Get train times easily and quickly for any station in Ireland!",
+    "icon": "//lh3.googleusercontent.com/X_zr5PuUD5Js-Ccib0MVOvys7F4aGKsGu1JUelJ9JZWm1IbIuUlckJXbnQlYEcIwtjU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.2,
+    "reviews": 633,
+    "developer": "Stephen McBride",
+    "developerId": "Stephen+McBride",
+    "developerEmail": "steemcb@gmail.com",
+    "developerWebsite": "http://www.twitter.com/steemcb",
+    "developerAddress": "Stephen McBride,\n4th Floor,\nLatin Hall,\nGolden Lane,\nDublin 8,\nIreland",
+    "updated": "January 15, 2018",
+    "version": "Varies with device",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "size": "Varies with device",
+    "description": "Next Train Ireland is a simple, slick app that will quickly show you train times for any station in Ireland. Incorporating a modern UI that follows the Material Design guidelines, the app has lots of great feature such as:- Comprehensive journey planner showing detailed itinerary information for any journey between two stations- Fast realtime station lookup with detailed train information to show you what stations a train will call at- Android Wear support- Travel news from Irish Rail on TwitterPlease note this app is unofficial and not affiliated with or endorsed by Irish Rail.",
+    "descriptionHTML": "Next Train Ireland is a simple, slick app that will quickly show you train times for any station in Ireland. Incorporating a modern UI that follows the Material Design guidelines, the app has lots of great feature such as:<br><br>- Comprehensive journey planner showing detailed itinerary information for any journey between two stations<br>- Fast realtime station lookup with detailed train information to show you what stations a train will call at<br>- Android Wear support<br>- Travel news from Irish Rail on Twitter<br><br>Please note this app is unofficial and not affiliated with or endorsed by Irish Rail.",
+    "histogram": {
+        "1": 46,
+        "2": 30,
+        "3": 47,
+        "4": 120,
+        "5": 390
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/eXEjHBN72GN7twGw6EwUmbwCL749rPow6cQY1gri9G4XvlUuNkli-pqdxbS-L0CJtE8t=h310",
+        "//lh3.googleusercontent.com/hb7ZKiCNmSBBHkhGCEXmUJubofte2Y_JOjvg7biXyadV4mqWvIS8hTWLhGgYeNVCTfs=h310",
+        "//lh3.googleusercontent.com/Qyn_qy4lfO3DbdYzDcKWhKNYfa1vu7fJs5FZwkJHMUsdzBvM0FA1rR3us_Xi5RLQ3Bk=h310",
+        "//lh3.googleusercontent.com/M-xeihHKjoT4NAyX3DKK-2Dsf17nkQZDh99RtAeCJfH9ruzYSw6MJFiJIfa5oyhA7jMz=h310",
+        "//lh3.googleusercontent.com/wNt3CBCgjnKzPWPPABJjyXICqpOSz_99f1uX-cJpwXgD3orYHdU0lliwIeWwyTqyJ90=h310",
+        "//lh3.googleusercontent.com/cevTfVPX5sF3JmynV0BMAJq_9kdKRGUUr2kd8mzZa7-6uI5tLr6nb2jZYQNx1h7MtEHm=h310"
+    ],
+    "comments": [
+        "Great app until recently is now mixing up north and south bound services (at Pearse Street confirmed - Hazelhatch trains).  And months later not fixed.  Guess it's not a key project anymore and that's a pity because otherwise it could be superior to company app.",
+        "The app doesn't work on my android watch anymore. I updated it to the latest version and it's frozen at the first page trying to load up",
+        "App crashes when I try to use the timetable feature.",
+        "Good app but feel precious version was better. The refresh doesn't work automatically and the tiles become often misleading (this happens especially when and add wants to pop in). Also, like today, it shows no trains were found when trains were actually working as normal so sometimes unreliable.",
+        "Smart watch app doesn't work Brilliant app,  just app doesn't work on Sony smart watch 3.",
+        "Great Use it in a daily basis and have never experienced a single problem, Props to the Developers!"
+    ],
+    "recentChanges": [
+        "- Minor UI fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nextTrain&hl=en&gl=us",
+    "appId": "com.nextTrain"
+}

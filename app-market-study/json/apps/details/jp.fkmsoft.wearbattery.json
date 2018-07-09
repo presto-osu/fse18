@@ -1,0 +1,48 @@
+{
+    "title": "WearBattery",
+    "summary": "You can check a batter of your wearable in your phone!",
+    "icon": "//lh3.ggpht.com/_Un_zsciK_IKqB2rLHMnaoLg8aiLNP51Zkw5FqjG7NtoprXU9pvG61NrMzv-7EJzJqCD=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2,
+    "reviews": 2,
+    "developer": "fkm",
+    "developerId": "fkm",
+    "developerEmail": "android@fkmsoft.jp",
+    "developerWebsite": "http://www.fkmsoft.jp",
+    "developerAddress": "東京都品川区南大井6-17-7",
+    "updated": "September 8, 2014",
+    "version": "1.0.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "You can check a batter of your wearable in your phone!",
+    "descriptionHTML": "You can check a batter of your wearable in your phone!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/ZyrjCTVKyDRc6c01tcDMvGx9vm0n3bL4L_zb7YiAeFqO8i3YwzD_zHgsLtMJuAugQ-4=h310",
+        "//lh3.ggpht.com/XAcfG0omQ6mgbYF-l8r6ZBmV2PUNiyBpA9j0gD3wKk5Je_sO0dqu9cgKH_DIeI8ZyU4=h310"
+    ],
+    "comments": [
+        "Change \"batter\" from the description And Write \"Battery\" Developer is a Chinese guy i suppose BTW Good App...",
+        "Rubbish"
+    ],
+    "recentChanges": [
+        "fix install problem"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.fkmsoft.wearbattery&hl=en&gl=us",
+    "appId": "jp.fkmsoft.wearbattery"
+}

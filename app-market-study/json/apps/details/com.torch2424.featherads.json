@@ -1,0 +1,61 @@
+{
+    "title": "Feather Free - Music / Video",
+    "summary": "[No longer under active development]File-Based, Music and Video Player",
+    "icon": "//lh5.ggpht.com/pE3M93khT6BUNhZf2dsoVS_N_m46OyO2-bQM5AWL9-6STXGA1h-Fs9SCcXWltHj42A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 76,
+    "developer": "Aaron Turner",
+    "developerId": "7725420572806800529",
+    "developerEmail": "android@mail.aaronthedev.com",
+    "developerWebsite": "http://aaronturnerapps.tumblr.com/",
+    "developerAddress": "13786 Caspian Way\nMoreno Valley, CA 92553",
+    "updated": "April 19, 2015",
+    "version": "4.0",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "[No longer under active development]This version is free and has ads, you can get the paid version which: removes ads, supports an indie developer, and gives you a faster / more enjoyable experience, for only $1.99!Looking for a music or video player that isn't slow, always crashing, or freezing your phone? One that allows you to find what you want to listen to or watch through a file explorer, instead of scanning your entire external storage, just to not find everything you have on there? Tired of external codecs, and just want the native ones that are much more reliable and fast? Do you find full screen video controls getting in the way of your video, and you think that they are annoying? Well, Feather was created for just these reasons, and it is presented in a minimal, beautiful, and easy to use format. Where it is all quite reliable, and always quick.I'm open to suggestions, and would love to make this app better for the community, if there are any bugs are suggestions you would like to give, send them to my email below!Thank you very much for supporting me ( Aaron Turner ) and this app!",
+    "descriptionHTML": "[No longer under active development]<br>This version is free and has ads, you can get the paid version which: removes ads, supports an indie developer, and gives you a faster / more enjoyable experience, for only $1.99!<br><br>Looking for a music or video player that isn&apos;t slow, always crashing, or freezing your phone? One that allows you to find what you want to listen to or watch through a file explorer, instead of scanning your entire external storage, just to not find everything you have on there? Tired of external codecs, and just want the native ones that are much more reliable and fast? Do you find full screen video controls getting in the way of your video, and you think that they are annoying? Well, Feather was created for just these reasons, and it is presented in a minimal, beautiful, and easy to use format. Where it is all quite reliable, and always quick.<br><br>I&apos;m open to suggestions, and would love to make this app better for the community, if there are any bugs are suggestions you would like to give, send them to my email below!<br><br>Thank you very much for supporting me ( Aaron Turner ) and this app!",
+    "histogram": {
+        "1": 16,
+        "2": 7,
+        "3": 7,
+        "4": 18,
+        "5": 28
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/KIlifjvvbnd9xv53gMGVtEmeKUQqKUQ8VyV9RA0jqiV27RElRUBwFZ3qfqMCWNm7uIo=h310",
+        "//lh4.ggpht.com/KPfhspc8TInOEXzEfkLohwfzFepp3yopQDuQG8L4gFvb7ClbPcUkwMnt9sJYoeuOvg=h310",
+        "//lh3.ggpht.com/z-p5GfnO1JlTcBYIfkj_0gPn-q0WG_cd7mcOFGKE9FQMmICkkJcu5HjlnGIlfZR1AfAC=h310"
+    ],
+    "comments": [
+        "Does not work. Won't even open, have tried over several days, wiped data, installed, but no matter what I do I just keep getting,\" unfortunately, feather has stopped working\". So all in all,  a very useless app",
+        "Excellent! No eye candies just essential functionality. I really like simple idea of using folders as playlists. Just to confirm external card is supported, it is only tricky to figure out how to navigate there :)",
+        "Most Beautiful App Ever! Finally found my music app - Feather Free is a keeper. When I get all the settings figured out I will upgrade to ad-free. I discovered that long pressing my 'music' file in the list allowed me to set it as default which was a big relief (didn't have to scroll through irrelevant files). Working on the playlist part, but when that is done my other music app will be gone.  I would never leave my music app open because it was just ugly, even with colors I chose, but this is a delight!  And a bonus is being able to control from my Moto 360 watch.  Have to start on phone first, but that works for me. Developer has done a fantastic job! Lovely, did I say that already?",
+        "So, given that I'm using the free version, and I was just looking for something that could play a folder in its entirety, to that extent, it works swimmingly. The only issue I've come across thus far is that if I'm watching something in landscape so it's full screen, if I try to use the controls in the notification tray, it opens Google Play Music, and another music app for some reason. Not sure if that is an issue with Feather, or another app, though.",
+        "Feather - Free I really enjoy using this app looked for the pay version I'm using a Trio tablet as my radio /video player in my car ( but not sure if I will buy because the video and audio is off sync )",
+        "Player looks nice, but I can't work out if there is subtitle support. A fine player for normal videos, but I'm looking for the most lightweight player that will play subbed mkv files."
+    ],
+    "recentChanges": [
+        "***HUGE UPDATE (Sorry for the wait!)***",
+        "Feather v4 :",
+        "Android Wear: Feather now had Android Wear Support!",
+        "Settings: Feather now offers settings that you can change!",
+        "Music Sort(Settings): Feather can now sort by track number inside a folder!",
+        "Default Folder: You can now have a default directory feather opens to!",
+        "Quit Button Notification: Now there is a quit button in the notification!",
+        "And Much More!",
+        "See full changelogs that also has plans at: http://aaronturnerapps.tumblr.com"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.torch2424.featherads&hl=en&gl=us",
+    "appId": "com.torch2424.featherads"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Gear Watch Face",
+    "summary": "“Gear” watch face for android wear.",
+    "icon": "//lh3.googleusercontent.com/LXfifWlPZBTIaUS7rR8_n8hwA1No5meZSjmsPAA6Uv8TbVEoUGrTqLq2EYBTIz1Y7w=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.8,
+    "reviews": 4,
+    "developer": "Zain Zhu",
+    "developerId": "Zain+Zhu",
+    "developerEmail": "zainthedeveloper@gmail.com",
+    "developerAddress": "East Nanjing Road No.233 Room 711, Shanghai, China",
+    "updated": "July 29, 2015",
+    "version": "1.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "FEATURES: # Set your own brand on the watch face!  # Watch movements animation # Date and day indicator Compatible with Moto360, LG G Watch R, LG Watch etc. Best look and feel on round watches How to set watch face and your own brand: 1. Download and install the watch face on your phone 2. You will see the notification on your watch. Also It will be available in the Android Wear app.  If it not showing on the watch run Resync app option in Android Wear app Long press your android wear watch to see if Gear has already on your watch How to set your own brand: 1. Open “Android Wear” and click “Gear Analog” on your phone 2. Type 1-14 characters that you like to create!",
+    "descriptionHTML": "FEATURES: <br># Set&#xA0;your&#xA0;own&#xA0;brand on the watch face!&#xA0; <br># Watch&#xA0;movements&#xA0;animation <br># Date&#xA0;and&#xA0;day&#xA0;indicator <br><br>Compatible&#xA0;with&#xA0;Moto360,&#xA0;LG&#xA0;G&#xA0;Watch&#xA0;R,&#xA0;LG&#xA0;Watch&#xA0;etc. <br>Best&#xA0;look&#xA0;and&#xA0;feel&#xA0;on&#xA0;round&#xA0;watches <br><br>How&#xA0;to&#xA0;set&#xA0;watch&#xA0;face and your own brand: <br>1.&#xA0;Download&#xA0;and&#xA0;install&#xA0;the&#xA0;watch&#xA0;face&#xA0;on&#xA0;your&#xA0;phone <br>2. You will see the notification on your watch. Also It&#xA0;will&#xA0;be&#xA0;available&#xA0;in&#xA0;the&#xA0;Android&#xA0;Wear&#xA0;app.&#xA0; <br><br>If&#xA0;it&#xA0;not&#xA0;showing&#xA0;on&#xA0;the&#xA0;watch&#xA0;run&#xA0;Resync&#xA0;app&#xA0;option&#xA0;in&#xA0;Android&#xA0;Wear&#xA0;app <br>Long&#xA0;press&#xA0;your&#xA0;android&#xA0;wear&#xA0;watch&#xA0;to&#xA0;see&#xA0;if&#xA0;Gear&#xA0;has&#xA0;already&#xA0;on&#xA0;your&#xA0;watch <br><br>How to set your own brand: <br>1. Open&#xA0;&#x201C;Android&#xA0;Wear&#x201D; and click&#xA0;&#x201C;Gear&#xA0;Analog&#x201D; on your phone <br>2. Type 1-14 characters that you like to create!",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/sEusz2rKxHhGs4acTU9d2Adpwrr-epPMFxu3bTLve2eH7C2O3zrRyqKGLQTO0el3X3o=h310",
+        "//lh3.googleusercontent.com/cTExiU-IGdhEYc6K8eCODMSyV_edfZeIgiWo1XNL1CktWeP5P79j_eNaQlAU6SlcWYU=h310",
+        "//lh3.googleusercontent.com/RYQDixpior57EGUtABCQL2xxYwL1Hvs9puptv1BWGJp_m5Cjw9r6aATEBDt8wIrj1sAV=h310"
+    ],
+    "comments": [
+        "not impressive there's a single moving gear in the center, also has no real support for a dark mode on the LG gwatch r"
+    ],
+    "recentChanges": [
+        "You can set your own brand now!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=io.github.tomisyourname.gearface&hl=en&gl=us",
+    "appId": "io.github.tomisyourname.gearface"
+}

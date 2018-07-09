@@ -1,0 +1,51 @@
+{
+    "title": "Clocked",
+    "summary": "Sync your watchface with calendar.",
+    "icon": "//lh3.googleusercontent.com/5d0qfjD2E7iZX3oEyf2EF0-kIdXItXAcxZXlNK6yWL4SwrEbh6M38x120-I__MQsiw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 23,
+    "developer": "Fueled",
+    "developerId": "Fueled",
+    "developerEmail": "brian@fueled.com",
+    "developerWebsite": "http://www.fueled.com",
+    "updated": "August 12, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Sync your watchface with calendar.This watchface gives you a quick overview of what your day will be like. Each event is color coded and allows you to separate personal event from professional meetings.  The watchface would connect to your android watch and automatically sync with your calendar.This is based on the concept by fueled on dribble https://dribbble.com/shots/1851916-Apple-Watch-App-Calendar",
+    "descriptionHTML": "Sync your watchface with calendar.<br><br>This watchface gives you a quick overview of what your day will be like. Each event is color coded and allows you to separate personal event from professional meetings.  The watchface would connect to your android watch and automatically sync with your calendar.<br><br>This is based on the concept by fueled on dribble https://dribbble.com/shots/1851916-Apple-Watch-App-Calendar",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 4,
+        "4": 3,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Li8vFkPFih-6edvmnzIkDWx8h44ZsS-1jDShLfa_4pnSnJI9NdHr6VXqs3cuNJNSXjw=h310",
+        "//lh3.googleusercontent.com/kchfVd6Za7-j4a7cIYyxFHTa9o1eLfMyHJWkiZMrBA3GxcxVFS6DZl7BwEnlxPYuS1o=h310",
+        "//lh3.googleusercontent.com/cBvGQNSwd-wsv_hitzWhobun3muGRZeHJn8rkXTXux2GnpjTMRfB3S0-D-idbyBOHVM=h310",
+        "//lh3.googleusercontent.com/NJZKcmduRwOlFLrFnul0IglrKmPqIcNZDpORQymuNKNsMwgzjaSLOp04iFJsY3wyd8im=h310",
+        "//lh3.googleusercontent.com/WXaVUMZjhQiRrORm7VAcx-TKw7TKf4JwPgAk3i55jQqAlG3U-zqbaYTVRzoCGbQ5Ag=h310",
+        "//lh3.googleusercontent.com/vzRzn5wD7mQQT8Rl0Mv_0Omq-BvxP0pINKPZIVhz3dio_C5QMTwIcfwSLzLlmWxZAmw=h310"
+    ],
+    "comments": [
+        "Please show more info Current/next event name. I can't read precise time from this watchface.",
+        "Great! Would donate to remove the logo, then it would be perfect."
+    ],
+    "recentChanges": [
+        "Hey guys, Added settings screen to select whether to use random colors for meeting."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fueled.clocked&hl=en&gl=us",
+    "appId": "com.fueled.clocked"
+}

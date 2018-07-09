@@ -1,0 +1,52 @@
+{
+    "title": "Watch Face Scoon Halftone",
+    "summary": "Halftone Analog Watch",
+    "icon": "//lh3.googleusercontent.com/bhGnMh-DpJuhKadjLRfyPId9eyKV0tV9fWCZ152lHJFowPwYF5rOF1GkYO-yax9BODc=w300",
+    "price": "$1.12",
+    "free": false,
+    "minInstalls": 1,
+    "maxInstalls": 5,
+    "score": 5,
+    "reviews": 1,
+    "developer": "Scoon Design",
+    "developerId": "Scoon+Design",
+    "developerEmail": "scoondesign@gmail.com",
+    "developerWebsite": "http://www.scoondesign.com",
+    "developerAddress": "Dr. Plesmanlaan 156-160, 3601DE, Maarssen",
+    "updated": "June 21, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Fully customizable watch face for Android Wear 5.0 watches.Featuring:- Custom Colors for all elements.-Humidity widget-Temperature widget-Weather Condition widget-Date widget-Phone Battery widget-Watch Battery widgetUser Configurable:-Weather update intervals-Watch screen timeout-Many more features",
+    "descriptionHTML": "Fully customizable watch face for <b>Android Wear 5.0</b> watches.<br><br>Featuring:<br>- Custom Colors for all elements.<br>-Humidity widget<br>-Temperature widget<br>-Weather Condition widget<br>-Date widget<br>-Phone Battery widget<br>-Watch Battery widget<br><br>User Configurable:<br>-Weather update intervals<br>-Watch screen timeout<br>-Many more features",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ruK9YWhpKwwko-1CAHEslsnsuDLr5YWGX-cjQdx2Ld_Wp4QxqLH9WnlWlpetwT84ORdS=h310",
+        "//lh3.googleusercontent.com/YF7nFaMR57qZPeCKoZSJvBa52nw0MVS1yGZDGq7g3TNb9wcTta5Q6rHPw8ZdRwXrCw=h310",
+        "//lh3.googleusercontent.com/3kmpJh__KjkNZJq7OoBrdmTgvWYWkWxPIqC-IsyqwwJYIatG_veKNndI3ox9kw4kDiY=h310",
+        "//lh3.googleusercontent.com/VLaCzvpJgbhmUuSsMXzZsViKedMM_V7znnLly6rjvMkg08o3lW46FfD2qnyFFLI1vvo=h310",
+        "//lh3.googleusercontent.com/sRngq0wy6Iqyinxin5xf02-XxUWghZ3kWomcI2ygVKlaCpycVu7q5xZoK_a87yCA-w=h310",
+        "//lh3.googleusercontent.com/AdwBADCsSDznrH9lAVuEZFxJvdb4LEoe7iyAvD-8xThF3NcxVba5CCnHLvBuaX99tA=h310",
+        "//lh3.googleusercontent.com/jh4zdEiMalai4bZpazCUCbgxUgBAvp7sHyHKSmJatySiQ54lxLBH3LS8APjfBNoMs8k=h310",
+        "//lh3.googleusercontent.com/qQLvMJMGMHerZ3QoEgWh1rqIx8TNa2yOgNpYm3sQvfmFYcpAlCyZBpcxCxvtGIhCGg=h310",
+        "//lh3.googleusercontent.com/wUjRrB_3swRV8j8gCVb-dxuIfMEhf3A1-J079FBNFMVLdZzMW6T4qTq5BzWk45oqH3E=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Updated weather provider url to provide more consistent weather responses."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.scoonwear.halftone&hl=en&gl=us",
+    "appId": "com.scoonwear.halftone"
+}

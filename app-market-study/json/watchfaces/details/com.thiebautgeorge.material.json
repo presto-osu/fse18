@@ -1,0 +1,58 @@
+{
+    "title": "Material Watch Face",
+    "summary": "Material Design Android Wear Watch Face",
+    "icon": "//lh3.ggpht.com/y0uqRVX09QvijONdTgH9wsFmCG165CmXSiQCaOFkBXUHaqf6YRDivzgBiSdG8mItMk3t=w300",
+    "price": "$1.20",
+    "free": false,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 530,
+    "developer": "Eric Thiebaut-George",
+    "developerId": "Eric+Thiebaut-George",
+    "developerEmail": "googleplaysupport@dungorm.com",
+    "developerAddress": "9 Skehanore\nSouth Douglas Road\nCork\nIreland",
+    "updated": "February 10, 2015",
+    "version": "1.16",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "The watch face that should be part of the standard Android Wear distribution! Features weather, date and obviously time, all in gorgeous Material design.It it optimised for both round and square watches. You can select the temperature unit (C/F) and the color scheme from its configuration panel, accessible from the Android Wear app by clicking on the watch face.It supports most Material primary (code 500) colors, so you can change it to pink if you feel like a Material Girl!Location and weather information is only updated every 2 hours, so battery usage should be very minimal.The date is localised and supports both 12 hour (am/pm) and 24 hour formats.Weather information is localised in the following languages: bs, de, en, es, fr, it, nl, pl, pt, ru and tet. In other languages, weather will show in English.NOTE: Please make sure your watch is running Android Wear 5.0.This Android Wear watch face will only work on Android Wear 5.0 and will therefore not work on most Samsung smart watches!Make sure you wait for about 30 seconds to a minute after the app is installed before looking for the watch face as it takes a bit of time to install.GPS and network is required in order to access local weather. The bottom panel will currently be blank if your phone does not have any location information or network access.To install:1. After install run Settings / \"Resync app\" on the Android Wear App on your phone2. Long press your android wear watch and choose \"Material\" as you watch face, or select the \"Material\" face from the Android Wear app on your mobile3. [Optional] From your mobile, click on the \"Material\" watch face to configure it. Make sure that the watch face is selected and visible (i.e. the screen is not dimmed/black) when you change settings as the watch needs to be on in order to receive the updated settingsCompatible with Moto360, LG G Watch R, Samsung Gear Live smartwatches (Round and Square)========================================================================Weather data provided by http://forecast.io/Weather icons from http://materialdesignicons.com/ (with modifications).Material design icon license:Copyright (c) 2014, Austin Andrews (http://materialdesignicons.com/),with Reserved Font Name Material Design Icons.Copyright (c) 2014, Google (http://www.google.com/design/)uses the license at https://github.com/google/material-design-icons/blob/master/LICENSEThis Font Software is licensed under the SIL Open Font License, Version 1.1.This license is copied below, and is also available with a FAQ at:http://scripts.sil.org/OFL",
+    "descriptionHTML": "The watch face that should be part of the standard Android Wear distribution! Features weather, date and obviously time, all in gorgeous Material design.<br><br>It it optimised for both round and square watches. You can select the temperature unit (C/F) and the color scheme from its configuration panel, accessible from the Android Wear app by clicking on the watch face.<br><br>It supports most Material primary (code 500) colors, so you can change it to pink if you feel like a Material Girl!<br><br>Location and weather information is only updated every 2 hours, so battery usage should be very minimal.<br><br>The date is localised and supports both 12 hour (am/pm) and 24 hour formats.<br>Weather information is localised in the following languages: bs, de, en, es, fr, it, nl, pl, pt, ru and tet. In other languages, weather will show in English.<br><br>NOTE: Please make sure your watch is running Android Wear 5.0.<br>This Android Wear watch face will only work on Android Wear 5.0 and will therefore not work on most Samsung smart watches!<br><br>Make sure you wait for about 30 seconds to a minute after the app is installed before looking for the watch face as it takes a bit of time to install.<br><br>GPS and network is required in order to access local weather. The bottom panel will currently be blank if your phone does not have any location information or network access.<br><br>To install:<br>1. After install run Settings / &quot;Resync app&quot; on the Android Wear App on your phone<br>2. Long press your android wear watch and choose &quot;Material&quot; as you watch face, or select the &quot;Material&quot; face from the Android Wear app on your mobile<br>3. [Optional] From your mobile, click on the &quot;Material&quot; watch face to configure it. Make sure that the watch face is selected and visible (i.e. the screen is not dimmed/black) when you change settings as the watch needs to be on in order to receive the updated settings<br><br>Compatible with Moto360, LG G Watch R, Samsung Gear Live smartwatches (Round and Square)<br><br>========================================================================<br><br>Weather data provided by http://forecast.io/<br><br>Weather icons from http://materialdesignicons.com/ (with modifications).<br><br>Material design icon license:<br><br>Copyright (c) 2014, Austin Andrews (http://materialdesignicons.com/),<br>with Reserved Font Name Material Design Icons.<br>Copyright (c) 2014, Google (http://www.google.com/design/)<br>uses the license at https://github.com/google/material-design-icons/blob/master/LICENSE<br><br>This Font Software is licensed under the SIL Open Font License, Version 1.1.<br>This license is copied below, and is also available with a FAQ at:<br>http://scripts.sil.org/OFL",
+    "histogram": {
+        "1": 22,
+        "2": 30,
+        "3": 59,
+        "4": 173,
+        "5": 246
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/xfrcCvz1FwFNZzjO3Pyy1jXNWioeQOVp3etZ9qsryR0mlqeHgf2LQoUj2JZ2Tow3ovc=h310",
+        "//lh3.ggpht.com/4uaw4Eih0z08MiBiONhUAl-brOlwVfkO4Y56g4W_6FvnPtEbQfn2tzqr9WvJuNzD_w=h310",
+        "//lh4.ggpht.com/X2c9xHZetaxE4TXDWw7t25souDddySn45XPpNm-LIuVkimblpuLiN_JjQFkeg9hPm9aS=h310",
+        "//lh6.ggpht.com/iPZH7CbRhZwLGyV3vj25Fmi0jQeGFLczJYo7NzqdXBT3Zob9ecAVie-cpRbW5VUx1Q=h310",
+        "//lh6.ggpht.com/_oFnYz_LtfKDGIzR0JXO8j2iX6iyZizjOwiJO44Ziu9Ga8omvUgxTU0kxsyh3SaSeTyT=h310",
+        "//lh5.ggpht.com/SG88d6zPyKW5mjHrk45odr0B4UvpAb1tj4uILHP2AITmuKRSjXiQTGbbkIR5dPe-HeE=h310",
+        "//lh3.ggpht.com/QGyOOeVDYou2aPRtwo3FzHirckGtoV6a3Cec2YkJIOVKavCSw7C3bm4AY9iLjIk5GVY2=h310",
+        "//lh6.ggpht.com/sDF0ZTs53A8ewMXqUuMTCkAed-K-tylGtiUMvirL3fvMejm9itc8MhaQupHYV8ftMg=h310"
+    ],
+    "comments": [
+        "Never showed up... Wish this had worked, seems like a decent watch face. Can see the app on my phone, but not in Android Wear, the settings don't stay set in the app, and it doesnt ever shiw up not on the watch. Restarted both, resynced the apps, nothing.  Guess that's why there's a refund button.  Read some of the previous responses and got it resolved. Very nice watch face.  You might want to fix that installation process though.",
+        "Everyone loves free But sometimes to get quality you have to put out that money! This watch face is modern, elegant and informative! It's customizable and clean! Numbers are clear and the app does little to nothing to the battery. Highly recommend and look forward to future updates! 🙋",
+        "Nice and clean Tried loads of faces think this one's a keeper.  One thing I miss is watch battery meter. Could you add that as a option to the bottom right? I'm using a Sony smartwatch 3 and theres loads of space there.",
+        "Good watch face. I really like this watch design.  I thought I had battery problems with it but it seems to have resolved.  After using some other faces, the only things I would say this face needs are maybe some options for battery notifications in the top corners.",
+        "Awesome, saves your battery This is by far the best watch face  for battery longevity. All the others kill me LG G watch in 8 hrs.  This watch face will last two days. Also the dev is super responsive to emails.",
+        "Always coming back to this one. This watch face is great. It's simple, quick to change settings, and easy to read. Only gripe would be no built in step counter or battery amount, but those would probably clutter the screen to much."
+    ],
+    "recentChanges": [
+        "Configuration activity is not material design too!",
+        "Added date display format"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.thiebautgeorge.material&hl=en&gl=us",
+    "appId": "com.thiebautgeorge.material"
+}

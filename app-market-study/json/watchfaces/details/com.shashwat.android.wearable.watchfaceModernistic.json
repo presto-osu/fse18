@@ -1,0 +1,50 @@
+{
+    "title": "Lucid Watch Face",
+    "summary": "A sharp looking, modern and clear to understand watch face for round displays!",
+    "icon": "//lh3.googleusercontent.com/_r7v-2atd43mtKRAo3kBHad-RGFX6-EnakgQauVEFyC_iJUm0KjWTuNW8PI0xE2jUjE=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.4,
+    "reviews": 5,
+    "developer": "Shashwat N",
+    "developerId": "Shashwat+N",
+    "developerEmail": "shashwat767@gmail.com",
+    "developerAddress": "B1/16 Raagdari,\nD.P.Road, Aundh,\nPune - 411007\nMaharashtra\nIndia",
+    "updated": "March 19, 2016",
+    "version": "1.01",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Designed for round displays, Lucid Watch Face is a no nonsense face made for times when you feel like going with an elegant, modern and a sharp looking watch face that won't be too overwhelming for certain outfits and at the same showing all the information one would need for daily use in an elegant way.Features :- - Change watch face color to blue, yellow, orange, red, green, pink & purple - Watch battery percentage  - Phone battery percentage - Date of the month - Month of the year - Day of the week - A digital 24 hour clock with a graphic indicator showing how much of the day is left / spent.  - Change watch face color from the handheld - Weather coming soon.... Lucid watch face!",
+    "descriptionHTML": "Designed for round displays, Lucid Watch Face is a no nonsense face made for times when you feel like going with an elegant, modern and a sharp looking watch face that won&apos;t be too overwhelming for certain outfits and at the same showing all the information one would need for daily use in an elegant way.<br><br>Features :-<br> - Change watch face color to blue, yellow, orange, red, green, pink &amp; purple<br> - Watch battery percentage <br> - Phone battery percentage<br> - Date of the month<br> - Month of the year<br> - Day of the week<br> - A digital 24 hour clock with a graphic indicator showing how much of the day is left / spent. <br> - Change watch face color from the handheld<br> - Weather coming soon.... <br><br>Lucid watch face!",
+    "histogram": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 2,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ilOhAfLUm7MJNodt97k1hphVDBDdpF3El79n9FExH_VgW2nCJ1OZI7MDbQGumuUVRSk=h310",
+        "//lh3.googleusercontent.com/nyPD9YtxnavCqSHD-JomG9Q2-3FXEp0vgzc4xyQOFHIKQHdbQ99FcYpFiKcXKkIYGPiM=h310",
+        "//lh3.googleusercontent.com/2WnPXlea0DqoSovcXhvZXNG4Ag0HocmvGPHPBENweE4Bw3pBSC94TXy94gM4era_aU8=h310",
+        "//lh3.googleusercontent.com/6RijCCAqF59HEX4tHGtOGzvNnY-7r2JQCJKH88Pn6X60uk51qc_y4MqSgmRTC_3ETg=h310",
+        "//lh3.googleusercontent.com/XQLlXlSqMt6KXgQgse8l95y3O4BM55W2F0XkRHzoIvBcy3Ltsklz9gi6LItt-dTh8bQ=h310",
+        "//lh3.googleusercontent.com/WMAEnENDusLH3Idm-EYnSM-rhu7bMuv3sO_4kb1XwKlOC0hfaRgNDwdpUsbNj7j_ekyu=h310",
+        "//lh3.googleusercontent.com/v8bR0QhR_sgi8b25r1vyNjPwCRrWqeQwHkU5UYBkVCDLwEh_38UkSan-iDczmD9AuQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Fixed a bug due to which the inner information sections appeared small on some watches.",
+        "- Supports more devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.shashwat.android.wearable.watchfaceModernistic&hl=en&gl=us",
+    "appId": "com.shashwat.android.wearable.watchfaceModernistic"
+}

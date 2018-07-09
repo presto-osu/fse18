@@ -1,0 +1,48 @@
+{
+    "title": "Techno Front",
+    "summary": "A Techno themed Watchface",
+    "icon": "//lh3.googleusercontent.com/l6S05rTL8ZtYFPsyDVVUWnSTSHyRilKKsf5ekaBpmT5YjxfeHdqXLtjw1oejWfXr1g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.8,
+    "reviews": 4,
+    "developer": "Irshu Lx",
+    "developerId": "Irshu+Lx",
+    "developerEmail": "irshu@outlook.com",
+    "developerWebsite": "http://www.irshux.net",
+    "updated": "July 15, 2016",
+    "version": "2.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A Techno themed Watchface with the interface going red when battery depleted below 30%.",
+    "descriptionHTML": "A Techno themed Watchface with the interface going red when battery depleted below 30%.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6U8SPtHHpn-Dvz0MCYmSfn0lXgXAmzjVXnkXlUF6EG7eVy0NPCSro7WxSOdLPD5DMA=h310",
+        "//lh3.googleusercontent.com/jSQdvDR1TMjln15HTmN9o1FrBIkVX1ZYL1PLUt1bOFOnG1mRZNeWy3Ie1oGwj5hHCJe7=h310",
+        "//lh3.googleusercontent.com/SpZLsp8uml0nB9mqfZWh7VIqDRsDoc4aDLbl9lqRxD0-GsSmnxCy6cEhcpCdhSF4hjCu=h310",
+        "//lh3.googleusercontent.com/WzlAN3NYtTCHdNzwM5MoYZhzjR4k80HUG-FnMUUuCzqu53xJacWYfmHgk5_q9yp-nC8=h310",
+        "//lh3.googleusercontent.com/eVyeUir86GnftwA8Kqvm4N7IJVSpJaK9mR2ZelkRk5nFt2KuRfK_xGE0HzQFNtp5_rE=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "-  Lighter",
+        "- Layout fix for rounded devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=irshulx.github.com.watchface&hl=en&gl=us",
+    "appId": "irshulx.github.com.watchface"
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Glow Watch Face",
+    "summary": "A minimal watch face for Android Wear, with glow effect, digital &amp; analog",
+    "icon": "//lh3.googleusercontent.com/nKS2dNja__LWHPXms3hh60yHNT4Vx7bDsthYH2H4qoVQVStWL0m2AeFYVRAcPIUdEQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.2,
+    "reviews": 5,
+    "developer": "Anthony Stéphan",
+    "developerId": "5122015473710814043",
+    "developerEmail": "anthony.st91@gmail.com",
+    "developerAddress": "5 Square des Villebenettes\nLes Grandes Terres\n78160 Marly-Le-Roi",
+    "updated": "April 22, 2016",
+    "version": "1.02",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Simple. Clear. Minimal. Customizable.Analog and digital at the same time : - Analog by the hours and minutes hands- Digital by the digits hidden inside the drawn at the edgeCustomizable from the wear app and from the mobile app :- Glow color, intensity- Hands aspect, length, width, stroke...- Edge aspect, stroke, position...- 3-taps application to launch",
+    "descriptionHTML": "Simple. Clear. Minimal. Customizable.<br><br>Analog and digital at the same time : <br>- Analog by the hours and minutes hands<br>- Digital by the digits hidden inside the drawn at the edge<br><br>Customizable from the wear app and from the mobile app :<br>- Glow color, intensity<br>- Hands aspect, length, width, stroke...<br>- Edge aspect, stroke, position...<br>- 3-taps application to launch",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/eIR7HVYIiqrXeCLakCjPG3KIHqUIXjZ-gee5UkMdh3nImPYvR_5GJjqKRk8ELsGs5rU=h310",
+        "//lh3.googleusercontent.com/frtOoy85Dk0MegZZbOAJAAO17PMuVDtdFkIiZW1OktWG6uXOCbXiyE_QVxExjh5Cdg=h310",
+        "//lh3.googleusercontent.com/lhO4LpyzHS39xq_jadhP0d0zbLyjuUIVGEauTV8-SN5v9Jwk9XUsS92UZqx7BuPXfTA=h310",
+        "//lh3.googleusercontent.com/ZkGycTGn9goO-cbAsL9ahhWAbfz3INOUQAtyGXkhUqSyiKfEyh5_AalTj6peVrzsDMk=h310",
+        "//lh3.googleusercontent.com/JDXAtxfCoVXqxvQvgcoB1VPOX04xtOOiRTu1xcEa3_sqzYXfibG0-Occxn-O_aMPGGY=h310",
+        "//lh3.googleusercontent.com/_vPkwugOCAlEVbETNvt1a-3j7HwRA2NjYpjyEKTLD46Sp-qS6xf6OGAmlnDJgcXRv_w=h310",
+        "//lh3.googleusercontent.com/vmpte2ck5v61oo4W_fqdOpOxmY5WqcS62mvfBO422SMRr0JZ2qFRKWHgII3SgL5i1XA=h310",
+        "//lh3.googleusercontent.com/qwdLkx9VCzsubGyx9vRh_Omo1ft0Ztv3C7x9I914PQnRGZqZT9joPdURysCxaLHMvQ=h310",
+        "//lh3.googleusercontent.com/PubT7DhfL5jblXf_alSDOVSv5vsZZDxw_jDNBj7rwyGHd5yekbC3W__lf6tYq0M0ouI=h310",
+        "//lh3.googleusercontent.com/k6ZUSXZwtxmwb7c_WQ3Vq9RpwLwTe94EP7rc8YQ9EL4VNALVd1zVOuGAgWx3cr2iQw=h310",
+        "//lh3.googleusercontent.com/gPgrmAw-TlUY1vr5Mi9Z0LaeYvYJKogruL60udQTRKKRFJqY1HyMqKlyb7fFD6aRdPU=h310",
+        "//lh3.googleusercontent.com/SV7bcg1MVSaSVzN8DZbr7jGQJDWqaYF_oMmupORuU_99clBmm07-4K4t0062brlfk-Mn=h310"
+    ],
+    "comments": [
+        "Very simple and nice. I didn't know of the hidden digital time and must say it shows good creativity on the part of the author."
+    ],
+    "recentChanges": [
+        "Many settings are now available on wear app and phone app !"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fr.yochi376.glowwatchface&hl=en&gl=us",
+    "appId": "fr.yochi376.glowwatchface"
+}

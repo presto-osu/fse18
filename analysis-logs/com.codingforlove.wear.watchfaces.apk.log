@@ -1,0 +1,100 @@
+Soot started on Thu Jun 21 10:56:01 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.codingforlove.wear.watchfaces.SpringMeshWatchFace
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.codingforlove.wear.watchfaces.apk
+[INFO] MySceneTransformer: ############## com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   48
+[INFO] FlowGraph: @@@@ Total Methods: 384
+[INFO] FlowGraph: @@@@ Total Stmts:   10856
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.codingforlove.wear.watchfaces.SpringMeshWatchFace$MyEngine]1970,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.standby()
+[INFO] MySceneTransformer: TOTAL TIME: 1.977000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 10:56:06 EDT 2018

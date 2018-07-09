@@ -1,0 +1,54 @@
+{
+    "title": "Crédit Mutuel de Bretagne",
+    "summary": "Simply and safely check your accounts, make transfers, check the stock...",
+    "icon": "//lh3.googleusercontent.com/u2sJtrhVGjpXZs4sZ1wuOxpBfO3WXb0w4DDp31IqgdgV_oB8gEEpdnDgBxqgqbdAamZO=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.6,
+    "reviews": 2621,
+    "developer": "Crédit Mutuel Arkea",
+    "developerId": "Cr%C3%A9dit+Mutuel+Arkea",
+    "developerEmail": "community.manager@arkea.com",
+    "developerWebsite": "http://www.cmb.fr",
+    "updated": "March 1, 2018",
+    "version": "M6.3.5",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Download the CMB application for free. Simply and safely check your accounts, make transfers, check the stock market, get a virtual payment card number, call the Customer Service HelpDesk... Exclusive : the application shows you the way to the closest CMB ATM or bank branch !",
+    "descriptionHTML": "Download the CMB application for free. Simply and safely check your accounts, make transfers, check the stock market, get a virtual payment card number, call the Customer Service HelpDesk... Exclusive : the application shows you the way to the closest CMB ATM or bank branch !",
+    "histogram": {
+        "1": 383,
+        "2": 253,
+        "3": 332,
+        "4": 650,
+        "5": 1003
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_fn0ffkNlM8oFR6IkJZD3i1VTKDqkHdLZ1Cjx1qkb4Q0aa8CyoSm9lWiPmBaTbDj9ME=h310",
+        "//lh3.googleusercontent.com/hwvdMs0WmaNJcVAW2ueZexmy9YKxcT4V_SxkuBu1jWfXWjA5M9LOW2Ou1-tJKbwc4g=h310",
+        "//lh3.googleusercontent.com/oZgC5fHd0j7LErLPT-3LoTYxAJznRDQfOm07EAoMacEnEd2M7zoZSGfQXpvzo9EN3tM=h310",
+        "//lh3.googleusercontent.com/ooi7fBg7IGH_HRGHty-i8XZM1BewbdrgbFaZLqQIw0FDCdID9z9Ols3t6hS5W3bOy3c=h310",
+        "//lh3.googleusercontent.com/zAWNomUgH7cY_nHZ1JZEYAbPo0BWRCMLLRnKmvwq3lxgX-vcYCEdJUezcCFi3RtqVsvy=h310"
+    ],
+    "comments": [
+        "Satisfait avec l app, par contre je n ai pas acces aux signatures electroniques sur le site. L onglet Devis et Contrats n apparait pas dans Mon Actualite.",
+        "Cela marchait très bien jusqu'ici mais depuis les dernières mises à jours elle crashe systématiquement après avoir touché le bouton connexion...",
+        "Impossible de se connecter, le mot de passe est systématiquement refusé. J'utilise pourtant un gestionnaire de mots de passe et je n'ai aucun souci pour me connecter sur PC. Le gestionnaire est synchronisé entre PC et mobile donc le mot de passe saisi est correct (je l'ai même saisi manuellement pour être sûr mais rien n'y fait). J'ai déjà bloqué mon accès une fois, je viens de le débloquer en agence, et de nouveau \"identifiant ou mot de passe non reconnu\", et toujours aucun souci sur PC.",
+        "Tes bonne application, mais pourquoi une notification est-elle affichée chaque fois que je passe hors ligne alors que je n'utilise pas l'application ? C'est assez invasif.",
+        "L'application ne fonctionne plus depuis que je suis passé à Android Nougat. C'est très gênant car je ne suis pas en France et l'application est mon seul moyen de gérer mes comptes ayant perdus mes identifiants de connexion...  Ce serait bien de sortir assez vite une version compatible.",
+        "La place que prend la nouvelle version de l'application est beaucoup trop importante"
+    ],
+    "recentChanges": [
+        "Nous vous proposons désormais d'ajouter à votre agenda vos rendez-vous pour les assemblés générales à venir !"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.arkea.android.application.cmb&hl=en&gl=us",
+    "appId": "com.arkea.android.application.cmb"
+}

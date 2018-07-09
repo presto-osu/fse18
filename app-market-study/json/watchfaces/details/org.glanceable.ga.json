@@ -1,0 +1,49 @@
+{
+    "title": "Glance Analytics Watch Face",
+    "summary": "Showing Google Analytics metrics on your Android Watch as a Watch Face.",
+    "icon": "//lh3.ggpht.com/q5xx90iX8b0jG4K-Fb_GVcvDIT4WoYX8TrEnwsmntvWtl7JU1ubY1d6korwyvrU7Fw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 6,
+    "developer": "Lin Jiao",
+    "developerId": "Lin+Jiao",
+    "developerEmail": "lin@glanceable.org",
+    "developerWebsite": "http://www.glanceable.org",
+    "updated": "March 15, 2015",
+    "version": "1.0.2",
+    "genre": "Business",
+    "genreId": "BUSINESS",
+    "description": "Do you check your Google Analytics stats a lot? Now the metrics are available right on your watch face, all the time. Are there some other number you care about a lot? You could track them on Google analytics and show them on your smart watch.Setup: 1. Open the phone app and select the analytics web property.2. Select \"Analytics Watch Face\" on your Android Wear companion app or on the watch. It may take a few minutes before the watch face show up after install.This is an early version to get feedback. A lot more improvements to come. Comments welcome. Contact me on http://www.twitter.com/glance_able",
+    "descriptionHTML": "Do you check your Google Analytics stats a lot? Now the metrics are available right on your watch face, all the time. <br>Are there some other number you care about a lot? You could track them on Google analytics and show them on your smart watch.<br><br>Setup: <br>1. Open the phone app and select the analytics web property.<br>2. Select &quot;Analytics Watch Face&quot; on your Android Wear companion app or on the watch. It may take a few minutes before the watch face show up after install.<br><br>This is an early version to get feedback. A lot more improvements to come. Comments welcome. Contact me on http://www.twitter.com/glance_able",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/zLz9adjESkknd6qEHuoRWWCXCPu-7y1b_S2RQ1G1uvvx_dhYqCGHNeBeGzYTEKpYOgU=h310",
+        "//lh5.ggpht.com/XGaZG0Dtwev8iKRrBgI7P_vMBL2tM7iFhGDqtQGfi78ICHFb48o_ZnUO0WHIb9pE8zw=h310",
+        "//lh3.ggpht.com/QioKwYq_IvziUy0Ccm-jqpDuJLfBS3TEUm1CWtf3LAnEtDUs21kVMurtPU4TAHqzMFS2=h310",
+        "//lh6.ggpht.com/azy5h89wyv9XRZgNu7BQoZcr5iahp1-0N6wtAISGU0qFbY832FMV8Ny22orucIh-vQ=h310",
+        "//lh5.ggpht.com/taIhBDH3KwRsl_jhzDA5C_PMNUV32ud8VPT8gAJxNR9JIfMOX622szNrIgShmdou-Qc=h310"
+    ],
+    "comments": [
+        "Can't get this to install on Gear 2 Would love this app if it worked.."
+    ],
+    "recentChanges": [
+        "Added a chart dashboard. You can select the metric to plot from the phone app."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.glanceable.ga&hl=en&gl=us",
+    "appId": "org.glanceable.ga"
+}

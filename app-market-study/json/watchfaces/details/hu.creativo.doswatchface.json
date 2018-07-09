@@ -1,0 +1,59 @@
+{
+    "title": "DOS Watch Face",
+    "summary": "Remember DOS? Check out this unique Watch Face, and feel the power of DOS!",
+    "icon": "//lh3.googleusercontent.com/HehWV5nnZblvPdUkC4HWvr_lefX2RICevEjVEP1B4yHm73sU0OruyT3wH29gbuIeMTg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 126,
+    "developer": "Creativo",
+    "developerId": "4848612940943915281",
+    "developerEmail": "info@creativo.hu",
+    "developerWebsite": "http://creativo.hu",
+    "developerAddress": "H-3300, Hungary Eger, Malomarok st 54",
+    "updated": "February 9, 2018",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Remember DOS?With this unique watch face you can remember the good old days.- Watchface support round and square watches, and ambient mode too.- Displays:  - Time (multiple formats supported)  - Date (multiple formats supported)  - Step count  - Battery level (wear + handset if installed on it too)  - Weather (Temperature and weather condition icon (also moon phase on clear nights)  - Complication support (any data provider, eg Calendar, Play Music)- Multiple color templates and a color picker if you want your own color.- Multiple fonts (Digital, Consolas, ...), and font sizes!- Full Wear 2.0 supportWorks on all Google Android Wear devices!(sorry, no phone functionality, but if you install phone companion, you can see the phone's battery level)Weather updated in every 60 minutes. If there is 'No GPS info' error check the settings and enable GPS access. Also some Wear devices needs restarting to apply the GPS enable setting. So if not working, check the rights, reboot.Feel free to share your ideas about the program, so that may be implemented. (Some users already give good ideas, and some of them are implemented). So send an email ;)",
+    "descriptionHTML": "Remember DOS?<br>With this unique watch face you can remember the good old days.<br><br>- Watchface support round and square watches, and ambient mode too.<br>- Displays:<br>  - Time (multiple formats supported)<br>  - Date (multiple formats supported)<br>  - Step count<br>  - Battery level (wear + handset if installed on it too)<br>  - Weather (Temperature and weather condition icon (also moon phase on clear nights)<br>  - Complication support (any data provider, eg Calendar, Play Music)<br>- Multiple color templates and a color picker if you want your own color.<br>- Multiple fonts (Digital, Consolas, ...), and font sizes!<br>- Full Wear 2.0 support<br><br>Works on all Google Android Wear devices!<br>(sorry, no phone functionality, but if you install phone companion, you can see the phone&apos;s battery level)<br><br><br>Weather updated in every 60 minutes. If there is &apos;No GPS info&apos; error check the settings and enable GPS access. Also some Wear devices needs restarting to apply the GPS enable setting. So if not working, check the rights, reboot.<br><br><br>Feel free to share your ideas about the program, so that may be implemented. (Some users already give good ideas, and some of them are implemented). So send an email ;)",
+    "histogram": {
+        "1": 10,
+        "2": 1,
+        "3": 5,
+        "4": 16,
+        "5": 94
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/22_JiR2McdV1T9pxysIFd_TOHzACfnlveotSIXlAKM7IW3IKar_dmsDaDFv-YehDkhM=h310",
+        "//lh3.googleusercontent.com/8yhXUJ-5FUPDHmIXXCfROdX0yLwGpdAjDRK8HeYGbOAm-eL-MPAQqGh-CCg_fuDwIQ=h310",
+        "//lh3.googleusercontent.com/OKs3DFptfvrrQ-Em1syDrIkNc8MNs3EPDbJxwXnp839KF9Tl9CQQA6I7Ceq4omOEl6o=h310",
+        "//lh3.googleusercontent.com/oCvhIxzh8XH2sZN5aF6CZfMaNydzhYdYtzd7s1spxy_v7AwvBdWwMfb2kw6NHmN4CQ=h310",
+        "//lh3.googleusercontent.com/ULFaRBVjz2UccQgWMB6Y9jzx6TrVK57l_z6KJm9hc6jbT1gCZbSoDAyx3DBqhvbR4z8=h310",
+        "//lh3.googleusercontent.com/byP0BFR6HmNWSG9kul8zG71zMn-ynVpvPsFU8CTZxC8XIlb3daQreq0muUwKt6kSQ80=h310"
+    ],
+    "comments": [
+        "Nice watch face",
+        "Love the way this looked, & yes I remember this in my nightmares, but then again, what this is for only existed in our imaginations @the time. The \"smartwatch\" was a Star Trek communicator, or Dick Tracy watch not something actually feasible! My how far we've come! Sadly though, this doesn't work with Tizen.",
+        "I only get network error for weather, it doesn't display anything else. I checked settings, app permission, gps and everything. Pretty upset it doesn't work  I have tried turning both devices off and back on, & yes I have internet connection.",
+        "Very good watch face and looks exactly how I wanted it to, however the notification counter can be very slow to update, and it would be nice to have the option to disable it entirely",
+        "If you're as old and Geeky as me you'll love this :)",
+        "Lovely watch face, great idea. One issue I find on Moto 360 gen 2,when I go to change favorite watch faves in wear 2.0 the menu crashes, I have tested it by removing the app and it works fine when DOS watch is not installed.  Also the option to ronove the notification counter or turn it white with ambient mode would be nice.  Also the counter doesn't fit on the screen.  Plus an option to remove seconds in the main watch would be cool. I know I'm asking alot but just firing ideas."
+    ],
+    "recentChanges": [
+        "New option, to hide the notification count.",
+        "There is a bug in Wear 2.8, that causes the notification count shown incorrectly. No good workaround now, so you can hide it.",
+        "I'll look for a solution, till Google fixes it."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=hu.creativo.doswatchface&hl=en&gl=us",
+    "appId": "hu.creativo.doswatchface"
+}

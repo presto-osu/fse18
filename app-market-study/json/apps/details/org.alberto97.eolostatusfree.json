@@ -1,0 +1,58 @@
+{
+    "title": "Eolo Status",
+    "summary": "NOT official application to monitor the consumption of tenders EOLO NGI",
+    "icon": "//lh3.googleusercontent.com/0xQB7Wp79LyUVXXHXnL6Y9A6JMhKoML3bjKczNREmAfYrC6umbmcM7f5FYRWXNdZQ1M=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 175,
+    "developer": "Alberto97",
+    "developerId": "6891464730852554224",
+    "developerEmail": "albertop2197@gmail.com",
+    "developerWebsite": "http://alberto97.altervista.org/eolo",
+    "developerAddress": "Via Calti Pendice, Teolo, PD",
+    "updated": "December 23, 2017",
+    "version": "2.2.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "EoloStatus è un'applicazione NON UFFICIALE utile per tenere sotto controllo i consumi delle offerte Eolo di NGI.Fornisce informazioni per quanto riguarda la scadenza del traffico, il traffico consumato, il traffico disponibile e la quota della propria offerta.Per poter visualizzare i dati è necessario essersi connessi ad una rete Eolo con un'offerta attiva almeno una volta. Nel caso non si fosse connessi ad una rete Eolo i dati non verranno aggiornati, ma semplicemente sarà possibile visualizzare quelli già in memoria.",
+    "descriptionHTML": "EoloStatus &#xE8; un&apos;applicazione NON UFFICIALE utile per tenere sotto controllo i consumi delle offerte Eolo di NGI.<br>Fornisce informazioni per quanto riguarda la scadenza del traffico, il traffico consumato, il traffico disponibile e la quota della propria offerta.<br>Per poter visualizzare i dati &#xE8; necessario essersi connessi ad una rete Eolo con un&apos;offerta attiva almeno una volta. Nel caso non si fosse connessi ad una rete Eolo i dati non verranno aggiornati, ma semplicemente sar&#xE0; possibile visualizzare quelli gi&#xE0; in memoria.",
+    "histogram": {
+        "1": 39,
+        "2": 9,
+        "3": 13,
+        "4": 21,
+        "5": 93
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/sm-Oh9FghOfnG5aQON33Vp_PwDRG484OH5zBupKiuXZG8QoRDyV8MLaQysP9lLAfYQ=h310",
+        "//lh3.googleusercontent.com/hiP4p-Bs2fP7WBsbTmiZRUUpuZjMOfTzmb-Ds4TesbM5iac-RlCfaUSnMEFcAZm337I=h310",
+        "//lh3.googleusercontent.com/GJQn_2rK1OStSmViYGSdUwS8e1Va1s_8WMJT3A8fm4p8PbnbHFrvg_T9p7KmRSw9_WE=h310",
+        "//lh3.googleusercontent.com/DfZBD936Vh-yRCHSxaw6iWdqWNBivz6v1PiONPhe95heaLC7E2V29j868tDVtF6rFQ=h310",
+        "//lh3.googleusercontent.com/eXQd5CP70ZVZlgA5OUTNM_imv0pOe7PTyv6nkU5GjLbcag6CytA6QD-L-E3tqrlGLdM=h310",
+        "//lh3.googleusercontent.com/sx4tvcOMSyoRYSnWpnTQjjF-cjooALlqbTv88bkF7NODcKhNuf97zDy1LiwIpVOPy1E=h310"
+    ],
+    "comments": [
+        "Purtroppo da qualche giorno non funziona più, dice \"non sei connesso ad una rete eolo oppure non hai dati salvati\"",
+        "Non mi funziona ma l'app va Nonostante sia connesso alla rete Eolo di casa mia l'applicazione non funziona, si avvia ma non la rileva! Suggerimenti? Sono ovviamente disponibile a cambiare la recensione nel caso risolva il problema. EDIT: Sviluppatore molto disponibile, era \"colpa\" mia che non sapevo di avere un offerta che è illimitata (pur non essendo stata pubblicizzata come tale)",
+        "Anche in landscape Vorrei stringere la mano al grandissimo grafico che ti aiuta, dev'essere un grande. Per il resto ottima app! Funziona esattamente come dovrebbe!"
+    ],
+    "recentChanges": [
+        "- Nuova UI",
+        "- Aggiunto il supporto ad Android Oreo",
+        "- Adozione delle icone adattive",
+        "- Introduzione delle notifiche di basso traffico residuo (disponibile solamente su dispositivi con Lollipop o versione di Android più recente)",
+        "- Possibilità di ridimensionamento del widget",
+        "- Vari bugfix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.alberto97.eolostatusfree&hl=en&gl=us",
+    "appId": "org.alberto97.eolostatusfree"
+}

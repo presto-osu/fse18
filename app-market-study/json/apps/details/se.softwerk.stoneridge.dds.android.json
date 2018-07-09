@@ -1,0 +1,55 @@
+{
+    "title": "Stoneridge Duo Mobile",
+    "summary": "Get the driver data from your Stoneridge tachograph live.",
+    "icon": "//lh3.ggpht.com/m8qRfLNFjDdYU-Sovy5dPxM6LPGMRJS9gR6FXwVyUBCuDaO09hHeZIEFzuEsLKkWcWM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 116,
+    "developer": "Stoneridge Electronics Ltd",
+    "developerId": "Stoneridge+Electronics+Ltd",
+    "developerEmail": "mikael.jansson@stoneridge.com",
+    "developerWebsite": "http://www.se5000.com",
+    "developerAddress": "Charles Bowman Avenue, Claverhouse Industrial Estate, Dundee DD4 9UB, United Kingdom",
+    "updated": "April 21, 2016",
+    "version": "2.6.2",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Duo Mobile was created to make life easier for drivers and help keep them legal*. The app connects to your SE5000 Exakt Duo tachograph via the Tacho Link dongle** and turns your phone into a second Duo display. Showing Stoneridge’s innovative Duo technology, it provides a real time overview of daily, weekly and monthly drive, break and rest times. With automatic countdowns to your next break or daily rest period, drivers can now easily plan your journey ahead, ultimately making fleets more efficient. *Provides a guide according to 561/2006.**Purchase here: https://www.optac.info/uk/download-tools/tacho-link-dongle/",
+    "descriptionHTML": "Duo Mobile was created to make life easier for drivers and help keep them legal*. <br><br>The app connects to your SE5000 Exakt Duo tachograph via the Tacho Link dongle** and turns your phone into a second Duo display. <br><br>Showing Stoneridge&#x2019;s innovative Duo technology, it provides a real time overview of daily, weekly and monthly drive, break and rest times. With automatic countdowns to your next break or daily rest period, drivers can now easily plan your journey ahead, ultimately making fleets more efficient. <br><br>*Provides a guide according to 561/2006.<br>**Purchase here: https://www.optac.info/uk/download-tools/tacho-link-dongle/",
+    "histogram": {
+        "1": 18,
+        "2": 7,
+        "3": 12,
+        "4": 16,
+        "5": 63
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/oIINq6z_MSilzA0EeoKl9o6ZWj310ARM-Uw7zaTZUnT1hA6PWCPnx06aLYZGuRe2emg=h310",
+        "//lh6.ggpht.com/JZW5nwHOvMc48c20uwS6wJ3dww1xibqWqKTe0Ft6IBc8m3nCZBD53ZLxJifi3A0s4IU6=h310",
+        "//lh5.ggpht.com/XTi-oxUF4szTwyN33AXIamrW9-RQX_UAUpJqQgY6a2Hx_If6acz3zXJLFEw6G4ws3Z0=h310",
+        "//lh6.ggpht.com/m5rPshdkJhf0pD_A1iBRM5oEZi7Ms_XwEhtzrz3l1dLjeNsHbYk4tUnx0Bd0ueTKhYmY=h310",
+        "//lh4.ggpht.com/pUN6_ntTuy0o0z5WwynyaG_Jwg7iX9BDK7B980eacYbSLjd2KBCRCc0Pw6XtWibegNNu=h310",
+        "//lh6.ggpht.com/M8m8pyviObmkd7EHmjriGez82kis4M8Wdo6P6rMcBtK5Zyi06NhquUmF4jyXly4yu7U=h310",
+        "https://lh5.ggpht.com/wrSOQseKNUCIuvjyrjW9PGsO9MP2bVGeNt5_RvbHBTrzJfN1tCigK3suiymyhWnXsA=h310",
+        "//lh5.ggpht.com/Ai8Y4eXmnitMy4Qqd4A3Wl0qCNokFOiXrDHAmYkMQc_tQvh-sqsS99Pv9U93bnMOfig=h310"
+    ],
+    "comments": [
+        "Finally",
+        "Nice I want the dongle!",
+        "How about making it work through gps"
+    ],
+    "recentChanges": [
+        "Update to be compatible with Android version 6+"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.softwerk.stoneridge.dds.android&hl=en&gl=us",
+    "appId": "se.softwerk.stoneridge.dds.android"
+}

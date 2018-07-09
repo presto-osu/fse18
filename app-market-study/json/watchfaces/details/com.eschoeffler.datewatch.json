@@ -1,0 +1,51 @@
+{
+    "title": "Date Watch Face",
+    "summary": "A simple Android Wear watch face that includes the date and upcoming events.",
+    "icon": "//lh3.googleusercontent.com/tuEqWCQQdJkA3uE9RXeHjuOd3njbF5od6ObAjEKdqgQnX9N0WVWElmxhRes-wjGMAEw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.3,
+    "reviews": 70,
+    "developer": "eChef",
+    "developerId": "eChef",
+    "developerEmail": "eschoeffler@gmail.com",
+    "updated": "August 25, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Borrowing from other available watch face designs, this Android Wear watch face adds today's date as well as your next upcoming event from Google Calendar. Choose from a digital or analog version.Disclaimer: I built this primarily for my Moto 360, so it may not look great on square watches. If there is enough interest, I'll clean up the design for square watches. Let me know in the comments if theres anything else you'd like in this watch face.",
+    "descriptionHTML": "Borrowing from other available watch face designs, this Android Wear watch face adds today&apos;s date as well as your next upcoming event from Google Calendar. Choose from a digital or analog version.<br><br><br>Disclaimer: I built this primarily for my Moto 360, so it may not look great on square watches. If there is enough interest, I&apos;ll clean up the design for square watches. Let me know in the comments if theres anything else you&apos;d like in this watch face.",
+    "histogram": {
+        "1": 2,
+        "2": 4,
+        "3": 4,
+        "4": 19,
+        "5": 41
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/l8ga7MvMrF6akqVfnJ36LDoMVe7AWUhXi5t3-8NBeh8iz5DAqxLCMK0q0z-w7IbH4HU=h310",
+        "//lh3.googleusercontent.com/EPtDFQS1T9KI6R6rVS2dafQvLpctFlzg-l2x5VZdASL2B-NBQRN8M9EGtdjPc1EvihA=h310",
+        "//lh3.googleusercontent.com/6plDD5ozsqkoaiIXdxUheT5PIickswCHH7_7JGVZg9p6M9dC6kaIcH5nJ34rxofO-A=h310"
+    ],
+    "comments": [
+        "BEST.  CALENDAR. WATCH FACE.  EVER!  I have tried and dropped 7 or 8 different calendar watch faces. My life planning depends on seeing my appointments on my watch face.  This is exactly what I was looking for.  I uninstalled Microsoft Outlook to go with this. Outlook was buggy, sometimes didn't show my events, and took way too long to load events onto the watch face.  This app is smooth and immediate.  Dev: I would gladly pay for the ability to change colors, especially to assign colors to different calendars.  But not if it makes the app buggy.  The smooth simplicity of this is what I love about it.  Very, very, VERY well done!",
+        "Does the job, keeps me knowing what's coming up and gives a visual for how long the event will continue.  With Android Wear 2.0 a watch face doesn't need to do everything because it's easy to switch between favorites, so it's this and a seperate dedicated weather face.",
+        "Really loving this thing. I have multiple events during the day, it's this kind of app that makes the watch shine.  Really appreciate it Dev, kudos!",
+        "Simply done and almost perfect Love the watch, looks great and is quick and easy to see my daily agenda. Would just like some more options like color, numbers on analog, notches on/off, etc. Still awesome watch face.",
+        "Works well for giving me a list of upcoming events on my calendar, just wished those color bars were visible on a square watch face. I'm using a Sony Smartwatch 3 and it doesn't look the same as seen in the screenshots. It's still usable, just wish that feature worked for my watch is all.",
+        "Simple and I like it, could be more Would be nice to change the color of the hand, or have black and white version... more customization"
+    ],
+    "recentChanges": [
+        "Fixed bug where time wasn't being updated on digital face without ambient mode on."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.eschoeffler.datewatch&hl=en&gl=us",
+    "appId": "com.eschoeffler.datewatch"
+}

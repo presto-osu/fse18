@@ -1,0 +1,59 @@
+{
+    "title": "Wearable Chess | Android Wear",
+    "summary": "Wearable Chess - the best free game for your Android Wear Smartwatch!",
+    "icon": "//lh3.googleusercontent.com/BMkxuXzOiHYEIcexdKwlrF9N-JjkgwnP5b_A4KjHcIA2C8iXoy7yt3YUygNFF_PXxG0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.5,
+    "reviews": 44,
+    "developer": "Orangutan Development",
+    "developerId": "Orangutan+Development",
+    "developerEmail": "orangutandevelopment@gmail.com",
+    "developerWebsite": "http://www.orangutandevelopment.com",
+    "developerAddress": "Brisbane, Australia",
+    "updated": "April 20, 2016",
+    "version": "1.2.0.2",
+    "genre": "Board",
+    "genreId": "GAME_BOARD",
+    "description": "Enjoy the classic game of chess for free on your wrist with Wearable Chess!If you don't have time to complete a game in one session, Wearable Chess will remember the position on the board and resume play when you re-open the app. You can start a new game at any time.Round screens (like that of the Moto 360) are supported.Features include:- Undo move, in case you make a mistake- The best AI opponent available for your wrist- Option to highlight legal moves- Option to vibrate when the CPU makes a moveIf you upgrade to Wearable Chess Pro, you also get- Improved AI with difficulty levels- The ability to play as either white or black- Two different chessboard styles- Dark theme to save battery lifeBest of all, this free edition is open-source! https://github.com/mitchazj/Wearable-ChessGame play is powered by Toledo Nanochess, a small, powerful, open-source chess engine developed by Óscar Toledo Gutiérrez. (nanochess.org)",
+    "descriptionHTML": "Enjoy the classic game of chess for free on your wrist with Wearable Chess!<br><br>If you don&apos;t have time to complete a game in one session, Wearable Chess will remember the position on the board and resume play when you re-open the app. You can start a new game at any time.<br><br>Round screens (like that of the Moto 360) are supported.<br><br>Features include:<br>- Undo move, in case you make a mistake<br>- The best AI opponent available for your wrist<br>- Option to highlight legal moves<br>- Option to vibrate when the CPU makes a move<br><br>If you upgrade to Wearable Chess Pro, you also get<br>- Improved AI with difficulty levels<br>- The ability to play as either white or black<br>- Two different chessboard styles<br>- Dark theme to save battery life<br><br>Best of all, this free edition is open-source! https://github.com/mitchazj/Wearable-Chess<br><br>Game play is powered by Toledo Nanochess, a small, powerful, open-source chess engine developed by &#xD3;scar Toledo Guti&#xE9;rrez. (nanochess.org)",
+    "histogram": {
+        "1": 10,
+        "2": 4,
+        "3": 3,
+        "4": 6,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/i2sGeRo7EabWiCiIN405hEQfbxWU3lQhp9N23EOMnzOscJMfTQuQaFpBxyigQn0_KYe9=h310",
+        "//lh3.googleusercontent.com/WGwGBB4MysB0MX6FSsibdx3NB2B_tKpfGkQt9P8T9lIXmnZuCQMWIPUOeP-xaaO_ICs=h310",
+        "//lh3.googleusercontent.com/L0AJ1MadKzc07afY_ZwE8ug8g-pDJ86Xz79NOmOWoBeWSR6STSJV7VnQcy3ejijxNMaK=h310",
+        "//lh3.googleusercontent.com/r4dZOrOtwgzRr89KnmP5HjgLQaHse1T4gtFkQeF-2L3ox6G20mxwJ_LvQxya5LNCTaw=h310",
+        "//lh3.googleusercontent.com/_M0bw1S71amIa6FuQbtHzzUx4Japk4ONqft1zfrf-o6HWDpXrcrGSjjQnKVcbB6uceA=h310",
+        "//lh3.googleusercontent.com/4ln_SYza4S6x5ubulP4zWqwdrEEt6qw6aKh_4GR-kcbYHop8N4y23FyAggPHWTkxwHo=h310",
+        "//lh3.googleusercontent.com/hSfJe3_15Ti38crXmjlxxjGWz2-MTRn2-_LY1ZdAd5Esjpj2ctcx-XpBAlHiKeC1srg=h310"
+    ],
+    "video": "https://www.youtube.com/embed/tlOOE964ryo",
+    "comments": [
+        "Unresponsive ai Ai still unresponsive at times and sometimes takes really long to move on the moto 360 2nd gen.",
+        "Game gets stuck on itself and I'm waiting on it to move. Take back moves get stuck sometimes. I play on my LG G Watch.",
+        "استفاده نمیشود کرد",
+        "Fantastic app but game is showing colors n force closing Some kind of colors appears n app force closes in my  asus zenwatch 2 WI501Q",
+        "Doesn't work Can't play the computer, just player v player meaning both pieces are moveable, using an lg g watch",
+        "Works great Though on my Huawei Watch the edges of the screen are white, which is pretty wasteful in terms of battery life on an OLED display. Can you render those pure black instead (maybe as a premium feature)?"
+    ],
+    "recentChanges": [
+        "Wearable Chess Pro is available! You can now upgrade to enjoy extra features.",
+        "(Update - Bug fix for unresponsive AI)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.orangutandevelopment.wearablechess&hl=en&gl=us",
+    "appId": "com.orangutandevelopment.wearablechess"
+}

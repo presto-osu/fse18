@@ -1,0 +1,47 @@
+{
+    "title": "tFakeCall",
+    "summary": "tFakeCall is an app that can pretend of incoming call if you tap on smartwatch.",
+    "icon": "//lh4.ggpht.com/OMp1lRmZKJS20aY5K6NNhnY2WWpndSBNjf8b9IIuuY97sFGiUZuNPfmq6Ungv9kV1rE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 16,
+    "developer": "Taosoftware Co.,Ltd.",
+    "developerId": "7520283784072524476",
+    "developerEmail": "android.dev@taosoftware.co.jp",
+    "developerWebsite": "http://www.taosoftware.co.jp/en/android/fakecall/",
+    "developerAddress": "8F., Central Square,\n2-3-1 Shinkawa, Chuo-ku,\nTokyo 104-0033, Japan",
+    "updated": "September 17, 2014",
+    "version": "1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Have you ever thought you would like to escape from a boring meeting, tedious conversation or party?Using tFakeCall, It is possible to behaves as if you received a telephone call when you tap on your Android Wear.Once you have that convenience, you can slip out from the situation without being party pooper.You can run even there is your smartphone in the pocket or on the desk, because it is begins operation on the watch.",
+    "descriptionHTML": "Have you ever thought you would like to escape from a boring meeting, tedious conversation or party?<br>Using tFakeCall, It is possible to behaves as if you received a telephone call when you tap on your Android Wear.<br>Once you have that convenience, you can slip out from the situation without being party pooper.<br>You can run even there is your smartphone in the pocket or on the desk, because it is begins operation on the watch.",
+    "histogram": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 2,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/uONrznpY0OeVFd4jn3HRAnIlv5MZ0GCI8pxzDr6XyiiUP9RJj9Epphty8fC4z3aXk38=h310",
+        "//lh3.ggpht.com/12hv696dU04ctwbN4mdo8ht7Yk6XZ9LjN-CGfaURha5Rr8DYbT5Z-PnkoFCNkUB2GZU=h310",
+        "//lh5.ggpht.com/dWBgjTvW21DXozwUy8pOPqn3RFm2njZtCtygt4kB2QMWEq7D285ojWUs4PkeF7B9IA=h310",
+        "//lh6.ggpht.com/d3jHiLcpjAQnmPkS5OZs6NoHl7NHyW1D2ki3AQMA-64gh5m9meR2YeHKDp66WlAFsec=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Add the screen of fake talking."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.co.taosoftware.android.wear.fakecall&hl=en&gl=us",
+    "appId": "jp.co.taosoftware.android.wear.fakecall"
+}

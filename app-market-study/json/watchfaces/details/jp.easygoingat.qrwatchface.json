@@ -1,0 +1,46 @@
+{
+    "title": "QR Watch Face",
+    "summary": "To display the time in the QR code.",
+    "icon": "//lh3.googleusercontent.com/ckwqfrrjBuvOqd59_6cCrmHU9iip7nsS5-Jj0iuzdvhPaYTOfhRx-5PzTITFTBNGZYA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 5,
+    "developer": "PuussaaN",
+    "developerId": "PuussaaN",
+    "developerEmail": "easygoingat@gmail.com",
+    "developerWebsite": "http://puussaan.hateblo.jp/",
+    "updated": "May 18, 2016",
+    "version": "1.1.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "QRコードは毎秒更新します。※Ambientモードでは毎分更新となります。",
+    "descriptionHTML": "QR&#x30B3;&#x30FC;&#x30C9;&#x306F;&#x6BCE;&#x79D2;&#x66F4;&#x65B0;&#x3057;&#x307E;&#x3059;&#x3002;<br>&#x203B;Ambient&#x30E2;&#x30FC;&#x30C9;&#x3067;&#x306F;&#x6BCE;&#x5206;&#x66F4;&#x65B0;&#x3068;&#x306A;&#x308A;&#x307E;&#x3059;&#x3002;",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/HlVINjQcFof9HQmRfJhzeA6tx5i7kiYMks7uAG860copWHelDqU94zbBZ2UqcIHOQA=h310",
+        "//lh3.googleusercontent.com/OukSncIQoxlwvMwTg8EfCIrp9Z_sfgqZucH_O89L4C0150DOXC8URqJiak2Ap1RGoY0=h310"
+    ],
+    "comments": [
+        "Bjm"
+    ],
+    "recentChanges": [
+        "丸画面調整"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.easygoingat.qrwatchface&hl=en&gl=us",
+    "appId": "jp.easygoingat.qrwatchface"
+}

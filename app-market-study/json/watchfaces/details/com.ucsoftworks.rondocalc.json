@@ -1,0 +1,47 @@
+{
+    "title": "Rondo Calc Wear",
+    "summary": "Simple and minimalistic calculator for watch with innovative round design.",
+    "icon": "//lh5.ggpht.com/KBeYiUc_QC8e03Q577gs1JaCMGtVxYbNfGB6UKuiVaeTiwfhIECMS2HT9MnpLimysJc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.7,
+    "reviews": 3,
+    "developer": "UCSoftworks",
+    "developerId": "UCSoftworks",
+    "developerEmail": "ucsoftworks@gmail.com",
+    "developerWebsite": "https://github.com/GoodBadOkay/RondoCalc",
+    "updated": "January 26, 2015",
+    "version": "1.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Simple and minimalistic calculator for Android Wear with innovative round design.Circle layout minimizes mistakes probability on input and works good with both round and square watches.Calculator supports working with big numbers.NOTE: the app is only for Android Wear. It hasn't functionality for phones/tablets.This is the open source app. Source is available on GitHub:https://github.com/GoodBadOkay/RondoCalc",
+    "descriptionHTML": "Simple and minimalistic calculator for Android Wear with innovative round design.<br>Circle layout minimizes mistakes probability on input and works good with both round and square watches.<br>Calculator supports working with big numbers.<br><br>NOTE: the app is only for Android Wear. It hasn&apos;t functionality for phones/tablets.<br><br>This is the open source app. Source is available on GitHub:<br>https://github.com/GoodBadOkay/RondoCalc",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/QSp6CHC0pSQhnbFFfWpgJzmT6YR7dGqwPhSiJ7V-ZPhT8VBcOmqMpveJXfas8E9XgB0=h310",
+        "//lh3.ggpht.com/k605kt8q_FopH6DZE7o8q2kM4t4YSumisVb5gL5NthLhyKvb_XkReQEnmsswEbCBRw=h310",
+        "//lh3.googleusercontent.com/3HksZWjdY031xqNu-GECxy14tKbVRvHx4yhAyQWtec2vBMDxrV1ASkSmTwtpAXDSL4jf=h310",
+        "//lh3.googleusercontent.com/j3C6ehHXNb6ygSSuQGm_rqtsnq-h7jjUe9WPwom-UPqkRvyrDzaXKEDnP0eM2iVO0361=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Fix problems with Moto360.",
+        "Increased usability on square displays."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ucsoftworks.rondocalc&hl=en&gl=us",
+    "appId": "com.ucsoftworks.rondocalc"
+}

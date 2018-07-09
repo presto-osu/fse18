@@ -1,0 +1,52 @@
+{
+    "title": "Score Keeper for Android Wear",
+    "summary": "Great for lawn games, tally scores on your smart phone or watch!",
+    "icon": "//lh6.ggpht.com/EOtvaOf0aGcRieTs4-Kd88YBd9OCZ7Qegrwv5yrzTqNVDW5mHPqezvgWl9e3a7cYqC3y=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 10,
+    "developer": "Blacktop Interactive, LLC",
+    "developerId": "Blacktop+Interactive,+LLC",
+    "developerEmail": "chris@blacktopinteractive.com",
+    "developerWebsite": "http://www.blacktopinteractive.com",
+    "developerAddress": "Blacktop Interactive, LLC\nPO Box 80252\nMinneapolis, MN 55408",
+    "updated": "June 2, 2015",
+    "version": "1.0.5",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "Keep track of score while you're playing games using Score Keeper for Android Wear. Currently supports up to four players with a maximum of 200 pts. per player. Reset the game or change the number of players by swiping to the menu (swipe left). This app is compatible with both round and square watches.This app features always-on ambient mode to make the app more useful and conserve battery. If this app is running when you put your phone to sleep, it will automatically start back up when you wake your watch. This allows you to save battery while playing your game without having to restart the app over and over. This feature requires Android Wear 5.1.1.Use this app to keep track of score when playing mini-golf, lawn games, cribbage, basketball and many more!",
+    "descriptionHTML": "Keep track of score while you&apos;re playing games using Score Keeper for Android Wear. Currently supports up to four players with a maximum of 200 pts. per player. Reset the game or change the number of players by swiping to the menu (swipe left). This app is compatible with both round and square watches.<br><br><br>This app features always-on ambient mode to make the app more useful and conserve battery. If this app is running when you put your phone to sleep, it will automatically start back up when you wake your watch. This allows you to save battery while playing your game without having to restart the app over and over. This feature requires Android Wear 5.1.1.<br><br><br>Use this app to keep track of score when playing mini-golf, lawn games, cribbage, basketball and many more!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/relAbuIlyzhD_tZ3y0d33XulgR4CSSS5KCcicJOwAnt4xjrfn1OX4mpMiITbTigIsaTW=h310",
+        "//lh4.ggpht.com/7Vk-6N0rkIMIxAjr3ZhWt27PYw39FBwt5g4K02Oa_OWdTh_q6p8Fzhf0Ihj9_BVkzLw=h310",
+        "//lh3.googleusercontent.com/d7Z22A6Gc2Hx1FyVtuUBPBGwS_CQfwDbcM4ecppr55Zzew4jCy23bhadySIGt6_jypY=h310",
+        "//lh3.googleusercontent.com/JoswNOHN4xKXmHrh2nDH92_62pWvXlt6Aql7AEkl4UDl-NxSMktmHSZSi7NNhni7xw=h310",
+        "//lh3.googleusercontent.com/lbRDmq2fTUSyH3-5xyPaUJtopLUlJUhafx8_WWylIo3hc1tFd6b2ooXdDx-xz7PqAqWZ=h310",
+        "//lh3.googleusercontent.com/6cAxEDRUqzi_nNj5_faciAeCUdgYSzRxq_Ng2bhuuAVOpWwb2ruwhSG5ov_TfdrGmQ=h310",
+        "//lh3.googleusercontent.com/6xIa3z1hGs8vnS3Gjph6tyXOKGQmK2l36rgSC08Zu8SPazLpM8Er0-NahGREqrxN7FU=h310"
+    ],
+    "comments": [
+        "Spot on Simple app that does exactly what it says"
+    ],
+    "recentChanges": [
+        "Added support for always-on ambient mode (requires Android Wear 5.1.1). Added ability to select between two and four players on the watch."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.blackcj.scorekeeper&hl=en&gl=us",
+    "appId": "com.blackcj.scorekeeper"
+}

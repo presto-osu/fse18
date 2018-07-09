@@ -1,0 +1,55 @@
+{
+    "title": "Dialer for Android Wear",
+    "summary": "Dial any phone number and phone call directly on your Android Wear Watch.",
+    "icon": "//lh3.ggpht.com/3EZntXlk_vPxcDz7xSO7KqhMaVIdWv7rF_sSIIegtwZ42uYhFjSS5cnOKX6lJIuv1w=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.7,
+    "reviews": 27,
+    "developer": "John Li",
+    "developerId": "John+Li",
+    "developerEmail": "xuecsapp@gmail.com",
+    "developerWebsite": "http://www.woiapp.com",
+    "developerAddress": "No. 51, YuanMingYuan Xi Road, Haidian Dist\nBeijing, China",
+    "updated": "January 11, 2015",
+    "version": "1.0.9",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Dial and phone call any phone number directly on your Android Wear Watch.- Number pad to dial number on Watch- Option to automatically turn on Speaker- End phone call on the Watch- Recent number on the Watch with one touch to Call- Phone call even under screen lock",
+    "descriptionHTML": "Dial and phone call any phone number directly on your Android Wear Watch.<br><br>- Number pad to dial number on Watch<br>- Option to automatically turn on Speaker<br>- End phone call on the Watch<br>- Recent number on the Watch with one touch to Call<br>- Phone call even under screen lock",
+    "histogram": {
+        "1": 9,
+        "2": 7,
+        "3": 2,
+        "4": 1,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/YVvE2xgWVnXGw6T1Mwmihq1OAosjByLIsV39wI9YM9VKRcquBcVux7UDeOjwspjR0coz=h310",
+        "//lh3.ggpht.com/UyUXTknnLUS4wFMWSH1f6DTA3h9Ju7AVYPM6CTbHjhCiFNXP3nccVbGTfssDeBXHlek=h310",
+        "//lh4.ggpht.com/p4WWEKwYm85IIpyQJyGolbR7CX432CljzQ938bx7FpRxMbtunr99dOy9XYSIRx0Ls1E=h310",
+        "//lh4.ggpht.com/DdK7ZhEOZ2vOxTutwZI_UaqMmsmAxPwhGmB2r_OZX0v77EbbPA6BNf9Xz_nT6v0AW0s=h310"
+    ],
+    "comments": [
+        "Sometimes works sometimes doesn't Can't stay at the background. When it works, it's awesome; when it doesn't, it's really annoying. Hope will see an update to fix the problem very soon.",
+        "Won't work waist of money so far. Even after the newest update 1 out of 10 times dialing from the watch fails. I'm currently running with the g watch and a note 3 from Verizon",
+        "Does not work. Only worked the first time I downloaded it and that's it. I don't even write reviews but wanted to warn people.",
+        "Don't work at all waste of money",
+        "Great Works well on my LG game watch,  thanks",
+        "Handy on my lg g Watch Works well with my HTC one and LG G Watch, really useful for my customer support and sales work."
+    ],
+    "recentChanges": [
+        "- Fix Android Wear Watch connect state",
+        "- Round Watch screen supported"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.woiapp.watchdialer&hl=en&gl=us",
+    "appId": "com.woiapp.watchdialer"
+}

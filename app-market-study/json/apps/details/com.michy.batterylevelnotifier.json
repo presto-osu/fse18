@@ -1,0 +1,50 @@
+{
+    "title": "Battery Level Notifier",
+    "summary": "Know exactly when your devices are ready!",
+    "icon": "//lh3.googleusercontent.com/_F-wS135y39GLinKhh5s1RI-5v6MvJse46QurR2VVrogEhZNqyEl3JZlse9O7QcuUJ4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 27,
+    "developer": "Dream Code",
+    "developerId": "5005949867149125533",
+    "developerEmail": "support@dreamcode.it",
+    "developerWebsite": "http://dreamcode.it",
+    "developerAddress": "Via Pantano 112,\nPaterno (PZ),\n85050,\nItalia",
+    "updated": "June 11, 2015",
+    "version": "1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This app keeps you informed on your battery levels while they charge.As soon as you connect your charger, a notification will appear on the other side, silently. (no lights / vibration / sounds will be emitted)When the device is fully charged a normal notification will be presented to the user informing him.To get started, please connect the charger to your phone at least once. This is required because the watch apps are installed as disabled. This app is compatible with Android Wear watches only.",
+    "descriptionHTML": "This app keeps you informed on your battery levels while they charge.<br><br>As soon as you connect your charger, a notification will appear on the other side, silently. (no lights / vibration / sounds will be emitted)<br><br>When the device is fully charged a normal notification will be presented to the user informing him.<br><br>To get started, please connect the charger to your phone at least once. This is required because the watch apps are installed as disabled. <br><br>This app is compatible with Android Wear watches only.",
+    "histogram": {
+        "1": 5,
+        "2": 1,
+        "3": 4,
+        "4": 2,
+        "5": 15
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nGCUNsMc2iy23SgLpM2nP-wA5u-nmMKHL8npggQLNqZcLiusG1x13VyqQEa6zMr_Gu0=h310",
+        "//lh3.googleusercontent.com/32u5gP-sUq1ci2p2AiC3h59SNbDrcCWsX8zyAM--apL5f6NHapOm5mMt8om46VNFqQ=h310"
+    ],
+    "comments": [
+        "Just what I need! I've been looking for an app that shows me constantly the battery level of my phone/watch while they're charging and notifies me when they're fully charged. There was nothing actually, all I've found was apps that shows only one device. Then I found this. It shows me the battery level of my watch when its charging and vice versa. Very useful if you charge one of your devices far from you. I wonder why this app isn't popular, everyone needs this. Good job dev! I hope you continue working on this. 😊👍👍",
+        "Simple and effective. It would be nice if I could change the notification icon color on my phone, tho. The black icon is invisible on my mostly dark themed phone. It just looks like an empty space up there. Even a white outline around the icon would make it more visible. Aside from that, it works as I would expect it to.",
+        "Does what it says. It works, it's good, but I wish it had a widget or notification on my phone that shows me the battery status of my watch at all times, not just when it's charging. My watch already shows me the phones battery at all times, it'd be nice the other way around too. Great job Dev, keep it up!",
+        "after a year, i couldn't \"find\" this app, will give it another go. Hoping for good things because i really appreciate the devs hard work and other endeavors",
+        "Does not work with nexus 6 and moto 360 on wireless charging.  Reply to developer's question: Nothing appears on the watch and the phone when they are charging. FYI Moto 360 can only be charged wirelessly.",
+        "I like it but. I get the notice on my LG G watch R but nothing shows on my Samsung Galaxy Note 3.  Sorry just noticed the icon, it's black so it hides on the black notification bar.  Is there a way to change or user to set the color?"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michy.batterylevelnotifier&hl=en&gl=us",
+    "appId": "com.michy.batterylevelnotifier"
+}

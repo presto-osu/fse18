@@ -1,0 +1,51 @@
+{
+    "title": "I/O 2016 Watch Face",
+    "summary": "Google I/O &#39;16-inspired Android Wear watch face",
+    "icon": "//lh3.googleusercontent.com/IAyJ3pEGuTnoRw1CpWsHDxkh2AS6jLwEotqPLO9CPcTC0TuCZvNSmln47J-3MN04_w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 274,
+    "developer": "Gregory K",
+    "developerId": "Gregory+K",
+    "developerEmail": "android@grishka.me",
+    "updated": "March 14, 2016",
+    "version": "1.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Animated watch face for Android Wear inspired by the countdown on the Google I/O 2016 website.Important: this app requires an Android Wear smartwatch, it's useless without one.",
+    "descriptionHTML": "Animated watch face for Android Wear inspired by the countdown on the Google I/O 2016 website.<br><br>Important: this app requires an Android Wear smartwatch, it&apos;s useless without one.",
+    "histogram": {
+        "1": 15,
+        "2": 13,
+        "3": 19,
+        "4": 51,
+        "5": 176
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/17RntNCuu7RPtBksAhNFbKzJVVSCyS8guosA1qKug8TWOBcFKwhgc8skGz9dRN10Akwp=h310",
+        "//lh3.googleusercontent.com/NsMUucE7KyZGxrosDwl1MGpVQA7duhdjs8Q9RVnE0Yo6xXWDKdi3LA4iFXDd1scORHI=h310",
+        "//lh3.googleusercontent.com/Bp4et-EOImz9lmNjrpXPJafNKoHCyaPap1DtoUpBUT-O8kskVhFVv7W_rGgxujNccNul=h310"
+    ],
+    "comments": [
+        "You made my day I liked IO 2015 wallpaper so much that it reminded me to look for it for 2016. I doubted it would exist as IO 2016 hasn't even happened yet. But, you surprised me! Thank you! Could I make one small request, though? The option to have a white background. And, if I were to be bold, a tiny weather icon and temperature would make me so happy. Other than that, I love the watch face. 😊",
+        "A very nice watch face with beautiful animations. The only thing that looks to be missing would be a date option, an option for a white background, and maybe a little color on the hour and minute. Honestly, though, I love it, especially considering it's such a new app.",
+        "Charging problems Just read a review and that person had issues with the watch charging... I had the same issue. Uninstalled for now till it's updated as that's a huge deal-breaker. Great looking watchface otherwise.",
+        "Won't let first gen moto360 charge and crashes often Other then those problems I like the watch face but can't use it",
+        "Won't let Moto 360 1 charge Prevents watch from charging while watch face is active. Watch battery is drained and it's extremely difficult to change watch face.",
+        "Moto 360 first gen can't charge. As the title says while this watch face is active on the Moto 360 first gen the watch will not charge and drains battery really fast. Other than that it's a beautiful watch face."
+    ],
+    "recentChanges": [
+        "The color animation is now slower."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=me.grishka.io16watchface&hl=en&gl=us",
+    "appId": "me.grishka.io16watchface"
+}

@@ -1,0 +1,61 @@
+{
+    "title": "MoveUp! MultiTimer for Wear",
+    "summary": "MoveUp! MultiTimer for Android Wear - the art of time countdown",
+    "icon": "//lh6.ggpht.com/MNMlPwLQboOQbQKsX_Jdb3IjDhKg4oOOyDFQhh0eFq2r8rmNl-NNcXXVmyzpEEGbjOj5=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 24,
+    "developer": "w9 software",
+    "developerId": "w9+software",
+    "developerEmail": "w9@w9.pl",
+    "developerWebsite": "http://moveup.zone",
+    "developerAddress": "ul. Nickla 23/10\n41-908 Bytom\nPOLSKA",
+    "updated": "February 4, 2016",
+    "version": "1.5.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "MoveUp! MultiTimer for Android Wear - the art of time countdownThis standalone app for your smartwatch (does not rely on your phone or bluetooth connection) offers amazing set of useful features while maintaining simplicity needed for on-wrist app!Features include:- multiple predefined timers- multiple concurrent timers- set time precisely without voice- swipe or walk to dismiss- run GuruWear formulas- stunning adaptive vibrations- custom colors- custom labels- can act as default timer for voice actionsVisit www.moveup.zone for more info.",
+    "descriptionHTML": "MoveUp! MultiTimer for Android Wear - the art of time countdown<br><br>This standalone app for your smartwatch (does not rely on your phone or bluetooth connection) offers amazing set of useful features while maintaining simplicity needed for on-wrist app!<br><br>Features include:<br>- multiple predefined timers<br>- multiple concurrent timers<br>- set time precisely without voice<br>- swipe or walk to dismiss<br>- run GuruWear formulas<br>- stunning adaptive vibrations<br>- custom colors<br>- custom labels<br>- can act as default timer for voice actions<br><br>Visit www.moveup.zone for more info.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 3,
+        "4": 7,
+        "5": 11
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/zqYH__7orsssKQ7g8KDzV90Wkdz48Hw05keKStMaYb92EsKND7wgREkr-Wj1rfWMniYM=h310",
+        "//lh3.ggpht.com/miwoIwRql5F6_TVTqQyPuNcqPGhN_szFAg35AEEJx_AQ5eqSanJTtO0W2X7EaCEDtg=h310",
+        "//lh5.ggpht.com/MSQL1C3StbikpVbymjyqIxi9bvwoBhjKbRoGLzcq5rlrO_Dv5UclwAiZGiwyQegV1j_-=h310",
+        "//lh6.ggpht.com/xOuW8BGoy24Pd8uMenCP4Gn4TRIs8zWgTwZ17XO11vZsrx3BVQ7QQtYBUTTXNzqE-zwj=h310",
+        "//lh5.ggpht.com/h0XelaxOGQiG0qi06pEZOgwxYo6hjnmtczmqb8XZlPdVpgcTN1L9HBUtzz88Gc8FB-s=h310",
+        "//lh4.ggpht.com/rzceiiENWvLsxC4MLdZ0v0VO_hMfvlIdXZPK7ffOLNc93eCpQQ9eUZsFyjDsf7A8yg=h310",
+        "//lh3.ggpht.com/jSs0PlwdIEBfOFM5e9_F5VRpgvQVvOFHXde6emKUxi55wYho_D42oh_aDmW9vBgFN_M=h310",
+        "//lh6.ggpht.com/eJKjFN5G6DZoR_Ki9pNRArzjpKipjKpRBWAcBsN6y67ec1GlBhjNcnLLrHA48ShPiBY=h310"
+    ],
+    "video": "https://www.youtube.com/embed/zguCFRu1oK4",
+    "comments": [
+        "A smartwatch essential. Does exactly what I was looking for. Extremely handy to have, especially if you use multiple timers daily and it's a hassle to continuously interrupt what you're doing on your phone. 5 stars for the U.I. being clean and simple as well. Great work!",
+        "I live by this app. I use it multiple times a day. I set a 25 minute timer to remind me to look away from the screen for a few seconds. I swipe this one away and have no issue with it.  I set a second timer to move away from my desk every 50 minutes. I have this set to the walk dismissal. My problem is that the step detection is very unreliable. About a third to half the time I have to reboot my android wear watch because the timer just won't detect all the steps and dismiss. Perhaps a workaround could be to add a \"no really, I have actually walked, trust me\" dismissal option?",
+        "By far the best Android wear timer. It's great for people with disabilities who need very gentle but noticeable reminders and prompts. Very easy to set and use, though when I paid for the full version it didn't seem to unlock anything at all",
+        "Works great for me The app is good at what it does, but I wish the dev would add the ability to create and edit timers in the phone app, as well as change the default time picker to 00:00:00. If those features are added, I'll change my review to 5 stars.",
+        "Does the job, but I miss more functionality in the phone app, works with voice recognition but cant select the default vibration time. Also, the full screen feature of the stock timer is very nice but missing in this onr",
+        "Solid timer app! I would love to have a single vibration without the need to dismiss and an auto-snooze function in the future."
+    ],
+    "recentChanges": [
+        "- ability to run GuruWear formulas (requires GuruWear app)",
+        "- layout fixes",
+        "- bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.w9.moveupmultitimer&hl=en&gl=us",
+    "appId": "pl.w9.moveupmultitimer"
+}

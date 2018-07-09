@@ -1,0 +1,57 @@
+{
+    "title": "Simple Watch Face Collection",
+    "summary": "A collection of simple watch faces for Android Wear - requires Android Wear 5.0+",
+    "icon": "//lh4.ggpht.com/sPi7wKvrSzmyTgpcvvyPwy0eNkDMpES11BEPN34Dh6gZwyjo6upLIy8Yk1Z1-ChY_3QO=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.6,
+    "reviews": 19,
+    "developer": "Nick Schwab",
+    "developerId": "Nick+Schwab",
+    "developerEmail": "support@nickschwab.com",
+    "developerWebsite": "http://nickschwab.com",
+    "developerAddress": "928 Oak Brook Dr.\nMiddleville, MI 49333",
+    "updated": "January 25, 2017",
+    "version": "Varies with device",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "size": "Varies with device",
+    "description": "Perimeter: A new take on the analog style with watch battery remaining and a subtle hint of material design.\nCombo Breaker: Combining the best of both analog and digital interfaces - a large hour digit in the center with an outer edge minute ticker.\nOuter Analog: A minimalistic analog face featuring an empty center with analog dials along the outer minute/hour tickers.\nJelly Time: A digital face (with customizable digits color) powered by the Roboto font introduced in Android Jelly Bean.\n* requires Android Wear 5.0+ *\n",
+    "descriptionHTML": "<p><b>Perimeter:</b> A new take on the analog style with watch battery remaining and a subtle hint of material design.</p><br><p><b>Combo Breaker:</b> Combining the best of both analog and digital interfaces - a large hour digit in the center with an outer edge minute ticker.</p><br><p><b>Outer Analog:</b> A minimalistic analog face featuring an empty center with analog dials along the outer minute/hour tickers.</p><br><p><b>Jelly Time:</b> A digital face (with customizable digits color) powered by the Roboto font introduced in Android Jelly Bean.</p><br><p><b>* requires Android Wear 5.0+ *</b></p>",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 5,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/99ZBWg8KQC2VVD_zj_qn-S3zkRRHvBjPB7Ks4wucRV6C_W-zAGLA8EH3hfF142JwtC4=h310",
+        "//lh5.ggpht.com/Cj_5oI-WZsgvVPNQ11MzQH15w4bXMBVvDNWpZUznGmev-deY-4lqLKB2p3jqqdnnTZUL=h310",
+        "//lh3.ggpht.com/azdkYb1iQY5_7QjnUkepEOcc1b72d0_ekzlCigMMCLKXOnVklEXl7MT5b4HjcMk4fVw=h310",
+        "//lh4.ggpht.com/NhrXT_RUXfphvgPP7j1OqxIJe1OWn29RVAXDPMTkBn5kCioItylhg5IHcevA7ATTTxw=h310",
+        "//lh4.ggpht.com/Uy-WI8iw5Oyg1JiGF0lFnybvyxSShfN3ZjabwsFVossxt4TyPh697E-W_kuSLX2ryu8=h310",
+        "//lh5.ggpht.com/Ma08iAoLe-7EzvXNHDm6xMSY8CwaHrDUxg3Cts8fwUDmHWzRpcSLM6Auoo9Z-vfdWg=h310",
+        "//lh3.googleusercontent.com/TTbiI4Re2WKx1UlaXfHGCtZ5tvEWWF17F4un0keDCcS4mY8c1qIr6fBSNutnRPe_uLnO=h310",
+        "//lh3.googleusercontent.com/7OcIRLTfrdXeD2C9zwEAgnXdijLwhsQhkDPZvlKOlpCsbucaeiLLpaqVDhb8WePZ1GE=h310",
+        "//lh3.googleusercontent.com/I7UjyihTLxv4pdDTNHynnjhl5Q9jYytmbxALjxYBOyf7lFdajk1EYEOOjk3Qkw1l-Mw=h310",
+        "//lh3.googleusercontent.com/3DfnHXRSOvYq6udqTOAbdB20XPiipxldYyLvrFqVyjypTZ5ArF5dLMi-Y03Atfk95Q=h310"
+    ],
+    "comments": [
+        "Great...simple, yet thoughtful.  Would love to see color options though.  And maybe an option to change the length of the minute hand.",
+        "No 24 hour digital clock, only 12 hour"
+    ],
+    "recentChanges": [
+        "Android Wear 2.0 Standalone Support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nickschwab.android.wear.simplefaces&hl=en&gl=us",
+    "appId": "com.nickschwab.android.wear.simplefaces"
+}

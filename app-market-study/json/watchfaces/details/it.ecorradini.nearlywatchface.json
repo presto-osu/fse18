@@ -1,0 +1,46 @@
+{
+    "title": "Nearly Watch Face",
+    "summary": "Android wear watch face that displays the time in an approximate way.",
+    "icon": "//lh3.googleusercontent.com/EQI1chTm3vSw2nb0eLsykwzbaEV4aBewbNKYpvlV2MR-H7zq8UYZPSqMSf1CR-xoihU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.7,
+    "reviews": 6,
+    "developer": "ppndrd",
+    "developerId": "ppndrd",
+    "developerEmail": "enrico.corradini94@gmail.com",
+    "developerAddress": "60037 Monte San Vito\nAncona\nItalia",
+    "updated": "February 18, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Nearly watch face displays current time in an approximative way, just like you would tell to someone else. How many times have you said: \"it's quarter to five o'clock\" or \"few minutes to half past six\"? This is what Nearly does.With a simple tap on the screen, you can always display current time and date.+++SUPPORTED LANGUAGES (WITH FULL TRANSLATION)+++- ENGLISH- FRENCH- ITALIAN- SPANISH- GERMAN- PORTUGUESE- MORE TO COME...",
+    "descriptionHTML": "Nearly watch face displays current time in an approximative way, just like you would tell to someone else. How many times have you said: &quot;it&apos;s quarter to five o&apos;clock&quot; or &quot;few minutes to half past six&quot;? This is what Nearly does.<br>With a simple tap on the screen, you can always display current time and date.<br><br>+++SUPPORTED LANGUAGES (WITH FULL TRANSLATION)+++<br>- ENGLISH<br>- FRENCH<br>- ITALIAN<br>- SPANISH<br>- GERMAN<br>- PORTUGUESE<br>- MORE TO COME...",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ETQGKbM_suX7jFEEp35XWdO-Q12FKXmCBrEjv8u7Vk8FO1xO_jvNs6T_ahazQp-b3bM=h310",
+        "//lh3.googleusercontent.com/aQi9qOQtyBFIyvquE_mtzEbHCm7BLHLMGfjhgAf-d9wVd5PSStPMsdJuUXz1XD6EL5M=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "***BUG FIXES***",
+        "- New Layout for round displays"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=it.ecorradini.nearlywatchface&hl=en&gl=us",
+    "appId": "it.ecorradini.nearlywatchface"
+}

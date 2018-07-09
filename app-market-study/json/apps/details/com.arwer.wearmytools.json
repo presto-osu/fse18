@@ -1,0 +1,62 @@
+{
+    "title": "WearMyTools",
+    "summary": "&quot;WearMyTools&quot; to provide more useful features to suit your smart life.",
+    "icon": "//lh6.ggpht.com/3X5IbVQUEC4nVVaT1ZZ5ddU3WrvDFcOhHdDqdXfJKTnMKo_Dw0T9LqTGqBNQSpmSbaz7=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.6,
+    "reviews": 8,
+    "developer": "Arwer Software",
+    "developerId": "Arwer+Software",
+    "developerEmail": "contact.arwer@gmail.com",
+    "developerWebsite": "http://www.arwer.com",
+    "updated": "February 25, 2018",
+    "version": "2.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Do you have a smart watch? Can only look at the time is too boring, think about how to make it more useful, more interesting?\"WearMyTools\" can provide more useful and interesting features to meet the wisdom of your life.\"WearMyTools\" at the same time support Android Wear system and Ticwear system.Now you can do the following things:1. Mobile phone volume control: watch can let your phone how loudly loudly.2. Find my mobile phone: when you don't know where the mobile phone, point the watches, mobile phone will ring out loudly. 3. Find my watch: watch is too small, can not find, by mobile phone, you can find your watch.4. Watch the hour reminder: phone setting the hour reminder time arrives, the watch will vibrate.5. Phones and watch separate reminder: when mobile phones and watches apart at a distance has lost contact, watch will remind you.6. Pomodoro alarm clock: a Pomodoro alarm clock based on the Pomodoro Technique, which can be individually or simultaneously reminded of mobile phones and watches.7. The flashlight on the watch: a little bit of light in the dark, light up the road under your feet.",
+    "descriptionHTML": "Do you have a smart watch? Can only look at the time is too boring, think about how to make it more useful, more interesting?<br>&quot;WearMyTools&quot; can provide more useful and interesting features to meet the wisdom of your life.<br>&quot;WearMyTools&quot; at the same time support Android Wear system and Ticwear system.<br><br>Now you can do the following things:<br>1. Mobile phone volume control: watch can let your phone how loudly loudly.<br>2. Find my mobile phone: when you don&apos;t know where the mobile phone, point the watches, mobile phone will ring out loudly. <br>3. Find my watch: watch is too small, can not find, by mobile phone, you can find your watch.<br>4. Watch the hour reminder: phone setting the hour reminder time arrives, the watch will vibrate.<br>5. Phones and watch separate reminder: when mobile phones and watches apart at a distance has lost contact, watch will remind you.<br>6. Pomodoro alarm clock: a Pomodoro alarm clock based on the Pomodoro Technique, which can be individually or simultaneously reminded of mobile phones and watches.<br>7. The flashlight on the watch: a little bit of light in the dark, light up the road under your feet.",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/w4LtOL646JbqpmnPvAQ_mOiK00XYHGKdSe-FiCb4R2oFT19gpt0Ga9_R2mccWIfo-Tw=h310",
+        "//lh3.googleusercontent.com/yUljljvWTkheN2n1ESr_NAql_Bgg9nC1-zMjIyWByQE93OkknWfty_5nHXmBmfqYRHSK=h310",
+        "//lh3.googleusercontent.com/mpkBXUcPTg3OFYCO4JYD1vBQdVndKczOMExLyJmhMhfpCmBK6rulQZXZvM5Axhs3zA=h310",
+        "//lh3.googleusercontent.com/nDtF2_trLIRuhtEyS6R629ScIjpQhycILmeQKeInMZQy9vyQNFqHr4y6OlNZx88iiTs=h310",
+        "//lh3.googleusercontent.com/4JQIzKQz18ECHVt7eEqu3W-McireVuW5YkTBCbuXeJZ35lrGQuTQfGy1liooB87Y4j0=h310",
+        "//lh3.googleusercontent.com/3d2cSnXnKNwXNb5palwjTyvVj-37X1QnXfG9jbgP1_wD9Y23byvZpXmt0xnBgsFrPuw=h310",
+        "//lh3.googleusercontent.com/Ttcrc7MHIAJc5folwI901SMvkvsb8q3VWZe3pZD8vEMnRNDeUFWXcZ31u4y3A44RiQ=h310",
+        "//lh3.googleusercontent.com/peiHTfkGmHceupzqIs7lLJsHyZ0PU71zAbpSJRikXktJw5xRyr-PO-pJ4CeTnb-aBQ=h310",
+        "//lh3.googleusercontent.com/ZLD55USN5YgpssumSqxf2w-1lXVaAEmC_ekukTCyRqo6Gw9zqklYI0EXrWZfOd0m-H0=h310",
+        "//lh3.googleusercontent.com/LC6GV5MA_BMQHdSER62PsQi2jZ_SZryJ4uHQviNULRFGGMxG-dJf7I-SqCEo4CLBhboF=h310",
+        "//lh3.googleusercontent.com/U9Ddx6jGd5CGJfed6CXEI1tvuZXZHtU5wz0yuGy1PdHOgVsmfRX84zIplPN1WrhoexQ=h310"
+    ],
+    "comments": [
+        "Nope It would install to the watch but does not function.   Doesn't do anything"
+    ],
+    "recentChanges": [
+        "-- Add manual selection of communication methods (Android Wear, Ticwear or automatic judgment).",
+        "-- Add a Pomodoro alarm clock based on the Pomodoro Technique.",
+        "-- Added Find my watch function, you can find watch from mobile phone.",
+        "-- Added a flashlight function to the watch.",
+        "-- Mobile App: Adapt more screen (such as 18: 9 full screen); Fit Android 8.0.",
+        "-- Watch App: Fit the latest Android Wear and Ticwear systems.",
+        "-- Part of the icon and text changes.",
+        "-- Other minor fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.arwer.wearmytools&hl=en&gl=us",
+    "appId": "com.arwer.wearmytools"
+}

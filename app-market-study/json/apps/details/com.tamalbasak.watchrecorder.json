@@ -1,0 +1,57 @@
+{
+    "title": "Watch Recorder with Mic. Zoom",
+    "summary": "Record Sound with Mic. Zoom Technology and Play Audio Directly in Your Watch",
+    "icon": "//lh3.googleusercontent.com/l6Ux_oSbSh4LvzKZAuxKcyL6vYTl-rDcPbkq0NPStF1lv9OoXLz27WJbALNE7cbWaBk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 545,
+    "developer": "Tamal Basak",
+    "developerId": "8825633726210863651",
+    "developerEmail": "basak.tamal.dev@gmail.com",
+    "developerAddress": "126A Hemchandra Naskar Road",
+    "updated": "April 5, 2017",
+    "version": "2.0.7",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "1.   Mic. Zoom is the brand new technology which automatically capture sound from distance.2.   Now Capture Sound like broadcast quality.3.   Turn Mic. Zoom On/Off and control the level dynamically4.   All Recorded mp3 files are now password protected.5.   Set Duration, Frame Rate, Bitrate and Encoding Quality according to your needs.6.   Play the recorded files in watch (is speaker available)7.   Send the recorded files to your paired mobile phone.",
+    "descriptionHTML": "1.   Mic. Zoom is the brand new technology which automatically capture sound from distance.<br>2.   Now Capture Sound like broadcast quality.<br>3.   Turn Mic. Zoom On/Off and control the level dynamically<br>4.   All Recorded mp3 files are now password protected.<br>5.   Set Duration, Frame Rate, Bitrate and Encoding Quality according to your needs.<br>6.   Play the recorded files in watch (is speaker available)<br>7.   Send the recorded files to your paired mobile phone.",
+    "histogram": {
+        "1": 29,
+        "2": 5,
+        "3": 27,
+        "4": 99,
+        "5": 385
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/HrAYhaCHN98EHTvKe41WXSfzlp7JOjdFN67ZSIZngF1p38jpBH70H8qKISX7YpW6qQ=h310",
+        "//lh3.googleusercontent.com/LXl_m3aOlzBD6ICpaM2Z8KQCLQ23oHcBXyIagd7wjszcH6ryIZZW3t8mpBLswcVoETA=h310",
+        "//lh3.googleusercontent.com/ThiwWzCQBhHR2iUYVI7lfeIN6cJyRiGcRBy8sRIqYCaukr19h0kDU3N82eWPNY7YK4w=h310",
+        "//lh3.googleusercontent.com/y14pFBoUEW3_8XKY5vgTMUMgFrBbAzAfisC2kzduxceRbeP4R87HOkLKrMww7k76AuA=h310",
+        "//lh3.googleusercontent.com/AWqTcDFNhuG51FZAIOua_0KA5ui9a6Yx3vTM1zRJhCM_ZsUI0Dai3LpG2PLS4bCf-w5J=h310",
+        "//lh3.googleusercontent.com/bcZwcWXhOBd-P5x6L4dVuvBl6em5hYZ_7l4stD6d1u_LfYGccuDUw57WJ2rl1QcrMAc=h310",
+        "//lh3.googleusercontent.com/aM-MGbYDHC0AHIcfI_UcxnvSfTkceEsVcaYPGPvCsQwhmBKoyWG4a9sPhLBWxfwiz0Le=h310",
+        "//lh3.googleusercontent.com/n_snYgzw_mjSjqIj0cy9RsRwmTu5kWjBrMbbnmGPmnMN6DptCwacLl__DngIk2oOo94=h310"
+    ],
+    "comments": [
+        "Is a great app. It would be really helpful if there would be an option for cloud storage support like a Google drive api  support that uploads automatically. I have manually upload each recording one by one which is really frustrating. Also, there is a bit in Android wear. If I get any notification while recording the recording screws up and shows as an error in the recording and the recording is lost. This is a huge drawback. Apart this the app is great the zoom function works great. I wish there was an option to choose the recording storage location as ext SD card.",
+        "5 stars if I can get the blue banner removed seeing as I've already purchased and reviewed. As far as it's function I'm very pleased. Could use a silent (invisible) method for triggering recordings that doesn't bring up the interface.",
+        "The sound quality is great I will recommend this app to any of my friends, the only thing is missing is, that  when I'm  record and there's no noise that it will pause,  and when noise come back my recording can resume.  Can you guys do that?   If you all can make that possible I will give you five star and a great review.. thank you guys nonetheless",
+        "Works great with my ASUS Zen watch.  I Wanted something easy for reminders without having to sit there and type it all in. Also I wanted to record for a certain length of time  without again having to search for the program and then type it all in. But it can also help me with difficult situations of people and being able to confirm their conversation with me and have actual proof for the record if needed.",
+        "This app is fantastic when you want to record a meeting or break up with your girlfriend or whatever you want to do. The recording quality from the watch is fantastic and it picks up all voices. I would recommend this app to anyone who wants to create a recording where you don't want a recorder setting on the table.",
+        "Not bad. Best of the bunch I've tried, but recorded audio had a lot of noise.  Some kind of noise reduction would be good."
+    ],
+    "recentChanges": [
+        "Bug Fix."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tamalbasak.watchrecorder&hl=en&gl=us",
+    "appId": "com.tamalbasak.watchrecorder"
+}

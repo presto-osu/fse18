@@ -1,0 +1,48 @@
+{
+    "title": "Something O'Clock",
+    "summary": "The Android Wear watch face that&#39;s never wrong!",
+    "icon": "//lh3.googleusercontent.com/YuLDjc5iKB8hvIJ-PymaMawdj-e7fgweSCMFsYVtFFwJBEVGyGikP6hhGJMbTowk5g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 5,
+    "developer": "Styling Android",
+    "developerId": "Styling+Android",
+    "developerEmail": "support@stylingandroid.com",
+    "developerWebsite": "http://blog.stylingandroid.com",
+    "updated": "January 14, 2017",
+    "version": "Varies with device",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "size": "Varies with device",
+    "description": "Something O'Clock is the only Android Wear watch face that you'll ever need. It doesn't matter which timezone you're in - it's never wrong - it's always \"something\" o'clock.Not only that, but you can select other times as appropriate from the companion configuration app on your phone. It may be \"food o'clock\" or \"burrito o'clock\". Perhaps it's \"beer o'clock\" or even \"sleep o'clock\", all are possible with the watch face that's never wrong.There are more features on the way...Contains alcohol references.",
+    "descriptionHTML": "Something O&apos;Clock is the only Android Wear watch face that you&apos;ll ever need. It doesn&apos;t matter which timezone you&apos;re in - it&apos;s never wrong - it&apos;s always &quot;something&quot; o&apos;clock.<br><br>Not only that, but you can select other times as appropriate from the companion configuration app on your phone. It may be &quot;food o&apos;clock&quot; or &quot;burrito o&apos;clock&quot;. Perhaps it&apos;s &quot;beer o&apos;clock&quot; or even &quot;sleep o&apos;clock&quot;, all are possible with the watch face that&apos;s never wrong.<br><br>There are more features on the way...<br><br>Contains alcohol references.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/88PJbCMf0evdxR-2CeEPkK4XLf3bvVwi-WJi5DpM8vAePecwEBdK8VG8iCJiDi9mqw=h310",
+        "//lh3.googleusercontent.com/MC6CcEVEpzzYDBV4UGY8pDr9ij8rFuk9h6j3ZzP6E4gSyvXP3cCJH188ZENjq4mFxg=h310",
+        "//lh3.googleusercontent.com/EllJYYu6RIrSMrA45fzichzPELfdIGLVN_ygcPFEmYctkejQW5fsyTNxNMpufVpDUCw=h310"
+    ],
+    "comments": [
+        "Would be nice to be able to customize text and background colors, as well as allow adding your own words. As well as color in the sleep mode. Next level would be changing words based on some triggers, eg home o'clock - geolocation, email o'clock - new email, walk o'clock - data from google fit, etc",
+        "Slight Problem On my phone (Samsung S7) I can't actually open the app to change it from \"something o'clock\" to any of the other options. I like the idea, and it's a nice design, but obviously this could do with fixing!",
+        "great code ;)"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.stylingandroid.something.oclock&hl=en&gl=us",
+    "appId": "com.stylingandroid.something.oclock"
+}

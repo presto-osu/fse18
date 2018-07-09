@@ -1,0 +1,62 @@
+{
+    "title": "BusWatch - London Bus Times",
+    "summary": "Live London Bus Arrivals",
+    "icon": "//lh3.googleusercontent.com/R9Xc00bjwD_Vrjs_U8ltCvd7KCcOSp_MXquj0lH25VQuKQ3T9v9HATucgLUZXdBwyQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.1,
+    "reviews": 33,
+    "developer": "David Hodges",
+    "developerId": "David+Hodges",
+    "developerEmail": "david.hodges.86@gmail.com",
+    "developerAddress": "c/o EpicIT\nSolar House\n282 Chase Road\nLondon\nN14 6HA\nUnited Kingdom",
+    "updated": "August 17, 2016",
+    "version": "0.8.8",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Why wait at the bus stop when you could wait in the pub and watch the bus times on your phone?NEW - If you have an Android Wear device watch the countdown for the bus on your wrist!Data provided by Transport for London",
+    "descriptionHTML": "Why wait at the bus stop when you could wait in the pub and watch the bus times on your phone?<br><br>NEW - If you have an Android Wear device watch the countdown for the bus on your wrist!<br><br>Data provided by Transport for London",
+    "histogram": {
+        "1": 5,
+        "2": 0,
+        "3": 3,
+        "4": 3,
+        "5": 22
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hh44kDc-WgLd6iIzHK5-L7Q-k_-wSXYYluz9hq34d8-EUhjSj2ovlCk7d_0aNn0i2n4=h310",
+        "//lh3.googleusercontent.com/XoPG3McpPQ2IZ0Y6teq2R3tr3I_fXqgqW8WOAOAukTWMLNH_OtPY0QsukHxJJfFPrEM=h310",
+        "//lh3.googleusercontent.com/mZC-V6f6Gr92uaTGru2DDP12YlC66H4AYT8__vDsoNG4ag_rkLzrwOqYNWzYc2QyqHc=h310",
+        "//lh3.googleusercontent.com/KEKVKElUYphtA11NA3LjuhLvyW6_u9eALwkvLuXjan-qbr4rloUToyyV1mwNQv4PV_O3=h310",
+        "//lh3.googleusercontent.com/hLvIqYxqccLcGdZJz5Tcx1I0tDzCF7NY1jyIh2cm6ejDxot3OfwoT3XQoHsq-tgixfY=h310",
+        "//lh3.googleusercontent.com/iNhkc2hL7YVdxPemYJigV6DvoeYDzD_Kzcq-uUnMFy1ojwoQ1MFbiZmEuxmJyTA5y2U=h310",
+        "//lh3.googleusercontent.com/5Kn3LEOW0eQQYtOo2CYDMWpHy4ka1ldsc7usZ6koIJ2fc6hhAKb10ogIDCvVw0uxag=h310"
+    ],
+    "comments": [
+        "Absolutely fab. Helped me tremendously",
+        "Too Basic but does the job.",
+        "Really useful!",
+        "Brilliant!",
+        "Perfect",
+        "Don't waste your time on this app Messy and can't even find where you are"
+    ],
+    "recentChanges": [
+        "v0.8.8",
+        "New icon",
+        "v0.8.7",
+        "Bug fixes & stability improvements",
+        "v0.8.4",
+        "Improved Android Wear integration",
+        "Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.davidhodges.buswatch&hl=en&gl=us",
+    "appId": "com.davidhodges.buswatch"
+}

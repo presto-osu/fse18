@@ -1,0 +1,45 @@
+{
+    "title": "Simple Info Watch Face",
+    "summary": "Clock face for Android Wear intended to follow a tutorial",
+    "icon": "//lh3.googleusercontent.com/jThzRVGsnqM3VZNxBvIb9AMGgXKkRvg59cRWIwqh0-ftJphF5e_BFVyLYvWMvDfypA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 0,
+    "reviews": 0,
+    "developer": "SamSoft",
+    "developerId": "7925815075249357158",
+    "developerEmail": "contacto@samsoft.es",
+    "developerWebsite": "http://www.samsoft.es",
+    "developerAddress": "Albacete, España",
+    "updated": "January 15, 2016",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Esta carátula ha sido creada para enseñarte paso a paso como crear un watch face para Android Wear con el framework Android Studio que podrás encontrar en mi Blog:http://samsoft.es/Blog/como-crear-un-watchface-android-wear-parte-1/Si quieres aventurarte con el código fuente y pasar de tutoriales (ya que el código esta comentado) lo puedes encontrar en GitHub distribuido con licencia Apache:https://github.com/SamSoftGit/SimpleInfoFaceSolo recordarte que si te ha sido útil la carátula o el tutorial o los dos, danos tu apoyo dejando tu comentario y/o compartiendos con tus amigos en redes sociales :)Esta disponible en cuadrado y redondo.Gracias a tod@s!",
+    "descriptionHTML": "Esta car&#xE1;tula ha sido creada para ense&#xF1;arte paso a paso como crear un watch face para Android Wear con el framework Android Studio que podr&#xE1;s encontrar en mi Blog:<br><br>http://samsoft.es/Blog/como-crear-un-watchface-android-wear-parte-1/<br><br>Si quieres aventurarte con el c&#xF3;digo fuente y pasar de tutoriales (ya que el c&#xF3;digo esta comentado) lo puedes encontrar en GitHub distribuido con licencia Apache:<br><br>https://github.com/SamSoftGit/SimpleInfoFace<br><br>Solo recordarte que si te ha sido &#xFA;til la car&#xE1;tula o el tutorial o los dos, danos tu apoyo dejando tu comentario y/o compartiendos con tus amigos en redes sociales :)<br><br>Esta disponible en cuadrado y redondo.<br><br>Gracias a tod@s!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_pUNK13a7lZn_RER_apvShjfTq8bY6CJHwpbi-wn3m6norVvg26JqjTAopGMzCdwhxhc=h310",
+        "//lh3.googleusercontent.com/MyQqJX7ZT9boBwu-1t8DAMz5B3aAVIfnW57oRwn6or72eIzDSqmmS3_AuwBqU3VZ-TY=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Mejoras visuales"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wear.samsoft.es.simpleinfoface&hl=en&gl=us",
+    "appId": "wear.samsoft.es.simpleinfoface"
+}

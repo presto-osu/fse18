@@ -1,0 +1,53 @@
+{
+    "title": "Wear Remote Beta",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh5.ggpht.com/EY55ltGhPl2GseASjqHhDelzOPYOMvsEjr6TXLDVMBtaESiEtR_jYkB8XTMVaThbaPc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3,
+    "reviews": 38,
+    "developer": "Mark Schramm",
+    "developerId": "Mark+Schramm",
+    "developerEmail": "skyworxx@googlemail.com",
+    "developerWebsite": "http://www.skyworxx.com/WearRemote/",
+    "developerAddress": "Parnitzweg 2\nD-95145 Oberkotzau\nGermany",
+    "updated": "July 15, 2014",
+    "version": "1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Wear Remote transforms your Android Wear watch into a remote for your computer!Use your watch to control slideshows, music player, etc..---=== IMPORTANT ===---Make sure you have the phone app and desktop client running. The phone app works as a bridge to your computer and has to be running.Get the Desktop Client here:http://www.skyworxx.com/WearRemote---=== IMPORTANT ===------=== BETA RELEASE ===---Wear Remote currently maps the gestures from your watch to the left, right, up and down arrow keys on your keyboard. Future releases of the desktop client will make it possible to set up own keys.---===BETA RELEASE===---Wear Remote consists of 3 parts:- \"Gesture Remote\" provides a swiping area and buttons. It will be automatically installed on your watch.- \"Wear Remote\" is the phone app that sends the gestures from the watch to your computer- \"Wear Remote Listener\" runs on your computer. It translates the gestures from your watch into keystrokes.Wear Remote currently supports 9 gestures:- Swiping in 4 directions, mapped to arrow keys- 4 Directional Buttons, mapped to arrow keys- Double Tapping, mapped to the \"Enter\"-key",
+    "descriptionHTML": "Wear Remote transforms your Android Wear watch into a remote for your computer!<br>Use your watch to control slideshows, music player, etc..<br><br><br><br><br>---=== IMPORTANT ===---<br><br>Make sure you have the phone app and desktop client running. The phone app works as a bridge to your computer and has to be running.<br>Get the Desktop Client here:<br>http://www.skyworxx.com/WearRemote<br><br>---=== IMPORTANT ===---<br><br><br><br><br><br>---=== BETA RELEASE ===---<br><br>Wear Remote currently maps the gestures from your watch to the left, right, up and down arrow keys on your keyboard. Future releases of the desktop client will make it possible to set up own keys.<br><br>---===BETA RELEASE===---<br><br><br><br><br><br>Wear Remote consists of 3 parts:<br>- &quot;Gesture Remote&quot; provides a swiping area and buttons. It will be automatically installed on your watch.<br>- &quot;Wear Remote&quot; is the phone app that sends the gestures from the watch to your computer<br>- &quot;Wear Remote Listener&quot; runs on your computer. It translates the gestures from your watch into keystrokes.<br><br><br><br><br><br><br>Wear Remote currently supports 9 gestures:<br><br>- Swiping in 4 directions, mapped to arrow keys<br>- 4 Directional Buttons, mapped to arrow keys<br>- Double Tapping, mapped to the &quot;Enter&quot;-key",
+    "histogram": {
+        "1": 11,
+        "2": 3,
+        "3": 9,
+        "4": 5,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/0vaqQAZxlxM7cK6oNqbqzZbj-I8upwLmazldXulf5OTCwkrGKI0ID6qW41NCgwgl39g=h310",
+        "//lh3.ggpht.com/bCMJn250dxoKNg5m8tw40T13IBJrHr2uGMX7tUAx3sIrbseRcG7d7INaIIisGo-RlG88=h310"
+    ],
+    "video": "https://www.youtube.com/embed/4RR135qLGfg",
+    "comments": [
+        "It needs lots of work yet I really like the idea but it has a long ways to go yet. Being able to map the swypes and taps to hotkeys on the computer-especially ones that control a tasker on the computer-would be fantastic. I'd donate to that no problem. It's oriented sideways on the Moto 360 btw. Up is right, right is down, etc. And the pattern doesn't fit the screen properly. I'd have given this a one or a two star of it wasn't sill in beta testing.",
+        "Has potential I can see the messages streaming to my device (N5) but I'm having trouble connecting it to the desktop client (.jar on windows). Both are on same wifi (public but past a portal), but there is no where to put the IP address on the app (only port option). Suggestions?",
+        "Um that's not gestures.... Gestures is when u wave your hand or twist your wrist. And it is possible to do so. So do so. Instead of this stupid non making sense thing xD. and let us launch any file on PC. THEN it becomes 10000000% usable :)",
+        "Can't wait for updates This works brilliantly but is predictably of very limited use when it can send only five different keystrokes to the PC. Can't wait for a customisable version so I can for instance send the keypress 'C' to my media player software (which pauses and unpauses music playing on my PC). Will definitely upgrade this to a five-star review if and when I can do this from my wrist! Edited to add: oh, just realised this only seems to work if the mobile app is running in the foreground - would be far better if it could work with it in the background on the mobile.",
+        "Am impressed, it works surprisingly well for my moto 360. Even tho the design isn't amazing, but it definitely does the job perfectly. Also having viberations on watch touch would be really nice.",
+        "Can't install the windows file It works on my watch (sideways and off centre) and phone but I can't install the latest windows file."
+    ],
+    "recentChanges": [
+        "- no need for server ip anymore. WearRemote will automatically talk to all devices on your local network"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.skyworxx.wearremote&hl=en&gl=us",
+    "appId": "com.skyworxx.wearremote"
+}

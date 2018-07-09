@@ -1,0 +1,50 @@
+{
+    "title": "Watch Face Scoon HUD1",
+    "summary": "Transform your smart watch into a fully animated HUD type watch",
+    "icon": "//lh3.googleusercontent.com/xrSWb3mVHLvaswX-ZqppgdPupzbJygYliaCvOVXfnc7mHPEeWLrgZc86RkoMdo1mX_0=w300",
+    "price": "$1.12",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.3,
+    "reviews": 3,
+    "developer": "Scoon Design",
+    "developerId": "Scoon+Design",
+    "developerEmail": "scoondesign@gmail.com",
+    "developerWebsite": "http://www.scoondesign.com",
+    "developerAddress": "Dr. Plesmanlaan 156-160, 3601DE, Maarssen",
+    "updated": "September 17, 2015",
+    "version": "1.01",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "For Android Wear Features of HUD- fully animated high definition watch face- fully customizable indicators and colors - weather function- power indicators for watch and phone- analog and / or digital time- low power usage- on-watch settings!",
+    "descriptionHTML": "<b>For Android Wear</b> <br><br>Features of HUD<br>- fully animated high definition watch face<br>- fully customizable indicators and colors <br>- weather function<br>- power indicators for watch and phone<br>- analog and / or digital time<br>- low power usage<br>- on-watch settings!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/YypERfbKpd25MzTLdIaJvt9S92nVrujvNrx_Mr8BTzxp95x-PBqy4nFziuUB3Qp4944=h310",
+        "//lh3.googleusercontent.com/NCSydgJZMkD7n14m2jaMCoGW2qqwbK21SF9N8SNoigdLMR9utlGTmmhrvLsypHAuddc=h310",
+        "//lh3.googleusercontent.com/I7mFLENmTVzHQHQLJBdXjadak9t5plAL6IDPV2V0XGp-qXwLfctBP-qH5yx0kaNBWxI=h310",
+        "//lh3.googleusercontent.com/j6fSzf0nFLiTFHy9TG2nCyzMl4gBv77yKny1CAnHv8CYugR3k-4YpC_NMkpsZH_yoQ=h310",
+        "//lh3.googleusercontent.com/qooRjWyGEBz4Rf0au9V6aXxx7_q_8_xTQTd3o7GoT8yLUIu6ftj1LHWdRL435wL9dwM=h310"
+    ],
+    "video": "https://www.youtube.com/embed/jO0aAEeh7kQ",
+    "comments": [],
+    "recentChanges": [
+        "v1.01",
+        "Fixes on-phone preview not showing date and humidity labels when enabled."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.scoonwear.hud1&hl=en&gl=us",
+    "appId": "com.scoonwear.hud1"
+}

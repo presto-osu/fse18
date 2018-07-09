@@ -1,0 +1,62 @@
+{
+    "title": "Baby Time: Android Wear Lock",
+    "summary": "A simple screen lock for Android Wear.",
+    "icon": "//lh5.ggpht.com/b8ATVUH9GA1U6qPILmUY2L7UmGXyz_25CvGyCDWfoA_Ruv_cs8IQFezHDhAO52Ke_EnO=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4,
+    "reviews": 137,
+    "developer": "Yoni Samlan",
+    "developerId": "Yoni+Samlan",
+    "developerEmail": "support@yonisamlan.com",
+    "developerWebsite": "http://yonisamlan.com",
+    "updated": "September 28, 2014",
+    "version": "1.0.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "An Android Wear app to prevent rugrats from accidentally SMSing China or ordering you a Lyft car when you’reholding them. It keeps the screen on, but at its lowest brightness setting to avoid annoying – orworse yet, interesting – an infant.Start the app by saying \"OK Google, run Baby Time.\" The only way to exit Baby Time is to swipe uptwice and then down twice:**✔ Motor control verified. WELCOME ADULT HUMAN**Any other types of touches will keep the watch locked and just show a message:**✖ BABY-LIKE TAPPING DETECTED**This app is *ONLY* for phones with Android Wear watches connected! It won't do anything at all on a phone alone, and will not work with any other types of smartwatches. If you do have a compatible Android Wear device, the app should show up on your watch within a few minutes of installing this app on your phone.This app is free, with no IAP or ads, and is open source: https://github.com/ysamlan/wearbabytime - enjoy.",
+    "descriptionHTML": "An Android Wear app to prevent rugrats from accidentally SMSing China or ordering you a Lyft car when you&#x2019;re<br>holding them. It keeps the screen on, but at its lowest brightness setting to avoid annoying &#x2013; or<br>worse yet, interesting &#x2013; an infant.<br><br>Start the app by saying &quot;OK Google, run Baby Time.&quot; The only way to exit Baby Time is to swipe up<br>twice and then down twice:<br><br>**&#x2714; Motor control verified. WELCOME ADULT HUMAN**<br><br>Any other types of touches will keep the watch locked and just show a message:<br><br>**&#x2716; BABY-LIKE TAPPING DETECTED**<br><br>This app is *ONLY* for phones with Android Wear watches connected! It won&apos;t do anything at all on a phone alone, and will not work with any other types of smartwatches. If you do have a compatible Android Wear device, the app should show up on your watch within a few minutes of installing this app on your phone.<br><br>This app is free, with no IAP or ads, and is open source: https://github.com/ysamlan/wearbabytime - enjoy.",
+    "histogram": {
+        "1": 13,
+        "2": 4,
+        "3": 22,
+        "4": 29,
+        "5": 69
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/CYN5TDlDz2SJ7_AS9oVIqpsVo1eLlmynKeaCGB7ORjcoZN4fSc3DKItHP-s6usg33g=h310",
+        "//lh3.ggpht.com/PU0f6DWSD1CBjwhh0XgS87VcWJPP2ZPrX42sDOf6jXfEckAbqFQxuIy7Vg5bWSjYIWM=h310",
+        "//lh6.ggpht.com/Y2Qejj5LCS2rQDw6eSX9z8q7dbRpDU5YjRlKCuHViZsltdIx9r0qdmiFpQ_M1Zwd2iQ=h310",
+        "//lh3.ggpht.com/2g-Pf_Pg6TLdrnKplJ28hxte0opY2UMLnzAFWeyo4hUYVC5wlj1B391-h79632fw9ImS=h310",
+        "//lh3.googleusercontent.com/NCvhQc6G-oOMOccAnH6F3x6ZDOtrZJYwKZIg9GvsonLywIdYfBXBjOtMZC_8IyuhhEFV=h310",
+        "//lh3.googleusercontent.com/OOv4P0CBnolrZsBD9bubKep91z_PVfwu0me_B2qRHfQAUKMm3tGHzfN92ORuEIMog0I=h310",
+        "//lh3.googleusercontent.com/e4rCORXQOdFeDt4QcMLl7xPaemq4eouAwpjm2m5D4sK1bbUCEDwLzXW9U7Fo9H5KRQ=h310",
+        "//lh3.googleusercontent.com/Y4_V5mZBLrfoQJ7aiTFD4-zW_C_OSnRBd5Og9NVzC97hM4i4X-99258jAMhPh6JWGts3=h310"
+    ],
+    "comments": [
+        "Perfect for sport too When you run in the rain, or shower with your smartwatch, its screen gets random activated. This app will keep it from launching random apps and stopping your music while you run/cycle in the rain  I would love to have a \"Sleep time\" version of this app, with only the time. Have \"Baby Time On\", date and \"swipe up ...\" text removed. Maybe lower the brightness to minimum too. My usual watch faces are too bright for night time. And when I move, they accidentally brighten up to normal mode, flooding the bedroom with light and waking me up.",
+        "Good start but not quite perfect Great idea and I use it every day with my twins as it's much better than going without, but does have one big flaw. It doesn't stop 'swipe to open' apps - namely Mini Launcher and Bubble Launcher - not sure if this is just an impossibility of Wear, but if it could be done this would be 5*. Also is tricky to unlock sometimes, but would rather that than too easy.",
+        "Maybe I'm missing something? I can't even get it to open. It does not show up in my apps, only on my playlist and there is only the option to uninstall, not to open. How the heck do you use this thing?",
+        "Great concept I don't know what it is, but I have to try about 30 times to unlock it. I'm always detected as a baby.  And unfortunately it doesn't lock out the mini launcher. Improve those two and it would be fantastic.",
+        "Good, but... My baby found toast message and screen scraping with nails. Please add feature for turn on/off toast message. Thank you",
+        "Adult proof Have to try way too many times to unlock the watch with little to no feedback as to whether you are swiping correctly or not. Running on Moto 360."
+    ],
+    "recentChanges": [
+        "1.0.3:",
+        "Improved round-screen layout; show date; use localized preference for 12/24 hour display",
+        "1.0.2:",
+        "Restart Baby Time even when the screen is turned off with the palm-covering-watch gesture.",
+        "1.0.1:",
+        "Include clock on lockscreen."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.yonisamlan.wearbabytime&hl=en&gl=us",
+    "appId": "com.yonisamlan.wearbabytime"
+}

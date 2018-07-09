@@ -1,0 +1,55 @@
+{
+    "title": "Dark Sky Digital Watch Face",
+    "summary": "An analog and digital watch face with a dark sky theme and choice of color",
+    "icon": "//lh3.googleusercontent.com/_wKxZjN6iR-21R0wmlNhyVHbG0DJp_kguTBxVq-ICgZ8NSQ1LlJT4U0AS56tpHuIlRQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.2,
+    "reviews": 4,
+    "developer": "CritterMap Software LLC",
+    "developerId": "CritterMap+Software+LLC",
+    "developerEmail": "support@crittermap.zendesk.com",
+    "developerWebsite": "http://www.backcountrynavigator.com/",
+    "developerAddress": "Camas WA 98607",
+    "updated": "August 20, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Dark Sky is a dark but stylish watch face. This Watch Face for Android Wear has the essential information on a dark sky background. The information it contains includes:-The Time in Digital format-The Time in Analog format, just to cover both bases. -A symbol representing current weather conditions from OpenWeatherMap.com-A number for the current temperature in degrees. -A count of the number of steps for the current day since you first ran this watch face. -The day of the week in three letter format-The month in three letter format-The year with two digits. -The percentage of the battery remaining on the watch. Once installed, give it time to synchronize and then choose and configure this watch in the Android Wear app. You can choose the main color and whether it shows temperature in Celsius and Farenheit. Other elements on this watch face are mostly decorative, but cool. Get the Dark Sky Digital Watch for Android Wear today!",
+    "descriptionHTML": "Dark Sky is a dark but stylish watch face. <br><br>This Watch Face for Android Wear has the essential information on a dark sky background. <br><br>The information it contains includes:<br>-The Time in Digital format<br>-The Time in Analog format, just to cover both bases. <br>-A symbol representing current weather conditions from OpenWeatherMap.com<br>-A number for the current temperature in degrees. <br>-A count of the number of steps for the current day since you first ran this watch face. <br>-The day of the week in three letter format<br>-The month in three letter format<br>-The year with two digits. <br>-The percentage of the battery remaining on the watch. <br><br>Once installed, give it time to synchronize and then choose and configure this watch in the Android Wear app. <br>You can choose the main color and whether it shows temperature in Celsius and Farenheit. <br><br>Other elements on this watch face are mostly decorative, but cool. <br><br>Get the Dark Sky Digital Watch for Android Wear today!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/WQ_DGbOUjCz_rfS6SLYoGy_d4LS_ypbe6TCC2U-gA9zsIXaZtcHtTgU0a36udZdIyO0=h310",
+        "//lh3.googleusercontent.com/VDrZVWuhznQ3K7Vv-yKLPz-dLfOhqORaxN8Q4ypiaZHiZx7ov9zS8qPkhU5IWDsFA9U=h310",
+        "//lh3.googleusercontent.com/UuibBWtEcmBstYX5t4dCgv4gpcZlC9sOIpcyIJutZy72BaleEJchBvSd9awvLxeED2M=h310",
+        "//lh3.googleusercontent.com/LfDLsp3gYob3Zf2G96PSCtYF8QJJkIJQ_Xr-z9mgohC8WQiTHIt17wRJ0IbGSaiU308=h310",
+        "//lh3.googleusercontent.com/L9qB7s5AQMocl96n37ZFKYE2lBk0fwxhvcsI1DpQjhUWTcwG2gYTHUAdyGsurlQ6AkI=h310",
+        "//lh3.googleusercontent.com/O8XS1ZUB4KsXxC_9J6VJe7hTKMAai1VP_-BMG2ju7ICMUBUC0VWo52hwyxZu-46ysW8=h310",
+        "//lh3.googleusercontent.com/rseaKyrSLsPcYRiujWwOj328ABLcEPCFRSBa2DzPBFiOk7a5TmB9IBGF5prA7OMP9j8=h310",
+        "//lh3.googleusercontent.com/YpsBbmALSAZ4XzeYI3J3FYc6xiwl-qlSLM9p4uSnI-f5FzzKy7CQGrqmvtVlF4pssFU=h310",
+        "//lh3.googleusercontent.com/cp35C9SEYQg-h9zTuMMWKaJfRoMZ97ITcQHIF2XzHjOZTTMybO1-sAGwYMOHu1l3ZFtV=h310",
+        "//lh3.googleusercontent.com/Lg_NpGPobu1fo3wwstO_CHZJFxXF1AyXP6XTTd669ryNdwsXeyYqwv5jeZdyL3Rjpe9V=h310"
+    ],
+    "comments": [
+        "Better day Would be better to show the date of month rather than year,  or both. I thought today was Nov 15."
+    ],
+    "recentChanges": [
+        "Fine tuning for different densities"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.crittermap.watchface.darksky&hl=en&gl=us",
+    "appId": "com.crittermap.watchface.darksky"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Panic",
+    "summary": "If you&#39;re ever out and about, and suddenly need help, this app could be helpful.",
+    "icon": "//lh4.ggpht.com/Tb4bl0mvAUSKvDECuki8KakVbXbOUcqiXtv2j0WrPPT6eoZJfUzwjNfIEcxC7IGWHio=w300",
+    "price": "$1.18",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 6,
+    "developer": "Si Stibbards",
+    "developerId": "Si+Stibbards",
+    "developerEmail": "stibler.apps@gmail.com",
+    "developerAddress": "N/A",
+    "updated": "July 12, 2014",
+    "version": "1.0",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "If you're ever out and about, and suddenly need help, this app could be very helpful.From your Android Wear device, just press the big red button, speak or select a predefined message, and a text will be sent to your emergency contact containing your message and your current location.Warning:Only works with Android Wear devices.The app sends text messages on your behalf, which could cost you money.",
+    "descriptionHTML": "If you&apos;re ever out and about, and suddenly need help, this app could be very helpful.<br><br>From your Android Wear device, just press the big red button, speak or select a predefined message, and a text will be sent to your emergency contact containing your message and your current location.<br><br>Warning:<br>Only works with Android Wear devices.<br>The app sends text messages on your behalf, which could cost you money.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/Ec5U_kI38EGq6PXSUbiptszsVRgHTPhdspgvT3BNifJ6sZ1nzCJnK3vJs4IzK9qsQXrU=h310",
+        "//lh6.ggpht.com/P9VsONNLUimIkL_CrsgSOPeUXZbnxvAw0kCpezV8wAk9nfQq3fd0FUUwANwsdrMdGQ=h310",
+        "//lh6.ggpht.com/wyyvq5v3_ttoTW7WC0T9mD0zdUe_i3eaCvubewTecy-Eg3RONwo4-6qoTFK8QGdDmLgp=h310",
+        "//lh3.ggpht.com/uMvMi70KZ9qwDdggpRSaYhn24Q6IDofUkmnoMQ_yzQW5BC9ve637GgU7vAfOs8NPKdg=h310"
+    ],
+    "comments": [
+        "Dirt simple, too simple Why not allow multiple recipients? Why not allow more text options?"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=panic.stibbards.net.panic&hl=en&gl=us",
+    "appId": "panic.stibbards.net.panic"
+}

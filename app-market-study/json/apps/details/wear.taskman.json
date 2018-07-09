@@ -1,0 +1,50 @@
+{
+    "title": "Advanced Wear Task Killer",
+    "summary": "Simple task killer for AndroidWear smart watches!",
+    "icon": "//lh6.ggpht.com/IR-etrE7zL5opNuoYlxH8E1CPMsYpMbDTVsypLz4fvREz7vFH_wWsQ2zc2jXP8ixZHg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 27,
+    "developer": "Stefan Lässer",
+    "developerId": "Stefan+L%C3%A4sser",
+    "developerEmail": "mail@stefan-huber.at",
+    "developerWebsite": "http://www.stefan-huber.at",
+    "updated": "November 23, 2014",
+    "version": "1.3",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "*Advanced Wear Task Killer* is an easy to use task manager for Android Wear smart watches.It can be used to see and terminate running apps on your wrist.Now also showing system processes: Right-Swipe to show!This app supports both square and round watches.*Please note* Some killed applications might restart themselves immediately after being killed. This is normal, as these apps run as constant services.Working on all current Android Wear devices, like: * Moto 360 * LG G Watch * LG G Watch R * Samsung Gear Live * Sony Smart Watch 3",
+    "descriptionHTML": "*Advanced Wear Task Killer* is an easy to use task manager for Android Wear smart watches.<br><br>It can be used to see and terminate running apps on your wrist.<br><br>Now also showing system processes: Right-Swipe to show!<br><br>This app supports both square and round watches.<br><br>*Please note* <br>Some killed applications might restart themselves immediately after being killed. This is normal, as these apps run as constant services.<br><br>Working on all current Android Wear devices, like: <br>* Moto 360 <br>* LG G Watch <br>* LG G Watch R <br>* Samsung Gear Live <br>* Sony Smart Watch 3",
+    "histogram": {
+        "1": 4,
+        "2": 3,
+        "3": 1,
+        "4": 6,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/QOIZXnp3Z5n3ZiNzxvq2plsfQ2Ml6xi0p_y4xNpFEjnsIJrAG_nevAqdJGfHCseENKA=h310",
+        "//lh6.ggpht.com/znNKG4a7eBRuCu-kR0BJrXe5Ov3o8QD9_lt2wfn7q_8nXARRQstxLIn0Mzjt3NMlgQc=h310",
+        "//lh3.googleusercontent.com/HmkAACP7UnPNMcA-QTU70H8SIqPwR5ws04LkOKesFNmkLLc1f88dbIpOixXThpUHHOQ=h310",
+        "//lh3.googleusercontent.com/346d4XMgNivHqPFpPcBKUigMMjFUmI0Fas2o4SlFs1hasPIknWIJSoC7p-p-8yfEHQ=h310"
+    ],
+    "comments": [
+        "Only ever shows itself and android wear There are considerably better solutions out there.",
+        "Doesn't Appear to Work Agree, seems to only show itself & Android Wear.  I'd be happy to try it again if this is fixed.   For now, I'll be looking elsewhere (Zenwatch 2)"
+    ],
+    "recentChanges": [
+        "+NEW+ Now also showing SYSTEM Processes via right-swipe.",
+        "Just swipe from right to left to see them!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wear.taskman&hl=en&gl=us",
+    "appId": "wear.taskman"
+}

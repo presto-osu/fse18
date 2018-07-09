@@ -1,0 +1,9 @@
+Soot started on Thu Jun 21 11:22:06 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.goodpatch.android.watchface.moonwatch.Type1Style1Service
+[INFO] MySceneTransformer: WatchFaceService:::: com.goodpatch.android.watchface.moonwatch.Type1Style2Service
+[INFO] MySceneTransformer: WatchFaceService:::: com.goodpatch.android.watchface.moonwatch.Type2Style1Service
+[INFO] MySceneTransformer: WatchFaceService:::: com.goodpatch.android.watchface.moonwatch.Type2Style2Service
+[INFO] MySceneTransformer: WatchFaceService:::: com.goodpatch.android.watchface.moonwatch.Type3Style1Service
+[INFO] MySceneTransformer: WatchFaceService:::: com.goodpatch.android.watchface.moonwatch.Type3Style2Service
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.goodpatch.android.watchface.moonwatch.apk
+[ERROR] ClassUtil: APK is obfuscated!!! Ignore!!!

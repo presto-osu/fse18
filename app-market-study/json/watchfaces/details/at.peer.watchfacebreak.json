@@ -1,0 +1,55 @@
+{
+    "title": "Break Watch Face",
+    "summary": "Android Wear Watch Face - Move the coffee cup on your watch and take a break",
+    "icon": "//lh3.googleusercontent.com/QOir7ET51FbFHH0cZbRJvEnO7j1aSRZA3jvGm3ztPuZNW5s7sDRK0VzXx3NInJEkgA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.6,
+    "reviews": 9,
+    "developer": "Peer David",
+    "developerId": "Peer+David",
+    "developerEmail": "breakwatchface@peer.tirol",
+    "developerAddress": "6152 Trins, Starres 7, Austria",
+    "updated": "January 8, 2016",
+    "version": "1.3.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "You are overworked and need a break from emails, calls or other notifications? Just move the coffee cup on your watch and take a break.Interactive Function - Swipe the coffee cup on your watch and take a break - Mute during a break (do not disturb)Display - Date & Time - Current break time (in min.) - Different Styles: Coffee, Dark Coffee or Material Design Extras - Smooth seconds - Hide date - Tap to unlock cup (enable in settings if needed)*** Can also be used as pomodoro timer or countdown ***Tested on: - Moto 360",
+    "descriptionHTML": "You are overworked and need a break from emails, calls or other notifications? Just move the coffee cup on your watch and take a break.<br><br><br><b>Interactive Function</b><br> - Swipe the coffee cup on your watch and take a break<br> - Mute during a break (do not disturb)<br><br><b>Display</b><br> - Date &amp; Time<br> - Current break time (in min.)<br> - Different Styles: Coffee, Dark Coffee or Material Design <br><br><b>Extras</b><br> - Smooth seconds<br> - Hide date<br> - Tap to unlock cup (enable in settings if needed)<br><br><br>*** Can also be used as pomodoro timer or countdown ***<br><br><br>Tested on:<br> - Moto 360",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/sA4cBsmJjtQ9xf2ql4HQ6ZO_G0lZis7YQPqN1MsMu35UMftWLFRy2yWLQUzrEpL0tQ=h310",
+        "//lh3.googleusercontent.com/Vd8U0m3kkPvhey_jr_bZ3wO2hU1fcDBzggwfdIC78M8Z1EmcZVsIkcEV6tAVpEt0NA=h310",
+        "//lh3.googleusercontent.com/ujfSrX4urLKlSwKtGqp7755tDwyiAQ2zkxKPkyXZvPjyN6YvxoV2WXgekOz2PGq_IQ=h310",
+        "//lh3.googleusercontent.com/KNM68z5CFt_YOfA1n3TosFK0xzs24tn3fu_jjjGAaTe_KMTYLnYcQAflt3Cc3zQJNRA=h310",
+        "//lh3.googleusercontent.com/57D87LwQa18nTSnb6ShccZ857X7JAEYqSm-28ZFsuX2IyRmOOwo5yUBvtPCPZCajcmQ=h310",
+        "//lh3.googleusercontent.com/D6MVjcHJAs0WJApbpzv7vvg8vJXigj8D1ICMdTW2VIPeNV3XvhVYFx_bIgDkQnxjcHU=h310",
+        "//lh3.googleusercontent.com/Y0mCgq5O4y76oSHzsAdpnb3uKB-B7ErMK29t8xN43S-6pdxAJFE2rjWVvOwxwGiHrQ=h310"
+    ],
+    "comments": [
+        "Simple and love it. Would like to see preset pomodoro timer and more styles.",
+        "So simple yet awsome! Love the style!"
+    ],
+    "recentChanges": [
+        "- Added day of month",
+        "- Now you can take a break > 1h",
+        "- Smooth seconds",
+        "- Tap to unlock cup (enable in settings if needed)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=at.peer.watchfacebreak&hl=en&gl=us",
+    "appId": "at.peer.watchfacebreak"
+}

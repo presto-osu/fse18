@@ -1,0 +1,44 @@
+{
+    "title": "Wear Profile",
+    "summary": "Wear Profile displays your profile on the wearable device.",
+    "icon": "//lh6.ggpht.com/TRWvZ5Jrv3AdfZy43EgYEyIPhoCUntGuc06tfIr5hyvW8FKVlTTuaZPydvSWSemWc7bD=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.4,
+    "reviews": 8,
+    "developer": "papi",
+    "developerId": "papi",
+    "developerEmail": "mail.bati11@gmail.com",
+    "updated": "September 13, 2014",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Wear Profile displays your profile on the wearable device.Enter the profile on your phone, and then sync with the wearable device.You can also import profile from twitter.None of the profile that has been input is uploaded to any server.Notice that Wear Profile requires a AndroidWear device.Ver 1.1- fix crashes at read a picture in sd card on the android 4.4",
+    "descriptionHTML": "Wear Profile displays your profile on the wearable device.<br><br>Enter the profile on your phone, and then sync with the wearable device.<br>You can also import profile from twitter.<br>None of the profile that has been input is uploaded to any server.<br><br>Notice that Wear Profile requires a AndroidWear device.<br><br>Ver 1.1<br>- fix crashes at read a picture in sd card on the android 4.4",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/4W_LbW_RqLwHr0cPoIYfrgQ5bPDtfSQ8b6Rf0Wm5R8ry0f_aRE99bZjoelJ5rzMMd1ye=h310",
+        "//lh6.ggpht.com/C3SVvoc4gKFb3b2Bu2aCV1AD9bXKK9EFvwBBe2Xp64-5c_PIhOSarnDgxl_BF1g3CeE=h310"
+    ],
+    "comments": [
+        "Not Working It shuts off when I try to add a picture."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.bati11.wearprofile&hl=en&gl=us",
+    "appId": "info.bati11.wearprofile"
+}

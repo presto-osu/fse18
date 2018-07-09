@@ -1,0 +1,42 @@
+{
+    "title": "BLiS Watch face",
+    "summary": "Watch face for time indication, date indication, temperature and steps",
+    "icon": "//lh3.googleusercontent.com/0lCKQ9N3Ag4f78nvesg0E7ucRhvhs8wLtFMQXDJigH9DMDggBo_1xqHCrkpJukG1JQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.4,
+    "reviews": 9,
+    "developer": "BLiS web & mobile",
+    "developerId": "BLiS+web+%26+mobile",
+    "developerEmail": "support@weareblis.com",
+    "developerWebsite": "http://www.blis.biz/",
+    "updated": "August 23, 2015",
+    "version": "1.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Watch face for time indication, date indication, temperature and steps",
+    "descriptionHTML": "Watch face for time indication, date indication, temperature and steps",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KKz-n-9se1VOtbfcXvdkHEeufvVq20QCxfiiqo0MHtC2CizGLw9wjtefrKh79_zZlYlM=h310",
+        "//lh3.googleusercontent.com/EHIENPCRkBm8uxmv0lp3jaqSEAU2Fdi8QbpV8qA-xo_3s0XsE0fQvL8G4VXi6cvrATA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.blis.android.wearable.bliswatchface&hl=en&gl=us",
+    "appId": "com.blis.android.wearable.bliswatchface"
+}

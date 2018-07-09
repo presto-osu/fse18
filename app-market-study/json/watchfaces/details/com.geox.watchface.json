@@ -1,0 +1,53 @@
+{
+    "title": "Geox Watch Face",
+    "summary": "Track your walking activity with colorful gradients that change as you walk",
+    "icon": "//lh3.googleusercontent.com/6LB9GXMtwjKx4Ap6a2Vo8nRY-65DDCvWcqNIAbY3jHFmzpWJ5m-94hK9TgHFt4iRdg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.3,
+    "reviews": 192,
+    "developer": "Geox",
+    "developerId": "Geox",
+    "developerEmail": "sistemi.informativi@geox.com",
+    "developerWebsite": "http://www.geox.com",
+    "updated": "June 24, 2015",
+    "version": "1.0.7",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "\"Geox shoes breathe with your every step. Style and technology combined to ensure you stay looking great and feeling comfortable all day long. With the Geox watch face you can track your daily steps through colors, rather than numbers. Plot your progress with colorful gradients that change as you walk and get closer to your target.Use the companion app to customize your own daily targets, and change the gradients to match your mood or outfit. The watch face is stylized with a fluid bokeh design and layered with a clean interface for your time-telling needs.\"",
+    "descriptionHTML": "&quot;Geox shoes breathe with your every step. Style and technology combined to ensure you stay looking great and feeling comfortable all day long. <br>With the Geox watch face you can track your daily steps through colors, rather than numbers. <br>Plot your progress with colorful gradients that change as you walk and get closer to your target.<br>Use the companion app to customize your own daily targets, and change the gradients to match your mood or outfit. <br>The watch face is stylized with a fluid bokeh design and layered with a clean interface for your time-telling needs.&quot;",
+    "histogram": {
+        "1": 30,
+        "2": 24,
+        "3": 44,
+        "4": 46,
+        "5": 48
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qSSJi47hFRHg3O6mQ9dZZzEBvfEgz3SFXhpZx0sxk6WaLauPnVlLdKeC0FbkAdmbmVM=h310",
+        "//lh3.googleusercontent.com/s887D7Uger9jti2o1jDjAGg47iVUeZ7QMvNp_X3UWTfBoMfSZHQw-p0q4MlQUCVmKtdF=h310",
+        "//lh3.googleusercontent.com/F4MTxgHaUY6iS1KCVpdWNFBQgp331CqyAbtVNf3wmOI-pNTWejkJOCO5eRhP0ufsYA=h310",
+        "//lh3.googleusercontent.com/QNP41dWJPmMpROlWQaBbATaYOe0JoJy7vNo_9-Yn0zF7JZe9N6Q_jWhD5mWXkTIALa-s=h310"
+    ],
+    "comments": [
+        "Its own step counter? That is kinda worthless if it isn't connected to at least Google fit.",
+        "Doesn't work Moto 360 gen 2 through a lgg4. It's very cool when it works, but the steps reset almost every hour",
+        "Nice Watchface but slash screen ruins it Love this watchface, it's great looking and simp!e to read at a quick glance. Unfortunately I've stopped using this because the splash screen that comes up everytime I raise my wrist despite using the always on option and this ruins the watchface as the small wait makes glacing at the watch pointless",
+        "Poorly Made Looks nice, and a cool concept. Terrible battery drain. Wakes watch randomly even when ambient screen and tilt to wake are off. Inaccurate step count. If fixed I'll come back and check it out again. I wanted to like it, but can't yet.",
+        "Battery drain The idea is lovely. It uses a different count of steps than the actual Fit app so most likely these 2 will not match, which is OK. What I couldn't understand was the battery drain. My moto 360 lasts me whole day and 1 night. With this watch face running the new 5.1.1 It didn't last 12 hours. I changed the face for Driver and I was back on my regular consumption. So I just can assume it was the watch face Geox. Not uninstalling, I will wait for an update that addresses this issue.",
+        "Looks nice but have 2 major problems that must be fixed 1-Battery drain, 2- splash screen. It also do not keep the colour combination we had made if I select a different watchface and return to this one."
+    ],
+    "recentChanges": [
+        "- Stability improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.geox.watchface&hl=en&gl=us",
+    "appId": "com.geox.watchface"
+}

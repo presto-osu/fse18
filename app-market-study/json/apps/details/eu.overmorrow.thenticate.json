@@ -1,0 +1,60 @@
+{
+    "title": "Thenticate - Pro Authenticator",
+    "summary": "Next generation Authenticator app for your mobile and wear devices!",
+    "icon": "//lh3.googleusercontent.com/gjkCBbkK5FGYpkUmTQwlQ1T6jZBmgH5Siuyk-BSCKGXPBFIe25p-0DEfP9_8Nlf9xIA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 130,
+    "developer": "overmorrow",
+    "developerId": "7967609619766141038",
+    "developerEmail": "info@overmorrow.eu",
+    "developerWebsite": "https://overmorrow.eu",
+    "updated": "January 5, 2017",
+    "version": "1.03",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Thenticate is your next generation Authenticator app - it's smart, secure and has a sleek design.It's simple: Just snap the QR-code and you are ready to go! Don't want to use the camera? No problem! You still have the option to manually add tokens to the app.It's secure: Thenticate encrypts all your tokens locally with your master password and backs them up with your Google account. No need to worry when your phone gets damaged or lost - simply download Thenticate again and enter your old master password. Furthermore your master password is protected by hardware backed security so it can't be extracted from the device even if your phone is compromised.It's beautiful: Did you ever check out some of the other Authenticator apps? Yeah? We did that too. And this is why we decided to build a new one which fits our needs in every single aspect. Are you missing a feature? Just ping us via the 'Send Feedback' button inside the app 😉It is on your wrist: Thenticate also runs on your Android Wear device so you can enter codes even faster.Do you have questions? Have a look at our FAQ ( https://overmorrow.eu/work/thenticate#FAQ ) or drop us a line.",
+    "descriptionHTML": "Thenticate is your next generation Authenticator app - it&apos;s smart, secure and has a sleek design.<br><br>It&apos;s simple: Just snap the QR-code and you are ready to go! Don&apos;t want to use the camera? No problem! You still have the option to manually add tokens to the app.<br><br>It&apos;s secure: Thenticate encrypts all your tokens locally with your master password and backs them up with your Google account. No need to worry when your phone gets damaged or lost - simply download Thenticate again and enter your old master password. Furthermore your master password is protected by hardware backed security so it can&apos;t be extracted from the device even if your phone is compromised.<br><br>It&apos;s beautiful: Did you ever check out some of the other Authenticator apps? Yeah? We did that too. And this is why we decided to build a new one which fits our needs in every single aspect. Are you missing a feature? Just ping us via the &apos;Send Feedback&apos; button inside the app &#x1F609;<br><br>It is on your wrist: Thenticate also runs on your Android Wear device so you can enter codes even faster.<br><br>Do you have questions? Have a look at our FAQ ( https://overmorrow.eu/work/thenticate#FAQ ) or drop us a line.",
+    "histogram": {
+        "1": 4,
+        "2": 6,
+        "3": 9,
+        "4": 22,
+        "5": 89
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JhCl0H6OgXdGhq7G6Yt2V3Bm1b8xX2O83pXGvVigwwlupoaBYg72yE2uvNVFfTMSvXI=h310",
+        "//lh3.googleusercontent.com/orB_J4w4EHAVwHGjWqIKQa8HVwzBC2uFIehKzGzpD0NFM4p0fGo7VI3gALHDzpZxpHg=h310",
+        "//lh3.googleusercontent.com/DzQfHDKyM4vHE_kLbYZmT_YYJMp9it0cw2S8nJe5bDbJhFZi5onoOev2wVtINK-to9S3=h310",
+        "//lh3.googleusercontent.com/TAyO95-oBEf3stzDnZZpgYvu_5tRuTkRTpaw8W4XkjWMFO6_i9awDUtQ4Z2QyWbepas=h310",
+        "//lh3.googleusercontent.com/IWitLSJUqtM-T_TbdZlyoAabD2UaMDNqzbx8aWrIVbdADNS8GC4ZkzkKdJPdhAqEVg=h310",
+        "//lh3.googleusercontent.com/7lRI1hVupMEC9S-9p4IYjr2X2A9uso-5jHHOQ8ocXOMdlyPSChDG5IGme5YONwev8H8=h310",
+        "//lh3.googleusercontent.com/cfRT3JvGVJv7bNvaXnXVTQw-ocVCiOpbgk7SL5YBaCKUCluY0VEN57k_buqRC3awnU7G=h310",
+        "//lh3.googleusercontent.com/ujHX2TPBHof03D3u2NXV2FOZvYnlBLoVxD2c8VKb99a-5Ep5fteZI489OtBCU1pOHqU=h310",
+        "//lh3.googleusercontent.com/o7Njswq9aze6V5UBIzmCpJh-sGmPp5YJkhhrCi6JqYDcu2fTXdG1fz8eimUflR6JQA=h310"
+    ],
+    "comments": [
+        "I like how it looks, modern and fresh. But, there is a problem with usability. For example I have around 20 services and the page scroll is just enormous. It would be nice to have ability to change layout to have two tokens in a single row. Also, fingerprint security or pin are needed in app like this, please implement.",
+        "In need of some more icons for distinguishability.  The accounts aren't labelled at the top level, this just creates an added step of having to long press the account to find out which it is.  Either more logos for other services (Google is literally the only one in my list of 8 accounts that has an icon) or add some generic icons for things like email. Even better, add the account names to the main page above the email address. The email address alone is not sufficient",
+        "The icons are indistinguishable Why does everything have to take up as much vertical space as possible. The icons for seemingly unknown services are just stars, making the experience abysmal (yea, colors, sure). Good effort though, but why not learn from FreeOTP, it's oss",
+        "Great app! but it become a hassle to use if you have a lot of codes. Maybe being able to categorise them? Or having a smaller grid instead of a list",
+        "This is probably the best-looking OTP generator I've seen. At first, I thought there wasn't a timer (a basic feature to know if your code is about to expire), but then I realized that the color fades the closer the code is to resetting.  At the moment, this a four-star app. I would love to see the ability to add our own custom icons because right now, there are only about 30 built-in ones. That means a majority of my OTP codes have the generic star. That makes it a bit hard to differentiate between the codes. To remedy this, instead of inputting my login the OTP is associated with, I input the website. Not ideal.  Furthermore, I'd like to see the addition of custom groups or labels, and a search function. If any/all of these are implemented, I'll update this review to five stars.",
+        "Great app. Beautiful design and great backup solution. But it's crashing when trying to manually set up a new token do you have to manually create a QR code with all the information"
+    ],
+    "recentChanges": [
+        "Thenticate is now available in 🇩🇪 German and 🇪🇸 Spanish!",
+        "And again, some more 🐛 had to go.",
+        "Thanks for all the valuable feedback!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eu.overmorrow.thenticate&hl=en&gl=us",
+    "appId": "eu.overmorrow.thenticate"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "WearBright",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh4.ggpht.com/0xDkJN901ZZ4fQp0ajxjTDj7jgrBWJkUldSn4F2CPPrJrjPapp2BHq40fHyhTNm9zrM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.5,
+    "reviews": 11,
+    "developer": "laptopfreek0",
+    "developerId": "laptopfreek0",
+    "developerEmail": "laptopfreek0@gmail.com",
+    "developerWebsite": "http://android.laptopfreek0.com",
+    "developerAddress": "Chattanooga, TN",
+    "updated": "July 10, 2014",
+    "version": "1.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "WearBright is a one click solution to maximize the brightness of your screen of your android device. The idea is when you are in direct sunlight you can say one command and click the screen to max the brightness of your watch. When you go back indoor you can launch the app again and revert the setting. Note once you change the brightness they will stick, so you can exit the app and the brightness will remain the same.You can launch WearBright by clicking the screen, scrolling down to start, and choose WearBright. Alternatively you can say \"OK Google start Brightness\" or \"Go Go Gadget Brightness\" (A far easier option if you can't see the screen in direct sunlight).The accompanying phone app currently doesn't do much other then give you one more option to max the screen brightness. In the not to distant future I will add tasker support to change brightness on the fly.",
+    "descriptionHTML": "WearBright is a one click solution to maximize the brightness of your screen of your android device. The idea is when you are in direct sunlight you can say one command and click the screen to max the brightness of your watch. When you go back indoor you can launch the app again and revert the setting. Note once you change the brightness they will stick, so you can exit the app and the brightness will remain the same.<br><br>You can launch WearBright by clicking the screen, scrolling down to start, and choose WearBright. Alternatively you can say &quot;OK Google start Brightness&quot; or &quot;Go Go Gadget Brightness&quot; (A far easier option if you can&apos;t see the screen in direct sunlight).<br><br>The accompanying phone app currently doesn&apos;t do much other then give you one more option to max the screen brightness. In the not to distant future I will add tasker support to change brightness on the fly.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/-CQcML0qPbUN82IE3NH5BpKxgImJAKHTMe5FfBa4UgV2LkV2COTgBnXNxqpN8fPvRS3t=h310",
+        "//lh6.ggpht.com/-b3q2ofozuCupUegM7UiGGbhK3G3_XdFFzPvmSGTs6bpmFk75ZRnfoYslwxiCeqDc2I=h310",
+        "//lh4.ggpht.com/QDSRvnIG4YGIZ8YCitg6Xb1rcu7GUSqslRFadp_nGSPCfFPe--81_mMNBrbLiAj681V8=h310"
+    ],
+    "comments": [
+        "So handy! Even though the creator of \"Wear Mini Launcher\" has now added a brightness slider to his app, this is staying on my watch because if I can't see the screen I can't see a brightness slider; but I CAN say \"OK Google, Start Brightness\" and this app gives me a single tap to Max brightness. Tasker support would be awesome if the developer could get that working in future.",
+        "Excellent Perfect app for turning on Max brightness while in direct sunlight when your screen isn't viewable enough to navigate to the brightness setting.",
+        "Works great now. After the update I can now get the flu to the watch and it works great.",
+        "Great Tasker plugin support would be double-plus good."
+    ],
+    "recentChanges": [
+        "V 1.2",
+        "Fixed a bug that refused to launch app by voice. Also removed settings that wasn't being used.",
+        "V 1.1",
+        "Fixed a bug that wouldn't push the mobile version of the apk to the watch.",
+        "The added permission requirement is for the watch, Google requires the permissions to match watch and phone (but didn't document this very well)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.laptopfreek0.wearbright&hl=en&gl=us",
+    "appId": "com.laptopfreek0.wearbright"
+}

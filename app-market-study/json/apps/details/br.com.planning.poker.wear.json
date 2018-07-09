@@ -1,0 +1,50 @@
+{
+    "title": "Wear Planning Poker",
+    "summary": "Start a Planning Poker session now.Just with your watch, Handheld is optional.",
+    "icon": "//lh6.ggpht.com/rJYdkWwSQ9xsbydWQye8U8y5vTO6y39dDfKG1xsWdKq5DNLGCP3AC5x7wYM16esRTLjk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.7,
+    "reviews": 3,
+    "developer": "Wakim Jraige",
+    "developerId": "Wakim+Jraige",
+    "developerEmail": "wakim.jraige@gmail.com",
+    "developerWebsite": "http://wakimjraige.com",
+    "developerAddress": "Rua Siqueira Campos n. 164, Rio de Janeiro, RJ, Brasil",
+    "updated": "August 11, 2014",
+    "version": "1.0",
+    "genre": "Business",
+    "genreId": "BUSINESS",
+    "description": "The Planning Poker is a consensus technique created in 2002 by James Grenning and made popular by Mike Cohn.Widely used by Agile Development Teams which combines specialist opinion, analogy and disaggregation in an approach to estimate, generating fast and realiable results. This app has a set of decks for your planning poker session of agile projects. Allowing to mirror the state between Agile Planning Poker on your Handheld and the Wear Planning Poker on your Wearable device.Warning: This App require an Android Wear.★★ Features ★★★ Multiple types of pre-defined decks (Fibonnaci, Modified Fibonnaci, Hours and Sizes).★ Swipe between deck cards.★ Possibility to hide the chosen card.★ Optional, using the Agile Planning Poker app (https://play.google.com/store/apps/details?id=br.com.planning.poker) you can:★★ Mirror the card theme from your Handheld, background color and text color.★★ Mirror the selected deck, custom deck, selected card and the card visibility.Keyword: Wearable, Planning Poker, Scrum Planning Poker, Agile Planning Poker.",
+    "descriptionHTML": "The Planning Poker is a consensus technique created in 2002 by James Grenning and made popular by Mike Cohn.<br><br>Widely used by Agile Development Teams which combines specialist opinion, analogy and disaggregation in an approach to estimate, generating fast and realiable results. <br><br>This app has a set of decks for your planning poker session of agile projects. Allowing to mirror the state between Agile Planning Poker on your Handheld and the Wear Planning Poker on your Wearable device.<br><br><b>Warning: This App require an Android Wear.</b><br><br>&#x2605;&#x2605; Features &#x2605;&#x2605;<br><br>&#x2605; Multiple types of pre-defined decks (Fibonnaci, Modified Fibonnaci, Hours and Sizes).<br>&#x2605; Swipe between deck cards.<br>&#x2605; Possibility to hide the chosen card.<br>&#x2605; Optional, using the <b>Agile Planning Poker</b> app (https://play.google.com/store/apps/details?id=br.com.planning.poker) you can:<br>&#x2605;&#x2605; Mirror the card theme from your Handheld, background color and text color.<br>&#x2605;&#x2605; Mirror the selected deck, custom deck, selected card and the card visibility.<br><br>Keyword: Wearable, Planning Poker, Scrum Planning Poker, Agile Planning Poker.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/tiovtWa99BfPi0IWxVfQkMgtwPcr9yaetbECFWUw4gCRQfCZ2NKlDDi4P9xjOzJlUvAH=h310",
+        "//lh5.ggpht.com/8zcryX2K82NMl7O0VtZCAI4USFe4N1_cxFmwcdnIeL1fui2-F_1FlJzpLXCxW_iOFWw=h310",
+        "//lh3.ggpht.com/HaBRDX5Aqn5o3nvT-waScAN-PYB5UOlcHfwjWxT9_ez4cJvlnlzyVBZmlcN0mhFM6is=h310",
+        "//lh3.ggpht.com/ZAY0Sww4UV-0fyr6lqf-HQkvCx4clMvsfssPJhKstDyJcedBru3arSBq87j5WW8dd3M=h310",
+        "//lh3.ggpht.com/sTpH9bw2BRdvJs1D2p_lnudw_sHzP1JnhUyvqRpxwoT6IpW7rYPf6sgphvx4H611213u=h310",
+        "//lh5.ggpht.com/8XoSQQ3rlUWm9CMzAigB12o0obq5iaU78WdLtcXXpME1uUpO51ah2eH8TNf75Yz5VtY=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Version 1.0",
+        "- Release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=br.com.planning.poker.wear&hl=en&gl=us",
+    "appId": "br.com.planning.poker.wear"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Words Watchface",
+    "summary": "Words watch face for Android Wear device with customizable backgrounds.",
+    "icon": "//lh3.googleusercontent.com/VsSZVpHQSZ-oZT8rtsCNrrT6LD5dS94R9XkGi7Jv_fPLPrDXuo0ZlXsjhrYhJpIg9l0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 44,
+    "developer": "Meron Apps",
+    "developerId": "8652489291013372640",
+    "developerEmail": "meronapps@gmail.com",
+    "developerWebsite": "https://www.facebook.com/meronappswearables",
+    "developerAddress": "Madrid - Spain",
+    "updated": "February 1, 2015",
+    "version": "2.1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Words watch face for Android Wear devices.It changes between three backgrounds depends on the time: morning, sunset or night. Also you can choose between show and hide the date.Premium version lets you:- Create your own backgrounds with your images.- Change font colour.- Adjust time when background changes.- Select between two more new backgrounds.Compatible with square and rounded android wear watches.Tested on Moto 360, LG G Watch R and LG Watch.Check out our other watchfaces at: http://www.meronapps.com/nuestras-aplicaciones#portfolio",
+    "descriptionHTML": "Words watch face for Android Wear devices.<br>It changes between three backgrounds depends on the time: morning, sunset or night. Also you can choose between show and hide the date.<br><br>Premium version lets you:<br>- Create your own backgrounds with your images.<br>- Change font colour.<br>- Adjust time when background changes.<br>- Select between two more new backgrounds.<br><br>Compatible with square and rounded android wear watches.<br>Tested on Moto 360, LG G Watch R and LG Watch.<br>Check out our other watchfaces at: http://www.meronapps.com/nuestras-aplicaciones#portfolio",
+    "histogram": {
+        "1": 3,
+        "2": 5,
+        "3": 6,
+        "4": 11,
+        "5": 19
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/Z_mpjnW4BZQLBuTWXPPHRXswZxNci235C03WoADJaAdJmm2T6KJsDus5L2lpc0q6vAPr=h310",
+        "//lh4.ggpht.com/15xrnIqXYWuGwkC6_SxWDb0FpDcZpes8MtjrnCRND-Pq12tW8BSvRYZMmFIr2DDEKY4_=h310",
+        "//lh5.ggpht.com/PDi0mPHhOl09ZuHg2QjKyMfNPSECuLQ2pcGZVnxFP2-4H37JxRRrvWQv_CesC6MfPQ=h310",
+        "//lh3.googleusercontent.com/7r0l8xbYs6h_N4sJwsCYlGHL8M7Xk990MhFDFb_3FAQ-9MV6Av3H55X79XwJWkxd8KO1=h310",
+        "//lh6.ggpht.com/RmcN43-MXRbIQjinyVIEW22cOzuN6XIFezntQ0mop9oA01q9gjUniORuO1HkkX0IEP2W=h310",
+        "//lh4.ggpht.com/sFiEFPvNYwWmY9jiMXKarm9B2MfOk4ssWd1Sbc1ohoVIP75F7kjFBpYMm5kGBlHfDg=h310",
+        "//lh3.ggpht.com/Opa-pNkMPut1EEeoovNJ_LcrsGiBmZiCo_IdKl5L7qNxIkm_GlPiKWt98wFbsw435Ss=h310",
+        "//lh4.ggpht.com/Znqi3Fxnj1tO3jeS5BBk6tLBoB4aChX9e0teSVzZSVNZqEYwgRZgj7UB-rhvdthhHgw=h310"
+    ],
+    "comments": [
+        "Like it, But I would love more options. Colours, backgrounds, when the backgrounds change, etc.",
+        "Looks cool but the words are chopped off On a Moto 360. Would give 5 stars if it worked",
+        "More options and proper times Would be great if we could customize the size/location/look more. Also \"ten two\" (etc) is not a time... Please fix that",
+        "Terrific UI and functionality! It works just as I had hoped and looks great with a nice large notification. 24 hour clock support would make it perfect for me. Thanks for the app.",
+        "Not bad Would be much better if the date was there 2. Please add this asap.",
+        "I like the wording bit The cards do need to be a little shorter."
+    ],
+    "recentChanges": [
+        "Updated to new Google watchface API"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.meronapps.wordsclock&hl=en&gl=us",
+    "appId": "com.meronapps.wordsclock"
+}

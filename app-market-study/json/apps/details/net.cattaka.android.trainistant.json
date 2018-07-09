@@ -1,0 +1,44 @@
+{
+    "title": "Trainistant",
+    "summary": "It is a training timer app for Android wear. for such as muscle training.",
+    "icon": "//lh4.ggpht.com/2rRLf33ZijhFUmjyqNht5RiGkY2BmEvdtWk1JkEo9Ik5B57FnT9BxzqUPTiN0MCDeuIJ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3,
+    "reviews": 2,
+    "developer": "Takao Sumitomo",
+    "developerId": "Takao+Sumitomo",
+    "developerEmail": "cattaka@mail.cattaka.net",
+    "developerWebsite": "http://www.cattaka.net/",
+    "updated": "October 13, 2014",
+    "version": "1.3.0",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "It is a timer app for Android wear for such as muscle strength training. You can edit the timer in the smartphone side. Timer that has been edited is synchronized to Android Wear automatically. You can use them at any time.",
+    "descriptionHTML": "It is a timer app for Android wear for such as muscle strength training. You can edit the timer in the smartphone side. Timer that has been edited is synchronized to Android Wear automatically. You can use them at any time.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/Rx-kk2UzLQSIBV9JWLxqeOXiwg_wB37ojzGbU4q1He3ai-sfmgAv1EaPpxOnFpRvgfkp=h310",
+        "//lh6.ggpht.com/U4KkGWgjQosSmDjavgfmSmiby5sKsQBwo8cOd06WDzWYE5d46BZDvIdIBEseI3bXhg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "画面のインターフェースをわかりやすくしました。"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.cattaka.android.trainistant&hl=en&gl=us",
+    "appId": "net.cattaka.android.trainistant"
+}

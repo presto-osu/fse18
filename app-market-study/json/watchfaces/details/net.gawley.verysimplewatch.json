@@ -1,0 +1,51 @@
+{
+    "title": "Very Simple Watch",
+    "summary": "A simple watchface. The time. The date. The day. That&#39;s it.",
+    "icon": "//lh3.googleusercontent.com/lJcPiZy0g3YFgeYlFofns5QNjyhreiK0sGuBk0lD7IhzL50E7YodiRM8GuQV4BPBFw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.8,
+    "reviews": 29,
+    "developer": "gawley.net",
+    "developerId": "gawley.net",
+    "developerEmail": "alex@gawley.net",
+    "developerWebsite": "https://github.com/agawley/VSWAndroid",
+    "updated": "December 19, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "I just wanted a really simple watch face. So I made one. Source is here: https://github.com/agawley/VSWAndroid",
+    "descriptionHTML": "I just wanted a really simple watch face. So I made one. Source is here: https://github.com/agawley/VSWAndroid",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 26
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/PvKiIiyUXATzVUrHfa3HDJDzOXsJQ981Gxnjn1SdE0K62YjSgB2M_-Dk0AU5faxRdCKC=h310",
+        "//lh3.googleusercontent.com/baUmWcnIpQ8Qu3Iam068UnbfFFFVzSk_4oZk0lFlrqnP4nfO9oJ2hf-kyhnl9BnBSiA=h310"
+    ],
+    "comments": [
+        "Great watch face Exactly what I wanted.   A simple watch face showing all info.  Sometimes people can over complicate a watch face.",
+        "The one I wanted This is simple and the one I wanted. Thank you very much :)",
+        "Great and simple Great and simple watchface, perfect for timekeeping at a glance.",
+        "Simple, functional and effective.",
+        "Gr8 stuff Thanks m8",
+        "Very nice"
+    ],
+    "recentChanges": [
+        "First production release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.gawley.verysimplewatch&hl=en&gl=us",
+    "appId": "net.gawley.verysimplewatch"
+}

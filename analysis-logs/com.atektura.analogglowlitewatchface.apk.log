@@ -1,0 +1,144 @@
+Soot started on Thu Jun 21 10:45:13 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.atektura.analogglowlitewatchface.apk
+[INFO] MySceneTransformer: ############## com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   46
+[INFO] FlowGraph: @@@@ Total Methods: 164
+[INFO] FlowGraph: @@@@ Total Stmts:   3631
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1), (register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-15658735)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1), (register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-15658735)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1), (register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-15658735)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1), (register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-15658735)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1), (register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-15658735)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-15658735)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[com.atektura.analogglowlitewatchface.AnalogGlowWatchFaceService$Engine]2,1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1_1=[-1], $r1=[-1], $r1=[-16777216], $r1_2=[-1], $r1_3=[-1]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1_42=[-1145], $r1_20=[-10496], $r1_45=[-15112], $r1_38=[-4991017], $r1_22=[-524288], $r1_14=[-16711781], $r1_17=[-10496], $r1_47=[-15112], $r1=[-15658735], $r1_30=[-5966592], $r1_19=[-10496], $r1_43=[-1145], $r1_27=[-509556], $r1_28=[-509556], $r1_31=[-5966592], $r1_40=[-4991017], $r1_26=[-509556], $r1_39=[-4991017], $r1_48=[-15112], $r1_36=[-16715019], $r1_23=[-524288], $r1_25=[-509556], $r1_37=[-4991017], $r1_29=[-5966592], $r1_18=[-10496], $r1_13=[-16711781], $r1_34=[-16715019], $r1_16=[-16711781], $r1_46=[-15112], $r1_32=[-5966592], $r1_33=[-16715019], $r1_21=[-524288], $r1_41=[-1145], $r1_15=[-16711781], $r1_24=[-524288], $r1_35=[-16715019], $r1_44=[-1145]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ff00f2f5, fffffb87, ffa4f500, ff00ff9b, ff111111, ffb3d7d7, fff8398c, ffffd700, ffffc4f8, fff80000]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: TOTAL TIME: 2.781000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 10:45:20 EDT 2018

@@ -1,0 +1,55 @@
+{
+    "title": "Solar System for Android Wear",
+    "summary": "Explore the Solar System from your Android Wear watch!",
+    "icon": "//lh3.googleusercontent.com/psQGYvc3bJcdwGxUIb27LawS-sTw_FKZz9jysv-Fi0IBR0Dc6Ml6SgPJTUnDJKwUwew=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 13,
+    "developer": "Andres Ornelas",
+    "developerId": "Andres+Ornelas",
+    "developerEmail": "andresornelas@gmail.com",
+    "developerWebsite": "http://twitter.com/andres",
+    "updated": "November 12, 2016",
+    "version": "2.2.0",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "I'm writing this app since my 2-year-old daughter is an amateur astronomer and I figured Android Wear was a great way to let her explore the Solar System without the many distractions phone or tablet apps usually have.See a quick demo: https://github.com/aornelas/SolarSystem/blob/master/README.mdFeatures:- Beautiful real photographs of our Sun, the planets and moons displayed individually in full screen.- Easy to use: simply swipe back and forth to see the different planets and up and down to see their corresponding moons.- Indicator at side of screen shows how many moons the current planet has.- To exit the app, long press on the screen. You can also cover the watch with your palm or press the side button.I plan to expand the content and features often, with the following coming soon:- Tap to reveal info card with quick facts such as: distance from Sun, gravity, and fun fact (e.g., \"the hottest planet in the solar system\").For updated information about what's being worked on see my Issues page: https://github.com/aornelas/SolarSystem/issuesThis app is open source! Here's the code: https://github.com/aornelas/SolarSystemCredit of images goes to NASA/JPL.Credit of app icon: \"solar system by misirlou from the Noun Project\"",
+    "descriptionHTML": "I&apos;m writing this app since my 2-year-old daughter is an amateur astronomer and I figured Android Wear was a great way to let her explore the Solar System without the many distractions phone or tablet apps usually have.<br><br>See a quick demo: https://github.com/aornelas/SolarSystem/blob/master/README.md<br><br>Features:<br>- Beautiful real photographs of our Sun, the planets and moons displayed individually in full screen.<br>- Easy to use: simply swipe back and forth to see the different planets and up and down to see their corresponding moons.<br>- Indicator at side of screen shows how many moons the current planet has.<br>- To exit the app, long press on the screen. You can also cover the watch with your palm or press the side button.<br><br>I plan to expand the content and features often, with the following coming soon:<br>- Tap to reveal info card with quick facts such as: distance from Sun, gravity, and fun fact (e.g., &quot;the hottest planet in the solar system&quot;).<br><br>For updated information about what&apos;s being worked on see my Issues page: https://github.com/aornelas/SolarSystem/issues<br><br>This app is open source! Here&apos;s the code: https://github.com/aornelas/SolarSystem<br><br>Credit of images goes to NASA/JPL.<br>Credit of app icon: &quot;solar system by misirlou from the Noun Project&quot;",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KVKIjLyRBZaz2T1xPDc-oEFBZTbQvXXwa0vlXX3EDrOqUhw2KtNpCYgtWzL4ZHzWsz8=h310",
+        "//lh3.googleusercontent.com/QlhKn7jF3s6v8DaDuTDxQ8B5YkwB6HTxWuUIlYarRBFw2CiVIx9wnnKIbLRx8cD9yA=h310",
+        "//lh3.googleusercontent.com/r6SRNR6xrMssYmZxDgAL2xVH2nKdWD5URwTeGAlIz9ygqPHPXNjgbOlr9D2DuEN5Aw4_=h310",
+        "//lh3.googleusercontent.com/IxqOmbmBcE3RjoWShqYUnxSjYvZhSUtIapA6u-_59FjPblncwmMNYJ4ECmRR0FEdyQ=h310",
+        "//lh3.googleusercontent.com/B7Kj8XfHgU4M6W_GKTbc8ERX2CKBx5-AojN76VT3D1gGzkrxD2-23qqlGYJiP8iZ3J7y=h310",
+        "//lh3.googleusercontent.com/nG-XsKhdwIM-fEyruYBtd979Ovuw0pRJe_4mbMWud-BhPk33QKmXB2-M6RfuLLNL_A=h310",
+        "//lh3.googleusercontent.com/p2i5BUWHbyG0kkwVmoPW9sQyPSmX7WO6hS4y_uY35v-MXudp8NBbCyAzczRNHCRSLTU=h310",
+        "//lh3.googleusercontent.com/KNrhbRn0-QDYg0Kj0oH9dqGjQFV8jqEVK1-gCFb6wLMH2hafJe321H2iGSLaqSAql1nE=h310"
+    ],
+    "comments": [
+        "برنامه هنوز استفاده نکردم",
+        "Nice app."
+    ],
+    "recentChanges": [
+        "* The text and navigation dots are now dismissed after a moment so you can enjoy the images in their full glory!",
+        "* Added loading icon",
+        "* Added International Space Station and Lunar Rover"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aornelas.android.wearable.solarsystem&hl=en&gl=us",
+    "appId": "com.aornelas.android.wearable.solarsystem"
+}

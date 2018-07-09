@@ -1,0 +1,59 @@
+{
+    "title": "@here for Android Wear",
+    "summary": "@here for Android Wear puts information about your location at your fingertips!",
+    "icon": "//lh4.ggpht.com/-3-w5u9crcOjB3xqX1ExZdMgyjxROrppJF_-56mnuc5SHCTm7SRcWFNi6C73NgswonH2=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.8,
+    "reviews": 561,
+    "developer": "DepollSoft",
+    "developerId": "DepollSoft",
+    "developerEmail": "support@davidpoll.com",
+    "developerWebsite": "http://apps.depoll.com",
+    "developerAddress": "1866 Peacock Ave.\nMountain View, CA 94043",
+    "updated": "July 20, 2014",
+    "version": "1.1.1",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Important: This app requires an Android Wear smart watch.Have you ever been at a new location and needed to tell a friend where they can meet you?  Well, @here makes your life easy!  Whenever you stop at a new location, @here will add a notification to your Android Wear device with your current address.  Swipe left to see the neighborhood (e.g. \"Mission District\" in San Francisco), City, County, and other information about your location.  Swipe left once more to see a map, and quickly launch your favorite mapping app on your phone right from your watch!@here will intelligently update the notification on your watch when you stop at a new location, but if you want an update on-demand, just say \"OK, Google, start @here\", and the notification will appear.Note: you will not see an app icon for @here in your phone's launcher. It will, however, install an app to your watch.",
+    "descriptionHTML": "<b>Important: This app requires an Android Wear smart watch.</b><br><br>Have you ever been at a new location and needed to tell a friend where they can meet you?  Well, @here makes your life easy!  Whenever you stop at a new location, @here will add a notification to your Android Wear device with your current address.  Swipe left to see the neighborhood (e.g. &quot;Mission District&quot; in San Francisco), City, County, and other information about your location.  Swipe left once more to see a map, and quickly launch your favorite mapping app on your phone right from your watch!<br><br>@here will intelligently update the notification on your watch when you stop at a new location, but if you want an update on-demand, just say &quot;OK, Google, start @here&quot;, and the notification will appear.<br><br>Note: you will not see an app icon for @here in your phone&apos;s launcher. It will, however, install an app to your watch.",
+    "histogram": {
+        "1": 70,
+        "2": 30,
+        "3": 93,
+        "4": 137,
+        "5": 231
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/pv_1zy08zdEC0Q1anxwwx05HFffsObB4dr8_UIrb6akfffwdf9VnGE9UakYBtGEcZg=h310",
+        "//lh3.ggpht.com/SlMJQa83TESUuxfWwFs0F5Ncoaso9KqFrPJTiGBXLZrf660yvpzP6L9zaodBK_rrPYg=h310",
+        "//lh6.ggpht.com/S11OYF1i0If7xKMWfLxr5Mr0ECRT0yUer9PXVGblSTuaeybx4tp7LhPmKtcF6tc43cc=h310",
+        "//lh6.ggpht.com/LXZYu-1BauD8V8AkzYCZDdSxESvUJD4qr6jSZwLKzWqtoeQ8szWhNWZ0shx_YV9kjw=h310",
+        "//lh6.ggpht.com/YT01Jcuw2jG60zqAeqkoZy4ACclQOENR-4fnUJ3viwyhnoWxDvGI2AUnZSu5modY4rM=h310"
+    ],
+    "video": "https://www.youtube.com/embed/yu0IAA-3ejU",
+    "comments": [
+        "Road names missing? Nice app but I am finding that a lot of road names are missing. Even when zoomed in. Some names are there and some just aren't. I have another mini map app on my watch and the roads show up fine. But I must say would like to use your one as the app is more polished.",
+        "Sony Smart watch SWR50 not working Very good concept but it's not working on Sony SWR 50. It has no respond when you tap on the watch, hope the developer can address this. Support your work!!",
+        "Very nice notification app Does exactly what you want, its a bit confusing that if you click on the app nothing happens, maybe some information would be better than nothing :) updated: after a few days of usage can't say this is useful, resolution is too low to read what it says, can't do much after it displays the screenshot of the map, beside opening Google map, so just as well open Google map",
+        "Works as Advertised Well implemented, but could display better on the moto 360 (notification check box page is a bit cut off on the round display). Would be even more useful if it had an option to text the location to a friend.",
+        "Great idea Adding the option to disable notifications is a much needed feature but can this be put after the \"Open Map\" option since that's needed more often. Also some sort of progress that the search for your location is happening would be good.",
+        "Changed my mind Really impressed how well this app worked in the tiny village where I live by the Oslofjord, but it was of little use after that"
+    ],
+    "recentChanges": [
+        "-New: disable automatic notifications if you'd rather they only show up on-demand.",
+        "-New: Adds a more zoomed-in map to give you a better idea of your surroundings",
+        "-Makes automatic notifications smarter and less frequent and resolves a bug that caused the notification to reappear shortly after dismissing it.",
+        "-Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.hoomi.athere&hl=en&gl=us",
+    "appId": "co.hoomi.athere"
+}

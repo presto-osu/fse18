@@ -1,0 +1,49 @@
+{
+    "title": "Max Altimeter",
+    "summary": "The easiest way to check the altitude!!!",
+    "icon": "//lh3.googleusercontent.com/mjISpL1Z7v5m7-Pq0tQ8HWZIZtKpS5zZp5UKUhirjny9qf3OaWGQE69gWtrBAEyy6g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.8,
+    "reviews": 155,
+    "developer": "Maxcom",
+    "developerId": "Maxcom",
+    "developerEmail": "maxcom.dev@gmail.com",
+    "developerWebsite": "http://maxcom-app-center.blogspot.com",
+    "developerAddress": "서울시 금천구 벚꽃로 254 102호",
+    "updated": "August 4, 2016",
+    "version": "1.0.5.AF",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "It is Altimeter using GPS on the device.Main Function1. Indicate current altitude.2. Altimeter displays elevation change over the past 5 minutes.3. Selectable color theme.Instruction1. Enable GPS.2. Read measured value.\tReference- To receive GPS signal, handset must be set under the open sky.- Use the open sky to receive GPS signal. Not be used in the indoor.- Can cause signal distortion in places such as skyscrapers or around the wooded place, the measurement error can be turned.- Depending on the surrounding environment, it may take some time to Initial start-up of the GPS.- General environment rather than in a special environment (Example: skydiving, measure the height of the projectile, alpine climbing, flying height measurement etc.) that is not suitable.",
+    "descriptionHTML": "It is Altimeter using GPS on the device.<br><br>Main Function<br><br>1. Indicate current altitude.<br>2. Altimeter displays elevation change over the past 5 minutes.<br>3. Selectable color theme.<br><br>Instruction<br><br>1. Enable GPS.<br>2. Read measured value.<br>\t<br>Reference<br><br>- To receive GPS signal, handset must be set under the open sky.<br>- Use the open sky to receive GPS signal. Not be used in the indoor.<br>- Can cause signal distortion in places such as skyscrapers or around the wooded place, the measurement error can be turned.<br>- Depending on the surrounding environment, it may take some time to Initial start-up of the GPS.<br>- General environment rather than in a special environment (Example: skydiving, measure the height of the projectile, alpine climbing, flying height measurement etc.) that is not suitable.",
+    "histogram": {
+        "1": 19,
+        "2": 11,
+        "3": 16,
+        "4": 46,
+        "5": 63
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/-O5cHHj2Z22P8v6ZQxiMQl1GWajRuD0JzXSdSzmoxzLwUvEQlCZON0ub_0IywYWIBg=h310",
+        "//lh5.ggpht.com/pe6EuHoCpnSweSd2xaREa8GhxqVEwhBS0g1Z5KgaWKmolsmfiT3NRRzxdhhRfME_8UVa=h310",
+        "//lh5.ggpht.com/LcsAueWXNq6Cs1SYFSKwmeDuuPQF7dL7oL9JjQmXalttFLoWywn9_2zOZuqhXebXtkE=h310",
+        "//lh3.googleusercontent.com/mLXkW0KI4wmeO6GG7p-qexybsyMm1KtEWF_Tlp6vf314VjTfO8TekThV9PhxPE9_IQ=h310"
+    ],
+    "comments": [
+        "Max Altimeter Unfortunately whistle on the seashore, it told me I was 190ft above sea level! Not much use I'm afraid!",
+        "Needs Sea level calibration feature I like the elevation plotting feature, but I'm stand at sea level and it reads -37m!",
+        "great Great application. Thanks."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=maxcom.toolbox.altimeter&hl=en&gl=us",
+    "appId": "maxcom.toolbox.altimeter"
+}

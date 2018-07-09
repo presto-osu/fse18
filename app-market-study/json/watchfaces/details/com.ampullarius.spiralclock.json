@@ -1,0 +1,57 @@
+{
+    "title": "Spiral of Time Watchface",
+    "summary": "Spiral of Time — the original 24 hour watch face.",
+    "icon": "//lh3.googleusercontent.com/kowL-JxMxyAwqfdkynClJi7P6i0lXXu_vofKZMFDsq5zUv-hN-mgn4A2bBvxqSFRVhk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.9,
+    "reviews": 7,
+    "developer": "Ampullarius",
+    "developerId": "Ampullarius",
+    "developerEmail": "apps@ampullarius.com",
+    "developerWebsite": "http://ampullarius.com",
+    "developerAddress": "Kazan, Russia",
+    "updated": "May 12, 2015",
+    "version": "2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Spiral of Time — the original 24 hour watch face.Its main feature is that, despite the 24-hour time format, the position of the hands coincides with the position of the hands in the classic 12-hour clock. Because of this time it is very easy to read.During the day, the hour hand makes two revolutions, changing its length so as to always indicate the exact time.Features★ 24 hour dial★ Six watchface styles★ Date display with different formats★ Battery level indicators for watch and telephone★ Animation in an interactive mode★ Configuration page in Android Wear AppSupported devices★ It works on all devices running OS Android Wear★ Optimized for round displays, but also works on the squareInstallationWatch face installs automatically from the paired phone. Usually this takes minute or two.Once installed, you can select the watch face from the Android Wear App or by long tap on the current watch face.",
+    "descriptionHTML": "<b>Spiral of Time &#x2014; the original 24 hour watch face.</b><br><br>Its main feature is that, despite the 24-hour time format, the position of the hands coincides with the position of the hands in the classic 12-hour clock. Because of this time it is very easy to read.<br>During the day, the hour hand makes two revolutions, changing its length so as to always indicate the exact time.<br><br><b>Features</b><br>&#x2605; 24 hour dial<br>&#x2605; Six watchface styles<br>&#x2605; Date display with different formats<br>&#x2605; Battery level indicators for watch and telephone<br>&#x2605; Animation in an interactive mode<br>&#x2605; Configuration page in Android Wear App<br><br><b>Supported devices</b><br>&#x2605; It works on all devices running OS Android Wear<br>&#x2605; Optimized for round displays, but also works on the square<br><br><b>Installation</b><br>Watch face installs automatically from the paired phone. Usually this takes minute or two.<br>Once installed, you can select the watch face from the Android Wear App or by long tap on the current watch face.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/wk5r57P0J8AAKvmdmLOb-ikjAhx5x6F-_PRxZ4o2P1Yadg9-y2geDFsLLDsRqEfDtdU=h310",
+        "//lh3.googleusercontent.com/2MR4wGtD8td5uJwbyT0Lf3voYKL4e5q8RoY0HGg4dlfYOCNLwD4A2SxF738SKtuRCofV=h310",
+        "//lh3.googleusercontent.com/Cm3KNbW1PSRGdCk-fdyK7EZieBvp-r1XNeXXz8KTOx1_2jaOk8WuJNt_TuM2semChw=h310",
+        "//lh3.googleusercontent.com/EGwWR-SfuTmB4ie7jL03gVt6JKllcwn15HzVP46_pyXTMCxfwNiubzo1ckUafSnHPQ=h310",
+        "//lh3.googleusercontent.com/PNTvi1sEPSfasVWRZ23e2SYPm8rFGFfqPvDqnQZUGb6OVHQ_cHq5c1UJjG4xisGIG9w=h310",
+        "//lh3.googleusercontent.com/x_vKTCClKISFherjPiITjQ1VLlxdCj2yZ3xHcHWHd4vM3QzEnpA5jSDSprN44SLiT6I=h310",
+        "//lh3.googleusercontent.com/yo2RXJQfpophyqR20ZolX8C7ET1euDok8TCigwYK0Fx5_1VtHNW_y4XjuB7S-hKTSzY=h310"
+    ],
+    "comments": [
+        "Nice 24 hr face! Easy to read. Plus, I like having battery indicators for both the phone and the watch. Would like to see the hour hand in a different color for quicker recognition.  Edit: upgraded my review to five stars because the watchface modification to allow the user to change the colors of the watch hands.",
+        "Crashes with message \"Unfortunately, Spiral of Time has stopped.\"",
+        "Geo.  Cheap Installed app & it did not appear",
+        "The design! I like the design very much!"
+    ],
+    "recentChanges": [
+        "— added configuration page,",
+        "— added five new watchface styles,",
+        "— resolved issues with phone battery level."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ampullarius.spiralclock&hl=en&gl=us",
+    "appId": "com.ampullarius.spiralclock"
+}

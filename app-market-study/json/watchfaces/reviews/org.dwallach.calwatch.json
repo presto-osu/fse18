@@ -1,0 +1,59 @@
+[
+    {
+        "author": "Sean Kew",
+        "comment": "I have one suggestion / question: is it possible at all to have the watch face open the agenda app whenever you touch a colored area of the face?",
+        "date": "January 28, 2016",
+        "permlink": "/store/apps/details?id=org.dwallach.calwatch&reviewId=Z3A6QU9xcFRPSG9kaGlyUkl0dGdGNjFJMmVyUzdzM3QxSkNybG5qVGZBSDBVeUpLeGhUN1ZMZTJDczI0ZUFkNUpwSEtzamdXTTdWajRzWnh1a2tRU2xCRlE",
+        "reply": {
+            "author": "Wallach Studios",
+            "content": "Android Wear 2.0 (just introduced for developers, not yet shipping for consumers) has a whole new infrastructure to address this, and I'm going to add support to CalWatch to make this sort of thing happen. Stay tuned!",
+            "date": "May 23, 2016"
+        },
+        "star": 4,
+        "title": "Really cool, works well"
+    },
+    {
+        "author": "Raymond Cano",
+        "comment": "Dr. Wallach for the win!!!",
+        "date": "November 20, 2015",
+        "permlink": "/store/apps/details?id=org.dwallach.calwatch&reviewId=Z3A6QU9xcFRPR054aDJoREpGOUJJOER1VFIySlBlRFlWYW9jRGpkNHEyZmpOSjdLT2JiMUo0QkN3Y0FONzZRa3V4VnVYUkFZUUFIdGdmTEQyaFRWbERKS0E",
+        "reply": null,
+        "star": 5,
+        "title": "Yyyyeeeaaahhhhh Dan!!!"
+    },
+    {
+        "author": "Jason Tonks",
+        "comment": "Of your looking for this type of watch face",
+        "date": "June 24, 2015",
+        "permlink": "/store/apps/details?id=org.dwallach.calwatch&reviewId=Z3A6QU9xcFRPSGdlRGpoQTE0bklTZmdTSlByOXBQU08yRUtGS3RYbFQ2Mnc1V3RFMnRIeHlZQnBEaVBsQTBYZnN1NXFCLVJUVjJQNDZsdnA2WThxVmp1MHc",
+        "reply": null,
+        "star": 5,
+        "title": "What's not to like"
+    },
+    {
+        "author": "Sean H",
+        "comment": "I have suggestions to make this go from excellent to awesome. Allow selecting a background and setting appointment wedge transparency. Good job!",
+        "date": "December 10, 2014",
+        "permlink": "/store/apps/details?id=org.dwallach.calwatch&reviewId=Z3A6QU9xcFRPR2VQcVl1TlpmX1JHaWI0SVcxNEZDTTAxeFlTSkEtOVFXazRHTUZ3SzZkQXZHY2ZhUnZuUVBYT3F4aWlkSWItWnZSdWhDT3hpMlltU2FzNFE",
+        "reply": {
+            "author": "Wallach Studios",
+            "content": "Right now, my goal is to make CalWatch operate correctly (no crashes, no wasted battery, fully Wear 5 compliant, etc.).\n\nI'm not opposed to fancy backgrounds, but I'm a bit worried that the watch could get hard to read. Sometimes simple is better.",
+            "date": "December 23, 2014"
+        },
+        "star": 4,
+        "title": "Cool!"
+    },
+    {
+        "author": "Jan Zorz",
+        "comment": "Hi,  I installed this watch face to use it on my Moto360 watch, but there seems to be some issues: - I can see the calendar meeting on my watch, but if I remove it from calendar it's not removed from the watch face - XstopWatch integrations works fine, but not with XTimer: whatever time I setup as a countdown time the yellow circle that should show the remaining time at the edge goes all the way around like it's more than 60minutes remaining.   Any clue or idea?  Otherwise - great idea and very useful!  Cheers, Jan Zorz",
+        "date": "January 31, 2015",
+        "permlink": "/store/apps/details?id=org.dwallach.calwatch&reviewId=Z3A6QU9xcFRPRjdDeTJUenh4MnlJaTBnQm4yUHlHcW5KMS1LRG9TTWZ6MXVqempZWHBWYTB1b3dVM3EwZzBpTlloSGs1UzZmRkVTRVBMRUdLdG0wM3ItUkE",
+        "reply": {
+            "author": "Wallach Studios",
+            "content": "Calendar: CalWatch gets its data from the watch, which in turn gets it from the phone. I've noticed it sometimes takes 30-60 seconds for changes to find their way to the watch. Does the problem fix itself if you wait long enough?\n\nXTimer: The display goes from \"100%\" to \"0%\", full circle to empty circle, whatever the length of the timer you set.",
+            "date": "February 2, 2015"
+        },
+        "star": 4,
+        "title": "Moto360 bugs"
+    }
+]

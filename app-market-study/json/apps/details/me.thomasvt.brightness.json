@@ -1,0 +1,53 @@
+{
+    "title": "Brightness for Wear",
+    "summary": "More precise choosing of your brightness in Android Wear",
+    "icon": "//lh5.ggpht.com/0D1SuS44zadxmbFkWBqjXMJAezbAmyogewUEIwD4I9r6IfmOSUY5CiWj-Q5-0UPNg4k=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 28,
+    "developer": "Thomas van Tilburg",
+    "developerId": "8152907531278891386",
+    "developerEmail": "thomasvt@me.com",
+    "developerAddress": "2517TV Den Haag\nNetherlands",
+    "updated": "December 14, 2014",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This app has one function, bringing a better way to change your brightness. With more choice than default.",
+    "descriptionHTML": "This app has one function, bringing a better way to change your brightness. With more choice than default.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 2,
+        "4": 10,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/gMZ4SAFRliKkeSgbBJS7kOLmaIaNqWDflJBQ84ibYlfelVg8gTcmfH1OQfr69J-6a_A=h310",
+        "//lh3.ggpht.com/p_SnN08VVhw63npQM-FOWWYDVlCDHisKpwBS04U0Y_RfXDaQtRzfvhsKmDNrrJiSgA=h310",
+        "//lh3.ggpht.com/9N6k6iZrE0e08RlJ2qrQaBX2-SV05kMll-uKAgr_ivkXXBA6GCvmebLeFCra_kHG4GU=h310"
+    ],
+    "comments": [
+        "Couldn't be more simple and precise. Love that it can go almost pitch black and only takes a short couple seconds to accomplish. Just sucks that it won't work with the dim mode. I assume this is a limitation from google. The few watch faces I have are way perfect but too bright at night. Was really hopeful for an app. I'll still be keeping this app.",
+        "Doesn't quite work as desired On the LG Watch R it does a great job reducing the active brightness, however in dimmed mode the app appears to have no effect. This produces the odd situation that your dimmed mode can end up being brighter than your active.   A good app if you dont use always on",
+        "Simple Yet Useful You just open the app and cha he your brightness via slider. That's all there is to it. No fuss. I also liked that it allows you to go below normal brightness, which is a plus for making sure your watch survives for longer periods of time.",
+        "Perfect! Does exactly what I wanted of it. I can now reduce the brightness of my watch down to an acceptable level. Thank!",
+        "Does exactly what it says. (Using on moto 360 1st gen)",
+        "Works Easy and exactly what I was looking for."
+    ],
+    "recentChanges": [
+        "* Optimized inports",
+        "* Less code, smaller Wear app"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=me.thomasvt.brightness&hl=en&gl=us",
+    "appId": "me.thomasvt.brightness"
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Wearable for Gigaset Elements",
+    "summary": "Manage your Gigaset Elements system on your Android wearable.",
+    "icon": "//lh3.googleusercontent.com/bmxJHr6tcSdeJOyspyPfllrosxvXri-QhbYAaXsOdnPCmF-jX5R8s5cSphCE58nU9Wk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "Nyi",
+    "developerId": "Nyi",
+    "developerEmail": "serge@nyi.ch",
+    "developerAddress": "Lettenmattstrasse 31\nCH-8903 Birmensdorf",
+    "updated": "April 26, 2015",
+    "version": "1.5",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Allows you to manage your Gigaset Elements system on your wearable.Note that this app is unofficial and has no relation with Gigaset.",
+    "descriptionHTML": "Allows you to manage your Gigaset Elements system on your wearable.<br><br>Note that this app is unofficial and has no relation with Gigaset.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/leECmqqrFF7GCr_Wju9fNDLKV_U9EnLgdGPb27-zp3jHAg4am2dxMtoZ3ARxGqEh2hQ=h310",
+        "//lh3.googleusercontent.com/8ulH4fX1KecW_3evhzK3fgTChN42eAeMHfCX4hRDUCiZ2mWHqByi-GWJTHpsLmN-0Q=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Added status indicator while wearable is updating the intrusion mode",
+        "- Wearable now updates the intrusion mode as soon as it is reactivated"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ch.nyi.gigasetelementswearable&hl=en&gl=us",
+    "appId": "ch.nyi.gigasetelementswearable"
+}

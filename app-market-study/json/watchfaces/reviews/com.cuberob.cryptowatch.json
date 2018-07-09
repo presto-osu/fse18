@@ -1,0 +1,413 @@
+[
+    {
+        "author": "Johnny Simon",
+        "comment": "Love the Android Wear integration. Please consider removing the decimal points for the ticker complications. It makes the text very small and the decimals are insignificant.",
+        "date": "February 26, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR0ZLUnpUOVNHM2pNeUhtQ0RielVuNXpTeWU0R3l3czNJX3hPbXRjYk4wbUIwd0xtNGdTQVlzRU5XaEM0QmlTS0pXMnRqR3lqQjg5TC1Ob0E",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Johnny,\n\nThanks for your review! As for the complications, I'm currently basing the amount of decimals I supply on Google's Complication character limit (max 7 characters). But agree that indeed some watchfaces render this text quite small. So might look into a user configurable option for formatting complication data at some point.\n\nCheers, Rob",
+            "date": "February 27, 2018"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Dan Alexa",
+        "comment": "I like the app very much, I only use the complication and it does the job. However I guess it's updating too often because the battery does not last throughout the day anymore. Can you please add an option to modify the update rate of the complication? Thank you!",
+        "date": "February 28, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPSFRKUVdBamR4cmVrV05weTlzV0t1Z3JXYlJmVzVfRjQtOHl6ejlEMlpfYUprRkwyNXFXS0dxbmIwdHNRUGhUT3llRjJEMnh5Z1B4aDlXUHc",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Sam Cantineau",
+        "comment": "Hey man, love it so far. Thank you for adding TRAC! However, I now have problems with Oyster Pearl (PRL), it seems to be removed?",
+        "date": "February 22, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRzRNUWxHQ3BwRXRyb29FODBSYi05cUI5X1hHc3U1OGY2alVTZVFTcXpMZE9HVF9IMXlOb0Q0NVBwcTUxOG5tWkx6VFREOW9ITVhaLXZxYXc",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Sam!\n\nGlad to hear you like it :). And yes, will add TRAC to my todo list so it should show up in the next update!\n\nCheers, Rob",
+            "date": "February 3, 2018"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Steve Lugovsky",
+        "comment": "Hey there! I'm loving this app! Just what I needed, thank you for writing it.  One request - if possible, could you please increase (or offer an option) the font size of the complications on the watch face? The numbers are extremely tiny and my eyesight isn't what is used to be :) (Huawei Watch)  Great app! A+!",
+        "date": "February 8, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRVhKRV8wUVI4cWR6WlNrTlFmUFR0N3dzT1RmZXk2dW1lWUpSQjFGSXViNWNnM0QtNUNQaEJaeVpkTHRxa0ltZTVNTC1tUkg0LU5TRG9zaWc",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Steve! Great to hear you like it :) Thanks for the review! As for your question about the complications, unfortunately there is not too much I can do there. I provide the price data to the complication framework and then it's up to the Watchface to draw it. Which in the case of CryptoWatch itself is done by a Google Library. Cheers, Rob",
+            "date": "February 8, 2018"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Thomas van Deursen",
+        "comment": "All coins are listed in dollar on the watch app, any way to change this to euro?",
+        "date": "January 25, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRUhjdHFkbmZJQ0dtVGI5ek9NcGwxTWh4TUI4WTVBblZXcVJGSEs2TFJjZE5teWNibGgzY1Vva3FvTmVmaXZRNEF2NlFTZnJyV3pwTnRmNVE",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Thomas,\n\nAssuming you are talking about the coin market cap: no not yet, will add this functionality in a future release! Cheers, Rob",
+            "date": "February 3, 2018"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Stephen Gilligan",
+        "comment": "Only good for the watch widgets, there are better portfolio apps out there",
+        "date": "January 20, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPSFgwQUVSNGVYSjVVaVU3S29QM01HRndCLWowSy1seHRMMi1lbHhDRm1GVXlFcVV5SF9TSmNhVHdyUEFnampTQ3dVY2xBa0F4X0o4Um56OHc",
+        "reply": null,
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Ben Bispham",
+        "comment": "Works really well on Huawei Watch 2. Thanks. Latest update makes this app perfect!",
+        "date": "January 13, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR0lLUTdvb3N0VmJYdTk4NkRlZTRtVG9MdkZTM09MLVI5M0ZnLWdDaEY1SHhkTkNERU0xbmI5aFRwYWROdUpzbk01dU11RG40ZnN0ZmplZGc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Ferdy Karjantika",
+        "comment": "Love this app! I had to download the app separatly on my watch playstore. Developper was kind enough to explain it. Just what I was looking for. Clean and simple. Good job!",
+        "date": "January 12, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPSGl3c2RId25BTVUydDd2Rkh2cGJMSHZjeUEyTTdkdnBDcWlLMmNUeWl4U3VDdi1rMjJqeFpxUjQ1dkpfYUwwaE5EbFhfX25yZzA0VXB5VGc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "I suddenly can't load the Market Cap app anymore..",
+        "date": "January 14, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRkdNVWlVdjdZUm9rYTc5NXBncUJBbFlxOTN0eTZxZTBEckJqY2czSmxaQ1pUTXpxTTJWWTZhZERkdExGT1lsREk0NS05NkQyQ25Iek5NRXc",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Craig Dabbs",
+        "comment": "Like the app, I'm still on AW1 Sony watch.  Is it possible to adjust the layout so the time is at top and price at bottom without the diagonal divide.  It would make the font bigger on my watch and easier to read.",
+        "date": "December 30, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRThfNU1Ub21wYXA4VDJQLXlKVnNLS0pMWEZvbzkzdV9sRi1JcF9JQnZkYkxkWGtwa29VOUlLY3VueU1LSXJpOF9OTHpPcDh6OUFhT1dLN3c",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Joe Hudson",
+        "comment": "Good app but there doesn't seem to be a way to only see your portfolio on the watch app - you can only see all currencies. Would be 5 stars if that feature were available.",
+        "date": "December 25, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRVdGU3dNc0tPQzdMVlR3UVhMRmlWTjZrXzdxTlBza2dEdFBzWEZ1YUs3R2FqZkdBTjZJWDRtOVhRd09GTEh6NngtZ2prMVhSb0FGdnlzMVE",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Joe,\nIf your watch runs AW 2.0 or higher you should be able to use complications. With CryptoWatch I also offer a portfolio complication which allows you to display your portfolio on the (or actually any) watchface. Do so by: Long clicking the watchface -&gt; selecting a circle with a plus icon and then select CryptoWatch &gt; portfolio. Cheers!",
+            "date": "December 30, 2017"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Taylor Harris",
+        "comment": "Really lame all the alt coins on other tracking apps are not here.",
+        "date": "January 3, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRjc1cUd5M2JpQzhHdzVEdDJQR05tYmtSWDZJNURSRmE2Y21KYXZCTXRQdFpwMnNETWtoVmREblZlVUdhSWE4RThpb2MwYk5TOEZ0MG50WkE",
+        "reply": {
+            "author": "Cuberob",
+            "content": "hi Taylor, An update with 'all' altcoins is currently in (public) beta. So this should be solved very soon! Cheers, Rob",
+            "date": "January 6, 2018"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Cristian Cristian",
+        "comment": "Very nice watch face and complications. Would love to be able to add Icon too, which is on binance.",
+        "date": "January 9, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR04wZXpkVU5BcERybU01YkRma055Sm9IR29GaGRKZi1ycm8zVXFfWTlxWEx0ZkowS1VubktabGRWcS1GOHlmVzh1ckRreEdmZS1KUFBMd2c",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Cristian, icon (and many other coins) are coming very soon! First from coinmarketcap but other exchanges will likely follow as well. Cheers! Rob",
+            "date": "January 9, 2018"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Michael Tozoni",
+        "comment": "Great app, let's me track different crypto prices at a glance (up to three at the same time), and see my crypto net worth.",
+        "date": "December 29, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR3F1TzBWTjlfdE11c3FZc0I4TkNvREYyVnp1cjVQeEVpaTFucEZoRFoxeWNlV3FKVkFySmNUaVZkcFZKLUxlZlFoTkhCX01EMm8zR2xXQ0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Francis Phan",
+        "comment": "Looks great but please add binance exchange and also POE currency please.",
+        "date": "January 6, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR2RPSElKc096U295cUlSR2hFUE05U2N5SFNHd1lCUlFlMFFINzc1cndBekw1YWdsLTQzeFh0Zi01eDFuOXVoT1JyRkJTdzYyelZ4dTBNYlE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "O K",
+        "comment": "Top 100 On My SMART WATCH",
+        "date": "January 11, 2018",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRVRVWGx1T25qMlVXV0tnOXBhd2U4WEIxaDlrT2ZJYWVBWjhfRmhZc3JzZnE3YzNOdGw0bGZFbF9UQjRiTFhhSDBtbFl6clNqOGc0Q1dvelE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Mike Smithson",
+        "comment": "Simple and amazing!",
+        "date": "December 29, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRWlRX3RzX1hZTnhScTJvNHh6NThkZ1JfZ0hKb3BNN2VYajJBbWgyYnd2N213dmg2MnRSa0JPX2ZIdWdZbFBmM1lDMElFckxuNXhfYmIxTXc",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Mike,\n\nBy long pressing the watchface you should be able to configure it and toggle the '24 hour mode' which will switch the time display format from 23:00 to 11:00PM. Hopefully that helps!\n\nCheers, Rob",
+            "date": "December 29, 2017"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "John copper",
+        "comment": "Looks good. On the watch there is no bittrex exchange, only on the mobile app.   I would loved to see bitb/bean as I hodl that as well.  Good job guys....",
+        "date": "December 19, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRVdpOUw1bVoyTmVUT296R0hNd0ZrQVFQZVB2am9mUXZmQU05dHNpRExlbWFuSXB2R0lsdDZ6X3lwUEhmb01LdEpWdlBHRjFqUDMtTl9hVkE",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Sid Dahari",
+        "comment": "Would have been 5 stars if it had bitfinex as exchange.",
+        "date": "December 19, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPSGlQOHg4Vl9OdDdhMDNrWDVlNlNpak0tVFI5WWg4c1c3Y0wwemVWWHBGLS1HWHR0czRTWlVITEpCLWNpOHlsWHFXSWdkUjlidU5SdGIycVE",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Corey Ogburn",
+        "comment": "Needs an option for a 12 hour clock",
+        "date": "December 12, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRUFYWlByQlVCRXU3bFhOVjlEc3o1V1otd1dxcExxRzN6eVBWbE5MZlN6YmlyZW9JTWdEZ3E1M2pJNlMwaFQxWTV2WFNjS3FKeDdUMUpNU2c",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "J Seraph",
+        "comment": "Amaziiinnngggg but can we fix some pairings and add ETH x Coin pairs from Bittrex? I don't use Bitcoin to trade and it's frustrating this lack. Will still rate 5 stars because it's made me money on trades!",
+        "date": "November 30, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRTFUdnZxc3RPVGtDWFdMdWtyNEZUQVhoNl90SmxIcGdsWTc2RVZYMFdaN01zbmVDUmpaNGxpdU5qSnFocXdyNFl0ak0xLVE5R1E2aGZ2M1E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Noah Andersen",
+        "comment": "Awesome app, looks great and performs great, only con is no 12hr time format Edit: Short time after this 12hr format is added. Love this developer!",
+        "date": "November 27, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRkV5TkY3RllYRUtCc1RUZHNhMzFidkZsRzlYeFBjWXY2NGs5RlhsMWdwd0syaWQ3SmFrR2RES09rc1dGRjVNaFdnNldTMGliWnBaWFFUdVE",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Thanks for the feedback! 12h time has been on the todo but haven't gotten around to it yet. That said: I'll look into it soon! Cheers, Rob",
+            "date": "November 20, 2017"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Christopher Laughlin",
+        "comment": "Brilliant app with a super-reponsive, friendly, and helpful developer. A great purchase. Thanks Rob!",
+        "date": "November 28, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRmlXa0ZrdGZqZ2F3YlBzSk1hWWYyRkVPLUZYR09vYnpVV0ItclA1ZnRCd0xIQzZMcURKQi1kNWttcWx2WlJBUnNDSE44NzhhNmk1YXU5d2c",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Jesse Gyger",
+        "comment": "This app is great. I have been looking for an app that has the ability to show the time AND the price of Bitcoin or many other cryptocurrencies. You can also add up to two complications like the date and how many steps you've taken or even another cryptocurrency's price! I had a problem when first installing this app and I contacted the support email and he got back to me within a few minutes and totally resolved my issue. Totally worth the money!",
+        "date": "October 20, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRjZJRzNkNDdNc3d2QWh4VWxpNWh3aFBfNVVnZC1WcGFHS2VhRnlZa285NDkxUlBGNG9VazRRdTRwM1RWQUdaLVNYUlBPbnQ3ekc0SERWcUE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Timothy Boettcher",
+        "comment": "Nice default watchface, with great complications and a nice portfolio option make it very useful. Great support from author too!",
+        "date": "November 19, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRjJmeVFxbmJORHBvQ1N3MExMTzZRaC10a1BQZXBTbnl3SzJueUhvV0hNSVNHTXkxaWRoY19pRjZZVXFQRlQ1SXI5LUdtYkRWSHNXSGZzSWc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Nicholas Graziano",
+        "comment": "Great app, can we get a black theme color?",
+        "date": "October 19, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRTNDcC1mdlBGaU5vYklZWk5iTExkZTI1VVdyT3F0UGpwc2gyVEhqT1h1TXFyRlVoZGozc3g5c0pnN1lZZk9BVXNEZWtRUE92NzNmQlEzNHc",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Nicholas, \n\nThanks for your feedback! I'll look into adding a black theme color! Cheers, Rob",
+            "date": "November 18, 2017"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Simeon Petrov",
+        "comment": "Does the app support samsung gear 2 watch?",
+        "date": "November 16, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRXozbkF5SFFST0lhX2szemVkRXBfRVA4U0dEVHB2a1JJNk1FX2MyLXp3aUFFeXEyWmxLdDNHWDAtbmlvekZqeTVfeV9ONjhYZVlqcmRuN1E",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi there, as far as I know the gear S2 runs samsung tizen OS which is not supported by CryptoWatch, it's built only for Android Wear. Cheers, Rob",
+            "date": "November 17, 2017"
+        },
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Brian Meyers",
+        "comment": "Great App!! Would love for you to add Hempcoin, Cannacoin, and Pinkcoin if possible!! Thanks!!!",
+        "date": "October 10, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPSDUtNWJaVldmLVgyeHZfZlRQOU5DNDAzNV93UHc1a1pUVkozMEFxRGtCYXZLVW5TNWhhdEY5SHE4cEMwN1c0RGlucjZnTVhQNGFnd2syT1E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Simone Caronni",
+        "comment": "Awesome. Everything you might need and more!",
+        "date": "September 14, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR1g1RjBjQmpmenpLdnNCUHBEMzFyYl9WMk9Qb0Y2bGN0ZlRxSjhwM1g1WGFQUXZiWVotSTJlWXBjbFZTLWpNYXMwY3RVVVNvbU1qWVdsNmc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Peter Ebenezer",
+        "comment": "Nice widgets etc. Localisation isn't fantastic though, any time you set something up you need to tell it what currency symbol you want instead of remembering it. Also when I click a widget it shows my coins. If I click that to see the graphs these default to USD or BTC. I wish it had GBP...",
+        "date": "September 7, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR3NLaHBiTURGNXZWenF0WDBEMXVQbWt1RGpsUnBIdEU3UXljUGRXTTYyOE5zM0RQVzJfUEVkSkFQXzMzZnRzcWZhRkszaEpfd1N3VXJucWc",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Dua Lis",
+        "comment": "Can you add VertCoin? its my main coin.  Thanks... 5 starts in advance !  :)",
+        "date": "September 7, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRXRxRkVEd3JaY1VIcVRTbFZsVXpSRHNMZGpBMVBSelgtVnNpa2puSVZyTTFWSWNmcTRUUlZvb3MwbXpkd2xTMWpLWWhHcWlJM1o4cU1ueWc",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Dua, I think we already spoke through mail. But vertcoin is to be added in the next release. Cheers!",
+            "date": "September 7, 2017"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Brian Mark",
+        "comment": "Nice clean app. Like seeing all my crypto in one place without going through coin market cap and adding them up. Since you only list the first 100 coins I couldn't add cloakcoin. Maybe a line in portfolio with 'unlisted' or something where I can put us dollars and coins not on list would be nice.",
+        "date": "August 2, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR3FaNHdjcE1DOGZYZUQ3RjBPQlp5MkNyTEtpZ25RTjhBb09ZZ2tja3hvMjliaHJnVXFIOG5xTVA5SHJKLU1WM1JqTkRRUGp1T3hBSll6RkE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Tammy Chowdhary",
+        "comment": "Clean app but cant alter portfolio which is kinda stupid...",
+        "date": "August 4, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR3h4LXJvSTRvMHI4Slk3azIyNmZuNFh5TTVyV0FROUh1cXJyQmo3WUh6OGVKNFFTZGJuRml2N0JJZUNPUVluQ2c2dlRLdzN2c1ExdnZrdVE",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hey Tammy, sorry to hear your having issues altering your portfolio. You should be able to alter it on your phone without issues. Please contact me by mail so I can help you get up ant running!",
+            "date": "August 4, 2017"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Hassan H",
+        "comment": "Solid app, this was the only app out there that gave me what I needed, additionally the developer is very nice and helpful",
+        "date": "July 10, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRlQ0TXpYOFZLbVRkRUFLWUhyU080RGZlX3ZidGd5N19lM0hPX1VqVjhwWkQ0bG8xVHdvRGFBbXVveVIyR0Qya0RZY3B4Nk14UloyOVIzemc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Taylor Linn",
+        "comment": "The app creator had been very helpful and responsive with all problems and inquiries I've made. It sounds like he's planning on adding many features and is open to getting feedback on what might be useful in the app. The features are little limited as of now (especially in Android Wear 1) but it sounds like more are coming and I think this app has a ton of potential.",
+        "date": "July 5, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR25iX2hBZlU5WmZZQzdaX1BSUW10RTh1bzNkM3VOWVFMeGQyNmwwZnpuU1FkRE4yelRZXzFXaFlfWklDN2JvaHg1R29IU3NSbTlwMWdfZUE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "The developer for this app is responsive and listens to input. The app is solid and the watchface is clean and simple.",
+        "date": "July 3, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR3FuVVFGSmVvV1gwazZVN25UQ3duNXdPT041ODlJbjlGaS1QWkVIZzZfTnpIMkY4dU5JeTNJb1lFRzdJSy1kQjc4ejBkbWM0bzk0SGZQSVE",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi, thanks for the feedback! As per your request I just added LBC as a supported coin! (among some others) About different positions, I'll consider this for a future update. Currently the aim is to have a nice Android Wear experience and not compete with some other huge portfolio apps, though I get were it's coming from so it is noted! Cheers, Rob",
+            "date": "July 3, 2017"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Zack Rouse",
+        "comment": "Didn't work for me and now I can't refund.",
+        "date": "June 14, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPRmk2MWdIdURhTGxrQU93Z0s3OUl1YnhSbU9CTFUyU2VkM2d5VnJpU3hPQVkxVjBKd0xXeWU3bko5dnNlVTR1TnR4bU1FTHRkQzQ3TFVNSFE",
+        "reply": {
+            "author": "Cuberob",
+            "content": "Hi Zack, sorry to hear you're having issues. Could you contact me by mail so I can help you get sorted? Thanks!",
+            "date": "June 15, 2017"
+        },
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "KiD Rex",
+        "comment": "Great app! And Chance you can update the the coins? Antshares isn't known as antshares anymore and is now known as neo. When I try to put antshares (neo) as a primary coin for my watch it doesn't load ;(",
+        "date": "August 9, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR1pCOXgxazMtemMwVE1WOFdzaVRZbGQ2U3RCTlQ0RVhtajVWb3Z2cFU5cUQxOE15SGVDY0NnekZJZ2JNUmh2T0xBejQ5UmtSbWU4LXAySnc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Gray",
+        "comment": "Over all , it's great app. One thing I would love to see added later is a dark theme for the  the interface.",
+        "date": "December 18, 2017",
+        "permlink": "/store/apps/details?id=com.cuberob.cryptowatch&reviewId=Z3A6QU9xcFRPR2FJU0pvelNVc3VqTGRLTjJnSlNfaVpwQ0tURm44eThpLUlDb0szS2ZST1RrclRzaFFMRG5XWlpRaE9Oanhhd1k3MTN4NWZXVEZhc05adnc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    }
+]

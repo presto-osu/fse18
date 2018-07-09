@@ -1,0 +1,54 @@
+{
+    "title": "IPC Wear Proxy",
+    "summary": "Helper app for my other apps to support Android Wear devices.",
+    "icon": "//lh6.ggpht.com/RCDtrUDsvBKFRkosD0akeB6w97hZJNGtiPvWOVEOmc7l_VYMvwuNwcWMXWs9To04d4o=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 391,
+    "developer": "Robert Chou",
+    "developerId": "Robert+Chou",
+    "developerEmail": "robert.chou@gmail.com",
+    "developerWebsite": "https://hit-mob.com",
+    "developerAddress": "Robert Chou\nP.O. Box 1974\nDanville, CA 94526",
+    "updated": "November 19, 2015",
+    "version": "1.0.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Helper app for my other apps to support Android Wear devices.  It does nothing by itself.  My other apps use it to deploy and control the Android Wear app.  In Gallery View, click Menu, More Actions then click Push to Android Wear.",
+    "descriptionHTML": "Helper app for my other apps to support Android Wear devices.  It does nothing by itself.  My other apps use it to deploy and control the Android Wear app.  In Gallery View, click Menu, More Actions then click Push to Android Wear.",
+    "histogram": {
+        "1": 65,
+        "2": 17,
+        "3": 20,
+        "4": 54,
+        "5": 235
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/sxtYYrD--nuUfy0ydErrG9axD4uzwKtFUc_kJMf9m0wCba0mfUunW-q82cXbf6R2H7M=h310",
+        "//lh6.ggpht.com/k18wVtwRo7ZJun63SL0lCiamNlRWdjWPTwJsBmb64TrIMFbO5tulGJE3b5G1SUKko8Y=h310",
+        "//lh3.googleusercontent.com/AyWv-EZktSu-j8c8POTCMXbYRH5x0EZtR0VrVwVO9Ogz7EXbg3lqxvFxl4aK8S7w8w=h310"
+    ],
+    "comments": [
+        "Works 30% of the time, every time.... Awesome app when it works, however most of the time it just says loading. Have tried it with multiple cameras and DVRs, no difference. I have the Fossil Q and it will work but then to reopen I usually have to reboot the watch. This is the only app I have this issue with. Please fix!",
+        "So far so good! Great addition! Using Note 4 and Motorola 360 (1st gen). Author constantly updating with better and better features.",
+        "Doesn't work if phone off If the phone screen is off or the IP Camera app is not running specifically in the foreground, the app doesn't connect to the Android Wear! So kind of useless. Nice idea, but not very practical unfortunately. Moto 360.2 & Galaxy Note 4",
+        "Amazing Now this has to be one of the best things I have ever seen. My LG smart watch showing footage from my security cameras. Everyone I have shown this to have been amazed. Worth buying a smart watch just for this!!",
+        "Won't see Samsung Gear S Installed update on Gear, but won't recognize its paired afterward, so won't push cam video.",
+        "Don't work on my gear s3 paired to my s8 , connection failed make sure to pair."
+    ],
+    "recentChanges": [
+        "fix crash on android 5.0",
+        "workaround lg watch issues"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rcreations.ipc_wear_proxy&hl=en&gl=us",
+    "appId": "com.rcreations.ipc_wear_proxy"
+}

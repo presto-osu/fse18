@@ -1,0 +1,563 @@
+Soot started on Thu Jun 21 11:52:51 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.newscope.bmwwatchface.watchfaces.BMWi8WatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.newscope.bmwwatchface.watchfaces.BMWVisionWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.newscope.bmwwatchface.apk
+[INFO] MySceneTransformer: ############## com.newscope.bmwwatchface.watchfaces.BMWVisionWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   96
+[INFO] FlowGraph: @@@@ Total Methods: 403
+[INFO] FlowGraph: @@@@ Total Stmts:   6098
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216], $r1=[-15198184]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-16777216], $r1=[-15198184]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-15198184], $r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-15198184], $r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.newscope.bmwwatchface.base.BaseWatchFaceService$Engine ##############
+[WARN] Analyzer: ------ duplicate method for com.newscope.bmwwatchface.base.BaseWatchFaceService$Engine onCreateEngine()
+[WARN] Analyzer: ------ duplicate method for com.newscope.bmwwatchface.base.BaseWatchFaceService$Engine onCreateEngine()
+[WARN] Analyzer: ------ duplicate method for com.newscope.bmwwatchface.base.BaseWatchFaceService$Engine onCreateEngine()
+[WARN] Analyzer: ------ duplicate method for com.newscope.bmwwatchface.base.BaseWatchFaceService$Engine onCreateEngine()
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.newscope.bmwwatchface.watchfaces.BMWi8WatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWM1WatchFaceService$Engine$2]4424,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWZ8WatchFaceService$Engine$2]3438,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWCSL3WatchFaceService$Engine$2]1520,19), (register_sensor_listener,NEW[new com.newscope.bmwwatchface.watchfaces.BMWIsettaWatchFaceService$Engine$2]1940,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-15198184])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-15198184], $r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-15198184], $r1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [19, 19, 19, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_LEFT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.swipe_left()
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [19, 19, 19, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_RIGHT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.swipe_right()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [19, 19, 19, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_LEFT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.swipe_left()
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [19, 19, 19, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_LEFT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.swipe_left()
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [19, 19, 19, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_RIGHT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.swipe_right()
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [19, 19, 19, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_LEFT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 6: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 6: wearable.swipe_left()
+[INFO] MySceneTransformer: LEAK TESTCASE 6: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [19, 19, 19, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_RIGHT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 7: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 7: wearable.swipe_right()
+[INFO] MySceneTransformer: LEAK TESTCASE 7: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [19, 19, 19, 19] [[<null::SELECT::interactive>, <interactive::SWIPE_RIGHT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 8: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 8: wearable.swipe_right()
+[INFO] MySceneTransformer: LEAK TESTCASE 8: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: TOTAL TIME: 6.132000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 11:53:01 EDT 2018

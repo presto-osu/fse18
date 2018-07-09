@@ -1,0 +1,56 @@
+{
+    "title": "Watch Finder for Android Wear",
+    "summary": "Watch Finder will be able to help not to lose the smart watch and phone.",
+    "icon": "//lh6.ggpht.com/QYH6OZPayZhaZeec_CjQ8g3NO0SJil4FmA15LchQlVqoS9UkBRYUxLBqmEl7FtBWWD8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.3,
+    "reviews": 148,
+    "developer": "Kodeglam Mobile",
+    "developerId": "Kodeglam+Mobile",
+    "developerEmail": "kodeglam@gmail.com",
+    "developerWebsite": "http://kodeglam.com",
+    "developerAddress": "서울특별시 강동구 진황도로 72, 202호",
+    "updated": "October 29, 2014",
+    "version": "1.003.20141030",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Do you have experience that is embarrassed by lost the SmartWatch and SmartPhone?The have somewhere nearby but did you difficult to find it always?Please use the ‘Watch Finder’ If you want to prepare for such a situation that anyone can experience.Watch Finder helps to prevent lost by check the connection state of the watch and phone in real time.Generate sound, vibration and etc automatically in lost device. So you can easily find it.As well as, You can also check the last connection time and address of two device.Even after seven days of the application can be used without restriction.But, the more premium upgrade request occurs.If you upgrade to Premium, the pop-up and ad is not displayedMain function- If the two devices are disconnected, it informs the user- Generate sound, vibration and etc automatically in lost device.- Check the most recent connection time and address of two device.keywordkodeglam, smartwatch, android wear, finder",
+    "descriptionHTML": "Do you have experience that is embarrassed by lost the SmartWatch and SmartPhone?<br>The have somewhere nearby but did you difficult to find it always?<br><br>Please use the &#x2018;Watch Finder&#x2019; If you want to prepare for such a situation that anyone can experience.<br>Watch Finder helps to prevent lost by check the connection state of the watch and phone in real time.<br>Generate sound, vibration and etc automatically in lost device. So you can easily find it.<br>As well as, You can also check the last connection time and address of two device.<br><br>Even after seven days of the application can be used without restriction.<br>But, the more premium upgrade request occurs.<br><br>If you upgrade to Premium, the pop-up and ad is not displayed<br><br>Main function<br>- If the two devices are disconnected, it informs the user<br>- Generate sound, vibration and etc automatically in lost device.<br>- Check the most recent connection time and address of two device.<br><br>keyword<br>kodeglam, smartwatch, android wear, finder",
+    "histogram": {
+        "1": 31,
+        "2": 16,
+        "3": 26,
+        "4": 29,
+        "5": 46
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/whpIT4ick1qv2fjjspnVxHDuHRyQjwuiIjs-DHNFgdNXlaAej9_XnBD49Fxjx-T7i9Wg=h310",
+        "//lh5.ggpht.com/Wy7IDD5ns4Yu63aHtrTnxUIzOUc2P0xxUV1-wQBOQ3KF4eyp7T-uzYO5ww9hkGf1X5QS=h310",
+        "//lh4.ggpht.com/rFA5OC39t0qIKT-vFbFiMHAKge949e9_MDjJLbk8ngUiwetaRQl8YYdhWuKjaIcGCQ=h310",
+        "//lh4.ggpht.com/En1vxJ1Ctngipw5UTgFKsiGcrcPTQ2jSWRZXnJU8B07Lt3OKbQ5IEMtNJfRzjbgr8g=h310",
+        "//lh6.ggpht.com/GnQhDlWk5kJqTmtKliSAd7xWehsCJKHIaGWLs8DbV6_BXMro2bTcFTXk8OqOB2wL1g=h310",
+        "//lh3.ggpht.com/ywcu0fryWQAGZ2L3E0sZNn7Eps7c6xodsusaGg7MdRe_qiIOiDiNXIBvRCVfomf1hWY=h310"
+    ],
+    "comments": [
+        "Confusing Great app, but menu seems confusing, nothing aimed at notification for just watch or just phone, just seen to be one does all. For me i need more control over notification sound vibrate and popups for each device.",
+        "Fantastic! The amount of times I forget my phone or not sure where I left is slightly embarrassing. But with this app, I can find it really easy. It even let's me know when I'm out of range.",
+        "Connection App would not recognize that phone was connected to watch. Had to use another app I found.",
+        "Like it But one more thing! Add mute it for some time. Like for 30 mins or one hour",
+        "Keeps crashing. It crashes on the watch.  It crashes on phone 10 times per day.  Annoying.",
+        "Trial wear They need to be more clear about the fact that this app expires and needs to be purchased."
+    ],
+    "recentChanges": [
+        "The vibration and sound of the disconnection notification following the state of the phone"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kodeglam.wear.watchfinder&hl=en&gl=us",
+    "appId": "com.kodeglam.wear.watchfinder"
+}

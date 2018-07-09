@@ -1,0 +1,57 @@
+{
+    "title": "Brows Wear - a Wear Webbrowser",
+    "summary": "A lightweight browser for your android wear watch",
+    "icon": "//lh3.googleusercontent.com/QhVbTehY3UcthjosAHM3o_QeJyNWYDP_5stOfCMghQRzGS6bkR-7DIRH5nvC2zR76Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 2.8,
+    "reviews": 123,
+    "developer": "TS Systems",
+    "developerId": "TS+Systems",
+    "developerEmail": "anfragen@tsgames.de",
+    "developerWebsite": "http://www.tsgames.de",
+    "developerAddress": "Oberdorf 39\nDE-98574 Schmalkalden",
+    "updated": "March 20, 2017",
+    "version": "0.85",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "This app allows you to browse the internet and view websites on your watch. The app removes most of the layout and keeps the text content in focus.Features:- Open an url (via voice-command)- Open recent webpages- Send a page from your phone (use the Share command in your web browser).- Bookmark pages (premium)How to bookmark (premium):1. Open the webpage on your watch2. Swipe to the right, and choose \"Add Bookmark\"This app is currently in beta. If you have suggestions or issues, feel free to share them!",
+    "descriptionHTML": "This app allows you to browse the internet and view websites on your watch. The app removes most of the layout and keeps the text content in focus.<br><br>Features:<br>- Open an url (via voice-command)<br>- Open recent webpages<br>- Send a page from your phone (use the Share command in your web browser).<br>- Bookmark pages (premium)<br><br>How to bookmark (premium):<br>1. Open the webpage on your watch<br>2. Swipe to the right, and choose &quot;Add Bookmark&quot;<br><br>This app is currently in beta. If you have suggestions or issues, feel free to share them!",
+    "histogram": {
+        "1": 45,
+        "2": 13,
+        "3": 17,
+        "4": 22,
+        "5": 26
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Ve_K70D4LhbA30j_3hsIewWVcOQJTXLgjL02M93zhlK_0oYg9IBeATduItAgqno2GPWu=h310",
+        "//lh3.googleusercontent.com/LHXHgc9tcBVRFtdIkZB4dXg-DsGvJ8vAM0h17aoa3m969oIWJ9udZbs9qE6bdG6guQ=h310",
+        "//lh3.googleusercontent.com/1rbqmdnG4av_T7bCgJcMahiOJUneDpaxpaIBFit6ZKn4Hyd2iXXnN6y_gNZwfGiPZQ=h310",
+        "//lh3.googleusercontent.com/aZb4hlYqjkdDAzEBLfCeCcNwOU0Fke0_UfCXO99opiEhJCAHYa3_u2_e915PzpuE0LDl=h310",
+        "//lh3.googleusercontent.com/sLY_4fMx03VCFFd4-1LOcU64zLbesmQY-pxrsLyT7pzWdg6JihDS_F9gNf-vjd08=h310",
+        "//lh3.googleusercontent.com/XgCeD7q8fsx9x6SJSWoAKl_AdT5DhtEVJrW7joh9jN_wIpFLfTfO5bzjQA7h3uXMQeg=h310"
+    ],
+    "comments": [
+        "Dude. No.  You don't apply CSS and expect me to use this? Hell no. Even if there was no JS I'd be fine but this looks hideous. Oh, and please allow using keyboards, and don't use only voice input. Eg. The touchone keyboard",
+        "Great app....BUT latest Smartwear 2.0 update killed all webpages from being displayed. Now my favorite app is useless...tnx google :(",
+        "Sony smart watch 3 Won't load pages..Keeps saying invalid url",
+        "When launching the app on my Moto 360 sport it actually crashed my watch and made it reboot. Just bad",
+        "It does nothing and is a waste of time downloading it to find out it shows nothing and takes you nowhere!",
+        "I want my refund it dose not work"
+    ],
+    "recentChanges": [
+        "- Better Scrolling",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tssystems.wearable.browswear&hl=en&gl=us",
+    "appId": "com.tssystems.wearable.browswear"
+}

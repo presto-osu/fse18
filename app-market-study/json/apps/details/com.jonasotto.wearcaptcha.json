@@ -1,0 +1,50 @@
+{
+    "title": "Wear Captcha",
+    "summary": "Plugin for &quot;Sleep as Android&quot; to use your Android Wear to disable your alarm!",
+    "icon": "//lh3.googleusercontent.com/lMlHOcLJ0_RNhBYJ7pe4MNOqckxjjdwW_e_jEYDVYOJBFZfuW_zxQhH4TfpY2j2OfCE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 21,
+    "developer": "Jonas Otto",
+    "developerId": "Jonas+Otto",
+    "developerEmail": "jottosmail@gmail.com",
+    "developerWebsite": "https://www.github.com/ottojo",
+    "updated": "May 18, 2016",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Place your smartwatch on another room over night so you have to walk there to turn your alarm off.When your alarm rings, the watch will show a button to disable it.This App requires \"Sleep as Android\".",
+    "descriptionHTML": "Place your smartwatch on another room over night so you have to walk there to turn your alarm off.<br>When your alarm rings, the watch will show a button to disable it.<br><br>This App requires &quot;Sleep as Android&quot;.",
+    "histogram": {
+        "1": 5,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/waOjyHt6Wqzz78OqmBe6f0fZzAPYlaECfO24gVpj4OErsuZQORzwf_wBOkGYWbxhhqc=h310",
+        "//lh3.googleusercontent.com/Vs5f4ysgvCbhjH-Pi1nV7rk7Dt335-C_JrVYDeC5cusB6yel9d5kNujAZyxKSuMFTP4=h310",
+        "//lh3.googleusercontent.com/S1Yuywde-ImGQSFDk3-hSyWwGBbhko8Yprogwk6V7DYMIgqFaqQpKCGRCQpG_WsFKg=h310"
+    ],
+    "comments": [
+        "Doesn’t work with wear 2.0",
+        "Not working",
+        "Doesn't work any more"
+    ],
+    "recentChanges": [
+        "Option to stop alarm when watch is disconnected",
+        "Implemented service for crash reporting and statistics collection"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jonasotto.wearcaptcha&hl=en&gl=us",
+    "appId": "com.jonasotto.wearcaptcha"
+}

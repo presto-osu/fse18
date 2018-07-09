@@ -1,0 +1,54 @@
+{
+    "title": "Eagle Watch Face",
+    "summary": "Eagle Watch face design for Android Wear with lots of customization options",
+    "icon": "//lh5.ggpht.com/15A1_DID3ziQCnxt1LZg0aWoLJRlyl1P9k3IZLEcMG-fGz3OXf1H9KkV5HYgHb7rRZU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.1,
+    "reviews": 560,
+    "developer": "JH Development",
+    "developerId": "JH+Development",
+    "developerEmail": "jh.dev4android@gmail.com",
+    "updated": "February 4, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Eagle Watch Face: High resolution Watchface for all Android wear devices.Energy saving: seconds and battery status are calculated and drawn only in active mode.Totally Free! No advertising!Classic and easy to reed design.Immitates automatic watches: second hand can move constantly.Special Ambient Mode: Night mode mimics the look of classic watches at night.Displayed:- Time- 24 hour display- Battery StatusWatch Face customization options:- Second display (second-hand moves every second or millisecond)- 24 hour display- Battery Status - Real-time shadows- Customizable Ambient mode: darkened without second hand or night modeHow is the Watchface installed on the clock?-> The installation is automatic.How is the Watchface configured?-> Longtab on the watch face, then click on the small gear.One last request poor reviews:  please  specify a suggestion for improvement . Otherwise, no update or fix can be created. Thank You!Attribution:Eagle silhouette in flight by freepik is licensed under cc by 3.0 / inverted original",
+    "descriptionHTML": "<b>Eagle Watch Face:</b> High resolution Watchface for all Android wear devices.<br>Energy saving: seconds and battery status are calculated and drawn only in active mode.<br><br><br>Totally Free! No advertising!<br><br><br>Classic and easy to reed design.<br>Immitates automatic watches: second hand can move constantly.<br>Special Ambient Mode: Night mode mimics the look of classic watches at night.<br><br><br><b>Displayed:</b><br>- Time<br>- 24 hour display<br>- Battery Status<br><br><br><b>Watch Face customization options:</b><br>- Second display (second-hand moves every second or millisecond)<br>- 24 hour display<br>- Battery Status <br>- Real-time shadows<br>- Customizable Ambient mode: darkened without second hand or night mode<br><br><br>How is the Watchface installed on the clock?<br>-&gt; The installation is automatic.<br><br>How is the Watchface configured?<br>-&gt; Longtab on the watch face, then click on the small gear.<br><br><br><b>One last request</b> <br>poor reviews:  please  specify a suggestion for improvement . Otherwise, no update or fix can be created. Thank You!<br><br>Attribution:<br>Eagle silhouette in flight by freepik is licensed under cc by 3.0 / inverted original",
+    "histogram": {
+        "1": 38,
+        "2": 31,
+        "3": 71,
+        "4": 139,
+        "5": 281
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/7C5ESBLGLMQxbJ9Jv6vpArjU7dUuxt0Ka67MDU3h-1Gnh_vgja-qDNkaewDaI__NKQ=h310",
+        "//lh5.ggpht.com/Rb2_JltyuwQU6ozSItZCXdrElNEigP-rXnggzXhrtzDWLJ3MUFClTAMVLTLXasqaVKHD=h310",
+        "//lh3.ggpht.com/ool0Bqp-FW4WVpxFKKX4nDtwFrFZ3LKSZ6hZriEANUt9dvfkybOxRiFN4H7J8JzlBvg=h310",
+        "//lh4.ggpht.com/sHvixafcHqhWM3M88isCUWfGe0Mo1gKAH_RyibmOwh8ki-e8PFeVkQgf2xo1Cjxw_Sg=h310",
+        "//lh5.ggpht.com/CQybpiHAwyHIt5tpwm1hffm8ZUrNzBHAXmxqV6spdcn24nCXy4qpy74n5-em8nRX1G8=h310"
+    ],
+    "comments": [
+        "Looks really good Only giving 4 starts though because the logo is a bit too big, takes up too much space, so maybe take out the developer's name, especially because the use of the font lobster also takes away from the polish of it as a whole.",
+        "Found buggy! When watch goes in dim/ambient mode, time shows 1 min less than what it was showing in normal mode. Serious bug. Found that minutes needle moves back 1 minute when mode changes.",
+        "Swiss-style watchface Great-looking watchface that looks like the classic Swiss clockface design.  Day and date are a little bit small on my Zenwatch, but not unreadable.  Awesome deal since it's free!",
+        "Best watch face My favorite moto 360 watch face, and best of all it's free!... Thanks very much devs!!",
+        "After installed this app, It was hidden and I can not open it. So I uninstall this app. BELL RINGING.",
+        "Best The best face I could see so far. I wish they make a similar face with deep blue color"
+    ],
+    "recentChanges": [
+        "Improved accuracy of battery indicator.",
+        "Reduced battery drain."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jh.dev4android.eaglewatchface&hl=en&gl=us",
+    "appId": "jh.dev4android.eaglewatchface"
+}

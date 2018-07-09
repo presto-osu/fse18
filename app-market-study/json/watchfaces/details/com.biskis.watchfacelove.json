@@ -1,0 +1,50 @@
+{
+    "title": "Love Watch Face for Wear",
+    "summary": "♥ Customize your Watch Face with your LOVE name and other configurations ♥",
+    "icon": "//lh4.ggpht.com/fHzwodPkNPs6CB8eL8RiYH18PuW5l2srVWRpBMovaqAh8jNlH_z20pBgW-urHA8R84A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 4,
+    "developer": "rebiskis",
+    "developerId": "rebiskis",
+    "developerEmail": "danimdy@gmail.com",
+    "developerWebsite": "http://dani.dudas.ro",
+    "updated": "March 2, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This watch face is for Android Wear smart watches.♥ Custom text♥ Date (day + month)♥ The fill heart from the heart ring represent the seconds.♥ Analog clockFrom settings you can:♥ Set a custom text on your watch face♥ Choose Black or Light theme♥ Choose to show or hide the tail of the arrows (for hour and minutes)♥ Choose to animate the heart ring (so you know the seconds) or to be static (no animation and no seconds)",
+    "descriptionHTML": "This watch face is for Android Wear smart watches.<br>&#x2665; Custom text<br>&#x2665; Date (day + month)<br>&#x2665; The fill heart from the heart ring represent the seconds.<br>&#x2665; Analog clock<br><br>From settings you can:<br>&#x2665; Set a custom text on your watch face<br>&#x2665; Choose Black or Light theme<br>&#x2665; Choose to show or hide the tail of the arrows (for hour and minutes)<br>&#x2665; Choose to animate the heart ring (so you know the seconds) or to be static (no animation and no seconds)",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/QeYJdEHCX75Ty5c7k54ydCUmHCMWYukiMG_fc-8wplIWizGsVe1bEaXH2KQR7fr1E8Q=h310",
+        "//lh5.ggpht.com/QjYMS0NWMBeo4T0Uu8_4FjY3vVzw0LE3iRtvAUSK-olwwm3d3vqrjEuqSYUm5uEx3UM=h310",
+        "//lh5.ggpht.com/Z4CUtSO75Z632q1jZVxHwKFjicwg0W_2k92O79S0XSA_ZgOQVxTFZD6uXw2-hGcAXQY=h310",
+        "//lh3.ggpht.com/K1vbSgDha5AR4VEZ5xlDTCoBmhuM8U_OKDEDGw9vs8znnElVIBQTUgi7mAaYox5if0U=h310",
+        "//lh4.ggpht.com/OP_yq8aKrGUpzL9ugk7u3eCIVa33CDOlVexG4XgClRhkUQlnO1wd1lxIuH-O0ENjHLA=h310",
+        "//lh5.ggpht.com/C-njJiYHNmR1rxONqo-gE4xVIKIbSOJaa2wzLcDA5l-9WiCYLlXVqIbfKyqFGaPzQg=h310"
+    ],
+    "comments": [
+        "Not very readable Nice idea but difficult to read time in it. Plus, I can't find the settings anywhere."
+    ],
+    "recentChanges": [
+        "Compatible now from Android 4.4"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.biskis.watchfacelove&hl=en&gl=us",
+    "appId": "com.biskis.watchfacelove"
+}

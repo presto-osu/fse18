@@ -1,0 +1,53 @@
+{
+    "title": "Nineteen42",
+    "summary": "The first game for Android Wear!A top-scrolling arcade shooting game in space!",
+    "icon": "//lh4.ggpht.com/LFvcekHBSiyqH_FIbMnGo6YgepaQ_dQlL0OgaI5rMCiUZwVzIRvj139fjGZ30JaYehk=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.4,
+    "reviews": 5,
+    "developer": "Basement Nerds Computing, LLC",
+    "developerId": "Basement+Nerds+Computing,+LLC",
+    "developerEmail": "questions@bncpu.com",
+    "developerWebsite": "http://BNCPU.com",
+    "developerAddress": "136 Breckenridge Drive\nOxford, MS 38655",
+    "updated": "July 29, 2014",
+    "version": "1.2",
+    "genre": "Arcade",
+    "genreId": "GAME_ARCADE",
+    "description": "The first game made for Android Wear!It's a classic top-scrolling arcade shooting game in space!That's right! You pilot a tiny space ship through the galaxy, shooting every alien ship in your path. While you shoot past stars, more and more ships will come and the game will get faster and faster paced. Don't let them get past or it's game over!The controls are simple. Slide your ship left and right to shoot the green ships coming toward you.Future updates may include powerups, different enemies, etc.Note:This game is for square screens. If you play on a round screen, you wouldn't be able to control the ship. Therefore, the game will not launch on rounds screens. DO NOT BUY IF YOU HAVE A MOTO 360 OR SIMILAR.",
+    "descriptionHTML": "The first game made for Android Wear!<br><br>It&apos;s a classic top-scrolling arcade shooting game in space!<br><br>That&apos;s right! You pilot a tiny space ship through the galaxy, shooting every alien ship in your path. While you shoot past stars, more and more ships will come and the game will get faster and faster paced. Don&apos;t let them get past or it&apos;s game over!<br><br>The controls are simple. Slide your ship left and right to shoot the green ships coming toward you.<br><br>Future updates may include powerups, different enemies, etc.<br><br>Note:<br>This game is for square screens. If you play on a round screen, you wouldn&apos;t be able to control the ship. Therefore, the game will not launch on rounds screens. DO NOT BUY IF YOU HAVE A MOTO 360 OR SIMILAR.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/X0ErLTwiywbq5ivnFLNZ-Em80jrY7-0AS2mpQHX-hHUCkrYH5BsyLTXcnH6ojm8nKBQ=h310",
+        "//lh3.ggpht.com/3MoN4rEBA71YzKh544dd-ailEX_nyEY0hPCl1wC1-OfR06eP-Bk-4Gm-9m0cckWBoQ=h310",
+        "//lh3.googleusercontent.com/iPYGeI76O7aMt3_Anp7L4uv8B1D7hDUIs5Y6pFXMi1AM2IrF7FTWDRVRcVhTEQUB4Q=h310",
+        "//lh3.googleusercontent.com/oLMCdDrZT7lkmVN8YeG89Gi48yzIogzSKAsLH0fMyLCDp4AMRnIVNKrV-z1j9t0R6w=h310"
+    ],
+    "comments": [
+        "Doesn't work on moto 360 Please fix, the app won't even open, it crashes right from the get go",
+        "Crashes on Moto 360",
+        "Time killer with best game",
+        "Second best use of a SmartWatch"
+    ],
+    "recentChanges": [
+        "Better scaling with improved graphics!",
+        "Just kidding, the graphics are the same. But now you won't get flooded with enemies around 100 points."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bncpu.nineteen42&hl=en&gl=us",
+    "appId": "com.bncpu.nineteen42"
+}

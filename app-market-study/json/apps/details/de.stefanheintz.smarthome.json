@@ -1,0 +1,60 @@
+{
+    "title": "Home Companion for Wear",
+    "summary": "Control your FHEM, pilight or openHAB managed devices with your SmartWatch.",
+    "icon": "//lh3.googleusercontent.com/r9ewp-A_0rCQI4lfEAPzyrqPk6OgM8MUPM9z7xGUxPZg6K_L9RFW1vIvJhL_IS0Dzg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 25,
+    "developer": "Stefan Heintz",
+    "developerId": "Stefan+Heintz",
+    "developerEmail": "stefanheintz+coding@gmail.com",
+    "developerWebsite": "http://slashcoding.blogspot.de/p/home-companion-control-your-smarthome.html",
+    "updated": "November 21, 2016",
+    "version": "1.8.9",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This app allows you to control your devices at home from a SmartWatch. It's based on the fhem.de, pilight.org and openHAB.org projects, so just setup the IP and PORT of your server at the handheld device. Configure your favorite devices or make devices invisible for the watch for better usability.Following functions are available:- status of all switchable devices (FHEM, pilight, openHAB)- switch devices on and off (FHEM, pilight, openHAB)- status of temperature and humidity (FHEM, pilight)- set temperature for heaters (FHEM)- open/close status of doors/windows (FHEM)Let me know if your system isn't supported! Feel free to give me feedback (see email below) or post requests in the forums.- Google+ - https://plus.google.com/u/0/communities/112749520589168975923- FHEM - http://forum.fhem.de/index.php/topic,36652.0.html- pilight - http://forum.pilight.org/Thread-Android-Pilight-Wear",
+    "descriptionHTML": "This app allows you to control your devices at home from a SmartWatch. It&apos;s based on the fhem.de, pilight.org and openHAB.org projects, so just setup the IP and PORT of your server at the handheld device. Configure your favorite devices or make devices invisible for the watch for better usability.<br><br>Following functions are available:<br>- status of all switchable devices (FHEM, pilight, openHAB)<br>- switch devices on and off (FHEM, pilight, openHAB)<br>- status of temperature and humidity (FHEM, pilight)<br>- set temperature for heaters (FHEM)<br>- open/close status of doors/windows (FHEM)<br><br>Let me know if your system isn&apos;t supported! Feel free to give me feedback (see email below) or post requests in the forums.<br>- Google+ - https://plus.google.com/u/0/communities/112749520589168975923<br>- FHEM - http://forum.fhem.de/index.php/topic,36652.0.html<br>- pilight - http://forum.pilight.org/Thread-Android-Pilight-Wear",
+    "histogram": {
+        "1": 5,
+        "2": 2,
+        "3": 1,
+        "4": 9,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/rSQBUvMZA6_LCwGovOPR4G4DLYo09Tu58TWrXP6JtApdGCN0LAwn09lG5km9tGmx4oX8=h310",
+        "//lh3.googleusercontent.com/BfJkxmaUpue93Vg7-Fr8tgAFEZUGXEJD86fm21Eh28r0cNkKXkiAH6nd3YyueOqYn8s=h310",
+        "//lh3.googleusercontent.com/jUyEjgHfVI2t3uIeg2iY8XwKX-mUG9REPNgFkkTSaNK4ziTFti6A0RX3_mFLeNCIOwM=h310",
+        "//lh3.googleusercontent.com/R94zINZiUIwmIVyWtC0CZEvUJKUnzuW3bd1iYkUb66idE_JzoODvhOC6qTsp8A-5ShE=h310",
+        "//lh3.googleusercontent.com/tHWHn29MK2cPt91OKrrkhPiW2z54Bg7N8FT6_hqn9mWpOjx6AB7gnf_5TokfLdc-lio=h310",
+        "//lh3.googleusercontent.com/dEbuSjvFVZ8cZ0wDTE2CUwvSKvV6wC8IjPDlR5AzDw276aRkkO53dbOZ5hVQ-oPzB58=h310",
+        "//lh3.googleusercontent.com/dN9tHOZijepUC-CXidOOyMM0R0DPjqfo1cHXEFoqm8U5Ytl4sKy8BLI1UosS_6-lnhw=h310",
+        "//lh3.googleusercontent.com/YESvsCaKCrQLCwHHZ1Ou3tC-tbjnBx44mydcN00fHLXXPhqbENxxvlvekdbCmshSTC8=h310"
+    ],
+    "comments": [
+        "Used with pilight. Let's you turn lamps on and off from phone and watch. But unfortunately it doesn't support a dimmer, only on/off.",
+        "Does not work with Openhab2."
+    ],
+    "recentChanges": [
+        "- Improved app start and synchronisation performance between watch and backend",
+        "- Error correction for (FHEM) heater control",
+        "- Heater setting in mobile app",
+        "- New waiting screen",
+        "- Room \"All\" is only shown if necessary",
+        "- openHAB sitemap configuration in \"Settings\" and improved configuration reading",
+        "- Changed parsing for openHAB2 to find all supported devices",
+        "- Quick switch for visibility and favourite settings for all devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.stefanheintz.smarthome&hl=en&gl=us",
+    "appId": "de.stefanheintz.smarthome"
+}

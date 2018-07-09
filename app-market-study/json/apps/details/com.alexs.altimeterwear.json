@@ -1,0 +1,53 @@
+{
+    "title": "Altimeter Wear",
+    "summary": "Altimeter Wear is an app that lets you know your current Altitude in realtime!",
+    "icon": "//lh3.googleusercontent.com/5rQsApA5cglFZjVCW5gkiTo0-JERFgRdoxVKle8N0yeTJx-DlI1EAvwjRfSHwmy5zQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.3,
+    "reviews": 24,
+    "developer": "Alessandro Mautone",
+    "developerId": "Alessandro+Mautone",
+    "developerEmail": "alessandromautone@gmail.com",
+    "developerAddress": "Via Taverne 60",
+    "updated": "April 21, 2017",
+    "version": "1.4.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Altimeter Wear is a simple app that lets you know your current Altitude in realtime, also in your Android Wear device.NOTE: Barometer needed in at least one of your devices to work properly.- Suggestions or reports: alessandromautone@gmail.com",
+    "descriptionHTML": "Altimeter Wear is a simple app that lets you know your current Altitude in realtime, also in your Android Wear device.<br><br>NOTE: Barometer needed in at least one of your devices to work properly.<br><br>- Suggestions or reports: alessandromautone@gmail.com",
+    "histogram": {
+        "1": 8,
+        "2": 2,
+        "3": 0,
+        "4": 3,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "5.1 and up",
+    "androidVersion": "5.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nI_TtEMy0R2kR7rl5AuJyCT4Wsqk1_DjSEMpqrxr6PLMuiAI65aEQsxA3-zzpFSkXik=h310",
+        "//lh3.googleusercontent.com/yzyl0c3baME5Z2AbaX2OMoISwiKsDCGFLaolZ3n4oDhLrmeCA8Gy1zSxqrSjQceTnc8=h310",
+        "//lh3.googleusercontent.com/OaonX1gyVlZtERXa3JgaCbWCvUpF3KkS8dOhFKxWSJPswZu6kgyFE5UgX5LVYCwXMw=h310",
+        "//lh3.googleusercontent.com/IukLaMdS2TKQCzvbH9hy5qqWgAsCzZcx1HoDJrj4NnmwW2sUwIflfCOLgQGvLwOGatz4=h310",
+        "//lh3.googleusercontent.com/6yaromMcuVtVjkdOO7BOZvcx__5C4AT5kJ-jNQyMZ0kpuek2zAnaKyrsDLqll-vQaQ=h310",
+        "//lh3.googleusercontent.com/sUEvPMZumqtn9Un6_OV0qhJHPD4PPVxLFfNXMC-zFFH_fqrHRLSUrgkF16Ezn8z9pmQ=h310",
+        "//lh3.googleusercontent.com/BlIVd0iVpQX7sa_vH4eFUBSm_Nt1KU1mknS4VAq4uM6QuJ0PIWsBRioVYZFnZ4pearU=h310",
+        "//lh3.googleusercontent.com/k7tn9l2ReJHqy5MtStNwUUszmoyxY7HBKJPCYLUs3BnCCtDYQMXcvFZEzQHngkX_dZ4=h310",
+        "//lh3.googleusercontent.com/EDwXhYdCa0a2ok9EOuqUA1YTqzsF5kQc-ymaO9KiTXMbwPDuL_BNDleO14vAGY3WbB8=h310",
+        "//lh3.googleusercontent.com/jvcbcZjjR882AO35k3iB79rD-dpEjf7vrm5yb4CyY-eqTqDQaDLimbvk_EIcYb2XuxM=h310"
+    ],
+    "comments": [
+        "Altimeter starts from 425 m, no matter I'm standing in the water on the beach. When climbed to the 12th floor, it shows just 10 m higher. Calibration? How should I guess the correct value, if I'm looking for altitude using this program?",
+        "The altitude measurement is not accurate. The altitude measurement is not accurate and the calibration is unable to accept negative value."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.alexs.altimeterwear&hl=en&gl=us",
+    "appId": "com.alexs.altimeterwear"
+}

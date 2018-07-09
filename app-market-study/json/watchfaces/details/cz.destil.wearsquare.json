@@ -1,0 +1,62 @@
+{
+    "title": "WearSquare",
+    "summary": "Foursquare &amp; Swarm for Android Wear",
+    "icon": "//lh6.ggpht.com/Kv9xzh5GAjJjOmoMvu1ysAilN-zk-RqLzWKXtG9h7vfDJmf3WD7JLR73opOqO_ar16yF=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 101,
+    "developer": "David Vávra",
+    "developerId": "David+V%C3%A1vra",
+    "developerEmail": "david@vavra.me",
+    "developerWebsite": "https://github.com/destil/wearsquare",
+    "developerAddress": "Kovanecká 15\nPraha 9\n19000\nCzech Republic",
+    "updated": "October 7, 2015",
+    "version": "1.5.5",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Lightning fast check-ins and exploring on Foursquare (Swarm) from your watch.This app uses the Foursquare API but is not affiliated with or endorsed by Foursquare Labs, Inc.It's simple:• OK Google, start check in lets you check in really fast, you can event select a sticker.• OK Google, start explore shows nearby venues with photos and the best tip. You can navigate to the venue, check-in or open venue detail on your phone.(You can also launch it without using voice in menu)Power user? You can control Twitter, Facebook sharing and available stickers inside mobile app settings.Report issues and feature requests here:https://github.com/destil/wearsquare/issuesThis app is open-source:https://github.com/destil/wearsquareIn-app purchases in the app are only for donation, the functionality is unlimited.All of the Foursquare® logos (including all badges) and trademarks displayed on this application are the property of Foursquare Labs, Inc.",
+    "descriptionHTML": "Lightning fast check-ins and exploring on Foursquare (Swarm) from your watch.<br><br>This app uses the Foursquare API but is not affiliated with or endorsed by Foursquare Labs, Inc.<br><br>It&apos;s simple:<br>&#x2022; <b>OK Google, start check in</b> lets you check in really fast, you can event select a sticker.<br>&#x2022; <b>OK Google, start explore</b> shows nearby venues with photos and the best tip. You can navigate to the venue, check-in or open venue detail on your phone.<br>(You can also launch it without using voice in menu)<br><br>Power user? You can control Twitter, Facebook sharing and available stickers inside mobile app settings.<br><br>Report issues and feature requests here:<br>https://github.com/destil/wearsquare/issues<br><br>This app is open-source:<br>https://github.com/destil/wearsquare<br><br>In-app purchases in the app are only for donation, the functionality is unlimited.<br><br>All of the Foursquare&#xAE; logos (including all badges) and trademarks displayed on this application are the property of Foursquare Labs, Inc.",
+    "histogram": {
+        "1": 3,
+        "2": 4,
+        "3": 8,
+        "4": 29,
+        "5": 57
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/xReZJh-JteULPVDEMwgQn50EP7Gtb1U9LLAUPsEOx4RaVfIQdVv0d4YRalCrwJ9vaEri=h310",
+        "//lh3.googleusercontent.com/-r5cD3V31NFy3kQ4muRBOhbtmGPmpZzJsNFjMjvrb29aiqK4oTw_964bLTua6_L4Snk=h310",
+        "//lh3.googleusercontent.com/O0mjx5sUZnp81OwzmkiuV-ThJW_NKjFTdACpvQL6H4OhlN2DKgUwp9u7arSDWRgpnpvC=h310",
+        "//lh3.googleusercontent.com/39lVGG1rD97ZFw0Gf7GQxeBX1lBFDEIbUqU-HworjKAZDS5RGcrliZ9mNZmy3OUGDRo5=h310",
+        "//lh3.googleusercontent.com/RyMazHlDZLN34SibB_qf_Lrz2G0-hbjAJ_LmNssTjWcsYgAqNbxkY-dSfnr1ZdIk5Hk=h310",
+        "//lh3.googleusercontent.com/6IrZrpIbK0A3LGL33NH5WvDSM95rYsFoYTK42zvvkORDy8Kuo3KNRDmKEcO5pYa_BA=h310",
+        "//lh3.googleusercontent.com/p03-ZGjAlKeYoM8dSEJlYDim-wgJEYiPBHRDuMrCwJud_JGnKUsmuXSCBJ1rmGiFGbI0=h310",
+        "//lh3.googleusercontent.com/frLZ9V1cfCUHnCv7jZopHdQqz4uRafnHNHC9Giu2_LCQv0mFj66FfS6tbiyu8tSPTA=h310",
+        "//lh3.googleusercontent.com/kCK_a0Iy9TNKY2WrFjw7GRFOEd6wADuuvMXLJjJzWjRQot-0q7AIGGR5V4-ZxFXSAwGg=h310",
+        "//lh3.googleusercontent.com/kE2WGaeUp3Mq3NUlsvn2h42iPN52ERPak9AmRYASr5qewUfLgcEkeZdxsDNmVRxhNZE=h310"
+    ],
+    "comments": [
+        "Ok but not so user friendly",
+        "Great app with a small issue. It works well except when you don't check in with the venues it gives you the first time.  If you don't check in and just back out of the app, those venues will be the only ones it will ever give you, no matter how far you move.  Please fix this issue.",
+        "I like it Nice app. Glod job!",
+        "Really great",
+        "Good app. It is nice and simple application. But I would like to put an icon to my checkin. I hope this will happen in next releases.",
+        "Nice UI. Could use a few features and fixes. First off, I recommend Swipify launcher instead of Wear Mini. However, any app launcher is highly recommended. It's great seeing apps take advantage of the new Foursquare (not just the Swarm side). It's too bad that the check in side keeps crashing. I would like to see the add-on on the phone side app to build in a setting to include Twitter and Facebook in the Swarm Check in. It is available on other Android Wear Apps. Overall, good job. Well thought out. +JoeKaton  Update: have seen the Beta side which solves the crash. Good work. I look forward to seeing the final and future updates."
+    ],
+    "recentChanges": [
+        "Updated usage instructions.",
+        "Android Marshmallow support.",
+        "Buying beer works again."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cz.destil.wearsquare&hl=en&gl=us",
+    "appId": "cz.destil.wearsquare"
+}

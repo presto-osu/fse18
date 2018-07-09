@@ -1,0 +1,55 @@
+{
+    "title": "Halftime Watch Face",
+    "summary": "Halftime is a highly configurable watch face, inspired by material design.",
+    "icon": "//lh3.googleusercontent.com/VLwccLuxVGwp-L0CSTKMN_TL1oRwfekCNb4qt7nSqXDkXP-TLhjHiy36lPN5yrb1c3o=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.1,
+    "reviews": 63,
+    "developer": "The Hoodie Studio",
+    "developerId": "6895744366680540019",
+    "developerEmail": "studiohoodie@gmail.com",
+    "developerWebsite": "http://hoodie.watch/",
+    "developerAddress": "212 rue saint martin\n75003 Paris",
+    "updated": "November 19, 2017",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Halftime Watch Face is now a freemium app. All former buyers get upgraded to Premium. If you bought the app and didn't get upgraded automatically to Premium : send me a mail to studiohoodie@gmail.comInteractivity :★ Tap on weather data to display weather forecast★ Tap on time to display upcoming calendar eventsFeatures :★ Use a picture from your gallery as background of your watch face★ Grayscale picture in ambient mode★ Current weather data★ Steps counter★ Choose color and opacity of the time panel★ Choose text color★ Optional Date indicator★ Optional 12h clock★ Optional leading zero★ Optional short notifications★ Optional translucent notifications★ Optional notifications in ambient mode★ Phone battery level★ Watch battery level★ Ambient mode (low-bit and burn-in protection)★ Choose ambient mode brightness★ Choose active mode duration (from 5 seconds to 30 seconds)Permissions :- Coarse location : to get weather data at your position- Internet : to get weather data from OpenWeatherMap- Calendar : to display your upcoming events- Storage : to choose and crop a pictureWorks with Asus ZenWatch, LG G Watch R, LG G Watch, LG Watch Urbane, Moto 360, Samsung Gear Live and Sony Smartwatch 3.Requires Android Wear 5.0Credits :★ Android CropImage by Lorenzo Villani (https://github.com/lvillani/android-cropimage), licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)★ ColorPicker library by Gabriele Mariotti (https://github.com/gabrielemariotti/colorpickercollection/blob/master/ColorPicker/README_CALENDAR.md), licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)★ Material Icons (https://www.google.com/design/icons/) licensed under the CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)★ Android Wear Flat Device Frame by Cyril Mottier (http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/), licensed under the CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)★ Weather data provided by OpenWeatherMap (http://openweathermap.org/)★ Weather 7 Icon Font Set by Pixeden (http://themes-pixeden.com/font-demos/7-weather/index.html)Created by Eric Plaquevent",
+    "descriptionHTML": "<i>Halftime Watch Face is now a freemium app. All former buyers get upgraded to Premium. If you bought the app and didn&apos;t get upgraded automatically to Premium : send me a mail to studiohoodie@gmail.com</i><br><br>Interactivity :<br>&#x2605; <b>Tap on weather data to display weather forecast</b><br>&#x2605; <b>Tap on time to display upcoming calendar events</b><br><br>Features :<br>&#x2605; <b>Use a picture from your gallery as background of your watch face</b><br>&#x2605; Grayscale picture in ambient mode<br>&#x2605; Current weather data<br>&#x2605; Steps counter<br>&#x2605; Choose color and opacity of the time panel<br>&#x2605; Choose text color<br>&#x2605; Optional Date indicator<br>&#x2605; Optional 12h clock<br>&#x2605; Optional leading zero<br>&#x2605; Optional short notifications<br>&#x2605; Optional translucent notifications<br>&#x2605; Optional notifications in ambient mode<br>&#x2605; Phone battery level<br>&#x2605; Watch battery level<br>&#x2605; Ambient mode (low-bit and burn-in protection)<br>&#x2605; Choose ambient mode brightness<br>&#x2605; Choose active mode duration (from 5 seconds to 30 seconds)<br><br>Permissions :<br>- Coarse location : to get weather data at your position<br>- Internet : to get weather data from OpenWeatherMap<br>- Calendar : to display your upcoming events<br>- Storage : to choose and crop a picture<br><br><br>Works with Asus ZenWatch, LG G Watch R, LG G Watch, LG Watch Urbane, Moto 360, Samsung Gear Live and Sony Smartwatch 3.<br><br>Requires Android Wear 5.0<br><br><br>Credits :<br>&#x2605; Android CropImage by Lorenzo Villani (https://github.com/lvillani/android-cropimage), licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)<br>&#x2605; ColorPicker library by Gabriele Mariotti (https://github.com/gabrielemariotti/colorpickercollection/blob/master/ColorPicker/README_CALENDAR.md), licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)<br>&#x2605; Material Icons (https://www.google.com/design/icons/) licensed under the CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)<br>&#x2605; Android Wear Flat Device Frame by Cyril Mottier (http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/), licensed under the CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)<br>&#x2605; Weather data provided by OpenWeatherMap (http://openweathermap.org/)<br>&#x2605; Weather 7 Icon Font Set by Pixeden (http://themes-pixeden.com/font-demos/7-weather/index.html)<br><br>Created by Eric Plaquevent",
+    "histogram": {
+        "1": 4,
+        "2": 2,
+        "3": 8,
+        "4": 19,
+        "5": 30
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Za4b9TUgQ1-HOZHyJ4p3tOd7Rw-0Dtoe_dJ-gKUeAhEYyw12zqmCalnioMlu_-cUMSWe=h310",
+        "//lh3.googleusercontent.com/FWYoKExdyrhNaQSpuO7hi6c2jhHqpWDuezx84iZNguDCKFl0YE1-64jubef4zHj50q8=h310",
+        "//lh3.googleusercontent.com/syLZVnvzfLzc4jn2EChrStRqQwA_nv7sbUY0DgMhX4nZFyOITb91gZwhtTAPt4DX4oU=h310",
+        "//lh3.googleusercontent.com/9hFKGf9MYybrxu22N8p4TvWsgBBvizST-0Hew3b3U_6aZ_CCdeI7MB5qnA3iEeROQQ=h310",
+        "//lh3.googleusercontent.com/hrvsZXAM058D7NjFyJp1L37xFsW1I48Xi9bYy2LtSicYrZI_KMd4I5yZWGl9DpVlaas=h310"
+    ],
+    "video": "https://www.youtube.com/embed/kPnXdypu23A",
+    "comments": [
+        "This app almost has all i wanted .  but just wish it would show how many notifications i have waiting to view.. will that be implimented soon? and maybe also no image in ambient?  thank you!",
+        "I like this watch face but the tiny text only gets worse in Ambient mode. And the background becomes a gross distortion of black and white. I would have preferred the background disappeared completely in Ambient. A solid black background with clear and legible numbers and letters. Asus ZenWatch 2.",
+        "Paid for premium to support the mustache one by this dev, turned out to love this one just as much! Going to go buy the third face to support this team. Best part is they don't need any unreasonable permissions!",
+        "Nice watch Need more options to control the fonts and to make it bold or bigger.",
+        "The best",
+        "Brilliant. Excellent. How had I not seen this watchface before"
+    ],
+    "recentChanges": [
+        "- package for Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.thehoodiestudio.halftimewatchface&hl=en&gl=us",
+    "appId": "com.thehoodiestudio.halftimewatchface"
+}

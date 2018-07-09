@@ -1,0 +1,56 @@
+{
+    "title": "AnkiWear for AnkiDroid",
+    "summary": "AnkiWear brings Anki&#39;s flashcards to your wrist!",
+    "icon": "//lh3.googleusercontent.com/Olz5egeU9pudu0sT0lZ1yv7a00JfS94vPRAic_wqT0CsS2llzqVtdfen1uYz0zkVd9Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.3,
+    "reviews": 23,
+    "developer": "Yannik",
+    "developerId": "Yannik",
+    "developerEmail": "greepee1337@gmail.com",
+    "developerWebsite": "https://github.com/wlky/AnkiDroid-Wear",
+    "updated": "May 28, 2017",
+    "version": "1.0.alpha31",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "This app extends the AnkiDroid App, allowing you to learn flashcards on any Android Wear smartwatch while you are on the go. It supports deck selectiion, flashcards wiht images and sounds, day and night mode and more.in case of problems or ideas please send me an E-Mail or write on the GitHub project page and I will take care of it asap :)After installing AnkiWear (and AnkiDroid if you have not already done so) you will find a new App on your phone and (after a short time) on your watch. In the app on your phone you will find some settings to customize your learning experience. The app on your watch will let you study your cards and switch between different decks.",
+    "descriptionHTML": "This app extends the AnkiDroid App, allowing you to learn flashcards on any Android Wear smartwatch while you are on the go. It supports deck selectiion, flashcards wiht images and sounds, day and night mode and more.<br><br>in case of problems or ideas please send me an E-Mail or write on the GitHub project page and I will take care of it asap :)<br><br>After installing AnkiWear (and AnkiDroid if you have not already done so) you will find a new App on your phone and (after a short time) on your watch. In the app on your phone you will find some settings to customize your learning experience. The app on your watch will let you study your cards and switch between different decks.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 1,
+        "5": 17
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ZQpWV9p1JtvFI5xAeICoFKqM6d2QKuZ-unXPr_agS1hGFDsB3MsRaQWxHgfXzN7FIXU=h310",
+        "//lh3.googleusercontent.com/TVOw5DJfXP0iL4urvVhx3aKTylCF_9gJg0I6aOgTCniZGgMxP2jM5T-ygSAhRL9-Ias=h310",
+        "//lh3.googleusercontent.com/hO-PSj7AJEWOIP3zfdZ3dPpOzGHZoBTI9jXa5Y4jDfmy_oTes84OhaR1gU3oJEiFywM=h310",
+        "//lh3.googleusercontent.com/br51CTR6LdzeN8gMOnu2aDzfyCftxI4buunzGpY-ZHbb5Sd7YMUntrBW4bHIs55SX7E=h310",
+        "//lh3.googleusercontent.com/FXsAiwVitqttkJvVivA0P421p4HCx_tb_8BToGCh98Pz2aEsRkj496wyib_6CjLIGw=h310",
+        "//lh3.googleusercontent.com/vHa2Oyb9ULrb0FCfoC3C1Xsr_exiB-a6yLtEzLSqEG_uUe-7LyIbmi8KI2vrZhLsu9pM=h310",
+        "//lh3.googleusercontent.com/2xjpg-OIEutOzdom0Eec5JB6Vc1q_dPrxrenpyX8QIlf6NbUk0eQ3_vh70wa5bbyUYs=h310"
+    ],
+    "comments": [
+        "Can you make it to raise a card on watch every a period to make your wonderful software more effective.",
+        "Makes random 2 minute reviews possible and fun. So you can Check throughout the day if material got stuck in your head. Customized gestures (e.g. easy or good for flick out) would be great!  Downgrade to 2 stars, keeps on lagging and hanging.",
+        "Nexus 6, Android 7.0, Moto 360v2. Every time I open the app on the watch it crashes on the phone.   > update: I ended up wiping my phone for unrelated reasons and reinstalling Ankidroid and then Ankiwear and now it seems to be working.   How do I submit bug reports though? I didn't see any way to in the app.",
+        "Perfect app. Bought smart watch just for using anki wear, and very happy",
+        "Great app This is exactly what i want on my watch. Thanks! I'm wondering if it's possible to have the function to save some decks on watch. So that the app can also work independently without the phone?",
+        "No longer works It's a shame, but I really liked this app when it worked. Since upgrading my devices to Android 6, it's stopped working on my moto 360."
+    ],
+    "recentChanges": [
+        "show deck counts (new, failed, review) on the android wear decks list"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.yannik.wear.anki&hl=en&gl=us",
+    "appId": "com.yannik.wear.anki"
+}

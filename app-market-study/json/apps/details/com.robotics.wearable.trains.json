@@ -1,0 +1,54 @@
+{
+    "title": "UK Trains for Wear",
+    "summary": "Live data on all UK train times for Android Wear, powered by National Rail.",
+    "icon": "//lh3.ggpht.com/ACPKq0d-e5hQ4BDuxCECeZWwF6LXZHggRmDJ4u1rhVm_vP2-myQs3rb6eJGbOpbxcCg=w300",
+    "price": "$3.16",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 78,
+    "developer": "Wearable Robotics Lab",
+    "developerId": "Wearable+Robotics+Lab",
+    "developerEmail": "robotics.wearable@gmail.com",
+    "developerWebsite": "http://wearableroboticslab.blogspot.co.uk/",
+    "developerAddress": "Wearable Robotics Lab",
+    "updated": "November 22, 2014",
+    "version": "1.6",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "*** Requires an Android Wear smartwatch ***View real-time train data for any UK station right on your Android Wear smartwatch on the move.No need to get the phone out: useful while walking or even running to the station to catch your daily commute.Train times for your selected stations are shown as pages, with all delays and changes indicated.Includes a setting to show train times for your nearest station based on location.Also Includes station-time clock right on your wrist. Supports voice start, just say OK Google, Start UK Trains to see train times.How It Works:1. In the phone app, select the stations to be shown. Check the Nearest station checkbox if you want to include your nearest station train times.2. Tap on a station to add a destination, if needed.3. Open the app on watch. Swipe left and right between the stations. Tap the clock to update.4. To remove a station from the list on the phone, long press on the station.Note: The most convenient way to open the app on watch is to install a launcher from Play Store. To start the app without launcher, tap on the watchface once and scroll down to choose Start... and then pick the UK Trains app.Also, you can start the app by tapping once on the watchface (or saying OK Google) and then saying 'Start UK Trains'.Live data powered by National Rail Enquiries.This is NOT an official National Rail app and the developer is not associated with National Rail in any way.",
+    "descriptionHTML": "*** Requires an Android Wear smartwatch ***<br><br>View real-time train data for any UK station right on your Android Wear smartwatch on the move.<br><br>No need to get the phone out: useful while walking or even running to the station to catch your daily commute.<br><br>Train times for your selected stations are shown as pages, with all delays and changes indicated.<br><br>Includes a setting to show train times for your nearest station based on location.<br><br>Also Includes station-time clock right on your wrist. <br><br>Supports voice start, just say OK Google, Start UK Trains to see train times.<br><br>How It Works:<br><br>1. In the phone app, select the stations to be shown. Check the Nearest station checkbox if you want to include your nearest station train times.<br><br>2. Tap on a station to add a destination, if needed.<br><br>3. Open the app on watch. Swipe left and right between the stations. Tap the clock to update.<br><br>4. To remove a station from the list on the phone, long press on the station.<br><br>Note: The most convenient way to open the app on watch is to install a launcher from Play Store. To start the app without launcher, tap on the watchface once and scroll down to choose Start... and then pick the UK Trains app.<br><br>Also, you can start the app by tapping once on the watchface (or saying OK Google) and then saying &apos;Start UK Trains&apos;.<br><br>Live data powered by National Rail Enquiries.<br><br>This is NOT an official National Rail app and the developer is not associated with National Rail in any way.",
+    "histogram": {
+        "1": 7,
+        "2": 2,
+        "3": 7,
+        "4": 24,
+        "5": 38
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/fFPWSDvQWbyMeCP1AXG7enuBjWACacCkXQKjYaODM_G-V5EH_1Rdv5P98maaRYN92g=h310",
+        "//lh6.ggpht.com/HYfDa1_stoXm4E9VL5Qjq4MnXnhVBI6FHlmxOBdaNwzBrko3Vek78xLi8N1Mo9jSYkmi=h310",
+        "//lh5.ggpht.com/KkASaX0D7ieTs-JuLfhfi5nJ1vkF5wt18sk6aSAuYCBhBI2mAEvTY3mmUrndW95OJQ=h310"
+    ],
+    "comments": [
+        "Good app but times out often Good app both in terms of the idea and the implementation but it does quite often timeout when retrieving data and the Wear home screen/face automatically displays instead. Not sure if this is the app or a byproduct of the Wear platform. Let me know and I'll re-rate accordingly.",
+        "Often works, could be so much better. Doesn't cache results, so out of data range makes it useless.   Could notify of delays at selected times on selected routes. Could swap the opening station based on time and/or location.   Disappointed that email to developers to suggest an improvement was not answered, even if it is to tell me where to go.",
+        "Was great for a while but it no longer reports platform information as of mid-2105, which was most of what I used it for. I emailed the developer but received no reply. App appears to have been abandoned. I would suggest you avoid it.",
+        "Potentially perfect. Perfect use for smart watches, very disappointing that it doesn't cache results. Becomes useless when you're catching a train from an underground station. Could also actively cache known routes at reasonable times.",
+        "Great if you are above ground Sounds silly but if you are traveling on the tube to station and not on the WiFi then it doesn't sync. Would be handy if the app sync'd and cached train times or showed you the last Sync",
+        "Great app! This is a must have app and makes Android Wear very useful! One thing that I'm missing is the ability to set a work and home location and have it show times based on location, if I could also add the watch screens as widgets on my phone it would be perfect and 5*."
+    ],
+    "recentChanges": [
+        "Fixed layout for square screens.",
+        "Fixed the unremovable Help screen on LG G3 phone (just tap it to remove)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.robotics.wearable.trains&hl=en&gl=us",
+    "appId": "com.robotics.wearable.trains"
+}

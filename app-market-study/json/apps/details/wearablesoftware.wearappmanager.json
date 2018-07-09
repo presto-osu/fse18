@@ -1,0 +1,53 @@
+{
+    "title": "Wear App Manager & Tracker",
+    "summary": "Manage your wearable apps. Track changes via notification cards on watch.",
+    "icon": "//lh3.googleusercontent.com/OlLCqwAuZT8f1a3cOdJmDBDWTtP0-hr25f0d-kFl4asvMNOAXqyWuQrIP6GdcZKQow=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.1,
+    "reviews": 632,
+    "developer": "Wearable Software",
+    "developerId": "9027257451638050761",
+    "developerEmail": "support@wearable-software.com",
+    "developerWebsite": "http://www.wearable-software.com/",
+    "developerAddress": "Wearable Software\nCedric Larrat\nGrötzingerstr. 73\n76227 Karlsruhe-Durlach",
+    "updated": "October 24, 2014",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "With App Tracker you can easily manage your software on the Android Wear device. See details such as storage size or permissions for your apps. Get an overview about installed apps. Quick uninstall apps with one touch. In addition, you can get a notification when apps are installed updated or uninstalled on your smartwatch. Try this tool out for free. Please note: After installation, you should set the settings for the notifications on your watch.Get more apps, games & news with \"Android Wear Center\": http://tinyurl.com/m87stxsFeatures:★ Get an overview about installed apps on your smartwatch★ Uninstall apps★ Open apps on phone★ Open apps on google play★ Permission usage★ Storage usage★ Install notifications★ Uninstall notifications★ Update notifications★ Adjustable NotificationsPlease note:-Make sure your mobile is compatible with Android Wear.-Make sure to pair your phone with the wearable device with help of the Android Wear App if you install the app.Do you have any suggestions for improvement? Any ideas? Any issues with the app? Please let us know.",
+    "descriptionHTML": "With App Tracker you can easily manage your software on the Android Wear device. See details such as storage size or permissions for your apps. Get an overview about installed apps. Quick uninstall apps with one touch. <br><br><br>In addition, you can get a notification when apps are installed updated or uninstalled on your smartwatch. Try this tool out for free. Please note: After installation, you should set the settings for the notifications on your watch.<br><br><br>Get more apps, games &amp; news with &quot;Android Wear Center&quot;: http://tinyurl.com/m87stxs<br><br><br>Features:<br>&#x2605; Get an overview about installed apps on your smartwatch<br>&#x2605; Uninstall apps<br>&#x2605; Open apps on phone<br>&#x2605; Open apps on google play<br>&#x2605; Permission usage<br>&#x2605; Storage usage<br>&#x2605; Install notifications<br>&#x2605; Uninstall notifications<br>&#x2605; Update notifications<br>&#x2605; Adjustable Notifications<br><br><br>Please note:<br>-Make sure your mobile is compatible with Android Wear.<br>-Make sure to pair your phone with the wearable device with help of the Android Wear App if you install the app.<br><br><br>Do you have any suggestions for improvement? Any ideas? Any issues with the app? Please let us know.",
+    "histogram": {
+        "1": 70,
+        "2": 14,
+        "3": 45,
+        "4": 167,
+        "5": 336
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/kIgPWj_ThCZyJZ5d2GtZLxZd0vzxfxt2pBEb0kBwl6td8Kqj1q97_yIUyipt18AZ_At4=h310",
+        "//lh5.ggpht.com/FOmSryK7l0bQqColYHi_ycykOb7ov-KgComIVFAeLxZCBpo-ADEvJ6FB0CW3fTbYNA=h310",
+        "//lh4.ggpht.com/2o88ykuSK3haA0BrRuMdAiCZVL-uB23Hve68XPxE9Mhsshzc2ZdsMIsA6zTAkomWTOg=h310",
+        "//lh4.ggpht.com/3_ZQDZi98GhtyAcDuR3JTejXzR-0RLJ6VuHf7zDLna6pGreSZocR0bMoHFFS9Gm6mA=h310",
+        "//lh5.ggpht.com/mGiKAQZUrKBOHsQedCdV5UKPFW8B9KwbjStYKZUCpqMqQ3gwIzCeIL4pFhxhSYQrLg=h310"
+    ],
+    "comments": [
+        "Worst app ever.  Does not remove apps from the watch, I'm able to uninstall apps from my phone myself thank you very much.  Worse yet, uninstalling this app did not remove it from my watch.  I had to reinstall it and use it to remove itself, which got it off my app list but according to the Android wear app on my phone it's still there taking up memory.",
+        "I don't see the point I downloaded this because it sounded like you could remove apps from the watch , but in fact it completely removes the app from your phone, thereby removing it from the watch. That's not what I wanted. So if it can't remove apps then I don't see any remaining functionality that isn't already there, either on the watch or through Android Wear.",
+        "This is garbage. It doesnt take the app off your android wear watch, it erases it from the PHONE! I wantes the apps on my phone, just not in my watch... fake app that in no way works with android wear",
+        "Just installed it - looks good so far! I got this as I was looking for a way to un-install a game that wouldn't run properly on my Moto360 and I couldn't even find - much less *uninstall* from my phone!  This installed in a flash, and let me kill off the problemmatic game by running it on my phone.  Voila - no more problem!  Thanks!!",
+        "Installed looking for the ability to uninstall Android Wear app versions from my watch, but in fact just completely removes the apps from my phone as well. Need to revise description of app to stop misleading people.",
+        "Does not distinguish between phone I just want specific apps off the watch... and to stay on my phone. It just deletes/adds them to both. Not useful."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wearablesoftware.wearappmanager&hl=en&gl=us",
+    "appId": "wearablesoftware.wearappmanager"
+}

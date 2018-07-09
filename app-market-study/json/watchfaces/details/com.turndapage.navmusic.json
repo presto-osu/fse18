@@ -1,0 +1,58 @@
+{
+    "title": "NavMusic - Wear Music Player",
+    "summary": "An Android Wear music player with built in FTP for easy music transfer.",
+    "icon": "//lh3.googleusercontent.com/G9mGX1rls51ImiTqglbgDjdM6Ynw1yuyG6tmCOBQj0jFJc6ey1ddo2u5_thP-GKm_n4L=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 53,
+    "developer": "TurnDaPage",
+    "developerId": "5304767307318254576",
+    "developerEmail": "joelphilippage@gmail.com",
+    "developerWebsite": "http://turndapage.com/navmusic/",
+    "developerAddress": "PO Box 1080\nTeec Nos Pos, AZ\n86514",
+    "updated": "February 27, 2018",
+    "version": "Varies with device",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "size": "Varies with device",
+    "description": "NavMusic provides the ability to play offline music on your android wear watch with a clear, simple interface. Go on runs or workout without carrying your phone around. Transfer music quickly and easily over WiFi without the need for a companion app or slow Bluetooth. Features:*Downloads album art and artist images*Dynamic now playing screen*Watch face that features album art from your music*Ad free interfaceNOTE: The mobile app is for Android Wear 1 users. It is only for installation purposes and does not appear in the launcher or add any other features to the app.",
+    "descriptionHTML": "NavMusic provides the ability to play offline music on your android wear watch with a clear, simple interface. Go on runs or workout without carrying your phone around. Transfer music quickly and easily over WiFi without the need for a companion app or slow Bluetooth. <br><br>Features:<br>*Downloads album art and artist images<br>*Dynamic now playing screen<br>*Watch face that features album art from your music<br>*Ad free interface<br><br>NOTE: The mobile app is for Android Wear 1 users. It is only for installation purposes and does not appear in the launcher or add any other features to the app.",
+    "histogram": {
+        "1": 10,
+        "2": 1,
+        "3": 2,
+        "4": 10,
+        "5": 30
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/uJd7dq5mMIfdxnNJ6sg22BWtgD44DMCdusgvK7iyTxfqybLoMYD3vg6y5ZVN4V6DOWA-=h310",
+        "//lh3.googleusercontent.com/PbP1E7TLkV7MkEzuk0RZULhhdSf_Txq2HjE1bJmVDiVEyYwHiFCHcXh_hxf3Aa1Lxw=h310",
+        "//lh3.googleusercontent.com/RqIJX8lM87RkE8xvZ3k7xZ5DEOkLhZ0PILYG0jj4G_N2nDhdem1wsNueAY7hnLvuCg8=h310",
+        "//lh3.googleusercontent.com/ql3HivDYfhkipU4nmeC7HUQpuP2ehv4ew4jqergsqsa_eYALsDBzW6qvCDKNSaNXKw=h310",
+        "//lh3.googleusercontent.com/6pTX9eNsa6EBXn8cP_lDPDIx90RADAUnkRon8_4itL9qhseF1fN_PiYonSzMvGC4qlw=h310",
+        "//lh3.googleusercontent.com/ydvBSb1P0ssMqbNsmo1jMHT0_qNfMnf24Xgn1eDSIM5hsHm8AVg6onpYghRlblQUuw=h310"
+    ],
+    "comments": [
+        "Best app out there for local music from the watch - a pair of Bluetooth plugs and then you have all you need without your phone. Way better than Google music which is a mess when it comes to local music in the watch👍",
+        "A decent standalone music player for android wear with a good control interface . Also support earphone's remote control . However , transflective screen support seems missing , hardly visible under bright sunlight . Would be great for better control interface .",
+        "Great way to play offline music. Developer listens for feedback and makes changes!",
+        "App said that it's installed, can't find it on my phone. My watch want me to pay for it again when I try to download it.",
+        "I installed the app it didn't even show up anywhere. On my phone",
+        "Works perfectly, has an FTP server built in that works with more than music. What is there to complain about?"
+    ],
+    "recentChanges": [
+        "Version 1.2.7",
+        "-Fixed downloaded images sometimes loading circular when then shouldn't"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.turndapage.navmusic&hl=en&gl=us",
+    "appId": "com.turndapage.navmusic"
+}

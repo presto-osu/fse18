@@ -1,0 +1,51 @@
+{
+    "title": "EuroBattWatchFace",
+    "summary": "Shows batterylevel and digital clocks.",
+    "icon": "//lh4.ggpht.com/lsBkzNq2svJ6HEVGg3m3rmhH05ybYL4fmDUJ70G7WHr1epteRX4xVvstH5mxPl480_Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 24,
+    "developer": "PacketbirD",
+    "developerId": "6707826260977853860",
+    "developerEmail": "virtually.synqarks@gmail.com",
+    "developerWebsite": "http://www.packetbird.com/",
+    "developerAddress": "Japan\n埼玉県川越市岸町１丁目３１－６１",
+    "updated": "January 4, 2015",
+    "version": "1.0.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "** THIS APP IS DESIGNED FOR ONLY SQUARE WATCH!! **** After Install, Please reconnect to your Watch for enabling Mobile battery monitor **This WatchFace shows Battery-level(both Watch and Phone) , Date and Time.There is no more specs in this Watch Face.",
+    "descriptionHTML": "** THIS APP IS DESIGNED FOR ONLY SQUARE WATCH!! **<br>** After Install, Please reconnect to your Watch for enabling Mobile battery monitor **<br><br>This WatchFace shows Battery-level(both Watch and Phone) , Date and Time.<br>There is no more specs in this Watch Face.",
+    "histogram": {
+        "1": 5,
+        "2": 2,
+        "3": 2,
+        "4": 3,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/ayOPaCe_Cold2xPjw_mfSIvkeQCb2UV64zH78Avq2QO8xUuflkByn8p7kdgR3hrCx-w=h310",
+        "//lh6.ggpht.com/Dt5vD4Zljyct6kwno4zgpHiuIqSIDic2B_OrSOjRZ4IxJr7IUb1OUcB9D50o14lMBQ0=h310",
+        "//lh5.ggpht.com/cfbpiBuPDMHM5XppjO7C8D3BDy12tqjwZ8kXe3Ji4XnxrOG5kT_3hhh40cTg7DtSGdA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Q29eLHlU8a8",
+    "comments": [
+        "Looks great But it doesn't show the battery level of my mobile, I have a Sony Xperia Z5 Premium and the Sony smart watch 3.",
+        "Battery bars are off centered. Moto 360",
+        "I didn't like it."
+    ],
+    "recentChanges": [
+        "Minimize codes and debug loggers."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.packetbird.synqarkclock7&hl=en&gl=us",
+    "appId": "com.packetbird.synqarkclock7"
+}

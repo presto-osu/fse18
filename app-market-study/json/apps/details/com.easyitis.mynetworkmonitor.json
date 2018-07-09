@@ -1,0 +1,58 @@
+{
+    "title": "My Network Monitor",
+    "summary": "Monitor your network connection continuously.",
+    "icon": "//lh6.ggpht.com/_JrhZj4tzO-9IApvk06Z5aFbeZD7_pEkTPF2F-Q3TXV0GB5RpaQpwIHFEJCA392lbQI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 153,
+    "developer": "EASY IT IS",
+    "developerId": "EASY+IT+IS",
+    "developerEmail": "easyitis@easyitis.com",
+    "developerWebsite": "http://www.easyitis.com",
+    "developerAddress": "27 Mountain View Crescent\nWest Pennant Hills NSW 2125\nAustralia",
+    "updated": "August 14, 2016",
+    "version": "1.7.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Ever gone out of coverage and didn't realize?This small and simple utility will ensure that this doesn't happen again. It monitors your network connection (upon request) and notifies you as soon as you lose network connection.NEW!! Android Wear support - now get notified on you Android Watch when your phone goes out of coverage. Handy!NEWER!! Get reminded at reboot to start network monitoring.NEWEST!! Choose to be alerted when network is restored.",
+    "descriptionHTML": "Ever gone out of coverage and didn&apos;t realize?<br><br>This small and simple utility will ensure that this doesn&apos;t happen again. It monitors your network connection (upon request) and notifies you as soon as you lose network connection.<br><br>NEW!! Android Wear support - now get notified on you Android Watch when your phone goes out of coverage. Handy!<br><br>NEWER!! Get reminded at reboot to start network monitoring.<br><br>NEWEST!! Choose to be alerted when network is restored.",
+    "histogram": {
+        "1": 10,
+        "2": 7,
+        "3": 20,
+        "4": 17,
+        "5": 99
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LF52EPCRHWChq4laInqAm5NL1gV2APh-XPvi5MxWCJmDwBUN4b9QwrIL4cr3uJ56sOJ9=h310",
+        "//lh3.googleusercontent.com/AblJHHcVdlmQX_yqu2afUUX0hKDU8bF5WRcadIgYZeYJnpC6r3zttZxHYxnq62BH06c=h310",
+        "//lh3.googleusercontent.com/z3dL8KHm9hlIZmddoqnQFEI7tWsBo_-H_KOGjpiDBSGRUlTBaRw0pJs_SVUTnoq3zw=h310",
+        "//lh3.googleusercontent.com/M7dr79UR8DYtZvsDrzW3F1ZJxAzhyr2krYUv23GYEjbBfdQ4c0b5DT-tINUje0EKgSs=h310",
+        "//lh3.googleusercontent.com/5DE0uonBO8S2nDajdRXLltMyHfsDgrMhri8B2wYOHo_FJ9Um5HM1_hT8rG14ayV3R0hh=h310"
+    ],
+    "comments": [
+        "Useless What??? Absolute junk does nothing",
+        "Works, and very simple.  Beeps when you lose network coverage. Would it be possible to add a notification when cell service is restored? I would like to know when i have service while I am in the rural woods.",
+        "Great app Always doing its job on the background makes connecting stable. Exactly what I was looking for. Recommended.",
+        "Testing.",
+        "Exelent Good",
+        "My network monitor I realy like how this works & does what it says , great app to have , this is a must have , the search stops here , dont pass up this . also FREE , NO ADDS & SAFE . Thank you Ken"
+    ],
+    "recentChanges": [
+        "Choose to be alerted when network is restored.",
+        "Previous changes:",
+        "- Get reminded at reboot to start network monitoring.",
+        "- Android wear support. Now get notified on your Android Watch when you lose network. Handy!!!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.easyitis.mynetworkmonitor&hl=en&gl=us",
+    "appId": "com.easyitis.mynetworkmonitor"
+}

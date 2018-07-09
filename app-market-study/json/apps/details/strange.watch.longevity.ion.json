@@ -1,0 +1,56 @@
+{
+    "title": "SW Battery Monitor for Wear",
+    "summary": "The ultimate battery monitor for Android Wear",
+    "icon": "//lh3.googleusercontent.com/wY42pkF373r54KzF3VBSJGthp-SIqRp8Snwqim4jpzHyCzQ6JQuwN0ATf8tr2d6QRrU=w300",
+    "price": "$3.49",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3,
+    "reviews": 8,
+    "developer": "L.A. Engineering and Design",
+    "developerId": "L.A.+Engineering+and+Design",
+    "developerEmail": "sw@strangewatch.co",
+    "developerWebsite": "http://strange.watch/",
+    "developerAddress": "3 Chaldon Road\nSW6 7NH\nLondon, UK",
+    "updated": "September 16, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Keep tabs on your smart watch battery performance with drain rate monitoring, low-battery warnings in advance and life span predictions. See detailed live statistics on your handheld and wearable displays to track performance over time, and always know way in advance how long your watch battery will last for the day. You’ll never have to go a day without your smart watch again.Low battery life is a known issue with smart watches, and we know that it can be very inconvenient when your watch dies prematurely. Smart watches are part of your lifestyle - and SW ION offers a solution to unexpected battery outages when we need them the least.Here are some of the outstanding features of Strange Watch ION: Energy Monitor:• Smart notifications with predicted life expectancy for the day ahead• See live drain rate, remaining lifespan to compare with your averages• Detailed historical graphs with battery life and temperature in Celsius, Fahrenheit and KelvinDesigned for Android Wear 2.0",
+    "descriptionHTML": "Keep tabs on your smart watch battery performance with drain rate monitoring, low-battery warnings in advance and life span predictions. See detailed live statistics on your handheld and wearable displays to track performance over time, and always know way in advance how long your watch battery will last for the day. You&#x2019;ll never have to go a day without your smart watch again.<br><br>Low battery life is a known issue with smart watches, and we know that it can be very inconvenient when your watch dies prematurely. Smart watches are part of your lifestyle - and SW ION offers a solution to unexpected battery outages when we need them the least.<br><br>Here are some of the outstanding features of Strange Watch ION: Energy Monitor:<br><br>&#x2022; Smart notifications with predicted life expectancy for the day ahead<br>&#x2022; See live drain rate, remaining lifespan to compare with your averages<br>&#x2022; Detailed historical graphs with battery life and temperature in Celsius, Fahrenheit and Kelvin<br><br>Designed for Android Wear 2.0",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qW-aPOwng7jdekM9saIPy1NXyueH1DWWXA33WghQqY0d6OVBYd9DGcad8JGc2PVBfQ=h310",
+        "//lh3.googleusercontent.com/zK5puyJ5NgHP2sb5qKO0O_-OgsVdr_zya-8NiL2ARh-3xxSnyeLE1XS-64Tf6KKlKkA=h310",
+        "//lh3.googleusercontent.com/UH8HNXvFAOCCw96NF3wi9-98SIRYBzfLkrneREafkPB_SqAZr8vSEsveX-2dTpKfB5EY=h310",
+        "//lh3.googleusercontent.com/uUYYhZLFg9AMpKIT61jUaGe-GoXLtQFtqnO6U7hgsHVGxxEOisRvDavAGM6ZyYpMjA=h310",
+        "//lh3.googleusercontent.com/yqYhCpFxowLzGWDCagP6wVF1FUaLDnRp854yudQLWtkW_cRP5qOR63ArVTcXLYr4QFJI=h310",
+        "//lh3.googleusercontent.com/55n-Zojb1oFUxRvZIe_B-lO8Q7GxqehjCVlQ8B9ki3bd3PBvmxndFTtpM_OTzkNFL0Q=h310"
+    ],
+    "comments": [
+        "Does not work on my Verizon Wear24. It only says battery statistics will be available shortly. UPDATE: I bought it again and waited well over an hour. There are still no stats and now I have no Refund button. Tried with Wear 2.8 & now 2.9.",
+        "Doesn't even open on LG Style Oreo, AW 2.9. Update:  Thanks for the quick response dev. Let me know if I can help troubleshoot.",
+        "Amazing App.  I was having troubles with the battery life of my Huawei Watch 2 and with this app it vastly improved!",
+        "Great app to keep track of the watch battery status",
+        "this app is garbage especially for the price, it won't even open"
+    ],
+    "recentChanges": [
+        "* Monitoring improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=strange.watch.longevity.ion&hl=en&gl=us",
+    "appId": "strange.watch.longevity.ion"
+}

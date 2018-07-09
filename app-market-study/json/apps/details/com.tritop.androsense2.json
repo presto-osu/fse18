@@ -1,0 +1,60 @@
+{
+    "title": "Androsens 2",
+    "summary": "Androsens 2 a fresh new Sensors Toolbox for free. Open source license!",
+    "icon": "//lh6.ggpht.com/6fqWcx9cB3Q71oTtze-WPUJmAUu4rw524lSVnvYy2R5F8gNbERXVFS36EgePEMVesg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 45,
+    "developer": "Christian Schneider",
+    "developerId": "Christian+Schneider",
+    "developerEmail": "christian.d.schneider@googlemail.com",
+    "developerWebsite": "http://twitter.com/androidtritop",
+    "updated": "December 14, 2014",
+    "version": "1.95",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Good things only get better, the long awaited sequel to Androsens the best free sensor toolbox has arrived. Androsens 2 displays all available sensor and GPS information for free and it supports android wear devices now! See all of your device sensors in action, regardless of vendor (Bosch, Qualcomm, AKM, Avago). You will see live sensor data creating dynamic charts. Gyroscope, light, acceleration, barometer and many more sensors can be displayed. Every Sensor your device has can be viewed. Track visible GPS and GLONASS satellites in range, for FREE. View GPS NMEA data. Everything you wanted is right here, right now! And as a bonus you can also log every piece of data to your sdcard for later analysis. The logged data is a nice start for comparing sensor/gps capabilities of different phone manufactors. The best sensor tracker is back, once again for free, for you, for fun! Now you can compare the gps capabilities of your device with your friends. This GPS satellite data can be exported to csv files on your sdcard. Its adfree and its open source! GPL v3 https://code.google.com/p/androsens2/What sensors are tracked? Thats simple to answer: all!- accelerometer- light sensor- gravity- magnetic field sensor- pressure (barometer)- orientation sensor- proximity sensor- linear acceleration- rotation vector- step detector- significant motion detector- geomagnetic rotation vector- gps- and much much more",
+    "descriptionHTML": "Good things only get better, the long awaited sequel to Androsens the best free sensor toolbox has arrived. Androsens 2 displays all available sensor and GPS information for free and it supports android wear devices now! See all of your device sensors in action, regardless of vendor (Bosch, Qualcomm, AKM, Avago). You will see live sensor data creating dynamic charts. Gyroscope, light, acceleration, barometer and many more sensors can be displayed. Every Sensor your device has can be viewed. Track visible GPS and GLONASS satellites in range, for FREE. View GPS NMEA data. Everything you wanted is right here, right now! And as a bonus you can also log every piece of data to your sdcard for later analysis. The logged data is a nice start for comparing sensor/gps capabilities of different phone manufactors. The best sensor tracker is back, once again for free, for you, for fun! Now you can compare the gps capabilities of your device with your friends. This GPS satellite data can be exported to csv files on your sdcard. Its adfree and its open source! GPL v3 https://code.google.com/p/androsens2/<br><br>What sensors are tracked? Thats simple to answer: all!<br>- accelerometer<br>- light sensor<br>- gravity<br>- magnetic field sensor<br>- pressure (barometer)<br>- orientation sensor<br>- proximity sensor<br>- linear acceleration<br>- rotation vector<br>- step detector<br>- significant motion detector<br>- geomagnetic rotation vector<br>- gps<br>- and much much more",
+    "histogram": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 11,
+        "5": 25
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/IC_UpGzkMeK37uhv0428jofG59VgevujvE613GXmv62vT3ApsbEvaMm1qfTE4qqPiQ=h310",
+        "//lh5.ggpht.com/jbhCGRlgB6SwJtZ0rm_afDavWFNBMPrWV1BEazagmrXaz_H7UvVMOfihK0Qnfn9pRL0=h310",
+        "//lh6.ggpht.com/KiM3iTA1UTpzaSuwpK4fQMW0zR3Sa7pVuGM19L2WKsbvjHqz0pdeMLZVdvr6Gv0Hwxs=h310",
+        "//lh6.ggpht.com/-ChbPPCQBLFTGKrwqeJvLsE5ffFeYJuXB8NUNKyyvGihGoRpkGamFF09wgWb_VvKKB0p=h310",
+        "//lh3.ggpht.com/tVdCVbVAz7CHezCdOJ1_cvDBkiWR1e3Um_MM_ykpKUgs92A5sjfiogYkbKMCTd5WOrlk=h310",
+        "//lh3.ggpht.com/_XU-9lohuiX4Ufg8pakczdVqISa3UQ7X8sRroqssuMfkUKdhvgZ_j6hGP0M0UtmQxg=h310",
+        "//lh6.ggpht.com/_gAICErp1qu5Dc1dkMerC6iDR-ReRWgkZ5k88osAF4p6snC1HI99ZkHuDIq6hULeFuk=h310",
+        "//lh3.ggpht.com/zivgFvB6Vx78NXhDajGMMf2XhQgUC4vLLreF-7vhgorAsOjaKMrgYZt_PTDrp2NhIg=h310",
+        "//lh6.ggpht.com/inWEFfPzjZNwNkRRR31Rns0MRrfC4vUBgJ-UgXJDCcgtSiXmxy2gkqxr6TDNGN0vq48=h310",
+        "//lh3.ggpht.com/22cLTlfcFd2CjOk2RMX2ZtRZe5TnwXPctbYe3lH14TKmMMGPhOCR5a__2KL-UQW3fw=h310",
+        "//lh4.ggpht.com/Kz9fOPn3wq5BcifmG93yUiklXkeQ7RRzRTEFxe_McTtTdTJ6i9jlYdqaTh7uwo0u34U=h310"
+    ],
+    "comments": [
+        "Promising and useful app for researchers. One table for each sensor and GPS table structure are just great: clean and organized. However, if missed some features: collect data in background, multi-sensor logging, settings for data collection rate and maybe window size. I suggest to move the \"Log\" buttons to the first screen (the would work as check-boxes) and one START button to initialize the data collection.",
+        "Promising, needs enhancements. Such as displaying multiple sensors data at once, graphs should have X time base options, left menu sidebar would be useful, esp. with record/stop buttons. For now Androsensor has far better ui and functionality.Although here graphs and GPS NMEA are unique features. Also not all possible sensors are used.",
+        "Great app! Could you enable storing log from android wear devices as well?",
+        "Loved in it's day, but needs serious updating.",
+        "Star N9599T Better than 'classic' version in that it displays GPS, but the accelerometer display rotates & resets display type as I roll phone around to test g-sensors.  [Update 15May2014] graphs still resetting with screen rotation :-(",
+        "A great improvement! This new version is much better. The scrolling display is easy to read, and the GPS feature is fun. My only complaint is that the zooming feature does not zoom about the origin, but rather about the middle of the plot. So if the data ranges from 1 to 10 and the plot is from 0 to 1000, zooming gives me a window from 450 to 550, which is not particularly helpful. Platform:Nexus5/android4.4(KitKat) sensors affected: magnetometer, accelerometer."
+    ],
+    "recentChanges": [
+        "+ Android wear support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tritop.androsense2&hl=en&gl=us",
+    "appId": "com.tritop.androsense2"
+}

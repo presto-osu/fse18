@@ -1,0 +1,55 @@
+{
+    "title": "Advanced Settings for Watch",
+    "summary": "Free settings app for Android Wear.",
+    "icon": "//lh3.googleusercontent.com/s6GGsJrr0PulZPVi9fTRVUglqOX20aK1_Z5qXUn-xdwMci_omwz5RsXDmyztFN8H6w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 1127,
+    "developer": "Emil Suleymanov",
+    "developerId": "Emil+Suleymanov",
+    "developerEmail": "suleymanovemil8@gmail.com",
+    "developerAddress": "c/o Mandel\nLinus-Funke-Weg 26\n80995 Munich\nGermany",
+    "updated": "February 2, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "NOTICE: I'm just an enthusiast student so I'm working on this app when I have time. App is buggie and not all features work on all devices.WARNING: For some reason, sometimes it takes hours for app to install on watch, so please, be patient. Thank you. Advances settings for Android Wear devices. Root access is required for most features to work. What you get (marked with R require root access):-Vibration intensity changing (R)-Installed apps information-Running apps information-Disabled apps list-Removing apps from watch(without phone or PC) (R on older versions, might work without it as well)-Installing apps on watch(without phone or PC, but you need to install some file manager) (R)-Disabling system apps (R)-Change screen timeout(affects only in-apps timeout, does not affect main screen timeout)-Wider brightness settings-Alert on disconnect from phone-Bluetooth settings-Wi-Fi settings(if supported)-Wake on touch changing (R)-Date & time settings (R)-System language changing (R)-Change main screen's timeout(requires Pro Plugin)-Unpair with parent device(R)(requires Pro Plugin)-LCD density(R)(requires Pro Plugin)-On theatre mode launch app-CPU Settings (governor, minimal and maximal frequency) (R)Pro Plugin - https://play.google.com/store/apps/details?id=sssemil.com.screensavertimeoutplugin Want to see it in your language? Help with translation - https://www.transifex.com/sssemil/advanced-settings/Found some bugs? Want some new features? Submit here - https://github.com/sssemil/wear_AdvancedSettings/issuesAlso it's opensource, so feel free to fork/edit/commit code - https://github.com/sssemil/wear_AdvancedSettings",
+    "descriptionHTML": "NOTICE: I&apos;m just an enthusiast student so I&apos;m working on this app when I have time. App is buggie and not all features work on all devices.<br><br>WARNING: For some reason, sometimes it takes hours for app to install on watch, so please, be patient. Thank you. <br><br>Advances settings for Android Wear devices. Root access is required for most features to work. <br><br>What you get (marked with R require root access):<br>-Vibration intensity changing (R)<br>-Installed apps information<br>-Running apps information<br>-Disabled apps list<br>-Removing apps from watch(without phone or PC) (R on older versions, might work without it as well)<br>-Installing apps on watch(without phone or PC, but you need to install some file manager) (R)<br>-Disabling system apps (R)<br>-Change screen timeout(affects only in-apps timeout, does not affect main screen timeout)<br>-Wider brightness settings<br>-Alert on disconnect from phone<br>-Bluetooth settings<br>-Wi-Fi settings(if supported)<br>-Wake on touch changing (R)<br>-Date &amp; time settings (R)<br>-System language changing (R)<br>-Change main screen&apos;s timeout(requires Pro Plugin)<br>-Unpair with parent device(R)(requires Pro Plugin)<br>-LCD density(R)(requires Pro Plugin)<br>-On theatre mode launch app<br>-CPU Settings (governor, minimal and maximal frequency) (R)<br><br>Pro Plugin - https://play.google.com/store/apps/details?id=sssemil.com.screensavertimeoutplugin <br><br>Want to see it in your language? Help with translation - https://www.transifex.com/sssemil/advanced-settings/<br><br>Found some bugs? Want some new features? Submit here - https://github.com/sssemil/wear_AdvancedSettings/issues<br><br>Also it&apos;s opensource, so feel free to fork/edit/commit code - https://github.com/sssemil/wear_AdvancedSettings",
+    "histogram": {
+        "1": 93,
+        "2": 57,
+        "3": 150,
+        "4": 243,
+        "5": 584
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/aa7mPUf476RfUHfirbtKd-BqFBWESFVECHx2VlcgskCrL09rpdKqlIm0yFJREgrllks=h310",
+        "//lh3.googleusercontent.com/k-hJAxFIS3nwZtiOYJ_Myh2DgC3PC3eZUXcEiQAhyrhqtobqBGBCFvNgJ2W6RS-IBL0=h310",
+        "//lh3.googleusercontent.com/lPoM13MJdALtscjoCKhsn8UhoB5Z-avoNdT9yqGWPAxwltcfDzpPzfp9sSvyUIbK7vc=h310",
+        "//lh3.googleusercontent.com/2Qq64j5xgL8Lr7izmp4JV1lFg_AjeD8Q9WDvKIxIW-6OaEn5KjNXV6OH7JD0f_H2waQ=h310",
+        "//lh3.googleusercontent.com/sujzn3eQ1MUpkMm-QdVZOg518xYS-QzznMyY6wVkQ0gXvdAC3zuasEcw-6Zz0rp64Q=h310"
+    ],
+    "comments": [
+        "Needs a little work. After i change a setting it just ends up reverting to the default setting.",
+        "Only  rooted watch",
+        "Good apps",
+        "Awesome",
+        "By any chance Could you implement some form of rooting watches which require a hardware root?",
+        "Nice access to extra settings Works without root for those who don't have it, just missing a couple settings which route is necessary to access"
+    ],
+    "recentChanges": [
+        "- Support Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sssemil.advancedsettings&hl=en&gl=us",
+    "appId": "com.sssemil.advancedsettings"
+}

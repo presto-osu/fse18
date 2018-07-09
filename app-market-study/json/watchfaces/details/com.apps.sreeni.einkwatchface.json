@@ -1,0 +1,50 @@
+{
+    "title": "epaper watchface minimal",
+    "summary": "A clean, minimal e-paper style analog watchface.",
+    "icon": "//lh4.ggpht.com/S3CNoCR06gguD8ZhrANpBKpGkitbQpbO4xJyQ6QkqejCY101rrbNnRARFe9ilj196JU=w300",
+    "price": "$1.00",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "A Little Spark",
+    "developerId": "A+Little+Spark",
+    "developerEmail": "snaikdev@gmail.com",
+    "developerAddress": "201,\nSagar Courts,\nMangalore - 575006",
+    "updated": "April 30, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A clean e-paper style watchface. Modern yet classy. Looks great on both round and square watches.Configurable - go for the full experience with dial markings and date display or opt for the super minimal look.Configure: 1. Dial markings2. Date display3. Show/hide dial markings when dimmedNeeds Android Wear 5.0+Minimal battery consumption and optimized!Disclaimer: This application is provided as-is and is not guaranteed to work on future devices. Please try out all features on your watch as soon as you buy. Thank you!",
+    "descriptionHTML": "A clean e-paper style watchface. Modern yet classy. Looks great on both round and square watches.<br><br>Configurable - go for the full experience with dial markings and date display or opt for the super minimal look.<br><br>Configure: <br>1. Dial markings<br>2. Date display<br>3. Show/hide dial markings when dimmed<br><br>Needs Android Wear 5.0+<br>Minimal battery consumption and optimized!<br><br>Disclaimer: This application is provided as-is and is not guaranteed to work on future devices. Please try out all features on your watch as soon as you buy. Thank you!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/tkqRtVZgS8_6dD6bYJMp1F8c4Igb1-7F-fij-pZrJ4rCga0MkFkob_JQTZIVDMGWjXue=h310",
+        "//lh4.ggpht.com/wg-oLQhfFYPq_iNrDjUUwzhBCMazeytuABpesNHe3o0EN8cdO_07cvzdFkDR1HoNxBw=h310",
+        "//lh4.ggpht.com/3-_W7-4Np7qvhTYAx5fEXjM51_IRzN0KKRK6znPOdaDDwy3HwWXaLyl1NSA8osAdRa86=h310",
+        "//lh3.ggpht.com/Lk83Lb3eHJzTFcjOFVBxP0oW6zUYoo7eRZ5Fw9jpvAxFnr_SicyiMlxjhrTXXf7lOz_U=h310",
+        "//lh5.ggpht.com/AbS02gW55pnnSVpBDrVdxSEeArgoqGiohB4hVtSRRURc14ThJEhwlx9qYPATTVwycpfL=h310",
+        "//lh4.ggpht.com/1vK7mhIZajAnCnGzPfjHSqN-I8wbdonYXQWwqF9DPtS6v0-uPff2-nmh-aICq9HRug=h310",
+        "//lh4.ggpht.com/Ko5Kl8BIrqajl5WcfZbtMYObRc4WDa9bt66VEnQ7CED5z-pWLT0FKDuXTqbbuOK3ffI=h310",
+        "//lh3.ggpht.com/sEEp-aQnA7LAbhWrPPkrWOXE6_RTXP4YUeF9pUfPtLs2GHhHxSGo3ZeIV0Uacji1lyQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Major bug fix - watch was not updating when interactive."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.apps.sreeni.einkwatchface&hl=en&gl=us",
+    "appId": "com.apps.sreeni.einkwatchface"
+}

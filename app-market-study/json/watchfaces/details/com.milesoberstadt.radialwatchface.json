@@ -1,0 +1,61 @@
+{
+    "title": "Radial Watch Face",
+    "summary": "Radial Watch Face is a simple watch design that shows the time with bars.",
+    "icon": "//lh6.ggpht.com/26SMmeLZFSS7_TKoBXtm24-Dn-6ViYf3lPE9DtfBOWewf6M0d5UNBa3XASu5LPm3Cw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 229,
+    "developer": "Miles Oberstadt",
+    "developerId": "Miles+Oberstadt",
+    "developerEmail": "miles.oberstadt@gmail.com",
+    "developerWebsite": "http://miles-oberstadt.com",
+    "developerAddress": "Miles Oberstadt\n1503 Flat Road\nHolmen, WI 54636",
+    "updated": "November 23, 2015",
+    "version": "1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Finally, a simple watchface that shows the time with round bars. I designed this watch because I was tired of my Google Now cards coming up and blocking the time on so many beautiful watch faces, making them unusable. I added a slight angle to the watch numbers so you can see them when you lift your wrist but don't bring it directly in front of your face.I searched a bit on the Play Store for an app that allowed you to display the time in a simple manner like this, but couldn't find anything that wasn't busy or trying to do too many things, so I made my own, I hope you like it!Tested with my Moto 360, it SHOULD display nicely on other watches, let me know if there are display issues.This project has been rewritten to use the Android Wear Watch Face API, this does break compatibility with Wear devices that aren't updated to 5.0W. Hopefully this isn't an issue as everyone should have gotten that update about a week ago, but let me know if this doesn't work for you.Possible future features:Editable time angleKeywords: Android Wear, Circle Watch, Watchface",
+    "descriptionHTML": "Finally, a simple watchface that shows the time with round bars. I designed this watch because I was tired of my Google Now cards coming up and blocking the time on so many beautiful watch faces, making them unusable. I added a slight angle to the watch numbers so you can see them when you lift your wrist but don&apos;t bring it directly in front of your face.<br><br>I searched a bit on the Play Store for an app that allowed you to display the time in a simple manner like this, but couldn&apos;t find anything that wasn&apos;t busy or trying to do too many things, so I made my own, I hope you like it!<br><br>Tested with my Moto 360, it SHOULD display nicely on other watches, let me know if there are display issues.<br><br>This project has been rewritten to use the Android Wear Watch Face API, this does break compatibility with Wear devices that aren&apos;t updated to 5.0W. Hopefully this isn&apos;t an issue as everyone should have gotten that update about a week ago, but let me know if this doesn&apos;t work for you.<br><br>Possible future features:<br>Editable time angle<br><br>Keywords: Android Wear, Circle Watch, Watchface",
+    "histogram": {
+        "1": 13,
+        "2": 16,
+        "3": 34,
+        "4": 57,
+        "5": 109
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/5t-JHUZx_wcpImnnGrlvMuwqskX4JAMrEsis5mrhJ1zeMhFupbJcBB1ttcFt4233nA=h310",
+        "//lh6.ggpht.com/WT9j78A-0ggc89U31Cj4QibdvlONvMcd4LTZfGLGSwH5o93PZkpE-yCa6Z91BpmJSA=h310",
+        "//lh3.googleusercontent.com/ahM5EDXoqtmnYiifgY55HXQPui7rRgCc7YiyKMBgGRbtdCvXlpimv6u8fPHAqg3iMck=h310",
+        "//lh3.googleusercontent.com/5Kxuf65rQHy_mL9ytVtlV-eFZPUuOqqFmdV6gsC1Uu-Rp6EaqZeiuRof7N5zipLhPQ=h310",
+        "//lh3.googleusercontent.com/HiL4Qsn0LbspbxdDxHzfdc6SiyDY3neWL0ofPJoxYfYvt_KS4DhNc2yABWWsSbm1KVg=h310",
+        "//lh3.googleusercontent.com/gfks651vRZaxLilwXRW0IpKJglawa8MfDjZy5YXlFLuYV9a4ctu5cM7DH8oqu_FjzQ=h310",
+        "//lh3.googleusercontent.com/330yVD7xIqfLB2BefV_GW9NNgGJ-0QkHcvH1DYJ5SaXWlubuOhVg1ApqA30XkkHJrXI=h310",
+        "//lh3.googleusercontent.com/L4nEMU7vELBqx2FvzU64j7CqaIp54EO-G-0iPngDEXrTZezkwBSVku2K9l2U8ZGoVQU=h310"
+    ],
+    "comments": [
+        "New Version Crashing on Open The latest release crashes on open on my Nexus 5X. Otherwise I absolutely love the design and get many compliments on it. Will donate as soon as I can open the application. And also rate a 5 after it works again. Thanks! = ) update: uninstalled old version and reinstalled and it now works. Hope that helps others with issue.",
+        "favorite face nice & neat watch face. lots of settings to adapt it to your taste. when I bought my smartwatch I first thought I would setup a real expensive looking face. but what is the point. this is new technology and this face suits it better. nice work. please donate to the guy! :-)",
+        "I had a watch face like this with stock wear 1.5, the darn thing disappeared in 2.0! This is a close enough facsimile, and I get to tweak the colors, which is nice.",
+        "Great but new update crashes The watch face is great however the most recent update causes it to crash of my htc one m8.",
+        "Venera A SPLENDID WATCH FACE.  It's greatly appreciated that you finally included the option to make the text bigger. I can now easily read the time. You've earned all five 🌟 🌟 🌟 🌟 🌟 for the most beautiful watch face. Keep up the good work!",
+        "Simple but great, please donate Superbly simple. not just in its design but also in the customizable options interface"
+    ],
+    "recentChanges": [
+        "New Features:",
+        "Customization options for text angle.",
+        "Added option for disabling seconds and reversing the order of the rings.",
+        "Added a donate button for users interested in donating."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.milesoberstadt.radialwatchface&hl=en&gl=us",
+    "appId": "com.milesoberstadt.radialwatchface"
+}

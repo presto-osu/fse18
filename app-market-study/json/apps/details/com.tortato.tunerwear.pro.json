@@ -1,0 +1,57 @@
+{
+    "title": "Tuner Wear Pro",
+    "summary": "Tuner app for any music instrument, simply and accurately. Works on smartwatches",
+    "icon": "//lh3.googleusercontent.com/1s4lxO1wgajtK0zv0bgwD9qCYx6_JevJgrTxM9vX7L-uK41wMrUDjvO1S1xfElmrjAs=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.2,
+    "reviews": 4,
+    "developer": "TORTATO",
+    "developerId": "TORTATO",
+    "developerEmail": "atendimento@tortato.com",
+    "developerWebsite": "http://www.tortato.com",
+    "developerAddress": "São Paulo - SP - Brazil",
+    "updated": "September 17, 2017",
+    "version": "1.1.2-plus",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "PRO = With no Ads. Tuner Wear use your device microphone record and convert the sounds to frequency to the nearest note for quick and easy tuning of your prefered instrument.Works on guitar, twelve string's guitar, bass, ukelele, violin, cello, viola, double bass, piano, harp, sitar, guqin, biwa, shamisen, sanshin, konghou, koto, etc...Features:- Two decimal precision;- Color dynamic scale, the green is used as the note reaches;- Sensitivity auto-adjusted;- Recognizes each of the twelve chromatic (semitone) steps of the equal-tempered scale (C, C#, D, D#, E, F, F#, G, G#, A, A#, B);- Works on your smartwatch :-) Future features:- Temperaments;- A4 calibrate;- Sensitivity manual ajusts;- Color ajusts;- Sound samples;- Standard tunnings of most popular instruments;",
+    "descriptionHTML": "PRO = With no Ads. <br><br>Tuner Wear use your device microphone record and convert the sounds to frequency to the nearest note for quick and easy tuning of your prefered instrument.<br><br>Works on guitar, twelve string&apos;s guitar, bass, ukelele, violin, cello, viola, double bass, piano, harp, sitar, guqin, biwa, shamisen, sanshin, konghou, koto, etc...<br><br>Features:<br><br>- Two decimal precision;<br>- Color dynamic scale, the green is used as the note reaches;<br>- Sensitivity auto-adjusted;<br>- Recognizes each of the twelve chromatic (semitone) steps of the equal-tempered scale (C, C#, D, D#, E, F, F#, G, G#, A, A#, B);<br>- Works on your smartwatch :-) <br><br>Future features:<br><br>- Temperaments;<br>- A4 calibrate;<br>- Sensitivity manual ajusts;<br>- Color ajusts;<br>- Sound samples;<br>- Standard tunnings of most popular instruments;",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/RgnOaEOjJd_8dcQE2JGZEQif5pmq53V95AzkC_p0gOw2qsnm2LAvjJheDf2fB02R-GM=h310",
+        "//lh3.googleusercontent.com/T3Tm8f2SrAXtWqmSJ9rRGC12Qte4b6aJCW8G8VPbBS-m2CnYFj0g94EmZNe3BC0g9qoM=h310",
+        "//lh3.googleusercontent.com/8w8nmdHJ3LtsyMmouILtT8ZD3dPuME_16xUxMzZzF_aIYs12doAHAVSyMfWTqgerUxjy=h310",
+        "//lh3.googleusercontent.com/gDGVOdv4_0KUb1hdlN5UpoXO7ScqICwLvZW1Flc_aUvrNr0S4MF6AW6udEi3nVJ8vUA=h310",
+        "//lh3.googleusercontent.com/UhKXOFv8EGyZjby8R862u_PC4tAgbyFh7z9vP5-6FrEmimGHrFlfsTqBo8pelW2rmOQ=h310",
+        "//lh3.googleusercontent.com/QBrsHzk9a7oytrAsM1qPSojCSdi041Mx-P6opVjZz-ypkHIvpHw57HCkRaAC0QKwHcHt=h310",
+        "//lh3.googleusercontent.com/IzDyI_Dhp5QVJzDr7Yu04lAdPUrhFevVXqM6CCeaIWuqgs1rVwUsFetJzTkkqmMCAGE=h310",
+        "//lh3.googleusercontent.com/_x1lHtUlqMF5L2mj0FjZlTsLtM7cZnPskRr0ngH5gG40h2UJnAuJlbpcg2XaaWGk8F4=h310",
+        "//lh3.googleusercontent.com/mgJwnWIBDrAtWIpmrZjJGy65plAwqKSRP6h8b7Ib-ToqqsrjJaRE9XIDB4QZdCtQzDU=h310",
+        "//lh3.googleusercontent.com/JEBO7CwxKSk4ds2k8Rj-D8dyMpump9T0kvkUatZtNrXyEXVNHq0Cvg3BxNFvdatXzw=h310",
+        "//lh3.googleusercontent.com/R2cjLXzrRosO__TjLCaP6fX7hklnC9BmQtxxMipTcOuXnushbXYf9TH4cKXzsWtRR9I=h310",
+        "//lh3.googleusercontent.com/wfqTgrkmOlQhiyRyEAe1s6xUhyvtZgzkGe7LEshDVsZbhNxqZRyRHrW6G_sK8UXg81Db=h310"
+    ],
+    "comments": [
+        "There is no way to calibrate the tuner. There aren't any adjustable settings and so I can't calibrate the tuner to the frequency I use. I received no response from the developer when inquiring how to enter settings."
+    ],
+    "recentChanges": [
+        "- Bugs fixed on older devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tortato.tunerwear.pro&hl=en&gl=us",
+    "appId": "com.tortato.tunerwear.pro"
+}

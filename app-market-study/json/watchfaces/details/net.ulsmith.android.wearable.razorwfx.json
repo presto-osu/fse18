@@ -1,0 +1,54 @@
+{
+    "title": "razorWFX Sport Watch Face",
+    "summary": "Analogue watch face with auto night mode, battery saving and sport colour choice",
+    "icon": "//lh3.ggpht.com/Eveanpo266E7fR0LNu4oDaKVGEt7UlRzE15-vzGKTq9vuTdMXNxiS0kz9Epgoz-coRU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 10,
+    "developer": "ulsmith",
+    "developerId": "ulsmith",
+    "developerEmail": "support@ulsmith.net",
+    "developerWebsite": "http://ulsmith.net",
+    "developerAddress": "Loughborough, UK",
+    "updated": "April 21, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Android wear analogue watch face for round and square watches. razorWFX has an emphasis on battery saving, ensuring you only perform the actions needed when running the watch face, this ensure a good battery life when using this watch face. razorWFX is a variation on the razorWF face giving the user a more sporty look and the ability to custom set between 7 colours.Screen burn is also addressed with this watch face by ensuring limited display in ambient mode that is adjusted by standard to alleviate burn in on POLED screens found with some watch faces.razorWFX comes with a premium analogue watch face feel, with day of month, battery levels for both phone and watch and sms message counter, configurable from the watch or the phone.Night mode is also included, calculating night time based on your approximate location and current time, lowering the intensity automatically at night to save power and reduce glare. In addition to night mode, there is also a night glow feature that glows the watch face highlights green at night, simulating a glow in the dark watch face.Giving the user configuration both on the phone and the watch, the user can alter the way the watch face works to suit their needs:-* Logo Text in Interactive Mode* Night Mode (dim at night automatically base on last known location)* Night Glow (requires Night Mode on, automatically glow highlights green at night)* Watch Battery Level in Interactive Mode* Phone Battery Level in Interactive Mode* Date in Interactive Mode* SMS message count in Interactive Mode* Date in Ambient Mode* Ticks in Ambient Mode* Colour setting of the dialsrazorWFX gives you a balance of both genuine premium feel and a good battery life.",
+    "descriptionHTML": "Android wear analogue watch face for round and square watches. razorWFX has an emphasis on battery saving, ensuring you only perform the actions needed when running the watch face, this ensure a good battery life when using this watch face. razorWFX is a variation on the razorWF face giving the user a more sporty look and the ability to custom set between 7 colours.<br><br>Screen burn is also addressed with this watch face by ensuring limited display in ambient mode that is adjusted by standard to alleviate burn in on POLED screens found with some watch faces.<br><br>razorWFX comes with a premium analogue watch face feel, with day of month, battery levels for both phone and watch and sms message counter, configurable from the watch or the phone.<br><br>Night mode is also included, calculating night time based on your approximate location and current time, lowering the intensity automatically at night to save power and reduce glare. In addition to night mode, there is also a night glow feature that glows the watch face highlights green at night, simulating a glow in the dark watch face.<br><br>Giving the user configuration both on the phone and the watch, the user can alter the way the watch face works to suit their needs:-<br><br>* Logo Text in Interactive Mode<br>* Night Mode (dim at night automatically base on last known location)<br>* Night Glow (requires Night Mode on, automatically glow highlights green at night)<br>* Watch Battery Level in Interactive Mode<br>* Phone Battery Level in Interactive Mode<br>* Date in Interactive Mode<br>* SMS message count in Interactive Mode<br>* Date in Ambient Mode<br>* Ticks in Ambient Mode<br>* Colour setting of the dials<br><br>razorWFX gives you a balance of both genuine premium feel and a good battery life.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 4,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/t4UM3WELjmhZ8oEI-zC3JWcyYVURNMFy0z_c8iiooI0OhYoIODbsLMMeloXD-VEGGVQ=h310",
+        "//lh6.ggpht.com/uUK8Sdsw_o0DGmOKGeLsWwxEN_waNjrEBjVAexqCqwl1tke4nObcY6QxcQgvr_6Oig=h310",
+        "//lh6.ggpht.com/WXCfso8rsLibrqV9LoVXli2jd5T2ym1T8tASEWhltKsOhUHU-ThDKCUeEzb0JtXs8go=h310",
+        "//lh6.ggpht.com/tMCG3BD2qvOIhvjqGxwPzD6S61Xg16zffaaYJOoaRmbXolB0cNHuC7wA6OsqcErdb6Rx=h310",
+        "//lh4.ggpht.com/83qzoz9qsQUXklSPzRsixSe0WuTt2GDuQCM59N83ns57WvmBqLfExE-Dd09tflPKZyE=h310",
+        "//lh4.ggpht.com/Bo0R6f8_nRWkRTyv2_EkJGYvyXrJQdnGjMKl9AyHuZqdThIKML8dW4r1yqOH2Khv23QF=h310",
+        "//lh3.ggpht.com/K04isZom4vawY8AX2sDxnW1F3WPoIkx-rpqR0WL9N34Aiv-QKwdRVoeskCvhsMUjtw=h310",
+        "//lh6.ggpht.com/7h7RPC3j876h5MAjpc_6_xKujcQSqjr8ixkIIwi3T1coq8m_ewjOirJOm735FSwL0A=h310"
+    ],
+    "comments": [
+        "Love it Would be 5 star but dials are misaglined. Moro 360 2nd Gen",
+        "Good but.. The dials don't seem to be aligned with the color overlapping. Moto 360."
+    ],
+    "recentChanges": [
+        "Fixed issue with dial colour slightly out of place. Sorry for the delay in fixing."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.ulsmith.android.wearable.razorwfx&hl=en&gl=us",
+    "appId": "net.ulsmith.android.wearable.razorwfx"
+}

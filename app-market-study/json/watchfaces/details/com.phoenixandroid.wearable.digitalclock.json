@@ -1,0 +1,57 @@
+{
+    "title": "Digital Clock Watchface",
+    "summary": "Digital Clock - a watchface for Android Wear",
+    "icon": "//lh4.ggpht.com/XSQ_jq35aABa53rhpAnNZliM5kh_QwDgqB68DRmI5ycrSvarZOFjAxJMkLRYBAS0RsiV=w300",
+    "price": "$1.01",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.5,
+    "reviews": 4,
+    "developer": "A.Bratfisch",
+    "developerId": "A.Bratfisch",
+    "developerEmail": "duskman72@gmail.com",
+    "developerAddress": "Andreas Bratfisch / CO Kronschnabl\nWerner-Egk-Bogen 22\n80939 München\nDeutschland",
+    "updated": "February 6, 2015",
+    "version": "1.9",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Digital Clock watchface for Android Wear is a digtal clock with weather for the current day (used service is YAHOO Weather), a indicator for the batterie of your smartwatch, a alarm clock indicator (active/inactive of your  smartphone).With settings on your mobile device you can change all elements with user defined fonts, you can set user defined colors and can set a wallpaper for your watchface - choose from one from the installed application, or set a picture by your picture gallery. Set the unit for weather (Farenheit, Celsius), or change between 12- or 24 hours clock display.Even you can - in ambient mode/interactive mode - show or hide the battery and alarm clock indicators.Supported Languages: German, English",
+    "descriptionHTML": "Digital Clock watchface for Android Wear is a digtal clock with weather for the current day (used service is YAHOO Weather), a indicator for the batterie of your smartwatch, a alarm clock indicator (active/inactive of your  smartphone).<br><br>With settings on your mobile device you can change all elements with user defined fonts, you can set user defined colors and can set a wallpaper for your watchface - choose from one from the installed application, or set a picture by your picture gallery. Set the unit for weather (Farenheit, Celsius), or change between 12- or 24 hours clock display.<br>Even you can - in ambient mode/interactive mode - show or hide the battery and alarm clock indicators.<br><br>Supported Languages: German, English",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/0X2jB-sOdM1PkNzRtQQNoOQm35zFyxtjZYJNgSfeZbvFKgXJNiMR3ja7EoQzw6xuODg=h310",
+        "//lh6.ggpht.com/qorqZg3L2AlDE4DfUYE3BWozp0gvqxT5S5pgCxkX6mbIW0s3QZV4Nr-_-wK-BAGuXAk=h310",
+        "//lh4.ggpht.com/xDNn1FSpbL1D3pA0u97BdA6tEq30wQMEd5PG2LYFxq-jJbx8wK34vJ-960ljoKopUg=h310",
+        "//lh5.ggpht.com/iB_5QVYfNCxAgmeexUXaf66QmVCr9lEtEMJxKGSO-2yEW3c6ADjP4b9QihJ7TXDiBA=h310",
+        "//lh3.ggpht.com/SpLVVbkcdQsJdyjk5NfWUJ9BrYJT7DkuhpIuv1qG9AascSoxFMCNN2J7fBLjqorycQ=h310",
+        "//lh6.ggpht.com/o31cJa9LFwZy3BOiqPmzEaCVnwZm0fOXvrG55-9H4tfCC6UJKKpo3goolsctfJAdZU8=h310",
+        "//lh3.ggpht.com/9Yg3xLofjL-P2v-0w9YrRffp1ailNTHTsF1jNivlWXNsn1y73R17_2ywhClunpc10pw=h310",
+        "//lh4.ggpht.com/xmJcnenB0RFdydDcMAZPBy9kTvlAig0NLmfNcTOZd0Ugkf2qL2ro4H-efE5kYr5eZA=h310",
+        "//lh4.ggpht.com/eOeq-Abf9E3Z2CMG6JEBsBv6sMTL-_OoH36_iFiuakhrnIzY29bggXgA4DgsnwlSHg=h310",
+        "//lh3.ggpht.com/MbiXTnH1TNQDB7swD99k06GophnX2uYCuUVsGSdwSIo44zH1PyB83orniD3sFCo0VZs=h310",
+        "//lh5.ggpht.com/10N8fFnWJP9CGcOf8rWHmDfH3c2yQ7I5ViRoFV6qlePCbPltpkgDsBKIXZT2xUEQFBs=h310",
+        "//lh6.ggpht.com/RdF5Qti4isEDFpB7TOHIqtffIomoCrP3U5sgwr8spnYDo8Cq3nxrD-2BhOUc7tjuoxY=h310"
+    ],
+    "comments": [
+        "Attractive Looks great on my Sony SW3.  Offers a good level of customizability.",
+        "Its ok Wish I could get a refund. Its ok"
+    ],
+    "recentChanges": [
+        "Optimizations"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.phoenixandroid.wearable.digitalclock&hl=en&gl=us",
+    "appId": "com.phoenixandroid.wearable.digitalclock"
+}

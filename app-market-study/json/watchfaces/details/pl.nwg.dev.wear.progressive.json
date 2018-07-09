@@ -1,0 +1,56 @@
+{
+    "title": "Progressive Wear Watch Face",
+    "summary": "The Android Wear watch face that shows the flow of time in progress bars form",
+    "icon": "//lh6.ggpht.com/H_moy1JR4gfz_XoEbzgf8dU8_Ed8qK3Kv8xUnUWjK10VdPp63nRuzqrfXOHCe62D90c=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 34,
+    "developer": "nwg",
+    "developerId": "nwg",
+    "developerEmail": "nwg.piotr@gmail.com",
+    "developerWebsite": "http://nwg.pl/progressive-android-wear",
+    "developerAddress": "ul. Klonowa 2a, Nowa Wieś, 08-300 Sokołów Podlaski, Polska",
+    "updated": "April 2, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "The watch face shows digital time display on the graphical animated progress bars, reflecting hours, minutes and seconds flow. You can choose which part of the digital display you want to see on the screen.This Android Wear watch face is suitable for both round and square displays. The round display differs slightly from the square one: the upper ruler was squeezed to fit the screen.After installing the application wait about 30 seconds (or choose 'Resync apps\"), and select the watch face either on your watch or in the companion application. You will not see the app in the app drawer.CAUTION: Please make sure whether you have Android Wear 5.0.1 installed on your watch. This application is not supposed to work with older OS versions.Based on the code copyrighted (C) 2014 to The Android Open Source Project, licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.Ideas, suggestions and bug reports please leave at http://dev.nwg.pl/progressive-android-wear.",
+    "descriptionHTML": "The watch face shows digital time display on the graphical animated progress bars, reflecting hours, minutes and seconds flow. You can choose which part of the digital display you want to see on the screen.<br><br>This Android Wear watch face is suitable for both round and square displays. The round display differs slightly from the square one: the upper ruler was squeezed to fit the screen.<br><br>After installing the application wait about 30 seconds (or choose &apos;Resync apps&quot;), and select the watch face either on your watch or in the companion application. You will not see the app in the app drawer.<br><br>CAUTION: Please make sure whether you have Android Wear 5.0.1 installed on your watch. This application is not supposed to work with older OS versions.<br><br>Based on the code copyrighted (C) 2014 to The Android Open Source Project, licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.<br><br>Ideas, suggestions and bug reports please leave at http://dev.nwg.pl/progressive-android-wear.",
+    "histogram": {
+        "1": 2,
+        "2": 5,
+        "3": 7,
+        "4": 8,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/BKtvhOoUc8sYEx-R9b0uVXKs8kmNI5S_6SA7wNzRESLDW8FNrsc2D_yrpHywJ_euk_ds=h310",
+        "//lh4.ggpht.com/DcgMy2CC7BdH7OLTIkuZoZZwo5PTQx-iGxfgdjyVnYmTMpVo1Ux2-rWZ3jyXF69dyQ=h310",
+        "//lh6.ggpht.com/attZZVRlnS5sY7i_fyn8JtSqN1Ab5oCdvbhOTv3cGYfj3E6sAFXQKHCk5YVzjS7eAr9S=h310",
+        "//lh5.ggpht.com/YXfnHRYNbF5aFUSUKk9IC9aOgaFp_4K5Xrmx6kOhxQFHkhw7l0D1z9nxBgF1-7Ls8g=h310",
+        "//lh3.ggpht.com/vzVAXhSqF-8xK9OWh-i-nltbhX2cxrNGxln_nCDy-cVZQqhAfNq7wIM9ZY5c1Qqc37F-=h310",
+        "//lh5.ggpht.com/kq94iD78K8PWZA4d-Z_Qu-MyxbWlqE44naEAJk0BEbQn-OKn-P5JRSiyIi08fRYxqoS_=h310"
+    ],
+    "comments": [
+        "*Fixed* Needs better fit on round watches Looks fairly easy to make an option for round watches to slightly compress the top and bottom scaling to fit full scales that are not cut off, otherwise fairly good. Another method is to use continuous strips for the scales that move towards a centerline.",
+        "This watch face crashed everytime I tried to use it on my ZenWatch 3, which was many tries over several weeks. Apparently it's been abandoned as it hasn't been updated in nearly two years.",
+        "Great concept Maybe some ambient options would be nice. Otherwise, I really like this face. Looks great on my G Watch R.",
+        "Interesting Unique concept, just wish there was an option to choose between 12 and 24 hour time."
+    ],
+    "recentChanges": [
+        "- different hours and seconds bars layout for circular screens",
+        "- minor graphics update",
+        "- bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.nwg.dev.wear.progressive&hl=en&gl=us",
+    "appId": "pl.nwg.dev.wear.progressive"
+}

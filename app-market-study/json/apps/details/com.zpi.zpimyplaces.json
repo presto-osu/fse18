@@ -1,0 +1,52 @@
+{
+    "title": "My Places",
+    "summary": "Rate places with My Places app, also on the watch.",
+    "icon": "//lh3.googleusercontent.com/6H77SnaoyLP57R2rRYPnOUlYj1j3PQtMpDfJdKN-R0DmVtb5oB0b1IYGrJIQrYHry_IZ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.6,
+    "reviews": 16,
+    "developer": "Nomtek",
+    "developerId": "Nomtek",
+    "developerEmail": "contact@nomtek.com",
+    "developerWebsite": "https://www.nomtek.com/contact/",
+    "updated": "July 9, 2015",
+    "version": "1.1",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "description": "By using \"My Places\" app you can rate places you have been to. Have you eaten a delicious pizza? Give it a 'like'. If you have a watch with Android you can do it also on watch. Are you in a new place and don't know where to go for a coffee? Launch the app and check which cafes nearby have the highest rating.",
+    "descriptionHTML": "By using &quot;My Places&quot; app you can rate places you have been to. Have you eaten a delicious pizza? Give it a &apos;like&apos;. If you have a watch with Android you can do it also on watch. Are you in a new place and don&apos;t know where to go for a coffee? Launch the app and check which cafes nearby have the highest rating.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/OLLFyuR98lsiNrTEblbdiuXTeqoVTV5-Js0AAyCIwFlBYmjhEBXZKrySCjeSFurJSUw=h310",
+        "//lh3.googleusercontent.com/Rt9gKM3-aW1MDo3H_qZMnYuuxPT3vXDMj90sG_ogtr4Spoq_-8Dw_efsuafeM5_lgw=h310",
+        "//lh3.googleusercontent.com/Mqi7n_QOExP7djFNWCfcd09yuGgykLvZftnR4WaQtQiCAqcW2x2JICpzz071pqQ8tQ=h310",
+        "//lh3.googleusercontent.com/2X33oa45ce0uUiGsoNev7beD3-PQCQsAh5l26yXTeDKAlggQvdsVJebCNN-Ku_6cMw=h310",
+        "//lh3.googleusercontent.com/fwYxLcs56MBHl_Lgto_hM-upgbymNmTM5Nh1FWi3YYZwHCl_e38x6QPOgLKmH-ZNCwk=h310",
+        "//lh3.googleusercontent.com/EEQ4-KDSNVIxOEd3uUTibHBFXxqc955UMauRP264Dn2xVeiedJ2NyOpHKMXTMjNXYOE=h310",
+        "//lh3.googleusercontent.com/isx-yzl0NBT28uFdyIdfR3ycQ6Lt5WNwhbzCEymwve78sybRGc79HGFGds_hELAoV5s=h310",
+        "//lh3.googleusercontent.com/WDTi6iuwfhzf-WAkCu4VDttOFIYkOO7r04UkUsfob_Ele_uOS9sianaaD_nP1RGWhPn7=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Fixed issues with authorization.",
+        "- Reduced battery consumption.",
+        "- Bugfixing."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.zpi.zpimyplaces&hl=en&gl=us",
+    "appId": "com.zpi.zpimyplaces"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Frankenstein Watchface",
+    "summary": "“It’s pronounced ‘Fronkensteen.’ ” — Dr. Frankenstein",
+    "icon": "//lh3.googleusercontent.com/7bWrPmubaiOikyBHxOgW2wsPpoWytEMXwH81043nS2knGZiUhN71soFUX_6--TxYgYA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Chris Ingram",
+    "developerId": "Chris+Ingram",
+    "developerEmail": "chris.ingram.dev@gmail.com",
+    "developerAddress": "Atlanta,Ga",
+    "updated": "October 19, 2015",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "“Nothing is so painful to the human mind as a great and sudden change.” ― Mary Shelley, FrankensteinClassic Frankenstein's monster! Give him a tap for some light will you?",
+    "descriptionHTML": "&#x201C;Nothing is so painful to the human mind as a great and sudden change.&#x201D; <br>&#x2015; Mary Shelley, Frankenstein<br><br>Classic Frankenstein&apos;s monster! Give him a tap for some light will you?",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/HhAaNsGVYq8Z9u8ymBiAN1ueXQsyBDkWHmGA_kHJ7Bv8Uvd0dlIlgqIPtO5mCw4VKop3=h310",
+        "//lh3.googleusercontent.com/XZ_b3sJNYkklYsTjCsJJH4QjZIP-GgUl7odgVtD4jt6QvSBeLRm8tWrktf0EH6ix5Sw=h310",
+        "//lh3.googleusercontent.com/B0KPfHg665xOfj7m5-29X_qJv1xZXfC9eDoEfeOEEtRHediTW7Qz2ZWm7eAT0KOyog=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Interactive light for the monster....",
+        "*fix for app icon",
+        "*bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=developing.ingram.com.frankensteinface&hl=en&gl=us",
+    "appId": "developing.ingram.com.frankensteinface"
+}

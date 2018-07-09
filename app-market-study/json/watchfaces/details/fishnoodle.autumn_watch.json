@@ -1,0 +1,63 @@
+{
+    "title": "Autumn Tree Watch Face",
+    "summary": "Got an Android 5.0 watch?  Get it in touch with the forest!",
+    "icon": "//lh3.ggpht.com/BR9vhXKtWw6Re_m7Vc43vgPuVNfTYIBeN2wZjd0x41KmhqCuClMiNZUPmXpiWRxu-d3v=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 2.8,
+    "reviews": 4,
+    "developer": "Kittehface Software",
+    "developerId": "6192891547337946730",
+    "developerEmail": "contact@kittehface.com",
+    "developerWebsite": "http://www.kittehface.com",
+    "developerAddress": "410 W Pierce St\nHouston, TX 77019",
+    "updated": "October 9, 2015",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Why settle for just hands that move?  Decorate your watch with colorful leaves blowing in the wind!Featuring a selection of modern and abstract watch faces, you can pick the style of timekeeping that appeals to you.  Choose your favorite typeface.  Enable display of features such as a compass, moon phase, battery remaining, and current date.  Show only the features you need.  If a notification is present, the face will smoothly reduce to fill the remaining space.Behind the watch face itself is a fully 3D tree with real-time depth of field effects!  Leaves fall and seeds blow by in the background!  Select from different tree species, control lighting and time of day, choose different backgrounds, modify wind speed, and more.  NOTE: Our watch faces require Android 5.0 on your Wear device.  They fully respect sleep mode, and will fade in the moving background when you wake the device.  Both round and square faces are fully supported.Check your Android Wear app to set!We don't yet have a video for this product, but you can check out the behavior of the live wallpaper version here : http://play.google.com/store/apps/details?id=fishnoodle.autumn",
+    "descriptionHTML": "Why settle for just hands that move?  Decorate your watch with colorful leaves blowing in the wind!<br><br>Featuring a selection of modern and abstract watch faces, you can pick the style of timekeeping that appeals to you.  Choose your favorite typeface.  Enable display of features such as a compass, moon phase, battery remaining, and current date.  Show only the features you need.  If a notification is present, the face will smoothly reduce to fill the remaining space.<br><br>Behind the watch face itself is a fully 3D tree with real-time depth of field effects!  Leaves fall and seeds blow by in the background!  Select from different tree species, control lighting and time of day, choose different backgrounds, modify wind speed, and more.  <br><br>NOTE: Our watch faces require Android 5.0 on your Wear device.  They fully respect sleep mode, and will fade in the moving background when you wake the device.  Both round and square faces are fully supported.<br><br>Check your Android Wear app to set!<br><br>We don&apos;t yet have a video for this product, but you can check out the behavior of the live wallpaper version here : http://play.google.com/store/apps/details?id=fishnoodle.autumn",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/HDZDYoVgKSRqFbER43SdfMCLrt-2bj0bH0ICK36bWZiJOTVwYrfaOzCTJhvjI4lsNuE=h310",
+        "//lh3.ggpht.com/l6BH2ZJgFnQEXmR-1_as9ZIArATxU5CclZy0omFFOwaml7IjjjAuhFokK699W_EhX1s=h310",
+        "//lh3.ggpht.com/5xy7TCf3sSi9R111Ps2B3RmCTfvCxV6aUiy6muYavgvlZMGWHNnIv20cq2_JV_2yGA=h310",
+        "//lh4.ggpht.com/5PCuvH5rvgLt07cSTgHSu5DY9WveC05MTV1m5gw4blRrYFab_zzWzOoag0roBhyZwuvq=h310",
+        "//lh5.ggpht.com/rlA7B07bm3hWCPWk4ho7M0bERh_YAjmGg6VRnE0FEKfqg_Ho93qwqurBo6OIAnkbISQ=h310",
+        "//lh6.ggpht.com/GYj2TYAP132zODRAd6oQWehmwrT9e0eT4643qDGKDo06ybWpfecOeTItzUq9HZYEIejN=h310",
+        "//lh5.ggpht.com/3wA4w_IOs4IufXFuO-5dKMl5doAa3HAbVLTIWQq6JXgBTvkeXag6eRaNTU6xx5YDT78=h310",
+        "//lh3.ggpht.com/zBsGtG70HNINO9gdCRr9buf5ScrML3O4IJR70i7CLxK3s57aJXgX94rX6oPJWle7N6M=h310"
+    ],
+    "comments": [
+        "It is a battery killer That's all",
+        "Battery Killer I set wind and fluff at zero and it still killed my battery in a couple of hours!"
+    ],
+    "recentChanges": [
+        "v1.3:",
+        "- Fixed 'flat tire' handling on Motorola devices",
+        "- New pref to allow full frame watch markings on flat-tire devices",
+        "- Adjusted notification framing",
+        "- Settings link on watch",
+        "v1.2:",
+        "- Three additional fonts available",
+        "- Can display mini digital time on analog faces",
+        "- Watch faces resize to get out of the way of notifications",
+        "- New face style: Large Digital"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fishnoodle.autumn_watch&hl=en&gl=us",
+    "appId": "fishnoodle.autumn_watch"
+}

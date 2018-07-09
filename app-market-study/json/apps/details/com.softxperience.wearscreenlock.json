@@ -1,0 +1,58 @@
+{
+    "title": "Wear Screen Lock",
+    "summary": "Lock the touchscreen of your Android Wear watch.",
+    "icon": "//lh6.ggpht.com/UI8TgBIAAHUkwt4VhRWcljekdQhENUN0navXMHRtvcE7cHcmGGQ3tCSbO0n-cEH2VwzF=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.1,
+    "reviews": 14,
+    "developer": "SoftXperience",
+    "developerId": "SoftXperience",
+    "developerEmail": "wearscreenlock@softxperience.com",
+    "developerWebsite": "http://www.softxperience.com",
+    "developerAddress": "SoftXperience\nSandfurther Str. 15\n28790 Schwanewede",
+    "updated": "November 3, 2015",
+    "version": "1.1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Ever tried to run through the rain with your Wear watch? Noticed that the watch is going crazy if rain drops land on the touchscreen?There is the theater mode in Android Wear, but this also turns the screen completely off.This app is the solution! It blocks the touchscreen, but lets you see the watchface and incoming notifications. You can activate the lock from the companion app on your mobile or from the apps list on your wearable. If you activate the \"upside down\" detection you can turn the lock on by turning your wearable upside down for 2 seconds.To unlock the screen you also turn the device upside down for 2 seconds or use the companion app.While the screen is locked, everything is working except for the touchscreen. I.e. the watchface is visible and even the voice commands will work.",
+    "descriptionHTML": "Ever tried to run through the rain with your Wear watch? Noticed that the watch is going crazy if rain drops land on the touchscreen?<br><br>There is the theater mode in Android Wear, but this also turns the screen completely off.<br><br>This app is the solution! It blocks the touchscreen, but lets you see the watchface and incoming notifications. You can activate the lock from the companion app on your mobile or from the apps list on your wearable. If you activate the &quot;upside down&quot; detection you can turn the lock on by turning your wearable upside down for 2 seconds.<br><br>To unlock the screen you also turn the device upside down for 2 seconds or use the companion app.<br><br>While the screen is locked, everything is working except for the touchscreen. I.e. the watchface is visible and even the voice commands will work.",
+    "histogram": {
+        "1": 2,
+        "2": 4,
+        "3": 2,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/CbNv09R3CAnGtPkpfXt2LiKa1pD9XxuOUSf2VfvC97_PzoFeDz5DdMfxbGXagr5qDw=h310",
+        "//lh4.ggpht.com/rt9kzRTMhSwvgzSmzgXs2GFF1_z4FnF7wMgs4gtuMSTmK6ldCz6a1OzYiO75L62MhA=h310",
+        "//lh5.ggpht.com/QON3PPsdzOC-zVHnCrbqWdRNFZBVvUL5q9fFELsEi6-lG2u5WJpKzGw-Sfjr-iIxTke8=h310",
+        "//lh6.ggpht.com/dwg4SsKko5ZAABc4urvQt8o5n-mfcbQ58A_NgrS8ZyLqI2O4RKkVlO6c1apnhP0U8Q=h310",
+        "//lh4.ggpht.com/cuPdyLcc5k-zMHeijx8VxyNiE1hwEilEnruWR2F67q6L575usBXDFlm39VnxobHlRw=h310",
+        "//lh6.ggpht.com/BQpnM6tePKawlpXvvRLgQtz-LufZSGgMuupjnKd9lNxWmegX0oJg41RisxSIvK413gw=h310",
+        "//lh4.ggpht.com/7MJ9X1PK25Q2vW1upl5XUEov-AOsKBTJmDWkBdTHA225rkEouHjRL9fJHTSRkAXyyYoK=h310",
+        "//lh6.ggpht.com/Gakb-gPEeluIlHwFnfMCGJxWZ0zY_LPB2BH6j6aLiqO5fB43SMnUyGsSE_bGhL3Tteli=h310"
+    ],
+    "comments": [
+        "Seems to work pretty well.  The only problem is that it is a pain to lock and unlock it.  You can do it with your phone, which sucks, or you can turn it upside down which doesn't work all the time.  It would be nice if there was a swipe pattern to unlock it or something that worked a bit better.  Other than that, it does exactly what it says and keeps me from accidentally changing the watch face all the time.",
+        "Upside down doesn't work. I can't lock or unlock my watch by turning it upside down. Only by phone. Any updates to fix this? (maybe a combination, like pressing side button 5 times, or holding it 3 seconds, etc.) I own a Moto 360.",
+        "Not reliable Good when it works for about 10 mins, then turns itself off without warning, and turning watch upside down is very unpredictable, and annoying. It also caused my watch to become unresponsive, as per error message. S5 with lollipop and gear live.",
+        "Touch screen is not blocked. App should also present an option to disable \"wake on tilt\". also, would be great if to enable we could use the button on the watch side instead of facing it down.",
+        "Crash a lot. SW3",
+        "Great app, works like it says."
+    ],
+    "recentChanges": [
+        "- Custom unlock time"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.softxperience.wearscreenlock&hl=en&gl=us",
+    "appId": "com.softxperience.wearscreenlock"
+}

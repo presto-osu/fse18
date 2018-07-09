@@ -1,0 +1,42 @@
+{
+    "title": "Paranoid WatchFace",
+    "summary": "This is an example",
+    "icon": "//lh5.ggpht.com/X0UpwoiYbBwngO1AkqjSrGlksWSWq6kgoT8WjAed3wFQF6v4MJzckwLKiWELSZE3EWM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.2,
+    "reviews": 4,
+    "developer": "Oscar Caballero",
+    "developerId": "Oscar+Caballero",
+    "developerEmail": "oscarpozas69@gmail.com",
+    "developerWebsite": "http://twitter.com/Oscar_Pozas",
+    "updated": "July 13, 2014",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Simple watch face for Android Wear.",
+    "descriptionHTML": "Simple watch face for Android Wear.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/JPLv1ws1WSezgH7AxBuIfaqao8ln_yD8d5cvpbyb0lnK9oUQLAgBoEXmve_gYrWoGzk=h310",
+        "//lh3.ggpht.com/JZJTFLELRLeZjbi8n4vAUEMHX1Jajjn_drE6ZBXSpY4vzv2Do31XylddO2KetrRxHj-S=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=paranoid.wear.oscar.com.paranoid_watchface&hl=en&gl=us",
+    "appId": "paranoid.wear.oscar.com.paranoid_watchface"
+}

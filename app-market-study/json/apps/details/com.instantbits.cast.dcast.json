@@ -1,0 +1,59 @@
+{
+    "title": "Server Cast | Videos to Chromecast/DLNA/Roku/+",
+    "summary": "Cast videos and live streams to Chromecast, Smart TVs, Fire TV,  AppleTV, Roku",
+    "icon": "//lh3.googleusercontent.com/U0X7CwIz8ryd6eLz_eNa_MLRuo5MP7S3SwCd8p0m2HfVL7Z9foPQZQkhcQCaaWEObsc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.3,
+    "reviews": 4057,
+    "developer": "InstantBits Inc",
+    "developerId": "6953873961894982344",
+    "developerEmail": "servercast@instantbits.com",
+    "developerWebsite": "http://servercast.instantbits.com",
+    "developerAddress": "InstantBits Inc\nGPS dept.\nP.O. Box 202\nBenton, KS 67017",
+    "updated": "February 23, 2018",
+    "version": "Varies with device",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "size": "Varies with device",
+    "description": "Server Cast allows you to cast HD videos to several devices such as Chromecast, Smart TVs, Fire TV, DLNA receivers, airplay (AppleTV), XBox, and more, from multiple sources like files local to your phone or tablet, DLNA/UPnP servers, FTP, FTPS, Dropbox, Google Drive, WebDav, SFTP, IPTV M3U playlists and more coming very soon (please send us an email if you want some protocol or service included).SUPPORTED DEVICES:• Chromecast• SmartTV (Samsung and others)• Windows Media Player and XBox• Fire TV• AppleTV (AirPlay)• Roku (very limited support)Tested sources:• Serviio DLNA• MediaTomb DLNA• Window 7 DLNA• FileZilla FTP• VsFTP• Dropbox• Google Drive• IIS WedDav and Synology WebDav• SFTP on OSX and Linux (both OpenSSH)• Multiple M3U IPTV playlist files hosted on many servers.This app does not do any transcoding, the video must be in the correct format. Most of those devices support h264 videos on an mp4 container.If you would like to try the beta you can opt-in at: https://play.google.com/apps/testing/com.instantbits.cast.dcastIf you have questions please contact us at this address http://www.instantbits.com/contactus.jsp or join our G+ community https://plus.google.com/communities/101301407612196770298",
+    "descriptionHTML": "Server Cast allows you to cast HD videos to several devices such as Chromecast, Smart TVs, Fire TV, DLNA receivers, airplay (AppleTV), XBox, and more, from multiple sources like files local to your phone or tablet, DLNA/UPnP servers, FTP, FTPS, Dropbox, Google Drive, WebDav, SFTP, IPTV M3U playlists and more coming very soon (please send us an email if you want some protocol or service included).<br><br>SUPPORTED DEVICES:<br>&#x2022; Chromecast<br>&#x2022; SmartTV (Samsung and others)<br>&#x2022; Windows Media Player and XBox<br>&#x2022; Fire TV<br>&#x2022; AppleTV (AirPlay)<br>&#x2022; Roku (very limited support)<br><br>Tested sources:<br>&#x2022; Serviio DLNA<br>&#x2022; MediaTomb DLNA<br>&#x2022; Window 7 DLNA<br>&#x2022; FileZilla FTP<br>&#x2022; VsFTP<br>&#x2022; Dropbox<br>&#x2022; Google Drive<br>&#x2022; IIS WedDav and Synology WebDav<br>&#x2022; SFTP on OSX and Linux (both OpenSSH)<br>&#x2022; Multiple M3U IPTV playlist files hosted on many servers.<br><br>This app does not do any transcoding, the video must be in the correct format. Most of those devices support h264 videos on an mp4 container.<br><br>If you would like to try the beta you can opt-in at: https://play.google.com/apps/testing/com.instantbits.cast.dcast<br><br>If you have questions please contact us at this address http://www.instantbits.com/contactus.jsp or join our G+ community https://plus.google.com/communities/101301407612196770298",
+    "histogram": {
+        "1": 323,
+        "2": 109,
+        "3": 248,
+        "4": 728,
+        "5": 2649
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/oTpJILHgIk7_9uj7N9smYtRgm3HAQTczq1Fykylq_O0eqd0qLAkTcea32GfKw5VwAQ=h310",
+        "//lh3.googleusercontent.com/EVeQosJmruz9eF3NiN-N5aNmY1UveTxz3bE7TcYOx0heNHbsz70SfmMu9uZT6nilV4gY=h310",
+        "//lh3.googleusercontent.com/c1D-GTn2GaQp0RO4fL4mpJvuc04HjhesNS6kjNqY-K6rZmAS27zY0M9zPqnqjFkvng=h310"
+    ],
+    "comments": [
+        "Sucks it won't play movie's with subtitles",
+        "Awesome app",
+        "Neat.",
+        "xbox one brian hull",
+        "Haven't had an issue since I changed to server cast from movie cast. Works great so 👍👍👍👍👍",
+        "Not sure why people here say it's better than LocalCast (at least for Chromecasting)... It plays exactly the same files (since it still depends on what the Chromecast supports or not) and the whole UI is still very young compared to the matured LocalCast. Promising though... :) I am still using LocalCast for now."
+    ],
+    "recentChanges": [
+        "v 0.8.2",
+        "SMB (Samba) support. Not only is this feature beta on Server Cast but it is also using an unreleased library.",
+        "Option to not sort listings, useful for IPTV.",
+        "Option to disable auto opening of playback control screen when video starts.",
+        "Language options for when playing the audio on the phone as well as volume control. This is still very beta. Report issues if you want them fixed.",
+        "Lots of subtitle fixes for Samsung TVs and probably other streaming devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.instantbits.cast.dcast&hl=en&gl=us",
+    "appId": "com.instantbits.cast.dcast"
+}

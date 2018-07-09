@@ -1,0 +1,56 @@
+{
+    "title": "Remote for LG TV",
+    "summary": "This app is a remote application that lets you control your LG TV.",
+    "icon": "//lh6.ggpht.com/OhLTGgSDrvJ_IkFc-HORPu_gClsZjLQcmwHcNWJkzfzmphiOsAt1zslNKRMNKellxw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000000,
+    "maxInstalls": 10000000,
+    "score": 3.9,
+    "reviews": 34011,
+    "developer": "FreeAppsTV",
+    "developerId": "FreeAppsTV",
+    "developerEmail": "appstv.free@gmail.com",
+    "developerAddress": "4 bis, avenue notre dames\n94370 Sucy en brie",
+    "updated": "November 26, 2017",
+    "version": "Varies with device",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "size": "Varies with device",
+    "description": "This app is a remote control application that lets you control your LG television. The application works on all TVs equipped with \"Smart TV\" technology and connected to your (WiFi or Ethernet) network.Operation: At first launch, the application will search your TV on the network. The application will then be asked to enter the code that appears on your TV in order to establish a secure connection. And voila, you can now control your LG TV directly from your smartphone. For any comments or questions write us.DISCLAIMER \"Remote for LG TV\" is neither an official LG product, nor are we affiliated with the LG company.",
+    "descriptionHTML": "This app is a remote control application that lets you control your LG television. <br><br>The application works on all TVs equipped with &quot;Smart TV&quot; technology and connected to your (WiFi or Ethernet) network.<br><br>Operation: <br>At first launch, the application will search your TV on the network. <br>The application will then be asked to enter the code that appears on your TV in order to establish a secure connection. <br>And voila, you can now control your LG TV directly from your smartphone. <br><br>For any comments or questions write us.<br><br>DISCLAIMER <br>&quot;Remote for LG TV&quot; is neither an official LG product, nor are we affiliated with the LG company.",
+    "histogram": {
+        "1": 6498,
+        "2": 1141,
+        "3": 2287,
+        "4": 4516,
+        "5": 19569
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/2fDsdpsuBX1Oz9kMHUv9-80i5PDJUUOR1gTn3yJnHH4qz_FodWgFn9LYBzReGyvkMQ=h310",
+        "//lh5.ggpht.com/CHHt1wHyx5LJP7gFUUqGQ1T5rPZ_BIi1yXfcSeqLweCuxExyMFqetmuQXtyJFOe1MwqQ=h310",
+        "//lh3.googleusercontent.com/sgDcta5rkxmZs-BbfGDcy8AxZT1X0KSMTt9pYIKsxZYzBjWVuPiaOEOMJo_0gV57B3A=h310",
+        "//lh3.googleusercontent.com/hDci2PkA2UdYn9e-5UVaXFhO_HxZL4fHzdRREvvMsT4mDSM3h1tbYkSaMCTOKq6e6zrW=h310",
+        "//lh3.googleusercontent.com/s5Ld80cC9JQWfDazPVup3aaZ6kxNdzeiZim6gadwE2Y4J8S8TsQ98qobuT5J92jpBtk=h310"
+    ],
+    "comments": [
+        "LG WebOS TVs use port 3000/3001 but when I enter the TV IP address in the settings and hit refresh in the app, I noticed (using tcpdump) the app tries port 8080 and says that TV is not detected. Can you please fix your app to detect WebOS TVs properly with the manual IP method ? Latest update still doesn't work with WebOS TVs. What is the point of updating the app and asking for payment if it only works on old TVs ???",
+        "Works great. My kids hate that I can turn down their tv. from the other room. lol",
+        "Dog are my LG, you know like the homework. Lol anyways I have tried several download able remotes for LG. This one I actually like, it's easily installed no bugs from what I can find. Moves real easy through everything. Simple quick easy. I recommend using.  Oh I Operate android. No problems",
+        "Flooded adds are beyond annoying I'd rather use my original remote.",
+        "This app is hot it gets 5 stars it works no problems don't download any other remote app but this one believe me because it's very rare I rate a app or give them 5 stars.",
+        "No guide function  If there is I can't find it  Sux"
+    ],
+    "recentChanges": [
+        "- Fixes bugs (ANR)",
+        "- Improve the user experience"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.lgremote.view&hl=en&gl=us",
+    "appId": "com.lgremote.view"
+}

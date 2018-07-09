@@ -1,0 +1,57 @@
+Soot started on Thu Jun 21 12:43:25 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.watch.richface.shield.DigitalRichFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.watch.richface.shield.apk
+[INFO] MySceneTransformer: ############## com.watch.richface.shield.DigitalRichFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   263
+[INFO] FlowGraph: @@@@ Total Methods: 1179
+[INFO] FlowGraph: @@@@ Total Stmts:   21134
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r8_12=[-16777216], $r8_16=[-16777216], $r2_3=[-16777216], $r8_15=[-16777216], $r8_14=[-16777216], $r8_13=[-16777216], $r4=[-65536], $r8_11=[-16777216], $r4_8=[-65536], $r2_5=[-16777216], $r8_2=[-16777216], $r2_4=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r2=[-16777216, -5457258, -11676929, -6688037, -2391680], $r8_12=[-16777216, -5457258, -11676929, -6688037, -2391680], $r2_1=[-16777216], $r8_16=[-16777216, -5457258, -11676929, -6688037, -2391680], $r8_15=[-16777216, -5457258, -11676929, -6688037, -2391680], $r8_14=[-16777216, -5457258, -11676929, -6688037, -2391680], $r8_13=[-16777216, -5457258, -11676929, -6688037, -2391680], $r4=[-65536], $r8_11=[-16777216, -5457258, -11676929, -6688037, -2391680], $r4_8=[-65536], $r8_2=[-16777216, -5457258, -11676929, -6688037, -2391680], $r2_2=[-16777216, -5457258, -11676929, -6688037, -2391680]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [red]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ff4dd2ff, ff99f2db, red, ffacba96, ffdb8180]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 51.690000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:44:21 EDT 2018

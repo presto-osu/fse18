@@ -1,0 +1,109 @@
+Soot started on Thu Jun 21 13:43:13 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: wear.trombettonj.trombt1pearlfree.AnalogWatchFace
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/wear.trombettonj.trombt1pearlfree.apk
+[INFO] MySceneTransformer: ############## wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   21
+[INFO] FlowGraph: @@@@ Total Methods: 47
+[INFO] FlowGraph: @@@@ Total Stmts:   1023
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1), (register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1), (register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1), (register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1), (register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1), (register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wear.trombettonj.trombt1pearlfree.AnalogWatchFace$Engine]74,9)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [9] [[<null::SELECT::interactive>, <interactive::SWIPE_RIGHT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.swipe_right()
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [9] [[<null::SELECT::interactive>, <interactive::SWIPE_LEFT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.swipe_left()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: TOTAL TIME: 1.588000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:43:18 EDT 2018

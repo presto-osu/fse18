@@ -1,0 +1,50 @@
+{
+    "title": "LCDTime Wear Watch Face",
+    "summary": "A simple Wear Watch Face digital clock.",
+    "icon": "//lh4.ggpht.com/6DTV_0QQ9TVMiV9d9fda2QCPOlHs4LSWsbCbeF_sxJcuawY6_EANNPiazEebp6CMb9E=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 5,
+    "reviews": 1,
+    "developer": "Mario Peham",
+    "developerId": "Mario+Peham",
+    "developerEmail": "mario.peham@gmail.com",
+    "developerAddress": "Kaplanstrasse 32\nA-4300 St. Valentin\nAUSTRIA",
+    "updated": "February 4, 2015",
+    "version": "1.1.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "A simple Wear Watch Face digital clock.All colors can be changed over the phone.",
+    "descriptionHTML": "A simple Wear Watch Face digital clock.<br><br>All colors can be changed over the phone.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/LBLn87ouHkCd_Az5SkRkKbZWL3ZKDlArn7hdX-Bb-0J5MSoAfvrOrmIK5Oj2zyNN=h310",
+        "//lh6.ggpht.com/fKpsZD2mZPfpTlaO5VnKVAB8gaQd4KWXiYGRkxYMJgv4vL4M-e4Fv6QHlwS-4ulS85Q=h310",
+        "//lh3.ggpht.com/w30XGD2Rlq62JceJKr0B-Q3hgMJW8jTAXnKxQJIgAGxrZ-U-VtazU8sHsVvrK9GrrStk=h310",
+        "//lh3.ggpht.com/SHxmvXHHLc9LWYMFXUUvlCpukZpBnNI8x3kaTQYfOo--DndnwyC-pEZjMwwzG-wxLw=h310",
+        "//lh5.ggpht.com/TCL7ZgvZjN1VFYQ7tYjPKeiUM_BGJP5hcGDvwZLd2JR50xfdjOHtCopPO0bZbIQmpCv2=h310",
+        "//lh6.ggpht.com/-Xa5kW97_vaO1hPptg4TGtC6RE1L1NwtGtu0JaJwqqFescMWAMPqI5mwsl60vfdjFVt6=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Update to the new version 5.0.1",
+        "Support for round watches",
+        "Colon flashing"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=at.peham.mario.lcdtime&hl=en&gl=us",
+    "appId": "at.peham.mario.lcdtime"
+}

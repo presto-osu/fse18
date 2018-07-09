@@ -1,0 +1,57 @@
+{
+    "title": "Freebox Remote",
+    "summary": "Freebox remote control. Simple, convenient, complete and free!",
+    "icon": "//lh3.googleusercontent.com/cPwF1WqaSX3ukOFdnKVKOkyFsNEMQByJidIdZmAhOelGR1xJBpGHzNjkW3RgQ2Yh9DY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 140,
+    "developer": "Niamor",
+    "developerId": "Niamor",
+    "developerEmail": "niamor.dev@gmail.com",
+    "developerWebsite": "http://sagesfemmes-oise.16mb.com/freebox-remote-privacy-policy/",
+    "updated": "December 11, 2017",
+    "version": "1.4.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Pilot your Freebox Player from your watch or smartphone/tablet. This remote control is simple, complete and ergonomic.Simply enter your network remote code (accessible from your Freebox Player interface) and to indicate which of your Freebox Player you want to control in the settings.Your phone must be connected to for Freebox's Wi-Fi network. Your watch must be connected to your phone via Bluetooth.You can now control your TV from anywhere in your home.Network remote code is mandatory, if your Freebox type doesn't allow you to find this code, this app cannot work.",
+    "descriptionHTML": "Pilot your Freebox Player from your watch or smartphone/tablet. This remote control is simple, complete and ergonomic.<br>Simply enter your network remote code (accessible from your Freebox Player interface) and to indicate which of your Freebox Player you want to control in the settings.<br>Your phone must be connected to for Freebox&apos;s Wi-Fi network. Your watch must be connected to your phone via Bluetooth.<br>You can now control your TV from anywhere in your home.<br>Network remote code is mandatory, if your Freebox type doesn&apos;t allow you to find this code, this app cannot work.",
+    "histogram": {
+        "1": 19,
+        "2": 8,
+        "3": 10,
+        "4": 32,
+        "5": 71
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/szQUWaJVeQeWXqxEQssAYIDytbB0Dt3ySH4YxyNaYbY2QWxwOmSAkEHlXk-YRTxsUC_u=h310",
+        "//lh3.googleusercontent.com/mf7SCnkzMMnxgLzrmXhIz2ZuxvBchfRFrYtQ9aV42UCqxY1LX0v1V8FMH11LRwaG-4Q=h310",
+        "//lh3.googleusercontent.com/W8gZ3sJMmIZz6mKpKBsWdo1yfyChciC0D8bEWgpaz_XH7U7lW4t8icqI-nTWfmp6xg=h310",
+        "//lh3.googleusercontent.com/hWqq_50bWVpPgM3KtzgZTTyD3ny69ZAARG5TGpjU45qrPFxooD986y-oOahtt_UPg_A=h310",
+        "//lh3.googleusercontent.com/EAkF_Eo_-n7zi7huCSQqaD3oZIS2Nq4x6WcWLzFqHcdfIaxqe41N-pGe3btwQnWjfA8=h310",
+        "//lh3.googleusercontent.com/X5DGUYWVQxaDBs5fZ0u3e6LdFqHRc8culWuFJWJ73UKAVIPpsth3hgFSv8rhz9G1K1Y=h310",
+        "//lh3.googleusercontent.com/eqNnXZHUPGSXsqhcccRsN358KUmXolc_SVrs8fsGg0WwznANDqsp2pZH1uW_xIzuDjNP=h310",
+        "//lh3.googleusercontent.com/mxAgsPZ_Mrsbha4x2JT9v1MBtnStL2F8iQ0yrblTQXWwSozhX5eXVJr-FfIYuZc8mQ=h310",
+        "//lh3.googleusercontent.com/lut6lZIaSomLa6X9ckT6RMn-KjltWd5JCdOeCPjAd6vcp_6gI34p7EtBBt1MW6DhtSg=h310"
+    ],
+    "comments": [
+        "Ça a marché pendant 2 semaines et là ça ne marche plus, je ne comprends pas, ( c'était un problème de connexion la ça marche super bien merci",
+        "Simple et efficace Ca marche bien après avoir retrouver le code télécommande sur la Freebox sous le menu 1/ réglage - 2/ system - 3/ information - 4/ Player",
+        "En standalone sur wear 2.0 prévue ?",
+        "demande un code jamais installe, de plus aucun guidance ce qui fonctionne ou pas."
+    ],
+    "recentChanges": [
+        "Update libraries.",
+        "Minor fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=dev.niamor.wearfreeboxremote&hl=en&gl=us",
+    "appId": "dev.niamor.wearfreeboxremote"
+}

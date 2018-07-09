@@ -1,0 +1,59 @@
+{
+    "title": "Wear Chronometer",
+    "summary": "Chronometer for Android Wear",
+    "icon": "//lh6.ggpht.com/wseY0Qqf9ZF43VPqR46qiZs3GKfjvpLMhvJamY2m1MHkUHvrc5vt_Kp2coR7rhNuww=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.6,
+    "reviews": 143,
+    "developer": "Tuxerito-Soft",
+    "developerId": "5773577869737526356",
+    "developerEmail": "tuxerito@gmail.com",
+    "developerWebsite": "http://www.tuxerito.com",
+    "updated": "December 17, 2014",
+    "version": "0.6",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Chronometer for Android WearSimple chronometer for your Android Wear device.Features:* Countdown Timer* Chronometer  - Split  - Split history",
+    "descriptionHTML": "Chronometer for Android Wear<br><br>Simple chronometer for your Android Wear device.<br><br>Features:<br>* Countdown Timer<br>* Chronometer<br>  - Split<br>  - Split history",
+    "histogram": {
+        "1": 27,
+        "2": 10,
+        "3": 18,
+        "4": 28,
+        "5": 60
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/a4PdXRfnjxCQz0nv5s3tUWDHQTUyg_JoglS_45whzgxPi-xwlbXyoEMZ63jK2sufqQ=h310",
+        "//lh5.ggpht.com/6QvTvD2maInZTgxoH8zKHDvlKo4QstVBVdWe_yA2I9v0zFMxmyNSwbYSE0RXH6kD4w=h310",
+        "//lh5.ggpht.com/JUX-LvnthQwUzr65-txfYztfXU3gxjx0T0oZgSfmhVT53rvbe_ZeyOjTFf8LuOtSkeg=h310",
+        "//lh4.ggpht.com/Vo0nCju-ByDA9uRxMakk_HpMT_aQCWd9mD2YLLwimtpsaIEq-zQQv_NDn8_AYtIxBpaL=h310",
+        "//lh5.ggpht.com/I4kC5dZarwfqTAIaxAEkiDMWewy2gSmMnnzVwY4IiI2UnYyN6ZMSQ4zjzBe-4UxrIKhO=h310",
+        "//lh5.ggpht.com/4M0mI_41xQ4LqfvnnXMAsUQLoqpOxi6hzITbtje-ZsCDlC6SzIYEVcRNNvK77QfsmpQ=h310",
+        "//lh4.ggpht.com/zw3lxiZbDfGlzps3tOfgIy6o_KBK20dYJpA57AmdEgqC1mQGmpti2X6XUd7VLTNElTUt=h310",
+        "//lh5.ggpht.com/F8Lve7qKnmSttMXzn78S7eCWmwRUhIQ5C94hGQbZqQNUOrmA6thppBb3s0tMFcL0-7Q=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Ly_V2oqDcfY",
+    "comments": [
+        "Best so far, but... This is the first timer/stopwatch app that I've been able to find that lets you start a simple timer on your watch AND SEE STATUS as it runs. Unfortunately, it keeps your watch on to this app constantly and if you dismiss it (by covering hte watch face with your palm), IT STOPS. Not only does it stop, but it doesn't even pickup where it left off.   I'll be the first to admit that I don't know if this behavior is a flaw in the app or in the Android Wear OS, but either way it sucks. What if i need to run a three hour countdown timer (which is pretty common for BBQ smokers)? I shouldn't have to have this app running down my watch battery by running the screen on full the whole time, nor should I have to miss interim notifications from other apps nor the ability to JUST SEE MY NORMAL WATCH FACE.   What we need is a timer (and stopwatch) that we can start and stop from the watch, see status (running time) on demand, but which will drop to the background and CONTINUE RUNNING.",
+        "Needs a dark theme to save battery Pls add Vibrate until tapped for countdown. Needs to remember the last timer.",
+        "Update super now with total time that was, what I am looking for.",
+        "No LG G Watch R love Count down seems to work, chronometer does not",
+        "Good, but can do with improving First app I've found for Android wear that includes a countdown timer. Excellent! After using it a number of times, it is quite cumbersome to access. It should be able to be accessed from the front screen if it's running. At the moment you have to go into the list of apps, and Start it manually. This would improve the usability no end. Will improve my rating if this is introduced.  EDIT: While it can be accessed via voice, but in my use-case, that's not an option (I use it while playing sport, so talking to my phone isn't possible).",
+        "Can you add couple more features? Good stuff. Can be even better. Firts of all, the history needs to be uploaded to the phone and be convertible to a tabular format. If you are a runner, you need to keep track of your laps and splits. Next, what would be really cool if I can do laps/splits with the voice. If you are running fast and have you hands sweaty, it may be a problem to hit that tiny button. But is not a problem to say 'lap' to the watch to start another lap. Couple of these features would make my training fun and I'd definitely agree to pay for them."
+    ],
+    "recentChanges": [
+        "Version 0.6",
+        "Added total time in Chronometer- History"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=tuxerito.wear.chronometer&hl=en&gl=us",
+    "appId": "tuxerito.wear.chronometer"
+}

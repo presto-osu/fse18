@@ -1,0 +1,58 @@
+{
+    "title": "Watch Face ROAD",
+    "summary": "Watch Face for all models smartwatches with support new screens (360dp).",
+    "icon": "//lh3.googleusercontent.com/dALnhn2AqLFQCFmYvWlvvWpkqC19ivdR7RVdgtHFHY2WoBYQYN4nFL--SiBqoXOGVtc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.2,
+    "reviews": 325,
+    "developer": "Mobi Market Labs",
+    "developerId": "5223430743382074343",
+    "developerEmail": "support@mobimarketlabs.com",
+    "developerWebsite": "https://mobimarketlabs.com",
+    "developerAddress": "proizd Voenniy 6\nKherson, Khersons'ka oblast 73000\nUkraine",
+    "updated": "June 14, 2017",
+    "version": "2.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch face for smartwatches with built-in Calendar, steps counter and battery level.But working fine on other oldest and newest models: LG G W100, R W110; Asus Zen Watch.Warning: this watch face ONLY for ANDROID WEAR smartwatches.Configuration supported languages- English- Français- Deutsch- Українська- Русский- 中文 （繁體）Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.",
+    "descriptionHTML": "Watch face for smartwatches with built-in Calendar, steps counter and battery level.<br>But working fine on other oldest and newest models: LG G W100, R W110; Asus Zen Watch.<br>Warning: this watch face ONLY for ANDROID WEAR smartwatches.<br><br>Configuration supported languages<br>- English<br>- Fran&#xE7;ais<br>- Deutsch<br>- &#x423;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x441;&#x44C;&#x43A;&#x430;<br>- &#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;<br>- &#x4E2D;&#x6587; &#xFF08;&#x7E41;&#x9AD4;&#xFF09;<br><br>Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.",
+    "histogram": {
+        "1": 19,
+        "2": 8,
+        "3": 29,
+        "4": 86,
+        "5": 183
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-u1_9UFXkMECnNqyzX_UzTYNucyoSpfNyO1LrVjvkU-s535Foya5fgqEUhk-C52PAek=h310",
+        "//lh3.googleusercontent.com/HpFZ5d0Q1Bc8SBGFAHBDcqXBwpb899FuALj7Oi6kS8EtIi7YOCbrnVcZduCaHmWyFKA=h310",
+        "//lh3.googleusercontent.com/MXfXAo4X5Se3x589gadaBiOjCvvUhdEcXibWxEb0jp2Dwfc025fQDrGx6MUoKcEwajw7=h310",
+        "//lh3.googleusercontent.com/TBjyCQLd_HjF8lkL0NykehKMlicMwlR17WMYjI1oif_5brmiRMbIfH0ulobt0LhYzfc=h310",
+        "//lh3.googleusercontent.com/9-k46jXbpBNLJFbOXFPhOQinJKTbRG43-eepdBjmZykcmF9Aqghg8KAWkT9sp3Sf24w=h310"
+    ],
+    "comments": [
+        "Pretty nice.  Running on Android 8 Oreo OS phone, and on Tag Heuer Connected 45 watch... Seems to work ok.  But, weather shows +72 / 3.1 ?   I assume that is 72 degrees, is 3.1 the wind speed?  Also, should some apps launch, like Fit, to see details when I press screen?",
+        "Simple, very visible, sensible ambient mode, doesn't chew a lot battery, functional, very good for rectangular faces.",
+        "I like it only problem is i have to force update weather every time or i would rate 5 stars",
+        "Nice clean watch face useful information at a glance easy to see colors",
+        "Best of the lot.",
+        "Awesome"
+    ],
+    "recentChanges": [
+        "- New \"Weather\" function, only forecast for 4 days.",
+        "Important: for working needed permission for \"Location Service\".",
+        "- New \"Product Tour\"",
+        "- technical update"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mobimarketlabs.road&hl=en&gl=us",
+    "appId": "com.mobimarketlabs.road"
+}

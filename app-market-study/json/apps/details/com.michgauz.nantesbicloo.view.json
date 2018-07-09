@@ -1,0 +1,51 @@
+{
+    "title": "Nantes Bicloo (bikes)",
+    "summary": "Nantes Bicloo , bikes in Nantes",
+    "icon": "//lh6.ggpht.com/bq93VNoeXN1ZyQQnn5JN1XeiahPMQQ7vjK5VO55ptqb2YzGi-TAqA3LY1iYQ1FIk2w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.5,
+    "reviews": 56,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.nantesbicloo@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Nantes Bicloo is a tool allowing you to view the status of bike stations Bicloo networks, of Nantes and suburbs. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or nameYou can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Nantes Bicloo is a tool allowing you to view the status of bike stations Bicloo networks, of Nantes and suburbs. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 4,
+        "4": 11,
+        "5": 39
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hNZ3ecD6nQW4kvTfEvztaHq4n8qOeCZXC-3pFTZjArM0NuxuRLQEqyZJy7gPtAJ2JOc=h310",
+        "//lh3.googleusercontent.com/O7IlFrb3GOHBv1lt0Nw9XU8ZUIPyKCZvtwghre8wERAq1CMD9oizYUMn-p8ujVuWaA=h310",
+        "//lh3.googleusercontent.com/kSs6WpcUU3SUnmPWxhmVgPnk0Is2tcdWHh-zu44NorcLbMb4Igc7b15zVs3sqtIPFA=h310",
+        "//lh3.googleusercontent.com/fKX_02UWMxfw5DEPLU-QCyTAl0SFFGJo_E1J6sHRMUMLhG_Htn1cSe_gQTsUwgc2iw=h310",
+        "//lh3.googleusercontent.com/tvcgNOtt7y5IeKb5A58yQyG0pqgJhIukos3rTd4zCZNrtlOUH_-tbUIOjgoSdpE9vA=h310",
+        "//lh3.googleusercontent.com/KH7Kxk6riYg5b2TtOLu8K-FMoTqCMq73nFC0DfoHFeP_rTmvsjcG6mj8iORUYYfByw=h310",
+        "//lh3.googleusercontent.com/UHiE6M7_DmZySdn6QorJOf4sSdfkG6u04L5okCmR0SX7sOXHDxNgd63JG1Hs7ft23B2M=h310",
+        "//lh3.googleusercontent.com/uM3POqFr6E6ACgyklqMqnEKHQPcPBHYOpNB8JZA_ptbiyyXa-WhaxishmwFftKnstgI=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.nantesbicloo.view&hl=en&gl=us",
+    "appId": "com.michgauz.nantesbicloo.view"
+}

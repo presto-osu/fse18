@@ -1,0 +1,51 @@
+{
+    "title": "razorWFC Chronograph Watchface",
+    "summary": "Dual stopwatch wear watch face with notifications and calendar events details",
+    "icon": "//lh3.googleusercontent.com/pXlArdi4Px3MTKA8LPqjl39SwwcjtMJ3UbszqnMQ-MX96RgciF-pjKfAWEZnx6g36_fL=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 0,
+    "reviews": 0,
+    "developer": "ulsmith",
+    "developerId": "ulsmith",
+    "developerEmail": "support@ulsmith.net",
+    "developerWebsite": "http://ulsmith.net",
+    "developerAddress": "Loughborough, UK",
+    "updated": "April 12, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "razorWFC combines a chronograph watch with a notifications area to give you style and functionality. With two permanent stopwatches, this watch face gives you the ability to time seconds and minutes independently of each other whilst still seeing current time. Simply touch each stop watch to start and stop, with a long touch to reset to zero. When using the stopwatches, ambient mode will display minutes for each stop watch to give you a glance look at what time you stopwatches are at.Auto night mode is standard on all razorWF watch faces, including this one, with night time being calculated based on time and location, dimming the screen at night to reduce glare and save power. Turn on the night glow feature too to give your watch face a green glow, simulating a mechanical glow in the dark watch.Date is also provided on this face, with a large day of month that stays in ambient mode, and small day and month 3 digit readout in interactive mode.Finally, the watch face is finished off with up to five widget locations, allowing you to put any of the available widgets (watch battery, phone battery, missed call count, message count, calendar events) in any one of the five spaces. In addition to notifications, the calendar widget is extended, touching the widget will display any upcoming events in the next 24 hours, swiping to the right to dismiss.Configure the watch using the wear config tool or for full control, the phone config tool, giving you complete control of your watch face, allowing you to change everything from hand type and backgrounds through to widgets and what to show on the watch face.",
+    "descriptionHTML": "razorWFC combines a chronograph watch with a notifications area to give you style and functionality. With two permanent stopwatches, this watch face gives you the ability to time seconds and minutes independently of each other whilst still seeing current time. Simply touch each stop watch to start and stop, with a long touch to reset to zero. When using the stopwatches, ambient mode will display minutes for each stop watch to give you a glance look at what time you stopwatches are at.<br><br>Auto night mode is standard on all razorWF watch faces, including this one, with night time being calculated based on time and location, dimming the screen at night to reduce glare and save power. Turn on the night glow feature too to give your watch face a green glow, simulating a mechanical glow in the dark watch.<br><br>Date is also provided on this face, with a large day of month that stays in ambient mode, and small day and month 3 digit readout in interactive mode.<br><br>Finally, the watch face is finished off with up to five widget locations, allowing you to put any of the available widgets (watch battery, phone battery, missed call count, message count, calendar events) in any one of the five spaces. In addition to notifications, the calendar widget is extended, touching the widget will display any upcoming events in the next 24 hours, swiping to the right to dismiss.<br><br>Configure the watch using the wear config tool or for full control, the phone config tool, giving you complete control of your watch face, allowing you to change everything from hand type and backgrounds through to widgets and what to show on the watch face.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/l_4k_5Z84eLvvdDanCADLZXr4YgeB1dEMROdGbNzdyUD7LBii3ccPZKqx_jWGddWN7Q=h310",
+        "//lh3.googleusercontent.com/Jo8n0Kgssv3uk2SOJrSiscdBnDkENJsEINFgW9hbY5TcQpbud7tFbIqrhzdnMBfWX8U=h310",
+        "//lh3.googleusercontent.com/nMALIwEaj5KwKZp1ro0K1wFjrfk059eEf4pGsvd3QnxIow68_FNVFyFBoLTJIxt7Kcg=h310",
+        "//lh3.googleusercontent.com/sUxaudZ_7P2REwSY8o0wmlazGgkVYiibx071sZdBqpNNMBue898OZl0u70q1sjdMyVc=h310",
+        "//lh3.googleusercontent.com/zOOZZS1Neyd6gtJkDLbvVBN4F6GyI5QxbKjwz4CL5nEDR783-eTVVqmu7lgXS_Q0CYYu=h310",
+        "//lh3.googleusercontent.com/xP197gljAsBWsRNJcVlYnrpYDa4a1n7k6I-K_NzbGJ-8N43yC8CgV45VnBOcKVzvjRhd=h310",
+        "//lh3.googleusercontent.com/SSXhtahggrvmTcVOk_Abs_ah0Zr7JmydTXxh5ScZGrC-0YL7R1yj0Z_Iv_anUM8g1lIU=h310",
+        "//lh3.googleusercontent.com/bDXtMkfPq0IY2b6AMuRmDzB6BYOLWGjwuMwCZ9zn3msb7SmCPOFmOR4llVMeN4ObeQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Updated colour of phone config heading colour to move away from red to blue (matching artwork in store)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.ulsmith.razorwfc.wearable.watchface&hl=en&gl=us",
+    "appId": "net.ulsmith.razorwfc.wearable.watchface"
+}

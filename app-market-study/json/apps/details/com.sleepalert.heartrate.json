@@ -1,0 +1,56 @@
+{
+    "title": "SleepWake: watch out for zzz",
+    "summary": "Watch app that buzzes when you doze off. Track your heart rate in the background",
+    "icon": "//lh3.googleusercontent.com/4aUzk675Iju48J7tz0MKL8zSdD4GhGnX25Xhs6qpCbmteub1PtPIxsUeCYckOarVjlgM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 29,
+    "developer": "ShareCarForAds - Quảng cáo trên xe",
+    "developerId": "ShareCarForAds+-+Qu%E1%BA%A3ng+c%C3%A1o+tr%C3%AAn+xe",
+    "developerEmail": "service@sleepwake.me",
+    "developerWebsite": "http://www.sleepwake.me",
+    "developerAddress": "Landmark 3, Vinhomes Central Park, 208 Nguyen Huu Canh, Binh Thanh, Ho Chi Minh City, Vietnam",
+    "updated": "June 24, 2015",
+    "version": "1.0.16",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Some important tasks, such as driving or attending lectures, need your full attention but it's easy to get bored and become drowsy. SleepWake is here to wake you up during such moments. The alarm will go off and the watch will vibrate intensively. A smart watch with the heart rate sensor is required. Samsung Gear Live, Moto 360 are the most compatible.★★★★★ How does it work? The watch measures your heart rate values through the optical sensor then sends to the server for analysis. When you are drowsy and trying to focus on your task at hands, your heart rate variability follows a distinctive pattern. By analyzing this pattern, it is possible to estimate your level of drowsiness wherever you are, with no special gear other than your watch.Algorithms used to analyze heart rate follows recommendations of European Society of Cardiology (ESC) and the North American Society of Pacing and Electrophysiology (NASPE). The current accuracy rate is more than 90%.The watch app will learn and get better down the track when it measures your own heart rate patterns frequently and updates the tracking results.★★★★★ How background monitoring is done? Does it drain battery? The app tracks your movements and heart rate patterns to realize when you starts to get sleepy, it then increases the number of reading times to cover more often. On the other hand, it scales down monitoring sessions when you just wake up after a good sleep ^^. By intelligently triggering sensors at the right times only, SleepWake conserves the watch battery. A fully-charged watch can usually run a whole day long with the app running in the background.★★★★★ What watch does the app support?It only works with watch that runs on Android and has an optical heart rate sensor facing your wrist (such as Samsung Gear Live, Moto 360) so it can reads heart rate automatically. It doesn't work with watch with no sensor or watch that requires manual handling for every read (for example, Asus Zen Watch). The app does NOT run on Tizen-based watches like Gear S, Gear 2, Gear 2 Neo yet.★★★★★ Feedback more than welcomed!The app is continuing to improve, any feedback? please email us at service@sleepwake.meFollow us on Twitter @SleepWakeApp (https://twitter.com/SleepWakeApp)*Disclaimer: the app is not guaranteed to stop you from falling asleep while doing critical tasks such as driving and should not be relied on to do so. The app maker is NOT liable for any accidents or injuries that may occur while using the app. Be sure to be well rested and comfortable before doing critical task like driving,  and keep your eyes on the road.",
+    "descriptionHTML": "Some important tasks, such as driving or attending lectures, need your full attention but it&apos;s easy to get bored and become drowsy. SleepWake is here to wake you up during such moments. The alarm will go off and the watch will vibrate intensively. A smart watch with the heart rate sensor is required. Samsung Gear Live, Moto 360 are the most compatible.<br><br>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605; How does it work? <br><br>The watch measures your heart rate values through the optical sensor then sends to the server for analysis. When you are drowsy and trying to focus on your task at hands, your heart rate variability follows a distinctive pattern. By analyzing this pattern, it is possible to estimate your level of drowsiness wherever you are, with no special gear other than your watch.<br><br>Algorithms used to analyze heart rate follows recommendations of European Society of Cardiology (ESC) and the North American Society of Pacing and Electrophysiology (NASPE). The current accuracy rate is more than 90%.<br><br>The watch app will learn and get better down the track when it measures your own heart rate patterns frequently and updates the tracking results.<br><br><br>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605; How background monitoring is done? Does it drain battery? <br><br>The app tracks your movements and heart rate patterns to realize when you starts to get sleepy, it then increases the number of reading times to cover more often. On the other hand, it scales down monitoring sessions when you just wake up after a good sleep ^^. By intelligently triggering sensors at the right times only, SleepWake conserves the watch battery. A fully-charged watch can usually run a whole day long with the app running in the background.<br><br><br>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605; What watch does the app support?<br><br>It only works with watch that runs on Android and has an optical heart rate sensor facing your wrist (such as Samsung Gear Live, Moto 360) so it can reads heart rate automatically. It doesn&apos;t work with watch with no sensor or watch that requires manual handling for every read (for example, Asus Zen Watch). <br>The app does NOT run on Tizen-based watches like Gear S, Gear 2, Gear 2 Neo yet.<br><br><br>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605; Feedback more than welcomed!<br>The app is continuing to improve, any feedback? please email us at service@sleepwake.me<br>Follow us on Twitter @SleepWakeApp (https://twitter.com/SleepWakeApp)<br><br><br>*Disclaimer: the app is not guaranteed to stop you from falling asleep while doing critical tasks such as driving and should not be relied on to do so. The app maker is NOT liable for any accidents or injuries that may occur while using the app. Be sure to be well rested and comfortable before doing critical task like driving,  and keep your eyes on the road.",
+    "histogram": {
+        "1": 4,
+        "2": 3,
+        "3": 4,
+        "4": 4,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/uH9i8JupTLLwVgcHzoF0UG2dwI2iqQ1iBx57-SmsfNtn6PoqZ_HDPIq7gntv4DUE37s=h310",
+        "//lh3.googleusercontent.com/9MhW-4yD3bzE2E5w4qe9PUAqgWwgpOTS5E41MS8f7p5gihiNsG3G1Z1WSmrD2FJ95CWh=h310",
+        "//lh3.googleusercontent.com/Rpjd10e9AFfkYyJqCRZWWdMfxnpTXLAfz36LVfSS8ilV-yrM8UBzdKN9Jowenezx9TO7=h310",
+        "//lh3.googleusercontent.com/hBiSjl42WiStOYpjQbOUBG0TfndwMBZbCGskliuQCHjNwForcBeIND84-SoHO-VYLjg=h310"
+    ],
+    "comments": [
+        "Seems like a good idea, but I just need to be able to easily turn background monitoring on and off from the watch. I'm not always trying to stay alert, only if I'm in class or something like that.",
+        "More information needed Include numerical values for how drowsy the watch thinks I am.",
+        "Damm I already connect my gear to my phone, but it say i still need to connect",
+        "Doesn't work - thinks I am a vampire I tried the app on my moto 360 with my nexus 6 and it says I have a BPM of zero. Maybe I am dead...",
+        "Great idea but it is unable to read my heart rate.",
+        "Huh.. Crashes every time on the G Watch R...HTC one \"M8\", stock lollipop.. What give..my apologies...5 stars for quick reply. Cause if worked as advertised, this would be a brilliant app. I just hope you Optimized the battery consumption. I haven't seen any real drain yet, so that's a plus."
+    ],
+    "recentChanges": [
+        "+ Show tracking history with three states: drowsy, asleep, alert",
+        "+ Allow app to be started from watch",
+        "+ Minor bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sleepalert.heartrate&hl=en&gl=us",
+    "appId": "com.sleepalert.heartrate"
+}

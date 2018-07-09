@@ -1,0 +1,53 @@
+{
+    "title": "Alien Time",
+    "summary": "If Nostromo&#39;s crew had a smart watch, it would be this one.",
+    "icon": "//lh3.googleusercontent.com/Os8yEhpMS--UP0sKk7bhjOc3X1IBq2S-1ZK906vfsuThLa5apn9MfkoBwLceDDY06g=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4,
+    "reviews": 1,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerWebsite": "http://www.seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "May 28, 2016",
+    "version": "2.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Alien Time it is! The one accessory missing from the famous Alien movie series. I don't even know how Ripley made it without this watch face.You may find that the creature is very dim in the back and that is meant to be!The first movie was so good because you didn't get to see it. That is what we are trying to capture in this face.It comes with main time and two configurable indicators that can display any off:    Off - Makes it look even sleeker,    Year - YYYY,    Weel - Wxx,    Date - DDD DD    Battery Level - XX%    Date 2 - MMM DD,    Date 3 - MMM'YY,    Date 4 - MMDDYY,    Date 5 - DD/MM/YY,    Date 6 - DDMMM'YY,    2nd Time Zone - Which can be configured;It comes with three different color accents and a subtle animation when the face is activation.If you want to stay tuned with our new stuff, please check out http://www.seenapps.com/ and https://twitter.com/SeenApps",
+    "descriptionHTML": "Alien Time it is! The one accessory missing from the famous Alien movie series. I don&apos;t even know how Ripley made it without this watch face.<br><br>You may find that the creature is very dim in the back and that is meant to be!<br>The first movie was so good because you didn&apos;t get to see it. That is what we are trying to capture in this face.<br><br>It comes with main time and two configurable indicators that can display any off:<br>    Off - Makes it look even sleeker,<br>    Year - YYYY,<br>    Weel - Wxx,<br>    Date - DDD DD<br>    Battery Level - XX%<br>    Date 2 - MMM DD,<br>    Date 3 - MMM&apos;YY,<br>    Date 4 - MMDDYY,<br>    Date 5 - DD/MM/YY,<br>    Date 6 - DDMMM&apos;YY,<br>    2nd Time Zone - Which can be configured;<br><br>It comes with three different color accents and a subtle animation when the face is activation.<br><br>If you want to stay tuned with our new stuff, please check out <br>http://www.seenapps.com/ and https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/TQWW5c5uxegtph4khvTehx8kHt4xuMn8slt6G9hLJk549ZrEjAuKfx_bNjdEID2wpg=h310",
+        "//lh3.googleusercontent.com/ajQZGpsudIb3-17cLq2DoOazGCgaURN4vH3BS4QHja6vpYa6qR7tdYDcWmA0wybMeEs=h310",
+        "//lh3.googleusercontent.com/_qun0F8bizQAFMRNzuqTkBzjURGQqEJC-bbZ34TeG62zmPONdaK-xY4Klh-J9r1e8G6H=h310",
+        "//lh3.googleusercontent.com/mRyxkhSfd3L9X_p5udzbZdyCIcWiB457-Jtnh-_BpZjIhVdFTumbdC4BII9w_v4HG68=h310",
+        "//lh3.googleusercontent.com/MT3DnGVzqDNlZQ0NOG4lLTQL9xdhhd9CyVEPJkH3uVlqrR_VZ2WXCU6n1uKIxEhB7No=h310",
+        "//lh3.googleusercontent.com/xNKz_ZnhdjCW25PCe4Atmxs4GqoKSjg9IhlZnVeLBxzmdIAl_nXK6opSliPSqgDRGQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "2.0",
+        "- Fixed \"Saturday crash\"",
+        "- Fixed rendering problem on Square devices",
+        "- Removed unnecessary permissions",
+        "1.1 Improved contrast on creatureFixed Accent animation that would not change color right away."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.alientime_face&hl=en&gl=us",
+    "appId": "com.seenapps.alientime_face"
+}

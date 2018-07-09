@@ -1,0 +1,51 @@
+{
+    "title": "WBUS Beta",
+    "summary": "Bus Application",
+    "icon": "//lh5.ggpht.com/_zxOFP0OE_zQOFuI2M0rhS-48b-FNIrKDDYVHACCGjLwaAey4MBFQM66bkgwUqvEgk39=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.7,
+    "reviews": 7,
+    "developer": "Tarks",
+    "developerId": "Tarks",
+    "developerEmail": "wearbus@gmail.com",
+    "developerWebsite": "https://sites.google.com/site/wbusapp/",
+    "developerAddress": "충청남도 천안시서북구 시청로",
+    "updated": "July 23, 2015",
+    "version": "0.3.16.0.206",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "WBUS provides a list of nearby bus, ETA(Expected time of arrival) information, destination settings and notifications to user.Based on the current location, you can check the current location and the next stop of your bus.Beta version. Local support is not yet complete.Support Country :, Seoul, Busan, Incheon, Cheonan, AsanYou can participate to complete bus database. https://github.com/jeonghunn/wbus_db",
+    "descriptionHTML": "WBUS provides a list of nearby bus, ETA(Expected time of arrival) information, destination settings and notifications to user.<br><br>Based on the current location, you can check the current location and the next stop of your bus.<br><br>Beta version. Local support is not yet complete.<br>Support Country :, Seoul, Busan, Incheon, Cheonan, Asan<br><br>You can participate to complete bus database. <br><br>https://github.com/jeonghunn/wbus_db",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/uczyO1cxED-DHmIaNBqXjj2Ek9OgabFHqLpUJ7IFqjb3rSQ079xqDzJ_5zTNFzetpQfq=h310",
+        "//lh4.ggpht.com/ViCYiGsI0zdDuD_E1hCFsrDUo_f6yTQPEACDviwZ4jB5JgsvVXtqQKvgNBBH6Vi00Fvh=h310",
+        "//lh6.ggpht.com/y8sJxXB56AgQC1IFnJwi3fp11f8HA1O75mAkXfaWNYe1UkeucQqW435E6bbIiP7VlGQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/wQVKaLeaOYM",
+    "comments": [],
+    "recentChanges": [
+        "More better Android Wear experience",
+        "- Set Destination directly",
+        "- Automatically Select when no need to select",
+        "Design updated",
+        "String bug fixed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tarks.transport&hl=en&gl=us",
+    "appId": "com.tarks.transport"
+}

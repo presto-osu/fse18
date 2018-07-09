@@ -1,0 +1,49 @@
+{
+    "title": "Metallic Industrial Watch Face",
+    "summary": "Urban Style for this Android Wear Watch Face with battery level and 9 colors !",
+    "icon": "//lh3.googleusercontent.com/A3tKhWhaK0wjrvh6eeRhkuk5CCZw-5RqOYU5h9cZ2_0219wZLIl_LMVZQZdG3fxHzHE=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4,
+    "reviews": 1,
+    "developer": "Olivier Lapointe",
+    "developerId": "Olivier+Lapointe",
+    "developerEmail": "lapointe.olivier@gmail.com",
+    "developerAddress": "Chemin de Saint Martin\n83119 Brue Auriac\nFrance",
+    "updated": "October 22, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Metallic Industrial Watch Face, by IntemporelModern, elegant, urban, the style of this watch face is based on metallic plates in the background. It displays essential information : hour, date, and battery gauge.Designed for round watches. Compatible with Android Wear 1.x and 2.0.You can choose from 9 theme colors included. There are several ways to change color : - by touching the number 9 on the watch- by using the parameters of the Watch Face- by using the smartphone companion*New* : An option let you choose between a simplified Ambient mode or a classic Ambient mode. The simplified Ambient mode allows to display less information when the screen is in Ambiant mode, in order to improve the battery saving et the Burn In screen protection.",
+    "descriptionHTML": "Metallic Industrial Watch Face, by Intemporel<br><br>Modern, elegant, urban, the style of this watch face is based on metallic plates in the background. It displays essential information : hour, date, and battery gauge.<br><br>Designed for round watches. Compatible with Android Wear 1.x and 2.0.<br><br>You can choose from 9 theme colors included. There are several ways to change color : <br><br>- by touching the number 9 on the watch<br>- by using the parameters of the Watch Face<br>- by using the smartphone companion<br><br>*New* : An option let you choose between a simplified Ambient mode or a classic Ambient mode. The simplified Ambient mode allows to display less information when the screen is in Ambiant mode, in order to improve the battery saving et the Burn In screen protection.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/VwoG6o_nC9Lll6gRKSnIeP_DKbAKx-euOoNazqWDABEUfkWpgkY-HqH9AzKRLLGlGEKf=h310",
+        "//lh3.googleusercontent.com/X9eJLHMHlTJ1Au7u-SC5QV090CB-ow7aRafuJnrmwqpAaq9p8xwTprIktwqjh7R38NUE=h310",
+        "//lh3.googleusercontent.com/zafz2_ggLn0aXgcbE2YCQCCuQ1snL18d_7Ng1Y3aPRRoLrRL77IDpx0ATfpkWP_cQCOc=h310",
+        "//lh3.googleusercontent.com/SrEatHZGpztSOeXRIpTivIfvt-7NAdnEwgSSC8IP3ABstjki-w1ywSt3OhIQfP6zBA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- New setting : you can choose to activate a simplified Ambient mode, for battery saving improvement and screen burn in protection improvement",
+        "- Settings window accessible from the watch has been redesigned",
+        "- Bug fix : the seconds hand color is now correctly initialized on the first launch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.veetouine.metallicindustrialwatchface&hl=en&gl=us",
+    "appId": "com.veetouine.metallicindustrialwatchface"
+}

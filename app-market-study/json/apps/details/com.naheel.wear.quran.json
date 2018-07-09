@@ -1,0 +1,62 @@
+{
+    "title": "Quran Wear",
+    "summary": "Read the holy Quran on Android Wear",
+    "icon": "//lh3.googleusercontent.com/dEYuZxSiYW4kmMT4f8SNSKRh98smOTm3idZyl8Dk6tGldXX-AtHFQ9Qtn5JrjaBY4XeI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.8,
+    "reviews": 56,
+    "developer": "Naheel Azawy",
+    "developerId": "Naheel+Azawy",
+    "developerEmail": "naheelazawy@gmail.com",
+    "developerAddress": "Doha - Qatar",
+    "updated": "August 27, 2015",
+    "version": "2.1",
+    "genre": "Books & Reference",
+    "genreId": "BOOKS_AND_REFERENCE",
+    "description": "Read the holy Quran on Android Wear",
+    "descriptionHTML": "Read the holy Quran on Android Wear",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 5,
+        "5": 48
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/avVwSOiHKJRdQ7TomL-mBFND2J4juEvH-iOZJRP3bh7dQHfThrT7KvqOjtEZlxN5G8M=h310",
+        "//lh3.googleusercontent.com/Atql8yVB8Kr9tkZqwdN0YVZF4qLqxItflhJaijMUG-4n0uQje8acrqIVJHIslni3bPs=h310",
+        "//lh3.googleusercontent.com/bgk-x838qKIgp9Nvuk43ykyf4rQse9ngTLSXzFUypdPvfCxGB3mpo9pa_4kb7NQh5g=h310",
+        "//lh3.googleusercontent.com/QBBnYhye_qVvgK-5yTOFlhQ2TRlVRIQQb__j-aACwZ_-hEATNO2rEdeCMjMJ2bUQNg=h310",
+        "//lh3.googleusercontent.com/Pag1UrIxHLMixh6RBtlJUmvLbW_CE3PbTGZB4-VWv93nrIbZhffkhysM6DX8hkXLS8GR=h310"
+    ],
+    "comments": [
+        "Small issue Any custom settings made in the app on the phone, only seen to work when paired AND only via Bluetooth. Once disconnected or on Wifi, app will lose settings. Hope you can make them permanent.",
+        "Love it Thanks you so much my brother for application may Allah guide us and grant us All Jannah Al Firdaws",
+        "Unbelievable Excellent. Works fast and fluid. Can actually be used. May Allah reward you",
+        "MashAllah, may Allah swt give you jaza e khair",
+        "Please make quran text more comfortable with wear screen",
+        "How is it work on my Alcatel Go Watch?"
+    ],
+    "recentChanges": [
+        "Version 2.0:",
+        "-Added meaning and translations (only English and French)",
+        "-Always on mode for battery saving",
+        "Version 1.5:",
+        "-Improved reader",
+        "-Settings interface on phone",
+        "-Night mode",
+        "-Changeable screen time out",
+        "Soon: translation and tafseer"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.naheel.wear.quran&hl=en&gl=us",
+    "appId": "com.naheel.wear.quran"
+}

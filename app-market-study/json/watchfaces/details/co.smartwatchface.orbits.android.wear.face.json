@@ -1,0 +1,57 @@
+{
+    "title": "Orbits Watchface",
+    "summary": "Orbits is a modern watch face specifically designed for the Moto 360.",
+    "icon": "//lh3.ggpht.com/WwgBGIvLUYTPNrPAq72XBW7YZI3jHKqJealFysDBPqrdhYK3_wtGKaoiLxK3JtIrW-Jm=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.8,
+    "reviews": 343,
+    "developer": "Zuhanden",
+    "developerId": "Zuhanden",
+    "developerEmail": "mobile@zuhanden.de",
+    "developerWebsite": "http://smartwatchface.co",
+    "developerAddress": "Seehauser Str. 14\n81379 Munich\nGermany",
+    "updated": "January 30, 2015",
+    "version": "2.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "This watchface is a true eyecatcher for your Andorid Wear device. Although Orbits is clearly made for round smartwatches like the Moto 360 it also works great on rectangular smartwatches.This wearface features a special dimmed mode in order to save precious battery. For more watchfaces please visit our exclusive wearface collection for Android Wear on the Play Store http://goo.gl/QOsOu4.  Also please let us know if you like to have any other watch faces to be added to our selection of watch faces.Made in Germany",
+    "descriptionHTML": "This watchface is a true eyecatcher for your Andorid Wear device. <br><br>Although Orbits is clearly made for round smartwatches like the Moto 360 it also works great on rectangular smartwatches.<br><br>This wearface features a special dimmed mode in order to save precious battery. <br><br>For more watchfaces please visit our exclusive wearface collection for Android Wear on the Play Store http://goo.gl/QOsOu4.  <br><br>Also please let us know if you like to have any other watch faces to be added to our selection of watch faces.<br><br>Made in Germany",
+    "histogram": {
+        "1": 32,
+        "2": 17,
+        "3": 74,
+        "4": 84,
+        "5": 136
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/RXL8e-j8_PlICSVM-uOOZuWtftInbSNf6V1FNu5ktWv7JlWkb8N8hOyJn4b25kuVhFE=h310",
+        "//lh5.ggpht.com/ZSGLJRRftv9dZrgJ4rEGGgbl6DXZDCM0cqJbS-i2_-PhCWEK4M63O0QnObg_-qI45yZj=h310",
+        "//lh3.ggpht.com/aR7L9R37ZfXJisd2A4I4NBhOmtC-sOb5fVFmgI-_YKWSuko-n23CNJVLp4bDYG50cg4=h310",
+        "//lh5.ggpht.com/uUay2Kxkn0lsZruI3086l9b1tRQ2wjdYedfk_P0ngVOXQrseqh49unK2aKTYdUtNPGs=h310",
+        "//lh3.ggpht.com/kTttrCQw6kGTusmrgum9HETvFNSMrdAMCVYZImGkzJHo14oWMWL0_476jDnL6Gdi4FYB=h310",
+        "//lh5.ggpht.com/yErC2Uzc-NqDB-DYPl62zqxDW9M8Ryf6ndATXIiW0fi8GPWeP14DELxyI2qpdG3dOA=h310",
+        "//lh6.ggpht.com/PzbFczhxC5t8XiJMlFVhJ1mdzgyjrA2QXXVKk25aDA8e0vMFJnJYtQ-IRyGtdBfQJm8=h310"
+    ],
+    "comments": [
+        "For Moto 360 2nd gen, you have to go into settings to turn on the time. Would have given it a higher resting if there was a second hand , whick is why I added it in the first place, as a nurse, that second hand is pretty important",
+        "Brilliant Love this but would love the option to add a date and maybe more colour options. Thanks for this though ;)",
+        "Didnt show digital clock on Moto 360 2nd gen Didnt show digital clock on Moto 360 2nd gen",
+        "Digital time doesn't appear on moto 360 2nd gen.",
+        "Digital time does not display.",
+        "It's beautiful but, there should be an option of changing colors."
+    ],
+    "recentChanges": [
+        "New watch face API"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.smartwatchface.orbits.android.wear.face&hl=en&gl=us",
+    "appId": "co.smartwatchface.orbits.android.wear.face"
+}

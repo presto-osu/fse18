@@ -1,0 +1,55 @@
+{
+    "title": "MANGO Watch Face",
+    "summary": "Great things take time. Meanwhile, get your style set with the MANGO watch face.",
+    "icon": "//lh3.googleusercontent.com/cRqmO39dFCH_aMXhci1Zy2bUP1PR8GYn6X7RMfTCfz11cKTOQE2B3eerMDZlp2RBYV8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.9,
+    "reviews": 240,
+    "developer": "MANGO",
+    "developerId": "MANGO",
+    "developerEmail": "mango.ebusiness@gmail.com",
+    "developerWebsite": "http://www.mango.com",
+    "updated": "December 30, 2015",
+    "version": "1.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Elegance is all about keeping it minimal. Make the most out of your time with the MANGO watch face ready-to-wear in black or white, the timeless and essential monochrome palette that will add an instant chic to your daily outfits. Run your time, run your style.",
+    "descriptionHTML": "Elegance is all about keeping it minimal. Make the most out of your time with the MANGO watch face ready-to-wear in black or white, the timeless and essential monochrome palette that will add an instant chic to your daily outfits. Run your time, run your style.",
+    "histogram": {
+        "1": 24,
+        "2": 16,
+        "3": 36,
+        "4": 42,
+        "5": 122
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/v7bPhETZhhFH8Lp01lB_glwD7wtvmNv7-1rRU9uCFltKkIC_N0ZNB613Ru6n4yfsWHOq=h310",
+        "//lh3.googleusercontent.com/POYDwcwwwb2UIH_VouSWB6f-exYZxfisAsWovfCr_trBf8hOMq7yDTAqjaG6JzQwBA=h310",
+        "//lh3.googleusercontent.com/VBQXlcIALhFwgnfSlVLH1Ji5buJThdRZAmqf2cc7gEil6rSquC8gPo7ImirkVJ2h7A=h310",
+        "//lh3.googleusercontent.com/IVUhhoOKyIs1-Q1USTsU-Jbe9IsYfoLUR4jmdUvBGnMtiO46QGGLnhE_S-VMfk8mwkSm=h310",
+        "//lh3.googleusercontent.com/OOILMtPlIyKjmjdhT8WTlFJohVZhYWhrtBHtAGOLjsDxeGxqJXqRE7spVEnKY2W4U0A=h310",
+        "//lh3.googleusercontent.com/IkMeDB5ChyAUtXz347cKswlMB2l2HzLVuD6JeY_GqAFlszH3JXkdni4wMJKBAyYylnTL=h310"
+    ],
+    "comments": [
+        "Great watch face, but it needs the following: 1. Fix the hour hand in ambient mode. It has the same issue that was fixed on regular mode.     2. Make the notification card background opaque in ambient mode. The notifications are currently overlapping with the bottom part of the watch face.       3. Add the option to disable the notification card on the watch face, but only when on ambient mode. A few other watch faces have this option, and I really like it.",
+        "Great watch face with a really nice subtle animation when waking it.  One major gripe though: When an hour has past, the hour hand will stick only to the current hour exactly. i.e. if it's 1:30pm, the hour hand will be at 1 sharp, instead of inbetween 1 and 2. This fixes itself when it wakes, but is very jarring and repeats.",
+        "Beautiful design- by far my favourite. But the hour hand doesn't update in the standby (backlight off) mode. Quite annoying to read the time, apparently latest version has fixed hour hand... But not Huawei W1",
+        "I really like this watchface. It's so clean, analog, and has that really smooth animation when it wakes up. The only problem is that it tends to crash quite frequently and doesn't reboot itself the next time I wake up the watch (that might just be a Android Wear thing). I have to set a different watchface and then switch back to Mango to get it back, which shouldn't be a thing because like a real watch, the face has to just stay there without becoming a distraction to the watch itself.",
+        "Cool Watch Faces Cool watxh watches not bad. Its free so theres not a whole lot of faces or customization but a couple more faces and some ability to add more widgets to the watch face would be nice.",
+        "Love the watch face! But for some reason it has been crashing a few times a day. I have the Asus Zenwatch 2"
+    ],
+    "recentChanges": [
+        "- Hour hand is fixed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mediamonks.watchface.mango&hl=en&gl=us",
+    "appId": "com.mediamonks.watchface.mango"
+}

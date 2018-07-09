@@ -1,0 +1,53 @@
+{
+    "title": "Timer for android wear",
+    "summary": "Wear Timer for android smart watch",
+    "icon": "//lh3.googleusercontent.com/9Ss9R9h-Ouxz-cMV3ZQ5tvIpMQdEdu4tN78NVrMa541mlQj6XoEnmUjXgJoqCFWdcQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.3,
+    "reviews": 11,
+    "developer": "Nicolas C Perez",
+    "developerId": "Nicolas+C+Perez",
+    "developerEmail": "ppnicolasc@gmail.com",
+    "developerWebsite": "http://ntw21.com",
+    "developerAddress": "MIAMI, FL",
+    "updated": "May 8, 2015",
+    "version": "1.0.10",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Wear Timer is a simple to use app for android wear smart watch; useful in many timing scenarios.-------------------------------Actions-------------------------------Set timerStartStopRestartResetSet Alert-------------------------------Features-------------------------------Until 100 hoursRun in backgroundCyclic mode:  On/OffLeft time graphic:  On/OffAlert mode:  Mute/Vibrate/Beep/Vibrate and Beep                     Beep if device has speaker capabilitiesSet Alert patterns-------------------------------Languages-------------------------------English中国FrançaisDeutschItaliano日本人한국의PortuguêsPусскийEspañol",
+    "descriptionHTML": "Wear Timer is a simple to use app for android wear smart watch; useful in many timing scenarios.<br><br>-------------------------------<br>Actions<br>-------------------------------<br>Set timer<br>Start<br>Stop<br>Restart<br>Reset<br>Set Alert<br><br>-------------------------------<br>Features<br>-------------------------------<br>Until 100 hours<br>Run in background<br>Cyclic mode:  On/Off<br>Left time graphic:  On/Off<br>Alert mode:  Mute/Vibrate/Beep/Vibrate and Beep<br>                     Beep if device has speaker capabilities<br>Set Alert patterns<br><br>-------------------------------<br>Languages<br>-------------------------------<br>English<br>&#x4E2D;&#x56FD;<br>Fran&#xE7;ais<br>Deutsch<br>Italiano<br>&#x65E5;&#x672C;&#x4EBA;<br>&#xD55C;&#xAD6D;&#xC758;<br>Portugu&#xEA;s<br>P&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;<br>Espa&#xF1;ol",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/DrCRQ_OxDj4iwXvV9ar5EqDra8CLtCkdNGnp-s8i_G_Gg0q2QaWMIQhE2QwIgs_lKsQ=h310",
+        "//lh3.googleusercontent.com/m7xi11mOzaP8geg216qf3xEile4l7fZ00dpU_uJzXCLW6Ft1TH3FQ53EAxlfgHInPfM=h310",
+        "//lh3.googleusercontent.com/U0qttoFizZ_IkPzU2rhiVSVba79lDPX0PyfMNqGPc3GJag21GcyuGfgXN5NitXptBoc=h310",
+        "//lh3.googleusercontent.com/VCctSZZk2LqqY15SgONClZHwZVN7MUwM_uLdCEjNzY46WfVDeccpIFdEls5ZvIXCd9o=h310",
+        "//lh3.googleusercontent.com/OswaT9658iUcNt6X5EgezOhiAu17KMspDYy4g15ocqV2fboZi9Y0eIfvnAHN87VXo38=h310",
+        "//lh3.googleusercontent.com/zLbbXggNvCsKeqaanoJt_IysXsucI2d54CAEETFsXVDkjjF1T47ojaKDFfSTyHhcqD0=h310",
+        "//lh3.googleusercontent.com/mHY2YxZB1PGvQNdpa5JdAINJ1vgYgYwwUxPeJSjDulTcBogOiDoIKGWTQAgpMyNn55s=h310",
+        "//lh3.googleusercontent.com/vYHxXsAyRLYiTxSGvFIxBS5gJ-t4k1HgijaBDFFS9AjJECksp1vz9veIiqbUrvnifUg=h310"
+    ],
+    "comments": [
+        "Didn't work on my Asus Zen 1. Watch didn't vibrate when the timer went off. 2. Screen doesn't turn off. 3. The app isn't optimized with the touch screen."
+    ],
+    "recentChanges": [
+        "Fix background running issue"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ntw21.wear.timer&hl=en&gl=us",
+    "appId": "com.ntw21.wear.timer"
+}

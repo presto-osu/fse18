@@ -1,0 +1,53 @@
+{
+    "title": "Sphero Robot Controller",
+    "summary": "Control Sphero Robot with Android Wear Watch, Android Phone and Pebble Watch.",
+    "icon": "//lh4.ggpht.com/H-dpP3VmMT-mbA06el0TnIUebSLKCW2KPf1_R7oH-8sXBlFrzpgpYvcxZZuECFfl0Q=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.3,
+    "reviews": 10,
+    "developer": "John Li",
+    "developerId": "John+Li",
+    "developerEmail": "xuecsapp@gmail.com",
+    "developerWebsite": "http://www.woiapp.com",
+    "developerAddress": "No. 51, YuanMingYuan Xi Road, Haidian Dist\nBeijing, China",
+    "updated": "December 3, 2015",
+    "version": "1.5",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Robot Controller for Sphero allow you to use your Android Phone or Tablet to control Sphero Robot, if you have Pebble Watch or Android Wear Watch, you can also use Watch (which connected to your Phone or Tablet) to control your Sphero Robot.You can find information about Sphero Robot here:http://www.gosphero.com/sphero-2-0/Sphero Robot control features include:* Move forward/backward  and turn* Change Color* Toggle BackLED on and off* SleepThis App and developer are not associated with Orbotix, Inc.",
+    "descriptionHTML": "Robot Controller for Sphero allow you to use your Android Phone or Tablet to control Sphero Robot, if you have Pebble Watch or Android Wear Watch, you can also use Watch (which connected to your Phone or Tablet) to control your Sphero Robot.<br><br>You can find information about Sphero Robot here:<br>http://www.gosphero.com/sphero-2-0/<br><br>Sphero Robot control features include:<br>* Move forward/backward  and turn<br>* Change Color<br>* Toggle BackLED on and off<br>* Sleep<br><br>This App and developer are not associated with Orbotix, Inc.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/fdDO3vyGlb7LIqmX_mQmoVPBguMsRRarIp797NeF9Uq2u75dFqbbG81l2QblOyBSoxET=h310",
+        "//lh4.ggpht.com/8MtL5ekUodiKyoShK5F8iOi2It7eQaNJJA76Oe318PcWFnwVRMmSoRXjX0Lvlwc1og=h310",
+        "//lh6.ggpht.com/-GyA4J3muWA6bOG7D198JT3MUhziY7o78vMZfGC4NoZNVY2qBeFWV8t2oy347_ugrA=h310",
+        "//lh6.ggpht.com/tsBR39KZPZyqChjT0u3EV6Mx6jhnv_3TMaE0ZPyl4SXxGLIwxbdegF545OOPQP47qyQ=h310",
+        "//lh5.ggpht.com/w5HsI_r8C30KZBS-YGMJgYi2a_Be3mxlGPsedsHkdtLNMlhrBQVUSHz_BuYnsd2rm_Y=h310",
+        "//lh6.ggpht.com/7dSnDOc9-nt1QP_giDsWh1jm_GsZjQI-bnLNJy8dM234rIcMQZaa1_SyIPmw2v7sHw=h310"
+    ],
+    "comments": [
+        "Please make it work",
+        "Great app but... It would be really nice if you could control the robot by tilting your pebble watch. If it could 5 stars!!!",
+        "Works great The precision control is fun to use."
+    ],
+    "recentChanges": [
+        "- Update for Pebble Time"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.woiapp.SpheroRobotController&hl=en&gl=us",
+    "appId": "com.woiapp.SpheroRobotController"
+}

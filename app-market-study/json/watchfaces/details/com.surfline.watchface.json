@@ -1,0 +1,55 @@
+{
+    "title": "Surfline - Watch Face",
+    "summary": "The ultimate watch face for surfers and beach goers.",
+    "icon": "//lh6.ggpht.com/e5fXKPywYiwUl75H44hUXYTJnT8kWkNkC6_Iao4ULauwujcgOesbyZpH_H2gNWdIRKo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 2.9,
+    "reviews": 486,
+    "developer": "Surfline/Wavetrak, Inc.",
+    "developerId": "Surfline/Wavetrak,+Inc.",
+    "developerEmail": "surflineandroidapp@gmail.com",
+    "developerWebsite": "http://www.surfline.com/android",
+    "developerAddress": "300 Pacific Coast Hwy. Suite 310\nHuntington Beach, CA 92648",
+    "updated": "July 14, 2015",
+    "version": "1.4",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Using live data from Surfline’s team of expert surf forecasters and models, Surfline's watch face displays tide times, surf height, wind speed and direction straight to your Android Wear.",
+    "descriptionHTML": "Using live data from Surfline&#x2019;s team of expert surf forecasters and models, Surfline&apos;s watch face displays tide times, surf height, wind speed and direction straight to your Android Wear.",
+    "histogram": {
+        "1": 157,
+        "2": 43,
+        "3": 81,
+        "4": 97,
+        "5": 108
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/wc8Lmh09uwP5rZ3C4kMq4o1uFcxUHCJGaqjLHUUrY4M8GpdEZuD3rREVKDVQHlPozCQ=h310",
+        "//lh6.ggpht.com/mJR5Kx_YVgAlTy-EkNX5s-fKH_fu1J1jTPBLVMApDeuL79_dyMVSeTVreArxgQ-goQ=h310"
+    ],
+    "comments": [
+        "Nice looking watch face on my LG watch R. Still has a few issues such as the tide heights are off by a consistent 0.2m (too low) vs other tide sources. Tide times seem to be consistent.   Wind speeds don't work, never shows more than 3knots.  Swell heights seem reasonable vs other data sources and what I have observed.  I'm using it for locations in Western Australia.  I would like to see the date & day squeezed on to the face somewhere to make it more general purpose.",
+        "Tons of potential - great start Works well for a while with my moto 360 (5.1.1) and moto x (kit-kat). But now, like other reports, doesn't update. Would love to see mph on wind, even after setting it on phone. Website should provide detailed description of the watch face items. A few items don't make sense. With it not updating  I'm Uninstalling. Pity.",
+        "Getting better. Still needs work It actually Works now so that's a start. It would be nice to have different spots available on one watchface and more settings on the appearance. Also the way all the the surf locations are listed just doesn't make sense they are in alphabetical order rather than by location from North to south.",
+        "Good start for sure, would be nice if quick press went to a sport report view. Numbers are far too small to read without my glasses so i cant use it in the water, same problem i have with the mission app on nixon mission.",
+        "This is great....if it works. I love this watch face. In fact, I have solely used this watch face for two months. However it is EXTREMELY buggy when trying to set spots. You will try and set a new spot on the face and the words will start flashing and render the app useless. It's extremely annoying and I wish surfline would push some kind of fix.",
+        "Chrashes immediately. Otherwise great idea! On Moto 360 2nd gen when selecting the watch face it crashes immediately \"Unfortunately Surfline has stopped\". Only 3 spots in Finland. Would be nice to include all Windguru spots!"
+    ],
+    "recentChanges": [
+        "* Improved tide graph. Tide graph now updates every time you view the watch face.",
+        "* Added ability to change units in companion app (settings icon).",
+        "* Added crash analytics.",
+        "* Bug fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.surfline.watchface&hl=en&gl=us",
+    "appId": "com.surfline.watchface"
+}

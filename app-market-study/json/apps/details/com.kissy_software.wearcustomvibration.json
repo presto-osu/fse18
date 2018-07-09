@@ -1,0 +1,52 @@
+{
+    "title": "Wear Custom Vibration",
+    "summary": "Wear Custom Vibration lets you customize the vibration in your Android Wear.",
+    "icon": "//lh3.googleusercontent.com/iZL3Y23N1leUoJoUdUunTPNrhw8bg6OSSxKLZ9-dJqLwSd6GetbcFLTFi_U8jyUUbQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 62,
+    "developer": "Hideaki Kishimoto",
+    "developerId": "Hideaki+Kishimoto",
+    "developerEmail": "mail@kissy-software.com",
+    "updated": "January 23, 2017",
+    "version": "1.1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "With Wear Custom Vibration, you can customize the vibration pattern in your Android Wear. Android Wear might support this feature in the near future, but you can use it now.To use this app, you need the Android Wear (hardware) and any device which supports Android 4.3 or later.**********It needs about 5 minutes to synchronize the app on your Android Wear.Please wait a moment.**********By using this app, you can resolve problems like:* The default vibration is too short and weak, so you often miss important notifications.* Some app notifications don’t have vibrations on your android wear.This app doesn't show any screen in the Android Wear, only vibrations.To use it, you need to configure it on your smartphone.You can learn how to configure this app on the startup screen.Notice:* It may have unnecessary vibrations in some apps. You can customize the vibration.* The vibration of this app and the default action of Android Wear may vibrate at the same time.",
+    "descriptionHTML": "With Wear Custom Vibration, you can customize the vibration pattern in your Android Wear. Android Wear might support this feature in the near future, but you can use it now.<br><br>To use this app, you need the Android Wear (hardware) and any device which supports Android 4.3 or later.<br>**********<br>It needs about 5 minutes to synchronize the app on your Android Wear.<br>Please wait a moment.<br>**********<br>By using this app, you can resolve problems like:<br>* The default vibration is too short and weak, so you often miss important notifications.<br>* Some app notifications don&#x2019;t have vibrations on your android wear.<br><br>This app doesn&apos;t show any screen in the Android Wear, only vibrations.<br>To use it, you need to configure it on your smartphone.<br>You can learn how to configure this app on the startup screen.<br><br>Notice:<br>* It may have unnecessary vibrations in some apps. You can customize the vibration.<br>* The vibration of this app and the default action of Android Wear may vibrate at the same time.",
+    "histogram": {
+        "1": 7,
+        "2": 3,
+        "3": 8,
+        "4": 12,
+        "5": 32
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qzbLZKy3tI3V1x442Zp7kZZ5eWJon9OMZreESvMDfnyjZzn_dJmKoHfljXVj1HGjwshk=h310",
+        "//lh3.googleusercontent.com/sKvIpi-c8lxu4DvfHkb2_bro1un8I0iIeSYi0z9WQZfRq18xN6anKMWziGfNu_3A9bU=h310",
+        "//lh3.googleusercontent.com/dc664RcbR22CS1SuqYq65J_zu-XMsSpREo41ZvmIlfTU45NyC7MGa8jkS6oX7GHvTQ=h310",
+        "//lh3.googleusercontent.com/kSMQzKwpZdJsQP6f4TYEAMrvRVz4bGHxXGeCywL-uhxUFAONSNA8c4eA90baY7lFhg=h310"
+    ],
+    "comments": [
+        "Don't miss a thing. Buzzes four or more times for a txt or WhatsApp.",
+        "Works perfectly. A slight learning curve is there and it could be made a bit easier. But it actually works and is free. One suggestion - make a global trigger also.",
+        "Works just perfect on my device. There is a little learning curve for getting the best out of it, but then everything is just logical and the app is running just fine on my phone since weeks now. Thank you!",
+        "Couldn't understand how to get it to work.",
+        "Works great",
+        "Great app, but needs one feature Can you please allow the app to respect the phone's Silent Mode and not vibrate the Wear? It wakes me up at night unless I temporarily disable Notification Access for WCV on the phone. Otherwise, perfect!! Arigato! ^_^"
+    ],
+    "recentChanges": [
+        "Support the link to the notification setting in Android 5 or later."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kissy_software.wearcustomvibration&hl=en&gl=us",
+    "appId": "com.kissy_software.wearcustomvibration"
+}

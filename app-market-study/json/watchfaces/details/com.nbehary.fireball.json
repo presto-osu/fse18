@@ -1,0 +1,47 @@
+{
+    "title": "WristFrame 360 Face",
+    "summary": "A watch face inspired by the Moto 360&#39;s long ago namesake. (for any Wear watch)",
+    "icon": "//lh3.googleusercontent.com/lcpBVQwCIayjlZ7PlJl4EKOMkfvUIthshBo87a11_z8A-szTWHRHZDsCeIB2cs1NuDQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Nathan A. Behary",
+    "developerId": "Nathan+A.+Behary",
+    "developerEmail": "nate.behary@gmail.com",
+    "developerAddress": "682 Honeysuckle Dr.\nNaperville, Il 60540",
+    "updated": "August 6, 2015",
+    "version": "2015.218.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "In another life, I wrote software that ran on the IBM 4/PI which is 2 S/360 cores running in parallel.  (Using an S/390 to write it) Coupled with that and somewhat inspired by the people who have gotten various OSs to run on Wear, I thought it would be cool to run OS/360 (well, MVS) on my Moto 360 with Hercules.  That's insane, and I'm not that crazy.  However, a watch face inspired by it was doable, so I made this.  Features:- Tells Time!  (The date even, if you want)- Super cool IBM Mainframe theme!- Completely valid JCL! (that is actually functional)- Shows the watch battery level, and optionally the connected phone's as well as the current temperature.  (maybe steps someday.)- Doesn't really mock you for poor choices!While this face was inspired by the Moto 360, and written primarily for mine, it should work fine on any Wear watch. (Please let me know if not.  I want to support every Wear Device)Permissions:- Location is used to get a weather report from openweathermap.org.  It is not stored by the app in any way, and only used for that single purpose.- Internet is used for the above only.  (Except for Wear Cloud Sync, if you enable that, will be used to send values to/from the Watch.  No personal information is included in that, just preferences, Battery level, and the temperature OpenWeatherMap returns)",
+    "descriptionHTML": "In another life, I wrote software that ran on the IBM 4/PI which is 2 S/360 cores running in parallel.  (Using an S/390 to write it) <br><br>Coupled with that and somewhat inspired by the people who have gotten various OSs to run on Wear, I thought it would be cool to run OS/360 (well, MVS) on my Moto 360 with Hercules.  That&apos;s insane, and I&apos;m not that crazy.  However, a watch face inspired by it was doable, so I made this.  <br><br>Features:<br>- Tells Time!  (The date even, if you want)<br>- Super cool IBM Mainframe theme!<br>- Completely valid JCL! (that is actually functional)<br>- Shows the watch battery level, and optionally the connected phone&apos;s as well as the current temperature.  (maybe steps someday.)<br>- Doesn&apos;t really mock you for poor choices!<br><br><br>While this face was inspired by the Moto 360, and written primarily for mine, it should work fine on any Wear watch. (Please let me know if not.  I want to support every Wear Device)<br><br>Permissions:<br>- Location is used to get a weather report from openweathermap.org.  It is not stored by the app in any way, and only used for that single purpose.<br>- Internet is used for the above only.  (Except for Wear Cloud Sync, if you enable that, will be used to send values to/from the Watch.  No personal information is included in that, just preferences, Battery level, and the temperature OpenWeatherMap returns)",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/z0pl7M-JXDpgBSsvMJ_pYhtsEn9sbATmi6hK5XRLVYNq1gSMvV9q42zW1CV_AA3zmCw=h310",
+        "//lh3.googleusercontent.com/5fUhHUYaKDzUTZr-bUIZJmjy7-Lb7GQjo5gInfkrjh91hoTrdDoiW9xY0S5wAMAGLA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Version 2015.218.1",
+        "- Added Always use 2-digit hour setting",
+        "- Added ability to turn off the System/360 logo.",
+        "- Fixed a bug that caused Celcius to be selected w/o user input."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nbehary.fireball&hl=en&gl=us",
+    "appId": "com.nbehary.fireball"
+}

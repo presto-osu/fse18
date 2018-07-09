@@ -1,0 +1,60 @@
+{
+    "title": "SMS Ticket",
+    "summary": "Buy SMS tickets in Prague and other Czech and Slovak cities in a pleasant way.",
+    "icon": "//lh5.ggpht.com/aSh0TBP1MqaRuKLPvdkzZS0dPmWLrMgnv_fP-SO5Uw5G9vHek_RF7Q8RtyJdTwXK_9aP=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.4,
+    "reviews": 2822,
+    "developer": "SMS Ticket",
+    "developerId": "SMS+Ticket",
+    "developerEmail": "info@placeholdevs.com",
+    "developerWebsite": "https://github.com/avast/sms-ticket",
+    "updated": "October 19, 2016",
+    "version": "3.4.3",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Features:- up-to date database of tickets for many cities- notifications about expiration- statistics how much you spent on tickets- Android Wear support - buy tickets from your watch!- dual-sim supportCreators of this app do not financially benefit from purchases of the tickets. The app process sms tickets with respective providers directly. Ticket definitions are updated from our server. You don't have to install update of the app to have up-to-date cities and tickets list.  Supports SMS tickets in following Czech and Slovak cities:- Prague (30 minutes, 90 minutes, 24 hours, 72 hours)- Brno (20 minutes, 75 minutes, 24 hours)- Ústí nad Labem (60 minutes, 24 hours adult and discounted)- Ostrava (70 minutes, 24 hours, both adult and discounted)- České Budějovice (60 minutes, 24 hours)- Liberec & Jablonec (60 minutes)- Plzeň (35 minutes, 24 hours, 65 minutes zones P+V, 35 minutes zone V)- Hradec Králové (45 minutes, 24 hours)- Olomouc (50 minutes)- Pardubice (45 minutes, 24 hours)- Karlovy Vary (60 minutes adult and discounted)- Zlín+Otrokovice (40 minutes, 24 hours adult and discounted)- Sokolov- Bratislava (70 minutes, 24 hours)- Košice (60 minutes)- Žilina (60 minutes)- Prešov (30 minutes)Are you missing a city that already supports SMS Tickets? Are you experiencing any problems? SMS Ticket is now open-source: https://github.com/avast/sms-ticketAdd your issue here: https://github.com/avast/sms-ticket/issuesThis application is part of the Avast Labs Google Play account, maintained by Avast Software. Applications hosted under this account are intended for public use. Because the account is used for testing new applications and concepts, it may contain fully operational applications as well as simple demos. Feel free to contact us if you have any questions.",
+    "descriptionHTML": "Features:<br>- up-to date database of tickets for many cities<br>- notifications about expiration<br>- statistics how much you spent on tickets<br>- Android Wear support - buy tickets from your watch!<br>- dual-sim support<br><br>Creators of this app do not financially benefit from purchases of the tickets. The app process sms tickets with respective providers directly. Ticket definitions are updated from our server. You don&apos;t have to install update of the app to have up-to-date cities and tickets list. <br> <br>Supports SMS tickets in following Czech and Slovak cities:<br>- Prague (30 minutes, 90 minutes, 24 hours, 72 hours)<br>- Brno (20 minutes, 75 minutes, 24 hours)<br>- &#xDA;st&#xED; nad Labem (60 minutes, 24 hours adult and discounted)<br>- Ostrava (70 minutes, 24 hours, both adult and discounted)<br>- &#x10C;esk&#xE9; Bud&#x11B;jovice (60 minutes, 24 hours)<br>- Liberec &amp; Jablonec (60 minutes)<br>- Plze&#x148; (35 minutes, 24 hours, 65 minutes zones P+V, 35 minutes zone V)<br>- Hradec Kr&#xE1;lov&#xE9; (45 minutes, 24 hours)<br>- Olomouc (50 minutes)<br>- Pardubice (45 minutes, 24 hours)<br>- Karlovy Vary (60 minutes adult and discounted)<br>- Zl&#xED;n+Otrokovice (40 minutes, 24 hours adult and discounted)<br>- Sokolov<br>- Bratislava (70 minutes, 24 hours)<br>- Ko&#x161;ice (60 minutes)<br>- &#x17D;ilina (60 minutes)<br>- Pre&#x161;ov (30 minutes)<br><br>Are you missing a city that already supports SMS Tickets? Are you experiencing any problems? <br>SMS Ticket is now open-source: https://github.com/avast/sms-ticket<br>Add your issue here: https://github.com/avast/sms-ticket/issues<br><br>This application is part of the Avast Labs Google Play account, maintained by Avast Software. Applications hosted under this account are intended for public use. Because the account is used for testing new applications and concepts, it may contain fully operational applications as well as simple demos. Feel free to contact us if you have any questions.",
+    "histogram": {
+        "1": 170,
+        "2": 85,
+        "3": 205,
+        "4": 467,
+        "5": 1895
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/DH0OqjdeLU7m8kAmUkeuUFuRkl5_QFVVsAWiI0We_gyp9ZNngBL3hOQE1z539qX5SbKV=h310",
+        "//lh3.ggpht.com/6ZYEmZpcuqlXp-P2-P-QncGYmQrLSuRu2wqXaGNA8im_Ql9lQ01bTTTBLeIUDCT01jY=h310",
+        "//lh4.ggpht.com/x8vFn8EU9HcOu-8RNPhrFwo6ciTCtwSJGFw3dvxOnqTOtBJOL_Wz5f15cHnP37KGmBg=h310",
+        "//lh6.ggpht.com/AfeThvS1ZwV6MARbumEb9Fs0QKydXTjzuZm2w6wxTeoPj0a15qm7Bak13U6gnLHJoPQ=h310",
+        "//lh4.ggpht.com/v0IzkUKU_o_sQTd_BNzleqGlJY_R2xI1QP9fAUdT4i2Bkx9quUyx8oC4Q4af2gyAdL4z=h310",
+        "//lh3.googleusercontent.com/IF6j7-_GSTEoVadG65JMe5tk2fnsNGsbLAtpfj13zjwzLydfh0oezCUK8fQpqoXSszI=h310",
+        "//lh3.googleusercontent.com/GPNoj1v2HCr1PaWAhGa8QEBVy2P8BW_ylfQQp72go9mxrhDNbMUvI4ZLATM7ue-4unU=h310",
+        "//lh3.googleusercontent.com/6uH15E-t88FeVOr6WX9EGIyAdu52gBh-m4Velx4vXx4fcgkVKHPIJmtnTlzjF4IOiaa7=h310",
+        "//lh3.googleusercontent.com/H5b-quZaTIB7C-i5nQSi6D7klVglT7y8mrqnU31eRw8ykOBOrhx-XvpcXbfk7YM_mLk=h310",
+        "//lh3.googleusercontent.com/-jR3ISikuaEgF97pH9bhQFPrQribsN43tHtWcM8MmrWr9LY1oUPev_OFVh-JLuXLr3Q=h310",
+        "//lh3.googleusercontent.com/Ef2oKKInz2vEm7IB3CivbL1-GAl6-7ODkUunLSMpkERtX30T50KAa769aBA_JZdVQss=h310"
+    ],
+    "comments": [
+        "Po updatu prestala appka fungovat na dualsimu. Najde zahranicni simku, odignoruje ceskou simku a zahlasi chybovou hlasku, ze odmita bezet na zahranicni simce.",
+        "Skvělá aplikace, dělá přesně to, co má, navíc podporuje Android Wear!",
+        "It bought me two tickets instead of one. Please fix.",
+        "Horrible battery drainer. Strašný žrout baterie, dokonce i pokud ani nebyl koupen lístek. Ani 3/4 roku po upozornění neopraveno.",
+        "fail doesn't work with foreign SIM",
+        "Přestala fungovat podpora zadávání z Android Wear. Nelze synchronizovat města."
+    ],
+    "recentChanges": [
+        "Fixed some bugs"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eu.inmite.apps.smsjizdenka&hl=en&gl=us",
+    "appId": "eu.inmite.apps.smsjizdenka"
+}

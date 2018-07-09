@@ -1,0 +1,47 @@
+{
+    "title": "Equinox",
+    "summary": "Leona/Diana themed watch face",
+    "icon": "//lh3.googleusercontent.com/j2qbGbSiDmmcDZjpwJ42Xauqp6_azrfrOD02t9Su4TDY8U2GMpE9RyIpf4QYJ4NQ0kiG=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.9,
+    "reviews": 10,
+    "developer": "CombatCube",
+    "developerId": "CombatCube",
+    "developerEmail": "combatcu8e@gmail.com",
+    "updated": "April 19, 2016",
+    "version": "1.0.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This is a watch face inspired by the characters Leona and Diana from the game League of Legends.Ambient mode supported",
+    "descriptionHTML": "This is a watch face inspired by the characters Leona and Diana from the game League of Legends.<br><br>Ambient mode supported",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/BJNE_b5e5nplrE4L2ZDbmwl_bPJgYZteGUCKv0LX3H2Nbow2F7Ua74pnORCPQswdXnV0=h310",
+        "//lh3.googleusercontent.com/R2kguEmv9yOl5D4WLYbIfUgoWfWZsSKkyk4jmrIbxenXRL0P1xIBc4FKiS8_PID1dGI=h310"
+    ],
+    "comments": [
+        "Excellent! Any chance of a way to switch it to digital 12h with the background doing the same thing?",
+        "Excellent watch face",
+        "Genius idea Been waiting on LoL watch faces. Might make one myself!!"
+    ],
+    "recentChanges": [
+        "Fixed -505 error on some Marshmallow devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.combatcube.leonadiana&hl=en&gl=us",
+    "appId": "com.combatcube.leonadiana"
+}

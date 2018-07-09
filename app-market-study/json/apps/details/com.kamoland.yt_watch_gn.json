@@ -1,0 +1,52 @@
+{
+    "title": "Mountain trip logger Smart2A",
+    "summary": "The extension for use notification with SmartWatch2(SW2), Tasker event.",
+    "icon": "//lh3.ggpht.com/WGCJN5zQECVNPLeG9Q91GGdyilivCpc3tLWtk5bFAEi19lfnqDiSZx1FCUt9sdCoyA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 5,
+    "developer": "KMI Software",
+    "developerId": "KMI+Software",
+    "developerEmail": "kamoland@gmail.com",
+    "developerWebsite": "http://www.chizroid.info/ytlog_smart",
+    "developerAddress": "4-8-12 Tsuruno, Settsu-city\nOsaka\nJapan",
+    "updated": "September 11, 2015",
+    "version": "1.4",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Mountain trip logger Smart2A is an application for use from SmartWatch2(SW2), SmartWatch(MN2) the \"Mountain trip logger GOLD\" GPS logger app. - The use is required Mountain trip logger GOLD version 4.1 - The free version of Mountain trip logger, not supported. - For Android Wear smartwatch, please use \"Mountain trip logger Wear\".■ What you can do - At SmartWatch, corresponds to the arrival alarm of Mountain trip logger GOLD. I ring the vibe and you can stop alarm at SmartWatch.■ Tasker event PluginWhen the alarm start, Tasker event will be triggered.Arrival alarm, deviate alarm, abnormal alarm.Other features, please use Mountain trip logger Smart2.LiveWare™ extension for SmartWatchSmart Connect extension for SmartWatch 2",
+    "descriptionHTML": "Mountain trip logger Smart2A is an application for use from SmartWatch2(SW2), SmartWatch(MN2) the &quot;Mountain trip logger GOLD&quot; GPS logger app.<br> - The use is required Mountain trip logger GOLD version 4.1<br> - The free version of Mountain trip logger, not supported.<br> - For Android Wear smartwatch, please use &quot;Mountain trip logger Wear&quot;.<br><br>&#x25A0; What you can do<br> - At SmartWatch, corresponds to the arrival alarm of Mountain trip logger GOLD. I ring the vibe and you can stop alarm at SmartWatch.<br><br>&#x25A0; Tasker event Plugin<br>When the alarm start, Tasker event will be triggered.<br>Arrival alarm, deviate alarm, abnormal alarm.<br><br>Other features, please use Mountain trip logger Smart2.<br><br>LiveWare&#x2122; extension for SmartWatch<br>Smart Connect extension for SmartWatch 2",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.1 and up",
+    "androidVersion": "2.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/skhIm2u-VHNnuYETnDfNrOuvJTPj6umZHUPJfyBefL5EgZGXYvyy8F5cu-DiqZ1o94wL=h310",
+        "//lh5.ggpht.com/xICJfJVLIRWKvyFPZSy_S8utmkH5ytERgNpA_wH95few0Je0j14MPMTvpqRgoSkLWZoX=h310",
+        "//lh3.ggpht.com/8IXvBex_W5m17sANugK5z9q97KiABdzkc5QUquIYwCStMJ-lAWnQfVSIwj53G7TVHA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Version 1.4 (2015/9/12)",
+        "-Support Tasker variable at event plugin function. (Arrival alarm: %dname, Altitude alarm: %alt).",
+        "Version 1.3 (2015/9/12)",
+        "-Support the altitude alarm at Tasker event Plugin. (Require Mountain trip logger GOLD v4.35+)",
+        "-I removed the Russian language resources.",
+        "Version 1.2 (2014/9/21)",
+        "-Tasker event Plugin is supported. When the alarm start, Tasker event will be triggered."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kamoland.yt_watch_gn&hl=en&gl=us",
+    "appId": "com.kamoland.yt_watch_gn"
+}

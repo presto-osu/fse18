@@ -1,0 +1,57 @@
+{
+    "title": "Coubertin Rings: Watch Face",
+    "summary": "A watch face to motivate your daily activity",
+    "icon": "//lh3.googleusercontent.com/FRdpqses9jAJ4XSfzaAWw7e3ANO3_exE5lxPV2uxiFuw0KKniofG-6prbfWdKO5I1b4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.9,
+    "reviews": 114,
+    "developer": "Fathom Information Design",
+    "developerId": "Fathom+Information+Design",
+    "developerEmail": "inquire@fathom.info",
+    "developerWebsite": "http://fathom.info",
+    "developerAddress": "300 Cambridge Street, Floor 5\nBoston, MA 02114",
+    "updated": "January 13, 2016",
+    "version": "1.2.7",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Coubertin Rings  is an Android Experiment that uses the built-in sensors on your watch to display playful interactive rings that represent your daily step count. The more steps you take, the more rings you earn. As you hit step milestones throughout the day, the rings get bigger, change color, and scale up to quantify higher step counts (e.g. 10 steps, 100 steps, 1,000 steps). Once you hit the higher step counts, your watch will reward you with a splash of color to help motivate you to the next ring. Shoot for 10,000 steps and achieve a jubilation of color!Paying homage to Pierre de Coubertin, the father of the modern Olympic Games, the watch references the rings of the Olympic logo which was designed in 1912 by Coubertin himself. The Olympics are a symbol of goals and achievements, the Coubertin Rings watch face is meant to promote your daily activity performance.Step calculationIf Google Fit is enabled on your phone, the watch will query the Google Fit API for the daily step count. Due to Google's implementation of the Fit API, the numbers shown may not match those reported by the phone. (We find it frustrating too, and if it bothers you, please report the bug to Google!)When Google Fit is disabled, the built-in pedometer of each watch calculates steps, which begins counting once the Coubertin Rings watch face is selected. The daily step count resets to zero each night at 4:00 a.m. If the user selects a different watch face and returns back to Coubertin Rings, the step count will start at zero. The steps also return to zero if the watch is turned off or reset. For more information about Coubertin Rings visit http://www.androidexperiments.comSee Fathom’s full collection of watch facesCoubertin Rings: A watch face to motivate your daily activity http://goo.gl/6OZfQKGaze Effect: A watch face that looks back https://goo.gl/klBrM1Bouncing Isaac: A watch face inspired by light and physics https://goo.gl/WFf1FtThis project is open source, and the code is available here:https://github.com/fathominfo/fathom-watchfaces",
+    "descriptionHTML": "<i>Coubertin Rings</i>  is an Android Experiment that uses the built-in sensors on your watch to display playful interactive rings that represent your daily step count. The more steps you take, the more rings you earn. As you hit step milestones throughout the day, the rings get bigger, change color, and scale up to quantify higher step counts (e.g. 10 steps, 100 steps, 1,000 steps). Once you hit the higher step counts, your watch will reward you with a splash of color to help motivate you to the next ring. Shoot for 10,000 steps and achieve a jubilation of color!<br><br><br>Paying homage to Pierre de Coubertin, the father of the modern Olympic Games, the watch references the rings of the Olympic logo which was designed in 1912 by Coubertin himself. The Olympics are a symbol of goals and achievements, the <i>Coubertin Rings</i> watch face is meant to promote your daily activity performance.<br><br><br><b>Step calculation</b><br>If Google Fit is enabled on your phone, the watch will query the Google Fit API for the daily step count. Due to Google&apos;s implementation of the Fit API, the numbers shown may not match those reported by the phone. (We find it frustrating too, and if it bothers you, please report the bug to Google!)<br>When Google Fit is disabled, the built-in pedometer of each watch calculates steps, which begins counting once the <i>Coubertin Rings</i> watch face is selected. The daily step count resets to zero each night at 4:00 a.m. If the user selects a different watch face and returns back to <i>Coubertin Rings</i>, the step count will start at zero. The steps also return to zero if the watch is turned off or reset. <br><br><br>For more information about <i>Coubertin Rings</i> visit http://www.androidexperiments.com<br><br><br><b>See Fathom&#x2019;s full collection of watch faces</b><br><i>Coubertin Rings</i>: A watch face to motivate your daily activity http://goo.gl/6OZfQK<br><i>Gaze Effect</i>: A watch face that looks back https://goo.gl/klBrM1<br><i>Bouncing Isaac</i>: A watch face inspired by light and physics https://goo.gl/WFf1Ft<br><br><br><b>This project is open source, and the code is available here:</b><br>https://github.com/fathominfo/fathom-watchfaces",
+    "histogram": {
+        "1": 11,
+        "2": 9,
+        "3": 13,
+        "4": 33,
+        "5": 48
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/yN6zAcy1ObZJUmi28cu70dpacIXlezKCIez_cEnvGWz4VA5D_3if0Sgeljbxq1s7s6M=h310",
+        "//lh3.googleusercontent.com/s4ZMdwe3nTrQtDv-CloH14GErJYa4MdMvxne-V5XtzhdeIjC6_ZJPrLszYXy8Dw_itY=h310",
+        "//lh3.googleusercontent.com/qiPffEk6gM3maTpFR7A3Uw5nbK52voSpQiYhd9rkz2wIO3bX8wCmq6-ovEhx7br3oFRr=h310",
+        "//lh3.googleusercontent.com/f7jO3JlTDG0oYoMZhtmW4Dm5hQTgRU0TMondA9jOdMbEIvJCnyyVSB9V9MA3IwRgy_U=h310",
+        "//lh3.googleusercontent.com/NewQn8tKJb-uVe8Ng3GWZvoNQBlGVunnHnymGR0VAmyBNYO7BIdX6BYCsGWeeOpFcQ=h310",
+        "//lh3.googleusercontent.com/j4ML9pILtKknteRW6kfJPt7Ocf9Wmm2inLWGJiZMt9TMl9UtCfkOF3fouPnoH-RFG_o3=h310"
+    ],
+    "video": "https://www.youtube.com/embed/zrIV0KULkBA",
+    "comments": [
+        "Works after the update! It didn't show up before the update but now it shows up on my watch as a choice.  I've been looking for a digital face with step count and this one is fantastic!",
+        "It works! Thanks to the developers who reached out to me about my concerns about it not working. It works now and it looks great on my watch. Thank you!!!!!!",
+        "Just what I was looking for! This is exactly what I wanted! A simple watch face with the digital time and a step count! The circle effect is very appealing, and I love how they move around as you tilt the watch.",
+        "I downloaded  and installed it but it doesn't open ..i don't know what's the problem i can't find it on my cell phone.",
+        "Classy, and fun.  But what is that screen that covers the face and says 10,000 steps, (not actually my step count) and how do I go back to the regular face?",
+        "Simply awesome Simple, light weight and animated watch face #⌚"
+    ],
+    "recentChanges": [
+        "Now with support for Google Fit! Also added support for 24-hour time, and it shows the date when tapped. Live updates when steps are detected, plus a handful of other bug fixes and tweaks."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.fathom.watchfaces.coubertin&hl=en&gl=us",
+    "appId": "info.fathom.watchfaces.coubertin"
+}

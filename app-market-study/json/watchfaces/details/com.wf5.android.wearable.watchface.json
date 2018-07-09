@@ -1,0 +1,54 @@
+{
+    "title": "Skob Watch Face Military",
+    "summary": "Watch face for Smart watch.Chronograph with night mode, weather and digital time",
+    "icon": "//lh3.ggpht.com/E-RXy8px6Rvd70lsOeD6dnpwq1rwNTsWxkDfJO-bPMyEpb85637_y8zHfLJ0fa08j6s=w300",
+    "price": "$1.19",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3,
+    "reviews": 7,
+    "developer": "Alexander Skobeltsyn",
+    "developerId": "Alexander+Skobeltsyn",
+    "developerEmail": "a.skobeltsyn@gmail.com",
+    "developerWebsite": "http://watchface.su",
+    "developerAddress": "Polytechnicheskaya 29",
+    "updated": "March 18, 2015",
+    "version": "1.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Skob is a stylish watch face for your Android Wear device. This watch face features a special night mode design for ultimate readability in low light situations.This analog watchface will make your Android Wear device even more iconic:★ Military watch with special night mode★ Possibility to choose color scheme★ Adventurous spirit and exclusive design★ Exttra functions in small dials ★ Works for round and squared watchesExtra function: Weather, Steps and Digital timeSteps reset every day at 3amSupports 6 languages for day of the week:RussianEnglishGermanFrenchItalianChineseDesigned by Alexander Skobeltsyn.http://watchface.su/",
+    "descriptionHTML": "Skob is a stylish watch face for your Android Wear device. <br>This watch face features a special night mode design for ultimate readability in low light situations.<br><br>This analog watchface will make your Android Wear device even more iconic:<br>&#x2605; Military watch with special night mode<br>&#x2605; Possibility to choose color scheme<br>&#x2605; Adventurous spirit and exclusive design<br>&#x2605; Exttra functions in small dials <br>&#x2605; Works for round and squared watches<br><br>Extra function: Weather, Steps and Digital time<br>Steps reset every day at 3am<br><br>Supports 6 languages for day of the week:<br>Russian<br>English<br>German<br>French<br>Italian<br>Chinese<br><br>Designed by Alexander Skobeltsyn.<br>http://watchface.su/",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/7TyR74-9VqNiESp2Fu3vDegRl7AC8WqvHfcwzd_wM6DvShEGPUD0xaE0k3c1QjK7CAA=h310",
+        "//lh3.ggpht.com/p6547R1H3U5qhb_pS5Gj1QFWL-vKDhvNnF8aasmqkFIhR179BBO1FDmNiwyK6Woiym0=h310",
+        "//lh3.ggpht.com/Otieei0MFOvdj3YeoDerrlWW3HPyy7UDKGJBZsUt56NfdFEHN8RR_LCKuSbNLuK60A4=h310",
+        "//lh4.ggpht.com/ewbEiAA_iAynwE6K9aYFJFPa-_-p0dyh7Ib9ot2QIrp_16y91bOoN64KtH8QMU1EbfM=h310",
+        "//lh6.ggpht.com/m4rVJGR2qWKCN-ir6-nm4u2qNLmnleCWPoWJq2DmonPsjxRxoDi108TVoUrWfb0dh1oN=h310",
+        "//lh3.ggpht.com/8hW8rNJXEr6g-aPdPAWx_eEL9UjbMa0z2UoLxLSHv8s9HeSe2KZcaeN_Y-6iK7HgNq4=h310",
+        "//lh6.ggpht.com/tPkAXGhAps_su7Nx-VlVooeFploCxwKTBm_juP3khtT1Zdr_XbNBPcpW613l1OfDbkE=h310",
+        "//lh3.ggpht.com/MtEHo9Zfj2_XXatX2xwkoeQAjGASluhTxn_Aj9bRCLJxDTS3Hppt0NenT-DQB361WJ1O=h310",
+        "//lh3.ggpht.com/Y_c6v8jJAUW-3SleRp_K2klWupbSv-xi_-KjhXyD2wGQqrbiHKCZgzoQ6KctG0zzOQ=h310"
+    ],
+    "comments": [
+        "Looks great on my LG R!"
+    ],
+    "recentChanges": [
+        "bug fixing, correct auto uploading on wearable device"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wf5.android.wearable.watchface&hl=en&gl=us",
+    "appId": "com.wf5.android.wearable.watchface"
+}

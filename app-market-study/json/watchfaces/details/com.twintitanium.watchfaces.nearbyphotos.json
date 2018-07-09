@@ -1,0 +1,50 @@
+{
+    "title": "Nearby Photos Watch Face",
+    "summary": "This Android Wear watch face features photos that have been taken nearby.",
+    "icon": "//lh4.ggpht.com/7Z8wsOl6fVbmr9I5Av-8zvz5BZATsG_TDtNAs8ubALGKn8hNQvh12n_4UgUbf6LsQbo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 15,
+    "developer": "Twin Titanium",
+    "developerId": "Twin+Titanium",
+    "developerEmail": "twintitaniumteam@gmail.com",
+    "developerAddress": "151 Calderon Ave #43\nMountain View, CA\n94041",
+    "updated": "January 9, 2016",
+    "version": "1.1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "With this watch face, you'll be able to see beautiful photos that reflect your immediate surroundings every time you look at your watch. Because the watch face uses public geotagged photos from Flickr, it will constantly update over time and present interesting photos based on Flickr's interestingness algorithm. And, since the watch face gets new photos automatically as you go to new places, it is perfect to wear when travelling! It also looks great on both round and square screens.Please email us if you have issues, ideas, or any feedback in general.",
+    "descriptionHTML": "With this watch face, you&apos;ll be able to see beautiful photos that reflect your immediate surroundings every time you look at your watch. Because the watch face uses public geotagged photos from Flickr, it will constantly update over time and present interesting photos based on Flickr&apos;s interestingness algorithm. And, since the watch face gets new photos automatically as you go to new places, it is perfect to wear when travelling! It also looks great on both round and square screens.<br><br>Please email us if you have issues, ideas, or any feedback in general.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/Eh1zgQjC1LTgJFBBcUuKCWPI1PIURJVpcR-twwl84F3ptVVbiIFB8ms_WrjPy7843Vh2=h310",
+        "//lh6.ggpht.com/GpE97V09St6PR62k0VsmR6aDuzI3JA-3EQ-JJmAe9WWYtsO4n4-cS9R32DyY88mcTLw=h310",
+        "//lh3.googleusercontent.com/fe20KPCqHr9W6ijFOx8AyQsCSD0McRp15nGb_xQiokDfbL6wNjjXS6eI1UpSbpcW1_U=h310"
+    ],
+    "comments": [
+        "Causes the battery to drain. Not because of the app, but because I'm constantly checking my watch for the pictures! It's just fun!",
+        "Very contextual! I love seeing all the interesting photos that represent the places I travel to right on my wrist. They often showcase the location's unique culture or idiosyncratic landmarks, and they change all the time!",
+        "Love the concept I think it runs my battery down faster because of the constant photo updating that goes on. Needs to be able to set a time interval perhaps.",
+        "Heat it"
+    ],
+    "recentChanges": [
+        "Cycles through more photos if you stay in the same location, so you should see more variation."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.twintitanium.watchfaces.nearbyphotos&hl=en&gl=us",
+    "appId": "com.twintitanium.watchfaces.nearbyphotos"
+}

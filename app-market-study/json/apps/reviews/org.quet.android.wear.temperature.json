@@ -1,0 +1,73 @@
+[
+    {
+        "author": "Ryan Newson",
+        "comment": "A handy app, it would be good if it could detect room temperature by taking the battery temperature and some manual user calibration for correction, say -10\u00b0, from what the battery temperature is.",
+        "date": "January 2, 2015",
+        "permlink": "/store/apps/details?id=org.quet.android.wear.temperature&reviewId=Z3A6QU9xcFRPRkNWYWtYdjVVTGJJT3JocURuQUx4OEtKcWV0R25MaFdhbTVWVFlMZ0hESHBPMVpJaTE1dkh4S18zYm1EZ3JneGJXeFJYUm55ZjVTSUt2aWxn",
+        "reply": {
+            "author": "AQ",
+            "content": "Good idea, thanks Ryan. Unfortunately this would result in a very inaccurate temperature for the room, mainly because the components and sensor(s) are very close to each other on such a tiny device, so when the cpu or the gpu is warming, it also affects the temperature reflected by the battery sensor almost independently of the room temperature.",
+            "date": "January 3, 2015"
+        },
+        "star": 4,
+        "title": "Useful"
+    },
+    {
+        "author": "Corbin Davenport",
+        "comment": "Works",
+        "date": "November 9, 2014",
+        "permlink": "/store/apps/details?id=org.quet.android.wear.temperature&reviewId=Z3A6QU9xcFRPRlRLZDZTSU96eWJneGJxN1hJQkNvYndiSnZFS0VwQnM0V2VVaklPbFBBUDdUYlVfY3NsU0FpQUg4TkJVcmZOVVRHemthZldUSEhXWU95WDFz",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Bill Chen",
+        "comment": "Nice and simple",
+        "date": "November 11, 2014",
+        "permlink": "/store/apps/details?id=org.quet.android.wear.temperature&reviewId=Z3A6QU9xcFRPR1FXUUctenNxd2lOVUg2M3hOa1NGX1V2dGU0dXFNTzVveVhtTDFqWkFfVmlUN1NTOGlOZHZVdVJUS2VnWlFObzlqR1NJWDFBdlU2TVFObG4w",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Matej Novak",
+        "comment": "Gave some feedback to developer regarding LG G Watch R compatibility and in return got quick fix for my watch and some sneak peek in future of the app. Great developer! Loking forward for future features! :)",
+        "date": "November 5, 2014",
+        "permlink": "/store/apps/details?id=org.quet.android.wear.temperature&reviewId=Z3A6QU9xcFRPRmlubk5CeEtPSXlndzBzM1JyUmNTMGhwMHo0a19kUldkcDFIUXJsT0x5bFJfalhPVHloMGVIN29GTFRUU09Zc2U3Zi1ydlFTQWNXMTlMeW9v",
+        "reply": null,
+        "star": 5,
+        "title": "Great simple app for checking battery and CPU temperature"
+    },
+    {
+        "author": "Beno\u00eet `BoD` Lubek",
+        "comment": "And the price is right \ud83d\ude09",
+        "date": "October 26, 2014",
+        "permlink": "/store/apps/details?id=org.quet.android.wear.temperature&reviewId=Z3A6QU9xcFRPRVVMWG5iSEZ1MFZXYkY0Q1AydXBfZzR5MmhVSkVEcWlYWGc1NWlJSExULTB3NXB1OTNqd0xnZjR1czdNNWJIZ2lnNjBYRW5ZMkVtbUdFb0xv",
+        "reply": null,
+        "star": 5,
+        "title": "Works perfectly."
+    },
+    {
+        "author": "Izzat Zubir",
+        "comment": "Im giving 5 stars because it works perfectly. However, after installing, i experience a rapid battery drain on my gwr. From 100% to 80% in 4 hours.",
+        "date": "March 22, 2015",
+        "permlink": "/store/apps/details?id=org.quet.android.wear.temperature&reviewId=Z3A6QU9xcFRPRWNaRkh5MkZIVkFJaFZrSkFvVzJ1SVBrMEdHZFd6clc3Z1I3bGZ5T1JrMHRsRUFxUVJKeHllTVZjdEtDTmYtVUQtTUstWGRQOU96dk5GN29J",
+        "reply": null,
+        "star": 5,
+        "title": "Battery drain"
+    },
+    {
+        "author": "Rachael Mosley",
+        "comment": "I down loaded and couldn't never go to the page to see anything it won't let me do anything.. So undownlouding it.",
+        "date": "February 28, 2015",
+        "permlink": "/store/apps/details?id=org.quet.android.wear.temperature&reviewId=Z3A6QU9xcFRPSHpZcjk5dmtlQmFick5XOTBQR0VGNlE1OTYwMGo2Zjg3cl84RjNMVTBfZ3lqY2RuMTgtd1EyQm93aGJ6NEJqRVNCQlBJVC1lczBmd3MyM0hz",
+        "reply": {
+            "author": "AQ",
+            "content": "Hi Rachael, this application is exclusively for Android Wear as explicitly stated in the description and pointed by the screenshots. So I am wondering if you own an Android Wear device, if not please be fair and change or remove your rating, if yes try to sync again via the official Android Wear app. Thank you for your understanding.",
+            "date": "June 26, 2015"
+        },
+        "star": 1,
+        "title": null
+    }
+]

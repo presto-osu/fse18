@@ -1,0 +1,51 @@
+{
+    "title": "Rotary",
+    "summary": "Old school dial phone for your Android Wear watches!",
+    "icon": "//lh4.ggpht.com/DWa6oVNzMDelkxVUCl5qmKdO0A4p_FjK_M-vYMnQKvT5ECyrgOEwA0Z4u77tRdBP8A66=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 6,
+    "developer": "Tran Hoang Nhat",
+    "developerId": "Tran+Hoang+Nhat",
+    "developerEmail": "nhat1127@gmail.com",
+    "developerAddress": "Room 904, Apt. No. 08, Dich Vong, Cau Giay District, Hanoi City, Vietnam",
+    "updated": "February 2, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app only works with Android Wear devices. This app is completely ads-free, the in-app purchase is for donation.Have you ever thought about the ability to dial number directly from your round smartwatches? As in, not tapping the number, but actually rotate the dial? Now you can do that with Rotary! Works with round and square smartwatches.In addition to that, you can create dial rules to help you dial with ease. WIth with dial rules, you can tell the app when you dial a specific number, the app will:★ Call a number you chose.★ Open an app on the device★ Run a Tasker task *.(When you send number from your watch to your phone, your phone will first check that number with the dial rules. If there's a rule match the number, your phone will do want the rule defines. Otherwise, your phone will call that number.)*** HOW TO DIAL A NUMBER ***• To dial a number, first launch the Rotary app on your watch. After that, touch the number you want to dial and rotate clockwise to the handle. When you feel a vibration, release your hand.• To delete the number you've dialed, flick your wrist.• To send the number to your phone, tap the inner ring (or the number).• To exit the app, long press and press the cross.*** HOW TO CREATE A DIAL RULE ***To create a new dial rule, launch the Rotary app on your phone, then tap the \"+\" button. After that, type the number the app will look up when you dial. (Note: Dial number must be unique). Then, select the type of action your phone will do. Finally, tap choose, and choose the action you want your phone do.*Note about Tasker integration: This only works if you have Tasker on your phone. If you have Tasker on your phone, but still don't any tasks, open Tasker > Preferences > Misc, and check \"Allow External Acess\".Tasker integration is available to donators only.",
+    "descriptionHTML": "<b>This app only works with Android Wear devices. </b><br><br>This app is completely ads-free, the in-app purchase is for donation.<br><br>Have you ever thought about the ability to <i>dial</i> number directly from your round smartwatches? As in, not tapping the number, but actually rotate the dial? Now you can do that with Rotary! Works with round and square smartwatches.<br><br>In addition to that, you can create <i>dial rules</i> to help you dial with ease. WIth with dial rules, you can tell the app when you dial a specific number, the app will:<br>&#x2605; Call a number you chose.<br>&#x2605; Open an app on the device<br>&#x2605; Run a Tasker task *.<br><i>(When you send number from your watch to your phone, your phone will first check that number with the dial rules. If there&apos;s a rule match the number, your phone will do want the rule defines. Otherwise, your phone will call that number.)</i><br><br><b>*** HOW TO DIAL A NUMBER ***</b><br>&#x2022; To dial a number, first launch the Rotary app on your watch. After that, touch the number you want to dial and rotate clockwise to the handle. When you feel a vibration, release your hand.<br>&#x2022; To delete the number you&apos;ve dialed, flick your wrist.<br>&#x2022; To send the number to your phone, tap the inner ring (or the number).<br>&#x2022; To exit the app, long press and press the cross.<br><br><b>*** HOW TO CREATE A DIAL RULE ***</b><br>To create a new dial rule, launch the Rotary app on your phone, then tap the &quot;+&quot; button. After that, type the number the app will look up when you dial. (Note: Dial number must be unique). Then, select the type of action your phone will do. Finally, tap choose, and choose the action you want your phone do.<br><br>*Note about Tasker integration: This only works if you have Tasker on your phone. If you have Tasker on your phone, but still don&apos;t any tasks, open Tasker &gt; Preferences &gt; Misc, and check &quot;Allow External Acess&quot;.<br>Tasker integration is available to donators only.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/Y6sKYeLEwN6AxBUKkdU6b2d6obaBt4ugarzssAVU2tV2L5ugPFmb60vGGRgqJeZfgBA=h310",
+        "//lh5.ggpht.com/Gj6t5G23N0LSIpBvEP96UFqJnLG7Xlfrcr29o3K9iLZb3gIAMS6EUQh_4aySxfReOAY=h310",
+        "//lh4.ggpht.com/5xyp1bIS_ppuiTkVAllybOhHbPwxWDSzjJrXYQ5TnsKnPLYMwZSdnO1G-KBIp-s6X-U=h310",
+        "//lh3.ggpht.com/UC1-aQ_he17aOU9d84JfefXFkACNz2NB1C3qpmLfEyBE819qQwZ5qdM4aXdR3h6goNE=h310",
+        "//lh5.ggpht.com/iyxXGEG0mRqfMOH_ntlQbZxWmW8Y-ZSk2C1I_pbXbTANe6FuSvbDlWTBuSAJIKINvUw=h310",
+        "//lh4.ggpht.com/pqRBAC_VKK-AOF19jskWAufevbI-XivW93k_XyxJlB81LyfHd5nQYU4nJgA8v2TIoWVU=h310",
+        "//lh6.ggpht.com/DODqYdZPjG61JY1PnuydnbC_ZU78AKBuwJZ3BhWaGPA8Q4RLT6vjgnie36nFQE8ZLzo=h310"
+    ],
+    "comments": [
+        "Great idea Neat interface and definitely something I would enjoy using if not for a few issues. 1. Retracting animation is too slow, please speed up. 2. Show the entire number to be dialed. 3. Be able to backspace a number without having to flick your wrist and dump everything.  Very novel approach to the wrist dialer and with some tweaking you'll have a five star app!",
+        "Great idea. I was just thinking about this the other day Will this work on the U8 smartwatch",
+        "Fun app. Now you can truly \"dail\" someone."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nhatth.rotary&hl=en&gl=us",
+    "appId": "com.nhatth.rotary"
+}

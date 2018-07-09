@@ -1,0 +1,46 @@
+{
+    "title": "Lines Watch Face",
+    "summary": "A very straightforward watch face",
+    "icon": "//lh5.ggpht.com/qcynjlaFdtivrD_ncWfVKf3Vp9MACPdx6_5pGDFqxumNKB68-u6lmuY7DjLSwOY3rUY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.5,
+    "reviews": 13,
+    "developer": "Bostwickenator",
+    "developerId": "5869154058796608973",
+    "developerEmail": "bostwickenator@gmail.com",
+    "developerWebsite": "http://bostwickenator.org",
+    "developerAddress": "106 Studholme St,\nChristchurch,\nNew Zealand",
+    "updated": "February 14, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Once you know how to read it. The screen is divided into quadrants and the digits are read left top to bottom right.Supports square and round devices, looks best on square.Set custom colors from the companion app",
+    "descriptionHTML": "Once you know how to read it. The screen is divided into quadrants and the digits are read left top to bottom right.<br><br>Supports square and round devices, looks best on square.<br><br>Set custom colors from the companion app",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/EcBU9aniGRBBsv9R1ivzRmMx9XQ5GuRMkQnyCnYdrVUV8uFdA2AW-B8fi6MtFySllg=h310",
+        "//lh3.ggpht.com/IRxJFkPn0g_mwK5ank8cfDV2RV7HhxMJuQ3pYtH6z8f-ltupalrxpWp4Vb0gD0PfzwY=h310"
+    ],
+    "comments": [
+        "Better for square faces. Unfortunately didn't look too great on a circular watch face. I could suggest removal of the outer square... Potentially extending the internal lines. Maybe. Great concept though.",
+        "So clever People think it's some alien / foreign / binary / geek code. But once you have that a-ha moment it's an immediately readable watch face"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.bostwickenator.lines&hl=en&gl=us",
+    "appId": "org.bostwickenator.lines"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Notepad",
+    "summary": "A simple, bare-bones, no-frills note taking app",
+    "icon": "//lh5.ggpht.com/ShoXXA2U6obrgug4okqM3z77885Q9yXAxQHjiwmMmuoi3dpzb2j4cEuvcaOpNPM_20w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.5,
+    "reviews": 795,
+    "developer": "Braden Farmer",
+    "developerId": "Braden+Farmer",
+    "developerEmail": "farmerbb@gmail.com",
+    "developerWebsite": "https://github.com/farmerbb/Notepad",
+    "developerAddress": "14873 S Echo Canyon Lane\nBluffdale, Utah 84065\nUSA",
+    "updated": "February 24, 2018",
+    "version": "2.2.7",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Features:• Quickly create and save plain-text notes• Optionally create rich-text notes using Markdown or HTML (Android 5.0+)• Beautiful, easy-to-use UI with Material Design elements• Dual-pane view for tablets• Share notes to and receive text from other apps• Auto-saves drafts• View Mode for notes with clickable links• Sort notes by date or by name• Keyboard shortcuts for common actions (see below)• Integration with Google Now \"note to self\"• Import and export notes to external storage (Android 4.4+)• Zero permissions and absolutely zero ads• Open-sourceKeyboard shortcutsSearch+M: launch Notepad from any applicationCtrl+N: New NoteCtrl+E: Edit NoteCtrl+S: SaveCtrl+D: DeleteCtrl+H: Share",
+    "descriptionHTML": "<b>Features:</b><br>&#x2022; Quickly create and save plain-text notes<br>&#x2022; Optionally create rich-text notes using Markdown or HTML (Android 5.0+)<br>&#x2022; Beautiful, easy-to-use UI with Material Design elements<br>&#x2022; Dual-pane view for tablets<br>&#x2022; Share notes to and receive text from other apps<br>&#x2022; Auto-saves drafts<br>&#x2022; View Mode for notes with clickable links<br>&#x2022; Sort notes by date or by name<br>&#x2022; Keyboard shortcuts for common actions (see below)<br>&#x2022; Integration with Google Now &quot;note to self&quot;<br>&#x2022; Import and export notes to external storage (Android 4.4+)<br>&#x2022; Zero permissions and absolutely zero ads<br>&#x2022; Open-source<br><br><b>Keyboard shortcuts</b><br>Search+M: launch Notepad from any application<br>Ctrl+N: New Note<br>Ctrl+E: Edit Note<br>Ctrl+S: Save<br>Ctrl+D: Delete<br>Ctrl+H: Share",
+    "histogram": {
+        "1": 39,
+        "2": 25,
+        "3": 40,
+        "4": 111,
+        "5": 580
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/nw-otLYlCKDNiS99x3gROtxGxDuK0q-tRvtcTIc3o4mVo8tq3wc_Xw_iCTavFFPWHP4=h310",
+        "//lh4.ggpht.com/NkVEo5Ygo_533yhbakQr1cGPgRA6D2Zm4llyf9AaEJ0UAvk_aHttEkyNJA1qsMECFCU=h310",
+        "//lh4.ggpht.com/9TbhBCG_n-ib1CzBYTqRZUy4hq1tDTlW5JJeTEYoMMGjq_ZD2AsJVfgIz-G9Ia6JXAnD=h310",
+        "//lh5.ggpht.com/pqlPmbmqrOqDKcjLSS4fk7ozL8ZQ6T7rI0xiZalzt9c_CkJBDPr3ldAG--CK1_DjfQ=h310"
+    ],
+    "comments": [
+        "Love it that  my Notepad is  easy  settle. All can  save  memes won't  lost list.  seem  be  worth  it  for  me.  note,  menu, easy  notice list. Most  ever  seen  that most  of  amazing Notepad! Works with my Samsung Galaxy S7 and Asus Zenpad S 8.0 Z580CA too. I want to put  full star! This  a lot FREE!",
+        "This app does exactly as advertised... simple to use ... no frills...uses the kiss method (keep it simple stupid) no adverts...if  it were to come down to a fee to keep it this way...would certainly be worth it. Great job.!!! If it isn't broke don't fix it. Finally found the best note pad. Regards...Keith...in Canada",
+        "Wow! Very simple, uncomplicated, and exactly what I need. It's easy to write a note and autosave the note when you hit the back key. Notes are saved in a list. Easy to save/convert to txt. This app is LESS complicated than Keep or Evernote. It's PERFECT! Well, okay, it would be nice to have a character count for each note. But really, it's great as it is. And it works beautifully with Android 7 Nougat!",
+        "बेहतरीन, बहुत अच्छा",
+        "Good App..",
+        "Thank you!  Been looking for an app similar to an old one I have that is no longer available.  This one is great.  The only addition that would be nice is if you had the option to make a todo check list, also.  This is what my old app has, and I love the versatility.  I can use it for everything.  Love, love, love the \"No Ads\" and the option to print as well!!!  Not to many note apps have either!  Thanks again."
+    ],
+    "recentChanges": [
+        "New in 2.2.7:",
+        "&bull; Added \"Select notes\" and \"Select all\" buttons to action bar",
+        "&bull; Bug fixes and miscellaneous improvements",
+        "NOTE: This update removes support for Android 2.3 (Gingerbread) and Android Wear devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.farmerbb.notepad&hl=en&gl=us",
+    "appId": "com.farmerbb.notepad"
+}

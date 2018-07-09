@@ -1,0 +1,63 @@
+{
+    "title": "Looking for Twitter",
+    "summary": "Looking can easily watch Twitter in Android Wear.",
+    "icon": "//lh3.googleusercontent.com/kV3LKBycDjXytkXAc_2wCi1pJXvUfhh5VylYmb1gFF50vBN6bxAEXTDmKTRu8I38mA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 106,
+    "developer": "Shinya Kumagai",
+    "developerId": "Shinya+Kumagai",
+    "developerEmail": "droibit.dev@gmail.com",
+    "developerWebsite": "http://github.com/droibit",
+    "updated": "February 1, 2018",
+    "version": "Varies with device",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "size": "Varies with device",
+    "description": "This application can watch a timeline of Twitter at Android Wear.You can easily watch tweet even if you do not take out a smartphone.Please log in Twitter account in the smartphone before you obtain the timeline or any action.When you want to check later the URL in the tweet, it is useful to addto the Pocket.If the tweet containing the URL, will appear \"Add to Pocket\" button.Features:- Tweet from Android Wear- Watch home timeline- Watch mentions timeline- Watch list- Watch list timeline- Retweet, Likes, Reply- Add a link in the tweet to Pocket- Watch multiple photos- Supports multiple accounts(Up to 4 accounts)Contribution of localization:Spanish, English - @DanixexDRussian - MadKortThanks a lot!",
+    "descriptionHTML": "This application can watch a timeline of Twitter at Android Wear.<br>You can easily watch tweet even if you do not take out a smartphone.<br><br>Please log in Twitter account in the smartphone before you obtain the timeline or any action.<br><br>When you want to check later the URL in the tweet, it is useful to add<br>to the Pocket.<br>If the tweet containing the URL, will appear &quot;Add to Pocket&quot; button.<br><br>Features:<br>- Tweet from Android Wear<br>- Watch home timeline<br>- Watch mentions timeline<br>- Watch list<br>- Watch list timeline<br>- Retweet, Likes, Reply<br>- Add a link in the tweet to Pocket<br>- Watch multiple photos<br>- Supports multiple accounts(Up to 4 accounts)<br><br>Contribution of localization:<br>Spanish, English - @DanixexD<br>Russian - MadKort<br><br>Thanks a lot!",
+    "histogram": {
+        "1": 8,
+        "2": 3,
+        "3": 14,
+        "4": 21,
+        "5": 60
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/tWWKQZ5218evKTwUA0OBo2cGCm37e9dKikE7DzohikR1stFMxDYmBi41XDZD7Xl-DkM=h310",
+        "//lh3.googleusercontent.com/Vq9wh3ozXtv4hygCI07sbv9KTiqQxamD2bA8TAyvyREctrgnnv16qm0PyI9BFOjEa1c=h310",
+        "//lh3.googleusercontent.com/oYtHpWvHj6E_MFwZh4sE2Tjj5xiN3mhqTVZwRLr-OeMKtGBVam36zCwROxrQwmDN-18=h310",
+        "//lh3.googleusercontent.com/_ID0R3QC0q7MZGbpl3MIw-7eYhUPqn998ITJtzTdGDvuld5Rla4TdD0MQvJy1Wyjl9Q=h310",
+        "//lh3.googleusercontent.com/L6pr7WAKOCoDD3DI2853teHe5gYZ7dsRjlZFxVycWA2uTj3rmw8Mmgm6rC0MoTtcOHEF=h310"
+    ],
+    "comments": [
+        "An app that Android Wear users should have, twitter posts are usually short and suitable to be read on the wrist. Twitter should have an official app but this seems good enough",
+        "How tf do you sign in??",
+        "Great app, easy to use for small display.",
+        "Ok app, however the hardware scroll wheel on my LG Watch Style doesnt work in the list views il the app. Shame! :-(",
+        "Great app, but a couple of improvements must be made. The needs to be compatible with the rotating crown (for scrolling). We should have the ability to tweet or reply with typing, not just voice.",
+        "Nice app, works great on Wear 1.5 - would like to see option to default to Timeline instead of having to select it every time.  Otherwise, best Twitter app for Wear!"
+    ],
+    "recentChanges": [
+        "Ver wear-2.1.0",
+        "- Support keyboard input",
+        "- Support rotary input on timeline",
+        "Ver 2.0.1",
+        "- Optimize UI for Android Wear 2.0. Display tweet actions with long click.",
+        "- Support Multi account(up to 4 accounts). After logging in with mobile device, you need to switch accounts on Wear. device",
+        "- Support display of multiple photos",
+        "- Support quoted tweet and retweet display",
+        "- Bug Fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.droibit.looking&hl=en&gl=us",
+    "appId": "com.droibit.looking"
+}

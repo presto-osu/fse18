@@ -1,0 +1,57 @@
+{
+    "title": "Wear Casts",
+    "summary": "Stream or download podcasts right from your Android Wear device.",
+    "icon": "//lh3.googleusercontent.com/9l7Grb6oFHmT9iCA4kEK5GmRvp2UEjftqNlhkVA9QGPkHQ6aB5crG8ELP-mmiXC0t54=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.5,
+    "reviews": 55,
+    "developer": "krisdb",
+    "developerId": "krisdb",
+    "developerEmail": "krisdb@live.com",
+    "developerWebsite": "https://sites.google.com/view/wear-casts/home/privacy",
+    "developerAddress": "22620 Marcee Way\nCleveland OH 44141",
+    "updated": "February 28, 2018",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "A standalone podcast app for Android Wear that let's you manage, stream or download your favorite podcasts right from your Wear device.  Features:* Import an OPML file or manually add your podcasts through the phone app* Upload any audio file for playback on watch (Premium)* Control playback speed (Premium)* Skip start time (Premium)* Options to auto download new episodes and auto delete played episodes.* Remembers last played position for each podcast* User managed scheduled syncing* Notification of new episodes (if background sync is enabled)* Auto playlists for podcasts downloaded and in progress* Interactive playing notification* Responds to external audio controls* Use your phone as a backup player.  Selected podcast on Wear device is synced to phone companion app (streaming only on phone).Note: Phone is required to add/import podcasts only.",
+    "descriptionHTML": "A standalone podcast app for Android Wear that let&apos;s you manage, stream or download your favorite podcasts right from your Wear device.  <br><br>Features:<br><br>* Import an OPML file or manually add your podcasts through the phone app<br><br>* Upload any audio file for playback on watch (Premium)<br><br>* Control playback speed (Premium)<br><br>* Skip start time (Premium)<br><br>* Options to auto download new episodes and auto delete played episodes.<br><br>* Remembers last played position for each podcast<br><br>* User managed scheduled syncing<br><br>* Notification of new episodes (if background sync is enabled)<br><br>* Auto playlists for podcasts downloaded and in progress<br><br>* Interactive playing notification<br><br>* Responds to external audio controls<br><br>* Use your phone as a backup player.  Selected podcast on Wear device is synced to phone companion app (streaming only on phone).<br><br>Note: Phone is required to add/import podcasts only.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 3,
+        "4": 9,
+        "5": 39
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hFeN-pTgFRXtabtU0S5CiAGY9BfR0kzBbD1IaiDoyYCEtEASbWxRo_Q-RtJ0USh8OwU=h310",
+        "//lh3.googleusercontent.com/YQo84GPD6oXBl42x-yUmH7MPHkCeFIrtAokReyLsmFQ3iL0CkiZ38DKtnwdhP0PCKqk=h310",
+        "//lh3.googleusercontent.com/uPlYpdl_RjTMei-hfguXD1RWxFlkTL3nZhD89TFrwrVmDA5BB4cjGRxnuZsIuqmVKUk=h310",
+        "//lh3.googleusercontent.com/DDKhzNljFyU77XwBmB1rMDelID0lHq5PculOyvXmcu-5xo9H6dvBN1iaWMIMf3HTRUU=h310",
+        "//lh3.googleusercontent.com/GaEjn02U0prlFbF2kVG1H_3FB7m0TR8PofsX7EqbzVz2f3tnWMmAChCXnfc5dwAYKw=h310"
+    ],
+    "comments": [
+        "I love it!",
+        "This app is so great. I love it. Thank goodness there is no way to put stuff podcasts on your watch. The Bluetooth works very well and I am impressed with the sound quality. It is a little clunky to get podcasts onto the watch, but you can just plug in any RSS URL and it works",
+        "Works without flaws. A must have app for android wear. Many thanks to the developer. Feature request: Option to trim silence during podcasts would be great!",
+        "Two stars because, yes, it will play podcasts.  There is no basic search function, which renders this next to useless if you cannot find the podcasts you want in the top lists.",
+        "Awesome app to send podcasts to my android watch and it automatically downloads new podcasts once added.",
+        "Hmmm not sure. I cannot see the app on the Sony Smartwatch3. Tried to send files to the watch but nothing."
+    ],
+    "recentChanges": [
+        "New Settings:",
+        "* Sort order for episodes and playlists",
+        "* Home screen option (which screen is displayed when app is started). Premium",
+        "Note: If you are getting an error message when updating the watch app, it means the watch app was already updated when the phone app was updated."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.krisdb.wearcasts&hl=en&gl=us",
+    "appId": "com.krisdb.wearcasts"
+}

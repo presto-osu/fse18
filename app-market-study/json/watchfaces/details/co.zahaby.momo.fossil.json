@@ -1,0 +1,50 @@
+{
+    "title": "Noir - Watchface",
+    "summary": "stylish dark watchface",
+    "icon": "//lh6.ggpht.com/bITJXOjAgmvaN3VjTK_EEE4J8In804xYtxRTFlrJ5Mu6nGki_CfoDH29fQcM7q4tpyE=w300",
+    "price": "$1.05",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 4,
+    "developer": "Mohammad Elzahaby",
+    "developerId": "Mohammad+Elzahaby",
+    "developerEmail": "elzahaby.m93@gmail.com",
+    "developerAddress": "Schlachthammerstraße 85\n1220 Wien",
+    "updated": "December 20, 2014",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This stylish dark watchface tells you not only the time but also your battery status & the current date!",
+    "descriptionHTML": "This stylish dark watchface tells you not only the time but also your battery status &amp; the current date!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/RbMVxXX97P3X64grRC0Y7eVyOD8Al7DO8N785bnti4E6mgs2rtietqyJWHJqi9nqQOs=h310",
+        "//lh5.ggpht.com/0ubaVVPmCsdzsjkH-YmQGzBwdrqZxdIg0EmYYqBK_PVwms-CpJwBERROql2tljsmI-M=h310",
+        "//lh3.googleusercontent.com/arz6DE5cwcGRy4Yg40KwYUXk_9OrrgxzSg69RF8M2jK9rzIgCQUFn0MKQ3frw803bw=h310"
+    ],
+    "comments": [
+        "fosill phone seen fossill phom",
+        "Clean and Simple Looks great on my LG R Watch but needs some customization options.  Would like to have an option to not show second hand in dim mode.  The second hand freezes is dim mode but should be removed all together."
+    ],
+    "recentChanges": [
+        "* Update to work with Lolipop",
+        "* Compatibility for different displays",
+        "* White hands for better visibility in darkened mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.zahaby.momo.fossil&hl=en&gl=us",
+    "appId": "co.zahaby.momo.fossil"
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Color. Watch Face",
+    "summary": "Watch face for Android WearNew Color Every Hour",
+    "icon": "//lh3.googleusercontent.com/isepN7Z1X5BNhISRpJGHwvx7XiIkeHGMLWwGjg7On-bMvywnrNcQXMHC2oU3E6P8YA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 123,
+    "developer": "stealeks",
+    "developerId": "stealeks",
+    "developerEmail": "alexprox91@gmail.com",
+    "updated": "May 4, 2016",
+    "version": "1.0.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "⚠️Color can not be set manually⚠️Source code is lost. Never will be updated.Sorry. (You can use email for donations! :))Colorful watch face for Android Wear. New Color Every Hour.Colors from Google Design Color palette.Android Wear smartwatch only.Optimized for round smartwatches such as the Motorola Moto 360.Works at rectangular watches such as the Samsung Gear Live, the LG G Watch.Change log:1.0.3- Crashes fixed. Sorry for that1.0.2- Added: 12-hour (am/pm) mode (watch face settings)- Fixed: seconds now will disappear (not freezing) when in ambient mode- Fixed: random (everyone with same time and same day of year will have same color)",
+    "descriptionHTML": "&#x26A0;&#xFE0F;Color can not be set manually&#x26A0;&#xFE0F;<br>Source code is lost. Never will be updated.<br>Sorry. (You can use email for donations! :))<br><br>Colorful watch face for Android Wear. New Color Every Hour.<br><br>Colors from Google Design Color palette.<br><br>Android Wear smartwatch only.<br><br>Optimized for round smartwatches such as the Motorola Moto 360.<br>Works at rectangular watches such as the Samsung Gear Live, the LG G Watch.<br><br>Change log:<br>1.0.3<br>- Crashes fixed. Sorry for that<br>1.0.2<br>- Added: 12-hour (am/pm) mode (watch face settings)<br>- Fixed: seconds now will disappear (not freezing) when in ambient mode<br>- Fixed: random (everyone with same time and same day of year will have same color)",
+    "histogram": {
+        "1": 3,
+        "2": 4,
+        "3": 11,
+        "4": 15,
+        "5": 90
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/h3pyt0nN4s2Ll-RISKMHXvwvefyvr5y0SFY5qnxik4jG4VB7WNTTB8lIQiWVvXF2QoY=h310",
+        "//lh3.googleusercontent.com/dCMcwU3irxcWVoeE0bAsi7VjxIHNzOO4P5kYYtTWNrNYO6Sxk4vjB3sHmIvcEeKRQRo=h310",
+        "//lh3.googleusercontent.com/IPZKPUiLwuYlsVaKz7NX59bHRVDAziftUG2oXmBHfDA2vTrlmIPCbcQHsgixL1aoOUrT=h310"
+    ],
+    "comments": [
+        "I cannot be 100% certain but I believe this watch face caused the error of Android Wear has stopped working. I have a 1st gen Moto 360 and I was forced to reset the watch a few days after installing this watch face. I haven't had any additional issues with my watch after the reset but that of course includes not reinstalling this watch face. It's too bad as I liked the colors and interface.",
+        "Updated review. This is my current watch face. It's just nice to look at and fills the screen. Feature requests, sure. I'd love to see weather or my Google Fit steps count.  Also, to repeat what another reviewer write, I'd love the option to choose a single color or to change every hour, as it does now. Sometimes it's just a blue kind of day, or maybe I'm wearing Orange and want to match.",
+        "I like the looks but I user should be able to chose a color they want. Once that's a option it's a five star watch face til then I'll barely use it because it never matches my outfit",
+        "Very nice app, very nice color, i wish to have posibility to keep one single color if possible in future, i use app on sony sw3",
+        "I've tried hundreds of different watch faces and this is the one I've received the most compliments. I also enjoy the rotating background color, very cool",
+        "Like it a lot. If there was a pro version that allowed more control over the color palette, I'd definitely buy it."
+    ],
+    "recentChanges": [
+        "Crashes fixed. Sorry for that"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.stealeks.colorwatchface&hl=en&gl=us",
+    "appId": "com.stealeks.colorwatchface"
+}

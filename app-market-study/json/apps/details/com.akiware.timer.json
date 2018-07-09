@@ -1,0 +1,48 @@
+{
+    "title": "Wear Timer",
+    "summary": "Simple and functional timer for Android Wear with two different time pickers.",
+    "icon": "//lh4.ggpht.com/14m5j-8RaxOCTIo4WHvX0bE5tC2m-U_WQ9qW8uq3PQ35TUMh30VcHqXUXooVpHQy1v0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 24,
+    "developer": "Akiware",
+    "developerId": "Akiware",
+    "developerEmail": "contact@akiware.com",
+    "developerWebsite": "http://www.akiware.com",
+    "developerAddress": "Fredrikinkatu 60\n00100 Helsinki",
+    "updated": "January 30, 2015",
+    "version": "1.0.4",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "- Two different time pickers- Automatically remembers which picker you use- Screen stays on unless user swipes away- Voice enabled- App opens from notification with one click- Remembers last set time after stop- Standalone; no need to be connected to phone",
+    "descriptionHTML": "- Two different time pickers<br>- Automatically remembers which picker you use<br>- Screen stays on unless user swipes away<br>- Voice enabled<br>- App opens from notification with one click<br>- Remembers last set time after stop<br>- Standalone; no need to be connected to phone",
+    "histogram": {
+        "1": 2,
+        "2": 4,
+        "3": 2,
+        "4": 5,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/y5RmVkIsX-pV1cS7L_mvmsF2qOPskVRFNwux9IsmkmBY1wNcIi-_6lZ-vOjSrv96VCj-=h310",
+        "//lh4.ggpht.com/p_EKe7_AW22mv_CTea_BkgE6BOVhykyVPpr1PvedczvNltodf6EX2rXmK-B0p3uUlg=h310",
+        "//lh5.ggpht.com/mhdDrb2SkLDur4iVm0WZcFtXRUHIVRVAUeRyF4D4KrkK3Akg8MNqxbAKstkrrGoacMF3=h310"
+    ],
+    "video": "https://www.youtube.com/embed/pRt8mcZLJqw",
+    "comments": [
+        "Does not save previous time Doesn't save the last time so it's no better than the stock timer",
+        "works does as desribed"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.akiware.timer&hl=en&gl=us",
+    "appId": "com.akiware.timer"
+}

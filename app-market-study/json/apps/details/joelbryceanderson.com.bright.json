@@ -1,0 +1,61 @@
+{
+    "title": "Bright for Philips Hue",
+    "summary": "The most beautiful app for Philips Hue lights, now with Android Wear support!",
+    "icon": "//lh3.googleusercontent.com/_iSIRvD0RvqlTyLRF63nU4vtz7G71_Ug_dnXwN1bHs8-_A4ppp2FO6fIxRuwnbn5xw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3,
+    "reviews": 48,
+    "developer": "Joel Anderson",
+    "developerId": "Joel+Anderson",
+    "developerEmail": "joelbryceanderson@gmail.com",
+    "developerAddress": "159 5th Street NW\nAtlanta, GA 30313\nUSA",
+    "updated": "July 5, 2016",
+    "version": "1.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Bright is the most beautiful, functional, and versatile app for controlling your Philips Hue lights.Features:• Complete control over your Philips Hue lights• Android Wear support - control the color and brightness of your lights directly from your wrist• Groups - control the color and brightness of many lights at once• Alarms - set your lights to turn on or off, or to a specific color, at any time of the day• Dark Mode - saves battery on your AMOLED device, and makes the app much easier on the eyes for night use• Frequent updates• No in-app purchases, ever-----------------------------------------Use of this app requires a Philips Hue bridge (1st or 2nd generation) and at least one Philips Hue compatible bulb.To add a group to the Android Wear application, create a group while your watch is connected.Due to limitations in the Philips Hue API, you must be connected to your home Wi-Fi network when using this app. This can be bypassed in the app by setting up port forwarding with your router and editing your bridge's IP Address.",
+    "descriptionHTML": "Bright is the most beautiful, functional, and versatile app for controlling your Philips Hue lights.<br><br>Features:<br>&#x2022; Complete control over your Philips Hue lights<br>&#x2022; Android Wear support - control the color and brightness of your lights directly from your wrist<br>&#x2022; Groups - control the color and brightness of many lights at once<br>&#x2022; Alarms - set your lights to turn on or off, or to a specific color, at any time of the day<br>&#x2022; Dark Mode - saves battery on your AMOLED device, and makes the app much easier on the eyes for night use<br>&#x2022; Frequent updates<br>&#x2022; No in-app purchases, ever<br><br>-----------------------------------------<br><br>Use of this app requires a Philips Hue bridge (1st or 2nd generation) and at least one Philips Hue compatible bulb.<br><br>To add a group to the Android Wear application, create a group while your watch is connected.<br><br>Due to limitations in the Philips Hue API, you must be connected to your home Wi-Fi network when using this app. This can be bypassed in the app by setting up port forwarding with your router and editing your bridge&apos;s IP Address.",
+    "histogram": {
+        "1": 11,
+        "2": 9,
+        "3": 6,
+        "4": 11,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/sJNZwESEY9FPT78VbZfh0CjuRnb_K01KFY5rZM_nRSVq8K7PFVyS3zOa9S4f5dvG=h310",
+        "//lh3.googleusercontent.com/f2O7yz0wfLflPunbvIiSqVhqw6M5UWD4YpipJFUrmw8LL96K7qScu0Fj3lMD61cR037h=h310",
+        "//lh3.googleusercontent.com/wnbf3Hmtyj6Tn5WXpskA7MXXAleBBjagUVruMMf9sJ2oFzSFPYfsnBqb5iHxDKVvWJ-m=h310",
+        "//lh3.googleusercontent.com/2iMWNhLZgy-VX4ewsPXqFid2rRN35laDuQOjFsFaI4qthRG5u0PAahr38ctsdgi581Lt=h310",
+        "//lh3.googleusercontent.com/7_OdOYNcaB1J8tOCH5_rBOb8njhcOWjFmVIdjxPKhuN0Bqa6im33IyZ_HiQbTNmSk4s=h310",
+        "//lh3.googleusercontent.com/6OP_ra0FhqCIzy_EI-4kWK8DgexwJCxF8w83lzRd-Ds6TwhdbwN_xaAmhuSztd5NoRs=h310",
+        "//lh3.googleusercontent.com/DDs6KHWD2eIU7AFcQfM648G8s6WT0VW8BYBawdJQEW7prnIDl_i26ap5iFgFo6F-9Qk=h310",
+        "//lh3.googleusercontent.com/CRyDbOwHZrvyLQQjk2FcYMQi531-XlcwhhpBjGbtf_KeFWlzt17p9agQBlywg7ecdiI=h310",
+        "//lh3.googleusercontent.com/UJ7KpAYfRf2tok7cCydZqS1oz2kAoKHYFX_6RAIj48f5lIqolDNWLRGzcmn1oGzEaDU=h310"
+    ],
+    "video": "https://www.youtube.com/embed/7DVbFKVVt3Y",
+    "comments": [
+        "Almost perfect Does what you would imagine.  I set up my groups then set up individual bulbs as their own group so I have compete control via Wear. Only complaint /request is that can't do white's via Wear..? Can this be looked at please Dev?",
+        "Good but buggy Definitely the most beautiful and simplistic hue app out there but crashes alot. Works nicely with Android wear but crashes whenever I try to open the alarms tab. Would get 5 stars from me if that bug was fixed.",
+        "Nice app, fairly simple. I love that there is an Android Wear app though, just wish there was more control of individual lamps on the watch. App does suffer from random crashes on Nexus 5X as well.",
+        "Crashed when selecting the Hub and is missing several bulbs. Several. The room info in the JSON should be used as a starting group, having to create all the rooms from scratch is a pain. ...and maybe not have the menu text in fuchsia.",
+        "Works as advertised. If your group is not showing up on your Android Wear, try deleting and re-creating the group. That did the trick for me. One feature it lacks is state synchronization.",
+        "Works perfectly when it works, but will crash every few hours. If you want to use this to control your lights with Android Wear, expect to at least turn the app on once on your phone every night."
+    ],
+    "recentChanges": [
+        "~1.3~",
+        "• Fixed bug preventing groups from syncing to Android Wear.",
+        "~~~~~~~~~~~~~~"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=joelbryceanderson.com.bright&hl=en&gl=us",
+    "appId": "joelbryceanderson.com.bright"
+}

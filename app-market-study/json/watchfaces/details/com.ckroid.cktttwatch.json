@@ -1,0 +1,53 @@
+{
+    "title": "CK TTT Watch",
+    "summary": "Encoded watch face",
+    "icon": "//lh5.ggpht.com/BUmc1jeKkE7uEDbonfWtrZ2ce2OvjrqfTJOWOx92AYgkOmSUxcjsTHKhcAL7r07cXA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.2,
+    "reviews": 4,
+    "developer": "CKroid",
+    "developerId": "CKroid",
+    "developerEmail": "ch30ngch33k1n@gmail.com",
+    "developerWebsite": "https://plus.google.com/112478192018703261009",
+    "developerAddress": "Singapore",
+    "updated": "February 13, 2015",
+    "version": "1.0.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A watch face will display your HH:MM in Tic-Tac-Toe Cipher format on your Android Wear device.The mobile application will show you how to decode the display time.The wear application will display the current encoded time in Ambient mode. In Interactive mode, user can choose to display normal time, date and battery level",
+    "descriptionHTML": "A watch face will display your HH:MM in Tic-Tac-Toe Cipher format on your Android Wear device.<br><br>The mobile application will show you how to decode the display time.<br>The wear application will display the current encoded time in Ambient mode. In Interactive mode, user can choose to display normal time, date and battery level",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/VBKIChiFVm8VTAb8MGQyQ5nnEZrj80Sypn52Rj4VIshpJLFHp50CevHTlOCPHHlyKH8=h310",
+        "//lh6.ggpht.com/sNJr8nxfNmno83QzivInOEszQzRv2SjazhnTVE2avUPxvBweWG9cbArIGo1c5UCaEJk=h310",
+        "//lh5.ggpht.com/uCQJb30EU6IZ8xoCsnLeyQnjNA4prEhhu-l5Ry-Z6pfK4mpA9OHaXW3MuVGDrqJr8TdF=h310",
+        "//lh3.ggpht.com/8oz6Wa-LzCMLTu52fXsPJf3WknJE0Dx8jINOMhjHzjvhds3OJfL4CpTJImh7jEu-MKcN=h310",
+        "//lh3.ggpht.com/DMHKvUQgFf8tCdHHgQeaeqhD_eNVW_WG1XthsB-Kni5Jk1e8QsQxT8DVxGX581FRpw=h310",
+        "//lh6.ggpht.com/fLiGbqpzG8G0zjCVZuiSOOorfX4NT9nr-KdZZKJqYkEe_fnQ-HyuXaYIL9Zk6ROr8YU=h310",
+        "//lh4.ggpht.com/7P026-TKn9ykRVcGFSn2VduEDkLaVtdezCYq61ZulEbpD9noevl-l6bsKnk8pmr9ffoR=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Convert to proper Android Watch Face API",
+        "- Show in Encoded time when in Ambient Mode",
+        "- In Interactive Mode, user can choose to display Encoded or normal time",
+        "- In Interactive Mode, user can choose to display date or battery level"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ckroid.cktttwatch&hl=en&gl=us",
+    "appId": "com.ckroid.cktttwatch"
+}

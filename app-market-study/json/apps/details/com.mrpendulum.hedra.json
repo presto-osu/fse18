@@ -1,0 +1,62 @@
+{
+    "title": "Hedra",
+    "summary": "Polyhedral (RPG) dice simulator for Android Wear",
+    "icon": "//lh4.ggpht.com/7DBvq3JCt72W_7vGR3efm0hshymNS8xSCdx8oqoqk5IEzlcNL1snWItiN1Vqdb1YyyA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 11,
+    "developer": "MrPendulum",
+    "developerId": "MrPendulum",
+    "developerEmail": "mrpendulumplay@gmail.com",
+    "developerAddress": "PO Box 685 GOULBURN NSW 2580",
+    "updated": "January 14, 2017",
+    "version": "1.1.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Allows you to roll the following dice directly from your devices, as though you have the real thing. Great for Role Playing Games, or those times in life when you just have to flip a coin:* D2 (a coin)* D4 (four sided die)* D6 (six sided die)* D8 (eight sided die)* D10 (ten sided die)* D12 (twelve sided die)* D20 (twenty sided die)* Percentile (two ten sided die)Android Wear only; both round and square watches are supported. Although developed on an LG G Watch, it does look cooler on a round display. All dice are rendered and textures using OpenGL. Haptic feedback is used to emulate the sensation of the dice \"striking\" a table when rolled.If you want to use this for older or non-Android Wear devices, please find Hedra Legacy.PERMISSIONS:* Control vibration - Will vibrate during dice rolling.FEEDBACK:If you encounter any crashes, please report them. Any and all feedback or suggestions are welcome.",
+    "descriptionHTML": "Allows you to roll the following dice directly from your devices, as though you have the real thing. Great for Role Playing Games, or those times in life when you just have to flip a coin:<br><br>* D2 (a coin)<br>* D4 (four sided die)<br>* D6 (six sided die)<br>* D8 (eight sided die)<br>* D10 (ten sided die)<br>* D12 (twelve sided die)<br>* D20 (twenty sided die)<br>* Percentile (two ten sided die)<br><br>Android Wear only; both round and square watches are supported. Although developed on an LG G Watch, it does look cooler on a round display. <br><br>All dice are rendered and textures using OpenGL. Haptic feedback is used to emulate the sensation of the dice &quot;striking&quot; a table when rolled.<br><br>If you want to use this for older or non-Android Wear devices, please find Hedra Legacy.<br><br>PERMISSIONS:<br>* Control vibration - Will vibrate during dice rolling.<br><br>FEEDBACK:<br>If you encounter any crashes, please report them. Any and all feedback or suggestions are welcome.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.0 and up",
+    "androidVersion": "7.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_a8f16AqSyzsN8Wt6C5-rLfoW9JS6mYfBerySfmCNZf3ZniV7AU82zdRsSaLfuXK8aw=h310",
+        "//lh3.googleusercontent.com/nkktayYf1sPYqHaX-Jo39gFDWl4z6TU2MVi1toepZD_bvAOfYHBBmY8oRIvlueYaIw=h310",
+        "//lh3.googleusercontent.com/3Qly11DYb5Vx5nxnkQMqfBUHrOYmBrgSwQcvW64KDhK91TEmPbmWDv63X2qkjT5-K2M=h310",
+        "//lh3.googleusercontent.com/l8bi-gIxDBgjxiSKKMxBODzsNsXLKkNrubTJxh613LldUZ2glX3Ch3XC0YQQLNXm2vDJ=h310"
+    ],
+    "comments": [
+        "Great Start - Here's some feedback I found this app through reddit. I searched Google Play for 'wear d20' and 'wear dice' and this never showed up in the results. Definitely try to figure out what's causing that because I figure this would have way more downloads if people could find it easier. Also, please add support for Android Wear 5.1's always on feature so I don't have to keep relaunching the app every time my watch screen times out. It also crashes every now and then on my Moto 360 running 5.1. Also please add an option to tap to roll",
+        "Great App Hedra is the only Wear Compatible Polyhedral Dice App on the market. Definitely worth the premium, and then some. I would buy this app 5 times just to support the developer/s. You guys are on point. I don't use the tactile response, but love that it's an option. Keep up the good work!",
+        "Very cool, and worth the money! Well Done! This is exactly what I was looking for. Super good looking on the 360. I love the marble look to the die, but could you add more colors please? I'm would love a deep green!",
+        "Good-looking and functional Initially, it wouldn't work at all, but reinstalling seems to have fixed this.",
+        "Perfect. This is EXACTLY what I was looking for. Proof that we are, indeed, living in the future."
+    ],
+    "recentChanges": [
+        "1.1.3",
+        "*Android Wear 2.0 Standalone Version",
+        "1.1.2",
+        "*New green dice colour",
+        "1.1.1",
+        "*Fix for splash-screen force close",
+        "1.1",
+        "*New default red dice colour",
+        "*Ability to toggle between dice colours",
+        "*Updated splash screen",
+        "*Misc fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mrpendulum.hedra&hl=en&gl=us",
+    "appId": "com.mrpendulum.hedra"
+}

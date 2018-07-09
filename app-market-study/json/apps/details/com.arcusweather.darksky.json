@@ -1,0 +1,58 @@
+{
+    "title": "Arcus Weather",
+    "summary": "Arcus gives you the most precise up to the minute weather forecast available.",
+    "icon": "//lh4.ggpht.com/bjr8iY4YLAb3HCDQw2NCc0u3HkVAD6LqM76tn6WAtK4DGSO6VluykfdLbA531yaIeQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.2,
+    "reviews": 5393,
+    "developer": "Labrys Software",
+    "developerId": "Labrys+Software",
+    "developerEmail": "arcusweather@gmail.com",
+    "developerWebsite": "http://www.arcusweather.com",
+    "developerAddress": "5030 Champion Blvd\nSte. G11-195\nBoca Raton, FL 33496",
+    "updated": "September 27, 2016",
+    "version": "6.0.0.6",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "Arcus hyper-local weather forecasts gives you the most precise up to the minute weather forecast available.\"Heavy rain starting in 4 minutes, for the next 35 minutes\".Arcus uses the Forecast.io API to get the most accurate, and most current weather information. \"Forecast.io is backed by a wide range of data sources, which are aggregated together statistically to provide the most accurate forecast possible for a given location.\"Features include:- Homescreen widget with customizable data points- Fully usable without location services- Notification Bar Weather- Severe weather alerts- Vibrate for precipitation- Radar Map (US ONLY)Pro Features available via In-App Purchases: - No Ads - Up to 10 Custom Locations (free version - 2) - Widget Interval Options (free version ~ 4 hours) - Touch to refresh from widget**************************************************************************Disclaimer***Due to way too many negative reviews in regards to the following, I have to show this unsightly section.Please note that Arcus DOES NOT do the following:- Radar outside the US. Once I find a provider that doesn't charge an arm and 3 legs, I will definitely implement this.- Animated Radar. This is coming soon. Full disclosure, it will be available via in-app purchase, because things cost money unfortunately.- Down to the minute forecasts outside of the US and UK.If you install this app in hopes of the aforementioned features, I'm not sure what to say. Don't be the person who gets mad that Thor was not in the last Captain America movie, because you know, nobody said he would be there.***Back to things that matter about Arcus***Notes:- This is not an official port from the Dark Sky company. Please visit http://forecast.io for the official web version. There's even an android version now.- Based on the concept and implementation of the service, this app works best with GPS enabled, or latitude/longitude for a particular location.- Please note that 'up to the minute' weather conditions are only available in certain countries.Questions, comments and suggestions? follow @arcusweather",
+    "descriptionHTML": "Arcus hyper-local weather forecasts gives you the most precise up to the minute weather forecast available.<br><br>&quot;Heavy rain starting in 4 minutes, for the next 35 minutes&quot;.<br><br>Arcus uses the Forecast.io API to get the most accurate, and most current weather information. <br><br>&quot;Forecast.io is backed by a wide range of data sources, which are aggregated together statistically to provide the most accurate forecast possible for a given location.&quot;<br><br>Features include:<br><br>- Homescreen widget with customizable data points<br>- Fully usable without location services<br>- Notification Bar Weather<br>- Severe weather alerts<br>- Vibrate for precipitation<br>- Radar Map (US ONLY)<br><br>Pro Features available via In-App Purchases:<br> - No Ads<br> - Up to 10 Custom Locations (free version - 2)<br> - Widget Interval Options (free version ~ 4 hours)<br> - Touch to refresh from widget<br><br><br>***********************************************************************<br><br><br>***Disclaimer***<br>Due to way too many negative reviews in regards to the following, I have to show this unsightly section.<br><br>Please note that Arcus DOES NOT do the following:<br><br>- Radar outside the US. Once I find a provider that doesn&apos;t charge an arm and 3 legs, I will definitely implement this.<br>- Animated Radar. This is coming soon. Full disclosure, it will be available via in-app purchase, because things cost money unfortunately.<br>- Down to the minute forecasts outside of the US and UK.<br><br>If you install this app in hopes of the aforementioned features, I&apos;m not sure what to say. <br>Don&apos;t be the person who gets mad that Thor was not in the last Captain America movie, because you know, nobody said he would be there.<br><br>***Back to things that matter about Arcus***<br><br><br>Notes:<br>- This is not an official port from the Dark Sky company. Please visit http://forecast.io for the official web version. There&apos;s even an android version now.<br>- Based on the concept and implementation of the service, this app works best with GPS enabled, or latitude/longitude for a particular location.<br>- Please note that &apos;up to the minute&apos; weather conditions are only available in certain countries.<br><br>Questions, comments and suggestions? follow @arcusweather",
+    "histogram": {
+        "1": 296,
+        "2": 240,
+        "3": 559,
+        "4": 1370,
+        "5": 2928
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/DyWUedeMj77-UWpfwfutDGV-RjllDP8NfhdacnYDfmhelXt8uZK2Tk4XdGjIGYAbSIYy=h310",
+        "//lh3.googleusercontent.com/LOo5pPt_mWgWAuOpTlZ0ubQFxfURzbkmRyjmBmozoFgGIuTmQ5XRn-DxPBHj1tUx0g=h310",
+        "//lh3.googleusercontent.com/0mY0_3OF2518vEN9qqA1VHVIwO8uR1mOB3_99uId2nykkjFwkIIpLNXrcJmUH9JSI9Y=h310",
+        "//lh3.googleusercontent.com/MsT9msWXiozh-7Hfe0_jTWoEKT_LXceM5tVM591aS6SrFn00wizXsEGDmoP4ACCympw=h310",
+        "//lh3.googleusercontent.com/Ukvnzf3_Y6QKAdgM4N9wl0sqwp8kXP3mN5SQMxucQT-vDybhfJd1txomK4ThBZMNQw=h310",
+        "//lh3.googleusercontent.com/pnDmGeUrrDUkcFO7hjXYcQT-Yayi7rLTviRUHJ2waj4FjPkGiSKxUgTMOB2Hk4j8BA=h310",
+        "//lh3.googleusercontent.com/iWkXbpeFgkeh7ywzX50LI2DhpGnUX3oxgG1RcdLS523sANDH3Ue47igP5uZf2gW37kE=h310",
+        "//lh3.googleusercontent.com/7LJYcZUDhLdk24RBPUjfAVlM19srQzwzzmXwv4oTN8Bzn_s_ng4A-Bsm8dmvh3jp1w=h310"
+    ],
+    "comments": [
+        "This app appears​ to be as accurate as the other I have compared it too. The draw back for me is this app does not flow from screen to screen. I would like to see separate screens for temp, rain+wind, particulates and next 7 days. All at a swipe not having to tap. Radar section could be more detailed. It does work and you will know when you need to take your umbrella.",
+        "Very accurate I changed from a detailed weather app to this weather app.  It is very accurate, shows all the information you need, is easy to use, doesn't take up much space and is fast.  It has become my weather app of choice.  What is especially nice is that a gives you an accurate forecast summary for the upcoming week so you can just simply read the forecast. The map is nice but I would like to be able to view cloud cover too.  Sometimes the auto updating does not work.",
+        "imho, 1ofThe Best Weather App :) Support For 2 Locations in Free Edition . This App Uses No Unnecessary System Lvl Permissions :) Liked interface, has various related info, nicely organized. Dark theme option exists, its helpful to reduce battery usage. Now, locations (Locn) can b added manually w/o Locn service is ON. Only 2 Locns can b added in2 Remote Locn section. Its still using NonEncrypted data thru p/80 of Newark-Linode & Amazon Servers ! used v6.0.0.6, when reviewed. Reply: thanks 4 improving & respons, agn. Found the free dark-thm feat, also the paid Upg option to add upto 10 Locn. Changed review ratings & content. Thanks.",
+        "I bought this app because it uses the weather api DarkCloud has (or so I read), anyway it is accurate for my area. Also love the simple design approach and dark theme. I don't like he \"weather station approach\" with many graphs and analysis, I just want to quicly see weather for next 48 hours. Good job guys",
+        "Clean, simple, useful.  The design of the main app and the widgets is stunning. Edit: the widget constantly breaks to the point of me not trusting it at all. Currently says last updated 12 hrs ago however I'm inclined to think this is actually days ago even manual refresh didn't fix. Have to regularly remove and reads the widget!",
+        "Purchased this App thinking to help the Dev Develope this App. It's rather hard to understand that there hasn't been any updates in now over one year. With No Updates or New Features Added Doesn't Sound Like Dev Cares Much About Anything Other Than Grabbing a Few Bucks. Buyer Beware!!!"
+    ],
+    "recentChanges": [
+        "minor text changes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.arcusweather.darksky&hl=en&gl=us",
+    "appId": "com.arcusweather.darksky"
+}

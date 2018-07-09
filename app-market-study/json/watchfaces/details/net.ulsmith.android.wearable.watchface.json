@@ -1,0 +1,58 @@
+{
+    "title": "razorWF Wear Watch Face",
+    "summary": "Wear watch face with auto night mode and a variety of widget dials.",
+    "icon": "//lh3.googleusercontent.com/YHPsHXP8I1NUj7wIIyiXigaReTSFDvOMCI5jteacOnoYnAUYeNjyJ0Ogz9CPBOdehAQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.2,
+    "reviews": 4,
+    "developer": "ulsmith",
+    "developerId": "ulsmith",
+    "developerEmail": "support@ulsmith.net",
+    "developerWebsite": "https://plus.google.com/u/0/b/113796298795825731598/113796298795825731598/about",
+    "developerAddress": "Loughborough, UK",
+    "updated": "December 15, 2015",
+    "version": "2.6.6",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "razorWF watch face comes with various functionality including day of month and dials for battery levels for both phone and watch, sms message count/pip, missed call notification count/pip, stopwatch (chronograph) and calendar count, all configurable from the phone.Night mode calculates night time based on your approximate location and current time, lowering the intensity of the watch face automatically at night (configurable) to save power and reduce glare. In addition to night mode, there is also a night glow feature that glows the watch face green at night, simulating a glow in the dark watch face.The stop watch dial can be added to up to four areas just like any other widget dial, allowing you to start, stop and reset the stopwatch just by touching the stopwatch widget dial. Normal touch of the dial will toggle the stopwatch off and on whilst a long press will reset the stopwatch back to zero.Calendar events can now be viewed for the next 24 hours, showing as a count on the calendar dial, when touched, all events for the next 24 hours can be viewed with details on event title, description times and location.Change your style with with various backgrounds, hand types and layouts for round, square and moto360 cut-off screens all configured from the settings on the phone configuration activity.",
+    "descriptionHTML": "razorWF watch face comes with various functionality including day of month and dials for battery levels for both phone and watch, sms message count/pip, missed call notification count/pip, stopwatch (chronograph) and calendar count, all configurable from the phone.<br><br>Night mode calculates night time based on your approximate location and current time, lowering the intensity of the watch face automatically at night (configurable) to save power and reduce glare. In addition to night mode, there is also a night glow feature that glows the watch face green at night, simulating a glow in the dark watch face.<br><br>The stop watch dial can be added to up to four areas just like any other widget dial, allowing you to start, stop and reset the stopwatch just by touching the stopwatch widget dial. Normal touch of the dial will toggle the stopwatch off and on whilst a long press will reset the stopwatch back to zero.<br><br>Calendar events can now be viewed for the next 24 hours, showing as a count on the calendar dial, when touched, all events for the next 24 hours can be viewed with details on event title, description times and location.<br><br>Change your style with with various backgrounds, hand types and layouts for round, square and moto360 cut-off screens all configured from the settings on the phone configuration activity.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2tRs7rvZLDIXa0GOIwrY--WgHWThDgK4vleTm5rQgZAQiflLZ6Gz80PqGu2vuq6e880=h310",
+        "//lh3.googleusercontent.com/kBlNp2Dksp-mF3SdpJ12vQrUSHfAl0zh__oRSXlIO-WxHY3wkA7Y0a1ynH64C6s7lDgO=h310",
+        "//lh6.ggpht.com/TROJ1zFjGFt6MRrY7Y3SxCCpyu8q5eX1-NXrsvqQbY4nUirtsBey1ySf3qUfwe-QEV8=h310",
+        "//lh3.googleusercontent.com/5IVPvh3PIv6EkLXEm5JuMsvg1ZlQ9LchSvsx-EhAExl1Uue9zM_zBKR-iCw0NhLoEts=h310",
+        "//lh3.googleusercontent.com/gBRlblDvmAodVfvRhzIfDSpnMSdBFnRrwQ1ld7HVKNvNCVefY2HL8mQ25ZsBZBhSR-E=h310",
+        "//lh3.ggpht.com/sQUKC4LbyEIJSwxXWzvkbPKdQ1XEovx6u0AUMpj3siZ3sOWkvzEeYVrVixy5JHbd79k=h310",
+        "//lh3.googleusercontent.com/s4jOALedqHflZdzDYaLzkvPOnSnu1sxKuIVP_4ZBOurigTzNdHxI03bE2bhdojzvQg=h310",
+        "//lh4.ggpht.com/odeV3JdqChhVhNRPNWaGRcaNwPSn9Qx78G4jETBpuy7NIdtarcC5IsxXDbspi1RcMc68=h310"
+    ],
+    "comments": [
+        "A few little issues Huawei watch. Day of the month doesn't sit in the middle of the circle and I can't get night glow to work."
+    ],
+    "recentChanges": [
+        "2.6.6 Fixed issue with LG Urbane 2nd ED",
+        "2.6.4 Updated watch face to up to 4 dials with auto positioning of logo and logo text",
+        "2.6.3 Fixed typo",
+        "2.6.2 Fixed bug, count and events do not match",
+        "2.6.1 Fixed bugs, calendar not showing without stopwatch, Square face events not showing",
+        "2.6 New calendar dial added, gives count of events in next 24 hours (approx). Touch the dial to see the event details, time, title, description and location. Please allow time for android to synch events."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.ulsmith.android.wearable.watchface&hl=en&gl=us",
+    "appId": "net.ulsmith.android.wearable.watchface"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "DoubleSafe",
+    "summary": "DoubleSafe is a two-factor authentication app",
+    "icon": "//lh3.googleusercontent.com/gLPGPewI7FFljQhNBks1wgsWOWHfJmxspnmjlv0qS23UwfSAZJDorxJz5367dx4KpA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 1,
+    "developer": "Serverdata.net, Inc.",
+    "developerId": "Serverdata.net,+Inc.",
+    "developerEmail": "serverdata.net@gmail.com",
+    "developerWebsite": "https://www.serverdata.net",
+    "developerAddress": "825 E. Middlefield Road,\nMountain View, CA 94043",
+    "updated": "November 29, 2016",
+    "version": "1.3.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "DoubleSafe is a two-factor authentication app that adds an additional layer of security, by requesting an additional code, when you sign in to your account. • If you choose to use Push Notifications, the DoubleSafe app will display a message asking you to ‘Allow’ or ‘Deny’ access to your user account. Confirm it is you logging in by selecting ‘Allow’. • If you are using one-time passcodes, the DoubleSafe app will generate a one-time passcode that must be entered in order to access your account.",
+    "descriptionHTML": "DoubleSafe is a two-factor authentication app that adds an additional layer of security, by requesting an additional code, when you sign in to your account.<br> <br>&#x2022; If you choose to use Push Notifications, the DoubleSafe app will display a message asking you to &#x2018;Allow&#x2019; or &#x2018;Deny&#x2019; access to your user account. Confirm it is you logging in by selecting &#x2018;Allow&#x2019;. <br><br>&#x2022; If you are using one-time passcodes, the DoubleSafe app will generate a one-time passcode that must be entered in order to access your account.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/8CbVHEQKzdca8gyJbRT32CHSj9oESKWia0n-Ca5l5j-fH_VjRxVvpJDumcKgXyTZOTnH=h310",
+        "//lh3.googleusercontent.com/Tx3iH_IezBTyM6BqzqTMfL31Zo57kpLiMxxD4Y0tRRbEIjKYZyRyG04_LRLmMPPg7HM=h310",
+        "//lh3.googleusercontent.com/oPRmaVbkqyPN1stjnvTexb7SnH5-eh3rrdCi7V7RJgLtpeuSwRrD3xkwvNH8AIWVog=h310",
+        "//lh3.googleusercontent.com/m8NEgO03oQx9tLhqII00JgI8ovn2bAElnvYSMNBE57G1Rjp3UWpgJzeL8lMWZR0B6Eo=h310",
+        "//lh3.googleusercontent.com/y9p4MVCT5isDda_-ZgbNH2srz3T5KTSyw2SLytD3w_iCSzhH0BFVKCSUk6ba-JATu6RJ=h310",
+        "//lh3.googleusercontent.com/RD2Oiv_cqJtPRhBkizsWRt57iigQb-HFuTNp2-ZHgyfpXfM7urQUkpQSzTC-NcKWAhs=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "•\tAndroid 7.0 support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.serverdata.doublesafe&hl=en&gl=us",
+    "appId": "net.serverdata.doublesafe"
+}

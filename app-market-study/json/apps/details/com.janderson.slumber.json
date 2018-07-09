@@ -1,0 +1,52 @@
+{
+    "title": "Slumber for Android Wear",
+    "summary": "Shows a black screen while your watch is charging to reduce light and burn in.",
+    "icon": "//lh6.ggpht.com/JffUuuqmM0-IEQIsrSPgj2JYu4MKywVe5mjntB67N1fWry2n3F-sZWlkfkWqzgH6nAA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 799,
+    "developer": "Joel Anderson",
+    "developerId": "Joel+Anderson",
+    "developerEmail": "joelbryceanderson@gmail.com",
+    "developerAddress": "159 5th Street NW\nAtlanta, GA 30313\nUSA",
+    "updated": "September 23, 2014",
+    "version": "1.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "*You must open the app at least once on your watch after installing for it to work.*Does your Android Wear device's always on feature make it difficult for you to sleep? This simple app shows a black screen while your watch is charging, which allows you to sleep undisturbed, without bright lights from your watch keeping you awake. Simply install the app and set your device in its charger, and the screen will remain dark until you pick the watch up again or tap the screen. Enjoy!",
+    "descriptionHTML": "*You must open the app at least once on your watch after installing for it to work.*<br><br>Does your Android Wear device&apos;s always on feature make it difficult for you to sleep? This simple app shows a black screen while your watch is charging, which allows you to sleep undisturbed, without bright lights from your watch keeping you awake. Simply install the app and set your device in its charger, and the screen will remain dark until you pick the watch up again or tap the screen. Enjoy!",
+    "histogram": {
+        "1": 111,
+        "2": 50,
+        "3": 77,
+        "4": 159,
+        "5": 402
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/XRyw_nia7QAUVLn3t9CSFNrytC0ZvFBs_Om52EP8jS-8kSeGQVUf6utZ-OZwOpPANg=h310",
+        "//lh3.ggpht.com/Ow6s860NptdPYdwA--ZhW-eqJ8uMTL7o5fPQ2s5Wbldtqm0dIiS_j4_NOHmFZkbB1g=h310"
+    ],
+    "comments": [
+        "Moto 360 issues Joseph stated the issue I'm running in to as well. The app is showing the check mark, but it does not consistently put the Moto 360 in the blank screen mode. I usually have to open the app, deselect then select the \"on\" feature. Is there something in the way of timing or the sensor that's causing the issue? When it works, it does work properly.",
+        "Thanks, works great! I think you need to simplify the instructions a bit. At first I could not get it to work. But reading everyone's posts I figured it out. It seems that once it's set you need to have the screen on before you place it in the holder. If the screen is off it does not work.  Also make sure the app shows the check mark. I also was able to just say start slumber and it showed the app with the check mark. Placed it in the charger and the screen is dark.",
+        "Perfectly simple solution! Installed it, opened the app on my Moto 360 once and saw check mark.  Placed it on the charger and screen immediately went dark.  Perfect!  I didn't really see any need to light up the screen with the clock and charge level, especially if there was a chance of screen burn in.  It's not an alarm clock after all.  I use the Gentle Alarm app on my Moto X and use it for my alarm clock on my nightstand  and it has a night display setting with anti burn in setting.",
+        "Works well on my Moto360 Automatically blacks the screen  when watch is placed onto the charger. Actually some light does still leak out but it has to be really dark to see it. A simple analogue watch face would be a great option as i cant read digital without glasses",
+        "Doesn't work currently This app stopped working after my 2nd Gen Moto 360 updated to Marshmallow. It's been a while now so I hope a fix is coming soon. Love this app so will update to 5 stars when working again.",
+        "Doesn't work quite as expected on moto  360 2nd gen My moto 360 2nd gen doesn't charge when off & theatre mode doesn't work whilst charging - as I like a completely dark room this is fab for going to sleep, but it does come on (to a greyed out lit screen) during the night."
+    ],
+    "recentChanges": [
+        "~1.2~",
+        "-Added Moto 360 Support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.janderson.slumber&hl=en&gl=us",
+    "appId": "com.janderson.slumber"
+}

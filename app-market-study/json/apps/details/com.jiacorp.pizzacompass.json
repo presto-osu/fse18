@@ -1,0 +1,57 @@
+{
+    "title": "Pizza Navigator",
+    "summary": "Looking for Pizza? Let the Pizza Navigator get you there!",
+    "icon": "//lh4.ggpht.com/uN_bGc6W53b60_wUWFdBNKfxFvo912tNqNKWSPSsZudkQxxLA9hVkrV6hvclQ_6bkf8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 103,
+    "developer": "JiaCorp",
+    "developerId": "JiaCorp",
+    "developerEmail": "jiacorp1@gmail.com",
+    "developerAddress": "3396 Diego Bay Cir\nLas Vegas, NV 89117",
+    "updated": "January 12, 2015",
+    "version": "1.7.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Looking for Pizza? Look no further. The Pizza Navigator will get you there! It will point you in the direction of the nearest pizzeria.Works with your phone, and your Android Wear compatible watch!Even if you're not looking for pizza, think of all the fun and laughter this will bring when friends check out the Pizza Navigator for Android on your slick watch!Features--See nearest pizzeria, distance and direction--Swipe to see up to 5 pizzerias nearby--Works on phone & watch!",
+    "descriptionHTML": "Looking for Pizza? Look no further. The Pizza Navigator will get you there! It will point you in the direction of the nearest pizzeria.<br><br>Works with your phone, and your Android Wear compatible watch!<br><br>Even if you&apos;re not looking for pizza, think of all the fun and laughter this will bring when friends check out the Pizza Navigator for Android on your slick watch!<br><br>Features<br>--See nearest pizzeria, distance and direction<br>--Swipe to see up to 5 pizzerias nearby<br>--Works on phone &amp; watch!",
+    "histogram": {
+        "1": 4,
+        "2": 3,
+        "3": 6,
+        "4": 19,
+        "5": 71
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/EWVhuW3sfwW1KLk2zEJWeROocYbz5jj5yqnYVKkM2qIcNh9z71KuTKhOfpd8VUzds24U=h310",
+        "//lh6.ggpht.com/x2NT8jsam_RuBbJZpucHlTSKjxVkYk85IFmQPOTsvBnl69JiFD3WEdHDobEhkGVUtqU=h310",
+        "//lh4.ggpht.com/GzsY4Jo_k-KpskDHKJHN0Glk3hdaSYGZYgKtxXUy8nqezrmLdCFpRJIZi5AZ2LJdNRg=h310"
+    ],
+    "comments": [
+        "A great functioning novilty app! Since my friends and I get hungry often, pizza is always on the menu. At any time, I can bring up this app and find the nearest pizzaria, wherever I can get cell and GPS service!",
+        "Amazing! Was planning on buying pizza for my wife's graduation party from a pre determined place when we found out day of that they were closed. Fired up this app on my Moto 360 and found the closest pizza place. Ended up buying from them and the pizza was great! Thanks, Pizza Navigator for saving my wife's grad party!",
+        "how to add new places? Looks good and can find most of the pizza places, what is the databse for this and how can we add more?  Edit: Would be good to advertise that it goes off Google API.  I would also suggest you use foursquare API",
+        "Beautiful I don't know how I lived before this app. EDIT: Kms were available I was an idiot, thanks for the fastest reply!",
+        "Won't appear on Android Watch I bought this mostly for the novelty of a pizza thing on my watch, pointing me to pizza, but the app isn't showing up on my LG watch. What's the deal?",
+        "Good stuff Simple app, does what it says, implemented my suggestion of blacklisting certain pizza places. love it"
+    ],
+    "recentChanges": [
+        "version 1.7.1",
+        "Assorted bug fixes",
+        "version 1.7.0",
+        "--Now have pizza ratings, where available.",
+        "--Can toggle between english and metric units by tapping on the distance.",
+        "--Need directions? Now able to launch google maps for turn by turn directions."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jiacorp.pizzacompass&hl=en&gl=us",
+    "appId": "com.jiacorp.pizzacompass"
+}

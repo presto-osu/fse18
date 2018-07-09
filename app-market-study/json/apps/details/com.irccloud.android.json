@@ -1,0 +1,62 @@
+{
+    "title": "IRCCloud",
+    "summary": "Chat on IRC from anywhere, and never miss a message",
+    "icon": "//lh3.ggpht.com/6dbDUfjcsEqWaUxfjkNMY5Obo_1xS6LcxTt3DBetr9MfkkYd6swzdsDmWmo41PTkU54O=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.2,
+    "reviews": 1422,
+    "developer": "IRCCloud Ltd",
+    "developerId": "IRCCloud+Ltd",
+    "developerEmail": "team@irccloud.com",
+    "developerWebsite": "https://www.irccloud.com/",
+    "developerAddress": "IRCCloud\nKemp House\n152 City Road\nLondon\nEC1V 2NX",
+    "updated": "February 20, 2018",
+    "version": "4.8.2",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Chat on IRC from anywhere, and never miss a message.• Stay connected when you're on the move. No need to rely on constant data access, we keep your IRC connection running on our servers.• Your entire chat history is fully synced to the cloud so you can catch up at your leisure.• Get push notifications for mentions and private messages.• Upload and share files straight from your device.• View and reply to highlights and private messages on Android Wear, Android Auto, Pebble, and Sony LiveView.Join our #feedback channel on irc.irccloud.com for feedback and suggestions so we can improve the app. You can also email us on team@irccloud.com or find us on Twitter @irccloud",
+    "descriptionHTML": "Chat on IRC from anywhere, and never miss a message.<br><br>&#x2022; Stay connected when you&apos;re on the move. No need to rely on constant data access, we keep your IRC connection running on our servers.<br>&#x2022; Your entire chat history is fully synced to the cloud so you can catch up at your leisure.<br>&#x2022; Get push notifications for mentions and private messages.<br>&#x2022; Upload and share files straight from your device.<br>&#x2022; View and reply to highlights and private messages on Android Wear, Android Auto, Pebble, and Sony LiveView.<br><br>Join our #feedback channel on irc.irccloud.com for feedback and suggestions so we can improve the app. You can also email us on team@irccloud.com or find us on Twitter @irccloud",
+    "histogram": {
+        "1": 150,
+        "2": 44,
+        "3": 80,
+        "4": 270,
+        "5": 878
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nHEcKIm4IuXprbxv9jedje5xB-9vC8fAziK1MCgtMt5J8vTW8yhpvk1M1fJJqXwySuQ=h310",
+        "//lh3.googleusercontent.com/ApIrGWFnSON-K35R7k45NqBRKRDzg70gLUISNmbk3A-tqEC8WMTWujEkRBfeXcYSEw=h310",
+        "//lh3.googleusercontent.com/YDKcK08uWuEytRAlC-HrrYhCZWoOAN-KmlPkOum27Pn8mHqJ7LtHVkANjSzkxf8pGw=h310",
+        "//lh3.googleusercontent.com/7rC2CNz1u-uxHhmLJ806w-3FUKapRRRIO6ZgB-uiVNonbOqbdeCfUogLhvdDC35-KEQ=h310",
+        "//lh3.googleusercontent.com/VwYbmbts7epL6I6A2aAXskmgV0XdGgNq6wDqOWFFqQVYdLJCgJHB_ACHX57ZCy77aA=h310",
+        "//lh3.googleusercontent.com/afIlaWYcidxj3t0EqQXIUpngyQujbLua5wLKP0Zbs5M2QksxF4v2wqHGu2mkvfMZAXwU=h310",
+        "//lh3.googleusercontent.com/vgPhQbrii2hEO4hQi3NlcdJkNN6Bx2WRaBmOqSjdQzIW9hQh4fqhzFGrFzP-QTk5i2fB=h310",
+        "//lh3.googleusercontent.com/wWcxpWEZisPQZu4rSQ0PNmGT0xPyoPJJ9tyeisSuXHz30LenxXwXb9Ul62vF5-cbl9kF=h310",
+        "//lh3.googleusercontent.com/kIs41P48yQzyLqSyMDbSIIXBYfFgKelZAxhmeocoGjWxb03zWHMNmbRyeotda4DEVLQ=h310",
+        "//lh3.googleusercontent.com/HN8pv6HG6gqPqcJ_jkaGecKtVY3-OYKfz6v6MvsLlXWY2Wn_fChTm3mI50eFjKmbLWit=h310"
+    ],
+    "comments": [
+        "After trial over, i have lot trouble to connect Dalnet... Invalid host, connect-reconnect without success...... But anyway i think its great irc app (in paid/full version).",
+        "Why i cannot login to my account? It keep saying not connect to irc cloud?",
+        "i always choose this irc client over the rest because it's simple get has way more features* i use it connect to my own znc with paid app.",
+        "I just lost everything because of your app",
+        "As an irc client it is working great, but that would not necessarily require a sign-up. But since it also gives you a bouncer that's whats makes it worth it for me (2 hours for free, 5$/month for unlimited time). Very recommended.",
+        "This is a paid service. I like the convenience and the stable easy to use clients. It ain't irssi so don't expect that."
+    ],
+    "recentChanges": [
+        "• Fix an issue that could prevent the /LIST command from showing any results",
+        "• Fix an issue that could cause the app to disconnect and reconnect unexpectedly",
+        "• Stability improvements and minor fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.irccloud.android&hl=en&gl=us",
+    "appId": "com.irccloud.android"
+}

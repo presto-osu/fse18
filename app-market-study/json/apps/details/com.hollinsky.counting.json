@@ -1,0 +1,51 @@
+{
+    "title": "Counting for Android Wear",
+    "summary": "Tap to count",
+    "icon": "//lh3.googleusercontent.com/cm279dWCTA5mqfcq1r3pmtplikjPueCECg09BrENR1-pRxqcyF11s7XmJmWqD3i0tw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.7,
+    "reviews": 35,
+    "developer": "Paul Hollinsky",
+    "developerId": "Paul+Hollinsky",
+    "developerEmail": "paulhollinsky@gmail.com",
+    "developerWebsite": "http://hollinsky.com",
+    "updated": "May 31, 2015",
+    "version": "1.1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This is a simple, free, no-frills application for Android Wear which will allow you to count up by tapping the screen. It's meant to be as easy to use and as intuitive as possible.NO phone app will appear in the launcher on your phone when you install this. The app will appear on your Android Wear device.",
+    "descriptionHTML": "This is a simple, free, no-frills application for Android Wear which will allow you to count up by tapping the screen. It&apos;s meant to be as easy to use and as intuitive as possible.<br><br>NO phone app will appear in the launcher on your phone when you install this. The app will appear on your Android Wear device.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 6,
+        "5": 27
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Bgl6G5wT_1R11npA6g30Rben5zUDQcrnCYn2WsxjQQldO2UySEdUR2uwFNkXsEBQ7w=h310",
+        "//lh3.googleusercontent.com/KBUlnW6HKpo8VtYN7kMQzqkvVrBgaSfVGfu7wt6qNl0MXPU_gf20zmHdYFfwcpFJQRMT=h310"
+    ],
+    "comments": [
+        "Best app ever Does exactly what it says on the box. Really great UI and user experience, absolutely stunning work by the developer. At this point I believe he/she is a close relative of Tony Stark with this level of code, looks like the work of Jarvis.",
+        "This is the best tap to count app for Android Wear I found! Full screen tap is a great idea! But please add a minus function too (for example double tap).",
+        "Perfect Perfect for counting things! I can never remember what swing I'm on while playing golf, and this is absolutely perfect for it.",
+        "Plz make a mode to turn off vibrations",
+        "/r/androidwear brought me here And it's great! Would be cool to have multipliers and a way to decrease",
+        "Simple and effective A great little app. Simple to use, just tap and it counts."
+    ],
+    "recentChanges": [
+        "This update enables Ambient Mode for 5.1.1 devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.hollinsky.counting&hl=en&gl=us",
+    "appId": "com.hollinsky.counting"
+}

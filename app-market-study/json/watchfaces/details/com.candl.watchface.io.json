@@ -1,0 +1,57 @@
+{
+    "title": "Watch face - Animate Material",
+    "summary": "Watch face - Animate Material for Android Wear",
+    "icon": "//lh5.ggpht.com/EPhFOXTsVgM7fTv2MPE_ZTIRR54GHBLlvd2Y1a6PPrkItCUOcT8qhjrjxQIic4kiGmo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.2,
+    "reviews": 248,
+    "developer": "Candl Apps",
+    "developerId": "8180715251803347561",
+    "developerEmail": "contact@candlapps.com",
+    "developerWebsite": "http://candlapps.com",
+    "developerAddress": "District 7,\nHo Chi Minh,\nVietnam",
+    "updated": "March 1, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Animate Material is a Google IO 2015 inspired material style watch face for your Android Wear device with cool number animation.★ Google IO 2015 inspired material style.★ Cool number animation.★ Multiple color customization features.★ Works for round and squared watches.★ Suppors 12h/24h mode.★ Dimmed mode.Supported devices- Requires Android 4.3 and up smartphone.- Works on all Android Wear devices.- Supports round (e.g. Moto 360 and LG G Watch R) and rectangular smartwatches (e.g. Samsung Gear Live and LG G Watch). - Does NOT work on Samsung Gear and smartwatches using other operating systems.",
+    "descriptionHTML": "Animate Material is a Google IO 2015 inspired material style watch face for your Android Wear device with cool number animation.<br><br>&#x2605; Google IO 2015 inspired material style.<br>&#x2605; Cool number animation.<br>&#x2605; Multiple color customization features.<br>&#x2605; Works for round and squared watches.<br>&#x2605; Suppors 12h/24h mode.<br>&#x2605; Dimmed mode.<br><br><b>Supported devices</b><br>- Requires Android 4.3 and up smartphone.<br>- Works on all Android Wear devices.<br>- Supports round (e.g. Moto 360 and LG G Watch R) and rectangular smartwatches (e.g. Samsung Gear Live and LG G Watch). <br>- Does NOT work on Samsung Gear and smartwatches using other operating systems.",
+    "histogram": {
+        "1": 10,
+        "2": 11,
+        "3": 31,
+        "4": 62,
+        "5": 134
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/Rb8oEK-UwVw72CFpfreaqsiMJ6fzP7KUMgJ4DY7j1UcaNACtX0SVHhpYf-fVFaQGjXsY=h310",
+        "//lh4.ggpht.com/Lc2XMJQgOPXdPU36c56-NCr1gsedglXAMFYlE5j5RsVJBO0O221v5_BRoRaO44H1N28=h310",
+        "//lh3.ggpht.com/KHwvlczv1Dko5amPS8ZwT58pYWT_pTaE2VA-j-jyiT051Qj-sBjnz1P1wUgKoDSujg=h310",
+        "//lh6.ggpht.com/aAGbDzL6ng7-8FTHdV_hGUmxybTDnUcEAhnwU-q39zIXE39vC5ciWcf0ClEV5TLW4w=h310"
+    ],
+    "video": "https://www.youtube.com/embed/UOBnc_M_B1U",
+    "comments": [
+        "Really nice watchface I've been using this watchface on my Moto 360 and I have to say I really like it. The overall design and transitions are very nice, but I've noticed a couple aren't entirely smooth. For example, the gradient towards the 'flat-tire' at the bottom of the 360 sometimes takes about a second to appear, and as nice as it looks when it does finally make it, I'd rather just not have it there if it means a janky animation. The switch back to ambient display is also not that smooth as the clock jumps down, but that's not too big of an issue for me as I don't use that mode.   Currently, the one thing preventing me from using this as my primary watch face is the battery drain issue - not sure what this is caused by, but if it is fixed I will be able to wholeheartedly recommend this face.  Edit: Practically all of my issues with this watchface have been fixed, increased to 5 stars.",
+        "Really love the look, too much battery drain I'm in love with this watch face. Very well executed. However, I'm experiencing a ton of battery drain on my 360 while using this one. Hopefully it can get fixed... I want to use it again!",
+        "Please fix It's a great watch face, but use outlines in idle mode instead of filled shapes because sometimes I can see it start to burn in.",
+        "Great I really love how it looks, but it doesn't have the best contrast between numbers and background. I can't see the hour at a glance.",
+        "Pretty cool Would like it if the watch face didn't slow down my watch. Sometimes it takes 3 seconds for the screen to come on when I touch it. It's cool, but could use some more features too.",
+        "Great little i/o watch face! Love the Google font on this watch face and the nice material animation as it becomes active! Thanks for making it, great work! Maybe just a couple of additional options for weather or battery could be added."
+    ],
+    "recentChanges": [
+        "- Dramatic decreased the battery consumption when screen off.",
+        "- Adjusted the shadow color.",
+        "- Fixed some minor bugs."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.candl.watchface.io&hl=en&gl=us",
+    "appId": "com.candl.watchface.io"
+}

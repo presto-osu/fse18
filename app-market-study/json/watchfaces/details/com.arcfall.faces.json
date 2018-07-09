@@ -1,0 +1,46 @@
+{
+    "title": "ArcAngle Watch Face",
+    "summary": "A minimalist watch face for Android Wear.",
+    "icon": "//lh3.googleusercontent.com/UA7FcV_G9CywypvQVAiJx5X1UWI5U6Wb-ocqQtUaLlyuh5sw13G2rSIjFJn-cDEfq4w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.7,
+    "reviews": 19,
+    "developer": "ArcFall",
+    "developerId": "ArcFall",
+    "developerEmail": "arc.fall.labs@gmail.com",
+    "updated": "May 2, 2016",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "ArcAngle is an Android Wear watch face I made sometime in 2015 after playing with a few different designs and cloning a couple of watch faces for my personal use. ArcAngle is inspired by UsTwo's Zodiac design, but solves my main complaint with Zodiac: that its lines could extend over the numbers in the center.",
+    "descriptionHTML": "ArcAngle is an Android Wear watch face I made sometime in 2015 after playing with a few different designs and cloning a couple of watch faces for my personal use. ArcAngle is inspired by UsTwo&apos;s Zodiac design, but solves my main complaint with Zodiac: that its lines could extend over the numbers in the center.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 4,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/4OUzqG8d-21lsl8sAlv4sU6guWgLrebX4WOuUEb0hVo_wtrY7J_ssNq_uriR3wX-tHU=h310",
+        "//lh3.googleusercontent.com/ddlLJNQy5zYoIxdQM3JAWvcC7-CImQS23vNIoT7v0HbUVDaN9Ft7MRkxy0ALhlKbGvY=h310"
+    ],
+    "comments": [
+        "Nearly perfect: minimal without being too weird or hard to read, and uses a smooth, sweeping second hand.  The only thing missing is complications support, and some little touch of color, maybe an option to change the color of the hour and minute circles?",
+        "Best watch face I've used Best I've used on my moto 360, and I've had one since release. It's elegant and easy to read, and I constantly get compliments from other people.",
+        "I like the simplicity and the animation seems to function very well. A few options would be nice like inverting the colors.",
+        "Elegant in its simplicity. Would like to see some color options added."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.arcfall.faces&hl=en&gl=us",
+    "appId": "com.arcfall.faces"
+}

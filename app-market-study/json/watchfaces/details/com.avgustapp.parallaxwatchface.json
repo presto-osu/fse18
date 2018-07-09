@@ -1,0 +1,49 @@
+{
+    "title": "Parallax Watch Face",
+    "summary": "Watch doesn&#39;t matter, the watch face matters!",
+    "icon": "//lh3.googleusercontent.com/n0HZnd6Y09lzjqaRltlhXxd5MIhLPpVEl08YWk3YD2LouQpfAzbuT0r-FQBPjBX1n5DN=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 10,
+    "developer": "AugustApp",
+    "developerId": "AugustApp",
+    "developerEmail": "avgust8.team@gmail.com",
+    "developerAddress": "Belarus city Volkovysk street Zholudeva d. 2",
+    "updated": "August 13, 2016",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Tired of trivial watch appearance? Check out extraordinary watch faces with 3D Parallax effect!The application contains four wonderful watch faces which you will definitely like: ☄️ Galaxy parallax view! The remarkable effect of the depths of a galaxy!⚡   Broken glass perspective parallax view. You can see what is hidden inside of your watch!🚀  Galaxy with planet parallax view! Explore new worlds and seek out new life! ☁️️  Parallax effect with the clouds. Dreams Come True!If you like the watch face, please, rate it! 👍========================================Attention!!!If you can't see watch face in “Android Wear”.Open application “Android wear” on your smartphone. Please go to settings (small white gear in top right screen). Find option “Resync apps” and click it. Please, Wait. This resync all available apps on your watch. And you will see with face.",
+    "descriptionHTML": "Tired of trivial watch appearance? Check out extraordinary watch faces with 3D Parallax effect!<br>The application contains four wonderful watch faces which you will definitely like: <br>&#x2604;&#xFE0F; Galaxy parallax view! The remarkable effect of the depths of a galaxy!<br>&#x26A1;   Broken glass perspective parallax view. You can see what is hidden inside of your watch!<br>&#x1F680;  Galaxy with planet parallax view! Explore new worlds and seek out new life! <br>&#x2601;&#xFE0F;&#xFE0F;  Parallax effect with the clouds. Dreams Come True!<br><br>If you like the watch face, please, rate it! &#x1F44D;<br><br>========================================<br>Attention!!!<br><br>If you can&apos;t see watch face in &#x201C;Android Wear&#x201D;.<br><br>Open application &#x201C;Android wear&#x201D; on your smartphone. Please go to settings (small white gear in top right screen). Find option &#x201C;Resync apps&#x201D; and click it. Please, Wait. This resync all available apps on your watch. And you will see with face.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/e2u792YcsuosfaSbni3HbuGh4tkNTKYcFOWUr6m4LgeBVE73tDMHuQsK_iskcbY-vDc=h310",
+        "//lh3.googleusercontent.com/KB-vNOCPC-meEycyMrmTyuz4kkqceX2k8XkVu5VoehyFdxg2QLC2jNagPO3B_NgkOQ=h310",
+        "//lh3.googleusercontent.com/WBRgv99y-cK3q-c-kwzIY7ZaYkHgzPdqQaHjvcKSEA9cwyU6OLSKAwkr3gb5vryFcmmA=h310",
+        "//lh3.googleusercontent.com/Ts332hpIhzil-HdqUXNSZrkLl_1Mzy-Z-XbX9KNH9dmWTKBsM5vP-VaM8wgWOcN0XHU=h310"
+    ],
+    "comments": [
+        "Nice Good parallax effect for my watch"
+    ],
+    "recentChanges": [
+        "- Added new watch face",
+        "- Internal improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.avgustapp.parallaxwatchface&hl=en&gl=us",
+    "appId": "com.avgustapp.parallaxwatchface"
+}

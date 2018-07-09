@@ -1,0 +1,48 @@
+{
+    "title": "Resistor Decoder for Wear",
+    "summary": "Turn your Wear device into a voice-driven resistor value decoder!",
+    "icon": "//lh3.ggpht.com/EIjtVmmYC1LLBVX8c1PJ_hYhlQMDE1bzNI5TlgssajxkwoXpQi_-sHfsyqKU-2-k-jo=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 5,
+    "reviews": 1,
+    "developer": "Bob Igo",
+    "developerId": "Bob+Igo",
+    "developerEmail": "bob.igo@digitalarcsystems.com",
+    "developerWebsite": "http://www.digitalarcsystems.com",
+    "developerAddress": "295 Beverly Rd, Pittsburgh, PA",
+    "updated": "October 21, 2014",
+    "version": "1.0.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This is an app for Android Wear. Languages supported: English (US and UK), German, Korean. If you want support for another language, please contact me and ask.Have a bunch of loose resistors lying around? Want your Wear device to tell you what values they have so you can file them away? You need this app!Simply launch the app and speak the color bands on the resistor. Resistor Decoder will answer with the resistance and tolerance. For example:\"red violet green gold\" -> \"2.7M Ω ± 5.0%\"Just tap the prompt to decode another resistor. It's great for makers and electronics hobbyists. As far as I'm aware, it's the only voice-driven hands-free resistor decoder available.Features:* Voice input* Supported languages and locales: American English, British English, German, Korean* Support for TCR (Temperature Coefficient of Resistance)* max of 6 color bands enforced* filters out 'and' if you list colors like \"red green blue and gold\"",
+    "descriptionHTML": "<b>This is an app for Android Wear.</b> Languages supported: English (US and UK), German, Korean. <b>If you want support for another language, please contact me and ask.</b><br><br>Have a bunch of loose resistors lying around? Want your Wear device to tell you what values they have so you can file them away? You need this app!<br><br>Simply launch the app and speak the color bands on the resistor. Resistor Decoder will answer with the resistance and tolerance. For example:<br><br>&quot;red violet green gold&quot; -&gt; &quot;2.7M &#x3A9; &#xB1; 5.0%&quot;<br><br>Just tap the prompt to decode another resistor. It&apos;s great for makers and electronics hobbyists. As far as I&apos;m aware, it&apos;s the only voice-driven hands-free resistor decoder available.<br><br>Features:<br>* Voice input<br>* Supported languages and locales: American English, British English, German, Korean<br>* Support for TCR (Temperature Coefficient of Resistance)<br>* max of 6 color bands enforced<br>* filters out &apos;and&apos; if you list colors like &quot;red green blue and gold&quot;",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.2 and up",
+    "androidVersion": "2.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/t1SNb9GtFITu6LIzUFSNtVQxf3L9vRGNl1y52S58XWv5pBVGDLtYPWBqqfm6f-2zJLY=h310",
+        "//lh3.googleusercontent.com/IXubQw2IVKcl8yML7XWqcA_cMe-R26ZiFmh39c9jmed1YUlFwO_dBokRJETo7xh7FGo=h310",
+        "//lh3.googleusercontent.com/astPjrd-U-9rDxb-8Pnikva83xSzzYrz-E1u9CgflJohJzkKm0efu9MLExKxd4VN4iw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "* More concise error messages",
+        "* Better error message priority",
+        "* Fixed problems with ambiguous German speech"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.digitalarcsystems.resistordecoder&hl=en&gl=us",
+    "appId": "com.digitalarcsystems.resistordecoder"
+}

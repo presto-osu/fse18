@@ -1,0 +1,51 @@
+{
+    "title": "Pulta the OBDII Watchface Pro",
+    "summary": "Watchface with some OBDII functions.(For smartwatches, not for phones/tablets!)",
+    "icon": "//lh3.googleusercontent.com/JLWQRNyFnUrk5IMbk29C8ZCxC-g7oOd4y0QJ7631VkqVnrB3LJSQmg_XHOZImYZh-70=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Anatoly Besplemennov",
+    "developerId": "Anatoly+Besplemennov",
+    "developerEmail": "longtolik@gmail.com",
+    "developerWebsite": "http://www.physicalcomputing.ru",
+    "developerAddress": "Moskovskaya str., b.54 Vladikavkaz, RSO-Alania, 362047",
+    "updated": "December 30, 2015",
+    "version": "1.2",
+    "genre": "Auto & Vehicles",
+    "genreId": "AUTO_AND_VEHICLES",
+    "description": "The app can connect your car to your watches (not phones/tablets!) via Bluetooth OBDII adapter directly without needing any phone/tablet.It's interactive. It's connected. It's configurable.First, please check your smartwatch by using the free version of the app named Pulta the OBDII Watchface (get it for free on the Google Play).Do pairing your watch (not a phone!) with the OBDII Bluetooth. After that the app will search devices having \"OBD\" as the first letters.Watch part displays:- Time,- Moon phase,- Day of month,- Day of week,- Hour of day.OBDII part currently shows:- Voltage- RPM- Temperature- Speed- Boost- LoadWarning. Please don't drive while working with the app.Note: The app is intended for smartwatches only and not for phones/tablets.In rare cases the app may reload the face while changing the colors configuration, hope it's not so big issue.",
+    "descriptionHTML": "The app can connect your car to your watches (not phones/tablets!) via Bluetooth OBDII adapter directly without needing any phone/tablet.<br>It&apos;s interactive. It&apos;s connected. It&apos;s configurable.<br><br>First, please check your smartwatch by using the free version of the app named Pulta the OBDII Watchface (get it for free on the Google Play).<br><br>Do pairing your watch (not a phone!) with the OBDII Bluetooth. After that the app will search devices having &quot;OBD&quot; as the first letters.<br><br>Watch part displays:<br>- Time,<br>- Moon phase,<br>- Day of month,<br>- Day of week,<br>- Hour of day.<br><br>OBDII part currently shows:<br>- Voltage<br>- RPM<br>- Temperature<br>- Speed<br>- Boost<br>- Load<br><br>Warning. Please don&apos;t drive while working with the app.<br><br>Note: The app is intended for smartwatches only and not for phones/tablets.<br>In rare cases the app may reload the face while changing the colors configuration, hope it&apos;s not so big issue.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/mhWoAYr8w2AvGzhSWLUOQyHSfhJ6CmfxGjtbUsq0EHlsTgiYZ6l2aoKEckCzubIvjA=h310",
+        "//lh3.googleusercontent.com/AWSLNP5tMyj8H4gTHyQ2plMX6j_WG6XM1TU-TFir-0u4uZum3_SOqNaEu05vmYHKlg=h310",
+        "//lh3.googleusercontent.com/hGgG53rxp8yubvWLaIwzB5Tdtd-397_kAoqvO1OL2CgLS6Tjy7MnuMeABJbVOWOMRNE=h310",
+        "//lh3.googleusercontent.com/PyP4ljVcMHp94NhI-hovqNb8umxf5GkVLOFqSW3ZYDo7pl7OpPX3AH-uMQwQAH6APyE=h310",
+        "//lh3.googleusercontent.com/0jMZiRhflTT1KCOS5y2PItwpLKk0JiZyIcc8Fjt3Rc0BJqxxdo3REj7SRd07QqG1Z6Cz=h310",
+        "//lh3.googleusercontent.com/AU_vf2qV3sYDOpXGVNG3l0SG5U0qH9gZgZ3tfNrHqIPS8TXVH9sOmK009L_rdavazvc=h310",
+        "//lh3.googleusercontent.com/wDjP0SXYChFMqQn01P6Gd0a3ZhKJ_J59Tcu8_ByomPcFtdREd8FZnQcxq-5EojBxRPM=h310",
+        "//lh3.googleusercontent.com/-bQXiWYxsZE9BZhNLsg8eosWMwmsuyYSuLmeaE4-YI66f28nXy0-UsMBNEV5TtHF7Q=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Improved reliability"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ru.physicalcomputing.pultapro&hl=en&gl=us",
+    "appId": "ru.physicalcomputing.pultapro"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "LapseFace",
+    "summary": "Make your Android Wear device cooler!",
+    "icon": "//lh3.googleusercontent.com/H6y9czxCwAhRtk03rFWdRhRkatVFH6n7ZCdJzKa3Dcd_B3KCXfu2wqeQLXrq53qPy8E=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.7,
+    "reviews": 18,
+    "developer": "Matteo Lobello",
+    "developerId": "5735633057032927105",
+    "developerEmail": "hello@matteolobello.com",
+    "developerWebsite": "http://matteolobello.com",
+    "updated": "January 3, 2016",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "LapseFace is a WatchFace for your Android Wear device.Links:- This app source code -> https://github.com/OhMyLob/LapseFace- Developer website -> http://matteolobello.comThanks:- Eliseo Martelli for the UI mockups;- Bump Technologies for Glide- Mike Penz for AboutLibraries- Giphy for the TimeLapses",
+    "descriptionHTML": "LapseFace is a WatchFace for your Android Wear device.<br><br>Links:<br>- This app source code -&gt; https://github.com/OhMyLob/LapseFace<br>- Developer website -&gt; http://matteolobello.com<br><br>Thanks:<br>- Eliseo Martelli for the UI mockups;<br>- Bump Technologies for Glide<br>- Mike Penz for AboutLibraries<br>- Giphy for the TimeLapses",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 15
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/gozi1njRa01fK-L-bfz0RjeB3hoCGMwNwCzuEh9fjHht0bMyM0xitqn-vB1b1ACupaU=h310",
+        "//lh3.googleusercontent.com/N1oltZHV9hBVYkeGUsN7THlC5-pg2tm55lKR0-AmRluIw6wGUuMWeIb2ed9f3ytbFAI=h310",
+        "//lh3.googleusercontent.com/9DJUinKUm1BKEKvNkEzemChTjTXLvmQZ_dClpqz1V-tYtgRMzyVobPQSUh3ZZr4fUQ=h310",
+        "//lh3.googleusercontent.com/l435bI38kKMKCKlGI8QKbD6SSbEswdthIKE3WhxebmwZ6N-w30yc61SWqLFA3uCyJI8u=h310"
+    ],
+    "comments": [
+        "Awesome I really like the Simple/Incremental stock Android Wear watch face for it's simplicity and good battery use, this one brings me the same \"simple clean\" feel while looking much better and being animated, the gifs used here are really beautiful and the watch face is battery Friendly. My one request is bringing a nicer font for the time :)",
+        "It's ok No way to switch from 24 hour time, no weather or anything user definable.. nice time lapse but that's about all it really does."
+    ],
+    "recentChanges": [
+        "Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.lob.lapseface&hl=en&gl=us",
+    "appId": "com.lob.lapseface"
+}

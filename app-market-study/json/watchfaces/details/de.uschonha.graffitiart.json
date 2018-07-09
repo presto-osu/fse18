@@ -1,0 +1,50 @@
+{
+    "title": "Graffiti Art Watch Face",
+    "summary": "Urban Street Art for your Android Wear smart watch from Karlsruhe, Germany.",
+    "icon": "//lh3.googleusercontent.com/4cy5LwM3q7PBZlqa_hruKeVf9FlvxLh01X9WX2HJ1nOrZwuRMgdxgqEDFSniJkBZnrfX=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3,
+    "reviews": 1,
+    "developer": "Ulrich Schonhardt",
+    "developerId": "Ulrich+Schonhardt",
+    "developerEmail": "schonhardt@gmail.com",
+    "developerAddress": "Gluckstr. 5\nKarlsruhe, 76185\nGermany",
+    "updated": "June 17, 2017",
+    "version": "2.0.8",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Watch Face Features: * 24 Cool Street Art background images* New image once per hour (or manual switch)* Digital clock, configurable 12-hour mode* Weekday, Date and Battery Level in %* Ambient screen at the top of the minute* Optional Full Color Ambient mode* Choose Bold or Serif Font Typeface* Optimized for minimal battery usage* Long press on watch face for configuration* Short translucent peek cards* Android Wear smart watch required.",
+    "descriptionHTML": "Watch Face Features: <br><br>* 24 Cool Street Art background images<br>* New image once per hour (or manual switch)<br>* Digital clock, configurable 12-hour mode<br>* Weekday, Date and Battery Level in %<br>* Ambient screen at the top of the minute<br>* Optional Full Color Ambient mode<br>* Choose Bold or Serif Font Typeface<br>* Optimized for minimal battery usage<br>* Long press on watch face for configuration<br>* Short translucent peek cards<br>* Android Wear smart watch required.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/uareXACkfFzqWNjtjt2N3bl1DjeqRL89Gphc8QU8yRcFry2JC6cCoaeEJMgyJ2hc3ojn=h310",
+        "//lh3.googleusercontent.com/Q_FtwzZTEUXQRndul3lDpXGidD4eLf3kyTOqJ9ewjvcQRUQAKpcQ4o6aKA7lH1NN9y0=h310",
+        "//lh3.googleusercontent.com/sEJ37vusHFROSBX0yXWjw_sweJ6781zru5Oi3kJveM2cZdRMxDcH3J-DYPHWPQEmT5U=h310",
+        "//lh3.googleusercontent.com/P04JQOQFDlPDkmFk_SdVW2AHgAYnHuUi8CRHi57ZrNUDb1Rv_AmRGlqiQQzHhYzoTg=h310",
+        "//lh3.googleusercontent.com/MUx2t_Zpmy8OG_tTgTidK3Mr6NmEJMvoLdvV_L2x01pOFBBfhB-BC9mKYLNgmYU-oQ0=h310",
+        "//lh3.googleusercontent.com/r9SV3pXTm9itha_dBzkHRXaXTzsL5yvNuYjJUkdj8CYaXE9lbi1r6iYjsbTpujB8XiU=h310"
+    ],
+    "comments": [
+        "It's ok Won't change or if 24hr mode."
+    ],
+    "recentChanges": [
+        "* Wearable support library 2.0.3"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.uschonha.graffitiart&hl=en&gl=us",
+    "appId": "de.uschonha.graffitiart"
+}

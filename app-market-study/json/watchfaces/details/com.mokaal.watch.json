@@ -1,0 +1,60 @@
+{
+    "title": "simple watch face",
+    "summary": "A simple yet beautiful Android Wear watchface.",
+    "icon": "//lh3.googleusercontent.com/ahLWC5Crdaa0d_Y5XDQEJNYNjeGqVn8yTXObYws3baCXEdpH_0BH6rjCgVSfjI7iMLI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 151,
+    "developer": "MOKAAL P.C.",
+    "developerId": "6800068162869290392",
+    "developerEmail": "info@mokaal.com",
+    "developerWebsite": "http://mokaal.com",
+    "developerAddress": "STEP Epirus, Ioannina, Greece",
+    "updated": "March 7, 2017",
+    "version": "0.4.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "You can tell we really love the shape of our logo. We find it subtle and relaxing somehow. So why not use it to create a very simple but elegant watch face for your Android Smartwatch? Features:* 12/24 hour mode* Select background color* Option to randomize color each day or each time the watch wakes up* 2 different hand styles* Ticking (default) / Continuous seconds or disable them completely - NEW!* Battery ring on-tap - NEW!(the screenshots were made with the beautiful and extremely useful Screener app https://play.google.com/store/apps/details?id=de.toastcode.screener)",
+    "descriptionHTML": "You can tell we really love the shape of our logo. We find it subtle and relaxing somehow. So why not use it to create a very simple but elegant watch face for your Android Smartwatch? <br><br>Features:<br><br>* 12/24 hour mode<br>* Select background color<br>* Option to randomize color each day or each time the watch wakes up<br>* 2 different hand styles<br>* Ticking (default) / Continuous seconds or disable them completely - NEW!<br>* Battery ring on-tap - NEW!<br><br><br><br>(the screenshots were made with the beautiful and extremely useful Screener app https://play.google.com/store/apps/details?id=de.toastcode.screener)",
+    "histogram": {
+        "1": 8,
+        "2": 15,
+        "3": 22,
+        "4": 44,
+        "5": 62
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/dkkz_Pdy1idwxoWHWOuBK11O7s5lnXO-EEupN0TG4nsy2sL_M-p7dxyn85i0yQwd-u4V=h310",
+        "//lh3.googleusercontent.com/z0H6QeySIN0AJskCrky-QPaVnld_bXsWwVKWtTXDaFyVRskxAO4uwVYUnrMp8vtbrg=h310",
+        "//lh3.googleusercontent.com/267IuTWUCRB5NKQhAHrrP1PL6NmZ-DOziVDxuA1rrZ4GP2tnqCzyXCGzDJpiSazACA=h310",
+        "//lh3.googleusercontent.com/Hp0GBYAlEEVrBdIypaLc4AWDHsM4K6Tl7ipTUsNPiauMNynVINZU81doYgRTeYztIXT2=h310",
+        "//lh3.googleusercontent.com/8M9nuO7hp5n1kYQM4-0twi9-rjWDcv_0Ky44oXXfahlgs6hrfJuW_Qe5tiOIDjZO6go=h310",
+        "//lh3.googleusercontent.com/y7hd12oRcywpOqVqNywS7rt5w7KrQNckHI-P_g4ZLUqfDZEITcP_YgUtyEkZiQ7Kig0=h310",
+        "//lh3.googleusercontent.com/7onEadf8EqMtMgLIaaNBZtgcgI01ifxB9046O0TKEaYW3YoZ1vv_jrNmQOoRzx37DeQ=h310",
+        "//lh3.googleusercontent.com/cR90yJnRg_saYmoq_kzZ0HzMv5LGFoPyUyDZB5YU95a2fujI-xFpQB2iU-N9SbubMTM=h310",
+        "//lh3.googleusercontent.com/IAKgJZxRoftKW4yQBuB3svdYTbR7uCRGcm9wTRnSeOGeFpjhWDkZSKUUNxC3s4gLAt4E=h310"
+    ],
+    "video": "https://www.youtube.com/embed/9bqqxb--4FA",
+    "comments": [
+        "Great watch face. Really love how simple the design is and the use of colour. I only wish I could exclude some of the colours from the random colour option.",
+        "Card size is a bit big covering part of the time, but apart from that the face is good. Simple but eye catching, and functional.",
+        "Good Face Perfect but just need black or dark grey colour almost black",
+        "Great Watch Face Only thing is that the 12 hour time (am/pm indication) is wrong. Please fix!",
+        "Unique Wouldn't mind proper colour control rather than leaving it purely to chance",
+        "Really nice I feel like it deserves 5 stars simply because of elegance and simplicity. Nice work."
+    ],
+    "recentChanges": [
+        "AM/PM bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mokaal.watch&hl=en&gl=us",
+    "appId": "com.mokaal.watch"
+}

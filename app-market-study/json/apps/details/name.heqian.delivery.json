@@ -1,0 +1,51 @@
+{
+    "title": "Delivery",
+    "summary": "Delivery, a package tracking app for Android Wear.",
+    "icon": "//lh6.ggpht.com/Vxtcgv5HoWXLkEgFuOalRaRXlUhkfkfAm0woUmGpcO89rMTX2yVKO4ZIYeb-VHg2bkg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.4,
+    "reviews": 7,
+    "developer": "Qian He",
+    "developerId": "Qian+He",
+    "developerEmail": "me@heqian.name",
+    "developerWebsite": "http://heqian.name",
+    "updated": "September 7, 2015",
+    "version": "1.3.6",
+    "genre": "Shopping",
+    "genreId": "SHOPPING",
+    "description": "Delivery helps you keep track of your packages on your Android Wear watch. Delivery currently supports: UPS, FedEx, USPS, and DHL. If you know any free tracking API, please let me know. Thanks!CREDIT: Thank Boxoh for providing the new package tracking API: http://www.boxoh.com/api/docs/",
+    "descriptionHTML": "Delivery helps you keep track of your packages on your Android Wear watch. Delivery currently supports: UPS, FedEx, USPS, and DHL. If you know any free tracking API, please let me know. Thanks!<br><br><br>CREDIT: Thank Boxoh for providing the new package tracking API: http://www.boxoh.com/api/docs/",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/oWiZSjbN4pFDSKgkKsWiqLOCNhy-U3o0AIgwqM6EiwEIjWRvGJUsf_yn3hQ2VihH_g=h310",
+        "//lh6.ggpht.com/y76AkGJzZGX8VgWLDNoZTqSCld1lviBdUfg1ztaVm4axP8BmnRIlayfkilrBWkQDHQ0f=h310",
+        "//lh4.ggpht.com/kQIkACeAzpmUn_RLKjEu3l84Kh9EHV3dl8_FeARNk4HcKAX6eDL206IImUDeBXjpbDU=h310",
+        "//lh5.ggpht.com/EGC5STZwAoQNkm40SZ41CkCGpQM2TZlb1vJvXQy8munpCMLOW2MVvILYZWeT1COLgGQ=h310",
+        "//lh6.ggpht.com/KasF9yefKrE9F3ahTP1pzobR-8zPRHHjQ4xaNwIq8OObKGH41bB6eYsFSJe_q1FG-W4=h310",
+        "//lh6.ggpht.com/DWGhpWajdKd0LwwzlRILIyPaTm3F7i0whR0P6bqLmgkC9u7UL0SC1JzD-z4O-61fGto=h310"
+    ],
+    "comments": [
+        "I tried this because it has an app for the phone and a smart watch. I can't get any delivery information on either.",
+        "Needs more delivery services Looks like good app, but doesn't work with SF Express, so can't track my order from Aliexpress."
+    ],
+    "recentChanges": [
+        "Regular SDK tools and dependency libs update."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=name.heqian.delivery&hl=en&gl=us",
+    "appId": "name.heqian.delivery"
+}

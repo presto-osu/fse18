@@ -1,0 +1,59 @@
+{
+    "title": "Titanium Watch Face",
+    "summary": "Analog and digital watch face with weather, missed calls, unread messages etc.",
+    "icon": "//lh3.googleusercontent.com/YJ8sH90mFfER94SRi0kzJ1ngvuIMYCtFPWTG7QgeLDRp3KOSWZ3j9vMySUCQeJcVvSc=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.2,
+    "reviews": 129,
+    "developer": "RichFace",
+    "developerId": "RichFace",
+    "developerEmail": "richface.watch@gmail.com",
+    "developerWebsite": "http://www.richface.watch/privacy.php",
+    "developerAddress": "3430 Tulln an der Donau\nAustria",
+    "updated": "April 2, 2016",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "On this watch face you can select color for watch display, turn on/off animation, set time format etc.Here is also missed calls and unread messages indicators, date and month. Weather is allso available with 3 providers. Watch and phone battery indivators are allso available and animated.You can screen time and sweep or smooth seconds.If you have some problems please contact us.",
+    "descriptionHTML": "On this watch face you can select color for watch display, turn on/off animation, set time format etc.<br><br>Here is also missed calls and unread messages indicators, date and month. <br>Weather is allso available with 3 providers. <br>Watch and phone battery indivators are allso available and animated.<br><br>You can screen time and sweep or smooth seconds.<br><br>If you have some problems please contact us.",
+    "histogram": {
+        "1": 28,
+        "2": 14,
+        "3": 24,
+        "4": 29,
+        "5": 34
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/V7shw_eKxNWNPYI2_VmQc4dWMlrFNuV1ThW_am5Gm_kjJC2ot0hJbNIkIaebDYCPzQP-=h310",
+        "//lh3.googleusercontent.com/SCR1QOo-hkqMuNXAn7TAyuiqmOVkdlTj2x79BK8TFigLsilywcJphKzM3--DIyxa75o=h310",
+        "//lh3.googleusercontent.com/iQkHdOFxKQ3kNBAne2FUezpFlz3DGxkBn-yikP6KRgVZzcUXB6kvEwPQ_3yQn3AK6w=h310",
+        "//lh3.googleusercontent.com/KNNpSv7FF_1qS90-_hesgZP4YVNY_QkIYJ3uMljZz4kwDZmztKJ0d1PKvL66oXSmzAI=h310",
+        "//lh3.googleusercontent.com/p-7AKgHDArSh0gc12wMGfZsz1vwmJ1n_X2td5ujT0LHT5g720mDbYvfbPiz55vmGrQ=h310",
+        "//lh3.googleusercontent.com/Rynuwb5gZU7fCFz03UVn5Bm4-dtJlSTTyMAH3tm9Dtos3L4U1HCLHsg4v-IvASnexg=h310",
+        "//lh3.googleusercontent.com/uVwfmOAxVyPCURH8NS0Io0oX4nklMN_cIltlt50TGr1n8oo9iZAbaLWM3bUIjEvzrYUJ=h310",
+        "//lh3.googleusercontent.com/AgD2-YI9COQpR83fp3f09K_xivptgq_0q3QUunWVinkWDf8yCSs6UD5jF4mtwMaPMXY=h310"
+    ],
+    "video": "https://www.youtube.com/embed/E8cJnK2bccU",
+    "comments": [
+        "Titanium rich watch face I have a motorola 360, and this watch face is very attractive, but it does not work .  The two rectangles at bottom are always empty. I have many of the other Rich watch faces and they work just fine.",
+        "Its good but... The watch face is very attractive no doubt, but give some more functionality like time zone option for LCD panel, its very helpful for a guy like me who travels a lot. Hoping to see it in next update.",
+        "Marcin Doesn't work on Motorola moto 360 2nd. Wasting time and money.",
+        "Come on... , why you not update it to support android wear 2? I have waiting to long time",
+        "Great Watch Face.  Using it for a while now. Please add a \"square\" ambient mode,  then it would be perfect.",
+        "Good If this watch face had square ambient mode I would love it."
+    ],
+    "recentChanges": [
+        "Watch bug fixed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.watch.richface.titanium&hl=en&gl=us",
+    "appId": "com.watch.richface.titanium"
+}

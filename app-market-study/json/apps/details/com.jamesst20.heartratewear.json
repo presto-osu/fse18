@@ -1,0 +1,44 @@
+{
+    "title": "Heartbeat for Android Wear",
+    "summary": "Connect any Bluetooth heart rate sensor to your watch ! PHONE LESS !",
+    "icon": "//lh3.googleusercontent.com/ZsefCMxsI612ArVkOLEv0SIormmmkQJpBVt7Hyfx3QJ9Kex1rS0bgRAB6edpS_xVpL8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.2,
+    "reviews": 6,
+    "developer": "James St-Pierre",
+    "developerId": "James+St-Pierre",
+    "developerEmail": "Jamesst20@gmail.com",
+    "developerAddress": "302-4928 Lionel-Groulx\nG3A-1Z5, Québec\nQC, Canada",
+    "updated": "January 12, 2016",
+    "version": "1.0",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "Tired of exchanging your smart watch for your sports watch ? Tired of those inaccurate built in sensors ? Heartbeat for Android Wear is there for you ! Get your heart rate in real time over Bluetooth via your smart watch.1. Wear your heart rate sensor and make sure it's on. [Tested with Polar H7]2. Run the application on your watch. [Tested with LG Urbane]3. Select in the application your heart rate sensor.4. Enjoy your sport ! —> Enjoy your heart rate in a notification card by pressing the hardware button on your watch.***Please note, the application has only been tested with the Polar H7 Sensor and the LG Urbane Watch. ***Please note, some bluetooth sensor cannot provide Bluetooth AND Ant+/Proprietary connection at the same time.If you have any issue, please contact me instead of making a bad review because it will not help the application to grow up.",
+    "descriptionHTML": "Tired of exchanging your smart watch for your sports watch ? Tired of those inaccurate built in sensors ? Heartbeat for Android Wear is there for you ! <br><br>Get your heart rate in real time over Bluetooth via your smart watch.<br><br>1. Wear your heart rate sensor and make sure it&apos;s on. [Tested with Polar H7]<br>2. Run the application on your watch. [Tested with LG Urbane]<br>3. Select in the application your heart rate sensor.<br>4. Enjoy your sport ! <br><br>&#x2014;&gt; Enjoy your heart rate in a notification card by pressing the hardware button on your watch.<br><br>***Please note, the application has only been tested with the Polar H7 Sensor and the LG Urbane Watch. <br>***Please note, some bluetooth sensor cannot provide Bluetooth AND Ant+/Proprietary connection at the same time.<br><br>If you have any issue, please contact me instead of making a bad review because it will not help the application to grow up.",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hPRi6-n57lGl0yLTZY1vMCcOKix9539_oC0A5USeU_V87PjC4rFKaoMXOFOyAlk80vw=h310",
+        "//lh3.googleusercontent.com/78t2VL87ZYybKF3y5wvWHYLSQmlLLJWvzCu2hyDGvKKSAQx9VNRcC9WRCM_oofa9jQ=h310"
+    ],
+    "comments": [
+        "Heartbeat"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jamesst20.heartratewear&hl=en&gl=us",
+    "appId": "com.jamesst20.heartratewear"
+}

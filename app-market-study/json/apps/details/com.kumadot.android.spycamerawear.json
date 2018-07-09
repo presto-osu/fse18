@@ -1,0 +1,50 @@
+{
+    "title": "SPYC for AndroidWear",
+    "summary": "This is SPY camera for Android Wear.",
+    "icon": "//lh5.ggpht.com/l2HQY6v0LQQRgKzcZl6KY3fLGzm4EcX5bXBc4p_GBM7bTUlP_BsKW2CkaimqDfIS9GU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.2,
+    "reviews": 46,
+    "developer": "kumadot",
+    "developerId": "kumadot",
+    "developerEmail": "kumadots@excite.co.jp",
+    "developerWebsite": "http://www.facebook.com/kumadot",
+    "updated": "July 21, 2014",
+    "version": "1.0.2",
+    "genre": "Photography",
+    "genreId": "PHOTOGRAPHY",
+    "description": "This is SPY camera for Android Wear.[How to take pictures]1.Shake the device for take pictures.2.Detecting the sound for take pictures.3.Touch the screen for take pictures.4.(If you have a AndroidWear)Tap the screen of Android Wear App.To save the preview image intact, does not sound.It is a camera no shutter sound.In the silence,take the pictures.Use the ashamed if such as to make the sound.Since it is not necessary to push a shutter release, a photograph can be taken even if you cannot use any of the hands.[Feature]Touch the screen the soon to autofocus, and takes a picture.Shake the phone for taking pictures. 0.5 Seconds later to take pictures.Photos taken are displayed bottom left.Tap the bottom left photo you can share the other apps.Facebook and Twitter now share a photo.* PleaseRegarding problems please email us.Do not use a hidden camera, peeping etc.* OtherTest by Samsung Gear Live.",
+    "descriptionHTML": "This is SPY camera for Android Wear.<br><br>[How to take pictures]<br>1.Shake the device for take pictures.<br>2.Detecting the sound for take pictures.<br>3.Touch the screen for take pictures.<br>4.(If you have a AndroidWear)Tap the screen of Android Wear App.<br><br>To save the preview image intact, does not sound.<br>It is a camera no shutter sound.<br>In the silence,take the pictures.<br>Use the ashamed if such as to make the sound.<br><br>Since it is not necessary to push a shutter release, a photograph can be taken even if you cannot use any of the hands.<br><br>[Feature]<br>Touch the screen the soon to autofocus, and takes a picture.<br>Shake the phone for taking pictures. 0.5 Seconds later to take pictures.<br><br>Photos taken are displayed bottom left.<br>Tap the bottom left photo you can share the other apps.<br>Facebook and Twitter now share a photo.<br><br>* Please<br>Regarding problems please email us.<br>Do not use a hidden camera, peeping etc.<br><br>* Other<br>Test by Samsung Gear Live.",
+    "histogram": {
+        "1": 9,
+        "2": 7,
+        "3": 7,
+        "4": 11,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/qlk4Pw0Q5YkiITJLEZSqCWqEl8RARn8wCsVJNirHDKDqPn5-GtJUuDKw-iBjTTET04v3=h310",
+        "//lh6.ggpht.com/3A8WSp5Qe_OxLKR5W5TSendYF6asrOxtkVZW2ZOTdixSkeRqlUDs5V_16Nr8BIYLAa6x=h310",
+        "//lh6.ggpht.com/--cpJNwy4kypQXzUauktR7Zb_m0G509JfWaJOyS3LKeVOR5SdLmyjzBEgsFWuYsAdw=h310",
+        "//lh3.ggpht.com/dD2oqs4mqUI-8AXXUpHfX7P04O-P0pPfKZy0dB1r714FOyEmPjtm42Z-EUcp0VfiAo4=h310",
+        "//lh3.googleusercontent.com/N_hJzvLydhJ9wUeBsZz0GDJJ4w5KAct8LFIdqwrxKq_yywIf8kdPXhiWXzsS2L60b5E=h310"
+    ],
+    "comments": [
+        "هیچی شعر بابا"
+    ],
+    "recentChanges": [
+        "Ver.1.0.2 AndroidWear搭載端末側でのカメラ切替／本体側アプリ終了／撮影した写真を確認する機能を追加しました。",
+        "Ver.1.0.1 アルバムのパスワードが設定されない不具合を修正しました。AndroidWearでのプレビュー表示を最適化しました。"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kumadot.android.spycamerawear&hl=en&gl=us",
+    "appId": "com.kumadot.android.spycamerawear"
+}

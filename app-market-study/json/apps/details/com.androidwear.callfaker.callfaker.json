@@ -1,0 +1,55 @@
+{
+    "title": "Call Faker for Wear",
+    "summary": "A quick and easy way to fake a call on your Android phone from your smartwatch!",
+    "icon": "//lh3.ggpht.com/Z1QvUsNc8NvaeuMHwxf57pM4kZD7BEwJ4-7sdq-5axLxSfX9nukjRKm2AJy32fGa450=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.2,
+    "reviews": 64,
+    "developer": "Chintan Trivedi",
+    "developerId": "Chintan+Trivedi",
+    "developerEmail": "chintan.t93@gmail.com",
+    "developerWebsite": "http://www.ces.smitshilu.in",
+    "updated": "September 20, 2014",
+    "version": "1.0.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Want to get out of an awkward, boring or never-ending conversation without letting the other person know your actual feelings?Now use your Android watch to help you get out of such situations! No need to even get the phone out of your pocket! This way, the other person won't even know you faked a call!Current version features:--Set the name and number to be displayed when receiving the fake call-Choose after what time you want your phone to be called, right from your watch!How to use: Install the app on your smartphone and your smart-watch. Start the app on your watch, select the time after which you wish to receive the call and hit okay. If the watch and the phone are connected, you shall receive the fake call after the desired amount of time. Easy!! Watch(no pun intended) out for other features coming soon in future updates!!",
+    "descriptionHTML": "Want to get out of an awkward, boring or never-ending conversation without letting the other person know your actual feelings?<br><br>Now use your Android watch to help you get out of such situations! No need to even get the phone out of your pocket! This way, the other person won&apos;t even know you faked a call!<br><br>Current version features:-<br><br>-Set the name and number to be displayed when receiving the fake call<br><br>-Choose after what time you want your phone to be called, right from your watch!<br><br>How to use: Install the app on your smartphone and your smart-watch. Start the app on your watch, select the time after which you wish to receive the call and hit okay. If the watch and the phone are connected, you shall receive the fake call after the desired amount of time. Easy!!<br> <br>Watch(no pun intended) out for other features coming soon in future updates!!",
+    "histogram": {
+        "1": 14,
+        "2": 10,
+        "3": 11,
+        "4": 9,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/pYMm_fKGo1f6tPcNpkGWWBGxqVVVAwQI0PY0zmbrXZf7GSCtEWnEKOcRAVnR_ifE05c=h310",
+        "//lh6.ggpht.com/iGYD_4ejICcQBCYHXZf2cT--OA3w2LG05MG71R3dTcv2s_4v5WI4clyNheTVk1iZUw=h310",
+        "//lh3.ggpht.com/PmbzvTzpwRQYjsOD41J10ggJHJezu3Ep8iHWhXvGCSM_zjV_71iaY2Ba8g-2uLH9ijE=h310",
+        "//lh6.ggpht.com/eiJ6CL8vO2e3Kd6CNYWCAZ2m_6wI63JJDjwlGn8iTFuMQ6ZfkAp7dCQ62-M8T4Ip2Ps=h310"
+    ],
+    "comments": [
+        "Great idea I love the idea behind this app, but I'm also having the issue where the incoming call shows up on the screen, but no ringing/audio. The incoming call screen shows up for me even if the screen is locked/off, but just no ringing.   I realize this is an early version so I'm going to keep the app for a while and hope that this bug gets resolved, because this app could be very useful! Thanks!",
+        "Good idea, poor execution This app doesn't activate my phone's fibration function. Just delivers a notification that can only be read once you've unlocked your phone and accessed it via the notifications menu. Plus it needs shorter 'call' delays. 10 or even 5 seconds. Uninstalling until this is working properly.",
+        "Good Works perfectly when the screen is on but when it is off, I have to unlock the phone and then the fake call pops up. Will change the stars after this issue is fixed :)",
+        "Great but... You know i have got a galaxy grand prime and when i fake a call its not like real you know ...",
+        "No audio No audio/vibrate ring.. Does not show if lockscreen enabled",
+        "Great idea but... Would be great if it had sound"
+    ],
+    "recentChanges": [
+        "-Fixed a major bug where the fake call would not ring even after successfully placing it from the watch.",
+        "-Minor UI changes in the watch app",
+        "NOTE: Using a RAM cleaner may interfere with the working of this app!! Be careful!!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.androidwear.callfaker.callfaker&hl=en&gl=us",
+    "appId": "com.androidwear.callfaker.callfaker"
+}

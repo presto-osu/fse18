@@ -1,0 +1,58 @@
+{
+    "title": "MuscleWear",
+    "summary": "Workout with Style - Workout with Android Wear &amp; Google Fit!",
+    "icon": "//lh5.ggpht.com/rRMsZvc9SCx8BWMWNgg1Ko2Cg5uCZYwXNPUucJHPHo7hoeCLLM7gST9-kYv-duuKKg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 24,
+    "developer": "Mobileware",
+    "developerId": "Mobileware",
+    "developerEmail": "info@mobileware.ch",
+    "developerWebsite": "http://www.mobileware.ch",
+    "updated": "June 9, 2015",
+    "version": "1.0.6",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "MuscleWear is a Workout planning and tracking App for weight lifting, and runs on Android Wear.Your training sessions get stored in Google Fit.No more paper plans, or taking your mobile phone to the gym - just wear your wear! :)The plan editor allows every possible combination of training flows - alternate exercises, make cardio / HIIT sessions in the middle of your training - all of this as you want, just set up your plan without restrictions. Plan your pauses with the built in count down timer, and add custom notes to your plan and exercises.And if you're in the gym and your next exercise is occupied, just go on - spontaneous changes are possible as well ;)Important: You'll need a Android Wear Device - without it, this App is useless, as most functionality is on the Wear.",
+    "descriptionHTML": "MuscleWear is a Workout planning and tracking App for weight lifting, and runs on Android Wear.<br>Your training sessions get stored in Google Fit.<br><br>No more paper plans, or taking your mobile phone to the gym - just wear your wear! :)<br><br>The plan editor allows every possible combination of training flows - alternate exercises, make cardio / HIIT sessions in the middle of your training - all of this as you want, just set up your plan without restrictions. Plan your pauses with the built in count down timer, and add custom notes to your plan and exercises.<br><br>And if you&apos;re in the gym and your next exercise is occupied, just go on - spontaneous changes are possible as well ;)<br><br><br>Important: You&apos;ll need a Android Wear Device - without it, this App is useless, as most functionality is on the Wear.",
+    "histogram": {
+        "1": 0,
+        "2": 5,
+        "3": 5,
+        "4": 7,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/BndvDyOLV8w6HPA-FSdSQ86gMqnJ9i8_JX6dXJnXI6ylgtl4BCnaC6Svw-xAYydvbO8=h310",
+        "//lh5.ggpht.com/elhvJpI50IZKYnaY4jX-tmPCm17UH2WjE9Hon8TrxGMYfQ1tRTtp7_K2UclHCinCEVg=h310",
+        "//lh5.ggpht.com/uf_oiuOPk5TePHfaKhY5-EvFM_RUWaPKhHcCG3-goPvQLQcXzpf9_1-GwpJkubQXs1A=h310",
+        "//lh4.ggpht.com/Z3tctgZtK5mG_jY8AjBYbWxMoMT8f4l5RYC6K9YcEzIhKS91iTvDfks1OaiJkBU40A=h310",
+        "//lh5.ggpht.com/2MaQJDM236xYmPCPgC-xbpTJEeZdXkmEKtDLmwsYRaw58IGtFBsEGH-z2sd9AM5ptPs=h310",
+        "//lh3.ggpht.com/i4VFT234DWF1zuWYriSQJZUj-lrEIxmsZbuiUb1o_nNRKt6mA1ErS5zEz8zCS9b_PaM=h310",
+        "//lh4.ggpht.com/yQNNSkIVOiB9VjQIGh7UoliE09xS4ZmX10Pdbe5qdKGsFEkyewEB28neR4s-pulqndg=h310",
+        "//lh6.ggpht.com/WZImE0aCSWv4jaqGsaLHtkTg59KTuwGuiD4yncIkVrWWnQCl-lSnNT3Zu_sGZllYKA=h310"
+    ],
+    "comments": [
+        "Unusable For Us Metric-Tards Unfortunately while I learned metric in school its simply not second nature like imperial.  I have to look up and convert each weight which makes having this on my watch pointless.",
+        "Musclewear What a great app, works perfect on moto 360 and note 3 easy and accurate to use. Have tried a few apps now but this is by far the best, and less complicated to use. A print or email workout option is all that's missing. Well done.",
+        "Good app Really needs to buzz when rest period is finished then would give 5 stars",
+        "Needs lbs Much needed app but needs the option to change to lbs",
+        "It's not bad It's a good app, simple to use and effective.",
+        "Can't wait to fully implement this I've been waiting for an app exactly like this since I got my wear. I've plugged in my workout from today to get a feel for it and I love it. The only thing is, I know most weights are marked for KG and LBS, but could you include a setting option for that? Thanks for the awesome app and I'll be sending more feedback to the email listed as I use it more."
+    ],
+    "recentChanges": [
+        "- Uses new Google Play Game Services",
+        "- Synchronization Bugfix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ch.mobileware.musclewear&hl=en&gl=us",
+    "appId": "ch.mobileware.musclewear"
+}

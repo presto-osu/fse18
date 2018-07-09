@@ -1,0 +1,56 @@
+{
+    "title": "Eorzea Watch Faces",
+    "summary": "The watch faces for ffxiv players.",
+    "icon": "//lh6.ggpht.com/vZaMn_KHtPzTGgTIKf-Ajktz3dMdtSGW7Zeq4kzgzgAuGI37Wu3MNR5mYHAEO4FDjQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3,
+    "reviews": 6,
+    "developer": "yaeda",
+    "developerId": "yaeda",
+    "developerEmail": "t.yaeda+althyk@gmail.com",
+    "developerWebsite": "https://twitter.com/xiv_althyk",
+    "updated": "March 24, 2015",
+    "version": "0.5.0",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "This watch face provide Local Time (LT) and Eorzea Time (ET) at the same time.You can use two type watch faces as below.【Althyk Digital】The LT is shown in upper area, The ET is in lower area.【Althyk Analog】The inner circle, long hand and short hand shows LT.The outer circle and long hand shows ET.--NOTICE : This watch face requires Android Wear 5.0.Twitter : https://twitter.com/xiv_althykFINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.",
+    "descriptionHTML": "This watch face provide Local Time (LT) and Eorzea Time (ET) at the same time.<br>You can use two type watch faces as below.<br><br><br><strong>&#x3010;Althyk Digital&#x3011;</strong><br>The LT is shown in upper area, The ET is in lower area.<br><br><br><strong>&#x3010;Althyk Analog&#x3011;</strong><br>The inner circle, long hand and short hand shows LT.<br>The outer circle and long hand shows ET.<br><br>--<br>NOTICE : This watch face requires Android Wear 5.0.<br><br>Twitter : https://twitter.com/xiv_althyk<br>FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/NTIyLy2a8_8poe0-kzI6P3Qq1wMbOgavt6NtCLBAD2IyuVuLA3Gq1JgIB5I1wKv2zgl4=h310",
+        "//lh5.ggpht.com/24IU_Nf2am03Du3LVshWaaovy39PyFyWoevXMnB3Ef95q835FQ4g5OVazsSkelDMppk=h310",
+        "//lh4.ggpht.com/Nz3ugqCM4YPSJtaNYxMSFAWxJOeI2qFe6Fr-GpCayv9lOQLSF3pwFw5h7JnCqkJP9x0=h310",
+        "//lh4.ggpht.com/0MUAH9MUNeu_gn8epYoKNKBWRKvbIsavoRYdXzbPBZu8TgHXEkfEXANbUo9UrJE83Ko=h310",
+        "//lh5.ggpht.com/moElDIAxEucvhA8KHsluu_cLl92RdJ3j3AboTliVAXSX6SsjBXUY1ggqdLk-9Q9rjfo=h310"
+    ],
+    "comments": [
+        "Does not work on Huawei Watch running Android Wear 2.0",
+        "Perfect app for the small userbase that might need this. Thank you for the dev work to make this happen.",
+        "Thx for the HQ watch upgrade! Does what it says! Can you meld materia to it also please. LF Goldsmith ;)"
+    ],
+    "recentChanges": [
+        "<strong>v0.5.0</strong>",
+        "[Althyk Analog] Show area name when watch face wakes up.",
+        "<strong>v0.4.1</strong>",
+        "[Althyk Analog] Fix an issue of weather info fetch timing.",
+        "<strong>v0.4.0</strong>",
+        "[Althyk Analog] Weather Information Integration. You can choose area from config page."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.althyk.watchface&hl=en&gl=us",
+    "appId": "com.althyk.watchface"
+}

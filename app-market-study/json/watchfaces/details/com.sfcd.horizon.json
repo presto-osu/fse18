@@ -1,0 +1,58 @@
+{
+    "title": "Colorscape",
+    "summary": "The color based Android Watch.",
+    "icon": "//lh3.googleusercontent.com/zklPKSFYHHQo5MuZy7AMWX6KS5rlvF9Ur91WY0kMF3soncqLipXg1LnDX-8SwMpZIw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 12,
+    "developer": "SFCD — a digital product agency",
+    "developerId": "6980929136066839271",
+    "developerEmail": "hello@sfcd.com",
+    "developerWebsite": "http://www.sfcd.com",
+    "developerAddress": "100 Broadway #202\nSan Francisco, CA 94111\n\n37 W 20th St #310\nNew York, NY 10011",
+    "updated": "April 8, 2016",
+    "version": "1.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Minimal and colorful.Compatible with all Android Wear watches.Colorscape is the result of the collaboration between SFCD and designer Claudio Guglieri. Colorscape uses color gradients to display the time. Each hour is represented by a three tone gradient that changes every single minute.Download it now for free and let us know your thoughts and feedback.",
+    "descriptionHTML": "Minimal and colorful.<br>Compatible with all Android Wear watches.<br><br>Colorscape is the result of the collaboration between SFCD and designer Claudio Guglieri. Colorscape uses color gradients to display the time. Each hour is represented by a three tone gradient that changes every single minute.<br>Download it now for free and let us know your thoughts and feedback.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 5,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/AsMrAYO4ZqRrktmUgZxBo0JNMefN6TOgdyTfdKMJDNZIem0jIynqTtJ-3IOAphzvhA=h310",
+        "//lh3.googleusercontent.com/tzcnJUqDPSJ4NcNkx-fkiN9kQnxBp3AbmRnYBdjSSm46wpsBWluLMJkhTf8WONgZJCQ=h310",
+        "//lh3.googleusercontent.com/ZPdFWD81KpF7kzCepbSzmXjlEpdVM0vR4k5OkITwe004R4PpjW_crllQgSxOi_aUTQ=h310",
+        "//lh3.googleusercontent.com/RGKmCYHQ4PRgu7ult4ITH9B8fKnuqxn8aO9HXo57CMMmIk2qXPGDl4C30S9USgOUZeU=h310",
+        "//lh3.googleusercontent.com/uK1FXCe2tX0qFIYZ6DOqpI7oc6-6iaFX8lw3wENyrWqWmJaK1BigXs0HuWvPjpwy-6U=h310"
+    ],
+    "comments": [
+        "Love the ambient-to-active animation! Only gripe is that the colon is always in the middle of the screen, so in 12h mode when it's before 10:00, the whole time looks slightly off to the right. Not sure if this is intended or not.",
+        "Great start. But as a typical Android user, I'd like to request some customisation options, such as text size, date, and the duration of the ambient -> awake animation.",
+        "Blinks There are some blinks, when I turn on screen light",
+        "I don't know what I think, I downloaded it and can't find where it is located on my phone",
+        "Simple and beautiful Thanks a lot!",
+        "I hated it because it wasnt an app when I got it it wasnt on my phone"
+    ],
+    "recentChanges": [
+        "Time displayed in colors",
+        "Each hour is represented by a three tone gradient that changes every single minute.",
+        "Available for all Android Wear Devices",
+        "Hell yes! Sony or Samsung - it doesn’t matter. Colorscape works across all Android Wear devices out there."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sfcd.horizon&hl=en&gl=us",
+    "appId": "com.sfcd.horizon"
+}

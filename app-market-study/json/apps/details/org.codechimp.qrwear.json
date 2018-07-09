@@ -1,0 +1,59 @@
+{
+    "title": "Wear Codes for Android Wear",
+    "summary": "Display barcodes on your Android Wear watch.",
+    "icon": "//lh3.ggpht.com/sCduZavDsDU1dQU311o7DdcZ8ppc3nDlCO_N8vh1ukTFYzOe0v6e8pEhXyu09Tlf-w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 440,
+    "developer": "CodeChimp",
+    "developerId": "8386908236515041315",
+    "developerEmail": "android@codechimp.org",
+    "developerWebsite": "http://wearcodes.codechimp.org/",
+    "developerAddress": "2 Albert Road\nWitham\nEssex\nCM8 2BS",
+    "updated": "February 18, 2018",
+    "version": "Varies with device",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "size": "Varies with device",
+    "description": "Wear Codes is an easy way to bring up a handy list of barcodes for scanning without taking out your phone, use it for paying in Starbucks®, Dunkin' Donuts®, Subway®, loyalty cards, boarding passes, sharing your contact details, web sites or just some useful text.Manage the list of codes on the mobile app and have them appear in a list for easy access on your watch.Scan an existing card using the built in barcode scanner or type your data in manually.Import screenshots with barcodes from other apps.Add existing barcodes, web site addresses and other data straight from email, web pages or other apps via their Share menu.Import Passbook PKpass files.Types supported• Text• vCard• Card• Ticket• URL• Email• Phone• SMS• WiFi• UPCA Barcode (US)• EAN13 Barcode (EU)• Code 128 Barcode• Code 39 Barcode• ITF Barcode• Codabar• Aztec• PDF 417• Data MatrixBarcodes can be displayed on phone as well as watch and a button allows you to beam it straight to the watch if you don't want to go through the list on the watch itself.Tasker Plugin Support - set up Tasker to push a notification to your watch for where you are/what you are doing (requires Tasker by Crafty Apps EU to be installed)Share barcode images to other applications.Share barcode images from other application and have them automatically decoded into Wear Codes.Options to backup/restore data from settings menu.Limited to just one code as a trial, more can be added through a small in app purchase.This app requires an Android Wear smart watch, it does not work with Pebble, Sony LiveView, or non Android Wear Samsung Gear watches.Permissions ExplanationAccess Network State - to allow adding of WiFi connect codesAccess WiFi State - to allow adding of WiFi connect codesBilling - to provide option to purchase the premium versionCamera - to allow scanningVibrate - allow watch to vibrate on Tasker eventsRead External Storage - Used for the backup/restore optionWrite External Storage - Used for the backup/restore optionIf you encounter an issue with this app please use the email developer option rather than leave a review, it is easier to resolve with a direct contact method.Formerly QR Wear - re-branded to better signify the diverse barcode and QR types available.",
+    "descriptionHTML": "Wear Codes is an easy way to bring up a handy list of barcodes for scanning without taking out your phone, use it for paying in Starbucks&#xAE;, Dunkin&apos; Donuts&#xAE;, Subway&#xAE;, loyalty cards, boarding passes, sharing your contact details, web sites or just some useful text.<br><br>Manage the list of codes on the mobile app and have them appear in a list for easy access on your watch.<br>Scan an existing card using the built in barcode scanner or type your data in manually.<br>Import screenshots with barcodes from other apps.<br>Add existing barcodes, web site addresses and other data straight from email, web pages or other apps via their Share menu.<br>Import Passbook PKpass files.<br><br>Types supported<br>&#x2022;&#x2003;Text<br>&#x2022;&#x2003;vCard<br>&#x2022;&#x2003;Card<br>&#x2022;&#x2003;Ticket<br>&#x2022;&#x2003;URL<br>&#x2022;&#x2003;Email<br>&#x2022;&#x2003;Phone<br>&#x2022;&#x2003;SMS<br>&#x2022;&#x2003;WiFi<br>&#x2022;&#x2003;UPCA Barcode (US)<br>&#x2022;&#x2003;EAN13 Barcode (EU)<br>&#x2022;&#x2003;Code 128 Barcode<br>&#x2022;&#x2003;Code 39 Barcode<br>&#x2022;&#x2003;ITF Barcode<br>&#x2022;&#x2003;Codabar<br>&#x2022;&#x2003;Aztec<br>&#x2022;&#x2003;PDF 417<br>&#x2022;&#x2003;Data Matrix<br><br>Barcodes can be displayed on phone as well as watch and a button allows you to beam it straight to the watch if you don&apos;t want to go through the list on the watch itself.<br><br>Tasker Plugin Support - set up Tasker to push a notification to your watch for where you are/what you are doing (requires Tasker by Crafty Apps EU to be installed)<br><br>Share barcode images to other applications.<br>Share barcode images from other application and have them automatically decoded into Wear Codes.<br><br>Options to backup/restore data from settings menu.<br><br>Limited to just one code as a trial, more can be added through a small in app purchase.<br><br><b>This app requires an Android Wear smart watch, it does not work with Pebble, Sony LiveView, or non Android Wear Samsung Gear watches.</b><br><br><b>Permissions Explanation</b><br>Access Network State - to allow adding of WiFi connect codes<br>Access WiFi State - to allow adding of WiFi connect codes<br>Billing - to provide option to purchase the premium version<br>Camera - to allow scanning<br>Vibrate - allow watch to vibrate on Tasker events<br>Read External Storage - Used for the backup/restore option<br>Write External Storage - Used for the backup/restore option<br><br>If you encounter an issue with this app please use the email developer option rather than leave a review, it is easier to resolve with a direct contact method.<br><br>Formerly QR Wear - re-branded to better signify the diverse barcode and QR types available.",
+    "histogram": {
+        "1": 40,
+        "2": 27,
+        "3": 46,
+        "4": 108,
+        "5": 219
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/eVhz381w0gjPRUqxxaNrFAwsfO_NvBCPKVInA35SgMlEE3V1wgLGIFIixYDcKx7MGg=h310",
+        "//lh3.googleusercontent.com/SPDNL-sw-M-O842BhyNcb9RSmmevUjBfm-di9vl2p7teqMnmQ7MfHw72rexy-0_IYMFu=h310",
+        "//lh3.ggpht.com/d5OvnyJf1A7NQcDUoP5sh80SoDQNq-pVGrr1zKSevH04Igaaituin77ovWPKblSx3Qf1=h310",
+        "//lh3.googleusercontent.com/QCCBKNaINExbEiFiGpggo9TMOfnUMBH5Ev2CHuDA1-Jt13sHatzva5lPfSvSIQYNpcE=h310",
+        "//lh3.googleusercontent.com/qoB2IqcXvSYBRQjgLhPgrmneL6ImeAtD1o7JaJa_VCsH5FWZej6L6gI7eZja7JiE_DU=h310",
+        "//lh3.googleusercontent.com/kuo5KT5p_WfoaaMfzNNtV7eEhqVj4SW7L1iIIAFURzB0umUa7CcooE1NGEXjXL4CXA=h310",
+        "//lh3.googleusercontent.com/gX3ScXsCJ6rHHxwgbGJ8ZiVBbhxwGl8SKzaa721xroAIE7x_wk6MRXomCL-Jx44rEfY=h310",
+        "//lh3.googleusercontent.com/Sxh-FfsL0eJ0-5_W9dLnL3NzqngiJ_r3RL_CmoTHkD28RrjgZpun7Ikwv3IJgs0ZTjc=h310"
+    ],
+    "comments": [
+        "Great app, do what it should, but there is Stocard",
+        "A few weeks after I purchased this app, my watch upgraded to Android Wear 2.0 and since then the app no longer works at all. It does not appear on the app list on the watch. I contacted CodeChimp to tell them, and they never responded to my email.  ----------------------------------------------------- Update after CodeChimps reply to this review.  I re-installed the app, and it now works on my watch with Android Wear 2.0",
+        "Best Android Wear App I've come across.   No more getting my phone out when I'm jumping on a plane, train or even when I'm pickup my coffee from Starbucks.   This is the awesome power of Android Wear!",
+        "The codes displayed on my Watch Sport with a high ppi screen are way too small to read. They are just surrounded by a lot of white space.",
+        "Huawei Watch 2: QR code can only be pushed to watch from phone, not retrievable from watch, and way too small",
+        "Couldn't pick up QR code for my American airlines boarding pass."
+    ],
+    "recentChanges": [
+        "Added support for Data Matrix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.codechimp.qrwear&hl=en&gl=us",
+    "appId": "org.codechimp.qrwear"
+}

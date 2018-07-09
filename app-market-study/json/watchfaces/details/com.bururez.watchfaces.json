@@ -1,0 +1,45 @@
+{
+    "title": "Golden Spiral WatchFace",
+    "summary": "Golden Spiral, Fibonacci Spiral, Logarithmic Spiral, Watch Face",
+    "icon": "//lh3.googleusercontent.com/8ctrhX4nOBjhU6ghnYyM9FrnNBoQkr0PbijoUIpfy_JQBVypJvvjC2G7VwKUEkvDYqE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 3,
+    "developer": "bururez",
+    "developerId": "bururez",
+    "developerEmail": "bururez.android@gmail.com",
+    "updated": "September 5, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This Watch Face could be manipolate from settings.You could change:- hour, minute, second ticks color;- spiral color;- background color;- two constants of Golden spiral formula;Give me your feedback!Thank you!",
+    "descriptionHTML": "This Watch Face could be manipolate from settings.<br>You could change:<br>- hour, minute, second ticks color;<br>- spiral color;<br>- background color;<br>- two constants of Golden spiral formula;<br><br>Give me your feedback!<br><br>Thank you!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/1m3Bvq8N6_2X7dx32hIYgiq-eTZSVzt1mIEd15zDTxTaCvvUtgisT3FXU_pP_uKPTA=h310",
+        "//lh3.googleusercontent.com/LYhu8Mo2G67zEYOyvoEjoimUApgZvhB7poowe1OnrSA3CYWXqSrvR7fwJJMjkmVzzAsm=h310",
+        "//lh3.googleusercontent.com/qszBS24zINuHMVMvxpqIugTFaWY20AcVzxceCWyl0stddTVGq_NepirP2XaWMHPD8r4V=h310",
+        "//lh3.googleusercontent.com/AjWRCWh0bbV1Sa1dmopaBH8ELKL-bkTl5TBiP_YE4nDgEXxVXsGlbMaegMMmtRh9UoEc=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- fix permissions"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bururez.watchfaces&hl=en&gl=us",
+    "appId": "com.bururez.watchfaces"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Viper Watch Face",
+    "summary": "3in1 Viper Watch Face pack for Android Wear",
+    "icon": "//lh3.googleusercontent.com/m-vvgI-x75DXSpubRXnJHBSoOPZGvSpcx_24znHltfqzUvSzNETeS_ON-Ngp8rPJj2A=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.5,
+    "reviews": 28,
+    "developer": "Stoneface",
+    "developerId": "Stoneface",
+    "developerEmail": "stonefaceapps@gmail.com",
+    "developerAddress": "220140, Minsk, Belarus\n91 Pritytskogo str., 345",
+    "updated": "December 3, 2015",
+    "version": "1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Powerful sport watch face. Viper Watch Face pack for Android Wear with rich functional and cool design.FEATURES:★ Weather Forecast for more than 74.000 locations★ Auto-detection of current location★ Phone Battery information★ Watch Battery indicator★ Date and Day information★ 12/24 auto-format★ High Resolution Design★ Ambient (dimmed) mode★ 3 watch face color themes in the 1 pack★ Support for Round and Square watchesINSTRUCTION:1. Install Watch Face2. Wait a minute2. Go to Android Wear Application3. Choose Viper Watch Face4. Enjoy!The Viper watchface has been tested on Moto® 360, LG® G Watch R, ASUS® ZenWatch, Sony® SmartWatch and other. Any problems? Please email me and I'll try my best to fix any issues you have!",
+    "descriptionHTML": "Powerful sport watch face. Viper Watch Face pack for Android Wear with rich functional and cool design.<br><br>FEATURES:<br><br>&#x2605; Weather Forecast for more than 74.000 locations<br>&#x2605; Auto-detection of current location<br>&#x2605; Phone Battery information<br>&#x2605; Watch Battery indicator<br>&#x2605; Date and Day information<br>&#x2605; 12/24 auto-format<br>&#x2605; High Resolution Design<br>&#x2605; Ambient (dimmed) mode<br>&#x2605; 3 watch face color themes in the 1 pack<br>&#x2605; Support for Round and Square watches<br><br>INSTRUCTION:<br><br>1. Install Watch Face<br>2. Wait a minute<br>2. Go to Android Wear Application<br>3. Choose Viper Watch Face<br>4. Enjoy!<br><br>The Viper watchface has been tested on Moto&#xAE; 360, LG&#xAE; G Watch R, ASUS&#xAE; ZenWatch, Sony&#xAE; SmartWatch and other. Any problems? Please email me and I&apos;ll try my best to fix any issues you have!",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 9,
+        "4": 9,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/O2JUk3fD8ozSiKYPONFmpmosQWfTxUcwe8J6y3Oh0uSt4JT5Zw3kHHblxLK-OlASLbKt=h310",
+        "//lh3.googleusercontent.com/f8cvc89wEuwuOdSw8OXZKnyyk8HOfl0VjZMtf_UmOq6PqLzI_iNv4GGgDg00LQHpgg0=h310",
+        "//lh3.googleusercontent.com/9h08_8LGKXa3HyFCx-ZoSSTv-5H3qPqKLxRncz0uCivGpCW-7oMc6dJNoDoFwuJCQRU=h310",
+        "//lh3.googleusercontent.com/anNQeBr_923FOJ8kwhcGcGuWJCjPSW52vUGEsrewCI0lGZnnj4ZICUoemTI4b1lC_zk=h310",
+        "//lh3.googleusercontent.com/KgaxNRmFysnyL_wq_KWxzF-zObwJpFsMrBExc0fwmFn0Adxa4O7ziVg8rZkaCSylu1yU=h310"
+    ],
+    "comments": [
+        "Excellent watchface, ambient mode is lacking I'm currently using a moto 360 v2 the ambient mode isn't very nice looking. The watch face it's self is really nice, I'd also like to see the weather in Celsius.",
+        "Looks good. Time placement should be moved so that it can't be blocked by notifications",
+        "Nice design, but impractical. The design of this face looks amazing, but one crucial problem is the placement of the time. If you use tilt to wake, it makes it impossible to quickly check the time if you have any active cards, as they cover up the clock. Perhaps if the temperature and time swapped spots, it might work better.",
+        "Weather issues Mine prints out weather but it's showing it as hazy and 84. I live in southern California and it is currently sunny and 91",
+        "Fab Looks like a really nice watch face, but I keep getting Viper Red has stopped on my G Watch R. Edit: just uninstalled and it works again. Looks great!",
+        "Love the look of this watch face, installed and updated location/weather information with no problems. Would be nice if the colored part of the design was changeable via settings instead of 2 different watch face options."
+    ],
+    "recentChanges": [
+        "+ Added new Sport color theme",
+        "+ Some fixes for Moto 360 (2015) and Huawei Watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.stoneface.watchface.viper&hl=en&gl=us",
+    "appId": "com.stoneface.watchface.viper"
+}

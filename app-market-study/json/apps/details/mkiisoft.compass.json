@@ -1,0 +1,51 @@
+{
+    "title": "Compass for Wear",
+    "summary": "The FIRST and most minimalist Compass make it for Wearable devices!",
+    "icon": "//lh5.ggpht.com/P1k1B-nVK1-GXeDvieNOfhsQe_L0vSiBqar-9V636yQt9kpxzjwC3wzB2htL4hJlMnCr=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 2.6,
+    "reviews": 387,
+    "developer": "MKIISoft",
+    "developerId": "6914783267855259685",
+    "developerEmail": "connect@mkiisoft.com.ar",
+    "developerWebsite": "http://mkiisoft.com.ar/",
+    "developerAddress": "Calle/Street: Carlos Pellegrini 143\nCiudad/City: Rio Ceballos\nProvincia/Province: Córdoba\nPaís/Country: Argentina\nCP/Zip Code: 5111",
+    "updated": "June 29, 2014",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "The FIRST and most minimalist Compass make it for Wearable devices!One of the first Wear Native Apps make it in the world. Download NOW for FREE!!!ATTENTION - Instructions:-Make sure your mobile is compatible with Wear.-Make sure to pair your phone with Wear with the Wearable App.-Ones you install the App with a pair Wear the \"Wear Compass\" would automatically install in your watch.-To open: Say \"Open Wear Compass\" or go to \"Start...\" and open the app \"Wear Compass\"-You CANNOT OPEN the app in your mobile after install it, only on your Wear Device.Compatible with all square wear devices.Emails us to improve this app and/or to request new functions.",
+    "descriptionHTML": "The FIRST and most minimalist Compass make it for Wearable devices!<br><br>One of the first Wear Native Apps make it in the world. Download NOW for FREE!!!<br><br>ATTENTION - Instructions:<br><br>-Make sure your mobile is compatible with Wear.<br>-Make sure to pair your phone with Wear with the Wearable App.<br>-Ones you install the App with a pair Wear the &quot;Wear Compass&quot; would automatically install in your watch.<br>-To open: Say &quot;Open Wear Compass&quot; or go to &quot;Start...&quot; and open the app &quot;Wear Compass&quot;<br>-You CANNOT OPEN the app in your mobile after install it, only on your Wear Device.<br><br>Compatible with all square wear devices.<br><br>Emails us to improve this app and/or to request new functions.",
+    "histogram": {
+        "1": 189,
+        "2": 28,
+        "3": 33,
+        "4": 39,
+        "5": 98
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/iQTuHKK36OrAiKs9oCrmA-IPENd3OA7RlVG8G3pJtXbFuHphUBocFVl8GbolPCld0hI=h310",
+        "//lh5.ggpht.com/pKYSHYaobaD6m1nh67nwpzDHcYoBkVb_aQfIh0JB4WnpdU6Vz__BnQBlfHpF-8Jf9Dwt=h310",
+        "//lh3.ggpht.com/sz5-rDARebnTpU_wRQcgRQLzpAThzU0FACsMXNSKKsU02GADGH3ln1GOixW5mphihOg=h310"
+    ],
+    "comments": [
+        "Works ok but is a bit counter-intuitive The needle always point north, so it works on Sony Smartwatch 3. However, the fixed N/S/E/W bezel just serves to confuse. When I'm facing east the needle points to \"W\". Why not make the whole thing rotate? The way it is, you always have to rotate your wrist so that the arrow points to \"N\" first and then read of the compass directions from the bezel.",
+        "Working well It's amazing how many people don't read the description of the app they are downloading, especially Moto 360 users. It states it works with square watches and they still get it then one star review because it doesn't work.",
+        "Doesn't work with round devices Even though it does say in the description that it's only compatible with square devices, I find that unacceptable when the UI is round anyway and Google provides all the tools necessary to maintain compatibility with both rectangular and round devices.",
+        "Moto 360 crashing The app crashes on the moto 360. I will update my review at a later date if this supports the 360",
+        "Not calibrated correctly. As another review said,  NW shows NE and so on. Thanks for the effort. Will re-download once fixed.",
+        "Doesn't work The compass after opening stares at a random position and locks it....  I. E. I an looking north but the app shows i am looking south again i am looking at east the app sometimes showed that i am looking at north or a random direction....  Please fix!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=mkiisoft.compass&hl=en&gl=us",
+    "appId": "mkiisoft.compass"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Circadian Watch Face",
+    "summary": "A minimalist Watch Face deigned to bring a unique appearance to your watch.",
+    "icon": "//lh3.googleusercontent.com/fwPbG2fgRZOhVigFAhkkmRvaG9WPEIi4TisUv-vzLDHEQcyKnb2QzB6jJ1c8lD9wgtH-=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 1,
+    "developer": "Jacob K Lewis",
+    "developerId": "Jacob+K+Lewis",
+    "developerEmail": "contact@jacoblewis.me",
+    "developerWebsite": "http://www.jacoblewis.me/",
+    "updated": "March 4, 2017",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A minimalist Watch Face deigned to bring a unique appearance to your watch.",
+    "descriptionHTML": "A minimalist Watch Face deigned to bring a unique appearance to your watch.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KShOsxTz9MSmjILqNrrPSLu2VfzH1gxooea5yYnMD6vO41gpHd4iwEaHLa7oJjhWchg=h310",
+        "//lh3.googleusercontent.com/sunc35_0L0GqqYM8bo1fzAMRi1iMwOXo4XxrcEQGCnuu0kC1oAfprnMgfpGBFiFMTmU=h310",
+        "//lh3.googleusercontent.com/TWDJXstn3Hf3UZ3p7zvnph06QJecjWztbyc-dIBQCGiGO9WJ8HZs3DKYeK6Dtigvvg=h310",
+        "//lh3.googleusercontent.com/LmB7gMew-OyLxxXzgGIiE7RfVtAn6RasVAvloUWVJADJCzLL3ZQGipLwMN1EpSOMsqv5=h310",
+        "//lh3.googleusercontent.com/bggOVpnvs8Mb5Oq_SIIWtv-N04TyFeeUAywHZhKIC7u4g0Qc3q5nnNB1FB7t3hl7-0Q=h310"
+    ],
+    "comments": [
+        "Looks a bit strange just analog so I went to the watchface settings but saw that hours and seconds was already enabled. Force ambient works fine but show seconds and hour does not work on my LG urbane 1st Gen."
+    ],
+    "recentChanges": [
+        "Initial release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=me.jacoblewis.circadianwatch&hl=en&gl=us",
+    "appId": "me.jacoblewis.circadianwatch"
+}

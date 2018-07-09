@@ -1,0 +1,59 @@
+{
+    "title": "Axiom Watch Faces",
+    "summary": "A set of digital watch faces for Android Wear.",
+    "icon": "//lh4.ggpht.com/9YnzBqaNIbLBAYBfO9cxI0XSM-yiPCYnicw6HSOt3sNEjECtyki_1F7NUtDennuk3TPa=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4,
+    "reviews": 79,
+    "developer": "Oleksandr Popov",
+    "developerId": "Oleksandr+Popov",
+    "developerEmail": "keaukraine@gmail.com",
+    "developerWebsite": "http://androidworks-kea.blogspot.com/",
+    "developerAddress": "Budivelnykiv str. 18 apt. 38\nSvitlovodsk, Kirovohrad,\nUkraine",
+    "updated": "February 9, 2017",
+    "version": "1.4",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "A collection of 5 minimalistic digital watch faces to customize look of your Android Wear watch.8-BIT -- round-shaped pixels create that unforgettable old-school font from days that you will never return.CATHODE -- with this watch face you can almost touch every pixel of old CRT monitor.HEX -- a futuristic digital bee hive. Bees are not included.SEGMENTED -- will turn your watch into retro alarm clock with bright segmented digits.TINY -- made with a smallest and cutest 3x5 pixels font.All watch faces can work in either 24-hr or 12-hr mode and can be customized by changing colors of background and digits.",
+    "descriptionHTML": "A collection of 5 minimalistic digital watch faces to customize look of your Android Wear watch.<br><br><br><br><b>8-BIT</b> -- round-shaped pixels create that unforgettable old-school font from days that you will never return.<br><br><b>CATHODE</b> -- with this watch face you can almost touch every pixel of old CRT monitor.<br><br><b>HEX</b> -- a futuristic digital bee hive. Bees are not included.<br><br><b>SEGMENTED</b> -- will turn your watch into retro alarm clock with bright segmented digits.<br><br><b>TINY</b> -- made with a smallest and cutest 3x5 pixels font.<br><br>All watch faces can work in either 24-hr or 12-hr mode and can be customized by changing colors of background and digits.",
+    "histogram": {
+        "1": 8,
+        "2": 6,
+        "3": 8,
+        "4": 16,
+        "5": 41
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/XdPyUOxLJo_hAK6_eNeAdfXiiMb8CUBmypKjcFMhXqM3tliwehToigoaNXGiIhv_b1jn=h310",
+        "//lh5.ggpht.com/e8XKMbQjr7foomgoMisjitVxTL-ILPwd7IkjCkxGX41d4PZBtkspOHi1uHM2jnhp8A=h310",
+        "//lh5.ggpht.com/nb3Neg50e57JX_G6z5mmlMjKiahzkpQocVT6IoD3xqk_b07p3DyxXJ-Eazm-kPffbP9E=h310",
+        "//lh3.googleusercontent.com/hXasFWJyihz-Ak3eH4B6OeLNS9RruF2yXQHsDVW5L_jzBJZJ9BjPTEsjLNmhnTtCRus=h310",
+        "//lh3.googleusercontent.com/uLTpUhka56cYwSN3xLlzXJN7Bbd-6RB1axMvTdC_tWs9Y5YWQ2rpEN6r-DISu4-llQ=h310",
+        "//lh3.googleusercontent.com/5Gjrf5GijSnXBHTStFEpLzb6EtDYR88t_qn5SbTyR4-Fb2vTYPGnpnMZNjEW3KxUqQ=h310",
+        "//lh3.googleusercontent.com/EdXpaFagFzI7z3_VKg2ZK6jk2pH62vtbqEi64q41FjOsKbh_4oyCZubal2pu7Q6gqW4=h310"
+    ],
+    "comments": [
+        "Awsome Fluid animation, oddly satisfying textures, nice colors. Although being able to customize those colors would gain a fifth star!",
+        "Great start Full ambient mode and a date option would get a fifth star.",
+        "A mixed bag 3 stars because most are blurry (by design,  I  think). 5 stars for the ones that aren't. The red LCD with green bkgd is a frequent go-to watch face.",
+        "A few suggestions 1. Add an option to display the date. 2. Make the seconds smaller.",
+        "Amazing Probably one of the best watch faces in my opinion. Simple and a marvel to look at. Keep it up !!!",
+        "Interesting!"
+    ],
+    "recentChanges": [
+        "Added new watch face - TINY",
+        "Fixed black bar on Moto360.",
+        "Reduced amount of app permissions."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.axiomworks.watchfacedigital&hl=en&gl=us",
+    "appId": "com.axiomworks.watchfacedigital"
+}

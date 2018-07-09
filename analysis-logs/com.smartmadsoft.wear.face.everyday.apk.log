@@ -1,0 +1,59 @@
+Soot started on Thu Jun 21 12:10:30 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.smartmadsoft.wear.face.everyday.WatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.smartmadsoft.wear.face.everyday.apk
+[INFO] MySceneTransformer: ############## com.smartmadsoft.wear.face.everyday.WatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   56
+[INFO] FlowGraph: @@@@ Total Methods: 184
+[INFO] FlowGraph: @@@@ Total Stmts:   4134
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1_18=[-16777216], $r2=[-16777216, -15658735, -13421773, -1118482, -1, -3355444, -8363, -27387], $r1=[-1], $r1_25=[-1]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1_18=[-16777216], $r2=[-16777216, -15658735, -13421773, -1118482, -1, -3355444, -8363, -27387], $r1_12=[-5504744], $r1=[-1], $r1_25=[-1]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [ffff9505, ff111111, ffeeeeee, ffffdf55]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ffff9505, ffac0118, ff111111, ffeeeeee, ffffdf55]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ffff9505, ff111111, ffeeeeee, ffffdf55]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ffff9505, ff111111, ffeeeeee, ffffdf55]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ffff9505, ff111111, ffeeeeee, ffffdf55]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ffff9505, ff111111, ffeeeeee, ffffdf55]
+[INFO] MySceneTransformer: TOTAL TIME: 4.139000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:10:37 EDT 2018

@@ -1,0 +1,55 @@
+{
+    "title": "Wear IP Cam Viewer",
+    "summary": "Get a snapshot of your favourite cameras, on your Android Wear...fast!",
+    "icon": "//lh4.ggpht.com/ccfalTLwOWuwwTUCnRpmlxdJZsiWnmn5qXYNKc5NKLwrYo9cNCLQrgDbwWNdVJ0UWX0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 83,
+    "developer": "Barkside Apps",
+    "developerId": "Barkside+Apps",
+    "developerEmail": "barkside.apps@gmail.com",
+    "developerWebsite": "https://sites.google.com/site/barksideapps/",
+    "developerAddress": "Barkside Apps\n7 Millstream Close\nWest Yorkshire\nBD20 5QG\nUK",
+    "updated": "September 17, 2014",
+    "version": "1.7",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "View snapshots of your favourite cameras on your Android Wear device with this convenient and user-friendly app.Add multiple IP cameras, and get snapshots of them all on your watch, when you start the app.Features include:* Add multiple cameras on companion device, and easily test.* Demo cameras included to get you going.* Refresh snapshot from wrist.* Image is pinch-and-tap zoomable on wrist.* Can use for baby monitors, home/office CCTV, public world-wide cameras etc.* Supports MJPEG streams and JPEG snapshots.* Free and ad-free - please donate using In-App Billing if you like it.* Can start on watch with \"OK Google, Start IP Cam\".If you have trouble adding a camera, try the following:* Ensure you are connected to internet/network.* Try adding videostream.cgi, video.cgi, video.jpg, or snap.jpg etc as the path/filename.If you have any feedback, or problems with this app, please contact us at barkside.apps@gmail.com. This makes it easier for us to act on your feedback than if you leave a negative review.",
+    "descriptionHTML": "View snapshots of your favourite cameras on your Android Wear device with this convenient and user-friendly app.<br><br>Add multiple IP cameras, and get snapshots of them all on your watch, when you start the app.<br><br>Features include:<br><br>* Add multiple cameras on companion device, and easily test.<br>* Demo cameras included to get you going.<br>* Refresh snapshot from wrist.<br>* Image is pinch-and-tap zoomable on wrist.<br>* Can use for baby monitors, home/office CCTV, public world-wide cameras etc.<br>* Supports MJPEG streams and JPEG snapshots.<br>* Free and ad-free - please donate using In-App Billing if you like it.<br>* Can start on watch with &quot;OK Google, Start IP Cam&quot;.<br><br>If you have trouble adding a camera, try the following:<br>* Ensure you are connected to internet/network.<br>* Try adding videostream.cgi, video.cgi, video.jpg, or snap.jpg etc as the path/filename.<br><br>If you have any feedback, or problems with this app, please contact us at barkside.apps@gmail.com. This makes it easier for us to act on your feedback than if you leave a negative review.",
+    "histogram": {
+        "1": 12,
+        "2": 3,
+        "3": 7,
+        "4": 13,
+        "5": 48
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/1VtFT34k5O1r-8LhIVDUNsbuzMjVtfHAUXNnQbkaomXxLw8Y1B9AoC5ywFBmjPaNr7I=h310",
+        "//lh5.ggpht.com/L42s28wD8SixVGpGSdpCK9yfLZUdVeq87YQhrFbgQPRRTlMPHkA8a6An7iY5qqPYDQ=h310",
+        "//lh3.ggpht.com/WQiUA0BWl6f42fRdSdHnK7_UbXwze3FqePADIfxzLS8Z62YRcrC3o7r4Yr0KwfHo0njs=h310",
+        "//lh3.ggpht.com/OLaL_9xTpBmHB1ssn-0B1OzOSnB3IzyxlVHXnFKo5jnk-bxHFjDXc3Vxuk2YCKHMS-U=h310",
+        "//lh4.ggpht.com/vO7wrtLJHHTEl46PzJNMaoznkvx6F6R3vbMLIIBZvY_vxixxv43JvDuCiGBvYPXPgo4=h310"
+    ],
+    "comments": [
+        "Need instructions for changing cams I use a LG watch GR but cannot get this app to change cams?  How, swiping does nothing.  Nice app, just needs some instructions or better working with different devices. Any help?",
+        "Works fine Thanks. But can it support https?  For security reason, I get the snapshots from cam and put them on a web server instead of allowing direct Internet access to cam. It will be great if https can work for hiding the path when I am using public WiFi.",
+        "Please load some basic instructed videos on youtube for how to setup ? I am using wifi cam via android phone. Stock app works fine. Only issue with your app on android wear.",
+        "Like it but freezes I love this but it keeps freezing on my moto 360 after a few seconds of use until I restart the watch.",
+        "Working fine Ok now I figured it now, I can swipe up/down to select view different ip cam.  Next phase please add PTZ motion control in the Android Wear too.  Nice app!!",
+        "This is awesome and works great This is a really cool app and we'll made. I would love auto updating on a set interval or something but it is not need for the situation I use it for. I use foscams with the jpeg cgi URL which works great."
+    ],
+    "recentChanges": [
+        "Fixed a username/password entry issue (if keeping password blank, please setup camera again)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.barkside.ipcam&hl=en&gl=us",
+    "appId": "com.barkside.ipcam"
+}

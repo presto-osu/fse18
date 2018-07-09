@@ -1,0 +1,173 @@
+[
+    {
+        "author": "Jason Romain",
+        "comment": "Please add the ability to have a custom location rather than requiring the location services to be enabled.",
+        "date": "January 26, 2016",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPRzNPUWpfY1lEUi13SHFHbHdwem1CbGIyLUlwSzRwZ0RxR21GVnVIT1NMU3dBN0c5TFlFdWpDQTg3WWlUNVdsbTBYck13R3Z4V0U0SHBFRlA4",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "Hi Jason. The main purpose of the app is to tell you how the weather around you is going to change over the course of the day. However, if you do want to change the location, you can go into the settings and enable VPN Mode. This will open a prompt where you can directly add in coordinates for the location you're choosing. Let me know if this works",
+            "date": "January 26, 2016"
+        },
+        "star": 2,
+        "title": null
+    },
+    {
+        "author": "dgw",
+        "comment": "Android TV support is great to have, but the introduction cards that are shown on first run cannot be dismissed with any of the buttons on the Nexus Player remote. I had to open the Remote Control app on my phone and experiment to find the only way that worked: opening the keyboard and hitting the Enter/Done button. Otherwise it seems to work well enough. Being able to see where the app thinks my device is located when in the daydream view would be nice. Does the daydream show more detail in premium mode?",
+        "date": "October 6, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPRWhqQXpGak8wM2VuV2d6by03VEg0OHBWUlJuaHZXUUY0ZTNncUQ3MEZlejhVSEVwb25uTmx4OHFDcHZRRm8zVzJRQUtNMjJzeU1yektUSFhR",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "Hmm, I'm sorry about this. It was working fine on the gamepad, but I suppose the same keys aren't mapped for the remote. This should be fixed soon. Thanks for letting me know.\n\nThe daydream feature is rudimentary. The premium version gives more themes, but it doesn't give more information. Let me know what you're looking for felker.tech@gmail.ccom",
+            "date": "October 8, 2015"
+        },
+        "star": 4,
+        "title": "Can't get started with just Nexus Player remote"
+    },
+    {
+        "author": "Huy Ly",
+        "comment": "If your going to offer an option and push notifications based on it, I'd be a good idea to make sure your metric conversions work properly. I have 40\u00b0 set as hot and 12\u00b0 as cold and I just got a notification saying it will be very hot at 15\u00b0. Thought this would be fixed long ago but kept the app around and it still hasn't been addressed. Daydream also is just in nonstandard (I refuse to validate it) measurements with no option to switch to metric",
+        "date": "September 3, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPR3ZOZlg4cXoyRnFXQU9mS0cwNlFLM3V0RkRTdjlwNXJaS2lOa0Vwc1BPSVAySENlMWJ1eXpxakZjdUd6VDJsMWVVOVhNWE4yQlFydDJZNUFn",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "I'm sorry that you've been having trouble with metric units. As the US still uses imperial I haven't had too much testing with metric. It's weird that you're getting a notification for 15\u00b0 and I'll definitely investigate why that's happening. As for daydreams, I'll also check that out. It should use whichever system you pick though.",
+            "date": "September 6, 2015"
+        },
+        "star": 2,
+        "title": "Please fix metric to nonstandard(imperial) measurements"
+    },
+    {
+        "author": "Chris M",
+        "comment": "Can't get past the last card on the welcome screen, it doesn't let me select the checkmark at the end.",
+        "date": "October 7, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPRlhiM2h1MU1Fa3JoZHZlUld0YnVySHFWNW9yclplYmVyWjY2U2dHaDdRYVdMeEloY2NiS2JuVXgyZC1YbzFoVm1hT09jYmxrdzFJNWZqMWg0",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "Thanks for letting me know. Others have reported that the remote doesn't work, even though it does work on the gamepad. A fix will be released shortly.",
+            "date": "October 8, 2015"
+        },
+        "star": 2,
+        "title": "Doesn't work on Android TV"
+    },
+    {
+        "author": "Gil Hamlin",
+        "comment": "I'm experiencing issues with the Android Wear watchface. It immediately crashes upon selection. I've experienced this on both a moto 360 and a LG Watch Urbane.",
+        "date": "August 4, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPRWhRLXdXN3FPWHB5RnRJd2lLYXdlR3ZYV0J3a05ocEZkeTJWYlVTczBzWXJsUXl6VUltai1sMUZ2QkVWa2FwOEI0ZWlBUkYzOTY1OEp1UU44",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "Shoot me an email (felker.tech@gmail.com). I've gotten a few reports of this happening but I haven't been able to reproduce it yet.\n\nEdit: This app has had a few updates recently. Try upgrading and see if you have any problems.",
+            "date": "August 7, 2015"
+        },
+        "star": 3,
+        "title": "Android Wear Issues"
+    },
+    {
+        "author": "Eddie Young",
+        "comment": "Worked well on phone so upgraded so as to use the Android Wear app. On running on the watch, repeatedly says the app has stopped. Pity.",
+        "date": "July 16, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPRlV1aVlZTHVldXFoRGtIR05xUE1OeE85QnI2VGU3Z0kwbE5oZUk1ckktb1VLWG9iZ1J0X1ZYRXVUOExsampRTGMwb0piQk1kckN2OTZJMUNN",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "Hey there. I'm really sorry that you haven't been able to get that to work. I haven't been seeing any problems on my devices. Send me an email so we can further debug your problem.\n\nEdit: A new update might fix this issue.",
+            "date": "August 7, 2015"
+        },
+        "star": 1,
+        "title": "Won't run on Android Wear Watch"
+    },
+    {
+        "author": "Imtiaz Ahmed",
+        "comment": "Very nice",
+        "date": "January 11, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPSFdRMkdlMVZQVXJHb2ZGeExpRGNDZUpkMGpQekhidDJRUE1pMFpaQUVUUVRnQ2VCWjEzNl9qSndOVmZMR1gxYm92RWpRSkh2NFprT1A5dHQ0",
+        "reply": null,
+        "star": 3,
+        "title": "Weather Android"
+    },
+    {
+        "author": "Ugochukwu Klenspiff",
+        "comment": "Good",
+        "date": "January 6, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPR1FENC1rbmh3eDlsVnRxWFZmUWRYMnU4Tm1aU20yZTZ5QzgxeThSMUZXMkRWTHFqVUc1QWZUOVEtU3hydXlnNlhYQ2MtU3ZKMzNlTXhieFlN",
+        "reply": null,
+        "star": 5,
+        "title": "Loved it"
+    },
+    {
+        "author": "Kevin Winn",
+        "comment": "Literally the most inaccurate (and needlessly complex) weather app I've ever tried. And the daydream screen is stationary. Always. Never moves. Perfect if you want a 54 degrees notification forever burned into your TV screen.",
+        "date": "September 24, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPR1lfT3ZBM0haWE5WbmdoZk1LSGR2ZHZob3FqNjZHLWg1S2dzV1hWYUdaOXJJRUN3dDhtVVRlUS0tUlZWYUxSZUZYRkRnbm5GT2tfRHlGdG5j",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "The daydream bug is a known. I'm sorry you're having this issue. It will be fixed soon.\n\nAccuracy is unfortunately up to the service as it's using 3rd party APIs. \n\nCan you explain what you mean by needlessly complex? The goal is to display lots of data in a glanceable way. If you have any suggestions, please let me know at felker.tech@gmail.com",
+            "date": "October 8, 2015"
+        },
+        "star": 1,
+        "title": "54 degrees all the time. \ud83d\ude10"
+    },
+    {
+        "author": "Eu Doc",
+        "comment": "Sorry, it has adware/ android.admob.a",
+        "date": "June 20, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPR0wzYTJhV2tXSEUtYVFOLVdQVThMVHJ5OGlxcEtZVXc3ekxIQ3ZXdzVrU3ZxUm5VMFhndEx2OEpqcHFzenJ6dEM2WUc5QTVabnU0cXlUQU5j",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "I'm sorry. This app does not have any ads in it at all. If you're seeing this problem, I would consider making sure you've downloaded a valid version of the app and that your system hasn't been compromised elsewhere.",
+            "date": "June 21, 2015"
+        },
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Mohamed Abdalla",
+        "comment": "I can not rate it even by one star because it is not working",
+        "date": "January 19, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPR21mcjduRXBEX0lwZEs2NHNnSXd0NjFzb3hHOFUwZlhELUFKMVpGSVNTcVpKNU5kbTRoREdHSEhtY2dkb0NUaFl2ZG1Wb3ZMOHlncjlPUU44",
+        "reply": {
+            "author": "Felker Tech",
+            "content": "The bug fix is rolling out now, you should see it soon.",
+            "date": "January 22, 2015"
+        },
+        "star": 1,
+        "title": "Not working"
+    },
+    {
+        "author": "Amit Kumar",
+        "comment": "I like it",
+        "date": "February 4, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPR1JuaFZEZU45MXN1bnJqdDNoaktESmNPLU85UjhJSmo1emJWX1laNTN0d244aklMVVFFa3lxT05fY2xFT1FGWXhGdUpWUTNVRnJlclhWNWlj",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Rahul Tandi",
+        "comment": "Nice",
+        "date": "April 28, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPR1JrMktMdmRXeEt6RzJvRGdiNzI2SnQySzY0Q2tzdXRJUjg1dFl3eWxsZHRiQjQ2c1hGSHl4V2xDb3hQdXlwWERZUXRUTm1jTDZCU053ZTNn",
+        "reply": null,
+        "star": 4,
+        "title": "Rahul tandi"
+    },
+    {
+        "author": "emma_wowo Nnamani",
+        "comment": "Awesome",
+        "date": "January 26, 2015",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPRzZaVkxYeDJGUDhfVWFaX0s3NjBsaXNOci1ZWElHcHlZUUFQNFVWMEIyVVoxMzVUeERkY1psbnNNNXdRZUpZUkpmRjljSnRteVRWR3VrM05B",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Rafique Ahmaf",
+        "comment": "Nice",
+        "date": "December 25, 2014",
+        "permlink": "/store/apps/details?id=com.felkertech.n.weatherdelta&reviewId=Z3A6QU9xcFRPRWZSdUdXdnkxd3NFZ2J3bnU1VDdVb214ZkcwMzFaX2pkTDMwVENfc1ZhS3E0ampFRXFwd01BdG9WUl9POEtLTE5Td0stLV9HdXpPeEZoZDdv",
+        "reply": null,
+        "star": 4,
+        "title": null
+    }
+]

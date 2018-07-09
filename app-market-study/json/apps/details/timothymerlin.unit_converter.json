@@ -1,0 +1,61 @@
+{
+    "title": "Converter Wear",
+    "summary": "Easily convert countless units on your Android Wear watch and on your phone!",
+    "icon": "//lh5.ggpht.com/XZq1C4h7UlT1Fn1t9y8R8U_OSpdNnTvvCU4x3Aibo68GUfcpKlvVjfZy5Q1Hmvg1wPWU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 101,
+    "developer": "Timotheus",
+    "developerId": "Timotheus",
+    "developerEmail": "timothy.merlin@gmail.com",
+    "updated": "April 3, 2015",
+    "version": "Second",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This amazing little app transforms your Android Timepiece into a Unit Converter. Even if you don't have an Android Watch you can use the converter on your phone. It's design allows you to intuitively convert different units so you don't have to painstakingly look up the individual conversions.Available Conversions: * Length * Mass * Volume * Speed * Fuel Consumption * Time+ Many more comingLet me know what you think and I'll do my best to include your feedback in the next update. Email me: timothy.merlin@gmail.comPermissions used:* Network Access: Google services & Ads",
+    "descriptionHTML": "This amazing little app transforms your Android Timepiece into a Unit Converter. Even if you don&apos;t have an Android Watch you can use the converter on your phone. It&apos;s design allows you to intuitively convert different units so you don&apos;t have to painstakingly look up the individual conversions.<br><br>Available Conversions:<br> * Length<br> * Mass<br> * Volume<br> * Speed<br> * Fuel Consumption<br> * Time<br>+ Many more coming<br><br>Let me know what you think and I&apos;ll do my best to include your feedback in the next update. Email me: timothy.merlin@gmail.com<br><br>Permissions used:<br><br>* Network Access: Google services &amp; Ads",
+    "histogram": {
+        "1": 7,
+        "2": 7,
+        "3": 5,
+        "4": 42,
+        "5": 40
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/YDxjnHhB2LR7ngH-olPdXmym8jATpiY5iTJUlTTmX5Kmyn74sZYIxuTp9m5slMrDCQHq=h310",
+        "//lh3.googleusercontent.com/gHUUMdJfmBCnYKrW7IdFzVw0z96UEtbvDwLGjJXQMOJebYL3dslleQ3dRSZfhJlinw=h310",
+        "//lh4.ggpht.com/D__npXeIIlDkRdCuZboC2Rl_D4aIB7ooYvSF2o1RqtGHC5ZtafImpZxlMqiFCP6jIro=h310",
+        "//lh5.ggpht.com/FCBkcOWBDTGhVnz68EUV7dHT-xqzkHoBFjF2EJS7Hsu1HeodT9iy5gXByTLDZsQwTQ=h310",
+        "//lh3.googleusercontent.com/L4jgKt8bZMlKISxUD53pLJSoXkQ7PsbcNynyzM9k_yEogLNkwiiuO-3hLhEW3M_oLo4=h310",
+        "//lh5.ggpht.com/ztEINXAsApNqNNFcN34OoY8ZB-5ryTRDrzhA_16awt4iJMn8REPTRQwzeNP9P3KZDYc=h310",
+        "//lh5.ggpht.com/a-EIbbt3sX87ZBWISU9n_7H8_qRQWjBHI_ffTatA4V8D72JTnE0qYDIwW-Mv_f1t7kJ6=h310",
+        "//lh3.googleusercontent.com/Snk-0o9vaKCPE-Z_jHICTJZlhW45gYWOanwzwGDqyZpIfk8yLSZpeVsxMXGIZMcJtUw1=h310",
+        "//lh3.googleusercontent.com/9Qo4rVrLVH-cEEAdbIhakAcRCYDp6WEVSdtyb7lz6T0bMh2Z-MLNQ-tz8wradS_OHMc=h310",
+        "//lh3.googleusercontent.com/qQHlhOlCco1LV3a0cD_j7bb6Bq1FzrFbC-cFeO4iSGKJW0988PkKtKubOeD-LBDnzA=h310",
+        "//lh3.googleusercontent.com/JHSLNDpfVREj3yjpiVwmGpDBTmyGxzjZSgKliD_3tGA0KTp9OVDaz53rHNxATHWcSAo=h310"
+    ],
+    "comments": [
+        "Watch UI needs work Using this on my Huawei watch is difficult/confusing.  You get the units lined up and then it seems to be a random sequence of touches to get it to do anything. Tap? Long press? Where? Occasionally, I get it to go to the convert screen, but most of the time I don't. This is a good idea, but not executed sufficiently.",
+        "It does what I need but Design of the app is really raw. Text is chopped by free space on my round watch, and selected units are not highlighted",
+        "Good but could be better The main thing that makes it a four is the fact that it doesn't acknowledge what two units you have selected",
+        "Sounds great, but doesn't work. The scrolling is stuck, and I wasn't able to select Celsius in order to compare to Fahrenheit.",
+        "One main problem is tapping the units should highlight them, so you know what you're converting. Other than that, does what it says, petty simply and elegantly.",
+        "Very handy on my LG G watch R, and it always works well. 5 thumbs up!"
+    ],
+    "recentChanges": [
+        "* Updated mobile layouts",
+        "* Updated wear layouts",
+        "* Added Time conversion"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=timothymerlin.unit_converter&hl=en&gl=us",
+    "appId": "timothymerlin.unit_converter"
+}

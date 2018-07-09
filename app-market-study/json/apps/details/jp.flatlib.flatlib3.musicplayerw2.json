@@ -1,0 +1,49 @@
+{
+    "title": "Music Player2 for Android Wear",
+    "summary": "It is an application to perform the music playing in the Android Wear alone. Offline Music is Player.",
+    "icon": "//lh3.ggpht.com/EFItofRgbLnl2Qj_gcdhJhfggdvi0otf8eVSi_5KD_3hhuJ_o4Jxn2nrkl8zvLiM9c8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 18,
+    "developer": "flatlib.jp",
+    "developerId": "flatlib.jp",
+    "developerEmail": "developer@flatlib.jp",
+    "developerWebsite": "http://dench.flatlib.jp/app/musicplayerw",
+    "updated": "February 7, 2015",
+    "version": "2.0.1",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Android Wear デバイスだけで音楽再生を行うアプリです。オフライン再生できます。再生には Bluetooth ヘッドホンまたは Bluetooth スピーカーが必要です。Android 4.4W.2 で音楽再生機能が追加されましたが、日本では Google Play ミュージックが対応していなかったのでシンプルな再生ソフトを作ってみました。任意のファイルを Android Wear デバイス (Wearable) に転送して再生することができます。機能は最小限でシャッフルプレイしかありません。●再生までAndroid Wear デバイスにはヘッドホン端子がないので、Bluetooth ヘッドホンが必要です。あらかじめペアリングしておいてください。　1. スマートフォン、タブレット側でこのアプリを開き、転送したいファイルを「同期リスト」に追加してください。　2. 同期リストに追加したファイルはバックグラウンドで転送が行われます。アプリを閉じても構いません。　3. Android Wear 側でこのアプリを開き「Play」で再生が始まります。●注意点・Bluetooth による転送は遅いので、最初は必ず 1～2 ファイルの転送を試してください。・新たに追加したファイルを再生するには、一旦 Stop してから Play し直すか「Refresh / 表示の更新」 をタッチします。● 旧バージョン(v1)との違い・データ構造を変更し、曲データ転送中でも完了したファイルから再生できるようになりました。・通知領域での簡易操作に対応しました。・再生中の曲タイトル表示が可能になりました。データ構造に互換性が無いため別アプリにしました。すでに旧バージョンで曲データを転送している方は、そのまま旧バージョンをお使いいただけます。● その他詳しくは下記をご覧ください。http://dench.flatlib.jp/app/musicplayerw",
+    "descriptionHTML": "Android Wear &#x30C7;&#x30D0;&#x30A4;&#x30B9;&#x3060;&#x3051;&#x3067;&#x97F3;&#x697D;&#x518D;&#x751F;&#x3092;&#x884C;&#x3046;&#x30A2;&#x30D7;&#x30EA;&#x3067;&#x3059;&#x3002;&#x30AA;&#x30D5;&#x30E9;&#x30A4;&#x30F3;&#x518D;&#x751F;&#x3067;&#x304D;&#x307E;&#x3059;&#x3002;<br>&#x518D;&#x751F;&#x306B;&#x306F; Bluetooth &#x30D8;&#x30C3;&#x30C9;&#x30DB;&#x30F3;&#x307E;&#x305F;&#x306F; Bluetooth &#x30B9;&#x30D4;&#x30FC;&#x30AB;&#x30FC;&#x304C;&#x5FC5;&#x8981;&#x3067;&#x3059;&#x3002;<br><br>Android 4.4W.2 &#x3067;&#x97F3;&#x697D;&#x518D;&#x751F;&#x6A5F;&#x80FD;&#x304C;&#x8FFD;&#x52A0;&#x3055;&#x308C;&#x307E;&#x3057;&#x305F;&#x304C;&#x3001;&#x65E5;&#x672C;&#x3067;&#x306F; Google Play &#x30DF;&#x30E5;&#x30FC;&#x30B8;&#x30C3;&#x30AF;&#x304C;&#x5BFE;&#x5FDC;&#x3057;&#x3066;&#x3044;&#x306A;&#x304B;&#x3063;&#x305F;&#x306E;&#x3067;&#x30B7;&#x30F3;&#x30D7;&#x30EB;&#x306A;&#x518D;&#x751F;&#x30BD;&#x30D5;&#x30C8;&#x3092;&#x4F5C;&#x3063;&#x3066;&#x307F;&#x307E;&#x3057;&#x305F;&#x3002;<br><br>&#x4EFB;&#x610F;&#x306E;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092; Android Wear &#x30C7;&#x30D0;&#x30A4;&#x30B9; (Wearable) &#x306B;&#x8EE2;&#x9001;&#x3057;&#x3066;&#x518D;&#x751F;&#x3059;&#x308B;&#x3053;&#x3068;&#x304C;&#x3067;&#x304D;&#x307E;&#x3059;&#x3002;<br>&#x6A5F;&#x80FD;&#x306F;&#x6700;&#x5C0F;&#x9650;&#x3067;&#x30B7;&#x30E3;&#x30C3;&#x30D5;&#x30EB;&#x30D7;&#x30EC;&#x30A4;&#x3057;&#x304B;&#x3042;&#x308A;&#x307E;&#x305B;&#x3093;&#x3002;<br><br><br>&#x25CF;&#x518D;&#x751F;&#x307E;&#x3067;<br><br>Android Wear &#x30C7;&#x30D0;&#x30A4;&#x30B9;&#x306B;&#x306F;&#x30D8;&#x30C3;&#x30C9;&#x30DB;&#x30F3;&#x7AEF;&#x5B50;&#x304C;&#x306A;&#x3044;&#x306E;&#x3067;&#x3001;Bluetooth &#x30D8;&#x30C3;&#x30C9;&#x30DB;&#x30F3;&#x304C;&#x5FC5;&#x8981;&#x3067;&#x3059;&#x3002;<br>&#x3042;&#x3089;&#x304B;&#x3058;&#x3081;&#x30DA;&#x30A2;&#x30EA;&#x30F3;&#x30B0;&#x3057;&#x3066;&#x304A;&#x3044;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br><br>&#x3000;1. &#x30B9;&#x30DE;&#x30FC;&#x30C8;&#x30D5;&#x30A9;&#x30F3;&#x3001;&#x30BF;&#x30D6;&#x30EC;&#x30C3;&#x30C8;&#x5074;&#x3067;&#x3053;&#x306E;&#x30A2;&#x30D7;&#x30EA;&#x3092;&#x958B;&#x304D;&#x3001;&#x8EE2;&#x9001;&#x3057;&#x305F;&#x3044;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x300C;&#x540C;&#x671F;&#x30EA;&#x30B9;&#x30C8;&#x300D;&#x306B;&#x8FFD;&#x52A0;&#x3057;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br>&#x3000;2. &#x540C;&#x671F;&#x30EA;&#x30B9;&#x30C8;&#x306B;&#x8FFD;&#x52A0;&#x3057;&#x305F;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x306F;&#x30D0;&#x30C3;&#x30AF;&#x30B0;&#x30E9;&#x30A6;&#x30F3;&#x30C9;&#x3067;&#x8EE2;&#x9001;&#x304C;&#x884C;&#x308F;&#x308C;&#x307E;&#x3059;&#x3002;&#x30A2;&#x30D7;&#x30EA;&#x3092;&#x9589;&#x3058;&#x3066;&#x3082;&#x69CB;&#x3044;&#x307E;&#x305B;&#x3093;&#x3002;<br>&#x3000;3. Android Wear &#x5074;&#x3067;&#x3053;&#x306E;&#x30A2;&#x30D7;&#x30EA;&#x3092;&#x958B;&#x304D;&#x300C;Play&#x300D;&#x3067;&#x518D;&#x751F;&#x304C;&#x59CB;&#x307E;&#x308A;&#x307E;&#x3059;&#x3002;<br><br><br>&#x25CF;&#x6CE8;&#x610F;&#x70B9;<br><br>&#x30FB;Bluetooth &#x306B;&#x3088;&#x308B;&#x8EE2;&#x9001;&#x306F;&#x9045;&#x3044;&#x306E;&#x3067;&#x3001;&#x6700;&#x521D;&#x306F;&#x5FC5;&#x305A; 1&#xFF5E;2 &#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x306E;&#x8EE2;&#x9001;&#x3092;&#x8A66;&#x3057;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br>&#x30FB;&#x65B0;&#x305F;&#x306B;&#x8FFD;&#x52A0;&#x3057;&#x305F;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x518D;&#x751F;&#x3059;&#x308B;&#x306B;&#x306F;&#x3001;&#x4E00;&#x65E6; Stop &#x3057;&#x3066;&#x304B;&#x3089; Play &#x3057;&#x76F4;&#x3059;&#x304B;&#x300C;Refresh / &#x8868;&#x793A;&#x306E;&#x66F4;&#x65B0;&#x300D; &#x3092;&#x30BF;&#x30C3;&#x30C1;&#x3057;&#x307E;&#x3059;&#x3002;<br><br><br>&#x25CF; &#x65E7;&#x30D0;&#x30FC;&#x30B8;&#x30E7;&#x30F3;(v1)&#x3068;&#x306E;&#x9055;&#x3044;<br><br>&#x30FB;&#x30C7;&#x30FC;&#x30BF;&#x69CB;&#x9020;&#x3092;&#x5909;&#x66F4;&#x3057;&#x3001;&#x66F2;&#x30C7;&#x30FC;&#x30BF;&#x8EE2;&#x9001;&#x4E2D;&#x3067;&#x3082;&#x5B8C;&#x4E86;&#x3057;&#x305F;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x304B;&#x3089;&#x518D;&#x751F;&#x3067;&#x304D;&#x308B;&#x3088;&#x3046;&#x306B;&#x306A;&#x308A;&#x307E;&#x3057;&#x305F;&#x3002;<br>&#x30FB;&#x901A;&#x77E5;&#x9818;&#x57DF;&#x3067;&#x306E;&#x7C21;&#x6613;&#x64CD;&#x4F5C;&#x306B;&#x5BFE;&#x5FDC;&#x3057;&#x307E;&#x3057;&#x305F;&#x3002;<br>&#x30FB;&#x518D;&#x751F;&#x4E2D;&#x306E;&#x66F2;&#x30BF;&#x30A4;&#x30C8;&#x30EB;&#x8868;&#x793A;&#x304C;&#x53EF;&#x80FD;&#x306B;&#x306A;&#x308A;&#x307E;&#x3057;&#x305F;&#x3002;<br><br>&#x30C7;&#x30FC;&#x30BF;&#x69CB;&#x9020;&#x306B;&#x4E92;&#x63DB;&#x6027;&#x304C;&#x7121;&#x3044;&#x305F;&#x3081;&#x5225;&#x30A2;&#x30D7;&#x30EA;&#x306B;&#x3057;&#x307E;&#x3057;&#x305F;&#x3002;<br>&#x3059;&#x3067;&#x306B;&#x65E7;&#x30D0;&#x30FC;&#x30B8;&#x30E7;&#x30F3;&#x3067;&#x66F2;&#x30C7;&#x30FC;&#x30BF;&#x3092;&#x8EE2;&#x9001;&#x3057;&#x3066;&#x3044;&#x308B;&#x65B9;&#x306F;&#x3001;&#x305D;&#x306E;&#x307E;&#x307E;&#x65E7;&#x30D0;&#x30FC;&#x30B8;&#x30E7;&#x30F3;&#x3092;&#x304A;&#x4F7F;&#x3044;&#x3044;&#x305F;&#x3060;&#x3051;&#x307E;&#x3059;&#x3002;<br><br><br>&#x25CF; &#x305D;&#x306E;&#x4ED6;<br><br>&#x8A73;&#x3057;&#x304F;&#x306F;&#x4E0B;&#x8A18;&#x3092;&#x3054;&#x89A7;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br>http://dench.flatlib.jp/app/musicplayerw",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 5,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/Z-jBC5bdCACnIWNfxPxaglQv6am7E5qnNbOeZfMwWZbIJQdEvEYMpp9ehKRyucnp5w=h310",
+        "//lh5.ggpht.com/dqY-l5QJrkyUPW8tnzQkEO5V3QG5_kxctcWVw7PQ0xANka9uiKYj4W8G7ksUfmEZ_8U=h310",
+        "//lh5.ggpht.com/zlJfhjKDznMO7VOkwS_9ihqzpqiz8av1UiCHQ6YQhAsh_Ubm5D0pnKanFpYImmJZ1_A=h310",
+        "//lh3.ggpht.com/sKm3m6BLn1aCpot_qQTU6Cg6iSBCxktkFncbkO0eZslEd71-4aaOvcKiqSDSCwLK2H0=h310",
+        "//lh5.ggpht.com/Z2WTfOkczFaWtgDa3ZI0y045uoYxlgHXZKwpKPcgJ2nANH151-DEq73GvQFhUDV3X9E=h310",
+        "//lh4.ggpht.com/MnyVkZFJ0aQf1jxT0J-HW0f81XNaMGcROnVQEZrc_Mz6wrTLIUnwOqrs_OIA0LJJr1g=h310"
+    ],
+    "comments": [
+        "Great app ! Great app. But couldn't find a way to delete songs from the wear device !",
+        "Love this app just needs a 'delete' option"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.musicplayerw2&hl=en&gl=us",
+    "appId": "jp.flatlib.flatlib3.musicplayerw2"
+}

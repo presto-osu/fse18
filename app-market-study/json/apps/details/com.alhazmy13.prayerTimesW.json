@@ -1,0 +1,58 @@
+{
+    "title": "Prayer Times For Android Wear",
+    "summary": "Small app for android wear to display the prayer times.",
+    "icon": "//lh6.ggpht.com/cKl96PNtQAR8r5dZ-IC0R6I_jFPQ_VJa4lc7YG5MzhIre0pKBHU9jusIrHLi5E1sbTs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.6,
+    "reviews": 115,
+    "developer": "Abdullah Alhazmy",
+    "developerId": "Abdullah+Alhazmy",
+    "developerEmail": "alhazmy15@gmail.com",
+    "developerWebsite": "https://twitter.com/alhazmy13",
+    "developerAddress": "Abdullah Mansour Alhazmy\n4489 Maher Bin Ahmad- Alwabra\nUnit No:1\nMedina 42371-7911\nSaudi Arabia",
+    "updated": "October 22, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Prayer Times for android wear is an app that will show you the muslim daily pray schedule based on user location on your watch. Main Features:- Accurate Prayer time calculated based on your current location - Several methods of calculation (for Fajr and Isha).- Various juristic methods (for Asr).- Display the hours with the AM/PM format Or 24 format.- Display the Hijri Calender with name of the day.- Remaining time for the next prayer is mentioned to help you prepare for the prayer in time.- Notifications for prayer times on your watch.- Support Arabic and English language.- More than 10 different colors to customize the screen.More Features are coming soon... This app it`s working only on android wear device This Version is BETAversion , so please before writing any bad comments contact with me via my email: Alhazmy15@gmail.com",
+    "descriptionHTML": "Prayer Times for android wear is an app that will show you the muslim daily pray schedule based on user location on your watch. <br><br><b>Main Features:</b><br>- Accurate Prayer time calculated based on your current location <br>- Several methods of calculation (for Fajr and Isha).<br>- Various juristic methods (for Asr).<br>- Display the hours with the AM/PM format Or 24 format.<br>- Display the Hijri Calender with name of the day.<br>- Remaining time for the next prayer is mentioned to help you prepare for the prayer in time.<br>- Notifications for prayer times on your watch.<br>- Support Arabic and English language.<br>- More than 10 different colors to customize the screen.<br><br>More Features are coming soon...<br><b> This app it`s working only on android wear device </b><br><br><br>This Version is <b>BETA</b>version , so please before writing any bad comments contact with me via my email: <br>Alhazmy15@gmail.com",
+    "histogram": {
+        "1": 5,
+        "2": 3,
+        "3": 7,
+        "4": 6,
+        "5": 94
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/ghg01rGt8QRsCZBatMUZ4WZWjMTMMtq9kw0c0Nso0un4c8i6LWzrcCyt0qMwBRCwGn39=h310",
+        "//lh6.ggpht.com/5uJmGL0TbeIjN1VIeHIcUjg-Ruvu3iCVXI6FNZzOjjXFH4JN7bA49FRG6QUgjEHoDw=h310",
+        "//lh4.ggpht.com/e82wgRRBLu8-cfP7B2K0eDa78uFyWX9TGeanoJmCly4VSbR8Ba9kNA6CJdVJ0gD8LA=h310",
+        "//lh3.ggpht.com/t5aoD0MOIogegEy6sHotLPYWWCTzHr0ekiBC16zyn83ffDEgMyIkf0SMFcX4YvQAIH8=h310",
+        "//lh3.ggpht.com/rCxjN8HOmFQdHTmRp5a9sLCBlnqg6p-i-vn1m89-4uW448zxNQtysIhtQY4-5mmgp_I=h310",
+        "//lh4.ggpht.com/Q0BvLeWHRYRvAIMMK_Af5Pqw3_5oxI21Sloof2Wyq27AHLpYjNm10uyvJ3_LpZPUBw=h310",
+        "//lh6.ggpht.com/R3RmXs-rd4aBpYNKjI-fcbHSN9wGDotrtTkb911wjq4ebsSfBYaPNgfqI0b9LQCwkxfS=h310",
+        "//lh5.ggpht.com/p3llLVpTfi1pNz38jmFDkTWiOZwaVaLii8HF7I04wsxJIZgI7lsgfMnxuofAEvaeX6Ta=h310"
+    ],
+    "comments": [
+        "Would be amazing to work with watch faces on Android wear 2.0. To have the next prayer time on my pre-installed watch faces for my LG watch sport. Hope the dev updates it soon Inshallah",
+        "LG G square watch Great app. But when displaying the time, it cuts the Magrib and Isha time in Arabic. It doesn't render to fit the entire display of the LG G square watch. Please fix. Thanks.",
+        "Need fix JAK for such app. I am using it on LG Watch and found the last two prayers are not fully displayed.  They are cut off. That's all for now.",
+        "It's good, but it could be better... Please can you resize or give option to resize as on Sony Smartwatch 3 it doesn't show Maghrib or Esha Prayer times.",
+        "Great app Need resizing... Magrib and Isha not display properly on resolution 320x320",
+        "Works well on my Moto 360. Very usefull app for Android Wear watches. Barakallahu fiikum"
+    ],
+    "recentChanges": [
+        "Fix \"force close\" problem."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.alhazmy13.prayerTimesW&hl=en&gl=us",
+    "appId": "com.alhazmy13.prayerTimesW"
+}

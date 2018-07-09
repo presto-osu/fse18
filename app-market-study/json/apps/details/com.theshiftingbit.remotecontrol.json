@@ -1,0 +1,55 @@
+{
+    "title": "Wear Remote Settings",
+    "summary": "Control your phone&#39;s settings from your wrist!",
+    "icon": "//lh4.ggpht.com/evTCqcHEBFtk2nJ76Nb0mkTAAP8pbCXK29IWztDadOTZ7T84LcUU49IuNLuuDBJdT4s=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 24,
+    "developer": "Albert J. Lai",
+    "developerId": "Albert+J.+Lai",
+    "developerEmail": "wearremotesettings@gmail.com",
+    "developerWebsite": "http://theshiftingbit.com",
+    "updated": "May 15, 2015",
+    "version": "0.9.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Turn your phone to silent, check your phone's battery level, change your screen's brightness, and manage other settings all from your wrist.  Wear Remote Settings enables you to: - Check your phone's battery level and charging state - Adjust Ringer volume control - Music volume control - Screen brightness - Orientation lock - Turn on and off wifi - Play your ringtone on your phone to help you find it - And more to come - what settings would make your life easier?Switch your phone on silent without digging through your bag, mute the music from a distance, or turn up the brightness while watching a movie. You don't need to take your phone out if you can control it from your Android Wear Device.*** How to use it ***Use the phone app to toggle which settings you want to adjust via your Wear device. Wear Remote Settings shows up as a low priority notification on your Wear so you'll always have access to your phone's settings. You can turn this off from the phone app if you want to hide it. You can also launch Wear Remote Settings by saying \"Start Remote Settings\" or choosing it from Wear's \"start...\" list***Found a bug? Want to see a particular setting in the app? Have general feedback? Please email wearremotesettings@gmail.com",
+    "descriptionHTML": "Turn your phone to silent, check your phone&apos;s battery level, change your screen&apos;s brightness, and manage other settings all from your wrist.  Wear Remote Settings enables you to:<br><br> - Check your phone&apos;s battery level and charging state<br> - Adjust Ringer volume control<br> - Music volume control<br> - Screen brightness<br> - Orientation lock<br> - Turn on and off wifi<br> - Play your ringtone on your phone to help you find it<br> - And more to come - what settings would make your life easier?<br><br>Switch your phone on silent without digging through your bag, mute the music from a distance, or turn up the brightness while watching a movie. You don&apos;t need to take your phone out if you can control it from your Android Wear Device.<br><br>*** How to use it ***<br><br>Use the phone app to toggle which settings you want to adjust via your Wear device. <br><br>Wear Remote Settings shows up as a low priority notification on your Wear so you&apos;ll always have access to your phone&apos;s settings. You can turn this off from the phone app if you want to hide it. <br><br>You can also launch Wear Remote Settings by saying &quot;Start Remote Settings&quot; or choosing it from Wear&apos;s &quot;start...&quot; list<br><br>***<br><br>Found a bug? Want to see a particular setting in the app? Have general feedback? Please email wearremotesettings@gmail.com",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 10,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/x4-VF2YxMb6vTVo2PjLIkKwIQJor7VCY2vZIyUjTO_d_d2QR1LByHC319dscwExb7zw=h310",
+        "//lh3.ggpht.com/pBTW5nColWqt9eWKUUWSR01j_76lI1inLjyY-f54ghqnryUK-Z7B1cJmk6ZSBkZvDR4m=h310",
+        "//lh5.ggpht.com/53kn7g19FItWch-FjyMboSZhqgaRgL1AACMR8fmWZBSwBhmYYaPv8JKC1XbFIIO48Y4=h310",
+        "//lh3.ggpht.com/co7BcwcS3c7jS1sWH-ZlwB4UBhPJmxAY0VCpYbLk88OmLN2arfA8qMoaufAHDRlsUQ=h310"
+    ],
+    "comments": [
+        "Good job It is very good soft ware and i didnot see any problem very thank you and its 6 star",
+        "Very useful, but: Instead of card, make it as launchable app (start menu in wear). It will be more easy to control and use in launchable apps",
+        "Perfect It does what it says. Though an option for disabling / enabling  background mobile data would be appreciated. Thanks."
+    ],
+    "recentChanges": [
+        "0.9.5",
+        "- Battery monitor: tells you how much battery your phone has left",
+        "0.9.4",
+        "- Added \"Read External Storage\" permission, which is needed for the Find My Phone feature if your ringtone is kept on an SD card",
+        "0.9.3",
+        "- Find My Phone: Misplaced your phone? No need to make a friend to call you, tap on Find My Phone to make your phone play your ringtone!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.theshiftingbit.remotecontrol&hl=en&gl=us",
+    "appId": "com.theshiftingbit.remotecontrol"
+}

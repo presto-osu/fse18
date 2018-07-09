@@ -1,0 +1,48 @@
+{
+    "title": "Simpler than Simplicity (Wear)",
+    "summary": "The Simpler than Simplicity Solitaire card game for Android Wear.",
+    "icon": "//lh3.googleusercontent.com/nn6-QIcW_KkDQCoXZn2g0bQJ3iHEogRJiNV-oZvjqg699OynkqP-jhDbHSccOiYQJw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 0,
+    "reviews": 0,
+    "developer": "610Games",
+    "developerId": "610Games",
+    "developerEmail": "support@610games.com",
+    "developerWebsite": "http://www.610games.com",
+    "developerAddress": "29 Matuk Drive\nHyde Park, NY 12538",
+    "updated": "May 1, 2016",
+    "version": "1.0",
+    "genre": "Card",
+    "genreId": "GAME_CARD",
+    "description": "The Simpler than Simplicity Solitaire card game for Android Wear. The simplest version of Solitaire you'll find, perfect for a wrist-friendly 5-minute game. Best of all, the game is completely free!Simper than Simplicity is a simplified version of the Simplicity card game, which is itself a simplified version of Solitaire. The goal of this game is to end up with two stacks of 20 cards each.Cards can only be stacked on top of cards of the same suite, and cards must be stacked in the following order: A, 2, 3, 4, 5, 6, 7, J, Q, K. Once a full stack of 10 (A through K) is achieved, a second Ace can be stacked on top of the King. There are 40 cards in the deck (20 of each suite, two of each card).The game includes an easy mode and a hard mode. *When playing on easy the deck can be cycled; when all of the cards have been drawn, the draw pile can be flipped and the cards can be drawn again in the same order.*When playing on hard the deck cannot be cycled; when all of the cards have been drawn, there is no choice but to use up the cards in the draw pile in reverse order.Hard mode is extremely difficult to master. It takes a lot of practice to achieve a win rate greater than 50%. It is best to play easy mode and try to win without cycling the deck before dedicating oneself to hard mode. This is a game that will challenge you for a very long time!Based on the Timex Datalink Wristapp of the same name by Paulo Marques. Marques has achieved a 90% win rate on hard mode. Can you do the same?",
+    "descriptionHTML": "The Simpler than Simplicity Solitaire card game for Android Wear. The simplest version of Solitaire you&apos;ll find, perfect for a wrist-friendly 5-minute game. Best of all, the game is completely free!<br><br><br>Simper than Simplicity is a simplified version of the Simplicity card game, which is itself a simplified version of Solitaire. The goal of this game is to end up with two stacks of 20 cards each.<br><br>Cards can only be stacked on top of cards of the same suite, and cards must be stacked in the following order: A, 2, 3, 4, 5, 6, 7, J, Q, K. Once a full stack of 10 (A through K) is achieved, a second Ace can be stacked on top of the King. There are 40 cards in the deck (20 of each suite, two of each card).<br><br>The game includes an easy mode and a hard mode. <br>*When playing on easy the deck can be cycled; when all of the cards have been drawn, the draw pile can be flipped and the cards can be drawn again in the same order.<br>*When playing on hard the deck cannot be cycled; when all of the cards have been drawn, there is no choice but to use up the cards in the draw pile in reverse order.<br><br>Hard mode is extremely difficult to master. It takes a lot of practice to achieve a win rate greater than 50%. It is best to play easy mode and try to win without cycling the deck before dedicating oneself to hard mode. This is a game that will challenge you for a very long time!<br><br>Based on the Timex Datalink Wristapp of the same name by Paulo Marques. Marques has achieved a 90% win rate on hard mode. Can you do the same?",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/5SeG6eYMvaOn5Y9J0NfqXDYJw81hBzCcEhmupNF935pCuLhZGG5hLHv9IRnvkiVwLs9P=h310",
+        "//lh3.googleusercontent.com/_MrX2ekUzvIrkvf_sGzQXu-0bAP4epaUr7kx6qgbR7v3KZWnD3_nH4tIF0AUFz1Pxw=h310",
+        "//lh3.googleusercontent.com/8S_DaWoP06LEbw1DKJtMIVU3wxizGZzrBmkF0aOKSwDh0NPhe-DJ3xp9r1BFrLVF5se4=h310",
+        "//lh3.googleusercontent.com/LLZ1pX5ClxIeXKvwQUf6Iex89JFwlt475o4z5WUQnN2aNMianw3Hl-VIj8Jnpww88v4=h310"
+    ],
+    "video": "https://www.youtube.com/embed/3KCtnnbGb7c",
+    "comments": [],
+    "recentChanges": [
+        "Added support for more devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wear.ssimple&hl=en&gl=us",
+    "appId": "com.wear.ssimple"
+}

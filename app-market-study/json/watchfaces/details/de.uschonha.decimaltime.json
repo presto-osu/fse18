@@ -1,0 +1,49 @@
+{
+    "title": "Decimal Time Watch Face",
+    "summary": "Feel like a lost Time Traveler with this Artifact from the Future.",
+    "icon": "//lh3.googleusercontent.com/R1ZTTTMdxa_JciBgWKkIcmnADwTjKKsJkldw1tGhYy_NKtHDVUJf-4KIj8MkUCW3G1E=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 6,
+    "developer": "Ulrich Schonhardt",
+    "developerId": "Ulrich+Schonhardt",
+    "developerEmail": "schonhardt@gmail.com",
+    "developerAddress": "Gluckstr. 5\nKarlsruhe, 76185\nGermany",
+    "updated": "June 15, 2017",
+    "version": "2.0.34",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Decimal Time is a designer watch face for Android Wear smartwatches.A Time Traveler from the Future lost his wrist watch here on Earth. After weeks of intense scrutiny I figured out how to read this watch:How to read decimal percent time:0% is midnight 00:00 hours.25% is 6 a.m. Good morning.33.33% is 8 a.m, 08:00 hours.50% is noon, 12:00 hours.66.67% is 4 p.m., 16:00 hours.75% is 6 p.m., 18:00 hours.99.99% is before midnight again, 23:59 hours.The unit, 1% of day, is called one centiday, that's 14.4 old minutes.The last digit on the right is 8.64 old seconds.The timer tick of the future is 1 decisecond, that's 864 old milliseconds.The animated outer ring reminds us of the fact that Earth rotatescounter-clockwise when you look down on the North Pole from Orbit.Settings for Background Color, Date On/Off and Gradient On/Off on Watch.Tap Gear icon on watch for Settings.Ambient Screen protects your OLED display from burn-in via random.Additional Date info line contains battery level in %.",
+    "descriptionHTML": "Decimal Time is a designer watch face for Android Wear smartwatches.<br><br>A Time Traveler from the Future lost his wrist watch here on Earth. <br>After weeks of intense scrutiny I figured out how to read this watch:<br><br>How to read decimal percent time:<br><br>0% is midnight 00:00 hours.<br>25% is 6 a.m. Good morning.<br>33.33% is 8 a.m, 08:00 hours.<br>50% is noon, 12:00 hours.<br>66.67% is 4 p.m., 16:00 hours.<br>75% is 6 p.m., 18:00 hours.<br>99.99% is before midnight again, 23:59 hours.<br><br>The unit, 1% of day, is called one centiday, that&apos;s 14.4 old minutes.<br><br>The last digit on the right is 8.64 old seconds.<br><br>The timer tick of the future is 1 decisecond, that&apos;s 864 old milliseconds.<br><br>The animated outer ring reminds us of the fact that Earth rotates<br>counter-clockwise when you look down on the North Pole from Orbit.<br><br>Settings for Background Color, Date On/Off and Gradient On/Off on Watch.<br>Tap Gear icon on watch for Settings.<br><br>Ambient Screen protects your OLED display from burn-in via random.<br><br>Additional Date info line contains battery level in %.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/AazHZP6BX1dVvwA3Uo1ckirv_f9z8Qtx_bm8M4tl7XLF1B1ov5xPV00YDgwsrETDP8E=h310",
+        "//lh3.googleusercontent.com/z285urHuA_EcEgM3IN_S6_T6xHNFNrYAGcyyJGlZdHD4bZ5DWGWiluR-M95RL-sgJVA=h310",
+        "//lh3.googleusercontent.com/0T7quchrjZQ9SEa_UQFbD4jlbPcMXwCqDznSyaWkEFSFTDfYun1agBAkR6FUmy8b4Lv6=h310",
+        "//lh3.googleusercontent.com/KfaG2e5tNToz6pna1T8wPvOto7D-zSYWjwhDBvfZEJ4pU3AIWrBJ7xpGm0-dWm9aEg=h310",
+        "//lh3.googleusercontent.com/eLX5Xzr_HdZmItMmB6tZ3Sug_UED2QXVu6ZCpXHrn_IiM7RZ3a9AdWmp9gvenXPEKtc=h310",
+        "//lh3.googleusercontent.com/5MSwaxa4yozCXldTbSLE56ODh2x_qqww273hHIsu4tIIyAWkhDgt6jnKYW3mFIfLUxVi=h310",
+        "//lh3.googleusercontent.com/zYhOVIDkzI8EdQixYb8ZNppdW4djWKPMaEk7kYmUHBefPhMEyFoSmOZNxLUgzP4OZ7qR=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "* Wearable support library 2.0.3"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.uschonha.decimaltime&hl=en&gl=us",
+    "appId": "de.uschonha.decimaltime"
+}

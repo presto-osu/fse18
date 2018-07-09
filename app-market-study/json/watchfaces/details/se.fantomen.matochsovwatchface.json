@@ -1,0 +1,43 @@
+{
+    "title": "Mat och sov Watch Face",
+    "summary": "Watch face inspired from Skalmans &quot;Eat and Sleep watch&quot;/&quot;Mat och sovklocka&quot;.",
+    "icon": "//lh3.googleusercontent.com/ybFSRt5y7rLlSxPlBf5QU8UW0og0AejJgWC2Ux7vq2NKuh72PAA3UNN3x0V9iCTM9zE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "Fantomen",
+    "developerId": "Fantomen",
+    "developerEmail": "olalidmark@gmail.com",
+    "developerAddress": "Strandgatan 23\n83133 Östersund\nSWEDEN",
+    "updated": "May 20, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch face inspired from the cartoon figure Skalman and his Eat and Sleep watch, called \"Mat och sovklocka\" in Swedish.You will be notified when it is time to eat or sleep. You will not be notified during the night hours.",
+    "descriptionHTML": "Watch face inspired from the cartoon figure Skalman and his Eat and Sleep watch, called &quot;Mat och sovklocka&quot; in Swedish.<br><br>You will be notified when it is time to eat or sleep. You will not be notified during the night hours.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/plp8E89JL25LgRXyF093w7MrJF8onAs0XT1M7y2nGGd88fOO48dWS5sWg3FPKvKeGA4=h310",
+        "//lh3.googleusercontent.com/f_Z8P51wXqmoo86GL7xCkBwM7XvS2DItgcCSPPVlfXkHa4HJG3t3CkLpN1bqp6Lx6ZU=h310",
+        "//lh3.googleusercontent.com/m1g2Vt_k_DOozwUN-9p4ryHm4lDtt7ZMXYtr2gPP6OWRhHhAZZCm3iF9u6NXeEEVWw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.fantomen.matochsovwatchface&hl=en&gl=us",
+    "appId": "se.fantomen.matochsovwatchface"
+}

@@ -1,0 +1,66 @@
+Soot started on Thu Jun 21 13:06:42 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: fr.thema.wear.watch.phantom.WatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/fr.thema.wear.watch.phantom.apk
+[INFO] MySceneTransformer: ############## fr.thema.wear.watch.phantom.WatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   135
+[INFO] FlowGraph: @@@@ Total Methods: 580
+[INFO] FlowGraph: @@@@ Total Stmts:   13802
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[fr.thema.wear.watch.phantom.WatchFaceService$Engine]2364,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[fr.thema.wear.watch.phantom.WatchFaceService$Engine]2364,-1)]
+[INFO] MySceneTransformer: onSensorChanged: {<fr.thema.wear.watch.phantom.WatchFaceService$Engine: void onSensorChanged(android.hardware.SensorEvent)>=[(unregister_sensor_listener,This[fr.thema.wear.watch.phantom.WatchFaceService$Engine]2364,-1)]}
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[fr.thema.wear.watch.phantom.WatchFaceService$Engine]2364,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[fr.thema.wear.watch.phantom.WatchFaceService$Engine]2364,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[fr.thema.wear.watch.phantom.WatchFaceService$Engine]2364,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[fr.thema.wear.watch.phantom.WatchFaceService$Engine]2364,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1_9=[-1], $r3=[-12434878]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1_3=[-1], $r1_9=[-1], $r1_5=[-1], $r1_4=[-1], $r1_8=[-1], $r3=[-12434878], $r1_9=[1879048191], $r1_1=[-1], $r1=[-1], $r1_2=[-1]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 7.954000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:06:54 EDT 2018

@@ -1,0 +1,52 @@
+{
+    "title": "Watch Face GYS",
+    "summary": "Interactive, custom watch face menu, background colors and more other options.",
+    "icon": "//lh3.googleusercontent.com/XQ-IHI2CNOlQTocqLPLeBLtKbBMI54m1Oe7qjMTXtQCjlWyUSMri47NO0hp4P0ebOA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 6,
+    "developer": "Mobi Market Labs",
+    "developerId": "5223430743382074343",
+    "developerEmail": "support@mobimarketlabs.com",
+    "developerWebsite": "https://mobimarketlabs.com",
+    "developerAddress": "proizd Voenniy 6\nKherson, Khersons'ka oblast 73000\nUkraine",
+    "updated": "October 28, 2016",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch face (GYS - Gray + Yellow + Sport) for smartwatches with:- steps counter;- battery level(watch/smartphone);- smartphone state info (Vibro; WiFi/Data connection);- missed calls and SMS counters;- launcher apps from smartwatch on smartphone; - built-in calendar;- stopwatch with tachymeter;- steps-B counter;- second time (GMT timelines);- custom background colors (gradient, 2 colors);- custom watch hands;Working fine on oldest and newest models on any screen (round/square).Warning: this watch face ONLY for ANDROID WEAR smartwatches.Configuration supported languages- English- Français- Deutsch- Українська- Русский- 中文 （繁體）Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.",
+    "descriptionHTML": "Watch face (GYS - Gray + Yellow + Sport) for smartwatches with:<br>- steps counter;<br>- battery level(watch/smartphone);<br>- smartphone state info (Vibro; WiFi/Data connection);<br>- missed calls and SMS counters;<br>- launcher apps from smartwatch on smartphone; <br>- built-in calendar;<br>- stopwatch with tachymeter;<br>- steps-B counter;<br>- second time (GMT timelines);<br>- custom background colors (gradient, 2 colors);<br>- custom watch hands;<br><br>Working fine on oldest and newest models on any screen (round/square).<br>Warning: this watch face ONLY for ANDROID WEAR smartwatches.<br><br>Configuration supported languages<br>- English<br>- Fran&#xE7;ais<br>- Deutsch<br>- &#x423;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x441;&#x44C;&#x43A;&#x430;<br>- &#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;<br>- &#x4E2D;&#x6587; &#xFF08;&#x7E41;&#x9AD4;&#xFF09;<br><br>Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/wnzypZypad1uPUkerDqZB0wjZgCEaZWVpJ4wwMpOhNYFVC3VErtM6lFrCDXsLLCvZSqE=h310",
+        "//lh3.googleusercontent.com/eFdb2khcXCqpY_q91AWM263l-k_HkAK-3YITNK9ih1x-Qr7Of9hkdtsyg4YgwCQ9_6I=h310",
+        "//lh3.googleusercontent.com/WVQ3c2ffHr1TST5XrOlfxmLpvCHLhB1H4zoiOhHZiydjIy6_mwAB18RO8vChg5leNQ=h310",
+        "//lh3.googleusercontent.com/ofrM25g-AYTVB-M3xFUKYPmRauEep5hZbcT8acLrrYyL-CGfFFVR6bLBJSjpAhWfOnI=h310",
+        "//lh3.googleusercontent.com/4IsfWTafJl_I_Y4VLN3G0jFRD2oZ0DAS70E2A91mBIv_pD7AJD9Tvg410Rm8dazJ4A=h310",
+        "//lh3.googleusercontent.com/zd4FCkzaIEunjy5GDq8b08E8GSRyPrftNnWLO1dcokVyHlCFdrFuOqe63gtYsflh0CJk=h310"
+    ],
+    "comments": [
+        "Crashes. Will not load on to watch. Will not load. Burns up watch battery and unable to set or load."
+    ],
+    "recentChanges": [
+        "- new hour marks (3 types for yellow and white colors);",
+        "- small bug fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mobimarketlabs.gy&hl=en&gl=us",
+    "appId": "com.mobimarketlabs.gy"
+}

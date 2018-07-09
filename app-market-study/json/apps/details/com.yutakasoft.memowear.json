@@ -1,0 +1,54 @@
+{
+    "title": "MemoWear",
+    "summary": "MemoWear - I&#39;m developing Towards a handy app that can be worn on the body.",
+    "icon": "//lh4.ggpht.com/HyXwEYCjETgUFCTD-53QbsXKZx5wK3B5wyRiKn-NGswNaRV1y9UkbQLXW8DOSYm6plc5=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "yutakasoft",
+    "developerId": "yutakasoft",
+    "developerEmail": "sales@yutakasoft.com",
+    "developerWebsite": "http://www.yutakasoft.com/",
+    "developerAddress": "512-2 Kitairiso Sayama-Shi Saitama-Prf Japan",
+    "updated": "July 14, 2014",
+    "version": "1.0.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "MemoWear - I'm developing Towards a handy app that can be worn on the body.It is an application to prevent the shopping forget.It will tell you what note when you register the location and contents note, it was run close. When you approach the 500m radius from the registration location, and vibration notification will sound. Vibration seems to be not installed the Nexus 7. In addition, notification sound, seems to be the initial value 0 (setting not sound).< < Coming Soon ! > >You can check it without removing the smartphone or tablet by Android Wear.",
+    "descriptionHTML": "MemoWear - I&apos;m developing Towards a handy app that can be worn on the body.<br>It is an application to prevent the shopping forget.<br>It will tell you what note when you register the location and contents note, it was run close. <br>When you approach the 500m radius from the registration location, and vibration notification will sound. <br>Vibration seems to be not installed the Nexus 7. <br>In addition, notification sound, seems to be the initial value 0 (setting not sound).<br>&lt; &lt; Coming Soon ! &gt; &gt;<br>You can check it without removing the smartphone or tablet by Android Wear.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/zxEQa65sr7kRQyQTRMmTEN-_v_px_WcGQ6kRv7Gr7mFlhk1SKCVghxu_61bacKQjY3U=h310",
+        "//lh6.ggpht.com/WcyqQr_2CMOO-bMTEeJT-zmoU6QN2QxcUgLG-jKUvyRMOQ3mhFCOHq_dCsqaGFN_d4o=h310",
+        "//lh3.ggpht.com/Q85kOMpM8qQVtH5XCZ_qLsN29A65g9r240pOBxsD2TSwHX-GF6bbrO_skyVFr9Lrqg4=h310",
+        "//lh6.ggpht.com/3-B7KnOFD8Oct3nvdSG_7i9Jnnxn433qwC9sqMFTlqcQRCI6awUloULJCi54Gh1_l34=h310",
+        "//lh3.ggpht.com/Q5XBJCS0kyNBQWdzuCgX-Ey8QSTIUDr6zHIcNkAu1uaqLV5j_gUVvUbOglv8p_XzPg=h310",
+        "//lh6.ggpht.com/ArPc8yHHDJy5PZ1TjPE88ni6dYacz_SFQWCp2Ivs3G5d_vD3HX5bJwHCwBt2itVfU48=h310",
+        "//lh3.ggpht.com/4gFb5y3ouh6bPYCq72ZBr9ygRnW-F3XQ48SbDqANdIljIzQUG--LMTbMOViDh26sFx8_=h310",
+        "//lh6.ggpht.com/t8odzb2DA2-welQU9BJleJkNVXhyatMwAXtaZX3tys-NrXbl2kLSmbSIEi1O8KTXBLM=h310"
+    ],
+    "comments": [
+        "Crashes Map opens up over Tokyo when I make a memo, no easy way to center over my location.  Doesn't even seem to start location services.  When I try to save a memo it crashes.  REALLY nice idea though, it is like manually forcing Google now's location-aware reminders.  Wish it worked for me.  LG G Watch, nexus 5."
+    ],
+    "recentChanges": [
+        "・機能追加　地図上でのアドレス入力による検索機能追加",
+        "・不具合対応　地図上で位置を指定していない場合はエラーメッセージを表示"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.yutakasoft.memowear&hl=en&gl=us",
+    "appId": "com.yutakasoft.memowear"
+}

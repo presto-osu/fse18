@@ -1,0 +1,58 @@
+{
+    "title": "KOKO (Screen timeout) for Wear",
+    "summary": "Change Android Wear screen timeout! Keep On Keeping On keeps your screen on!",
+    "icon": "//lh3.googleusercontent.com/-hjXaMEWkc6bVAInffxk19_nk1GNuBvBGd-GgQP-m-cMNxIuqSJ3CvA4CwOA5MG8mGM=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.4,
+    "reviews": 50,
+    "developer": "Cloudy Day Apps",
+    "developerId": "Cloudy+Day+Apps",
+    "developerEmail": "cloudydayapps@gmail.com",
+    "developerAddress": "P.O. Box 100276\nCape Coral, FL 33910",
+    "updated": "August 12, 2017",
+    "version": "Varies with device",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "size": "Varies with device",
+    "description": "Now works on Android Wear 2.0, with companion app support for multiple wear-ables!The default screen timeout interval on Android Wear is too short!Having such a short timeout makes it difficult to perform tasks that require pauses or to demonstrate features for an audience.Using KOKO (Keep On Keeping On) you can keep your Android Wear screen on longer!Choose from many timeout options ranging from 5 seconds to 2 hours. Or keep your screen on indefinitely!Please allow a few minutes for the app to be installed on the wearable after installing to mobile device.Please be aware that setting a long screen off time will affect your battery life.KOKO can not make your screen turn off sooner than the devices default timeout, only later.Intervals less than your default timeout will not work, only intervals greater than your default.Use wrist gesture controls to set your screen on time without touching the watch.Host companion app allows setting Android Wear screen on time from phone or tablet.More options and better value than similar apps.Feel free to message us with requests for timeout intervals if you can't find one that works for you.",
+    "descriptionHTML": "Now works on Android Wear 2.0, with companion app support for multiple wear-ables!<br><br>The default screen timeout interval on Android Wear is too short!<br>Having such a short timeout makes it difficult to perform tasks that require pauses or to demonstrate features for an audience.<br><br>Using KOKO (Keep On Keeping On) you can keep your Android Wear screen on longer!<br>Choose from many timeout options ranging from 5 seconds to 2 hours. Or keep your screen on indefinitely!<br><br>Please allow a few minutes for the app to be installed on the wearable after installing to mobile device.<br><br>Please be aware that setting a long screen off time will affect your battery life.<br><br>KOKO can not make your screen turn off sooner than the devices default timeout, only later.<br>Intervals less than your default timeout will not work, only intervals greater than your default.<br><br>Use wrist gesture controls to set your screen on time without touching the watch.<br><br>Host companion app allows setting Android Wear screen on time from phone or tablet.<br><br>More options and better value than similar apps.<br><br>Feel free to message us with requests for timeout intervals if you can&apos;t find one that works for you.",
+    "histogram": {
+        "1": 5,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 40
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/m6E2cZXfHPO_6cEp68pGwmsvVb-jKh6xHbDnB-ByoJk2eT0VYoImsHMUERHSM_DtC50e=h310",
+        "//lh3.googleusercontent.com/Pf54GllONTOvWMN7MkFF3ftRR2tVQ_8oLnkQwHUfR4zk5vKU3I8IGvGCjfa0mD8jwg=h310",
+        "//lh3.googleusercontent.com/de6ivwYGdHti_EqOchT7OGbTKsyTZ952LSmzi-jYKr5iXzbAunj3yd48SuuzcZ4ciA=h310",
+        "//lh3.googleusercontent.com/eq8RYBTupM7L7EzJ46-2fdK0R5-GyrGLhX-usT7rREcFmVmpfEsinlqfiH5yUYhapDc=h310",
+        "//lh3.googleusercontent.com/CylfEhhaAhcVBn__aLW6DjHdxAcRcKJEriCmiRv_FSru384mnaY-ddjsL0kGgEEe-WrE=h310"
+    ],
+    "comments": [
+        "Had this a while and it doesn't see my watch at all. This is the only app that doesn't see my watch. Was looking forward to trying this out, but guess it's not for me.",
+        "Like the app, but don't like the constant notification when swiping up. How can this be removed. Thank you",
+        "Updated. New release works as advertised on wear 2.0 Very useful. Makes it so much easier to show off my watch face",
+        "Works perfectly on the Huawei Watch!",
+        "Used to work perfect. Used to work perfect.  Buggy for sure since updates.",
+        "Buggy after Update Since the last update the app keeps ignoring the timeout I set - the screen dims after the default five seconds instead."
+    ],
+    "recentChanges": [
+        "Updated for Android Wear 2.0, still works with Android Wear 1.+",
+        "Added multi-device support for the companion application",
+        "Companion application support for devices running Jelly Bean or later",
+        "Other bug fixes and optimizations"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=day.cloudy.apps.koko&hl=en&gl=us",
+    "appId": "day.cloudy.apps.koko"
+}

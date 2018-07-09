@@ -1,0 +1,54 @@
+{
+    "title": "Watch Face Nixie Tubes",
+    "summary": "Steampunk Nixie Tubes Watch Face for Android Wear clock",
+    "icon": "//lh3.googleusercontent.com/FytX29ilzz4u2pPcJdifHhzRnZaRe6wfBY79vGi0Jhm7vDgzNkvrVoqTSF7-Q31mNhGX=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 41,
+    "developer": "Rabbit Design",
+    "developerId": "7611979703967153035",
+    "developerEmail": "rab4dis@gmail.com",
+    "developerAddress": "Minsk, Cherviakova 61-1",
+    "updated": "March 9, 2016",
+    "version": "1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Pimp your watch with Steampunk Nixie Tubes Watch Face. Clean and fast digital interface for everyday use.FEATURES:- 12/24 auto-format- High Resolution Design- Round and Square watches SupportINSTRUCTION:1. Install Watch Face2. Wait a minute2. Go to Android Wear Application3. Choose Nixie Tubes Watch Face4. Enjoy!The Nixie Tubes watchface has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "descriptionHTML": "Pimp your watch with Steampunk Nixie Tubes Watch Face. Clean and fast digital interface for everyday use.<br><br>FEATURES:<br><br>- 12/24 auto-format<br>- High Resolution Design<br>- Round and Square watches Support<br><br>INSTRUCTION:<br><br>1. Install Watch Face<br>2. Wait a minute<br>2. Go to Android Wear Application<br>3. Choose Nixie Tubes Watch Face<br>4. Enjoy!<br><br>The Nixie Tubes watchface has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "histogram": {
+        "1": 5,
+        "2": 2,
+        "3": 4,
+        "4": 10,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/z0pKx_MdXcE24liG3fmvIf6-RmxpkTgVSeKV3WVpPWzWKwTFj80LSbPRj_tWlhUBic8=h310",
+        "//lh3.googleusercontent.com/mFaCSKLin0_yl64ptIiOh6tPJ46P-BEBFzNEgB-3V3_fBwFrMhAXllIpdODVIx3xtA=h310",
+        "//lh3.googleusercontent.com/qJoMXyH8QQKtJ9-2o58zXW8YJgebet7ouoC_C_NeTwRkaRjEHSpJ7dXKmqn_Mg8VqmCV=h310"
+    ],
+    "comments": [
+        "Nice design For those of us without amoled displayed, any chance you could re-add the option for the full watch face in ambient mode?",
+        "Basic but works and looks great on my round faced watch; however, on my square faced watch, it looks offset and the first and last digits are smaller. It wasn't like that before but a couple months ago it changed and hasn't been fixed, yet.",
+        "Great looking. One of the nicest nixie tube faces out there.",
+        "Only displays 24 hour format. Ambient mode not an option. No seconds.",
+        "Cool",
+        "Does not work!!!!!  S6 with moto 360!! Followed instructions waited multiple minutes.  Closed and restarted everything and nothing showed up.  Probably a scam."
+    ],
+    "recentChanges": [
+        "+ Added manual settings for time (12/24) formats",
+        "+ Some fixes for Moto 360 (2nd Generation) and Huawei Watch",
+        "Please, don't forget to Rate It ★★★★★"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rabbitstudio.watchface.nixie&hl=en&gl=us",
+    "appId": "com.rabbitstudio.watchface.nixie"
+}

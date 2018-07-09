@@ -1,0 +1,48 @@
+{
+    "title": "Compass Navigation for Wear",
+    "summary": "Simple and beautiful compass navigation on your Android Wear smartwatch.",
+    "icon": "//lh3.googleusercontent.com/JgvfJHSLZAjISHPecEVoZ3lF4PmX8rA-CMtrkKJLGSTvfyLVMN4O3rryPTCgalZLTUw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 17,
+    "developer": "craft apps",
+    "developerId": "craft+apps",
+    "developerEmail": "contact@wearnavigation.com",
+    "developerWebsite": "http://www.wearnavigation.com",
+    "developerAddress": "12 George Hudson Tower\n28 High Street\nE15 2PL London",
+    "updated": "July 5, 2015",
+    "version": "1.0.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "It's simple: Just enter a destination on your phone. Then use your watch to navigate. A compass points to  your destination. You can enter addresses or coordinates.This app is ideal for navigation while cycling, hiking or for geo caching.NOTE: - The general accuracy depends on the sensors of the watch. - The app has different calibration features to improve the accuracy of the watch compass.  - Currently, you need your phone to enter a destination. - If your watch has a a magnetic sensor and GPS you don't need your phone to be connected to the watch while navigatingPlease contact contact@wearnavigation.com if you have any issues or questions.",
+    "descriptionHTML": "It&apos;s simple: Just enter a destination on your phone. Then use your watch to navigate. <br>A compass points to  your destination. You can enter addresses or coordinates.<br><br>This app is ideal for navigation while cycling, hiking or for geo caching.<br><br><br>NOTE:<br><br> - The general accuracy depends on the sensors of the watch.<br><br> - The app has different calibration features to improve the accuracy of the watch compass. <br><br> - Currently, you need your phone to enter a destination.<br><br> - If your watch has a a magnetic sensor and GPS you don&apos;t need your phone to be connected to the watch while navigating<br><br>Please contact contact@wearnavigation.com if you have any issues or questions.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 4,
+        "4": 1,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nE1jLWwDGd_t5y_dl1fB_m9gnwQZQeR5AwlhrpvUMd3q2caJ1YHqovEAge_TX8Ez0Ws=h310",
+        "//lh3.googleusercontent.com/OaT-KEqJtt1Td8cSkwEBJxywroexudShV9QvCPaQRb1plq_Mtj_V7eFMEg4cs7EaZL9o=h310",
+        "//lh3.googleusercontent.com/jlKorUp0dntXw2HaQpmh4zaLURkq0x0Yt8OZL6F-o3esjN6S3ZT3pKXSmIJb8E5VaUg=h310",
+        "//lh3.googleusercontent.com/G_Lz3l91yLLj3MGeAlSAY1N4XTtOHO112gxUsnyH4fIgzlSCN5IsKbEqac44QSpEkSQ=h310",
+        "//lh3.googleusercontent.com/DgtrsGsA0BM6Hppjagb5MOHDaNvAXQqQYoJ4xSgs10MBuO_2M5tBi_PeQ0DlRkASXS8=h310"
+    ],
+    "comments": [
+        "Nice and simple Just show me the general direction without buzzing and talking"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wearnavigation&hl=en&gl=us",
+    "appId": "com.wearnavigation"
+}

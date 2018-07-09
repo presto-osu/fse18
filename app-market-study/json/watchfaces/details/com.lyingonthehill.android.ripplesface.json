@@ -1,0 +1,53 @@
+{
+    "title": "Ripples Watchface",
+    "summary": "Your new colorful Watchface, with ripples of ink that count seconds!",
+    "icon": "//lh3.ggpht.com/Q-lOobYuoI0HtaJGbiCIBjdRgmU_G-RwozCgBkfbpwQ_-6Xj95PV-V-0WcsBUCSAugg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 19,
+    "developer": "LyingOnTheHill Studio",
+    "developerId": "LyingOnTheHill+Studio",
+    "developerEmail": "corsalini.david@gmail.com",
+    "developerAddress": "Via G.Stoppoloni, Camerino (MC), Italia",
+    "updated": "January 17, 2015",
+    "version": "202release",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "A Watchface for Android Wear, inspired by Material Design.Seconds are shown with ink ripples in wonderful colors that change during the day.Once installed select this Watchface from the watch or with the provided application.With the Ripples application on your handheld you can configure the Watchface with different palettes of colors, inspired by  pop culture and football teams (rugby, basketball and football are coming) and choose where to create Ripples (randomly or where a seconds hand should be).",
+    "descriptionHTML": "A Watchface for Android Wear, inspired by Material Design.<br><br>Seconds are shown with ink ripples in wonderful colors that change during the day.<br><br>Once installed select this Watchface from the watch or with the provided application.<br><br>With the Ripples application on your handheld you can configure the Watchface with different palettes of colors, inspired by  pop culture and football teams (rugby, basketball and football are coming) and choose where to create Ripples (randomly or where a seconds hand should be).",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 3,
+        "4": 6,
+        "5": 9
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/s-0bbcL-DSy6zM_wFsilszgIF86_TjimXBd93Lb2Y_8MY8M5AKnfo8Q_F65Jc8-1Bog=h310",
+        "//lh6.ggpht.com/OPCRi7SEKPVoMyf_FPDlQobscn7vwmUwEbMXtY8S8FIKbx8iDTnMhcloQv4Bw5XFoA=h310",
+        "//lh4.ggpht.com/Uj0_s5MPJBk2lN-61Pp8v4S4KMBouYRYAhsjYq50nCdcpR4AuSVPzZvkAr8qS3lIYA=h310",
+        "//lh4.ggpht.com/YmhtDRfhiYK3k2_wkoa3VnEhwexlq5o0NJzzNqdQw3jZtvNVE0ZDsbu8-aDra6uSiv0e=h310"
+    ],
+    "comments": [
+        "Love it Beautiful Material design. Will be buying pro soon. Mabey add slight customization options on the wearable.",
+        "Nice and simple.... With a touch of colour... Good job!!",
+        "I want to select my own color scheme. Cool concept."
+    ],
+    "recentChanges": [
+        "-a brand new configuration screen",
+        "-12/24 hour format mode",
+        "-a new mode where Ripples appear where the seconds hand should be.",
+        "-48 new Watchfaces"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.lyingonthehill.android.ripplesface&hl=en&gl=us",
+    "appId": "com.lyingonthehill.android.ripplesface"
+}

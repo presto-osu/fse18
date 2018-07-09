@@ -1,0 +1,49 @@
+{
+    "title": "Santander Watch",
+    "summary": "Take your bank Santander wrist Watch.",
+    "icon": "//lh3.googleusercontent.com/SfkA7gq4DEgvTvzUdHCN81uF-sEOYVP4jTUqEt6POghDsK-rheQNTZ226fNQfA72hA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 2.9,
+    "reviews": 51,
+    "developer": "Banco Santander",
+    "developerId": "5510665875570028949",
+    "developerEmail": "sugerenciasbancamovil@gruposantander.com",
+    "developerWebsite": "http://www.bancosantander.es",
+    "updated": "June 25, 2015",
+    "version": "1.0",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Lleva a tu banco en la muñeca con Santander Watch. Consulta rápidamente desde tu reloj inteligente y con un solo vistazo a tu muñeca las variaciones que hay en tu día a día. Tienes a tu disposición las siguientes funcionalidades: • Consulta de saldos de cuentas y tarjetas de crédito• Consulta en detalle todos los movimientos de cuentas y tarjetas• Consulta de saldo disponible de tus tarjetas de crédito Además, atenderemos personalmente tus consultas desde nuestra cuenta de twitter en @santander_respPermisos requeridos:• Conexión WiFi/datos/conexión de red, necesario para verificar el funcionamiento de la app en tu móvil",
+    "descriptionHTML": "Lleva a tu banco en la mu&#xF1;eca con Santander Watch. Consulta r&#xE1;pidamente desde tu reloj inteligente y con un solo vistazo a tu mu&#xF1;eca las variaciones que hay en tu d&#xED;a a d&#xED;a. Tienes a tu disposici&#xF3;n las siguientes funcionalidades:<br> <br>&#x2022; Consulta de saldos de cuentas y tarjetas de cr&#xE9;dito<br>&#x2022; Consulta en detalle todos los movimientos de cuentas y tarjetas<br>&#x2022; Consulta de saldo disponible de tus tarjetas de cr&#xE9;dito<br><br> <br>Adem&#xE1;s, atenderemos personalmente tus consultas desde nuestra cuenta de twitter en @santander_resp<br><br>Permisos requeridos:<br><br>&#x2022; Conexi&#xF3;n WiFi/datos/conexi&#xF3;n de red, necesario para verificar el funcionamiento de la app en tu m&#xF3;vil",
+    "histogram": {
+        "1": 23,
+        "2": 1,
+        "3": 3,
+        "4": 8,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/mX3_WAIH4Mazto-oWdTqBzUqqHx3QkNUXn0EsHlO7w0osVXz6W9WkNqRcvxoM6bPbg=h310",
+        "//lh3.googleusercontent.com/j-aaPi9ROV0UEVZOLopTEdVToT4VsqxJQpXDv57KVOaOcLO2ovmxvXnIRafLQOYiByQY=h310",
+        "//lh3.googleusercontent.com/ttuOH58cgZr72zo-7lsoiEvqxXLT0pGI7X8tJdgELNjoq7qBJZIj5aVYnRtz6NZweCJN=h310",
+        "//lh3.googleusercontent.com/tHKGDPLihNamv214cKAuQbs4ZS1T13Y7k0f2mPpfvXeTBtXg3oLb-a8JV7nkSHItOEUl=h310",
+        "//lh3.googleusercontent.com/vToGE5ARoqSzNZNbeRm0oKkZzYjgxl5AQZY5ZqW_bMN0ga9Q_MtWznf5JLTkp7GRy7U=h310"
+    ],
+    "comments": [
+        "I find it to be much of a disappointment, why wouldn't you implement NFC payments? If it wasn't for that, you'd deserve 5/5.",
+        "No funciona con Tizen...espero la compatibilidad. Se debería cambiar reloj, cambio también el banco!",
+        "Why is there not a English version"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=es.bancosantander.android.sanwear&hl=en&gl=us",
+    "appId": "es.bancosantander.android.sanwear"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Advanced Settings Pro",
+    "summary": "Pro Plugin for Advanced Settings for Android Wear",
+    "icon": "//lh3.googleusercontent.com/HiN_-Bs4kWp7pv7_yMmsFU_-f7-mxt6aHH3aJE9Z3jgvctM9RkOK7V_JyHqYFoibTF8=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 12,
+    "developer": "Emil Suleymanov",
+    "developerId": "Emil+Suleymanov",
+    "developerEmail": "suleymanovemil8@gmail.com",
+    "developerWebsite": "https://github.com/sssemil/Privacy-Policy/blob/master/privacy_policy",
+    "developerAddress": "c/o Mandel\nLinus-Funke-Weg 26\n80995 Munich\nGermany",
+    "updated": "February 6, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "NOTICE: This is first release of this app, so it can be buggy. Just keep that in mind.This plugin installed with Advanced Settings app( https://play.google.com/store/apps/details?id=com.sssemil.advancedsettings ) allows you to (marked with R require root access):-Change screen saver timeout(\"Display\"->\"Screen saver timeout\")-Unpair with parent device(R)(\"Security\"->\"Unpair\")-LCD density(R)(\"Display\"->\"LCD density\")To use it first install Advanced Settings app and then this plugin.",
+    "descriptionHTML": "NOTICE: This is first release of this app, so it can be buggy. Just keep that in mind.<br><br>This plugin installed with Advanced Settings app( https://play.google.com/store/apps/details?id=com.sssemil.advancedsettings ) allows you to (marked with R require root access):<br>-Change screen saver timeout(&quot;Display&quot;-&gt;&quot;Screen saver timeout&quot;)<br>-Unpair with parent device(R)(&quot;Security&quot;-&gt;&quot;Unpair&quot;)<br>-LCD density(R)(&quot;Display&quot;-&gt;&quot;LCD density&quot;)<br><br>To use it first install Advanced Settings app and then this plugin.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/dmOD8q-7BRrQs__6TaiSkMX1Ywfl2My93rCxVrfEqqn_Ma2JeQqauEtgCOTuUYv9sHU=h310",
+        "//lh3.googleusercontent.com/VR9mdWVn-wXhjm8qQ_URABZsjhOziHwYpuHPB1c1gf200go9gTP0vVGisa6VErOvtA=h310",
+        "//lh3.googleusercontent.com/wVebOj0qy8-hsFP6Cg_leXHTke71LPS7tz6PMiBPVWHJsuC25lOU-JEO62GOfe-9G7E=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=sssemil.com.screensavertimeoutplugin&hl=en&gl=us",
+    "appId": "sssemil.com.screensavertimeoutplugin"
+}

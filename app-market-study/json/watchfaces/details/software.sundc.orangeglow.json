@@ -1,0 +1,46 @@
+{
+    "title": "Watch Face - Orange Glow",
+    "summary": "Orange Glow is a simple digital watch face with a moving glowing circle.",
+    "icon": "//lh3.googleusercontent.com/Meu1_Y5aiO50OwPt91Px_7xWYkslakYxvthTPIaE1Nf-_-1iNJ-vFiuQq965JYD2mnM=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 5,
+    "reviews": 1,
+    "developer": "S&C Software",
+    "developerId": "S%26C+Software",
+    "developerEmail": "contact@sandc.software",
+    "developerWebsite": "http://www.sandc.software",
+    "developerAddress": "Selim Ok\nSteinfeldweg 10d\n77815 Bühl",
+    "updated": "March 14, 2016",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "If you love digital LCD like interfaces this watch face is for you. While we design this watch face, we tried to focus on readability, simplicity and clearness. Orange Glow shows you only that, what you really need to know; time, date and the battery level. Display elements in this watch face has a slight glowing effect to make them more realistic.Last but not least Orange Glow has a moving circle second indicator at the edge of the watch screen. Thus this watch face is more appropriate for circle formed watches.",
+    "descriptionHTML": "If you love digital LCD like interfaces this watch face is for you. While we design this watch face, we tried to focus on readability, simplicity and clearness. Orange Glow shows you only that, what you really need to know; time, date and the battery level. <br><br>Display elements in this watch face has a slight glowing effect to make them more realistic.<br><br>Last but not least Orange Glow has a moving circle second indicator at the edge of the watch screen. Thus this watch face is more appropriate for circle formed watches.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/uIWf6Y5sYy01S1tiXW2O7KV60HDWlTeqVAyM-RKkTX4_x4BBVvsBvT9Fe0uPiqSzncQ=h310",
+        "//lh3.googleusercontent.com/PbY_DSDCPtcm8bSJj9N4DKWqN7PktAY7fXmS2tODcJq_1yAZieEXrFOca6gNg6HO1g=h310",
+        "//lh3.googleusercontent.com/IDbBsXlv8sOr6NP4uL3N3bTCs4YSz40hERfg_HIVDy7H1VpvpFXYzqIF9o9_OV6kbqoy=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Position of the battery indicator is fixed."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=software.sundc.orangeglow&hl=en&gl=us",
+    "appId": "software.sundc.orangeglow"
+}

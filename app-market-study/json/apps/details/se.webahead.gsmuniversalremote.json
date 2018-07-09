@@ -1,0 +1,49 @@
+{
+    "title": "GSM Alarm remote",
+    "summary": "Remote control your GSM Alarm system. Android Wear support (smart watch)",
+    "icon": "//lh4.ggpht.com/iUXEw-J2w9fPLHHL8lA9GJCAotY194PiTIesBzy2k0kAOoxjGEe_xiiGohYZSHB7acdy=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 8,
+    "developer": "Webahead",
+    "developerId": "Webahead",
+    "developerEmail": "martin.e.betz@gmail.com",
+    "developerWebsite": "https://docs.google.com/document/d/1j_s-ouph7o52GxSkAgEBaPWW9h0c1XGexuf0IxmnVu8/edit?usp=sharing",
+    "developerAddress": "Bonadsvägen 80\n75757 Uppsala\nSweden",
+    "updated": "February 26, 2018",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Control your GSM operated alarm system with this easy to use remote control.You set up the remote by starting the mobile version of the app and enter your GSM Alarm’s phone number and the commands used for controlling the system.All alarm systems have different commands, so you have to use those provided in the user manual for the alarm system.That’s it, now you can remote control your alarm system from your phone or Android Wear device (smart watch).When you push a button in the app on the phone or on a wear device an sms message is sent to the number you configured.",
+    "descriptionHTML": "Control your GSM operated alarm system with this easy to use remote control.<br><br>You set up the remote by starting the mobile version of the app and enter your GSM Alarm&#x2019;s phone number and the commands used for controlling the system.<br><br>All alarm systems have different commands, so you have to use those provided in the user manual for the alarm system.<br><br>That&#x2019;s it, now you can remote control your alarm system from your phone or Android Wear device (smart watch).<br><br><br><br>When you push a button in the app on the phone or on a wear device an sms message is sent to the number you configured.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/zigXBFjeJcojrrSgeyAS34x-SFa_OdPnUBQqN1iDSCFdMQV6pRmqGpE1ktVfu0VOD3rQ=h310",
+        "//lh3.ggpht.com/_F7UhIvzmlKhGGISHZNsis2qu6WCoKS9CreFaHNB9lC5IvYK1GYE0rEQ4nFGEidX-Ow=h310",
+        "//lh3.ggpht.com/KFHZxKctHiXy6uvocGGbySH7yy5ZZlsvwfH8aOVtjizOQwRdX4SDZw5rWjoqgy7zcQ=h310",
+        "//lh3.googleusercontent.com/XNEHl3pHMD0Ix5rz4bimMp_f7rHXBL-wQGX7_rmInL3CgxjWVp7kYZF8AMrbqP7E0gM=h310",
+        "//lh3.googleusercontent.com/lANV7DndYM4cp6vE7hT01kN9HpHpjYlh3OHMhQ0P3n4P1ROnGALYD0ogu4hNfGvABA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Better support for newer phones"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.webahead.gsmuniversalremote&hl=en&gl=us",
+    "appId": "se.webahead.gsmuniversalremote"
+}

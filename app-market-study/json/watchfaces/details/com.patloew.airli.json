@@ -1,0 +1,56 @@
+{
+    "title": "Airli Watch Face",
+    "summary": "A round watch face with an airy feel.",
+    "icon": "//lh3.googleusercontent.com/3cik780_SniQzduq83qtN6TD6YvMOjPR48Ot93K-Vk38Eu0dZcZhtQ428fB7RJs0GedY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.4,
+    "reviews": 69,
+    "developer": "Patrick Löwenstein",
+    "developerId": "Patrick+L%C3%B6wenstein",
+    "developerEmail": "kontakt@loewenste.in",
+    "developerWebsite": "http://loewenste.in",
+    "updated": "March 5, 2016",
+    "version": "1.9.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This watch face keeps it simple and minimal. Just some lines, circles and colors. It was designed as a round watch face, but can also adapt to square Android Wear devices. The watch face supports ambient mode and showing the date and markers.After installing Airli, you may have to wait a few minutes until the watch face is available on your Android Wear device. Watches which do not support full color ambient mode show a simple black and white representation of the watch face when switching to ambient mode. Also, your watch needs at least Android 5.1 for the watch face to work – please update if you use an earlier version.",
+    "descriptionHTML": "This watch face keeps it simple and minimal. Just some lines, circles and colors. It was designed as a round watch face, but can also adapt to square Android Wear devices. The watch face supports ambient mode and showing the date and markers.<br><br>After installing Airli, you may have to wait a few minutes until the watch face is available on your Android Wear device. Watches which do not support full color ambient mode show a simple black and white representation of the watch face when switching to ambient mode. Also, your watch needs at least Android 5.1 for the watch face to work &#x2013; please update if you use an earlier version.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 5,
+        "4": 20,
+        "5": 41
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-hxbWVeDhSxCZc5g4YVB7XMsRq6XtUyRGMqcErOUGKppWo5WpEb3Ze1RSh6tL_AlynV3=h310",
+        "//lh3.googleusercontent.com/3RMlSFuuhu1o-2Fk02fcQBbe2B7sNd1QlHE5wYJKTjDVJJy-oSLLe_KmgorQar7VPQ=h310",
+        "//lh3.googleusercontent.com/BsfH4rBRpf5LJlJJjNL5lwoMLpEUoUj-pAZJO58Id5zTOTB0Zx-61fwTirss3IOEQvkW=h310",
+        "//lh3.googleusercontent.com/OmflEXhF4MTk6JPCtZZnYu9Jn9NR8QC4UxnUQ14NK1YcfuV4aVlAQBsOBg-XV1IO7RM=h310",
+        "//lh3.googleusercontent.com/wBEIJioYU5tGmgisJQZ2cm1cuxq-sAMOM71vEL1D7kCVG2z90WDskzYAsGugx_iRK8cq=h310"
+    ],
+    "comments": [
+        "Please add multiple choices for timeout. Android's default of 5 seconds is too short. Options of 5, 10, 15, and 20 would be great. Options of different colors other than blue/green/red would also be great.",
+        "quite cool time out setting would be great.. watch battery at button would nice ;-)",
+        "Solid face Lots of options, support for date display, and card previews.",
+        "Simple but elegant.  Nicely done!",
+        "Simple and Elegant Favourite on the Huawei Watch.. Just beautiful.. Wish the second hand was continuous analogue rather than a discrete ticker.... Update Oh wow dream come true after 1.90 update this is my daily driver",
+        "Simply awesome Simple, elegant & easy to configure #LoveIt"
+    ],
+    "recentChanges": [
+        "* You can remove the settings app from the launcher. It is then only accessible via the Android Wear app.",
+        "* You can now choose to show the first card in ambient mode.",
+        "* Added continuous hand movement mode."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.patloew.airli&hl=en&gl=us",
+    "appId": "com.patloew.airli"
+}

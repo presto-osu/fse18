@@ -1,0 +1,49 @@
+{
+    "title": "Wear Coin Toss",
+    "summary": "Use an ancient roman coin to decide your fate. Optimized for the Android Wear!",
+    "icon": "//lh3.ggpht.com/7x7AX_sYDE0uAySiyZwzPadpeRxftQryl4b5p4UUlVxMeNlqgkKWe42bXrXYNXH008s=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "Kfast Software",
+    "developerId": "Kfast+Software",
+    "developerEmail": "kfastservice@gmail.com",
+    "developerAddress": "1767 E Deer Canyon Lane\nDraper, UT 84020",
+    "updated": "July 22, 2014",
+    "version": "1.0",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "A simple Coin Toss application optimized for the Android Wear devices.  Does run on phones and other devices as well.Install notes:-Make sure your mobile is compatible with Android Wear.-Make sure to pair your phone with the wearable device with help of the Android Wear App.Android Wear Instructions-To open: Go to \"Start...\" and open the app \"Coin Toss\" or say \"Start Coin Toss\".-Swipe to the right to close.-Any other swipe or touch to re-toss.",
+    "descriptionHTML": "A simple Coin Toss application optimized for the Android Wear devices.  Does run on phones and other devices as well.<br><br>Install notes:<br>-Make sure your mobile is compatible with Android Wear.<br>-Make sure to pair your phone with the wearable device with help of the Android Wear App.<br><br>Android Wear Instructions<br>-To open: Go to &quot;Start...&quot; and open the app &quot;Coin Toss&quot; or say &quot;Start Coin Toss&quot;.<br>-Swipe to the right to close.<br>-Any other swipe or touch to re-toss.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/H8Cd6_icq51ciI7VZjejbAbP3KGsfhJHTHdYZ9tJca2OgnnDOcGUj0HQWhBk05vpnbY=h310",
+        "//lh6.ggpht.com/yBvlXWOvMihVsUyRFvMjgrLHAON2heG7-YVas3-5xSqSiuUUc82ya-kvDtx_pC0gALfl=h310",
+        "//lh6.ggpht.com/mK0dUwVAlJJoV4_DYnFqQlzoks8Qi4T2fMY_ueZLr6LTiMxZmpcmv4AtKjaTW65ymfA=h310",
+        "//lh5.ggpht.com/cevytWjbNjSfJh7B5bLbFDk59n96deJUjr1VOxKCVC3GTRQ35-eUZTKfbVIpvQWB0vc=h310"
+    ],
+    "comments": [
+        "Simple and elegant! Great little app - I often go to toss a coin and find I don't have one. This solves that problem. Graphics are beautiful, which pleases my inclinations towards pretty and historic things. And it's a lovely way to show off my new moto 360. :-)",
+        "Useless..no meaning"
+    ],
+    "recentChanges": [
+        "Version 1.0!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kfast.cointoss&hl=en&gl=us",
+    "appId": "com.kfast.cointoss"
+}

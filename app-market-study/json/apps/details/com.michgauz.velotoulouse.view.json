@@ -1,0 +1,54 @@
+{
+    "title": "Toulouse VélôToulouse (bikes)",
+    "summary": "Toulouse VélôToulouse, bikes in Toulouse",
+    "icon": "//lh4.ggpht.com/BGoktl-0ibNmhta6VakRIrjvacVh04AAo3qmaksFex7nkURCXdOfUuynVP9ask4oVQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.6,
+    "reviews": 106,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.velotoulouse@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Toulouse VélôToulouse is a tool allowing you to view the status of bike stations VélôToulouse networks, of Toulouse and suburbs. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or nameYou can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Toulouse V&#xE9;l&#xF4;Toulouse is a tool allowing you to view the status of bike stations V&#xE9;l&#xF4;Toulouse networks, of Toulouse and suburbs. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 1,
+        "2": 3,
+        "3": 2,
+        "4": 30,
+        "5": 70
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/FlhLQswltcnB_HPoeIMACDxakwkyq9mS81joq3CbvE38nq6fimm5-uNuLv2VS8eDGRA=h310",
+        "//lh3.googleusercontent.com/E_mMu6DrD4zjqa6S8Oo_R0xfIqQG5ikZHXPb_hv_hpcGTxtuJoq7FoJhxnBx8j5gUpQ=h310",
+        "//lh3.googleusercontent.com/VddKKOzkrBjEi5XxOe8ZBRhgD5s7jWaHCbXOPg4CTmidiQfad4hOntVxYwTWyzeYI5rc=h310",
+        "//lh3.googleusercontent.com/_71lIGrilCT49IwWuiDyvMjXB7lpbt96jwiAhgFr3Pbd7R2_6T0nmgcF_v3-pTpmLIE=h310",
+        "//lh3.googleusercontent.com/A92cFuIXfT0hhcARv71sRwEm9fnHkrtPaVG17K-hQVwPKULqtvu2HLIW3KKsJ6zMaFxn=h310",
+        "//lh3.googleusercontent.com/jNFt8pLmx7bxHAWSz8ZHBpCswtoythm3x6N0tTpsS-or5x42rVJiiOnryIjELAKnaw=h310",
+        "//lh3.googleusercontent.com/V8oWWHq9n3AAJQ8dS_80VYM6v5BTdTczCyuclagUckWllKvfqSZGoa1Z66tzs33DyAU=h310",
+        "//lh3.googleusercontent.com/iQbkOEu-LXjY6KpTfMNaKCVoyBatOYpufetn8LlasF_GxFvi0qpgmo5Dlo3841CIJg=h310"
+    ],
+    "comments": [
+        "Fais le travail Does what it was meant for",
+        "Super helpful and works very well Visiting Toulouse, this app was amazingly helpful in quickly locating velo stations. Indication of number of available bikes is great."
+    ],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.velotoulouse.view&hl=en&gl=us",
+    "appId": "com.michgauz.velotoulouse.view"
+}

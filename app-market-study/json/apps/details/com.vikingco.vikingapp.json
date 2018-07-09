@@ -1,0 +1,56 @@
+{
+    "title": "Viking App (Official)",
+    "summary": "The Viking App is the comprehensive, official Mobile Vikings smartphone app.",
+    "icon": "//lh3.googleusercontent.com/tJj2-wgzzn8RbtMQ3XNYvg_V2ko9nxwsQ2NWSitr_j6G8A2QTkYosR7-KCCv27B5YA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.2,
+    "reviews": 2615,
+    "developer": "Unleashed",
+    "developerId": "Unleashed",
+    "developerEmail": "info@mobilevikings.com",
+    "developerWebsite": "https://mobilevikings.be/",
+    "updated": "January 12, 2018",
+    "version": "2.13.18",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Viking App is the official Mobile Vikings smartphone app that helps you get the most out of your Mobile Vikings bundle. Track your usage, save costs and top up, all from within the Viking App. - Quickly check both your current bundle usage as well as your daily free Viking to Viking advantages. - Instantly top up your SIM from wherever you are. - Find out who of your friends is a Mobile Viking and call or text them for free. - Get insights into your life as a Viking and learn how to save costs on calls and texts. - Browse through your usage history and see exactly how much you spent on calls, texts and data.In order to benefit from this application, a Mobile Vikings account as well as a Belgian Mobile Vikings SIM card are required.Permission Details• Identity - To determine which contacts are Mobile Vikings.• Contacts - To show you your contacts in the Viking App, and how you see which ones are Mobile Vikings too.• Location - To determine the closest Viking Deals to you.• Microphone - No Viking Talk calls without access to your microphone.• Phone - It's how you call someone using the Viking App.• Wi-Fi - It's how the Viking App communicates with our headquarters, and how we check the quality of your Wi-Fi connection for Viking Talk.• Bluetooth - Required to allow you to call via Bluetooth.",
+    "descriptionHTML": "Viking App is the official Mobile Vikings smartphone app that helps you get the most out of your Mobile Vikings bundle. Track your usage, save costs and top up, all from within the Viking App.<br><br> - Quickly check both your current bundle usage as well as your daily free Viking to Viking advantages.<br> - Instantly top up your SIM from wherever you are.<br> - Find out who of your friends is a Mobile Viking and call or text them for free.<br> - Get insights into your life as a Viking and learn how to save costs on calls and texts.<br> - Browse through your usage history and see exactly how much you spent on calls, texts and data.<br><br>In order to benefit from this application, a Mobile Vikings account as well as a Belgian Mobile Vikings SIM card are required.<br><br><b>Permission Details</b><br>&#x2022;&#x2003;Identity - To determine which contacts are Mobile Vikings.<br>&#x2022;&#x2003;Contacts - To show you your contacts in the Viking App, and how you see which ones are Mobile Vikings too.<br>&#x2022;&#x2003;Location - To determine the closest Viking Deals to you.<br>&#x2022;&#x2003;Microphone - No Viking Talk calls without access to your microphone.<br>&#x2022;&#x2003;Phone - It&apos;s how you call someone using the Viking App.<br>&#x2022;&#x2003;Wi-Fi - It&apos;s how the Viking App communicates with our headquarters, and how we check the quality of your Wi-Fi connection for Viking Talk.<br>&#x2022;&#x2003;Bluetooth - Required to allow you to call via Bluetooth.",
+    "histogram": {
+        "1": 155,
+        "2": 105,
+        "3": 249,
+        "4": 772,
+        "5": 1334
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/7rzdK53pNDEYx2papz4fLwv0GcHVJwrcu9taLzsspj5zO_D4-2mjMjb3rvqux7GYTRQ=h310",
+        "//lh3.googleusercontent.com/it6Zdy-uX1rTwXbci0QNtU4v16h2sFyyFW6xU8iIc7F3XRtLPrSYTVbvLAgd94Xg6A=h310",
+        "//lh3.googleusercontent.com/7LPXHotyHrRo6kYx1B9IFHQHojJMfmhjswTblPOUwdLQJ5osBwB85GK4oNpldfaLj6I=h310",
+        "//lh3.googleusercontent.com/RoS_Tg7kwaiOpDGFz6iY-XGyuocxWCJSQYdhGc7oqYIv-cTn8Is4Bn7CbhVqMdpRfA=h310",
+        "//lh3.googleusercontent.com/tyJIqRRQbXW2wBsIQN3kWzYjNHByKaLYMtv9VIhrixv6lzCJddCcx6DMnsYnA1lD7og=h310",
+        "//lh3.googleusercontent.com/lrOMY8tRYGuJpTH2_zSDYI6tEf_ZxLCOEDXLdp5wytL8s5jxy8xrzqIP5EBPEbNX8g=h310"
+    ],
+    "comments": [
+        "Why i cant pay by the app. When i choose Trop up i have just one choice  (vikings points)",
+        "Can't top up, only allows vikingpoints, should allow paypal, bancontact,...",
+        "I love this app but for some reason...i dnt see my balance anymore. Whats up with that?",
+        "Overall good app, the smaller widget lacks the \"tap to refresh\" option instead of just opening the app...",
+        "De weergegeven informatie over beschikbare data en belminuten is helemaal niet betrouwbaar.",
+        "Doesnt work"
+    ],
+    "recentChanges": [
+        "• Fixed: Previously the drakkar froze for a few unfortunate vikings and viqueens. So we used our heat guns to melt the ice. No vikings or viqueens were harmed in the melting process.",
+        "• The home screen widgets went berserk on devices with Android 8. Our developer fought these berserkers to death with his bare hands and got this fixed."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.vikingco.vikingapp&hl=en&gl=us",
+    "appId": "com.vikingco.vikingapp"
+}

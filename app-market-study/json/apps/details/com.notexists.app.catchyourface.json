@@ -1,0 +1,52 @@
+{
+    "title": "Catch your face (Android Wear)",
+    "summary": "Use Android Wear ( Android watch ), to capture a photo who is using your phone !",
+    "icon": "//lh4.ggpht.com/MYeDz94JPlODCLiDFD7Cvu0m_rox-xT1PW3VuruAyI0Pco5pBDMcE1sJ2tkiZOtRWRLx=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.2,
+    "reviews": 24,
+    "developer": "NotExists",
+    "developerId": "NotExists",
+    "developerEmail": "r@notexists.com",
+    "developerWebsite": "http://www.notexists.com",
+    "updated": "August 3, 2014",
+    "version": "1.0.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Use Android Wear ( Android watch ), to capture a photo who is using your phone !",
+    "descriptionHTML": "Use Android Wear ( Android watch ), to capture a photo who is using your phone !",
+    "histogram": {
+        "1": 5,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/w9LgWQu3r4aNsCQTHvhoHtq9xUTstYaRWXdlC5V3feGBQ63roiJAqJ3b4o76Dg7xvE9V=h310",
+        "//lh5.ggpht.com/ccitNsZgIOpsbG9Tl1b1umylCRa5Kti6DXNL6t1cvMccqu9Iyc9r0YCEKBkQmg0Qz64=h310"
+    ],
+    "comments": [
+        "Nicely done! Very nice concept. You can release version two with some new features like Save that picture, back camera option, some fun stuff like scare :p  Also if you have it on  xda, give me source, I could help :)",
+        "Great idea had a few issues to start with but the developer quickly addressed those, an option to save the pic would be the next step",
+        "Ok Save photo and auto rotate depending on device orientation would make this perfect. I'd even pay for it.",
+        "Good idea Doesn't work on my LG G watch and HTC M8.",
+        "Did not load Have Moto 360... It didn't load on watch and only fc on my phone",
+        "So funny! This app is amazing, just PLEASE add an option to save the picture! Thank you!"
+    ],
+    "recentChanges": [
+        "1.0.1",
+        "- Fixed  \"Fail to set camera parameters on devices\" issue"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.notexists.app.catchyourface&hl=en&gl=us",
+    "appId": "com.notexists.app.catchyourface"
+}

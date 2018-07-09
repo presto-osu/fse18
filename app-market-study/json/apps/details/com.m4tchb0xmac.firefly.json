@@ -1,0 +1,61 @@
+{
+    "title": "Firefly for Android Wear",
+    "summary": "Best flashlight app for Android Wear. Get it now for free!",
+    "icon": "//lh3.googleusercontent.com/qXWiWjRB4yFvsISUCV72V6mJET2PO9_0LqAjov_ESDpM-tCSxL7grXRBs1iXM5Bq3GM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.6,
+    "reviews": 151,
+    "developer": "m4tchb0x",
+    "developerId": "6371301573643410333",
+    "developerEmail": "m4tchb0x87@gmail.com",
+    "developerWebsite": "https://twitter.com/m4tchb0x87",
+    "updated": "November 23, 2015",
+    "version": "1.1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Scared of the dark? Firefly transforms your wearable into a flashlight. Carry it with you at all times and show that keyhole who's boss! Very easy to use, compatible with square and round devices. (Press to dismiss) feature added to cooperate with third-party launchers and comparably a better experience. Super simple and 100% free!FEATURES:* Touch icon to dismiss flashlight instead of right swipe (stock).* Adjusts automatically based on manual/auto-brightness mode. * Maximum screen brightness.* Lightweight application. NOTE:* LG Urbane 2 is not supported at this time. Update 1.1.2 will support all devices running 6.0 (Marshmallow). - It can take several minutes for Firefly to install to the wearable device, so please be patient.- To open: Go to \"Start...\" and open \"Firefly\" or say \"Start Firefly app\".- To close: Press the icon in the center of the screen. - No visible mobile application icon or user interface. Uninstall via Application Manager.  - If you would like to contribute to the development of this application, please email me with concerns, suggestions and crash reports. Thank you in advance :)      - Enjoy!",
+    "descriptionHTML": "Scared of the dark? Firefly transforms your wearable into a flashlight. Carry it with you at all times and show that keyhole who&apos;s boss! Very easy to use, compatible with square and round devices. (Press to dismiss) feature added to cooperate with third-party launchers and comparably a better experience. Super simple and 100% free!<br><br>FEATURES:<br><br>* Touch icon to dismiss flashlight instead of right swipe (stock).<br>* Adjusts automatically based on manual/auto-brightness mode. <br>* Maximum screen brightness.<br>* Lightweight application. <br><br>NOTE:<br><br>* LG Urbane 2 is not supported at this time. Update 1.1.2 will support all devices running 6.0 (Marshmallow). <br><br>- It can take several minutes for Firefly to install to the wearable device, so please be patient.<br><br>- To open: Go to &quot;Start...&quot; and open &quot;Firefly&quot; or say &quot;Start Firefly app&quot;.<br><br>- To close: Press the icon in the center of the screen. <br><br>- No visible mobile application icon or user interface. Uninstall via Application Manager.<br>  <br>- If you would like to contribute to the development of this application, please email me with concerns, suggestions and crash reports. Thank you in advance :)     <br><br> - Enjoy!",
+    "histogram": {
+        "1": 34,
+        "2": 9,
+        "3": 12,
+        "4": 29,
+        "5": 67
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/kmo_DymetcL5VBXlVTjmQzz_rFObyE9qJYMWy8-Q7e94jxOWEuiUx_ka04X-43SqGEi8=h310",
+        "//lh3.googleusercontent.com/XKlJF6rlZhL1BldKv-VW3Am4YOtEI86Jsw8kiUvXJSFbV_NN_RfVhawahYrL6xdddA=h310",
+        "//lh3.googleusercontent.com/4S4F8vQSkv-2Hye5BN3xBfHhCmwR5zdVbqRwwHdtV6NXl2KzBNFA51DzkvJopu0SVg=h310",
+        "//lh3.googleusercontent.com/Uf_sWCsprYk5C7wWUW-NWleJRV9qxjl40kqhAQJI2fGK5q5tsqjgiM9IM0yLYR4Ntn-8=h310",
+        "//lh3.googleusercontent.com/E8eKpx1kVLBeDcT1v1SXtW2OSbQA5-Dl5DrucakFoGk-ksK1k9q6Fai1bspTsVgmFQ=h310",
+        "//lh3.googleusercontent.com/qujh5BUJefx4j4pIL0OJqZ1k9EK-NPFO_eaEF9FVNKU1chJ6Pyj3swxiBkCQI0gqUB0=h310"
+    ],
+    "comments": [
+        "Unfortunately firefly has stopped ...even before it started. Just installed on brand new Zenwatch 2, and... No good.",
+        "Cannot use in the wear module of Android 6.0.1 Firefly was not granted this permission :android.permission.WRITE_SETTINGS .Please update Firefly and fix it in Android 6.0.Thanks!",
+        "Does not work with Wuawei Crashes as soon as it opens.",
+        "Not working on Huawei watch Crash at launch time straight away",
+        "I can't Find it in my phone.",
+        "Can't really review as it crashes without ever opening"
+    ],
+    "recentChanges": [
+        "1.1.1",
+        "- Squashed an auto-brightness bug.",
+        "1.1",
+        "- Minimized permissions.",
+        "- Reduced overall APK size.",
+        "1.0",
+        "- Initial release."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.m4tchb0xmac.firefly&hl=en&gl=us",
+    "appId": "com.m4tchb0xmac.firefly"
+}

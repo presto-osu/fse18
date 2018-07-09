@@ -1,0 +1,47 @@
+{
+    "title": "(Wear Support)  Auth2",
+    "summary": "Two-Factor Authentication(TOTP only) with Android Wear.",
+    "icon": "//lh6.ggpht.com/oxKkYMbzRMq075A70fYTkJTpziEd1wa3BjuboUPNO0PmadUZJS5SFOwV1zCNOOzCwMUI=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 3,
+    "developer": "kuluna",
+    "developerId": "5161968268810881162",
+    "developerEmail": "madeinkuluna@gmail.com",
+    "developerWebsite": "https://github.com/kuluna/Auth2",
+    "developerAddress": "144-0052\n\n206, Philos-Ohyashiki\n1-16-3, Kamata\nOta-ku\nTokyo Japan",
+    "updated": "September 29, 2015",
+    "version": "1.3.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Two-Factor Authentication(TOTP only) with Android Wear.* It works OFFLINE!* Multi account support(Phone, Wear)Swipe up,down to change tokens if Wear.",
+    "descriptionHTML": "Two-Factor Authentication(TOTP only) with Android Wear.<br><br><br>* It works OFFLINE!<br>* Multi account support(Phone, Wear)<br><br>Swipe up,down to change tokens if Wear.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/48xXTdvw2aseKHi8Ed2x_VysyxKuxBcH-MRclcVzN51PoHUoOSda090BsD88jG0bsGQ=h310",
+        "//lh5.ggpht.com/fA77KbJg1q0nGLatJRnZa6TqUCOLe9scsvwK4907KbTcjf9yTCdnQyeRarQ8Xr25wQ=h310",
+        "//lh5.ggpht.com/TENxrvxzkzE9FaX0oRyENYNAv0V_d4Qo6M1LUG9s_y9xpHn6tE_yLCKeoTzgAChCV4E=h310",
+        "//lh3.googleusercontent.com/Sz_RtlnBKFR0FaiQRsIiaI_-Q-IVUpwk3bdq1K6_TqcRXodo4DP8ON2SWMWF_wkD2X0p=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "(SmartPhone) Support Android6.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=app.kuluna.jp.auth2&hl=en&gl=us",
+    "appId": "app.kuluna.jp.auth2"
+}

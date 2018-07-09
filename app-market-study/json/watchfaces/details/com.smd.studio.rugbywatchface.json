@@ -1,0 +1,47 @@
+{
+    "title": "Rugby Watchface",
+    "summary": "The first Rugby Watchface is now available!",
+    "icon": "//lh3.googleusercontent.com/RXm6n9mhT8k1DddKxMZrCtMVkujAyYPGzZG1T3ZfDTFhDxUW2mCwgUqFwUiUXuGys7Pv=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 1,
+    "developer": "SMD Studio",
+    "developerId": "SMD+Studio",
+    "developerEmail": "sdoychev@gmail.com",
+    "developerAddress": "Sofia, 3 Kishinev Street",
+    "updated": "September 18, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "The Rugby Watchface shows the current time and a beautiful rugby ball in true Rugby colors. The watchface also provides a counter of days/hours until the upcoming RWC 2015!Features:• Big rugby ball in the middle of the watchface.• Days / Hours counter until RWC 2015.• Full ambient mode.• Interactive watchface - swap between days and hours counters with a simple tap (for Android Wear 1.3+ devices)Supported Watches: • Works for all Android Wear devices - Round and square.",
+    "descriptionHTML": "The Rugby Watchface shows the current time and a beautiful rugby ball in true Rugby colors. <br>The watchface also provides a counter of days/hours until the upcoming RWC 2015!<br><br>Features:<br>&#x2022; Big rugby ball in the middle of the watchface.<br>&#x2022; Days / Hours counter until RWC 2015.<br>&#x2022; Full ambient mode.<br>&#x2022; Interactive watchface - swap between days and hours counters with a simple tap (for Android Wear 1.3+ devices)<br><br>Supported Watches: <br>&#x2022; Works for all Android Wear devices - Round and square.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/dFI8vkoPFv4Vkb7kuJJWhLhUFn-ff4e-GFgK6zxxvYiHYYtBiR7QMMxZXhjuK_qL7EE=h310",
+        "//lh3.googleusercontent.com/XJuZi5AIkN2r69puXrlLU9c1tSdUrXKsGhducCWlyd4BLq0D2b5YzphiH9m7ZMa-Seo=h310",
+        "//lh3.googleusercontent.com/qFU08VTzJpfKMGst33C5vpaSnho_zb-q69oKxez0PkqXXQ3FNysdzO2TP1xz8LYI4ete=h310",
+        "//lh3.googleusercontent.com/_Y4MK3p7qlMDKDJ0uV89AtxTunBVa6FmN6mwOwOBOaFpucWvW7hQnrZD1cUQuO8Bep8=h310",
+        "//lh3.googleusercontent.com/k7FrnzCLkVPAwM85-75-5M-f02abvpwrqNF2K-P7Q101NpjuWRGnXC9H4VP3J_NmE-A=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Improved performance"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.smd.studio.rugbywatchface&hl=en&gl=us",
+    "appId": "com.smd.studio.rugbywatchface"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Sticky Notes for Android Wear",
+    "summary": "Lets you put simple notes as notification cards on your watch",
+    "icon": "//lh4.ggpht.com/DejIcUaJBy-BuoJ7ZUqdKgRf2HCNGgGLapLAcdpoOoX_FC1_8B6xJxQPgvpwITWRbEiS=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 4,
+    "developer": "Sumit Gouthaman",
+    "developerId": "Sumit+Gouthaman",
+    "developerEmail": "sumitgt007@gmail.com",
+    "developerWebsite": "http://sumitgouthaman.com",
+    "updated": "March 25, 2015",
+    "version": "1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Use the phone app to write simple notes that get added to the notification stream on your watch.Simply swipe a note to get rid of it.The notes are never sent over the internet and are deleted forever once dismissed.Great for putting up simple To Dos, shopping lists, etc. on your watch. No need to open an app on the wearable. You'll come across your notes every time you casually browse the cards on your wrist.* Not meant for long-duration persistent notes.** Appears as \"Wear Sticky Notes\" in the phone launcher.Permissions:VIBRATE - To vibrate the wearable when the note gets added.Feedback: Please use the following link (http://goo.gl/DP9tRc) to submit feedback, bugs or any other suggestions. The app is still in development and is expected to contain small bugs.",
+    "descriptionHTML": "Use the phone app to write simple notes that get added to the notification stream on your watch.<br><br>Simply swipe a note to get rid of it.<br><br>The notes are never sent over the internet and are deleted forever once dismissed.<br>Great for putting up simple To Dos, shopping lists, etc. on your watch. No need to open an app on the wearable. You&apos;ll come across your notes every time you casually browse the cards on your wrist.<br><br>* Not meant for long-duration persistent notes.<br>** Appears as &quot;Wear Sticky Notes&quot; in the phone launcher.<br><br>Permissions:<br>VIBRATE - To vibrate the wearable when the note gets added.<br><br>Feedback: Please use the following link (http://goo.gl/DP9tRc) to submit feedback, bugs or any other suggestions. The app is still in development and is expected to contain small bugs.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/XKZOB24C3V_h44-fX0FkmZlTsy1h0Sx4chKAMq8M5ACYLjZCf8etkqg0XWMAPlI_l6aD=h310",
+        "//lh6.ggpht.com/Jj__kmmR4a6GGKbGdiH8anNPbe5ARcmuNCi5B0S_JcCxMygJxS2wp8AK_a81q87NNAU=h310"
+    ],
+    "comments": [
+        "Good Start Would like the ability to schedule notes to be sent."
+    ],
+    "recentChanges": [
+        "v 1.1:",
+        "Adds option to vibrate watch when the note is added.",
+        "WARNING: Updating may cause deletion of notes already in the notification stream."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sumitgouthaman.wearstickynotes&hl=en&gl=us",
+    "appId": "com.sumitgouthaman.wearstickynotes"
+}

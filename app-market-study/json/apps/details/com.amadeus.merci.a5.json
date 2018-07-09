@@ -1,0 +1,58 @@
+{
+    "title": "HOP! Air France",
+    "summary": "New design to access essential services:booking,check-in,flight status,timetable",
+    "icon": "//lh6.ggpht.com/alNzrz4nn0lDbPBn7IN_47SmS3iV8Oqz60UXjUgJx-VcuhtEiz6225iW8K8qtxx1-ejt=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 2.2,
+    "reviews": 287,
+    "developer": "HOP!",
+    "developerId": "HOP!",
+    "developerEmail": "webmasterhop@hop.fr",
+    "developerWebsite": "http://www.hop.com",
+    "updated": "January 31, 2018",
+    "version": "3.2",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "HOP! discover a new and easy way to travel !New design to access to all our essential services : booking, check-in, flight status, timetable... Our app is here for you during all your trips.Our app benefits: BOOKING: Book a flights directly wihtin the app, it's easy, convenient and fast. CHECK-IN AND BOARDING PASS: Check-in and retrieve your boarding passe(s) directly within the app. If you wish, you may also add your boarding passe(s) to Wallet.CHECK AND MANAGE YOUR BOOKING: Thanks to the app you can check, complete or modify the information of your reservation(s) at all times. Need an extra luggage ? Our paid options are also available to make your travel experience as convenient as possible. FLIGHT STATUS AND TIMETABLE:Need to check flights timetable to communicate your arrival time to a colleague or to your relatives ? No worries, you have access to all the news concerning your flight(s) within your app.",
+    "descriptionHTML": "HOP! discover a new and easy way to travel !<br>New design to access to all our essential services : booking, check-in, flight status, timetable... Our app is here for you during all your trips.<br><br>Our app benefits: <br><br>BOOKING: <br>Book a flights directly wihtin the app, it&apos;s easy, convenient and fast. <br><br>CHECK-IN AND BOARDING PASS: <br>Check-in and retrieve your boarding passe(s) directly within the app. If you wish, you may also add your boarding passe(s) to Wallet.<br><br>CHECK AND MANAGE YOUR BOOKING: <br>Thanks to the app you can check, complete or modify the information of your reservation(s) at all times. Need an extra luggage ? Our paid options are also available to make your travel experience as convenient as possible. <br><br>FLIGHT STATUS AND TIMETABLE:<br>Need to check flights timetable to communicate your arrival time to a colleague or to your relatives ? No worries, you have access to all the news concerning your flight(s) within your app.",
+    "histogram": {
+        "1": 161,
+        "2": 30,
+        "3": 22,
+        "4": 30,
+        "5": 44
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JdWdR1bY09cD0GqPqJvwmKX17nXEFAjt2V6Etm0v5sU41G8sPXrzukOUVs-Ztpp9_w=h310",
+        "//lh3.googleusercontent.com/vkpZvQCh3Riut1Ibt3zPxb-X0MMTgoe162rGYBbF35mNDZzQyy4uyo0wvWQ8lcurNgbm=h310",
+        "//lh3.googleusercontent.com/WfauaM6hm3-HkKt6WfUrQtmk3TBNYscO11mp7frraY2IpapaCwx_5-tplGQ33_H8otM=h310",
+        "//lh3.googleusercontent.com/kDxnAvpuMnEo1E3EuuSaawa55KDdrvzWOwi06dRysFdo32wqLGMB7WG82xfnnJe84H4=h310",
+        "//lh3.googleusercontent.com/-d0Jyn39MVkX1r6JLF36RZRBTN8hn9XuwcGJ1MRX0BS6CWYNaEpWKab9Ou-JmSSvx2k=h310",
+        "//lh3.googleusercontent.com/uO-EW_CPCutJyh9rxsEI8RVUnWtRdTxlWRNLdJOHYNiTwr9QdjvzqnnQPmmMDfqAdoo=h310",
+        "//lh3.googleusercontent.com/m0GtOhpekcEx9wKYo6Qme3w1X27Mf_ti7znieBT3B4Afa6GsJve8rw9cv_IqpGCLAg=h310",
+        "//lh3.googleusercontent.com/PurK1R3fJXJwVP8shJaStTKwE14BEOlbhYR8BAIk2-R6Mudwzjjcani7elZTYxLi-h8=h310"
+    ],
+    "comments": [
+        "It doesn't work. I installed it and all it says is 'Upgrade'. When I push that button, it just takes me back here. Catch 22.",
+        "Ne fonctionne pas...",
+        "Bon Application Bon UI. Utilisateur application conviviale",
+        "Finally it is on mobile I was expecting since long time .. I'm loving it .",
+        "Must for HOP! Frequent travelers Booking , check in , flight search everything thing on your hand. UI is rich and good experience.",
+        "Nul Franchement debile pas d'apercu que des erruers, valeur ajouté nul. Marche pas bien que 10 mille telechargements, à votre avis?"
+    ],
+    "recentChanges": [
+        "HOP! discover a new and easy way to travel !",
+        "New design to access to all our essential services : booking, check-in, flight status, timetable... Our app is here for you during all your trips."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.amadeus.merci.a5&hl=en&gl=us",
+    "appId": "com.amadeus.merci.a5"
+}

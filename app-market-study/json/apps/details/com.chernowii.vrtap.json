@@ -1,0 +1,48 @@
+{
+    "title": "[root] VR Tap for Wear",
+    "summary": "Tap your phone&#39;s screen from your wear watch, perfect for cardboard VR games",
+    "icon": "//lh3.googleusercontent.com/L6xnHmk-R8kHCar4RI_oc9PfdJKWUpRq-QnEVzCYdjuxOXkfMJrNjyY9xr_Vg_nzDoCc=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.2,
+    "reviews": 5,
+    "developer": "Konrad Iturbe - Chernowii",
+    "developerId": "8327692895936242590",
+    "developerEmail": "mail@chernowii.com",
+    "developerWebsite": "http://chernowii.com",
+    "developerAddress": "The internet\nAFK: Calle Timoteo Padros 14, 28200 El Escorial, Madrid, Spain",
+    "updated": "May 1, 2016",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app allows you to generate a tap on your phone's screen by using your android wear watch as a remote, this is a good option for cardboard games since you can use the watch as a remote and not the magnet/stick your finger inside.non-root accessibility option coming soon!",
+    "descriptionHTML": "This app allows you to generate a tap on your phone&apos;s screen by using your android wear watch as a remote, this is a good option for cardboard games since you can use the watch as a remote and not the magnet/stick your finger inside.<br><br>non-root accessibility option coming soon!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JLaqtw4hQoukCg__bpAqQt2cjxAdYEgEIFjZc4K4w4w69Vc1HjeMOMe3PpkdvC_4GYg=h310",
+        "//lh3.googleusercontent.com/eqR8aji-JL457NKqcx8J71_067EwxrHTLNOvcCa_cU8wsFqeD0QttzaDI2xrZh7SS5TT=h310"
+    ],
+    "video": "https://www.youtube.com/embed/1yJWKD-TbA4",
+    "comments": [
+        "Doesn't work on my LG smart watch, it seems like a jpg app, suspiciously fake"
+    ],
+    "recentChanges": [
+        "Minor bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chernowii.vrtap&hl=en&gl=us",
+    "appId": "com.chernowii.vrtap"
+}

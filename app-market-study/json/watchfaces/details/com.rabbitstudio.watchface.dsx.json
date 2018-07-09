@@ -1,0 +1,49 @@
+{
+    "title": "Watch Face DSX",
+    "summary": "DSX Watch Face for Android Wear Clock",
+    "icon": "//lh3.googleusercontent.com/Da-Z7bNZRLSKBnkaCq2v_Hu9OaD2Kl64DB8yHyPo8Ro6dhr92EhXAP9q6mkXcSEKnw=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.6,
+    "reviews": 5,
+    "developer": "Rabbit Design",
+    "developerId": "7611979703967153035",
+    "developerEmail": "rab4dis@gmail.com",
+    "developerAddress": "Minsk, Cherviakova 61-1",
+    "updated": "August 12, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Cool watch face design based on your favorite game interface. Augment your device with the new cool watch face.FEATURES:- Date Information- 12/24 auto-format- Ambient (dimmed) mode- High Resolution Design- Round and Square watches SupportINSTRUCTION:1. Install Watch Face2. Wait a minute2. Go to Android Wear Application3. Choose DSX Watch Face4. Enjoy!The watchface deus has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch ex and other.",
+    "descriptionHTML": "Cool watch face design based on your favorite game interface. Augment your device with the new cool watch face.<br><br>FEATURES:<br><br>- Date Information<br>- 12/24 auto-format<br>- Ambient (dimmed) mode<br>- High Resolution Design<br>- Round and Square watches Support<br><br>INSTRUCTION:<br><br>1. Install Watch Face<br>2. Wait a minute<br>2. Go to Android Wear Application<br>3. Choose DSX Watch Face<br>4. Enjoy!<br><br>The watchface deus has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch ex and other.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/bfcoTS6rHoANDEfc6UA0oVUUQTufxpkDprCBrzbgF8N02cTOuQ9wy7_CB53fHAWdyg=h310",
+        "//lh3.googleusercontent.com/JJ3oIlX-ch9-tNdrF1JrA9jS0SXJoRvQinMUQGFMk2HD_5D4LmKk23o8zppPR3VEiK0=h310"
+    ],
+    "comments": [
+        "Slick design, no date customisation A nicely designed watch face. Only missing the ability to change the date format."
+    ],
+    "recentChanges": [
+        "+ added ambient (dimmed) mode",
+        "+ added date information",
+        "+ some fixes for 280x280 and 320x320 displays",
+        "+ support for API 18+ devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rabbitstudio.watchface.dsx&hl=en&gl=us",
+    "appId": "com.rabbitstudio.watchface.dsx"
+}

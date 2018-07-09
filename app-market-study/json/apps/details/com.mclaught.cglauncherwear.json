@@ -1,0 +1,43 @@
+{
+    "title": "Запуск CityGuide (AndroidWear)",
+    "summary": "Plug-in to the application &quot;Expanding CityGuide&quot; for Android Wear",
+    "icon": "//lh3.googleusercontent.com/HAqh0hvhixxIIyR7FRQq21OsKZf-GAEt8JaSze_L_JSwGV2uMPAbUoRATmAU-wtb7-g=w300",
+    "price": "$1.00",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3,
+    "reviews": 2,
+    "developer": "Sergey Taldykin",
+    "developerId": "Sergey+Taldykin",
+    "developerEmail": "sergey@taldykin.com",
+    "developerAddress": "Россия, Санкт-Петербург, Наставников 41/1-14",
+    "updated": "April 3, 2015",
+    "version": "1.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Плагин к приложению \"Расширение CityGuide\" (https://play.google.com/store/apps/details?id=com.mclaught.cglauncher) для Android Wear.    Для того, чтобы воспользоваться возможностями голосового управления с помощью умных часов, выполните следующие действия:            1. Разблокируйте циферблат коснувшись его или нажав кнопку.            2. Произнесите «OK, Google» или коснитесь циферблата.            3. Произнесите «Запустить Ситигид» или выберите «Пуск->Ситигид».            4. Когда появится приглашение «Куда едем?», произнесите название сохраненной точки, имя контакта или адрес назначения.            5. После распознавания фразы, программа сообщит ее на экране часов и даст возможность отменить запуск в течение 3-х секунд.            6. Если Вы не отмените запуск, то через 3 секунды будет запущено приложение CG Launcher на телефоне.",
+    "descriptionHTML": "&#x41F;&#x43B;&#x430;&#x433;&#x438;&#x43D; &#x43A; &#x43F;&#x440;&#x438;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x438;&#x44E; &quot;&#x420;&#x430;&#x441;&#x448;&#x438;&#x440;&#x435;&#x43D;&#x438;&#x435; CityGuide&quot; (https://play.google.com/store/apps/details?id=com.mclaught.cglauncher) &#x434;&#x43B;&#x44F; Android Wear.<br>    &#x414;&#x43B;&#x44F; &#x442;&#x43E;&#x433;&#x43E;, &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x432;&#x43E;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x44C;&#x441;&#x44F; &#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x44F;&#x43C;&#x438; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x443;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x441; &#x43F;&#x43E;&#x43C;&#x43E;&#x449;&#x44C;&#x44E; &#x443;&#x43C;&#x43D;&#x44B;&#x445; &#x447;&#x430;&#x441;&#x43E;&#x432;, &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x435; &#x441;&#x43B;&#x435;&#x434;&#x443;&#x44E;&#x449;&#x438;&#x435; &#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x44F;:<br>            1. &#x420;&#x430;&#x437;&#x431;&#x43B;&#x43E;&#x43A;&#x438;&#x440;&#x443;&#x439;&#x442;&#x435; &#x446;&#x438;&#x444;&#x435;&#x440;&#x431;&#x43B;&#x430;&#x442; &#x43A;&#x43E;&#x441;&#x43D;&#x443;&#x432;&#x448;&#x438;&#x441;&#x44C; &#x435;&#x433;&#x43E; &#x438;&#x43B;&#x438; &#x43D;&#x430;&#x436;&#x430;&#x432; &#x43A;&#x43D;&#x43E;&#x43F;&#x43A;&#x443;.<br>            2. &#x41F;&#x440;&#x43E;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x438;&#x442;&#x435; &#xAB;OK, Google&#xBB; &#x438;&#x43B;&#x438; &#x43A;&#x43E;&#x441;&#x43D;&#x438;&#x442;&#x435;&#x441;&#x44C; &#x446;&#x438;&#x444;&#x435;&#x440;&#x431;&#x43B;&#x430;&#x442;&#x430;.<br>            3. &#x41F;&#x440;&#x43E;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x438;&#x442;&#x435; &#xAB;&#x417;&#x430;&#x43F;&#x443;&#x441;&#x442;&#x438;&#x442;&#x44C; &#x421;&#x438;&#x442;&#x438;&#x433;&#x438;&#x434;&#xBB; &#x438;&#x43B;&#x438; &#x432;&#x44B;&#x431;&#x435;&#x440;&#x438;&#x442;&#x435; &#xAB;&#x41F;&#x443;&#x441;&#x43A;-&gt;&#x421;&#x438;&#x442;&#x438;&#x433;&#x438;&#x434;&#xBB;.<br>            4. &#x41A;&#x43E;&#x433;&#x434;&#x430; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x43F;&#x440;&#x438;&#x433;&#x43B;&#x430;&#x448;&#x435;&#x43D;&#x438;&#x435; &#xAB;&#x41A;&#x443;&#x434;&#x430; &#x435;&#x434;&#x435;&#x43C;?&#xBB;, &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x438;&#x442;&#x435; &#x43D;&#x430;&#x437;&#x432;&#x430;&#x43D;&#x438;&#x435; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x435;&#x43D;&#x43D;&#x43E;&#x439; &#x442;&#x43E;&#x447;&#x43A;&#x438;, &#x438;&#x43C;&#x44F; &#x43A;&#x43E;&#x43D;&#x442;&#x430;&#x43A;&#x442;&#x430; &#x438;&#x43B;&#x438; &#x430;&#x434;&#x440;&#x435;&#x441; &#x43D;&#x430;&#x437;&#x43D;&#x430;&#x447;&#x435;&#x43D;&#x438;&#x44F;.<br>            5. &#x41F;&#x43E;&#x441;&#x43B;&#x435; &#x440;&#x430;&#x441;&#x43F;&#x43E;&#x437;&#x43D;&#x430;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x444;&#x440;&#x430;&#x437;&#x44B;, &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x430; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x438;&#x442; &#x435;&#x435; &#x43D;&#x430; &#x44D;&#x43A;&#x440;&#x430;&#x43D;&#x435; &#x447;&#x430;&#x441;&#x43E;&#x432; &#x438; &#x434;&#x430;&#x441;&#x442; &#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x43E;&#x442;&#x43C;&#x435;&#x43D;&#x438;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x443;&#x441;&#x43A; &#x432; &#x442;&#x435;&#x447;&#x435;&#x43D;&#x438;&#x435; 3-&#x445; &#x441;&#x435;&#x43A;&#x443;&#x43D;&#x434;.<br>            6. &#x415;&#x441;&#x43B;&#x438; &#x412;&#x44B; &#x43D;&#x435; &#x43E;&#x442;&#x43C;&#x435;&#x43D;&#x438;&#x442;&#x435; &#x437;&#x430;&#x43F;&#x443;&#x441;&#x43A;, &#x442;&#x43E; &#x447;&#x435;&#x440;&#x435;&#x437; 3 &#x441;&#x435;&#x43A;&#x443;&#x43D;&#x434;&#x44B; &#x431;&#x443;&#x434;&#x435;&#x442; &#x437;&#x430;&#x43F;&#x443;&#x449;&#x435;&#x43D;&#x43E; &#x43F;&#x440;&#x438;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x438;&#x435; CG Launcher &#x43D;&#x430; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x435;.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/G86zLaxxcw8jRZlioAjrpP6_5oNzDHxgE2O37lBHB0ziclmcDSQouD_vj6b7V_ycRQ=h310",
+        "//lh3.googleusercontent.com/bJ_HNXOfZvgGBIlShTkXcantS4edOXO8ab0aWNAumQyJ4yMO-t1j9TXtOb8BRnLikmg=h310",
+        "//lh3.googleusercontent.com/SupdJ44qi_GnHgDOzm0Jzy4tqNV2Hvu5GT9sMApUkeYpcSZFMirsMMOr35oVu1DgfqLr=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mclaught.cglauncherwear&hl=en&gl=us",
+    "appId": "com.mclaught.cglauncherwear"
+}

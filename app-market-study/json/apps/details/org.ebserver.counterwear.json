@@ -1,0 +1,46 @@
+{
+    "title": "Counter Wear",
+    "summary": "Simple Counter for your Android Wear device",
+    "icon": "//lh3.ggpht.com/3eDpBHejVtTEYBqOfSj-byddp0ndNvfaRGyT3mbqsQegHPIQ4nC_Z3jLlKaiD8ZiIno=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.2,
+    "reviews": 13,
+    "developer": "Eduardo Balsa",
+    "developerId": "Eduardo+Balsa",
+    "developerEmail": "android@ebalsa.org",
+    "developerWebsite": "http://ebalsa.org",
+    "developerAddress": "E. Balsa\nVN 16\n2300\nPT",
+    "updated": "August 3, 2014",
+    "version": "1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Simple counter for your Android Wear device, Counter Wear allows you to emulate a tally counter on your wrist.Values for the counting session are kept after closing the app.",
+    "descriptionHTML": "Simple counter for your Android Wear device, Counter Wear allows you to emulate a tally counter on your wrist.<br>Values for the counting session are kept after closing the app.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 4,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/1XJWXvaG8rsPXs8zZpTOV63swv8QebfQFpd1u6a4vAF7dUrW9Scxbrf6jDnmuvN93QE=h310",
+        "//lh4.ggpht.com/nqeRM7Hc-93xNtzfr45ma1WTY_gy6ezrkWxgNviMcxgenah6xCRa9RsI--FLvjKF0gh_=h310"
+    ],
+    "comments": [
+        "Moto 360 Looks kinda funky on a round screen, but it does work. But please consider changing the voice command, in English google now always interprets 'wear' as 'where', making it impossible to open apps with 'wear' in the title by voice.",
+        "App Keeps Closing Any way to keep the app open on Moto 360 when screen wakes up?"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.ebserver.counterwear&hl=en&gl=us",
+    "appId": "org.ebserver.counterwear"
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Pota Watch",
+    "summary": "Android Wear watch face in with the time in Bergamo",
+    "icon": "//lh3.googleusercontent.com/z_dCwZQ02b8Ri76ZqfBGhtvKwq8aALJxQA61PEOsvLCqaFrn_RCFarsgrh4RYu51u8Y=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.4,
+    "reviews": 7,
+    "developer": "bgpaglia",
+    "developerId": "bgpaglia",
+    "developerEmail": "bgpaglia.apps@gmail.com",
+    "developerAddress": "bgpagliaapps@gmail.com",
+    "updated": "June 8, 2015",
+    "version": "1.31",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Questa face per smartwatch Android Wear mostra in modo testuale l'ora in dialetto bergamasco. Funzionalità:- Ora testuale in dialetto bergamasco- Orologio digitale nella visione attiva, solo l'ora testuale in modalità standby- Interfaccia minimale e funzionale, in puro stile bergamasco- Fotografie di Bergamo come sfondo, a rotazione ogni ora- Proverbi in dialetto bergamasco, a rotazione ogni ora- Compatibile con smartwatch a schermo tondo (LG G Watch R, LG Watch Urbane, Motorola Moto360 ecc...) e quadrato (LG G Watch, Samsung Gear Live, Sony SmartWatch 3, Asus Zenwatch ecc...).- Nessuna applicazione companion per telefono, niente pubblicità- Nessun uso di InternetParte delle fotografie di sfondo sono state scattate da Roberto Bezzi -> https://www.facebook.com/roberto.bezzi?fref=tsParte dei proverbi sono stati raccolti grazie all'aiuto del gruppo Facebook \"Sei di Bergamo se...\" -> https://www.facebook.com/groups/seidibergamoseVuoi contribuire con foto tue della città, aggiungere proverbi o hai trovato delle cose da correggere? Scrivimi!",
+    "descriptionHTML": "Questa face per smartwatch Android Wear mostra in modo testuale l&apos;ora in dialetto bergamasco. <br><br>Funzionalit&#xE0;:<br>- Ora testuale in dialetto bergamasco<br>- Orologio digitale nella visione attiva, solo l&apos;ora testuale in modalit&#xE0; standby<br>- Interfaccia minimale e funzionale, in puro stile bergamasco<br>- Fotografie di Bergamo come sfondo, a rotazione ogni ora<br>- Proverbi in dialetto bergamasco, a rotazione ogni ora<br>- Compatibile con smartwatch a schermo tondo (LG G Watch R, LG Watch Urbane, Motorola Moto360 ecc...) e quadrato (LG G Watch, Samsung Gear Live, Sony SmartWatch 3, Asus Zenwatch ecc...).<br>- Nessuna applicazione companion per telefono, niente pubblicit&#xE0;<br>- Nessun uso di Internet<br><br>Parte delle fotografie di sfondo sono state scattate da <b>Roberto Bezzi</b> -&gt; https://www.facebook.com/roberto.bezzi?fref=ts<br>Parte dei proverbi sono stati raccolti grazie all&apos;aiuto del gruppo Facebook <b>&quot;Sei di Bergamo se...&quot;</b> -&gt; https://www.facebook.com/groups/seidibergamose<br><br><b>Vuoi contribuire con foto tue della citt&#xE0;, aggiungere proverbi o hai trovato delle cose da correggere? Scrivimi!</b>",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/uUcReNItH8tGAXA3OmopEYg36P4-fklqFcBU0I9qDW_bGYGYshBecyGlH9zqH0J0QKU=h310",
+        "//lh3.googleusercontent.com/SaA1AvYptnhE_geDS2jz-hincWecHGsnkdt2YEBGtrhzFnv_CB3FR_facVNe11iIug=h310",
+        "//lh3.googleusercontent.com/OCrXMzUHsi-WsMvyMg3qoVQBngLYvDjkk6QxeFxgZrloPcU8g-CQ0XDV18zn5i0dFg=h310",
+        "//lh3.googleusercontent.com/HXE9gDMx_3sX1bYLI2qzdeQQT0gYJAl5AKa5lbTjw2IBgb_JpuSdHsK4W0lX1mtv18c=h310",
+        "//lh3.googleusercontent.com/oUiBOruw_cNlAA5fqRAVbg474lrtRVusIVR8FID6uW1jet-B9_CeOWvqmt6O3dJES6A=h310",
+        "//lh3.googleusercontent.com/V3BWh0DL5KXUr-8XkTsNkKh0uI-0_Mpgnik7TfTNrgFrcenmIrcaED6TUrum3-Vk0Q=h310",
+        "//lh3.googleusercontent.com/Ce-lCfrfP2SS0xuP2hOj304yJWrUynlacLA9klXSmdMeubuY4jxSnbriKpuqN4nJyQU=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Aggiunte 14 nuove foto",
+        "- Aggiunti 30 nuovi proverbi",
+        "- Risolto un problema di refresh"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bgpaglia.potawatch&hl=en&gl=us",
+    "appId": "com.bgpaglia.potawatch"
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Altimeter Watch Face",
+    "summary": "An original attempt to capture classic Altimeter look and feel into a watch face",
+    "icon": "//lh3.ggpht.com/6cDRqgIT1dbxffAHMd8MJDdBCwVGMLzfsWjZZFs-BE-8mrjSe3_xEvYRXQTWsyBn0Yw=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.5,
+    "reviews": 13,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "December 19, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "This watch face is an original creation the second entry in my \"Pilot's Toolkit\" series. I have seen many attempts at turning Altimeters into watch faces. Yet, I had to create this one.In my humble opinion, they all failed to capture two basic principles of this iconic flight instrument:- It must be 0 based. The whole point of the altimeter is to know your offset from the ground / 0.- It should not contain 2 digits numbers. You have never seen 10, 11 or 12 on an Altimeter :)This is an attempt to capture the \"spirit\" of a classic avionics Altimeter as opposed to be a yet another Bell&Ross replica.The small and big hands indicate hours and minutes. You may notice a slight bevel effect on the hands tails.Seconds are visible via an actual see-through window on the right, which reveals a spining disc. I kept the IN.Hg index (normally a pressure offset) to replicate the actual instrument.Date is displayed in the upper left window on a rotating bezel.Accent color (used to draw date) is configurable via on-watch menu.Battery Level is represented by the striped area. If you see all of it, you are at 100%, half at 50% and so on. It does not provide a detailed reading but preserves the look and feel. Ambient mode removes everything but hands tips and main ticks, rendered with a light green glow.Do not hesitate to drop feature requests at support@seenapps.comIf you like our watches, don't miss the good stuff https://twitter.com/SeenApps",
+    "descriptionHTML": "This watch face is an original creation the second entry in my &quot;Pilot&apos;s Toolkit&quot; series. <br>I have seen many attempts at turning Altimeters into watch faces. Yet, I had to create this one.<br><br>In my humble opinion, they all failed to capture two basic principles of this iconic flight instrument:<br>- It must be 0 based. The whole point of the altimeter is to know your offset from the ground / 0.<br>- It should not contain 2 digits numbers. You have never seen 10, 11 or 12 on an Altimeter :)<br>This is an attempt to capture the &quot;spirit&quot; of a classic avionics Altimeter as opposed to be a yet another Bell&amp;Ross replica.<br>The small and big hands indicate hours and minutes. You may notice a slight bevel effect on the hands tails.<br>Seconds are visible via an actual see-through window on the right, which reveals a spining disc. I kept the IN.Hg index (normally a pressure offset) to replicate the actual instrument.<br>Date is displayed in the upper left window on a rotating bezel.<br>Accent color (used to draw date) is configurable via on-watch menu.<br><br>Battery Level is represented by the striped area. If you see all of it, you are at 100%, half at 50% and so on. It does not provide a detailed reading but preserves the look and feel. <br><br>Ambient mode removes everything but hands tips and main ticks, rendered with a light green glow.<br><br>Do not hesitate to drop feature requests at support@seenapps.com<br>If you like our watches, don&apos;t miss the good stuff https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/ntmX2l2f_a0sQ8OMCiGCE8saYs05sk1npbKMCi08tO3FMeor6lfXuMTzTDUcwIKHmlo=h310",
+        "//lh6.ggpht.com/Hp7GRf3hNCRThoW_im2eSvAe8O5I3MxhxyTD6cdNZMFBnNqEWp3bsP6vXTuQOEwYlYs=h310",
+        "//lh3.googleusercontent.com/yC1WFJPYegawO87HITTe7ssk7v8t-AIRpKfSoq-l5I0mImUSIEyL4_CRJCxucurzc-4=h310",
+        "//lh3.googleusercontent.com/YdGvDsSR4HhLfkCNHorSIci_qxc-ein8I1xAK-ohRpaa8ByLCha-6BniM6nEs2JLr8ZL=h310"
+    ],
+    "comments": [
+        "This is an amazing watch face for anyone who loves aviation or anything about it. Definitely the best altimeter watch face for Android Wear 😊",
+        "Seems awesome so far. Thanks!",
+        "Perfect Great for aviation nuts looks fantastic and is easy to read and all functions work.",
+        "Great original watchdial",
+        "Mental Been looking for these designs and you have nailed each one! Great job.. All of them are going to stay on my watch..thankyou for putting the time and effort in to them.. keep up he great work guys! ;)",
+        "Great service Great watch face plus I had an issue and they got back to me the same day!! A++"
+    ],
+    "recentChanges": [
+        "Created Independent Wear App with Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.altimeter_face&hl=en&gl=us",
+    "appId": "com.seenapps.altimeter_face"
+}

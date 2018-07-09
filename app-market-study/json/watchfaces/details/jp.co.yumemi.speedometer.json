@@ -1,0 +1,48 @@
+{
+    "title": "Speedometer Watch Face",
+    "summary": "A watch face for those who love cars, by designer Nairo.",
+    "icon": "//lh3.googleusercontent.com/JbmgEm6DecqFILey2PRHzkC3QZgntpi3qmYFEOEdHHqdm9kf7oq0ifWuXyJPsKO78OI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 56,
+    "developer": "YUMEMI INC.",
+    "developerId": "YUMEMI+INC.",
+    "developerEmail": "speedometer@yumemi.co.jp",
+    "developerWebsite": "https://www.yumemi.co.jp/labs/watch-face/",
+    "updated": "November 30, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This watch face always displays the time in both analog and digital forms, the date and the battery life.",
+    "descriptionHTML": "This watch face always displays the time in both analog and digital forms, the date and the battery life.",
+    "histogram": {
+        "1": 5,
+        "2": 4,
+        "3": 7,
+        "4": 13,
+        "5": 27
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/tjujLhxAgEhJD5obcJ_LCQ9NUnFHRGY9YYGilXUtxZ5A-Kianw_pIlb0WRLzmdXAyK4=h310",
+        "//lh3.googleusercontent.com/MznAa1VTNxe9xqiHT3AzdQ56F3y3Zy_w6H7u1p4IIm_EUBHesFwhwOutAQwG83MMcmo=h310",
+        "//lh3.googleusercontent.com/iOgQaiy5EVX_73_7xhm6-RrLL-1LjnwHsCf5nWG3H1OUZlWxFTYrUvF_Oa_34fFvsw=h310"
+    ],
+    "comments": [
+        "freeze on my moto 360 gud but freeze all the time take long to display time",
+        "Am/pm markers work be nice thanks",
+        "What do i need to do with this ?",
+        "lg 5.1.1 good, needs seconds tho."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yumemi.speedometer&hl=en&gl=us",
+    "appId": "jp.co.yumemi.speedometer"
+}

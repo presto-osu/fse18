@@ -1,0 +1,47 @@
+{
+    "title": "FlipFace",
+    "summary": "Minimal Android Wear watchface - This is a very first shot, feedback please!",
+    "icon": "//lh5.ggpht.com/yblyhUGJthAiXcANl9bof8mdaaM97W_KeO2hWyyZ81tAEELLt7098IvMgvLCKun4xuVo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 12,
+    "developer": "Jonas Petersson",
+    "developerId": "Jonas+Petersson",
+    "developerEmail": "jonas@petersson.se",
+    "developerWebsite": "http://home.petersson.se/android",
+    "updated": "January 25, 2015",
+    "version": "1.3.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "This app is just a carrier for the a simple Android Wear watch face with a few simple goals: • Easy to read • Only use top half of the display to allow notification space • Include battery percentage and day of the week plus date in text form according to watch localeNo frills for now, but that may change...",
+    "descriptionHTML": "This app is just a carrier for the a simple Android Wear watch face with a few simple goals:<br> &#x2022; Easy to read<br> &#x2022; Only use top half of the display to allow notification space<br> &#x2022; Include battery percentage and day of the week plus date in text form according to watch locale<br>No frills for now, but that may change...",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/SZYnzWNN5-L2ZQIDHFftbWtqDNcejZNAn88b60yATnxG_BgmSupa0VMbKiQfH9-ntg=h310",
+        "//lh5.ggpht.com/k_js7KToHdofidUpuTaRULQZnmN_AlwC1oCdifRjJOYQUU1XP81sB5y6_Lk8V5sMIg=h310"
+    ],
+    "comments": [
+        "Works The date overlaps the clock and the clock face is noticeabley low resolution.  (original lg g watch running 5.0.1)"
+    ],
+    "recentChanges": [
+        "Better support for watches with resolutions that are not close to my own Moto360.",
+        "Thanks go to Дмитрий for testing!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.petersson.wear.flipface.zaptest&hl=en&gl=us",
+    "appId": "se.petersson.wear.flipface.zaptest"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "ARN News Centre",
+    "summary": "Top quality news reports and news bulletins which play every hour from Dubai",
+    "icon": "//lh3.googleusercontent.com/_KgOfzum0LrkhF7Xg2JMDepVbyoGbX6YEMr3klQZiPpQYrqSUbMORCO-ID-hChng0A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 107,
+    "developer": "Arabian Radio Network",
+    "developerId": "Arabian+Radio+Network",
+    "developerEmail": "aman.hundal@arn.ae",
+    "developerWebsite": "http://arn.ae/",
+    "updated": "November 27, 2017",
+    "version": "1.1.1",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "The ARN News Centre is made up of a multicultural team of experienced journalists who produce quality bulletins, features and reports for the Arabian Radio Network.Broadcasting almost 700 news bulletins a week, with dedicated digital coverage across a variety of multimedia platforms, it is the number one source of national news in the UAE, committed to providing accurate, comprehensive and objective updates.With strong links to the country’s ministries, government departments and key decision makers the ARN News Centre is committed to providing up to the minute content and context, keeping listeners and its online audience across the latest developments in the UAE and beyond.With a primary focus on local news and events, the ARN News Centre is also renowned for its breaking news and sport coverage, standing out as a reliable resource for keeping tabs on major happenings around the world.",
+    "descriptionHTML": "The ARN News Centre is made up of a multicultural team of experienced journalists who produce quality bulletins, features and reports for the Arabian Radio Network.<br><br>Broadcasting almost 700 news bulletins a week, with dedicated digital coverage across a variety of multimedia platforms, it is the number one source of national news in the UAE, committed to providing accurate, comprehensive and objective updates.<br><br>With strong links to the country&#x2019;s ministries, government departments and key decision makers the ARN News Centre is committed to providing up to the minute content and context, keeping listeners and its online audience across the latest developments in the UAE and beyond.<br><br>With a primary focus on local news and events, the ARN News Centre is also renowned for its breaking news and sport coverage, standing out as a reliable resource for keeping tabs on major happenings around the world.",
+    "histogram": {
+        "1": 8,
+        "2": 6,
+        "3": 8,
+        "4": 14,
+        "5": 71
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6r4QPtOmD4-gdAG-jYkhA9Do4-sj8N3I8rsQ8JCOvVi5nf88dib5yWOEUr4oodATt1Au=h310",
+        "//lh3.googleusercontent.com/BRd12fiy1JetWYrpK29X2Uv5ZCDaaLnf3OuoMoiPbAZHF6FMlSXdhAwybn-jbFL1FuY=h310",
+        "//lh3.googleusercontent.com/pDmF9lxgCJg9LWHLRbJOpFpF9PgkAFwWvR2MKzIsi4ydoyCjnhVcy-YjawtPSEkuPtUc=h310",
+        "//lh3.googleusercontent.com/UmRFf_6fuxVGpGrLIQg0T-kxG-8Eozee0ZLPRTshBPldf8EC8l38u2EhcWNyRag75WY=h310",
+        "//lh3.googleusercontent.com/cSmRE5SmkX_R8HpCbYjRIh7tzXuzu2bWRRG4boMZCHqyN9ifcnZ_AN0Bhrth547iu0Y=h310",
+        "//lh3.googleusercontent.com/_P4CrO05dy-gPArwZk3uKPL_0k_uhov5pyokgrNMs-mqgNF0ow4rFMl1YY8WW1ipmYQ=h310",
+        "//lh3.googleusercontent.com/827ZuHUQPsIaXxjrAjyofv_uG-IEZBRLTNTNoPdGIAQtUD_GT2IezRkPZuExVORmxw=h310",
+        "//lh3.googleusercontent.com/BTDGNMJER0nS716AxKWBxwbfsiZrQEgDvoelOBvlbSPMPvGYDbsN7IkkMRTtMEsCTg=h310"
+    ],
+    "comments": [
+        "Let me check. First....",
+        "Fix needed Special news- audio has no playback control like seeking, pause and there is not supported to play in the background. It stops if I switch app, also if the phone is locked, funniest thing is that I can't resume the audio, I have to listen to the same thing again because no seeking option available..... Please Fix this.                 Few more suggestions... Please make audio files like news downloadable, please add Malayalam audio/voice news everyday (downloadable)",
+        "Minor error Audio clips stop playing when screen turns off in lollipop - Samsung J7",
+        "Unable to play any news I am unable to play any kind of voice news especially malayalam news, special news or anything",
+        "I am not getting the sound clips. When checking showing blank only. Pleaes advice what to do",
+        "Amazing news app in UAE I love it. Has great customisation options and notifications"
+    ],
+    "recentChanges": [
+        "Minor enhancements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.arn.arnnews&hl=en&gl=us",
+    "appId": "com.arn.arnnews"
+}

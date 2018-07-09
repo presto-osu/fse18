@@ -1,0 +1,55 @@
+{
+    "title": "TickTick Wear - Todo List",
+    "summary": "Wearable to-do application for TickTick",
+    "icon": "//lh3.googleusercontent.com/ezkZeQUwc2NGEMPVgEuLyhKDAbpuwtGKpB5rV96Q4djxPxqbxkjCLoYrjX-mU0TfosE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 288,
+    "developer": "Appest Inc.",
+    "developerId": "7269704759597705101",
+    "developerEmail": "ticktick.com@gmail.com",
+    "developerWebsite": "http://ticktick.com",
+    "developerAddress": "FLAT/RM 1002C\nGINZA SQUARE\nNO.567 NATHAN ROAD\nKL\nHK",
+    "updated": "December 29, 2015",
+    "version": "1.0.6",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "TickTick for Android Wear lets you access to-dos on wrist without taking phone out of your pocket. Key Features: - View tasks scheduled on today and mark them done  - Create tasks with voice command by saying ‘Ok Google, take a note…’ - Change due date of a task - Complete a checklist by checking off items one by one  - Seamlessly sync tasks with TickTick Android phone TickTick for Android together with TickTick for Android Wear allows you never forget a to-do.",
+    "descriptionHTML": "TickTick for Android Wear lets you access to-dos on wrist without taking phone out of your pocket. <br>Key Features:<br> - View tasks scheduled on today and mark them done <br> - Create tasks with voice command by saying &#x2018;Ok Google, take a note&#x2026;&#x2019;<br> - Change due date of a task<br> - Complete a checklist by checking off items one by one <br> - Seamlessly sync tasks with TickTick Android phone <br>TickTick for Android together with TickTick for Android Wear allows you never forget a to-do.",
+    "histogram": {
+        "1": 69,
+        "2": 19,
+        "3": 24,
+        "4": 46,
+        "5": 130
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/5RzL_Y8xqNmyPjsKXgz3xDXnoqvSbFkr_jzQ7IAeouVUgAq_eHUujhpC7qW5OVgsqUcg=h310",
+        "//lh5.ggpht.com/FNfGY-DFkMHZRjMaOwNgtTSW0Mo2B79q0LSzz7Cys4fQ1Ukwh8szlLcyNgymgO4xCAd_=h310",
+        "//lh3.ggpht.com/yqwGNKAkJJQC2QtBG_apj8kYIzvnKRld1R5nXxAgu6UmMpqFOuS1PZUUAzYjh4I6wKba=h310",
+        "//lh4.ggpht.com/c8kVtL2TFIUZ2uFu6qllfoDjezlSiGuUJ-XI8fMgOOd-FD7vVCGXPzjqMJ7LMAxT5Q=h310"
+    ],
+    "comments": [
+        "Any chance to get it updated to support Wear 2.0 features (e.g. gestures, scrolling with wheel to switch between tasks)? Also would be perfect to see several tasks on the screen (use available space more effectively). Watch: LG Watch Style  UPD Also the app hangs loading tasks from the phone. Sometimes it takes 10 sec, but usually more than a minute.  Impossible to use. As Wear app is critical in my ecosystem, going to unsubscribe from ticktick and move task management to google keep",
+        "The first time I opened, I try adding a task but nothing happened. I gave up, and when trying to open the app again it just got stuck in \"loading\". I realized that the app doesn't work when the watch is only on wifi mode, this app needs bluetooth or it won't work. I'm tried everything and adding a task doesn't work no matter what.",
+        "1. Gets stuck on \"loading...\" on my Huawei watch most of the time. Pleas fix! 2. On the times it does work, it shows only one task on the whole screen at one time. The photos/screenshots here show multiple tasks with checkboxes on the left side. How do I get that?",
+        "Zenwatch 2 It kept saying loading. Not working at all.  Thanks to Felipe I turned off WiFi mode and it works now. Add 1 more star to 2. Hope they fix this issue soon.",
+        "Uninstalled it fastest than any application I've gotten from a long-trusted source development company.  You guys need a new Wear developer?  I'm more than ready to take this on!  Because very sadly, you are greatly missing out market-share in the Wearables-world (yes there is indeed) and likely missing out in mobile to-do lists altogether.  I just could cancel long-time TickTick, and either write my own, or Google Keep (that works okay on watch/every platform), or explore alternatives.  This is serious oversight to ignore timeframe of Dec. 2015 to today, March 2017 of released/purchased watches, and useless Wear app for TickTick.  So what do you say? Need a  Wear developer to untangle this mess?",
+        "Stuck on loading, sometimes til it crashes. I couldn't get notifications at all. Now partly solved after a reinstall on Android wear app on my op3. But can't get the notification with sound on my watch, even if I choose only make sound on Huawei watch while wearing it, a setting in the android wear app. Please solve this! Especially the crash issue. However I do love the platform, the possibility and options t brings me and that finally someone made an app that takes on Android wear and all. When isse s fixed it will be the greatest! 🙌 Am changing to a 5 star whenever that happens, promise"
+    ],
+    "recentChanges": [
+        "1.0.6",
+        "- We've fixed some bugs."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ticktick.task.microapp&hl=en&gl=us",
+    "appId": "com.ticktick.task.microapp"
+}

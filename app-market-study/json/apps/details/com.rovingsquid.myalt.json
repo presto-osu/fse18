@@ -1,0 +1,53 @@
+{
+    "title": "myAltitude",
+    "summary": "See your Altitude, Min and Max Altitudes, Oxygen level and more! Wear Supported!",
+    "icon": "//lh3.googleusercontent.com/yBP0UBtDS5zMHqL36Vwcj5JRW7kVr2G6CqR_UqOGETMPvPRuWkrG32JEY3D47Liv5mPB=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.2,
+    "reviews": 10,
+    "developer": "Roving Squid",
+    "developerId": "6613526702694181539",
+    "developerEmail": "Support@RovingSquid.com",
+    "developerWebsite": "http://RovingSquid.com/",
+    "developerAddress": "P.O.Box 5532\nLaconia, NH 03247",
+    "updated": "June 19, 2015",
+    "version": "1.0.9",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "See your Altitude, and details of your trip, including Minimum and Maximum Altitudes, Oxygen levels and more!  Full Android Wear support!Includes improved & tested support for:Moto 360ASUS ZenWatch andSamsung Gear",
+    "descriptionHTML": "See your Altitude, and details of your trip, including Minimum and Maximum Altitudes, Oxygen levels and more!  Full Android Wear support!<br><br>Includes improved &amp; tested support for:<br>Moto 360<br>ASUS ZenWatch and<br>Samsung Gear",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 3,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/MLA6miBaH7kLCmFDqmvE6RolI9pjoWQy7Qmq5FWD86fjl20mfQUVrRQDuNicn7NObA=h310",
+        "//lh3.googleusercontent.com/vEScF63hYLyg1ALqghTQaio32ZPOqr5H0TYsyV_O0oSUno7fli-7t-2xFeIE7PAxc6uy=h310",
+        "//lh3.googleusercontent.com/0gqSGMFwAUwG80z1fykT1I6GpDOAnqt9bOODzFKSQhHcpS1mdTOXe93fFdD6tdU982nw=h310",
+        "//lh3.googleusercontent.com/bMLB997N66kBgEGdUtcPQigqavbVSCYpx4JDW2e-X3RwUjsBHK3C4kdZ27y5R-qPzH8=h310",
+        "//lh3.googleusercontent.com/lbOwyjuwjQsk6494ibEGpdiRInG_M5JEIrSNui5udEJ2TKmuaNR7Zz9nboXzmjHZweFi=h310",
+        "//lh3.googleusercontent.com/91Cp61Z1zTIbagOkVJovuDlxJv00KuCJNJB8hxTjjmQGMOAGe-JYySdrRaUnlEnHm0ED=h310"
+    ],
+    "comments": [
+        "Works like a charm!",
+        "Quick and easy altitude",
+        "Useless Took forever to get a reading. Showed feet on app but stuck in metres on watch. Uninstalled."
+    ],
+    "recentChanges": [
+        "Added numerous Language Localizations.... If you notice any incorrect translations, please let us know!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rovingsquid.myalt&hl=en&gl=us",
+    "appId": "com.rovingsquid.myalt"
+}

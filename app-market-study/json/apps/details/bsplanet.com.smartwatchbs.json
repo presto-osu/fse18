@@ -1,0 +1,53 @@
+{
+    "title": "BSP WiFi",
+    "summary": "BSP WiFi allows you to view the data of BS3000 on your SmartWatch.",
+    "icon": "//lh3.googleusercontent.com/Lkz0E0xl6XUO0w5qOSgknMGUTakmwAwqpPZH9yEODf3vvSHp82BASejKlddc-yN6H1I=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 6,
+    "developer": "BS Planet Technology Solution",
+    "developerId": "BS+Planet+Technology+Solution",
+    "developerEmail": "bsplanetsrl@gmail.com",
+    "developerWebsite": "http://www.bsplanet.com",
+    "developerAddress": "Loc. Casona 1065/A\nGaggio Montano\n40041 Bologna\nItalia",
+    "updated": "February 15, 2018",
+    "version": "2.0.8",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "BSP WiFi è un'applicazione GRATUITA disponibile per dispositivi Android Wear. Utilizza la connessione WiFi del dispositivo per collegarsi al proprio BS3000 EvoMap e ricevere in tempo reale lo stato dei Canali.Questa applicazione ti permetterà di Geolocalizzare i tuoi dispositivi. Le informazioni relative alla posizione vengono inviate tramite la connessione WiFi dal BS3000 EvoMap collegato.Attenzione! Per una corretta indicazione sulla direzione è necessaria una bussola interna al dispositivo.Se il Risparmio Energetico del dispositivo è attivo, l'applicazione BSP WiFi spegnerà automaticamente lo schermo quando lo SmartWatch è a riposo per risparmiare batteria.",
+    "descriptionHTML": "BSP WiFi &#xE8; un&apos;applicazione GRATUITA disponibile per dispositivi Android Wear. Utilizza la connessione WiFi del dispositivo per collegarsi al proprio BS3000 EvoMap e ricevere in tempo reale lo stato dei Canali.<br><br>Questa applicazione ti permetter&#xE0; di Geolocalizzare i tuoi dispositivi. Le informazioni relative alla posizione vengono inviate tramite la connessione WiFi dal BS3000 EvoMap collegato.<br><br>Attenzione! Per una corretta indicazione sulla direzione &#xE8; necessaria una bussola interna al dispositivo.<br><br>Se il Risparmio Energetico del dispositivo &#xE8; attivo, l&apos;applicazione BSP WiFi spegner&#xE0; automaticamente lo schermo quando lo SmartWatch &#xE8; a riposo per risparmiare batteria.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/M7HlA5OsFBf7N9qHs3nBzh_xPGi84rCA9aiSColVk2f_lv5fkUzSjhGB7ePJuRFq39c=h310",
+        "//lh3.googleusercontent.com/HnjWOg2RLQgdb9MiOXc4xaHdAdmaQwcnOZRYhcJVzbsmgywkKXTwmJ8XyHdVPpQ1yaE=h310",
+        "//lh3.googleusercontent.com/JzpKbI44P70BpxYGcvmCRxd_u9ZA63WyL1CgeNygr8Seypi42QH4zPGlU0L3gE500xE=h310",
+        "//lh3.googleusercontent.com/CZN0NIkI_P6T5eKcQuu9rmZcx6hW_rPaZK8QULsC_uQ3DIogijf3y8M49t3b2ePQmg=h310",
+        "//lh3.googleusercontent.com/m2Vbwg2DrX7t0pwjBNwZuzkCpPoa8pGXKQwNzWdwDn49LkWULSDN3Vf5LNYBRqwdsKg=h310",
+        "//lh3.googleusercontent.com/_SitK42aDKMFcKzEFRPBcdsT-T8fAQK-VWC0wtVEWREQzvACew_s_42vD2YbmBJiSIMl=h310",
+        "//lh3.googleusercontent.com/QN2Ziq5JSiJoquWKSSppbDIsxyJKRM17-r44PmCDJmSydAaeuJ_hLefFJ-1WvvNXCKE=h310",
+        "//lh3.googleusercontent.com/9F0KaHi0MHYr8K-05iyf13tWP4nWWwjEGkuZfMZ9aDBtr2Wevh8Jd61R-CjMvMm1XHw=h310",
+        "//lh3.googleusercontent.com/aqRAKK0b8OS9vr4DFwnZ8VBs7EtKZO84q1NA9DvuRxDJeNfKc_5xOmXVfy1CyRB0Bg=h310",
+        "//lh3.googleusercontent.com/1nnyu8BBljiHwYqKoL6J9JHNdXBbC-mIU7LfXxhAcMX54s1Wargz0GsL10pfogZvVw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Aggiunto il supporto alla Veriosione EvoMap 2.3.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=bsplanet.com.smartwatchbs&hl=en&gl=us",
+    "appId": "bsplanet.com.smartwatchbs"
+}

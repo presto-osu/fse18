@@ -1,0 +1,54 @@
+{
+    "title": "DressWatch Watch Face",
+    "summary": "Combine your Android Wear Watch face with a simple photo of your clothes!",
+    "icon": "//lh3.googleusercontent.com/RY81A0yWNA3jJGBmldAtV6mM_vcgw8rr6d1cNIXgLTUZbAXkrm22r43G2D9wlOLcqQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.2,
+    "reviews": 772,
+    "developer": "Fabrizio La Rosa",
+    "developerId": "Fabrizio+La+Rosa",
+    "developerEmail": "support@dresswat.ch",
+    "developerWebsite": "http://dresswat.ch",
+    "developerAddress": "Via San Paolino, 122, Italy, Lucca (LU)",
+    "updated": "May 24, 2016",
+    "version": "2.0.8",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Have fun changing color to your face with a simple photo , or create yourself a combination of colors to display !With DressWatch you'll always be matched to your lifestyle , your clothing , or you can simply give vent to your creative imagination , by inserting your favorite colorsWith its simple and minimal graphic, DressWatch is the quadrant that everyone was waiting for , to exit out of the box in just a few simple steps:•Take a Picture of your dress or Select picture from the Gallery•Select 2 colors extracted automatically•Change the colors to your liking•Look at your watch!Dress Watch is adaptable to any size or shape of your watch, either square or round, resulting one of the most captivating Watchface of the moment. Not compatible Devices:Sony SmartWatchSony SmartWatch 2Samsung GearSamsung Gear 2Samsung Gear Neo 2Samsung SThis include the Watch faces, and is only compatible with Android Wear OS",
+    "descriptionHTML": "Have fun changing color to your face with a simple photo , or create yourself a combination of colors to display !<br>With <b>DressWatch</b> you&apos;ll always be matched to your lifestyle , your clothing , or you can simply give vent to your creative imagination , by inserting your favorite colors<br><br>With its simple and minimal graphic, <b>DressWatch</b> is the quadrant that everyone was waiting for , to exit out of the box in just a few simple steps:<br><br>&#x2022;Take a Picture of your dress or Select picture from the Gallery<br>&#x2022;Select 2 colors extracted automatically<br>&#x2022;Change the colors to your liking<br>&#x2022;Look at your watch!<br><br><b>Dress Watch</b> is adaptable to any size or shape of your watch, either square or round, resulting one of the most captivating Watchface of the moment. <br><br><u>Not compatible Devices</u>:<br>Sony SmartWatch<br>Sony SmartWatch 2<br>Samsung Gear<br>Samsung Gear 2<br>Samsung Gear Neo 2<br>Samsung S<br><br>This include the Watch faces, and is only compatible with Android Wear OS",
+    "histogram": {
+        "1": 41,
+        "2": 27,
+        "3": 65,
+        "4": 229,
+        "5": 410
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/sR5bV7cX0tEH7ojFlHJ8DFHzQ4H45eLzVQYm9TZ-2r6MXWTFFEegEXnaWXiLWuKmXGY=h310",
+        "//lh3.googleusercontent.com/03W-vQTJE3E-JftpONDCRa5IadiUiVkm5FLnNFv95Y1oBQVBUXYyWW1fI9mUDsuRkg=h310"
+    ],
+    "comments": [
+        "for some reason it isnt showing in my android wear app or on my watch (moto 360 1st gen) if u fix i give 5star cos these watchfaces look realy cool",
+        "The weather still rarely displays correctly for my location, but besides that its my main watch face.",
+        "Great faces! Works great. Just a few slow downs during animations, other than that is great. A few more face designs won't hurt. Thanks guys!!!",
+        "Great concept but no way to actually set the face Edit: figured out how to set the watch.  When downloading fresh, notification will appear on watch if you want to install. Otherwise, it cannot be found on Android Wear play store.",
+        "Awesome watch face! Love changing the colors to match what I am wearing.",
+        "Ok but fix weather Weather is not updating and doesn't show the correct temperature information. Good app, but needs to be fixed."
+    ],
+    "recentChanges": [
+        "!!Added wear settings for set our colors!!",
+        "Fix Nexus 5X camera upside down",
+        "Important Bug Fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.meedori.dresswatch&hl=en&gl=us",
+    "appId": "com.meedori.dresswatch"
+}

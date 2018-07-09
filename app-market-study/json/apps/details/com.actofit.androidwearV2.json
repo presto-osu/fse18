@@ -1,0 +1,57 @@
+{
+    "title": "Actofit Engine",
+    "summary": "Actofit Android Wear app that Auto tracks and Auto logs workouts.",
+    "icon": "//lh3.googleusercontent.com/Q_COB8VjIFS7aYahhotdmBS0bW_esZcC7ZVH3TN50zFGy3rFr8XO8VFAad_g8PCqXXOJ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.7,
+    "reviews": 64,
+    "developer": "Actofit Developers",
+    "developerId": "Actofit+Developers",
+    "developerEmail": "developers@actofit.com",
+    "developerWebsite": "http://actofit.com",
+    "developerAddress": "Actofit Wearables 501, 502 Ideal Trade Center, Sector 11, CBD Belapur 400614, Navi Mumbai, India",
+    "updated": "January 20, 2018",
+    "version": "Varies with device",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "size": "Varies with device",
+    "description": "* Turns your smart watch into your fitness companion and helps you maximize the output of your workout without worrying about logging and entering each detail about every exercise. * Wirelessly sync with the Actofit app on your smartphone to get detailed analytics on your workout and take your fitness to the next level.* When you exercise, your motion is tracked and compared to the database of exercises you record, allowing Actofit to successfully detect your exercise and count the number of reps.* Force, Power, Velocity is evaluated on every set and you can see the numbers on your mobile app along with your previous exercise logs to compare the progress made.* Increases efficiency by giving you progression charts and shows you what’s working and what’s not. It not only tracks your exercises but it learns while you burn. * Feel you’ve lifted more than the app detects? You can edit the amount of weights lifted to give you more tailored and accurate results. * With the guided workout mode follow a workout program and achieve that dream body you’ve been meaning to obtain. * Stay motivated by keeping tabs on the progress your friends make when you connect your app with Facebook.",
+    "descriptionHTML": "* Turns your smart watch into your fitness companion and helps you maximize the output of your workout without worrying about logging and entering each detail about every exercise. <br>* Wirelessly sync with the Actofit app on your smartphone to get detailed analytics on your workout and take your fitness to the next level.<br>* When you exercise, your motion is tracked and compared to the database of exercises you record, allowing Actofit to successfully detect your exercise and count the number of reps.<br>* Force, Power, Velocity is evaluated on every set and you can see the numbers on your mobile app along with your previous exercise logs to compare the progress made.<br>* Increases efficiency by giving you progression charts and shows you what&#x2019;s working and what&#x2019;s not. It not only tracks your exercises but it learns while you burn. <br>* Feel you&#x2019;ve lifted more than the app detects? You can edit the amount of weights lifted to give you more tailored and accurate results. <br>* With the guided workout mode follow a workout program and achieve that dream body you&#x2019;ve been meaning to obtain. <br>* Stay motivated by keeping tabs on the progress your friends make when you connect your app with Facebook.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 4,
+        "4": 12,
+        "5": 48
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hMJYpky2pn81fRhqnW_DMPgghVzYTXbsLIZ6OAJbAhDHAcSbApMzOhjD6BpKLWQCIPQ=h310",
+        "//lh3.googleusercontent.com/2CR41Eff9XK2TYzc5-r2_WDmUHDM1Et2DpLXO9gnHzHOm9e5Fp8FLaaIZioBOASu8-g=h310",
+        "//lh3.googleusercontent.com/qP9czKz3URbFErvz9lWdbNYGlBOjssKtoEm6sCLmPkNl6dn1RzWod62BvIEH8YMyhg=h310",
+        "//lh3.googleusercontent.com/gdyEssQmE9NCqJ15Sb3LcupDg8vlFNEwaed4zS1P08scVdRpiaZlbWKDeOGvwc2P1g=h310",
+        "//lh3.googleusercontent.com/gH4mhDdtVNpX6DQbPJ2WyGhMInSNKh50-zFSfLmw027EO_xexzs3M4vhQDltve5Rpg=h310"
+    ],
+    "comments": [
+        "Much boring while verifying mail I'd. Good for those who exercise at home. Videos of different exercise.  Overall good app.  Loving it.",
+        "Best smartwatch app...easy to use..help me to stay fit..autotrack exercise is great..",
+        "This is a best fitness tracking app I have ever used . 👌",
+        "Trying this new fitness app looks great and having lots of features.",
+        "Very good app...help me to get fit..very excited to use this.. awesome app..",
+        "User friendly interface and useful for gim freaks"
+    ],
+    "recentChanges": [
+        "* New and Improved Guided Workouts are finally here. You can now follow any of the three programs and track its progress at the same time.",
+        "* Minor bug fixes and UI changes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.actofit.androidwearV2&hl=en&gl=us",
+    "appId": "com.actofit.androidwearV2"
+}

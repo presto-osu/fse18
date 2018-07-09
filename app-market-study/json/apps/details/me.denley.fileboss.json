@@ -1,0 +1,61 @@
+{
+    "title": "File Boss for Android Wear",
+    "summary": "A file browser for Android Wear devices.",
+    "icon": "//lh6.ggpht.com/JkWASoS0TMEDY3bkwEpSUT8ElSJ5DJ1CNFplBVolsf-wkZGjIENxMcuiSeu9Fxf7xG8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.7,
+    "reviews": 79,
+    "developer": "DMB",
+    "developerId": "DMB",
+    "developerEmail": "fileboss@denley.me",
+    "developerWebsite": "http://myapppolicy.com/app/fileboss",
+    "developerAddress": "PO Box 71\nBlack Forest, SA 5035\nAustralia",
+    "updated": "April 2, 2015",
+    "version": "1.1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "File Boss is a file browser for Android™ Wear. View, open, copy, move, and delete files from your Android Wear watch.To use this app you must have a smartwatch running Android WearFeatures:•  Open image, text, and music files on your watch•  Copy or move files between your watch and your phone•  Delete files from your watch or phone (where file permissions allow)More features are in development.Feedback and feature requests are encouraged. Please don't hesitate to contact the developer with any issues or suggestions. This app is in continual development, and your support is appreciated!",
+    "descriptionHTML": "File Boss is a file browser for Android&#x2122; Wear. View, open, copy, move, and delete files from your Android Wear watch.<br><br><br><b>To use this app you must have a smartwatch running Android Wear</b><br><br><br><b>Features:</b><br>&#x2022;&#x2003; Open image, text, and music files on your watch<br>&#x2022;&#x2003; Copy or move files between your watch and your phone<br>&#x2022;&#x2003; Delete files from your watch or phone (where file permissions allow)<br><br><br>More features are in development.<br><br><br>Feedback and feature requests are encouraged. Please don&apos;t hesitate to contact the developer with any issues or suggestions. This app is in continual development, and your support is appreciated!",
+    "histogram": {
+        "1": 15,
+        "2": 3,
+        "3": 11,
+        "4": 15,
+        "5": 35
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/938kWT3kDwnOHUft-Oh-nVkpI1trcGKDxCTMIBnBBVsNygyXNkNM4CWZe0MOJqKkrg=h310",
+        "//lh3.ggpht.com/PnfRVvx9G23DnYVP8hTPoB2-PCXgr82yGmQP0M8oM7wogw_qhq0DHkVnw-JiQZ2pOJ4=h310",
+        "//lh6.ggpht.com/Nu-7HTjO1GNo7qfpBW7UAHcTHCz19WZTez_mL63REaov2jU5RO-HVwTEDdsLCo9wClo=h310",
+        "//lh3.ggpht.com/u0skr_roBg8zUsWBdxEFCxmK_vXKry3q1eeT564TiFz3br4PbNoE3FbGFmrekb2lQ-w=h310",
+        "//lh6.ggpht.com/yoXgJ2d-PCvMSTobykM7KrRMyd_kMTKEXYNY9ePdonYZx-lvSjKkuhmCMgZKf8ysQHQ=h310",
+        "//lh3.ggpht.com/0BVpJivXNhAssf8d1WzmjdwZImOAhgZNIzhStWWS8HbVwd-7USRjAmDK2vmXlgioOIc=h310",
+        "//lh6.ggpht.com/bjAM4bBkDKx4NcnmVe3vwewZN25zhPDWux1s6woEkQK0bih5b8Nr9CdLUi-kJg2QPUE=h310"
+    ],
+    "comments": [
+        "The file explorer for the watch works fully but you cannot copy files from phone to watch. It just hangs. You can view files on phone, just can't copy them over or open them from the phone. Last update was from 2015 so that's probably why.",
+        "Doesnt Work Can't seem to copy files. I can only view file list and sometimes that doesn't work either. Would be great if it actually worked.",
+        "Decent Works as advertised. Crashes if you try to view a folder besides the internal storage.",
+        "Good file manager, needs rename function I like this app for its simple interface, it can move, delete, copy, view files. But it can't rename files. Would love this as a feature.",
+        "For wear to wear file operations in Android Wear 2 (the main reason for me to be interested in file browsers on watches lol), everything works great, so long as the file directory starts with \"/sdcard/\". For any watch to phone or phone to watch file operations, NOTHING WORKS...",
+        "Functional, but limited You can explore directories, but only the \"storage/emulated/0\" directory. You cannot explore the root directory, which is what I need to do."
+    ],
+    "recentChanges": [
+        "- Audio files can now be played (with bluetooth speakers paired to the watch)",
+        "- Non-empty directories can now be deleted",
+        "- Files are now sorted alphabetically with folders first",
+        "- New icons for openable file types",
+        "- Various bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=me.denley.fileboss&hl=en&gl=us",
+    "appId": "me.denley.fileboss"
+}

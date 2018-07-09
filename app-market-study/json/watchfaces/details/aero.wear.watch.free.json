@@ -1,0 +1,53 @@
+{
+    "title": "Aero Watch Free",
+    "summary": "Aviation Instruments on Your Wrist",
+    "icon": "//lh4.ggpht.com/i4PAf6SO7bQvTvnDl-dHEZfSuGyYDlu0WZ-n0AMOc-0pv8IzEOdvMvRkRuHggvQynA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.8,
+    "reviews": 13,
+    "developer": "Aero Glass",
+    "developerId": "Aero+Glass",
+    "developerEmail": "info@aero.watch",
+    "developerWebsite": "http://aero.watch/",
+    "developerAddress": "330 A Street #78\nSan Diego\nCalifornia 92101\nUnited States",
+    "updated": "May 19, 2015",
+    "version": "1.0_beta10",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Aero Watch provides all your necessary aviation instruments - right on your wrist!See details & features at: http://aero.watch/Aero Watch provides the following instruments on your watch, mobile & tablet:* Altimeter* Attitude Indicator* Heading Indicator* Speed Indicator* Vertical Speed Indicator* Turn & Slip Indicator* Clock & Stop watch* GPS raw data* RMI* CDI* HSIThis application is the free demo version for the Aero Watch Pro, and includes a small demo navigation database, with 21 global airports. Try the Pro version for a comprehensive navigation database including global coverage for airports and navaids. The Pro version also allow you to connect to an iLevil AHRS device.Airports contained in the demo version by ICAO code are the 20 busiest global airports plus a bonus airport:  EDDF, EGLL, EHAM, KATL, KDEN, KDFW, KJFK, KLAX, KORD, LFPG, LHBP, LTBA, OMDB, RJTT, VHHH, WIII, WMKK, WSSS, ZBAA, ZGGG, ZSPDThe application runs on a regular phone & tablet as well, with the same features as on the watch.For detailed documentation, visit our web site at http://aero.watch/",
+    "descriptionHTML": "Aero Watch provides all your necessary aviation instruments - right on your wrist!<br><br>See details &amp; features at: http://aero.watch/<br><br>Aero Watch provides the following instruments on your watch, mobile &amp; tablet:<br><br>* Altimeter<br>* Attitude Indicator<br>* Heading Indicator<br>* Speed Indicator<br>* Vertical Speed Indicator<br>* Turn &amp; Slip Indicator<br>* Clock &amp; Stop watch<br>* GPS raw data<br>* RMI<br>* CDI<br>* HSI<br><br>This application is the free demo version for the Aero Watch Pro, and includes a small demo navigation database, with 21 global airports. Try the Pro version for a comprehensive navigation database including global coverage for airports and navaids. The Pro version also allow you to connect to an iLevil AHRS device.<br><br>Airports contained in the demo version by ICAO code are the 20 busiest global airports plus a bonus airport: <br> EDDF, EGLL, EHAM, KATL, KDEN, KDFW, KJFK, KLAX, KORD, LFPG, LHBP, LTBA, OMDB, RJTT, VHHH, WIII, WMKK, WSSS, ZBAA, ZGGG, ZSPD<br><br>The application runs on a regular phone &amp; tablet as well, with the same features as on the watch.<br><br>For detailed documentation, visit our web site at http://aero.watch/",
+    "histogram": {
+        "1": 6,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/iB_96EsPBMWwe2O7PKUWgFmgJwPyoFNHi4cpZUZR_2AuqP8Hp8fX3iXpv0JJXLVkTA=h310",
+        "//lh5.ggpht.com/o6Tn26o81V6bk66pqdMgCnGHM0_PoMhuJOOYi_aewNGQIUakOw69TOcprLKcYqeYiNE=h310",
+        "//lh4.ggpht.com/iipnNclf9lXc0r_iM4Fik9z5RgTeaN7HB00O537hZDbSUrqq6uqscA1LmrLjC9CZQg=h310",
+        "//lh3.ggpht.com/gPJcYsZkKARNFZxekMbbZZVrX3zCwlarVTcOpveG3bdrPlTO3EKNdAc2D-840YfJTHo=h310",
+        "//lh4.ggpht.com/ljA7AIxI6sXaYd4G_YgdTOm6xK5jO1Gh78sq5kI2jPgORLEA8xDWDIJryBIE5jsZ2PkX=h310",
+        "//lh5.ggpht.com/Kir7tvVj15kCFNviZpgKGr6O0cMSvBHXFHLQ8_K4FqHVlrt-8sT3ZZX-e2lfl8jHRDE=h310",
+        "//lh3.ggpht.com/8pJ-xbmAMksp3xE33tEXcieGmxFTJF2GzuHhCAbw5aRQXimLlonpYvsD9ouH14ii=h310"
+    ],
+    "comments": [
+        "Read the reviews The reviews sum it up. Glad I tried the free version first before spending the cash. Crashes on start up, zero functionality. Based on your web site folks you need to step up your game. Negative reviews are bad for business",
+        "GPS INOP error... unusable..."
+    ],
+    "recentChanges": [
+        "added track up, north up and OBS modes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=aero.wear.watch.free&hl=en&gl=us",
+    "appId": "aero.wear.watch.free"
+}

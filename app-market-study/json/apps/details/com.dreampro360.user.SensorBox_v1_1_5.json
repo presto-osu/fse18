@@ -1,0 +1,61 @@
+{
+    "title": "Sensor Box for Wear",
+    "summary": "Test Sensor ability in android wear watch. Simple sensor graphic and application",
+    "icon": "//lh5.ggpht.com/88twz4Mr1aV6Z0SD3Uz3geLn731bwhNNNFR84RbX_seRacYnamWqg0RP2DqyoDste5c=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 29,
+    "developer": "Dreampro Technology Ltd.",
+    "developerId": "Dreampro+Technology+Ltd.",
+    "developerEmail": "dreampro360@gmail.com",
+    "developerWebsite": "http://www.dreampro360.com",
+    "updated": "October 13, 2014",
+    "version": "1.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Describe:This Apps testing sensor ability in Android Wear watch.  Support Android 4.3 or above and Bluetooth4.0  Support Moto360 Round LCD Display This is a completely different UI/UX experience for using round LCD displayFunction:Demonstration sensor application ( Heart Rate Monitor, Compass, Metal detector, Angle meter. Balance ball) and also simple sensor testing in graphic. List the number of sensor type support in the Android Wear devices.The Apps will automatically  the shape of LCD display. Support:            LG G Watch           Samsung Gear live            Moto360              or later device for Android Wear",
+    "descriptionHTML": "Describe:<br>This Apps testing sensor ability in Android Wear watch. <br> <br>Support Android 4.3 or above and Bluetooth4.0 <br> <br>Support Moto360 Round LCD Display<br> This is a completely different UI/UX experience for using round LCD display<br><br><br>Function:<br>Demonstration sensor application ( Heart Rate Monitor, Compass, Metal detector, Angle meter. Balance ball) and also simple sensor testing in graphic. List the number of sensor type support in the Android Wear devices.<br>The Apps will automatically  the shape of LCD display.<br><br> Support: <br>           LG G Watch<br>           Samsung Gear live<br>            Moto360  <br>            or later device for Android Wear",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 3,
+        "4": 8,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/B_rFrj9MxyoC96tqWyQTT0R4wer1hShIK3akf4Ko0P_uVzpMcT3BYV3uBdYBHn9dJQ=h310",
+        "//lh4.ggpht.com/mzyD0L8NI3dLR1Z_rNa26o11FkscxGLQ4n5zbtw0ORpbmSQH5Hke1qTZl8WEPw_o0j4=h310",
+        "//lh6.ggpht.com/uqe9Vwl5HbZQuTrvL1RfBE3V7-Xq840i8DtLZIK8B6bVFMvCqamNx4Gd4H5IKPpeGMA=h310",
+        "//lh5.ggpht.com/BLiudGgrb_wwwkswBfSJ9TNMX3l61JO0gwMTYt232Z_sY1TXSGRwQ-7SyZGnlFW5qlc=h310",
+        "//lh6.ggpht.com/aFBZ23UajvH077pvPRqG0f5NMwLosFmS7PloNHUb5Z6hcp0oNf7W75fw_ePyzu4EBg=h310",
+        "//lh4.ggpht.com/V64O1cbkt3b158IxyJZn1V9kWvBEW96gjJw1vcjR-fBO13kCte0GaA8JiVJa1eghP4Ew=h310",
+        "//lh6.ggpht.com/sgPA0qCWyeymRkgEChI68e4ZaE5Wj2OBG__WTT_pGD-FSAe9BedofqB-SfTp0aSGFS5y=h310",
+        "//lh3.ggpht.com/E14XAtB9SojIda5sNr6AvUW96Hn3fz1DmFgQQtAnep57d_dLztNNdq7aLNQVF5UM_UE=h310"
+    ],
+    "comments": [
+        "Quite good. but can you support the \"Rotation Vector\" sensor also? please.  It should be quite simple because you already supported many sensors such as acc, gyro, magnetic and linear acc.  \"Rotation Vector\" is provided by Android API.",
+        "Would love a recording feature with data export!!",
+        "Just what I was looking for"
+    ],
+    "recentChanges": [
+        "1.5  Support Moto360 Round LCD",
+        "1. Auto detect the LCD shape",
+        "2. New Compass UI for Round LCD",
+        "3. New Metal Detector UI for Round LCD",
+        "4. New Angle Meter UI for Round LCD",
+        "5. New UI/UX for Round LCD , user can          experience completely different operation",
+        "1.4        08-Oct-2014",
+        "fix  : Balance ball bug"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dreampro360.user.SensorBox_v1_1_5&hl=en&gl=us",
+    "appId": "com.dreampro360.user.SensorBox_v1_1_5"
+}

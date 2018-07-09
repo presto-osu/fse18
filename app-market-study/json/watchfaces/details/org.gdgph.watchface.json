@@ -1,0 +1,58 @@
+{
+    "title": "GDG Watch Face",
+    "summary": "Watch Face for Google Developer Groups (GDGs)",
+    "icon": "//lh3.googleusercontent.com/RS2tTiAZ3LJPOcyzSfNhjmuaH8GOIzN12n7ayyEjrO3JR7qvQECjjvovB1UEsFHN-23I=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.7,
+    "reviews": 19,
+    "developer": "Jomar Tigcal",
+    "developerId": "5038784345581775968",
+    "developerEmail": "jomar@tigcal.com",
+    "developerWebsite": "http://www.tigcal.com",
+    "updated": "February 23, 2016",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Bring the GDG (Google Developer Group) spirit into your wrist by using the GDG Watch Face on your Android Wear smart watches. The GDG Watch Face features an analog clock and a digital display. You can also customize the watch face by showing/hiding the date, changing time display (12-hr, 24-hour, hidden), and by changing the colors of the background, date/time, hour markers, and hands (hour, minute, second).GDG Watch Face is now also a part of GDG/Frisbee app: https://play.google.com/store/apps/details?id=org.gdg.frisbee.android",
+    "descriptionHTML": "Bring the GDG (Google Developer Group) spirit into your wrist by using the GDG Watch Face on your Android Wear smart watches. The GDG Watch Face features an analog clock and a digital display. <br><br>You can also customize the watch face by showing/hiding the date, changing time display (12-hr, 24-hour, hidden), and by changing the colors of the background, date/time, hour markers, and hands (hour, minute, second).<br><br>GDG Watch Face is now also a part of GDG/Frisbee app: https://play.google.com/store/apps/details?id=org.gdg.frisbee.android",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Qp6MVzDnDGOtT7-mJJSpRPf8UkDlDNJa6zRfS7d_9bHHX0dar4Q7wGyCQ52ey7WsPw=h310",
+        "//lh3.googleusercontent.com/PlhVpi23SbO4OV9Q4gwTf-x5FE0xluVJCYRAOI87tfxbVxs5iYjofOCz7RYMAHvmeg=h310",
+        "//lh3.googleusercontent.com/2WuYmFy9gRQ_nN7xnj5I2_gOf4xHLPr8NVzpOmAsXOYgvCQfksTLCosX2kVnJ4n4Kg=h310",
+        "//lh3.googleusercontent.com/XZ6_gEAcyjJ6pN6WhDZb_Dznd9x1W0yA7Yep5v51fnAJuX2NbOuZNT4hXtIr_PVo3Y0=h310",
+        "//lh3.googleusercontent.com/86LU6u-EtOgy2Ed7tky8pKlll3zvj3dgVl16SAChzQ_zcFKx67bQETiLllQnNXesubA=h310",
+        "//lh3.googleusercontent.com/ot83i_XYiTUFlBpmggd2H3vO0gXIkx5vAZVzBUO-1jmP6zMglZx87XCa2QjLp9G8iC_t=h310",
+        "//lh3.googleusercontent.com/whzQMdkqEEohpkUD6-SW_Tnqo-NqOFx6VUYxBN_WoVv3t3VpORh2QvR6iDKpgzHK6w=h310",
+        "//lh3.googleusercontent.com/dERamDdzvSA7Fr8wIOh7Aihn0X_-GHssiX7_N99Omtd_mW7JhKVETc0LizkUmeZMWQ=h310"
+    ],
+    "comments": [
+        "Great watch face Nice color customizations, easy to read both analog and digital time. Great for a Google developer member and other smart watch users who are a fan of google.",
+        "Excellent",
+        "Show off your GDG pride This watch face is a great way to show you are a Google Developer Group member.",
+        "Loving it! Absolutely loving the simplicity of the design!",
+        "So...cool",
+        "Teehee!!!"
+    ],
+    "recentChanges": [
+        "Using new GDG logo for the GDG watch face",
+        "Adding configurations for changing background, time display (12 hr/24 hr/hidden), and date/time color"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.gdgph.watchface&hl=en&gl=us",
+    "appId": "org.gdgph.watchface"
+}

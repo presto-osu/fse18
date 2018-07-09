@@ -1,0 +1,59 @@
+{
+    "title": "Barometer + pressure tracker",
+    "summary": "A simple utility for monitoring atmospheric/air pressure.",
+    "icon": "//lh6.ggpht.com/3UgQO0OcMavmzlcvrECb1gXbENberhfNbfNw6h7fh8agkXYKevMH1-xGaBFo2eQz3g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.6,
+    "reviews": 4636,
+    "developer": "Jied",
+    "developerId": "Jied",
+    "developerEmail": "sh.vladimir7@gmail.com",
+    "updated": "September 9, 2015",
+    "version": "0.3.7",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "A simple utility for monitoring atmospheric/air pressure. The utility works only on phones with a pressure sensor.Сontains Ads.Barometer features:- Export to csv- Storm alarm- Pressure units: hPa, inHg, mmHg, psi- Simple circle widget- Android Wear support(no sync yet)tags: barometer, weather",
+    "descriptionHTML": "A simple utility for monitoring atmospheric/air pressure. <br>The utility works only on phones with a pressure sensor.<br>&#x421;ontains Ads.<br><br>Barometer features:<br>- Export to csv<br>- Storm alarm<br>- Pressure units: hPa, inHg, mmHg, psi<br>- Simple circle widget<br>- Android Wear support(no sync yet)<br><br>tags: barometer, weather",
+    "histogram": {
+        "1": 120,
+        "2": 56,
+        "3": 132,
+        "4": 1017,
+        "5": 3311
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/yaRJxuCZcaYGbH5Lkt8izdlmO6JUdT0aAEGTW48V8pomoi33G8Xj4q4qL0UaRWfdGA=h310",
+        "//lh3.googleusercontent.com/FpWLiAtRP8vnQV2EX_LAi1qerguBu47nTGZ3hXOzJyJsw2ykY1gYPus-XBByNLNtaFbN=h310",
+        "//lh3.googleusercontent.com/j_sWcZ3CTDP-mFLIJxewtFPEKOdbfYN23ebJIJxTOXhnFMkGgTYYIGlHUe1GSwHEx7vi=h310",
+        "//lh3.ggpht.com/IPD04ud8G3Z5QisbhgU_KIljBbAHBNNIMT8D6CwzKSyUURi9vSt2bIzHQbCZ8ysF0g=h310",
+        "//lh6.ggpht.com/9U0GT10ZFW9d3fD-4rKPmuJkqxoAN6i-ZJwUfj7YHQEG4Lad6c74IBcWDcIxJ1Z24BZI=h310",
+        "//lh3.googleusercontent.com/qCUnyW-2W1sANI1ggQLQLDiZSAJLC2HhExNzKQPPnZxY91yGaWdODC_kjA096icIzw=h310",
+        "//lh3.googleusercontent.com/0LvaZMmvrEjGmKCSob8F_XALInfghkVyKMniPtd_amb6rhho41Nsxi1z_bc6OP0BSwc=h310",
+        "//lh3.googleusercontent.com/KtWJdFv_TruWoGxCTaltzgJTfApb5APwDPKpdhxpf2qKoyZQ6g4vn4ZHXLr5iTA15xUK=h310",
+        "//lh3.googleusercontent.com/r-9z1TL355uvZZp_zVlwDr0Rxgu-vm6qHsgUiztOXYO5qNel_B_u5R64DQm8VLsOS5U=h310"
+    ],
+    "comments": [
+        "Simple, precise, non-invasive. The widget ring sometimes gets stuck at a weird extreme value, but the number stays accurate. Opening the app updates the widget ring. Also, a slight ux improvement: the app screen has no cue that it swipes up to reveal the graph; people see that dial screen and think that's it.",
+        "I noticed many reviewers blamed the smartphone for pressure changes.  It is not the smartphone.  This app measures the accurate pressure of your current location and not that of the weather forecast.  I have severe asthma and COPD, both of which are adversely affected by low barometric pressure (below 30.00).  This is the first thing I check when my breathing gets worse.",
+        "Wheel range not acceptable The wheel range only goes down to 26 inHg. Useless for anyone that lives at altitude. Normal pressure here is 24 inHg. Should be able to show pressure to at least 10k feet altitude. Oddly, the widget does read low enough.",
+        "Great for those affected by atmospheric pressure I have Meniere's Disease and sudden atmospheric pressure drops can send me into a vertigo attack. This doesn't predict these pressure drops, but helps me understand why I get vertigo out of the blue sometimes. Online weather sites mostly miss these fluctuations.",
+        "Works great on my Galaxy Note 4. Reviews mention scaling and lower limits, but now there are options to set these.   I really like how easy it is to scale the graph just by pinching it like an image. And I leave it running in the background all the time, and it doesn't even register on my battery usage statistics. The advertising sits in the bottom bar and is not a problem.",
+        "Wheel minimum value not set I live at 5600 feet and I'm unable to set the wheel minimum value.  It stays at a min of 24 inHg.  Where I live it's not unusual to be at 30 to 31 so the wheel is often maxed out.  I Wish the minimum set correctly.  Using Samsung S6."
+    ],
+    "recentChanges": [
+        "- bugfixes",
+        "- new widget",
+        "- widgets now configurable"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jied83.barotool.barotool&hl=en&gl=us",
+    "appId": "jied83.barotool.barotool"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Volume Controller:Android Wear",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh3.ggpht.com/CKgIrQ_h98zN-QNSJCh5w5XoB9kFgjeskhLwImJik9fPggcHoQvT7uh6RWVZAUW_TA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 190,
+    "developer": "Oleksiy Martynov",
+    "developerId": "Oleksiy+Martynov",
+    "developerEmail": "3martynov@gmail.com",
+    "developerWebsite": "https://plus.google.com/+OleksiyMartynov",
+    "developerAddress": "138 Smithwood dr\nToronto Ontario Canada",
+    "updated": "July 18, 2014",
+    "version": "1.3",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Adjust phone volume from your Android Wear device.Start the Android Wear app by saying  \"start Volume Controller\" on your wearable. Or launch the notification control from mobile app. The notification allows you to control the volume from your wearable without starting the Android Wear app, as long as the notification is not dismissed.",
+    "descriptionHTML": "Adjust phone volume from your Android Wear device.<br>Start the Android Wear app by saying  &quot;start Volume Controller&quot; on your wearable. Or launch the notification control from mobile app. The notification allows you to control the volume from your wearable without starting the Android Wear app, as long as the notification is not dismissed.",
+    "histogram": {
+        "1": 17,
+        "2": 4,
+        "3": 28,
+        "4": 41,
+        "5": 100
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/8ewwJZKcPss78CaHoZzSWrfQuv6SjHXKdXii7ClxyhMEASyH-emT9MmEuwp4Ds554w=h310",
+        "//lh4.ggpht.com/GWIq03oryZDYleMjjnf-HToRRx-lWKi4f3rM3iCehTbkWDXTXLMAk2C-sI9KEwt5OqM4=h310",
+        "//lh4.ggpht.com/lo49XkccvbS-RDkyuAOy_1lX0mAl3RH2qnU1Ba3ZtqYtsQ4GEq3IPelh-CDXaaZXAMRH=h310"
+    ],
+    "comments": [
+        "Saved my phone! My phones volume buttons stopped working and this simple solution makes the volume very easy to control again. Thank you VERY much developer for putting this together!!",
+        "Works with Chromecast! When I'm streaming music from Google Play to my TV and Speakers through Chromecast, this Wear App automatically controls the desired volume target, so I can walk around the house and turn up/down the volume even from another room",
+        "It works as advertised Please consider spelling control right on the phone part of the app, seems like a strange thing to get wrong.",
+        "Love it! Does what it says and does it well. Very handy.",
+        "I love it Let me use this app",
+        "Like Ok"
+    ],
+    "recentChanges": [
+        "-shiny new app icons"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=martynov.com.wearsound&hl=en&gl=us",
+    "appId": "martynov.com.wearsound"
+}

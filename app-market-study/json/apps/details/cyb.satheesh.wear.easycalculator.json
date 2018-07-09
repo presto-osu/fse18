@@ -1,0 +1,55 @@
+{
+    "title": "Easy Calculator - Android Wear",
+    "summary": "Now you can calculate easily by swiping on your android wear.",
+    "icon": "//lh6.ggpht.com/h17DTW1TeCfnA2bWy-CBxTSAAxLjEkA5z9jIJcUZC8-3NPm5nPkEJ8lW97f3YfGJ_g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.1,
+    "reviews": 19,
+    "developer": "Satheesh Kumar CyB",
+    "developerId": "8780251677497147819",
+    "developerEmail": "flash4satheesh@gmail.com",
+    "developerWebsite": "http://www.cybapps.com",
+    "developerAddress": "F-47,TNPL Colony,\nKagithapuram,\nKarur,\n639136.",
+    "updated": "March 23, 2015",
+    "version": "1.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This is my first android wear application.Now you can calculate easily on your android wear by swiping.Features:Swipe to Calculate.Larger Button.Larger Digit.Getting Started:1.Tap some number2.SwipeRight - +Left - -Down - xUp - /3.Swipe again or tap equal to calculate.To clear,tap or long press the digital.Don't forget to Resync Apps in Android Wear application.",
+    "descriptionHTML": "This is my first android wear application.<br><br>Now you can calculate easily on your android wear by swiping.<br><br>Features:<br>Swipe to Calculate.<br>Larger Button.<br>Larger Digit.<br><br>Getting Started:<br>1.Tap some number<br>2.Swipe<br>Right - +<br>Left - -<br>Down - x<br>Up - /<br><br>3.Swipe again or tap equal to calculate.<br><br>To clear,tap or long press the digital.<br><br><br>Don&apos;t forget to Resync Apps in Android Wear application.",
+    "histogram": {
+        "1": 5,
+        "2": 4,
+        "3": 1,
+        "4": 3,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/tNXcA_bvJWvGqp_jWeEF3Mz9c0J8CSh-QN5h8Tie09v4onjnn5uN3EmCTW9iJDg6Mdg=h310",
+        "//lh6.ggpht.com/-eGXaKP45XF-3RfnBxmdJc4Za-YPnG6-bjSd920T30Dexvdoq-EzM07IeSQQ0mJ7rVk=h310"
+    ],
+    "comments": [
+        "Perfect Update: Thanks for adding suggestions, now the best calc app in my opinion.... This a very good, simple calculator. It is the one I would use. But without a decimal point it is not useful. Lots of potential, Please add decimal point. My suggestion is tap on display to delete a digit, hold on the display to delete all. Then the clear button could be changed to a decimal button.",
+        "This would be a very good app. I really like the idea behind it, it just simply doesn't work. Up and down swipes are unreliable! They work only 2 times of 6 attempts!",
+        "Simple and good",
+        "moto 360 good when you only need a simple calculator. works ok on my moto 360. the numbers are not too close to the edge of the watch face, so that pressing an outer number does not take you to another screen as some do. where is the decimal point? can't do much without it. fix this for more stars",
+        "Very useful app",
+        "Nice wear calc 4 stars as number layout is not like ISO standards in numpad and calculators, and one more it crash if done like this .0..*. It should not allow to enter more than 1 decimal point. By this it would be fixed"
+    ],
+    "recentChanges": [
+        "Version 1.2:",
+        "*Decimal point support added.",
+        "*Tap or Long press on digit to clear.",
+        "*Bugs fixed."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cyb.satheesh.wear.easycalculator&hl=en&gl=us",
+    "appId": "cyb.satheesh.wear.easycalculator"
+}

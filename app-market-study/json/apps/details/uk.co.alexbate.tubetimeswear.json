@@ -1,0 +1,53 @@
+{
+    "title": "Tube Times Wear",
+    "summary": "Get London&#39;s public transport status and next train times on your wrist!",
+    "icon": "//lh4.ggpht.com/rl2b3hVRXYsN7qh0Bb1n65AjvGHJsw5BVnu-rQtgpAsEVGfK58GNXY8oKAM44XVjKGjS=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.1,
+    "reviews": 9,
+    "developer": "Alex Bate",
+    "developerId": "Alex+Bate",
+    "developerEmail": "alex@alexbate.co.uk",
+    "developerWebsite": "http://alexbate.co.uk",
+    "updated": "October 25, 2015",
+    "version": "2.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "This app allows you to get the latest tube, London Overground and TfL Rail data on your wrist as you head to the station. Check to make sure you're line is running, or look at the next train data as seen on the platform screens to see if you've got time to grab that coffee! You can also see details for the last tube of the day, so you can see if there's time for one more drink.You can set a home and work station for quick and easy access from the companion phone app.This is *not* an official Transport for London app, nor is it in anyway affiliated with Transport for London, but it is powered by TfL Open Data feeds.",
+    "descriptionHTML": "This app allows you to get the latest tube, London Overground and TfL Rail data on your wrist as you head to the station. Check to make sure you&apos;re line is running, or look at the next train data as seen on the platform screens to see if you&apos;ve got time to grab that coffee! You can also see details for the last tube of the day, so you can see if there&apos;s time for one more drink.<br><br>You can set a home and work station for quick and easy access from the companion phone app.<br><br>This is *not* an official Transport for London app, nor is it in anyway affiliated with Transport for London, but it is powered by TfL Open Data feeds.",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/7hBUMf4t_OgqX3eBA2xYabjhkKOnNCHfKMyZHgfATpLEEyWv9Yo9lC-UO00eBQddzt0=h310",
+        "//lh6.ggpht.com/dH9oZLKxEnCemk03M2-gXoxzLmW114_v2nINub_Q1Pq6MyPDUHHJDulTH563fKXBJCRx=h310",
+        "//lh5.ggpht.com/dU85I2qBPniiKlp6d4RwRq-UI0WwQkWUFi_xkxZOk3eQuQpenacaeZljM2R6QmiJsobW=h310",
+        "//lh5.ggpht.com/FAsYqWvl_OtJBJPt526__EcN07I6joL4bKn4uVeyhxUjEoVhe9_PUkBciJlRN-BeIMQ=h310"
+    ],
+    "comments": [
+        "Was great. Now all I get is \"there's a problem loading data\" or \"it's stopped working, wait or close app\". Either way, it doesn't work anymore. On Motorola Moto 360 2nd Generation.",
+        "Not working at all",
+        "Crashes on startup",
+        "Top app 11/11 would check when trains are on my watch again",
+        "Does not include Woodford Station."
+    ],
+    "recentChanges": [
+        "*Now with DLR, London Overground and TfL Rail!*",
+        "Switched over to the new Transport for London Unified API, which means this isn't just an underground app any more! Unfortunately, you'll need to reselect your home and work stations."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.alexbate.tubetimeswear&hl=en&gl=us",
+    "appId": "uk.co.alexbate.tubetimeswear"
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Notification Toggle",
+    "summary": "Turn on WiFi, Bluetooth, Flashlight and much more from your notification bar!",
+    "icon": "//lh4.ggpht.com/MSFGQuv5ukJWgqs-nZS9pQUf_P3CXIY9w0y6Bi02VwOtLE2qpVjfzM-2XdDr1ydsmA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000,
+    "maxInstalls": 5000000,
+    "score": 4.4,
+    "reviews": 68997,
+    "developer": "j4velin",
+    "developerId": "6602470455848506235",
+    "developerEmail": "j4velin.development+play@gmail.com",
+    "developerWebsite": "http://www.j4velin.de",
+    "developerAddress": "Thomas Hoffmann\nSchwanhäußerstr. 5\n90408 Nürnberg",
+    "updated": "December 10, 2017",
+    "version": "3.8.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Notification Toggle creates notifications in the Android status bar to let you quickly switch WiFi, Bluetooth, Silent mode, Screen rotation and Flight mode on and off or to adjust the screen brigthness (and many more...)You can also add shortcut to your own apps into the notification bar!In the settings, you can choose which notifications should be active. All icons & colors can easily be changed through the app for full customization!Now with Android Wear integration! Select which toggles you want to see on your Wear smartwatch and say \"Start Notification Toggle\" to switch your phone to silent, lock it, turn on the flashlight...Some notes:• Not every toggle will work on every device• Some settings aren't changeable by user apps, so it will bring you directly to the Android settings• Exclude from task-killers!• Some toggles require root access• The app can not remove the build-in toggle notification on Samsung phones• Please read the FAQ in the app before posting a review--------------------Available toggles & shortcuts:• WiFi• Bluetooth• Sound / Vibration, Sound / Silent, Sound menu• Brightness mode / menu / 5 predefined stages• Screen timeout dialog• Wake lock• Rotation• Flight mode• Mobile data• NFC• Flashlight (might require \"TeslaLED\" app)• Sync & Sync now• WiFi- & USB-Tethering• Music: previous / next / pause• WiFi settings / advanced settings• Bluetooth settings, Bluetooth visbility• GPS• Mobile data settings• Data usage• Battery• Camera• next Wallpaper (requires \"Wallpaper Changer\" app)• Lockscreen (requires \"Delayed Lock\" app)• Shutdown & Reboot (requires root)• own apps & shortcuts (shortcuts feature requires an in-app purchase)------------------This awesome app icon is made by http://www.graphical360.com :)If you don't like the default icons, click on 'Icons & Colors' and use your own icons or use the 'Icon Downloader for NT' app do download alternative icons made by xda users.--------------------Permissions:ACCESS_NETWORK_STATE - toggle wifi tetheringACCESS_SUPERUSER - direct GPS toggle on rooted devicesBILLING - for in-app billingBLUETOOTH_ADMIN & BLUETOOTH - toggle BluetoothCALL_PHONE - direct call contacts from notificationCAMERA & FLASHLIGHT - turn on camera flashlightCHANGE_NETWORK_STATE - toggle mobile data on some devicesCHANGE_WIFI_STATE & ACCESS_WIFI_STATE - toggle WiFiEXPAND_STATUS_BAR - to close the status bar on ICS devicesMANAGE_USB - toggle usb tetheringNFC - toggle NFCREAD_EXTERNAL_STORAGE - to load custom iconsRECEIVE_BOOT_COMPLETED - place the notifications after bootVIBRATE - for haptic feedback optionWAKE_LOCK - for the wake lock toggleWRITE_EXTERNAL_STORAGE - to save shortcut icons like contact picturesWRITE_SECURE_SETTINGS - GPS toggling on rooted pre-4.3 devicesWRITE_SETTINGS - to toggle various stuff like rotation & screen brigthnessWRITE_SYNC_SETTINGS - toggle sync",
+    "descriptionHTML": "Notification Toggle creates notifications in the Android status bar to let you quickly switch WiFi, Bluetooth, Silent mode, Screen rotation and Flight mode on and off or to adjust the screen brigthness (and many more...)<br>You can also add shortcut to your own apps into the notification bar!<br><br>In the settings, you can choose which notifications should be active. All icons &amp; colors can easily be changed through the app for full customization!<br><br>Now with <b>Android Wear</b> integration! Select which toggles you want to see on your Wear smartwatch and say &quot;Start Notification Toggle&quot; to switch your phone to silent, lock it, turn on the flashlight...<br><br><br><b>Some notes:</b><br>&#x2022; Not every toggle will work on every device<br>&#x2022; Some settings aren&apos;t changeable by user apps, so it will bring you directly to the Android settings<br>&#x2022; Exclude from task-killers!<br>&#x2022; Some toggles require root access<br>&#x2022; The app can not remove the build-in toggle notification on Samsung phones<br>&#x2022; Please read the FAQ in the app before posting a review<br><br><br>--------------------<br><b>Available toggles &amp; shortcuts:</b><br>&#x2022; WiFi<br>&#x2022; Bluetooth<br>&#x2022; Sound / Vibration, Sound / Silent, Sound menu<br>&#x2022; Brightness mode / menu / 5 predefined stages<br>&#x2022; Screen timeout dialog<br>&#x2022; Wake lock<br>&#x2022; Rotation<br>&#x2022; Flight mode<br>&#x2022; Mobile data<br>&#x2022; NFC<br>&#x2022; Flashlight (might require &quot;TeslaLED&quot; app)<br>&#x2022; Sync &amp; Sync now<br>&#x2022; WiFi- &amp; USB-Tethering<br>&#x2022; Music: previous / next / pause<br>&#x2022; WiFi settings / advanced settings<br>&#x2022; Bluetooth settings, Bluetooth visbility<br>&#x2022; GPS<br>&#x2022; Mobile data settings<br>&#x2022; Data usage<br>&#x2022; Battery<br>&#x2022; Camera<br>&#x2022; next Wallpaper (requires &quot;Wallpaper Changer&quot; app)<br>&#x2022; Lockscreen (requires &quot;Delayed Lock&quot; app)<br>&#x2022; Shutdown &amp; Reboot (requires root)<br>&#x2022; own apps &amp; shortcuts (shortcuts feature requires an in-app purchase)<br><br>------------------<br>This awesome app icon is made by http://www.graphical360.com :)<br><br>If you don&apos;t like the default icons, click on &apos;Icons &amp; Colors&apos; and use your own icons or use the &apos;<i>Icon Downloader for NT</i>&apos; app do download alternative icons made by xda users.<br><br>--------------------<br><b>Permissions:</b><br>ACCESS_NETWORK_STATE - toggle wifi tethering<br>ACCESS_SUPERUSER - direct GPS toggle on rooted devices<br>BILLING - for in-app billing<br>BLUETOOTH_ADMIN &amp; BLUETOOTH - toggle Bluetooth<br>CALL_PHONE - direct call contacts from notification<br>CAMERA &amp; FLASHLIGHT - turn on camera flashlight<br>CHANGE_NETWORK_STATE - toggle mobile data on some devices<br>CHANGE_WIFI_STATE &amp; ACCESS_WIFI_STATE - toggle WiFi<br>EXPAND_STATUS_BAR - to close the status bar on ICS devices<br>MANAGE_USB - toggle usb tethering<br>NFC - toggle NFC<br>READ_EXTERNAL_STORAGE - to load custom icons<br>RECEIVE_BOOT_COMPLETED - place the notifications after boot<br>VIBRATE - for haptic feedback option<br>WAKE_LOCK - for the wake lock toggle<br>WRITE_EXTERNAL_STORAGE - to save shortcut icons like contact pictures<br>WRITE_SECURE_SETTINGS - GPS toggling on rooted pre-4.3 devices<br>WRITE_SETTINGS - to toggle various stuff like rotation &amp; screen brigthness<br>WRITE_SYNC_SETTINGS - toggle sync",
+    "histogram": {
+        "1": 2986,
+        "2": 1792,
+        "3": 5100,
+        "4": 13379,
+        "5": 45740
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/7iLBP_73N8UcB8wxH9Jqlki8C8VBPIgPom6z1fhyuM-cHqU9PdV6LpvFj1Wx1PI9Ym05=h310",
+        "//lh6.ggpht.com/yQZ1dMbPJ4PMSz1U5zhHIBZUCTSbfe8yjoaTaCLIMEk66M505CFHNY9tSsqoU7l2gA=h310",
+        "//lh6.ggpht.com/CUhCqQLoGR1R5KQNrGw6zI_RBG7fqvDhaYK4BNto-9Sc3CXJ897_mW3vW4erPlVFtv5y=h310",
+        "//lh3.ggpht.com/Lf1RmbU68T3L2zIczxxDbbcVGWWE109Rds8I1AkQ30FgGVyG6Fs9u3qBMAYEhuBL0H-X=h310",
+        "//lh4.ggpht.com/Y_BkkP3I-_3MLlo2MI4jC0DT6Rv_ICD59oBOSN4KE4tcVFDLY10n4yU7-nrbLJWXDJQ=h310",
+        "//lh6.ggpht.com/LvuZD08LvnJC-X8N3v5-1YnWLPaUkm-9_5nqf6KfMsSbA5mqto6fB8_BA9Oe45zU8U3_=h310",
+        "//lh4.ggpht.com/7D9KI0kFUvFLS79VFP-tRGBGEEumBa2N76a7DgrStMpQTA0OpWBTiHm-LI85LIAP52A=h310",
+        "//lh4.ggpht.com/jbJoK82kbHolzfKgLukPE5T4LtYEXtm7l61nr7wh-tes_VSP3JfwdFX2zja3yGubwS7F=h310"
+    ],
+    "video": "https://www.youtube.com/embed/FXIQd613D38",
+    "comments": [
+        "So simple. I tried a number of similar apps but they are unnecessarily complicated and even then they didn't do what I wanted.  This app enables me to pull down the most used settings no matter what screen I'm on.  Especially useful when using Maps in the car and I need to quickly brighten the screen for example without having to  come out of Maps.  WiFi or WiFi settings and Bluetooth or Bluetooth settings options are really useful. Other apps have the Bluetooth and Wifi options but not the settings.  I had to uninstall and reinstall it on my new phone as initially it just wasn't showing but it now works perfectly.",
+        "$_Awesome Highly Recommended, A reason I like this app, Always doing Updates, that is a good sign developers cares. Other apps are really Goooooood, then overnight they are gone, something that you bought. Disappears.",
+        "I've used this app for years. It's the best. Works every time. Never a problem. Set up a system or app shortcut. Arrange them on the line and in the order you want. And you have instantly available shortcuts to your favorite apps.",
+        "Notification gets collapsed all the time, no matter what level of priority is set to, and the toggles are now very inconvenient to use. Any fix coming soon?",
+        "Super handy. I use this every day. It doesn't take up a lot of space, responsive, clean look. I recommend this!",
+        "Avoid this aggravating headache! A waste of time setting up after failing or disappearing 5+ times. Spyware? Malware? Not sure. App is once again acting goofy again...6th time. Replacing it with \"fooView\" app. This works for me."
+    ],
+    "recentChanges": [
+        "- fix crash on Oreo",
+        "- re-add permission for flashlight toggle"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.j4velin.notificationToggle&hl=en&gl=us",
+    "appId": "de.j4velin.notificationToggle"
+}

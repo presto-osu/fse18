@@ -1,0 +1,24 @@
+[
+    {
+        "author": "Alan H",
+        "comment": "I tried this because it has an app for the phone and a smart watch. I can't get any delivery information on either.",
+        "date": "February 16, 2016",
+        "permlink": "/store/apps/details?id=name.heqian.delivery&reviewId=Z3A6QU9xcFRPRnhxQXdGTHh1M0xVTm9TRHdsakU3VUc1NWF6SWstdGYzMGFwY1FzbXN1SzNlRWdNZTZwcjJDclVGUUU2Q2lTazNCSEgwQ3ByTVZLX1NtN3I0",
+        "reply": null,
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Alexey Akimov",
+        "comment": "Looks like good app, but doesn't work with SF Express, so can't track my order from Aliexpress.",
+        "date": "January 28, 2015",
+        "permlink": "/store/apps/details?id=name.heqian.delivery&reviewId=Z3A6QU9xcFRPR0Z3Y3AwUzN5dFZvcVdqZUtjek1mSEJ1RmtFQXgwUWdvR28yNW9lVDdsQnFjVEc5SjRCc1dlV0FDQ3AzLVVFSkRuUHhOcEVvWm5DNGVZbGNF",
+        "reply": {
+            "author": "Qian He",
+            "content": "Hi Alexey. I'd like to support more package delivery services. Currently, Delivery is using Boxoh API (http://www.boxoh.com), which supports USPS, UPS, FedEx, and DHL/AirBorne. I haven't found any free APIs that support more delivery services. Please let me know if you find any. Thanks!",
+            "date": "February 3, 2015"
+        },
+        "star": 4,
+        "title": "Needs more delivery services"
+    }
+]

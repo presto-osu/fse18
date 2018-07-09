@@ -1,0 +1,45 @@
+{
+    "title": "Flat times watch face",
+    "summary": "A simple and modern watchface for your Android Wear watch",
+    "icon": "//lh3.googleusercontent.com/_Sd4fO26Y4JBXTvTvzoL_jeTI3_Xz6MPOBifmCKbkReufcwd6ezyXCjch5UX2kTacV8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 5,
+    "reviews": 1,
+    "developer": "Pablo Criado",
+    "developerId": "Pablo+Criado",
+    "developerEmail": "pablo@pablocloud.es",
+    "developerAddress": "Calle Juan XXIII, 9 2ºC\n47610, Zaratán, Valladolid",
+    "updated": "July 24, 2017",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A simple and modern watchface for your Android Wear watch, with beautiful animations and your timetable right on your wrist",
+    "descriptionHTML": "A simple and modern watchface for your Android Wear watch, with beautiful animations and your timetable right on your wrist",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JeC2PxMMk6yT9jGhvFcbA33L_WWzsSLQLi4BMuTLzo6wk4E0HJKwvdDuHtDuiUPo3o1o=h310",
+        "//lh3.googleusercontent.com/eUQ_wTNINW-ek2DANmklLT2-CJUtr9HGXoL4hLm9jDTNs8dA3FUYsfBTMhZQ1Trk3xg=h310"
+    ],
+    "comments": [
+        "Beautiful watch face Amazing animation and useful features!"
+    ],
+    "recentChanges": [
+        "Bugs fixed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=albillos.criado.pablo.flattimeswatchface&hl=en&gl=us",
+    "appId": "albillos.criado.pablo.flattimeswatchface"
+}

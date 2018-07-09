@@ -1,0 +1,57 @@
+{
+    "title": "Wear Reader",
+    "summary": "Speed read books on the go with a lightning fast e-reader for Android wear!",
+    "icon": "//lh3.ggpht.com/edxSESQstJKvccc4gLyRtqE-gCswten28m0p-kz-BzE6qcDmzqddSV9UtQpLd2HoQzF6=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.4,
+    "reviews": 172,
+    "developer": "Jacoh",
+    "developerId": "Jacoh",
+    "developerEmail": "support@jacoh.com",
+    "developerWebsite": "http://wearreader.com",
+    "developerAddress": "955 Massachusetts Ave #141\nCambridge, MA 02139",
+    "updated": "February 13, 2017",
+    "version": "1.5.8",
+    "genre": "Books & Reference",
+    "genreId": "BOOKS_AND_REFERENCE",
+    "description": "Whether you're on the train, bus, or subway, you'll never again have to grab a book from your bag again. Wear Reader lets you read books straight from your wrist while you're on the go. Simply upload your favorite book to your Android device, attach your Android wear, and you're ready to read!Wear Reader flashes text rapidly on the screen one word at a time to suppress your inner vocalization and allow you to read quickly while still fully understanding the text. Missed a spot and have to go back? No problem! Simply scrub up and down on the screen to rewind and fast forward. Tap to pause the stream to take a break and see how you are doing, and tap again to resume.The best part is the app does all the work. No darting around of the eyes from word to word means you can read longer without getting as tired. It even includes a night mode for late-night reading in the dark.Wear Reader can import books from ePub, PDF, Docx, and text formats.",
+    "descriptionHTML": "Whether you&apos;re on the train, bus, or subway, you&apos;ll never again have to grab a book from your bag again. Wear Reader lets you read books straight from your wrist while you&apos;re on the go. Simply upload your favorite book to your Android device, attach your Android wear, and you&apos;re ready to read!<br><br>Wear Reader flashes text rapidly on the screen one word at a time to suppress your inner vocalization and allow you to read quickly while still fully understanding the text. Missed a spot and have to go back? No problem! Simply scrub up and down on the screen to rewind and fast forward. Tap to pause the stream to take a break and see how you are doing, and tap again to resume.<br><br>The best part is the app does all the work. No darting around of the eyes from word to word means you can read longer without getting as tired. It even includes a night mode for late-night reading in the dark.<br><br>Wear Reader can import books from ePub, PDF, Docx, and text formats.",
+    "histogram": {
+        "1": 43,
+        "2": 14,
+        "3": 12,
+        "4": 32,
+        "5": 71
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/zRA_hgp-OE9wyKF1U8iy7fxLCfxTw7AYx1ndNnybWZ6uISc2iX0vIMIEr887sn20cTI=h310",
+        "//lh6.ggpht.com/G1TQdkHSau0OmpHOEZT1NifCyodPrPe8Xry85c3Tg7U9RSwi3eoIxQantBQwCziC1KAF=h310",
+        "//lh6.ggpht.com/oeUwy1dPFpfRu-lWmLcJ9_ijE8ZN0uuw-lGmIRGH1edZU4gXgIjePX0s7eC-w5mPxQ=h310",
+        "//lh4.ggpht.com/kOgw2XDTuxQew8cSo-9o8XqWtXnNI0yJLu62vEAqVqbXsFdRhr4RjiE7pWLwcWHJf94=h310",
+        "//lh4.ggpht.com/Y_ttJCLVq5Z-qclwUDOgjVAZSQtPO_U3RGpVG7qTvgMUucKTa4leDiDEZLbbs6RUCwI=h310",
+        "//lh4.ggpht.com/_rHF2b4PYwMrYq0ckGrJWESqDWKJhzQamYKY0HPmKU1Wj5ip_qOr1DFaMMYi0CDEJeoV=h310",
+        "//lh5.ggpht.com/SAdPy5vnL1chCt0KfYh8iT0gK1GqfukqZvHjQ0WPW_z9HOiFh_OmTVnh1LmOxHNyQw=h310"
+    ],
+    "comments": [
+        "Useless! It's absolutely impossible to read anything with this stupid method of automatic page turning! Worst ebook reader idea ever!",
+        "Can read CBR files on Apple but not on android",
+        "crashes every time. wont up load books",
+        "Junk. Won't upload any books to watch Such high hopes.....dashed",
+        "Will not upload books to watch",
+        "The books not upload from mobile"
+    ],
+    "recentChanges": [
+        "Fixed upload issues and wear crashes. Fixed cancel button."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jacoh.wearreader&hl=en&gl=us",
+    "appId": "com.jacoh.wearreader"
+}

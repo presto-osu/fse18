@@ -1,0 +1,47 @@
+{
+    "title": "Anaglyph Watchface",
+    "summary": "Anaglyph - a minimalistic Android Wear watchface.",
+    "icon": "//lh3.googleusercontent.com/omW4IPPy8sqZI57KH-qwxnv6uKLLvD6ktyW3UovzCxLHY20q-QBt7wCslemyCoUN_Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 11,
+    "developer": "Michał Bujalski",
+    "developerId": "Micha%C5%82+Bujalski",
+    "developerEmail": "bujalski.michal@gmail.com",
+    "updated": "April 15, 2015",
+    "version": "0.9.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Anaglyph is a minimalistic Android Wear watchface that provides only crucial info (time and date) flavoured with cool visual effect in normal mode.",
+    "descriptionHTML": "Anaglyph is a minimalistic Android Wear watchface that provides only crucial info (time and date) flavoured with cool visual effect in normal mode.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/IE1uKWG4V0DwmH42MvAdi9_HVGjjIM6fkKpF_48BdGur33puIfA43zn5gavkU2vrjQ=h310",
+        "//lh3.googleusercontent.com/8r6Fn2qjE9zirvFonOkXOcwlacZNCyJ9ffbrFsy-Id1oKbIFCYlzLHIRLU1FILtQu9g=h310",
+        "//lh3.googleusercontent.com/NIQDBSG2YOkixoV86JUSV3RdT7B-kh9T4WAybPHEYn0VzQaFhIhcwZcBLglY6_LEJOU=h310"
+    ],
+    "comments": [
+        "Nice design, iffy preview I love the fonts and look of this face!  I suggest using the small card previews so they don't cover up so much of the face though.",
+        "Nice watch face but needs 12hr Mode"
+    ],
+    "recentChanges": [
+        "-added notification preview in ambient mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bujalski.anaglyphwatchface&hl=en&gl=us",
+    "appId": "com.bujalski.anaglyphwatchface"
+}

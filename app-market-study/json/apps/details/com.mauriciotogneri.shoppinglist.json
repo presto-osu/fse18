@@ -1,0 +1,58 @@
+{
+    "title": "Shopping List",
+    "summary": "A simple and straightforward shopping list app with smartwatch support.",
+    "icon": "//lh3.googleusercontent.com/qaT8wtDTCjzVUvLWBtf2z7ZyHtuNXWx4Ywq9NcQyn5-E_qvbNAbmz00-ejiv5psNlcc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 43,
+    "developer": "Mauricio Togneri",
+    "developerId": "7413333299271490546",
+    "developerEmail": "mauricio.togneri@gmail.com",
+    "developerWebsite": "http://mauriciotogneri.com",
+    "updated": "April 30, 2016",
+    "version": "1.1.0",
+    "genre": "Shopping",
+    "genreId": "SHOPPING",
+    "description": "A simple and straightforward shopping list app with smartwatch support.Swipe between the categories and click on the products to add them to the list. You can prepare your list at home so you don't forget anything. Once in the shop, click on the products on the list to mark them as already in the cart. When you close the app, all the products that were in the cart will be removed from the list automatically.You can also create, edit and delete your own products and categories to adapt the app your your needs. To access to more options on an item, just perform a long press on it and a context menu will appear.The app comes with an Android wear version for your smartwatch. You don't need to hold your phone in your hand, the list will appear on your watch!",
+    "descriptionHTML": "A simple and straightforward shopping list app with smartwatch support.<br><br>Swipe between the categories and click on the products to add them to the list. You can prepare your list at home so you don&apos;t forget anything. Once in the shop, click on the products on the list to mark them as already in the cart. When you close the app, all the products that were in the cart will be removed from the list automatically.<br><br>You can also create, edit and delete your own products and categories to adapt the app your your needs. To access to more options on an item, just perform a long press on it and a context menu will appear.<br><br>The app comes with an Android wear version for your smartwatch. You don&apos;t need to hold your phone in your hand, the list will appear on your watch!",
+    "histogram": {
+        "1": 6,
+        "2": 2,
+        "3": 3,
+        "4": 8,
+        "5": 24
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/WkPcNNbQ_HnOrc-0aRKc2YCtHGjROj2CXeklu9W5qYtMRvJ_BLXa5gEzA5Y3Ylkq98_b=h310",
+        "//lh3.googleusercontent.com/rcx_Lgv7teBPtnGo33RON7UqmbxHpsHi7cflPKL52yMShaFv9XOvhVrmmJI47YLtltk=h310",
+        "//lh3.googleusercontent.com/ewznV3NF3EqkMQL5Ad0Ob7ewJuRoi04NaxjXMJ86XFNBlFilTi3bDCX22o_pE9WlecXT=h310",
+        "//lh3.googleusercontent.com/90px4dS-i4X_Vm1cyKtrjL-lCYrhXD5dzhLDfjaC20OzSD-Z5IbFpUijG276xgvVato=h310",
+        "//lh3.googleusercontent.com/u1BD7Cd_dX-idAPnP_WN9rYbv5BTOgRrIsTo4W4SwgU5_nLY7hcAMHoR-j211wCRZ98=h310",
+        "//lh3.googleusercontent.com/Fxegx3SJ_RnvYGYYoKK-cioX3A75C-uN84AAs7rc_WmF31TIOpkFNIGpSgidG82Rl3U=h310",
+        "//lh3.googleusercontent.com/SxHZfQUg9gliT_NkV4We2azaNGdzKDKNHA_Ov9eOFHxEChWCQSodShK6_Erk2QyDAPI=h310",
+        "//lh3.googleusercontent.com/o_GAjNaVVPDDqW1de_kcpkxl8X87H_53BjBiEKGFHfmh8Y_IQZ-fodNBKR1vZPLrLQ=h310",
+        "//lh3.googleusercontent.com/9Vq9gOC8FA9ZSWLGKpXIrFeNWZGywfn3HfJaDlFso571LIlU5g7kMFy3PZrKB1PteiU=h310"
+    ],
+    "comments": [
+        "Its very helpful way to use, easy to add items plus categories shopping list application. I just love it as it make my shopping and sharing list very easy.",
+        "no internet search for pictures ... and very limited customizability",
+        "it will be Good to have price and quantity; as well voice input and signs in option",
+        "Need improvment No built in gallery of items",
+        "Nice but need more work When grocery list get move into the cart and then accidentally close the app. The items disappear from the cart when open the app",
+        "It doesn't have all the products I need"
+    ],
+    "recentChanges": [
+        "Bug fixing"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mauriciotogneri.shoppinglist&hl=en&gl=us",
+    "appId": "com.mauriciotogneri.shoppinglist"
+}

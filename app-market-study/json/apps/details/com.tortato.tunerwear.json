@@ -1,0 +1,61 @@
+{
+    "title": "Tuner Wear",
+    "summary": "Music tuner app for instruments, simply and accurately. Works on smartwatches.",
+    "icon": "//lh3.googleusercontent.com/GY2_oAu1Hk4BNXpf2psAklv7GdpMDsL080f_ALETITFetrmngIKDe5bVB5d7EMOwqKk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.9,
+    "reviews": 488,
+    "developer": "TORTATO",
+    "developerId": "TORTATO",
+    "developerEmail": "atendimento@tortato.com",
+    "developerWebsite": "http://www.tortato.com",
+    "developerAddress": "São Paulo - SP - Brazil",
+    "updated": "September 17, 2017",
+    "version": "1.1.2",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Tuner Wear use your device microphone record and convert the sounds to frequency to the nearest note for quick and easy tuning of your prefered instrument.Works on guitar, twelve string's guitar, bass, ukelele, violin, cello, viola, double bass, piano, harp, sitar, guqin, biwa, shamisen, sanshin, konghou, koto, etc...Features:- Two decimal precision;- Color dynamic scale, the green is used as the note reaches;- Sensitivity auto-adjusted;- Recognizes each of the twelve chromatic (semitone) steps of the equal-tempered scale (C, C#, D, D#, E, F, F#, G, G#, A, A#, B);- Works on your smartwatch :-) - Guitar tuner;- Violin tuner;- Bass tuner;Future features:- Temperaments;- A4 calibrate;- Sensitivity manual ajusts;- Color ajusts;- Sound samples;- Standard tunnings of most popular instruments;",
+    "descriptionHTML": "Tuner Wear use your device microphone record and convert the sounds to frequency to the nearest note for quick and easy tuning of your prefered instrument.<br><br>Works on guitar, twelve string&apos;s guitar, bass, ukelele, violin, cello, viola, double bass, piano, harp, sitar, guqin, biwa, shamisen, sanshin, konghou, koto, etc...<br><br>Features:<br><br>- Two decimal precision;<br>- Color dynamic scale, the green is used as the note reaches;<br>- Sensitivity auto-adjusted;<br>- Recognizes each of the twelve chromatic (semitone) steps of the equal-tempered scale (C, C#, D, D#, E, F, F#, G, G#, A, A#, B);<br>- Works on your smartwatch :-) <br>- Guitar tuner;<br>- Violin tuner;<br>- Bass tuner;<br><br><br>Future features:<br><br>- Temperaments;<br>- A4 calibrate;<br>- Sensitivity manual ajusts;<br>- Color ajusts;<br>- Sound samples;<br>- Standard tunnings of most popular instruments;",
+    "histogram": {
+        "1": 85,
+        "2": 18,
+        "3": 41,
+        "4": 78,
+        "5": 266
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/PRpnClx6N3UtLMQo8CD8_HSezssFV3t3G-Lzt9rEQA0Xv3FEaaLoUVHXt1MN8AaM9EM=h310",
+        "//lh3.googleusercontent.com/TleszwcmFQ15lZtt9V8Qr4Cv0CSZPa4V1Np31mPz02TD83IXwZA0GZOCExJpKBN7Rm8=h310",
+        "//lh3.googleusercontent.com/pr14uygaLk9yq0vW9vlKc7DX8FVcFAu4SCpmuCuDhOD7rIOsZYixEG9IUM7MQr5zhAAp=h310",
+        "//lh3.googleusercontent.com/HRtAvu1k40ctRlctjiEJzpeKmgyF92pqx8vRJKW_GZ3rv1UcsPLkekAco4YCYGq7AZ4=h310",
+        "//lh3.googleusercontent.com/nfR2xBs_GnNRctc1OWU-TNDEzxJvx99a6cMYXSRLAyKp73xKfrQZRuG9Bvw9kJmAnZc=h310",
+        "//lh3.googleusercontent.com/ER4Q4TdUxFLiwxwrHGHeL4ymSlYdi_r7Qw07HJpM3R1lUzjqMmlidVwQDa_GzyjF8g=h310",
+        "//lh3.googleusercontent.com/jj4skJtKiqrL8mHbpQyBf_CrZ1nJOYgrqBRUgOzpkUS9ecBq6YMBLBzlY-inwqhVNw=h310",
+        "//lh3.googleusercontent.com/qvHA4Vtw555g9PuvSkaQg7qeepnIYW_N3DYYUXF0vH-rOIUrqWvbkBTffMbG3Bg0Ug4x=h310",
+        "//lh3.googleusercontent.com/0dRDVWQstkSHlfy7ojy3j9ldfhC3pECu2DD3uDfs0Td46NRbFTb348Egi8KfYBpZYQNx=h310",
+        "//lh3.googleusercontent.com/n0_JmYN0yUIQtDSYRBqOaESPGpIJBht_vq4LyZgcsOMkR-jdbkOjqDqmPX9vsiP-Mw=h310",
+        "//lh3.googleusercontent.com/1LS0-ZvVge45A5rXS9f9t2o8oZXMC0ZLpencu93Xp2I_R2X_M6687bA9zgrRrQn0ghp0=h310"
+    ],
+    "comments": [
+        "Just worked on my phone. Gr8!",
+        "I don't like this app it made my string come off",
+        "Mad",
+        "Not working I tried it on my Moto 360 2nd gen. Extremely slow to respond and very inaccurate.  It is not indicating the correct pitch or tuning.  The only good thing going for it is that it is free.",
+        "It doesn't work on Moto Big latency and delay",
+        "It was mean It said I had problems"
+    ],
+    "recentChanges": [
+        "Bugs fixed on some devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tortato.tunerwear&hl=en&gl=us",
+    "appId": "com.tortato.tunerwear"
+}

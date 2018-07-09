@@ -1,0 +1,54 @@
+{
+    "title": "Easy RED",
+    "summary": "Simple easy watch face",
+    "icon": "//lh3.googleusercontent.com/d0PjZCv7qaBgu3A8PJSvKqV69SMhP7HnTiCy0Liitd6aFxKOP8xChx2PwsxpvoG5DA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 4,
+    "developer": "jancu",
+    "developerId": "jancu",
+    "developerEmail": "bartosz.janc@yahoo.com",
+    "developerAddress": "30 Celtic Fields\nWorksop\nS81 7AH",
+    "updated": "June 26, 2016",
+    "version": "1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Easy Red Watch FaceTap to change elements",
+    "descriptionHTML": "Easy Red Watch Face<br><br>Tap to change elements",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/on6vaqVVk8VNToTcQbnTvPR5iCMOsizCQXc_hwh7z5WThltn-Bg2hC8eMDtcnRlQ6aM=h310",
+        "//lh3.googleusercontent.com/VEvTjubxKpHy2S0hwDKxpFrQl4hsKDw7ENmt-Q9OTxpkByV6_c8OIRLVxNFnHYMMxHKw=h310",
+        "//lh3.googleusercontent.com/DWK1jq42dwOdxAAnVb2XiKZoMmbZXxU-3-WyGc7p3m7kEBHFRsDy_Z8axKeNPPMhNjs=h310",
+        "//lh3.googleusercontent.com/iYqwB81GNhrE5iibzioHvlbSeekIyqgq5x1ue2UU8jASIpUcE0f7iEGYRNzxOZJW4w=h310",
+        "//lh3.googleusercontent.com/h2SDDgsAE5Jm5VoB9lLgXQWesdYFJjIDAEi4Z-P3OooTu41yt6gwV_LHK_S3JFYBfTg=h310",
+        "//lh3.googleusercontent.com/vYsbueHyxR8Wboo4b-H_fmKIc_Jxjjpjt2OOgyyuOnZsHXfdI-srTzvq74n_7Y3ASjY=h310",
+        "//lh3.googleusercontent.com/2Zc6tCsn4owrqMBzS36p6RtOeQGlwPlF4m0hl8sVOHL-0HJKSJtM-ulODhhuNy1Y0tip=h310"
+    ],
+    "comments": [
+        "It's not working You must put the instructions to change or use the faces in that app"
+    ],
+    "recentChanges": [
+        "Added google play,",
+        "Watch battery support",
+        "Mobile battery support",
+        "Weather support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jancu_24.zegarek&hl=en&gl=us",
+    "appId": "com.jancu_24.zegarek"
+}

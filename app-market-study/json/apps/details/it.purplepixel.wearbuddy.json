@@ -1,0 +1,59 @@
+{
+    "title": "Wear Buddy",
+    "summary": "WearBuddy let your Wear device monitor and control its companion: your phone!",
+    "icon": "//lh5.ggpht.com/xLuWQ0vB2R_ofM_50bq0vxx_MEfS73ynsPcnxyz9r4L4d8u1AaT8TrFyQvz4HBsJRks=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.7,
+    "reviews": 640,
+    "developer": "Luigi Notaro",
+    "developerId": "6186241666994771500",
+    "developerEmail": "darnellnajanreed@gmail.com",
+    "developerWebsite": "http://www.purplepixel.it",
+    "developerAddress": "Via dei Ginepri 24\nCaserta\nItalia",
+    "updated": "July 29, 2014",
+    "version": "1.0.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "WearBuddy let your Android Wear device monitor and control its essential companion: your phone!Please note: this is the very first release: more features to come soon!Features:- Get a contextual notification on your wearable device when your phone is out of range. Never forget it on the table again!- Get a contextual notification on your Android Wear device stream when your phone battery is running low.- Find my phone: never miss it under the sofa again!- Stop the phone ringing when you finally find it: tap on the notification or swipe it away to make it stop.- Stop your phone ringing directly from your watch notification stream: just tap on the card or swipe it away- Open the handheld app to check the connection with your Android Wear deviceOf course, an Android Wear device is needed!",
+    "descriptionHTML": "WearBuddy let your Android Wear device monitor and control its essential companion: your phone!<br>Please note: this is the very first release: more features to come soon!<br><br>Features:<br>- Get a contextual notification on your wearable device when your phone is out of range. Never forget it on the table again!<br>- Get a contextual notification on your Android Wear device stream when your phone battery is running low.<br>- Find my phone: never miss it under the sofa again!<br>- Stop the phone ringing when you finally find it: tap on the notification or swipe it away to make it stop.<br>- Stop your phone ringing directly from your watch notification stream: just tap on the card or swipe it away<br>- Open the handheld app to check the connection with your Android Wear device<br><br>Of course, an Android Wear device is needed!",
+    "histogram": {
+        "1": 70,
+        "2": 62,
+        "3": 96,
+        "4": 167,
+        "5": 245
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/G3B84PF3XFxp69YyZUtk9gkvHTW9MOuBYprBZc5cdH6gCwdEzC7HzjjSo8w8ZnMyKnw=h310",
+        "//lh5.ggpht.com/LiO1o8fDOm48ADQ9BBjB9dKcmvxhpO6cUhNk-tGZeuTqBdCbUBL27cJny5s0EXAuj20=h310",
+        "//lh6.ggpht.com/w2jV9s5j8mBKruK6U9D102eM5VW-17XWZmIth5ZF9GrUU5PdSO669V8ijjTh9jcjDNI=h310",
+        "//lh3.ggpht.com/2BZmICduU9os87ztnO8pnICr78EhZ966hchIXE324guqfltb6KygepbFYeGD1NX1P5U=h310",
+        "//lh5.ggpht.com/o2wXa_VQ_KGWtb4pWtrcZyyETwyPYUyBivNItI9grt5B9pFwiJQri5o6vBvsPb30d98=h310",
+        "//lh4.ggpht.com/qKdnyyAlEm9tOg5fqMBgmngVajEIZ5uauyJCCMfLtT7t611QkDS-Q-NJU9DBvJbmrAKN=h310",
+        "//lh3.ggpht.com/6Zxl2Q_hNcC2I2LitKa7tHPAU_8HNO4UdM0GTh7jxR1YGImW1bFciX40XGsvexpdzy4=h310",
+        "//lh4.ggpht.com/gDc8_4rZNzjAOPNrHOmcauyOYWoS-H_xz2qUAASpUgi13PAbOkGXLaqQENv6ueWU1p8=h310"
+    ],
+    "comments": [
+        "Excelent realization of what Wear can do This app is a great idea - a remote to ring your phone to help you find it. Alerts on the wear device when your phone is disconnected (because you left it on a table somewhere) and also on wear when your phone battery is low.  Great features in a simple to use app that's \"always on' - no hassle.",
+        "Pretty good! Maybe you could use a different notification for the phone finder... I have my alarm sound down low so I don't blow my eardrums out in the morning, so this won't be of much use. Wear Aware, you could specify which sound you wanted to use and didn't use the alarm system. Also, maybe a BUNCH of vibration... Like 3-4 buzzes minimum... The G Watch has fairly light vibration (as do most AW from what I've heard) and it wouldn't be hard to miss this. Phone Status doesn't work on my G Watch.. Feature coming soon. All together a great app though!",
+        "Just tested it on moto360. Worked. Saw a review saying it doesn't work for the moto360. It does. I only really see a benefit in the find my phone feature since android wear does most everything else, but hey, it works and it does exactly what it says. So many watch apps on google play are being bashed by people who have something not synced correctly. Resync your apps if you have issues. Worse case, reset your wear and pair your device again.",
+        "Nice idea, sadly some functions not working Really like the idea of the app. The lost phone ringing option is good but I really wanted to use the phone status feature... it does not work at all on a Sony Smart watch 3 and Galaxy S5. Hope this is fixed in a future update.",
+        "Claimed Low Battery and Looks Poor The battery notification should only occur when the battery becomes low and is connected. Instead it sends it to the queue and shows up next time it's connected. All the text is jumbled on the newest version of AW on the Moto 360",
+        "Nice idea but...... ....Phone status feature not available yet.  So Find My Phone feature is the only working thing.  As I have that as standard on my LG Nexus 5X I won't be using this app.  For now, if it comes up later then I may try it again."
+    ],
+    "recentChanges": [
+        "- Fixed a bug that showed wrong battery percentage on the low battery notification",
+        "- New notification card on wearable: phone battery low! Get a notification on your Android Wear stream when you handheld device battery is low."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=it.purplepixel.wearbuddy&hl=en&gl=us",
+    "appId": "it.purplepixel.wearbuddy"
+}

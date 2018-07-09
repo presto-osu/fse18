@@ -1,0 +1,56 @@
+{
+    "title": "Find My Phone (Android Wear)",
+    "summary": "Find My Phone let you quickly find it using Android Wear.",
+    "icon": "//lh3.ggpht.com/a_yddGaujM3sft9kjpwBJFYZz5143fvHbpsBLY94kscfJmzDeguZO4POxKx_yX76tg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.1,
+    "reviews": 3144,
+    "developer": "NICK APPS",
+    "developerId": "NICK+APPS",
+    "developerEmail": "nick.applications@gmail.com",
+    "developerWebsite": "http://findmyphone.nickapps.net/privacypolicy.htm",
+    "developerAddress": "Severniy prospekt, 6/1, kv 218\nSt Petersburg, 194354\nRussia",
+    "updated": "February 25, 2017",
+    "version": "1.5.8",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "It's time to say goodbye to forgetting or losing your phone. With brand new Android Wear app you will never forget your phone and quickly find it in one tap.Android Wear Watch will buzzing to stop you from going out from your phone. Can find your phone? Just tap on notification or start Find My Phone app on your watch and tap on the button to launch alarm and visual signals on your phone (even if it’s in silent mode).The alarm can be setting up for your needs. You can:- Set alarm volume- Turn on gradual volume increasing- Turn on vibration- Select ringtone- Set screen brightness- Turn on FlashlightThe main functionality available for free, but some alarm customization features available only in PRO version, that can be purchased in app (price is $1,99).",
+    "descriptionHTML": "It&apos;s time to say goodbye to forgetting or losing your phone. With brand new Android Wear app you will never forget your phone and quickly find it in one tap.<br><br>Android Wear Watch will buzzing to stop you from going out from your phone. <br><br>Can find your phone? Just tap on notification or start Find My Phone app on your watch and tap on the button to launch alarm and visual signals on your phone (even if it&#x2019;s in silent mode).<br><br>The alarm can be setting up for your needs. You can:<br>- Set alarm volume<br>- Turn on gradual volume increasing<br>- Turn on vibration<br>- Select ringtone<br>- Set screen brightness<br>- Turn on Flashlight<br><br>The main functionality available for free, but some alarm customization features available only in PRO version, that can be purchased in app (price is $1,99).",
+    "histogram": {
+        "1": 276,
+        "2": 132,
+        "3": 280,
+        "4": 799,
+        "5": 1657
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/5o0DkBn3tvM66Z5S_UC_DefPH3rl8UvVOeSeMkzDnvhhPFmuHBYi0p_InmNomNHNsag=h310",
+        "//lh5.ggpht.com/V5nLrLJaa_87nWW5ARRnVVahP35vZZTDrqRuoOg1U_fP2CJzQqlqbNyBg1pqq6nZX9s=h310",
+        "//lh3.ggpht.com/dqC1xs2XOCZiAhF4IkLuhwQGBumMO3_JNl4-FS97n5MKJB-pBLUqWx5G3ktmV0pBvt8=h310",
+        "//lh3.ggpht.com/AM1UfcyqtascOV_vXLH_5up8FxV4fV7fBmPmoaxu85GmziahzDfzQRZUHEZ4Y8XoReC2=h310",
+        "//lh5.ggpht.com/7ogtWj8o5sCspbTAPckwy_0YuvWtJ3-Jeck054V_QA-cKp65-uj_JpMyY5ZZONB_Pw=h310"
+    ],
+    "comments": [
+        "Works well when I need to find my phone. A ton of weird features that I have no desire to explore.",
+        "Great app. Wear watch can alarm vibrate when bluetooth connection with phone terminates, you can also find phone with one click on wear watch - phone can alarm vibrate rings sound light a fleslight or alltogether. Great app!",
+        "Works well if you only need to find the phone, fails if you need alerts that you left your phone behind.  If the watch is also connected to Wi-Fi, turning off Bluetooth on the phone (as a proxy for going far enough from the phone) doesn't completely sever the connection to the watch, so the watch doesn't alert that it's no longer directly connected to the phone.",
+        "It is super unreliable. At least once a day it goes off when I'm sitting next to my phone.",
+        "Used to love this app, but apparently it can not be installed on my Ticwatch (Android Wear 2), so it's pretty much useless now",
+        "I have turned off the left phone alerts and just use it as an alternative to the Apple watch 'ping' phone"
+    ],
+    "recentChanges": [
+        "version 1.5.8",
+        "NEW: Privacy Policy link"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.nickapps.wear.findmyphone&hl=en&gl=us",
+    "appId": "net.nickapps.wear.findmyphone"
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Poweramp Wear Controller",
+    "summary": "Control Poweramp Music Player from your wrist!",
+    "icon": "//lh3.googleusercontent.com/JhGJjkAhSrcb1rDBssPhaN6RSSrWvablw9lFut2Xdtnj9YpNGhGm9LC3wiAyR3JrY0e1=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 92,
+    "developer": "Pawel Dyjak",
+    "developerId": "Pawel+Dyjak",
+    "developerEmail": "pawel.dyjak2@gmail.com",
+    "updated": "August 17, 2017",
+    "version": "2.00",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Warning: This application is designed to work only with Poweramp Music Player application.Tired of taking out your device from your pocket, just to change the song? Use Poweramp Wear Controller, to switch between songs from your wrist. The app is light, fast and powerful - you can use your smartwatch to:- toggle play/pause and switch between songs,- control music volume,- switch repeat/shuffle modes,- browse your music library, sorted by directories, artists or albums - then you can click on a song to play it.Poweramp Wear Controller is optimized for round devices - you can use circular scrolling gesture, to quickly and conveniently scroll between a large number of songs in your library (but you need to enable it in settings first).Note: before using application on your wearable device, you need to run and complete onboarding in mobile application.",
+    "descriptionHTML": "Warning: This application is designed to work only with Poweramp Music Player application.<br><br>Tired of taking out your device from your pocket, just to change the song? Use Poweramp Wear Controller, to switch between songs from your wrist. The app is light, fast and powerful - you can use your smartwatch to:<br>- toggle play/pause and switch between songs,<br>- control music volume,<br>- switch repeat/shuffle modes,<br>- browse your music library, sorted by directories, artists or albums - then you can click on a song to play it.<br><br>Poweramp Wear Controller is optimized for round devices - you can use circular scrolling gesture, to quickly and conveniently scroll between a large number of songs in your library (but you need to enable it in settings first).<br><br>Note: before using application on your wearable device, you need to run and complete onboarding in mobile application.",
+    "histogram": {
+        "1": 5,
+        "2": 5,
+        "3": 6,
+        "4": 20,
+        "5": 56
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/1qmhCVwmVniW7oekgkESwz-GJ7q2rkMFDYffzk9Il4ut3BRSiNeQHtLrMGmBIb6fA0ij=h310",
+        "//lh3.googleusercontent.com/TJFMBmZoBTc4e-TXRoTH77LY35GUgqu8yWMnTlgu0FHGKYxpPK_KjS-2Ca7_v9CtlA=h310",
+        "//lh3.googleusercontent.com/Q1OVbbmUpFKD_qNfrnN7abPcYIGD2FwFi35rbacF2ygWS7LYUFm-e_iRLEbd7ZeIbpQZ=h310",
+        "//lh3.googleusercontent.com/4x-2nL0y2gMhyjtbDEyJZ2NV0ytqhW-qqvPvD-F9aUG8HYi6Bf_RF9wIEJC7RYqz1HI=h310",
+        "//lh3.googleusercontent.com/AXDjCjNXVai32Pi7W_0G9OXoRz9TXQTPQH428He5C5PbV6oNZRm2_ljx2jSq4wv4kA=h310",
+        "//lh3.googleusercontent.com/9LiREHQcW-uqilbpXtEgxQtlNRbNiUwgQkYrMC4-xTiKe7_Rnf4qq7kQ-_5WxxhVoEwE=h310",
+        "//lh3.googleusercontent.com/BTk8D_yCtrNFW8TiaAXxru10FSdVJE1zI5tFD-iAgwOZ_EPFn-InWTTWo1PF4CV51A=h310",
+        "//lh3.googleusercontent.com/dMZAwbzDBTVjHRzGXYaBtoYKYJtEF5YjK_yVTfuzSxPdcbDq6BAX6c951DT20pOA3Kx9=h310"
+    ],
+    "comments": [
+        "I like the app so far, but I have encountered a glitch which causes a second layer of the icons to appear in the main menu. This causes the two layers to overlap, decreasing visibility. I hope a fix for this comes out soon. I would also like it if I could select from playlists, as it gives a lot more choice for the user. I look forward to seeing any improvements you might bring to the app from now on.",
+        "This app helped me browse around my library without always opening the phone which is really good. I have given it 4 stars as the first look and use was superb..... With further evaluation I might increase or decrease the number of stars but the previous reviews are also all promising",
+        "Hey, great work. This is a great app; very useful for picking artists/albums/songs from my vast music library. Opens up a whole new use for my watch. So far I have not ran into any bugs. Very handy.  I own an LG Watch Style with a crown scroller. My only complaint (and the reason I give it 4 stars) is that the crown whirly doesn't scroll through the library lists as I feel it should, since it would match the rest of the watch UI. I know this probably isn't a bug, just something that hasn't been implemented yet. Overall a great app though, it's at the top of my favorite apps on my watch! EDIT: After using this app for a while, I've noticed that the scrolling wheel functionality works when you first open the app on the watch if the app was last open on a library list. The scroll wheel ability stops working as soon as you change lists, such as tapping an artist you want to hear. Hope you can fix this!",
+        "App looks great, but it doesn't appear to work at all on my wear 2.0 device - there is no service running and I just have the standard music controls. Will change my review if an update fixes this. EDIT: Looks like apps have to be installed via Google play on the watch first (and not just on the phone). Have amended score.",
+        "Really nice app, only issue was that the time display is cut off on my lg watch style, so I can just see the tops of the clock's numbers but I can't tell what they are. Not a total deal breaker but still quite annoying",
+        "Fantastic app, my wearable would allow (once started Poweramp) pause, rwd, ffwd, volume BUT once stopped app couldn't simply restart via wearable unless opening app in phone, with this app I no longer have this issue! Additionally with all the options to access areas of Poweramp too makes this great!"
+    ],
+    "recentChanges": [
+        "Big update!",
+        "- Quick navigation: click on artist or track title to navigate quickly to the directory/album/queue/all tracks list, similar as in Poweramp Music Player.",
+        "- Ability to disable highlighting screen when changing songs.",
+        "- Various UI improvements, added visual feedback when clicking on items.",
+        "- Added \"Queue\" to the music library browser.",
+        "- Various stability fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.pdyjak.powerampwear&hl=en&gl=us",
+    "appId": "com.pdyjak.powerampwear"
+}

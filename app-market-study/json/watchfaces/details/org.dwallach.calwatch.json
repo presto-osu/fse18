@@ -1,0 +1,58 @@
+{
+    "title": "CalWatch (Wear 1.0)",
+    "summary": "Android Wear analog watch face that shows free/busy times from your calendar",
+    "icon": "//lh3.googleusercontent.com/_GGkdGWKVmzF3sctvlH3xBgq5-oV3tUOQe0B47RyVn-oo9nk4zFt3rHq4lC2DYforqYB=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 27,
+    "developer": "Wallach Studios",
+    "developerId": "Wallach+Studios",
+    "developerEmail": "dwallach+studios@gmail.com",
+    "developerWebsite": "http://www.cs.rice.edu/~dwallach/calwatch/",
+    "developerAddress": "P.O. Box 1892, MS 132\nHouston, TX 77251-1892",
+    "updated": "May 27, 2017",
+    "version": "release5a",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This watch face reads your calendar and displays your events for the next twelve hours around the watch dial, using the same colors and visibility as your real calendar. You can configure it with the Android Wear app, on your phone, to choose from several different face styles, as well as turning on or off the second hand and the day/date block. Note: this watch face runs on Android Wear 1.x watches (e.g., Huawei Watch, Motorola 360) and does NOT run on Samsung's Tizen watches, Pebble watches, or any other smartwatch devices. A Wear 2.0 version of this watchface is not yet available. Stay tuned!InstallationOnce you install CalWatch, it will show up in the list of watchfaces inside the Android Wear app on your phone as well as on your watch when you do a long-press on the screen. You can select it in either place. You can optionally use the Android Wear app on your phone to configure CalWatch (a \"gear\" image will appear over it after you make it the active watchface). This lets you do things like hide the second hand, enable the step counter, or change the style of the watch face.A few cool features• CalWatch displays stopwatch and timer data (in blue and orange, respectively) that it gets from the XStopwatch & XTimer app. Stopwatches have a blue minute and second hand. Timers have a yellow arc that goes from 100% to 0%.• The second hand has a non-linear sweeping effect, similar to what you'll see in many European railroad clocks.• Once your battery is below 33%, a yellow circle appears in the center. As the battery level drops, the circle grows. At 10% battery remaining, it turns red.• CalWatch can also show your daily step count (rounded to the nearest 1000 steps) in the center. Enable it from the phone configuration panel. • CalWatch works correctly with \"ambient\" mode, including \"low-bit\" mode on watches that require it. • If you have a Moto 360 or other \"flat tire\" watch, CalWatch will adjust itself appropriately.• The calendars events shown on the watch face are exactly the calendar events that are visible from the calendar app on your phone, with the same event times and colors. If you want to change what's visible on your watch or the colors for your events, just change them in your calendar, or touch the \"Gear\" icon in the Android Wear app on your phone, then select \"Calendar settings\". You can keep or remove any calendar from your watch without effecting your phone.• The watch will display your calendar events within a twelve hour window. If, for example, it's 9:30am, you'll see events starting at 9:00am and lasting through 8:59pm. Any events that started before 9am but end in the visible region will still appear, but their start time will be clipped. Likewise, any events that start in the visible region but end afterward will have the end time clipped. This clipping is shown on the watch face with the ragged edge around events at the clipping line.• CalWatch ignores \"all day\" or any event that would make a full circle around the dial. This gives you more room to see the events that start and end in the next 12 hours.Permissions and privacyWhen you install CalWatch, Android will report that CalWatch needs to \"read calendar events plus confidential information\". The only thing that CalWatch does, and the only permission it requests, is to read your calendar. Without that, it can't do its job. (On Android 6 \"Marshmallow\", it will now ask you directly for this permission.) CalWatch does not transmit your personal information to anybody! The only circumstance where CalWatch makes a network connection is if it crashes. You'll then have the opportunity to send crash feedback to the developer. Even in this case, your private calendar data never leaves your device.",
+    "descriptionHTML": "This watch face reads your calendar and displays your events for the next twelve hours around the watch dial, using the same colors and visibility as your real calendar. You can configure it with the Android Wear app, on your phone, to choose from several different face styles, as well as turning on or off the second hand and the day/date block. <i>Note: this watch face runs on Android Wear 1.x watches (e.g., Huawei Watch, Motorola 360) and does NOT run on Samsung&apos;s Tizen watches, Pebble watches, or any other smartwatch devices.</i> A Wear 2.0 version of this watchface is not yet available. Stay tuned!<br><br><b>Installation</b><br><br>Once you install CalWatch, it will show up in the list of watchfaces inside the Android Wear app on your phone as well as on your watch when you do a long-press on the screen. You can select it in either place. You can optionally use the Android Wear app on your phone to configure CalWatch (a &quot;gear&quot; image will appear over it after you make it the active watchface). This lets you do things like hide the second hand, enable the step counter, or change the style of the watch face.<br><br><b>A few cool features</b><br><br>&#x2022; CalWatch displays stopwatch and timer data (in blue and orange, respectively) that it gets from the <a href=\"https://play.google.com/store/apps/details?id=org.dwallach.xstopwatch\">XStopwatch &amp; XTimer</a> app. Stopwatches have a blue minute and second hand. Timers have a yellow arc that goes from 100% to 0%.<br><br>&#x2022; The second hand has a non-linear sweeping effect, similar to what you&apos;ll see in many European railroad clocks.<br><br>&#x2022; Once your battery is below 33%, a yellow circle appears in the center. As the battery level drops, the circle grows. At 10% battery remaining, it turns red.<br><br>&#x2022; CalWatch can also show your daily step count (rounded to the nearest 1000 steps) in the center. Enable it from the phone configuration panel. <br><br>&#x2022; CalWatch works correctly with &quot;ambient&quot; mode, including &quot;low-bit&quot; mode on watches that require it. <br><br>&#x2022; If you have a Moto 360 or other &quot;flat tire&quot; watch, CalWatch will adjust itself appropriately.<br><br>&#x2022; The calendars events shown on the watch face are exactly the calendar events that are visible from the calendar app on your phone, with the same event times and colors. If you want to change what&apos;s visible on your watch or the colors for your events, just change them in your calendar, or touch the &quot;Gear&quot; icon in the Android Wear app on your phone, then select &quot;Calendar settings&quot;. You can keep or remove any calendar from your watch without effecting your phone.<br><br>&#x2022; The watch will display your calendar events within a twelve hour window. If, for example, it&apos;s 9:30am, you&apos;ll see events starting at 9:00am and lasting through 8:59pm. Any events that started before 9am but end in the visible region will still appear, but their start time will be clipped. Likewise, any events that start in the visible region but end afterward will have the end time clipped. This clipping is shown on the watch face with the ragged edge around events at the clipping line.<br><br>&#x2022; CalWatch ignores &quot;all day&quot; or any event that would make a full circle around the dial. This gives you more room to see the events that start and end in the next 12 hours.<br><br><b>Permissions and privacy</b><br><br>When you install CalWatch, Android will report that CalWatch needs to &quot;read calendar events plus confidential information&quot;. The only thing that CalWatch does, and the only permission it requests, is to read your calendar. Without that, it can&apos;t do its job. (On Android 6 &quot;Marshmallow&quot;, it will now ask you directly for this permission.) <i>CalWatch does not transmit your personal information to anybody!</i> The only circumstance where CalWatch makes a network connection is if it crashes. You&apos;ll then have the opportunity to send crash feedback to the developer. Even in this case, your private calendar data never leaves your device.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 9,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/Djg4TSdKM15kxrgnp-f6PGIHbUzxtU5FSaIz6x6b80kKooCgqsEB0vtm3GqZLiw98O0=h310",
+        "//lh3.ggpht.com/xOodPTVP3xBWEcE24Zs3PYhnqE1Xb5qDh0Dh4O8PX7vEkf4JC6YHzoqA7GoxpfQBy4R4=h310",
+        "//lh6.ggpht.com/O-2tJVcRnKNKCFcm1a9Fx_0RStxiwzhJ64TI6Gj_JuBmfMqfSzmiF63-DFnD6eipXho=h310",
+        "//lh3.googleusercontent.com/uQyXzEb6PhgPPf3oOXBDIwDA1CSbruEJLduVJkBwT78Qas4cFl3pwJiOATUSy13NBqE=h310",
+        "//lh3.googleusercontent.com/67J-wrXpMVsCD55tN-cS17L-oVGIrJiiKtOcLUawVVuOLiGpeYF_kvWhQNhRxQqE0eY=h310",
+        "//lh3.googleusercontent.com/vL__z5r53RpbwoC_GAW_g0JFLWSnfsrzM6_sktsobEbwHGbI1Lqz2I-uqR3gnk-kmj4=h310",
+        "//lh3.googleusercontent.com/lQHvAM2QaCyT6GFdrAdy67d4K0syYFLhydQ5Swf_JCSu7MyywgWCjSrF5-cAuZ9oXcM=h310",
+        "//lh3.googleusercontent.com/7rHp5VSqHMz7b6K3yZXx_ovd5pxK6uvEGZs7YiNR0sUvMbYyoMrrYC7aK2VS__jwng=h310",
+        "//lh3.googleusercontent.com/bwh7QgIlO5w8EbKzOvZsI59KXWE61WwvCUdgqwdyC3vBki221FaeYSJtW4W-HQEw63s=h310"
+    ],
+    "comments": [
+        "Really cool, works well I have one suggestion / question: is it possible at all to have the watch face open the agenda app whenever you touch a colored area of the face?",
+        "Yyyyeeeaaahhhhh Dan!!! Dr. Wallach for the win!!!",
+        "What's not to like Of your looking for this type of watch face",
+        "Cool! I have suggestions to make this go from excellent to awesome. Allow selecting a background and setting appointment wedge transparency. Good job!",
+        "Moto360 bugs Hi,  I installed this watch face to use it on my Moto360 watch, but there seems to be some issues: - I can see the calendar meeting on my watch, but if I remove it from calendar it's not removed from the watch face - XstopWatch integrations works fine, but not with XTimer: whatever time I setup as a countdown time the yellow circle that should show the remaining time at the edge goes all the way around like it's more than 60minutes remaining.   Any clue or idea?  Otherwise - great idea and very useful!  Cheers, Jan Zorz"
+    ],
+    "recentChanges": [
+        "Google unceremoniously changed the API for reading a calendar. This release gets CalWatch working again. Note that CalWatch still only works on Android Wear 1.x watches. Support for Wear 2.0 is coming."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.dwallach.calwatch&hl=en&gl=us",
+    "appId": "org.dwallach.calwatch"
+}

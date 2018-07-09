@@ -1,0 +1,51 @@
+{
+    "title": "Listfinite - Shopping List",
+    "summary": "List keeping app with Android wear support!",
+    "icon": "//lh6.ggpht.com/fG3t74vl13XhRLq6_8zSgu4bhYL2UMAlK-rYCyveE6rAPs982TTJOK_arQ4XA5qoeg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 6,
+    "developer": "Justen McLean",
+    "developerId": "Justen+McLean",
+    "developerEmail": "mcleanjusten@gmail.com",
+    "updated": "September 4, 2014",
+    "version": "1.2.1",
+    "genre": "Shopping",
+    "genreId": "SHOPPING",
+    "description": "Listfinite is a easy to use shopping list,  just swipe items away as you get them from the store.  Any device using android 4.0+ should be supported.    Beta Android wear support.  If there are any problems let me know what device you are using and I will see what can be done.",
+    "descriptionHTML": "Listfinite is a easy to use shopping list,  just swipe items away as you get them from the store.  Any device using android 4.0+ should be supported.    Beta Android wear support.  If there are any problems let me know what device you are using and I will see what can be done.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/Q0GCkXjV6FWWKhCHKED_MmGi82gpnsGkGf4xsR8qp0Ifoq6cnEq743GIpu3JAdaG0iA=h310",
+        "//lh6.ggpht.com/5JBfaraQtMMH7socWV73KD2qkkvBGL8PG1E0nwGCXdgaOLjODoQ-WCXFyJznR_hSkbzG=h310",
+        "//lh4.ggpht.com/ZUobe-wXJGlQ5vhuAT66UROtuHYBp1kUgDT_AhpDqfTV1x-uo_FGKPxOGdS652KB0mZK=h310",
+        "//lh6.ggpht.com/eRF-dX-KSsvnpE1T4bVggTW-kjN0rT5GYeelH5GtRGLj-0abixibUVtgr7pvIqUEOoI=h310",
+        "//lh6.ggpht.com/2jEux4mP05H938sqZ4oKO2BRXB36W0BFGvOxvC9APz776I43DvQUjaVzw3-DxaWsuTqN=h310"
+    ],
+    "comments": [
+        "Best list app in a while ^",
+        "Grocery list This app is awesomely made! It has all the typical categories and you can even make your own, not to mention you can pick your favorites!! I like how precise you can be with it :)",
+        "Wow! What an awesome application! So practical and easy to use!"
+    ],
+    "recentChanges": [
+        "Added the ability to add categories to the quick selection list.",
+        "Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.justenmclean.beta.anylist&hl=en&gl=us",
+    "appId": "com.justenmclean.beta.anylist"
+}

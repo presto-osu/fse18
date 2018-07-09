@@ -1,0 +1,56 @@
+{
+    "title": "Toggl Time Tracker, Timesheet",
+    "summary": "Toggl is an online time tracking tool. It helps you see where your time goes.",
+    "icon": "//lh3.ggpht.com/CbreFsJPetU3O6cZ20avBKTkDuks4eOZZwPeLaq8X8tWw-vE6YIlnZh2dx4tluPWAQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.9,
+    "reviews": 4899,
+    "developer": "Toggl.com",
+    "developerId": "Toggl.com",
+    "developerEmail": "support@toggl.com",
+    "developerWebsite": "https://toggl.com",
+    "developerAddress": "Rävala 8\nTallinn 10143\nEstonia",
+    "updated": "April 6, 2017",
+    "version": "8.1.7",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Leading timesheet app for tracking work hours. Use the timer to log task times and get reports based on the time usage. All the time logs are synced to the cloud and you can track time also in the web version, desktop app, Chrome extension and with an Android watch - all your data is safely under one account.",
+    "descriptionHTML": "Leading timesheet app for tracking work hours. Use the timer to log task times and get reports based on the time usage. All the time logs are synced to the cloud and you can track time also in the web version, desktop app, Chrome extension and with an Android watch - all your data is safely under one account.",
+    "histogram": {
+        "1": 527,
+        "2": 453,
+        "3": 507,
+        "4": 1129,
+        "5": 2283
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/1UgzEN4NqfPumkmJdDvlqX35-DXbnsVmdT4d2Y19EMZoTs33lLlHKcVJA2QRUN3baw=h310",
+        "//lh3.googleusercontent.com/ckgQerYw39WTgffbrSQ3omrZ-a5EO75aWkbtTyINsY8fwsWqOoS3q4sMZnzmFMfTJGY=h310",
+        "//lh3.googleusercontent.com/G728EjTJn36MAVf_pjqm1ZKliHE6AIXDqBhiDMylBiR7SPspiwqJnPTkavaahf-1Dqw=h310",
+        "//lh3.googleusercontent.com/_qCrBMgTwZ00udjruh5b6YnDbz-pydu4vKs8Aktjpcwh-NuiZgG57tcprFVdK4EAJdo=h310",
+        "//lh3.googleusercontent.com/Bw0aUaxRtg76Q_sVDNBcH03sQbkIZahOWCON-sth88Sj9ZaERB5Pz5JF7S109lp01n7c=h310",
+        "//lh3.googleusercontent.com/6PitanS1WrebTL8izfD3pvMws1jEkiLAbuS8sKMiP6z8Z07QyBQSX69R101yjHWk7sQ=h310"
+    ],
+    "comments": [
+        "Very poor functionality compared to the great desktop version. Buggy timer, often times desyncs and causes massive time logs because it kept tracking time. I had a 250+ hour log one time and no way to undo it or edit it correctly. Slow to load and can't turn it off once you started tracking time. Good ONLY if you use the phone app alone, not alongside the web one. Needs a massive rework.",
+        "Toggl is a great service, awesome even. Custom, responsive apps with a potentially very responsive and non-intrusive user experience. Currently, however, the android app is very unstable for me, and as been for some time. It works, but you have to wade through several crashes and restart it to accomplish any task. Toggl desktop rarely works behind a proxy. The site works great, but is a website, and cannot offer the smooth and efficient user experience the applications can.",
+        "It's an okay app for its core functionality. Even though I understand and agree with the limitations for visualizing the data in the mobile compared to desktop, I believe the mobile experience should be really focused on quick start/stop timer interactions. The only facilitation I saw was the stop notification, but none for quick starting a timer. A few really simple ideas would be:  - A default project just like there is on desktop;  - A simple (and please, small) widget that is configured for a specific project and can be toggled from the home screen;  - A public action defined for other apps to quickly toggle timers. Especially useful with launchers like Nova for defining custom gestures in home screen to toggl.",
+        "Using Toggl heavily since Feb 2016, even turned a couple friends on to it. UI is smooth, sleek and shiny while not being ostentatious. The defyingly simple Reporting capabilities add a tremendous amount of flexibility to glean insight. And to top it off, I don't think I've ever experienced better support/service from, well, anywhere.",
+        "Would give five stars if there was a more useful widget for this app. When you turn off your android or close out of the app you have to open and then start or stop your tracking. Thats seconds that when in a rush can become tiresome. Would be great if it had a widget you could see at all times on one window screens like the website. Hope that makes sense.",
+        "Within minutes of making my account it kicked me out. When I subsequently attempted to log in, it told me that my email and password combination were invalid. So naturally I tried to sign up for a new account. First I tried with my old password, and it said it was taken. I tried with a new password and it still did not accept it. I have been allowed minimal exposure to this app, but so far I am extremely unsatisfied with my experience so far."
+    ],
+    "recentChanges": [
+        "- Minor UI tweaks"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.toggl.timer&hl=en&gl=us",
+    "appId": "com.toggl.timer"
+}

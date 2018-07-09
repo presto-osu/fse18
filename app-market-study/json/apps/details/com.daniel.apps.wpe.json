@@ -1,0 +1,52 @@
+{
+    "title": "Dialer for Android Wear",
+    "summary": "Phone dialer for your watch",
+    "icon": "//lh3.googleusercontent.com/6NmSr3Bf3Erd3PNODM-kDAINNeK0AoAhgmNgtNuVu91y-62yG8BRHe-caUaeofKhJ6c=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.2,
+    "reviews": 12,
+    "developer": "DGApps",
+    "developerId": "4716260150809375489",
+    "developerEmail": "help.dgapps@gmail.com",
+    "developerWebsite": "http://www.dgapps.ca/dialer-for-android-wear.html",
+    "developerAddress": "help.dgapps@gmail.com",
+    "updated": "September 2, 2016",
+    "version": "1.0.3",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "A launcher for an app which lets you dial a number, call a contact form your contacts or recent list on your phone. All your phone contacts and call logs/history will be accessible on your watch.If watch doesn't have speakers or a microphone, call will be placed on phone otherwise, it will be placed on watch.Works best with headphones or wireless/Bluetooth headset, as you can dial from your watch and talk through your phone for best quality.",
+    "descriptionHTML": "A launcher for an app which lets you dial a number, call a contact form your contacts or recent list on your phone. All your phone contacts and call logs/history will be accessible on your watch.<br><br>If watch doesn&apos;t have speakers or a microphone, call will be placed on phone otherwise, it will be placed on watch.<br><br>Works best with headphones or wireless/Bluetooth headset, as you can dial from your watch and talk through your phone for best quality.",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2uXNoCeE58Ee9t-7-eCskJoXITSWOwFtvFuP0AA-m886aIuFY5kD4X99-ZcfJ1dZ39Y=h310",
+        "//lh3.googleusercontent.com/W9hD5ZHokEXtN65QGSQ0pVCY-ana1Fi0DZhu0fQxZU3I9js7DstmmgG_CrQ5EuqFy1c=h310",
+        "//lh3.googleusercontent.com/deVegYdk4ir1FynEyILPxfAJByLNE1e_XT6zdVT6GwAvRLViYD40veSYgXoJOOoCzkw=h310",
+        "//lh3.googleusercontent.com/7yWDniSG_QClj3NczzMdALXf7pPhLTrUJB2kKz8gFFa1vKY3ppVcj27anQATmgHKmjsM=h310",
+        "//lh3.googleusercontent.com/7ECvvW6apz_ztb5gU33q1B8xt2JXMaKSOWW_nn6fUW32mavkG0FhMwkzSIxZtsUUwg=h310",
+        "//lh3.googleusercontent.com/SjHHCUjvc-9piS9lRv5UCw3jylv4b-F1JC6PqdWoIEUlA2BGxqLkRjJcPgHoFZIGdwZB=h310"
+    ],
+    "comments": [
+        "Best Contact and dialer app Great app..",
+        "Not working Its saying ...not supported when I press the dialer icon on my watch ... Do I uninstalled it ... Please fix it ... !!"
+    ],
+    "recentChanges": [
+        "fixed minor bugs"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.daniel.apps.wpe&hl=en&gl=us",
+    "appId": "com.daniel.apps.wpe"
+}

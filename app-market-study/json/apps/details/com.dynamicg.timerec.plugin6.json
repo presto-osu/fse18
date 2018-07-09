@@ -1,0 +1,53 @@
+{
+    "title": "DynamicG Wear Plugin",
+    "summary": "Time Recording Plugin for Android Wear smartwatch integration",
+    "icon": "//lh6.ggpht.com/Q9aRJP2vY6Wn39N9-y36SUnx_qH7mMRi4CS7fq6gLsWWyrvL_jPo3C8eXAzA8mhA1q4H=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 134,
+    "developer": "DynamicG",
+    "developerId": "DynamicG",
+    "developerEmail": "dynamicg.info@gmail.com",
+    "developerWebsite": "https://sites.google.com/site/androidtimerecording/home",
+    "developerAddress": "DynamicG Android Apps\nSaumackerstrasse 35\nCH 8048 Zurich",
+    "updated": "August 16, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Plugin for Android Wear smartwatch integration, for users of Time Recording and Time Recording Pro. Please note this does NOT work with Pebble or Samsung Tizen smart watches** VOICE COMMANDS **The following voice commands are supported:• \"start punch\": executes a check-in or a check-out within Time Recording• \"start TR\": opens the status notification as shown in the screenshots, with an extra actions for punching and task switch.** USAGE NOTES **• The status notification will show whenever you do a check-in. See \"Widget & Notification\" settings within the main app to turn this off.",
+    "descriptionHTML": "Plugin for Android Wear smartwatch integration, for users of <a href=\"http://play.google.com/store/apps/details?id=com.dynamicg.timerecording\">Time Recording</a> and <a href=\"http://play.google.com/store/apps/details?id=com.dynamicg.timerecording.pro\">Time Recording Pro</a>. <br>Please note this does NOT work with Pebble or Samsung Tizen smart watches<br><br>** VOICE COMMANDS **<br>The following voice commands are supported:<br>&#x2022; &quot;start punch&quot;: executes a check-in or a check-out within Time Recording<br>&#x2022; &quot;start TR&quot;: opens the status notification as shown in the screenshots, with an extra actions for punching and task switch.<br><br>** USAGE NOTES **<br>&#x2022; The status notification will show whenever you do a check-in. See &quot;Widget &amp; Notification&quot; settings within the main app to turn this off.",
+    "histogram": {
+        "1": 9,
+        "2": 5,
+        "3": 10,
+        "4": 38,
+        "5": 72
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/S3euMRxoqZMPS5rDb9BrBpLIKicv98JQ4SPxnY07f1r8brclYsOgXIIIUfbTLTxdhTY=h310",
+        "//lh3.ggpht.com/QyPVF642DhTrJgU5h52Pvhq4Pb8f23TDykyKkhnoQ-X3WXONEpI643l7rOoU-8s3cus=h310"
+    ],
+    "comments": [
+        "No Tizen, huh?  Any chance of a developer API so someone who really likes your main app could write their own?",
+        "Time recorder wear integration? Yes Please! Have been using the main app for at least two years now. Recently got an Android smart watch (call me late to the party if you like) and thought \"It would be great if I could use Time Recorder on here.\" Well, after a brief search of the play store there it is! Have to agree with a previous review that a vibrate on punching would be a very nice touch though. Perhaps in a future update? Keep up the great work!",
+        "I can't get the voice commands working - I've tried the \"Start Punch\" but my watch just does a google search and loads a book advert up.  I have a Sony Z5 with a Sony SW3.  Can't find any help on this, hence asking in the review.",
+        "Good when it works (kinda unreliable).",
+        "Used this app for years. Keeps getting better and better",
+        "Awesome Easily able to switch tasks on the fly with no hassle, makes tracking time a breeze."
+    ],
+    "recentChanges": [
+        "Text color fix for Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dynamicg.timerec.plugin6&hl=en&gl=us",
+    "appId": "com.dynamicg.timerec.plugin6"
+}

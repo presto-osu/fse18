@@ -1,0 +1,63 @@
+{
+    "title": "Scan My Watch - Wearable Code",
+    "summary": "Wearable App to store QR codes and Bar codes for convenient use later.",
+    "icon": "//lh6.ggpht.com/d_X5TBDafcfkK3Rls1rr5bwJyqAEKWcEmBQ6IUrXfrbZhnHU7S5l0C8ILFaTjGJEqYk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 46,
+    "developer": "Deezel Entertainment",
+    "developerId": "Deezel+Entertainment",
+    "developerEmail": "dsostre1@gmail.com",
+    "developerAddress": "PO Box 67543\nRochester, NY 14609",
+    "updated": "December 29, 2015",
+    "version": "1.19",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "This is an Android Wearable app designed to store scannable codes to your wearable device.  Store all your barcodes for your favorite rewards programs.  Store coupon codes for quick easy savings. Store your business card via vcard qr code.This application offers several ways to save each code.     * Use the scan feature to scan QR Codes and Bar Codes then save them to your device.   * Use the gallery feature to select code images in your device.        * Share any bar code image from email, text, or screen print via the share option on your device   * Enter the data for the code and use the generate code feature to create your code.     * Share to create a code. text from any application with the app.Tap on list header and say \"SHOW ...\" to quickly find your code from the list.",
+    "descriptionHTML": "This is an Android Wearable app designed to store scannable codes to your wearable device.  Store all your barcodes for your favorite rewards programs.  Store coupon codes for quick easy savings. Store your business card via vcard qr code.<br><br>This application offers several ways to save each code.  <br>   * Use the scan feature to scan QR Codes and Bar Codes then save them to your device.<br>   * Use the gallery feature to select code images in your device.<br>        * Share any bar code image from email, text, or screen print via the share option on your device<br>   * Enter the data for the code and use the generate code feature to create your code.  <br>   * Share to create a code. text from any application with the app.<br><br>Tap on list header and say &quot;SHOW ...&quot; to quickly find your code from the list.",
+    "histogram": {
+        "1": 7,
+        "2": 5,
+        "3": 8,
+        "4": 10,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/uCI6OOgk8EXX0A0llsTjrfchpNGRayZLdQ-yz9K5A0cgOgLh3Im-ob_-LarCAaMsvFI=h310",
+        "//lh4.ggpht.com/4XWOU91OwJqaBW7uGzmW98soBDECfskJGWkfYcBNSbGPpipQXWwobg98y_0doHQCsrZP=h310",
+        "//lh6.ggpht.com/csbbAJHGK82G57Gj6EJ1NMYuJlUusAZPbSRfbPQncUHhHq-kGR1CbHZQVV1FRHX97co7=h310",
+        "//lh6.ggpht.com/KA4meDpmK65qRyZqwIIKuEOlIrru1athQiKXKdVa2gItu8iStOsC91cIOTaUuDCeaQ=h310",
+        "//lh6.ggpht.com/UORBKneixFVLoN15Zw6cr2i-e0P0Szbeg6N0xqf67Y_CRuSx7kkBa6b8xc5KUTGtxuo=h310"
+    ],
+    "comments": [
+        "Guys please don't waste your time installing this app",
+        "Why doesn't it appear on my watch Great idea, scanned my codes and saved them to app but the app doesn't appear on my LG G Watch R for me to use. Explain how to sort it and I will happily give 5 stars",
+        "Where is it? Its called scan my watch, but it doesn't show up on the watch, only on the phone. What happened?",
+        "LG G Problem QR code is compressed on rectangular watch face. Top to bottom is compressed. QR looks rectangular not square.",
+        "Sony SmartWatch 3 Nice app. Can't edit list of scanned codes (delete, replace). If I could, or if developer addresses this function, I would surely give a better rating.",
+        "Working, but QR too Big App is working again on LG G Watch R, but QR codes are a bit too large.  You know, there is something in the Wear API to handle that..."
+    ],
+    "recentChanges": [
+        "* FIXED Watch app issue (Watch app was not loading to watch properly *FIXED*)",
+        "* Added BackUp and Restore options",
+        "* Completely upgraded UI",
+        "* Additional mobile features....",
+        "SPEAK CODES -> \"Open...\" - \"New barcode\" - \"New QR Code\"",
+        "* Fixed crashing on Moto 360 - Thank you for your patience",
+        "* Modified mobile UI",
+        "* Modified wearable UI",
+        "* Remove Image Buttons and Used Standard Buttons for better screen layout on Mobile display",
+        "* Better formatting of QR Code on watch display"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=deezel.com.codewatch&hl=en&gl=us",
+    "appId": "deezel.com.codewatch"
+}

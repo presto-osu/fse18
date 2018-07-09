@@ -1,0 +1,52 @@
+{
+    "title": "Mylo - My Locations and Places",
+    "summary": "With Mylo, save all your favorites places to find and share them easily!",
+    "icon": "//lh6.ggpht.com/N9q4f1RS5ykkRTrw4A-tIp50ZzEed67oAwVfvjH79bY6eSXBS9SspW2YpZeaE9URxrA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 10,
+    "developer": "Caroline Besnard",
+    "developerId": "Caroline+Besnard",
+    "developerEmail": "besnard.caro+mylo@gmail.com",
+    "developerWebsite": "https://plus.google.com/u/0/105973617859953181136/posts",
+    "developerAddress": "78 chemin des Trois Châtaigniers, 38430 SAINT JEAN DE MOIRANS",
+    "updated": "February 10, 2015",
+    "version": "3.0.2",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Mylo (which stands for \"My Location\") is the perfect way to keep track of and save all the places you liked anywhere in the world: What's new in 3.0:*Add GPS position when offline*Visualize all your places on a map*Open shared places from mylo and maps url in Mylo !*Add place in Mylo by sharing it from Google maps appAll Features:*Mark places using your precise GPS location (even when you are offline!)*Use Google powered search to find and mark Public places *Share places easily*See places on maps*Quick and easy access to all your saved places with a clear listing*Create your own groups to sort your places  *Edit your places' name*Open shared places from Mylo and maps url in Mylo*Add place in Mylo from Google maps app by sharing them*Visualize all your places on a mapMylo supports android wear and allows you to add places from your wrist:* Open with voice command \"My location\"* Add and save places with one touch* You can later on find your new saved location in your mobile application  To get all the latest news follow Mylo!   Google+: https://plus.google.com/u/0/b/106539647677689939468/106539647677689939468/postsKnown issue in 3.0.1 and later:On Android 5.0 Lollipop: List of locations doesn't display correctly when there are only 1 or 2 locations.",
+    "descriptionHTML": "Mylo (which stands for &quot;My Location&quot;) is the perfect way to keep track of and save all the places you liked anywhere in the world: <br><br><br>What&apos;s new in 3.0:<br>*Add GPS position when offline<br>*Visualize all your places on a map<br>*Open shared places from mylo and maps url in Mylo !<br>*Add place in Mylo by sharing it from Google maps app<br><br>All Features:<br>*Mark places using your precise GPS location (even when you are offline!)<br>*Use Google powered search to find and mark Public places <br>*Share places easily<br>*See places on maps<br>*Quick and easy access to all your saved places with a clear listing<br>*Create your own groups to sort your places  <br>*Edit your places&apos; name<br>*Open shared places from Mylo and maps url in Mylo<br>*Add place in Mylo from Google maps app by sharing them<br>*Visualize all your places on a map<br><br><br>Mylo supports android wear and allows you to add places from your wrist:<br>* Open with voice command &quot;My location&quot;<br>* Add and save places with one touch<br>* You can later on find your new saved location in your mobile application  <br><br><br>To get all the latest news follow Mylo!   <br>Google+: https://plus.google.com/u/0/b/106539647677689939468/106539647677689939468/posts<br><br><br>Known issue in 3.0.1 and later:<br>On Android 5.0 Lollipop: List of locations doesn&apos;t display correctly when there are only 1 or 2 locations.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/E98ojpOFy2v2hHkdvDwq1h5-RtCLnUueDXrktjQDtI4vcmEFCdavXHgJomffI8nC=h310",
+        "//lh6.ggpht.com/ym1tYyN98cUH8ycckkv53E2UXrk4S_yaEzlzvmAHHUyXidrySX8kFpY8x-WFoYfO0dgU=h310",
+        "//lh3.ggpht.com/A2GHSCmp9Qd4ryidG67ZQyZecgksMKsGiqv48hAVcvtVeoCUSB9ZivrDUhonCo-oEpM=h310",
+        "//lh5.ggpht.com/elcDkQex17Z_CVhCyJWXt-wYZXPqDZiHbov8utI2VK-rTcXYLfq90ZWeYZGNU-R6eHQ=h310",
+        "//lh3.ggpht.com/HtJcI_ieMpp7BjCD8gIwmEvnwicgXxcKY2UwnZSsTjYh58kbjy3vlmxrLejkTD4beq4=h310",
+        "//lh6.ggpht.com/P7FyvJaEKhiGI4VV5Z_7VJgt1zvrdSxqLNqg-ZdIH7pt6mMw81aoY7C4qzw-OgFAFQ=h310",
+        "//lh6.ggpht.com/60bx-Is1wDA5Xdq_J9MoZeK7oMW7K5zgxkS0YNarKjfiNc-jZhPpqUM6GPHyGPDjXU8=h310"
+    ],
+    "comments": [
+        "Looks very promising and also looks good. A dark theme would be nice. UPDATED: I made a full reset of my phone and just realized something... Are you crazy? You really want to have success with an app that DOESN'T SAVE THE LOCATIONS IN AN ONLINE ACCOUNT?!?  How am I gonna get all my saved locations back ? Sorry but this is of no use for me as it is."
+    ],
+    "recentChanges": [
+        "Bug fix (feature: add shared place from maps)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.carolinebesnard.mylo&hl=en&gl=us",
+    "appId": "com.carolinebesnard.mylo"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Reflection Watch Face",
+    "summary": "What time is it? You may want to reflect on it.",
+    "icon": "//lh3.googleusercontent.com/v3zE2L4Rx639IQxgizuojsjYms6thHZq9dycY9vkuYNrcvuYuQYcxsrugTUeOp4eLw=w300",
+    "price": "$1.29",
+    "free": false,
+    "minInstalls": 5,
+    "maxInstalls": 10,
+    "score": 0,
+    "reviews": 0,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "July 6, 2015",
+    "version": "2.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This face is using a reflection pattern to render hour and minutes.Hours are in the upper half and minutes at the bottom.In the sample, time should read 22:00 (provided you use 24h format)Most people get it right away, some are still trying to figure it out. That's the great thing about it.Designed is preserved in ambient mode, although scaled down to black and white.Settings will let you choose between 7 colors and 3 layout modes (Checkered, Light and Inverted) for a total of 21 watches :)Support of 12/24h mode is automatic based on your locale settings.The sample has been taken on a 24h mode device. It Would Show something like M00/0000 on a 12h device.This face is an original creation.The disturbed font has been created by Yoan Maman (contact@yoanmaman.fr)For questions or concerns about this face, please contact support@seenapps.comIf you like our faces, don't miss the good stuff at https://twitter.com/SeenApps",
+    "descriptionHTML": "This face is using a reflection pattern to render hour and minutes.<br>Hours are in the upper half and minutes at the bottom.<br>In the sample, time should read 22:00 (provided you use 24h format)<br><br>Most people get it right away, some are still trying to figure it out. That&apos;s the great thing about it.<br><br>Designed is preserved in ambient mode, although scaled down to black and white.<br>Settings will let you choose between 7 colors and 3 layout modes (Checkered, Light and Inverted) for a total of 21 watches :)<br><br>Support of 12/24h mode is automatic based on your locale settings.<br>The sample has been taken on a 24h mode device. It Would Show something like M00/0000 on a 12h device.<br><br>This face is an original creation.<br>The disturbed font has been created by Yoan Maman (contact@yoanmaman.fr)<br><br>For questions or concerns about this face, please contact support@seenapps.com<br>If you like our faces, don&apos;t miss the good stuff at https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/IH93zV-c5_PK2-r-o722aIPwQHsfDWlwUmdCpj9xoXwceHz6oJo9jnQGKAllNDq4Xg=h310",
+        "//lh3.googleusercontent.com/NSjx8L_pdO8tKvfXSqCcKuqC9ldDSb-9a22tg0TG5L0KO-u07z5uvhj1IxhUY9X0gQs=h310",
+        "//lh3.googleusercontent.com/JLGUKyjFW3HhUjifufsWIPDjzyFn4uafuZ5Ssu6hu4FW4j0PePZYRYJecvHNHuGec4ls=h310",
+        "//lh3.googleusercontent.com/vXBqmNAGE7CEz8far8WJespUEk44WeRv3mpKl2EBWtH2rXQ-A5g0KaJuMHtUGm3mYAyN=h310",
+        "//lh3.googleusercontent.com/JcYGB5Q1w3e-MsrNLZcNFzrRSQKWZ4BKwrNtlTmApN9af0rRX0xuqYvy7c2cJzH2gTo=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Added 3 configurable layouts. Checkered, Light and Inverted.",
+        "You will get much better battery life on Light (obviously!)",
+        "Check store assets for sample screens"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.reflection_face&hl=en&gl=us",
+    "appId": "com.seenapps.reflection_face"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "COLOR WALK WATCH FACE [Free]",
+    "summary": "Colors to match your steps.",
+    "icon": "//lh3.googleusercontent.com/diSwRQRifY-YAp__dGhX3lzMWGch_gim-kZ08v6tAHEziMSrDZZcGqDO_Nrz6t5D7Ic=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 11,
+    "developer": "Goodpatch Inc.",
+    "developerId": "8724307623457699242",
+    "developerEmail": "goodpatch.android@gmail.com",
+    "developerWebsite": "http://goodpatch.com/",
+    "developerAddress": "150-0032\n東京都 渋谷区鶯谷町3-3\nVORT渋谷south2階（旧サウスゲート渋谷ビル）\n日本",
+    "updated": "June 25, 2015",
+    "version": "1.1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch Face for Android Wear.Colors to match your steps. Based on your Google Fit step count, the face of your watch will change to a spectrum of colors.In order to access step count data, the Google Fit app is required.Setup:-Link Fit Data・Install the Color Walk WatchFace・Using your smartphone, open up the Color Walk app**You will be asked to enter your Fit account name and be prompted for permission to use your Fit data-Setting your WatchFace・Using your smartphone, open up the Android Wear app・Select Color Walk and change the WatchFace.Supported devices:・Motorola Moto360・LG G Watch R・LG G Watch・Samsung Gear LIVE・SONY Smart Watch 3Not yet tested on:・ASUS ZenWatch",
+    "descriptionHTML": "Watch Face for Android Wear.<br><br>Colors to match your steps. Based on your Google Fit step count, the face of your watch will change to a spectrum of colors.<br><br>In order to access step count data, the Google Fit app is required.<br><br><br>Setup:<br><br>-Link Fit Data<br>&#x30FB;Install the Color Walk WatchFace<br>&#x30FB;Using your smartphone, open up the Color Walk app*<br>*You will be asked to enter your Fit account name and be prompted for permission to use your Fit data<br><br>-Setting your WatchFace<br>&#x30FB;Using your smartphone, open up the Android Wear app<br>&#x30FB;Select Color Walk and change the WatchFace.<br><br>Supported devices:<br>&#x30FB;Motorola Moto360<br>&#x30FB;LG G Watch R<br>&#x30FB;LG G Watch<br>&#x30FB;Samsung Gear LIVE<br>&#x30FB;SONY Smart Watch 3<br><br>Not yet tested on:<br>&#x30FB;ASUS ZenWatch",
+    "histogram": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/fARIPn-QcpphN05pRyb_CxJVR74u55RsfaTYCA2UfnLa3bd5DJLi5keKKFCYx6dH-pLg=h310",
+        "//lh3.googleusercontent.com/l5mT9q0zFaIGjrRUXeigdw8NhWEKPJZWXYoiPjTmOlQhzF6JqdaVYlsR1SoHvXsLvw9a=h310",
+        "//lh3.googleusercontent.com/UiNuo4y1mF00mMI6Hg1vr0Lx5TTWFGLK-Lp01PBBHdI1WlXhSmuGbksr7ElkFfNY6JAE=h310"
+    ],
+    "comments": [
+        "Awesome! It's simple and awesome but would love a digital clock alternative :)",
+        "Great design, difficult as a watch :P It has a great design and really like the changing colors but could there be an option for digital time not just analog? Or to have both analog and digital at the same time? I just find myself switching watch faces to actually check the time. If it werent for that then this would definitely be my primary watch face. Also enjoy the steps shortcut and animations :D",
+        "Doesn't link to Fit App Tried multiple times but it just keeps saying \"install fit app\" even though it's been installed foe ages. Also it makes me pick a google account like 10 times before it even says that. :/"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gp.android.fitproject.colorwalk&hl=en&gl=us",
+    "appId": "com.gp.android.fitproject.colorwalk"
+}

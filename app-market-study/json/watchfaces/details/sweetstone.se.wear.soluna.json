@@ -1,0 +1,57 @@
+{
+    "title": "soluna Moon & Sun Watch Face",
+    "summary": "Digital Watch Face that shows you time for sunrise &amp; sunset and moon phase",
+    "icon": "//lh3.googleusercontent.com/jPZc82Fcu4UgG2qbb99Z53n5yFvBsviB04TZ5qDxDXGAxdMpqmAvAtuXJtwu4mggEIU=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.6,
+    "reviews": 5,
+    "developer": "Sweetstone",
+    "developerId": "Sweetstone",
+    "developerEmail": "claes.lindblom@sweetstone.se",
+    "developerWebsite": "https://www.facebook.com/sweetstone.se",
+    "developerAddress": "Guldsmedsvägen 12\n65346 Karlstad\nSweden",
+    "updated": "December 20, 2015",
+    "version": "1.1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "soluna Moon & Sun Watch Face is a modern and minimalistic digital watch face that shows you the current Moon phase and the time for sunrise and sunset at your current location.soluna Moon & Sun Watch Face is designed for both square and round Android Wear units like the Sony SmartWatch 3, Moto 360, LG SmartWatch R and Huawei Watch.This watch face features:★ Battery indicator %★ Current date (weekday, date, month and year)★ Current time 24 hour format★ Sunrise and sunset at your current position★ Moon phaseBlack and white in dimmed mode showing battery status, time and date to preserve battery.Excellent battery performance.",
+    "descriptionHTML": "soluna Moon &amp; Sun Watch Face is a modern and minimalistic digital watch face that shows you the current Moon phase and the time for sunrise and sunset at your current location.<br><br>soluna Moon &amp; Sun Watch Face is designed for both square and round Android Wear units like the Sony SmartWatch 3, Moto 360, LG SmartWatch R and Huawei Watch.<br><br>This watch face features:<br>&#x2605; Battery indicator %<br>&#x2605; Current date (weekday, date, month and year)<br>&#x2605; Current time 24 hour format<br>&#x2605; Sunrise and sunset at your current position<br>&#x2605; Moon phase<br><br>Black and white in dimmed mode showing battery status, time and date to preserve battery.<br>Excellent battery performance.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6FQ5W5uLbjyFQfTKgBqalDfQtb4IWfEbGDfUiobaLmLOXrkFjQdcH481mOvQib-h6A=h310",
+        "//lh3.googleusercontent.com/7CACTvPs9XmjSutvWdj_c7j17naAY7LmZE0tpGtTpCkuEMEZ_evobqq-1Ie-HcUhnV0=h310",
+        "//lh3.googleusercontent.com/Yl6kNKddDtGmmTshZTb4ej9Yx-jBJ1l3fMj_oF4hGkDwIfAznV4bNXxhxAwBC0Cru0E=h310",
+        "//lh3.googleusercontent.com/1IYWQVSV-bDj1N0jZG0PfZNzNKqiuuBuKdjO9A58ZBu0MqbpAA305Uu1xselRAwdU1A=h310",
+        "//lh3.googleusercontent.com/zZhImLN_dLMXmIKrG8-iw4Sctxv9uBhfi76rbtLHWyRWAPDpIqHFALbUcrIH0d9AxUs=h310",
+        "//lh3.googleusercontent.com/pdA7H74v8A8wgial4fn7LzvvYDGoDMFRgjXnXfIsy6YRJukfyO3hfjGM5LNnrJapPQ=h310",
+        "//lh3.googleusercontent.com/sRJOMielIvzWJ4QWuxiXzx-lCJ6UDFR5GsqZLLyhz0GuKLax5-1iTf1vBfgk2ULzLA=h310",
+        "//lh3.googleusercontent.com/v4rJiv8IiGtn3Wl-b-p5UMj3cSMWlmT5gwKWwiuQriUIOBDoiZtPh5S5HwYZrIBHh6U=h310",
+        "//lh3.googleusercontent.com/uS5umSmjj693Qoz3fqcwH4jaCsKJFELmN-Nl7008HFIQpHExJCsu6s-5Hal2TKrOWV4=h310"
+    ],
+    "comments": [
+        "Crashes every time Looks like the perfect face that I am looking for, however, it crashes every time I apply it. Please fix and I will reinstall. No updates or contact from developer about fixing the issue.",
+        "The below was written before I switched from an HTC One M8 to a Samsung Galaxy S7.  On the Samsung, it crashes just as it has for other users reporting on this face. Now I'm using the Glance face that came with my Zenwatch 2 software, now that it too has 12-hour time. It doesn't have lunar phases, but I've got a Moon Phase Pro face also, and the F05 face and InstaWeather faces also give relevant information.   ********** The recent update makes this my watch face of choice for regular wear, replacing the F04 face as such. Soluna has legible sunrise and sunset times, as opposed to F04's tiny font. And the face is much cleaner. So now that it has 12-hour time as an option I'm keeping it on as my main watch face.  It shares with F04 the moon phase lagging the true phase by several hours worth, probably as a result of treating the local time on the watch as if it were GMT, or perhaps the zone where it was written. But several hours is not much compared to the 29.5 day cycle of the moon.  It could use, however, an option to stay in full view for a longer number of seconds.",
+        "Repeatedly crashed every time I tried to select it. Looked like just what I needed but repeatedly crashed every time it was selected on my Huawei watch. Uninstalled"
+    ],
+    "recentChanges": [
+        "Added configuration support for 12 / 24 hour mode.",
+        "You can now set you own color scheme of the watchface"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=sweetstone.se.wear.soluna&hl=en&gl=us",
+    "appId": "sweetstone.se.wear.soluna"
+}

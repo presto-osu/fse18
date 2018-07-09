@@ -1,0 +1,55 @@
+{
+    "title": "Altimeter Watch Face",
+    "summary": "Just a simple watch face for Android Wear inspired by planes altimeter dial.",
+    "icon": "//lh5.ggpht.com/gAA2cXJOacmDkZ105iIsqSliq-VrpvfFRvdcVJFRSK2ZOOWhGM6Kd0LRCuvIUefhjjc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.1,
+    "reviews": 507,
+    "developer": "psk Studio",
+    "developerId": "psk+Studio",
+    "developerEmail": "contact.pskstudio@gmail.com",
+    "developerAddress": "Bucuresti, Romania",
+    "updated": "April 4, 2015",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Android Wear watch face with smooth second dial. Round and square background. And burn-in protection for amoled screens.",
+    "descriptionHTML": "Android Wear watch face with smooth second dial. Round and square background. And burn-in protection for amoled screens.",
+    "histogram": {
+        "1": 38,
+        "2": 16,
+        "3": 59,
+        "4": 115,
+        "5": 279
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/wD9QVp8xCyb-hRfEUqdEmzJtAYL_lJtkyEqlRHo7es03fzQ9VPkWxy9kaObWs-tu2Q=h310",
+        "//lh4.ggpht.com/YBccn2DhX2M0QA7AuQNQXVZAgAwllVm5TuNYEXMbIRn-T6oIZxiXrCFouI4yR7fU7Uqa=h310",
+        "//lh5.ggpht.com/klgWvt0iiAjfR0NFj2DR95kOSi3y6y0TqzvEtLD9hrsMsbqpnmfaADwGX-KChK4qAQ=h310",
+        "//lh3.ggpht.com/JS3Qt0N7E4v4QMMhdSfL_-Na9rgej3hq3CXk0gVqVS2wLFv0nfXqd6DRUCTgjDJdiiqO=h310",
+        "//lh3.ggpht.com/ogyjMy_OD-rorx0QYP_9CDTRx8qku7TKYHDmLDIrfLAyuZZibKo1BnNnXjSAZT40rE0=h310"
+    ],
+    "comments": [
+        "Random glitch Worked great on Asus zenwatch 2, looked good, do wish it was a bit more customisable, but a good looking watch none the less. But main issue is after about 1 hour of use image went dark grey all over with only a few specks of light grey on image - so ugly looking. Watch set to screen off, so its not just showing a battery save screen mode. Changing to different watch face and back to this one did not resolve. Good but could be so much better!",
+        "Was nice for a day Then it blanked out. Must be a bug. Other faces work. I restarted my watch. Didn't work. Uninstalled, didn't work. Love it though over all.",
+        "Very clean look, almost real Except when in ambiance mode. The pixelation is bad, but could be part of the watch, not the watchface.",
+        "Nice, from the advertised picture. Very flat 2D looks, ugly on G Watch R. Din't like it.",
+        "Nothing happens Installed it and it's nowhere to be found on my  Xperia z5 compact. I emailed the devs and nothing. Pointless.",
+        "It appears wierd after the first day, its mostly black and has some features of the watch, but still, need to be fixed!"
+    ],
+    "recentChanges": [
+        "- Bug fixes",
+        "- Better visibility in ambient mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.pskstudio.psk.altiwatch&hl=en&gl=us",
+    "appId": "com.pskstudio.psk.altiwatch"
+}

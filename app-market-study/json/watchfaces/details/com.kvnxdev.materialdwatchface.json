@@ -1,0 +1,61 @@
+{
+    "title": "MaterialD Watch Face",
+    "summary": "With this Watch Face, the awesome Material Design comes to your Smartwatch!",
+    "icon": "//lh3.googleusercontent.com/mOv3t2L8nAH9rrDx3_z12jaDEBGcZnX-hWpYKZqzcr5nUH2V-ab4AVPN5j1N7Y9RqDs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 11,
+    "developer": "KvnX Dev",
+    "developerId": "7661464148040404437",
+    "developerEmail": "kvnx1337@googlemail.com",
+    "developerWebsite": "https://plus.google.com/+KevinNivek",
+    "developerAddress": "North - Germany - Kiel",
+    "updated": "February 24, 2017",
+    "version": "1.4.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Finally, Material Design on Smartwatches! The MaterialD Watch Face got lovely designed while following the Android Material Design guidelines in color, icons and design. You can choose all Material Design colors and switch between dark mode and bright mode. Just try it, there is so much more to find out.Benefits:★ Material Design★ Choose between all Material Design colors★ Use bright or dark mode★ Battery bar to see the current battery level★ Different font types★ Energy Safe Mode★ For round and square Smartwatches★ And so much more!As you can see this Watch Face comes with an clear but pretty high customizable settings app! But the most important point is, this app didn't got build just to look awesome, it is also very battery friendly!Still something missing or not working? No problem. Just feel free to write us an email or join the community (Link below)Listed on Best Watch Faces: http://best-watchfaces.com/watchfaces/materialdKvnX Dev Support:Create a ticket (English): http://community.kvnxdev.com/tickets/Support via E-Mail (English / German): support@kvnxdev.comSources:- Phlat Watch Template by Erik von Stackelberg - Color Picker by Google (Fork by woalk https://github.com/woalk/android-colorpicker)- Icons by Google (Android)",
+    "descriptionHTML": "Finally, Material Design on Smartwatches! The MaterialD Watch Face got lovely designed while following the Android Material Design guidelines in color, icons and design. You can choose all Material Design colors and switch between dark mode and bright mode. Just try it, there is so much more to find out.<br><br><br>Benefits:<br>&#x2605; Material Design<br>&#x2605; Choose between all Material Design colors<br>&#x2605; Use bright or dark mode<br>&#x2605; Battery bar to see the current battery level<br>&#x2605; Different font types<br>&#x2605; Energy Safe Mode<br>&#x2605; For round and square Smartwatches<br>&#x2605; And so much more!<br><br><br>As you can see this Watch Face comes with an clear but pretty high customizable settings app! <br>But the most important point is, this app didn&apos;t got build just to look awesome, it is also very battery friendly!<br><br><br>Still something missing or not working? No problem. Just feel free to write us an email or join the community (Link below)<br><br><br>Listed on Best Watch Faces: http://best-watchfaces.com/watchfaces/materiald<br><br><br>KvnX Dev Support:<br>Create a ticket (English): http://community.kvnxdev.com/tickets/<br>Support via E-Mail (English / German): support@kvnxdev.com<br><br><br>Sources:<br>- Phlat Watch Template by Erik von Stackelberg <br>- Color Picker by Google (Fork by woalk https://github.com/woalk/android-colorpicker)<br>- Icons by Google (Android)",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/mT8qzjRbyd7PzP5AG5PnzIcDH4pEoApfsuQMbKPjf8Qymkqd4tzjXLdqwrTMyAtR4Po=h310",
+        "//lh3.googleusercontent.com/yrvhJ830gTqL_btffkXC2MtFL1EKEo_Pk8HJ_bXZXyVVPy46-8P1KoLqBdiUFGGWkw=h310",
+        "//lh3.googleusercontent.com/w-feAk_8q_4XqOJ-wrir4GiA-KAHbylSb45X3P-3iv6ZWf3Z3qMfbBTAOS_N6_vy0A=h310",
+        "//lh3.googleusercontent.com/0rGKHfbWNtzJ6wlkz79ZEmWPUboVQ4_qnJO_Y15vFVDFQGuB4R5nRTJjasxpJt-c5g=h310",
+        "//lh3.googleusercontent.com/2VH_wWmDR1ybPx26TBuXWJgj9TOyFBSasDQUUzP49RHJT5azopwJ13IKqkuZlt94-Fc=h310",
+        "//lh3.googleusercontent.com/GMFdDhDSu_yFjb25_Bec68JXtFbKF8UeXAKjLzZkBxbkVEOKRX_c0ir8NKHosntb2zDE=h310",
+        "//lh3.googleusercontent.com/bau77wxZ6bhbHsWwQ3P_eYoFfEqqYqTnj-Et_vU7sVxhh9iGT-oVPvJtHKw1T1Dqtck=h310",
+        "//lh3.googleusercontent.com/b3V2S-8uemHVKBX5sFFKapY5ANdb3OMW3juqXyqmbh64IlExCWdQax_pj_LM4KdS_l8=h310",
+        "//lh3.googleusercontent.com/XikHyJxIY4HkrJpL-n1gM5kkltJeU-ZuUndj6ZPv1jM_8fHf4Q9rJ1mmyVhPxCUrcg=h310"
+    ],
+    "comments": [
+        "The notification cards are not displaying on updated Asus Zenwatch 3 (fixed this. I accidentally had do not disturb turned on)",
+        "not sure how to see battery level.."
+    ],
+    "recentChanges": [
+        "Version 1.4.1:",
+        "- Fix: Displayed wrong month on some date formats",
+        "Version 1.4.0:",
+        "- Added function \"date format\"",
+        "Version 1.3.0:",
+        "- 2 new fonts added (FFF_Tusj, Mathlete Bulky)",
+        "- Fixes and improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kvnxdev.materialdwatchface&hl=en&gl=us",
+    "appId": "com.kvnxdev.materialdwatchface"
+}

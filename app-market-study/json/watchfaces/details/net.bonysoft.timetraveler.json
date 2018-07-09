@@ -1,0 +1,55 @@
+{
+    "title": "Timetraveler Wear Watch Face",
+    "summary": "An useful dual-time watchface for your Wear watch",
+    "icon": "//lh3.ggpht.com/LsNjmkerT4ai0C6EAYS4hU8DK8EsUz8t0CC7bKiybQGD7WQvPV-ZqQ0Wj5WOH9Ro-dU=w300",
+    "price": "$1.25",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.6,
+    "reviews": 13,
+    "developer": "BonySoft",
+    "developerId": "BonySoft",
+    "developerEmail": "bonysoft.dev+timetraveler@gmail.com",
+    "developerAddress": "Unit 20, The Ivories, 6/18 Northampton Street, London N1 2HY",
+    "updated": "February 2, 2016",
+    "version": "1.2.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Easily display two timezones at the same time!The first timezone reads like a regular watch, with a 12 hours hand.The second one uses a practical GMT hand which allows to know immediately if it is morning or afternoon for the second timezone (more on that on http://en.wikipedia.org/wiki/24-hour_analog_dial ).Features- Date- Sweeping seconds- Second timezone (with 24 hours view)- Full support for nonstandard timezones (with 30 or 45 minutes offset)- Battery saving ambient mode- Multiple colors (customisable from both the watch and the phone)From the phone configuration companion app (Android Wear on the smartphone apps drawer) select the Timetraveler GMT watchface and then click on the settings gear icon. There you can:- change second timezone- change colorInstallationAfter installing the app on your phone, the app will automatically install on the watchLong press on the current wear watchface, then select Timetraveler GMT",
+    "descriptionHTML": "<b>Easily display two timezones at the same time!</b><br>The first timezone reads like a regular watch, with a 12 hours hand.<br>The second one uses a practical GMT hand which allows to know immediately if it is morning or afternoon for the second timezone (more on that on http://en.wikipedia.org/wiki/24-hour_analog_dial ).<br><br><b>Features</b><br>- Date<br>- Sweeping seconds<br>- Second timezone (with 24 hours view)<br>- Full support for nonstandard timezones (with 30 or 45 minutes offset)<br>- Battery saving ambient mode<br>- Multiple colors (customisable from both the watch and the phone)<br><br>From the phone configuration companion app (Android Wear on the smartphone apps drawer) select the Timetraveler GMT watchface and then click on the settings gear icon. <br>There you can:<br>- change second timezone<br>- change color<br><br><b>Installation</b><br>After installing the app on your phone, the app will automatically install on the watch<br>Long press on the current wear watchface, then select Timetraveler GMT",
+    "histogram": {
+        "1": 1,
+        "2": 3,
+        "3": 2,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/g0I2A4J3p818rgvVY2DSNC12SRBs05tZmsBucK4DUuzHqfyZFxyZ3BfRLqwPOezq5xs=h310",
+        "//lh3.googleusercontent.com/GID7EJgi8OnFglVoyB3pKLiCzhbh3hI0-tYSLwgg0631-qD0wJDuNYVPsbTiyZhAs80=h310",
+        "//lh3.googleusercontent.com/n_ydwYzwChlOUNpMARV5entlZbytG4lKCNbTZLGg1u_kiyfHdShZovZ1nXu6F1yHCg=h310",
+        "//lh3.googleusercontent.com/6Cdq575oYkL6dv9kDEbaj1IpvajJNmIFg5gkUWOnNBkULCAO8YP4KTTTvwAQIASLp9Q=h310",
+        "//lh3.googleusercontent.com/V_FBUgWsA3EdL8lvX1QHs78Lj2XskY7IsVem_kkhH01gKdEst95qtAPk_v5VQvecag=h310",
+        "//lh3.googleusercontent.com/8nu-oJ3Hgd-WhG2qVD-dRsT6LAZuv9Piyxck7vCG5qTCcP2HsCOPnA44tbymMRzId48=h310",
+        "//lh3.googleusercontent.com/TxfjCkPRmD1mMQZGwdqz1djkHam_5lpqriGV5Yl7yacNaFsoHm2Jd2vQzY56lgLIrg=h310"
+    ],
+    "comments": [
+        "I've made better on watchmaker.. I want to test the battery drain of Watchmaker and this is very like one i made. That's the only reason I paid for this. It should be free. Far far better are. It would be better to have all hours marked, The date has no window. There should be a choice of turning the seconds off. It's a drain. There's no dynamic shadows, to give a feel of depth to the hands. This is so basic 5mins to code in LA and 30 tops to do the rest. I made it to see.",
+        "Finally got it to stick on watch and phone Keeps disappearing from Watch and Phone. Magically started to work. Seems like it would be more logical for this to have a 12 hour clock that follows the tick marks for the regular time as well as UTC, at least as an option.",
+        "On my G watch, the settings only allow me to change colors.  There is no setting available to change the secondary time zone.",
+        "Sweet watch face 👍",
+        "Looks great!"
+    ],
+    "recentChanges": [
+        "- Bug fix for time zone selector"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.bonysoft.timetraveler&hl=en&gl=us",
+    "appId": "net.bonysoft.timetraveler"
+}

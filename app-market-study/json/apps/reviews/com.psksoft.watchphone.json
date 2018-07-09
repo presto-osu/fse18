@@ -1,0 +1,450 @@
+[
+    {
+        "author": "Robert Kirr",
+        "comment": "like it! responsive. colorful. no errors.   and what I like most: it's the first dialer that let me search in contacts (using speech). cool.   Alexander, good job!     May I suggest you if possible to enhance:  I start the call from watch. My bluetooth hands-free is in my ear. On watch, the bluetooth sign is on the blue button bottom right. I start to push the button. bluetooth &gt; phone speaker &gt; phone earpiece &gt; phone speaker &gt; phone earpiece &gt; .... so I do not have the possibility to came back on hands-free device.  also the status of the used device on the phone display  does not change. the phone will continue to show bluetooth is used, even I'm already on speaker or earpiece.  samsung s6 and LG watch R both on 5.1.1.  10x!  robert",
+        "date": "November 22, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRlVBQ2txODdlS1B4OU94SURKWXp2czI0NlBOaTlLMnhMS0hNN3FmbFNMYURpOW9xY2J3V2w5YTJTekN6TnNjRWZCMVVLNnpNeVN2eVMtOUp3",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Robert thank you for the purchase and for the great reply!\n1. I will try to reproduce this bug and fix it!\n2. \"the phone will continue to show bluetooth is used, even I'm already on speaker or earpiece\" - unfortunately it seems not fixable because the phone app does not update buttons state when other app switches bluetooth/speaker.",
+            "date": "November 23, 2015"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Stewart Wood",
+        "comment": "I really wanted to like this app. But.   It simply doesn't work on my Moto 360. It's either frozen or dials a completely random number.   I don't like to ask for a refund as you seem a really decent guy, but unfortunately it just doesn't work - and I've tried all the troubleshooting steps you've suggested in these feedback responses.",
+        "date": "December 7, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSEQxN1pQaWdoNDM1Y3FVY2xLek9xbE9MWEpiWS1KS2c2dVVQWUxaUmUxTENLRi1QYmdrczFPdkNITzdDeW9nV1c3WlNIVl9OX2YxUFRQM180",
+        "reply": null,
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Brandon Allbery",
+        "comment": "Nice app, better than the other watch dialers I tried. Two questions though: - is there a way for it to provide a keypad *during* a call? (I have a feeling the answer is \"no\" due to API limitations.) - on a long call, the screen eventually \"times out\". Is there a control for how long this takes?",
+        "date": "May 31, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSEQyNmZ5dnhweU9QLXhYNnpzWlA2eW5LZmVwVnFLVHRGZ0lBOGNOOWM3RTRyalpqMlFyeXc1c3JiRGRVNG9XZElEY2lqQnVHdTFhZHI1Ry1J",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thanks Brandon! About keypad - yes you are right, it's not possible to send DTFM tones during a call in Android unfortunately. On your second question - hmm... I've added it to my stack of tasks, hope I will find a bit of time to solve it!",
+            "date": "June 16, 2016"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Pramod",
+        "comment": "After installing this app, it is working fine for outgoing calls but it is not allowing to take incoming calls. I am using Nexus 6 and moto 360 2nd gen. Also during incoming calls my phone ringtone is not playing, as if it is in silent mode.",
+        "date": "July 16, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRTBkaUh1QlBqLXpwUVRhWW1yYlhibmt6anRaQVhSQWN5amFDdG82VFBJRlNWUEZfa3c1Mi1HaUtoZHhlbGlONVEzTEdVWTBreEl3dVVBUjZr",
+        "reply": null,
+        "star": 2,
+        "title": "Messed up with incoming calls"
+    },
+    {
+        "author": "Chris Twiner",
+        "comment": "I wanted the ability to mute my calls through my watch as I'm often on calls whilst moving and hate having repeatedly to take the phone out to control the mute.  This app does exactly that even if you started the call on the phone. The bad news is that the app dissappears shortly after starting it, if I've started it by hand it should stay open until I swipe it closed. Fix that and it's a clear 4, making the mute button the biggest on the screen an easy 5.(FYI I have not used any other functions of the app)",
+        "date": "December 7, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRmNTUEg0a1Z2X2UtRWdYN0xiSzZIWFFtOVZ5dUlTSC1Sal9pNV80enFpT3dCcTZycnY1YXVodVNMTmkycW5ZOWlZdlhwdEUtalJLT3MtMzFF",
+        "reply": null,
+        "star": 3,
+        "title": "I'd give 4 but it doesn't stay open"
+    },
+    {
+        "author": "Fred Pocai",
+        "comment": "This app is honestly one of the reasons I started looking at Smartwatches in the first place. When I found out I can mute/unmute a call in-progress from my wrist without having to take my phone out of my pocket, unlock the screen, and change windows to get back to the phone app, I knew that I needed to have it.  I spend a lot of time on conference calls so being able to quickly and easily mute/unmute my mic is vital.  What's also real nice is it doesn't seem to matter if I start or answer the call from the phone, the app, or \"OK Google\".    The only problem, and that keeps me from giving a 5th star, is that I can't for the life of me figure out how to get back to the call-in-progress screen if I leave the app on my watch.  I was just in a call a few minutes ago, received some notifications from other apps during the call, and tried to return back to Watch Phone, but couldn't control the ongoing call anymore.  This functionality, if it exists, doesn't seem to be very intuitive.",
+        "date": "February 11, 2017",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR25zMENDMHBzcy1nMUF4Nkc3N0cxR25UdEFXUEdNTjlLR1FBQnpLeXRRX2NxSjRpaWROVzYzMHB5OGJNR3cwZkJtLW1VOUFtdWxWNkdEajJn",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Kwasi Sasu Domfeh",
+        "comment": "I really like this app. The only downside is the contact which is not accessed by alphabet . I don't have to scroll downwards all the way to access contact starting with the letter Z.",
+        "date": "September 29, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRnVJZWt6dmE3aWY4NlBEam52SHRuWXhIRHh3Z0NLVk8yR2lYSkNCYmdNVHNaN2RzVjA0TG9xLURPT3Z1elY1MUVJcV9Rem80WDNPSXp1bFd3",
+        "reply": null,
+        "star": 5,
+        "title": "Nice wear app. Contact shd be accessed by alphabet as on phone."
+    },
+    {
+        "author": "Behzad Live",
+        "comment": "After installing this app , `always on` not working and this app doing my brightness for level 1. Pls fix it. My screen in watch is black after installing. Im unistall and work fine again. Lg g watch",
+        "date": "October 8, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSHVIdnJ3SWk1WldVcE9TV2lldEthT05kU0NSakZrb3pQaDlEUE05YjFGU1kxNmJIZDBWaXRGWkZXM2JUMjg4WnZqR0Y5X2E1ODkxYmRZYTUw",
+        "reply": null,
+        "star": 1,
+        "title": "Always on not working"
+    },
+    {
+        "author": "Tony D.",
+        "comment": "I like it, but it gives no way to answer incoming calls. Can this be remedied? Also, there's no persistent call notification after placing a call from the dialer, so I cannot mute, etc, the call after it is placed. If this cannot be remedied, may I have a refund, please? Huawei Watch.",
+        "date": "January 5, 2017",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRmdnR0FBcDUwY1FnX1UtQThMc1lYTThzbVVPcmlWY1U2WUYtcjk1MzF0QmdaU192UzlhczJNeE9RaWtXMVZuRGJHVENrSnFDcUpESDBoRElV",
+        "reply": null,
+        "star": 3,
+        "title": "Half functionality"
+    },
+    {
+        "author": "Matt Longman",
+        "comment": "Without incoming call capabilities, it only does the job half the time. The mute button should be bigger and easier to press.",
+        "date": "August 23, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSG9tVk14ZzhYOW1FRWNzSUhCR2M0Q1hsMUJDaGJVb0VqQ3hSMnVXcDJQUXVVNFc3QnozRGNhaHhIWTFtQmJvYnczejd0V3Uza2o0b0pMVkpv",
+        "reply": null,
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Slavik S",
+        "comment": "After recent update application stop working.  It runs but could not retrieve contacts or favorites.",
+        "date": "October 11, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSC1heFVHNUtNQUMzRnN0MkFDcG50V0ptMlRYUXBhZnFRZDNlV2dmOEhZNGlQNHBnSjk2SVdNdDNJSHB2REhkU3Bjd0JFM3VxcEhqd1U4ZzNn",
+        "reply": null,
+        "star": 1,
+        "title": "New version does not work"
+    },
+    {
+        "author": "",
+        "comment": "I can now dial calls from my moto 360 sport and view my contact list",
+        "date": "June 14, 2017",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSHFxTmdzVkdJTWRGaVEtVGc3UGctVGprZHRQeTZmdERaSWgxSXpKbkJ1bnpWaU9kaFRidEFsYVB5WXNLdXNPSzZEOGl4Nm1YT2ZlcjFKdlc0",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Shabier Yousaf",
+        "comment": "Was fine before updating using LG g watch r and note 4.",
+        "date": "July 30, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSGo5ZXN2d0ZkNWpaTGw4c01IR1ZfbFQ0MWtNNzNMZjFxd19zRGFXS2VXdkczSDI2eDZKV25UYTNfZDBQUUZiRmtRVHdmNWxMMndvd2QtU0RF",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Shabier, please try to reinstall the app. Where are no significant changes in the last version of the app which could cause any problem. I belive it is a random temporary glitch.",
+            "date": "July 30, 2015"
+        },
+        "star": 2,
+        "title": "Not working since update"
+    },
+    {
+        "author": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0429\u0435\u0433\u043e\u043b\u0438\u0445\u0438\u043d",
+        "comment": "\u0423 \u043c\u0435\u043d\u044f LG G Watch. \u0421 \u043d\u0435\u0433\u043e \u043d\u0438 \u043e\u0434\u0438\u043d \u0430\u043f\u043f \u043d\u0435 \u0437\u0432\u043e\u043d\u0438\u0442. \u0415\u0441\u043b\u0438 \u0432 \u0436\u0435\u043b\u0435\u0437\u0435 \u044d\u0442\u043e\u0439 \u0444\u0438\u0447\u0438 \u043d\u0435\u0442, \u0442\u043e \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442?",
+        "date": "April 11, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRUpjLXFPRDFmSE1UWjhXSjVkc2RuSmNVbEhSc1ZwZE1sZVY2d2ZJcFNYUjdJaWdDNjBVcVliTjZZX2pMUnluSElEeUloS2xYU1MybHM2NGVv",
+        "reply": null,
+        "star": 2,
+        "title": "\u041d\u0435 \u0437\u0432\u043e\u043d\u0438\u0442"
+    },
+    {
+        "author": "Jonathan Cox",
+        "comment": "I tried 5 different programs before I happened upon this one. It worked perfectly. I am very pleased!",
+        "date": "February 3, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSHRvdmNiNFhyNUpRY2NGb3RmSlVVdW1Zc0Z2LU5aWnZTWlVkNEtJeHRLaS0tZzFQaXJEZElDVnFvdGFhaGxySnlxYy1HZC1USkdZY0k2NTZR",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thank you, Jonathan!:)",
+            "date": "February 5, 2016"
+        },
+        "star": 5,
+        "title": "Well done!"
+    },
+    {
+        "author": "Konstantin Pevtsov",
+        "comment": "\u041d\u0430 Sony SW3 \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e \u0434\u043e\u043b\u0433\u043e, \u043d\u0430\u0434\u043e \u043f\u043e\u0434\u043e\u0436\u0434\u0430\u0442\u044c. \u041d\u0430 \u043c\u043e\u0439 \u0432\u0437\u0433\u043b\u044f\u0434 \u043b\u0443\u0447\u0448\u0435\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f call handling.",
+        "date": "July 19, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR09Dei0waGlNalNNV0Q1RE1UaDYwNjUtalpWTklYNExNV2ZaNk1aYWlsUk5qMHRycVZlMXJ5czRTMk1XUE5BY212UXlsUHRXX0pEWVBJRXJn",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Natraj J",
+        "comment": "Not working. Huawei watch with S6. When I purchased it was basic and I thought it will be enhanced in future. But no update.",
+        "date": "May 12, 2017",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSDBNWG5jWlNRM200aEREYmVKT01WcUk1UF8zQnh0UjNrN0hKVVU0Q3R3OWFXTzcycmkwRTRaLXhEMWRVLUtvNkNfbFlCVWxTaXR1VU5fSkV3",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "Sir, How to update contact list ?",
+        "date": "October 6, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSGdtWGx3VS01bDN0dEphU3piSGZ3SE1VVTFLX2FJWmM3VGVnR05ndmFQWGYxQ3FOQ09FUjJJdzE3NFFueDV5bGRnVV9fTDgyT1pRc0JaRkxr",
+        "reply": null,
+        "star": 4,
+        "title": "Need help"
+    },
+    {
+        "author": "Abdul Majid Farooqi",
+        "comment": "Thanku so much for accepting my feature request,,, it's working like a charm :)",
+        "date": "August 6, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRjBPNUNyX1U0M2xvUVF5bzlseTIxWkhIV2VjU1hqTDlyTGRwc21NY2V6X1RKT3lVRHg3b1B0V3NNbWk0WFRFaU05WWY4bU1tdHo2S3VZREpZ",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thank you too!:)",
+            "date": "August 7, 2015"
+        },
+        "star": 5,
+        "title": "Thanku so much"
+    },
+    {
+        "author": "Victor Alekseev",
+        "comment": "Without always-on support application is almost unusable with Wear 2.0",
+        "date": "December 4, 2017",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSFN2QW9hYy05emhtaWwzVll0b3NnMzVMdE5nb0lVald4WVNmU2VsdzVMamJPLUZueURXOFRzR3FrczFRVXBxSkxzM0VsX3NqY0hBamt0NGxj",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Anthony Trevino",
+        "comment": "Works good a little buggy but i like it",
+        "date": "November 7, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSE9EY2RyRHViVzExWGtZbzluZkdjTlFWWF8yT29hb05wRXM0UFI2NWRIN3lubW5CRVUzVU54R1A1Zm9nREZKbmR2RXFxaTRfMFFRTGlENk1z",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Kevin Newton",
+        "comment": "Great app !!!!",
+        "date": "July 13, 2016",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRnNxQ3dQLW5yODRHdFRJOV81alNxMTJFMk0tTmdhbDBQZWJiaVI3Y3dIbG84VEF2cngwOVlXdG41NXZWbUlndDdTdjQxTVNtSVUxbFpzaVVv",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Erik Grijalva",
+        "comment": "I'm happy with dialer and all options so far.  However one annoying quirk i have is while in a call my moto 360 has that little black cutoff at the bottom so part of the screen is cut off making it hard to access in call buttons at the bottom of the app. Any fix?",
+        "date": "July 12, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSENpUGxfNjFQX29GWDlwNDFWb2ozZkFmelh2ZHRzaVd3cy0zbDZzbFAyTlllMHc3ZlNLRzVpU3hrZnNTdmdRSTRrc3VDU0IzQ3NfRF93aHFV",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Erik, thanks for the reply! Of course I will fix it. All my impression about my app on Moto 360 was based on these photos http://goo.gl/UckCCI because I haven't Moto 360. So I desided mistakenly what all the buttons are at the screen at least. You can join my beta-testing community here: https://goo.gl/inZy7C and I could send you the pre-release.",
+            "date": "July 13, 2015"
+        },
+        "star": 4,
+        "title": "Great dialer"
+    },
+    {
+        "author": "Brian Lim",
+        "comment": "Been looking for an app like this that can control my calls on my watch, after picking it up. It's a feature that Pebble has but Android wear has been lacking.",
+        "date": "May 24, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR291NS0tZ251ckNCNkNtclYwYXBTUmQtQk4tSVlhaElRcDBBMzF3VUx0dkFMbWhBcTU1dXR5QWRpbnlkeVEtc2xRT1NDMnh2bXk3ZHpTUGhV",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thanks, Brian! Yes, after the Android Wear 5.1.1 update rollout this is the last killer-feature in this app:)",
+            "date": "May 24, 2015"
+        },
+        "star": 5,
+        "title": "Great app"
+    },
+    {
+        "author": "Randy Harrold",
+        "comment": "Doesn't show up on my asus zenwatch",
+        "date": "May 20, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRXV5NlVNZ2VOcUhtd2J6ZG9QSERXWXlpM2hEd2lnVTIzWmh1OVFlZWlURDFRNW9meElpbENFMVNtOWdWZVdlT25IeEdCUlRlNV8xWTZRc1ZR",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Hello Randy! How much time did you wait after the installation on the smartphone? Sometimes it takes really long period of time to transfer the app through Bluetooth, 5 minutes or even more.",
+            "date": "May 20, 2015"
+        },
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Alex Tiong",
+        "comment": "The reason I am giving a four star now is because all my contact in my phone are not sync to the watch. The contact is empty at my watch side, making it just a dialer app.",
+        "date": "April 6, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRzBFQzlXaVNIT2dfLWt6MDB6SDcwdXlyNlZEWGdoY2d6Zk5pQWozVTFUV2lxdU1tY29LbTVjZC1yS1FhRHlmc0ZjNE5zMWcycm5IaEhPMGxn",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Hello Alex! It maybe a bug or the app needs more time to transfer contacts data via Bluetooth. What do you see in the contacts list?\nAlso you can try to start the app on your phone and after what look to the contacts list again.",
+            "date": "April 7, 2015"
+        },
+        "star": 4,
+        "title": "Good apps but perhaps a bug that only I encounter?"
+    },
+    {
+        "author": "CHUMP mhunter",
+        "comment": "Thanks for making a great app. This should come standard on all android wear watches. Works smoothly and great interface makes it top notch. Great job!",
+        "date": "April 17, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR0pDTmJFU1U3c2gzT2x1Wjhsb0NXSkhLaVJYVFFxNFlNRjQtSmtxRVJ1RXVoNExNeWU4WlJ6cFpLT0ptV3Y0dXRrQUhtT25XNHRfTFhldjJ3",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thank you for the purchase ant the great reply!",
+            "date": "April 18, 2015"
+        },
+        "star": 5,
+        "title": "Wow, this app is top notch"
+    },
+    {
+        "author": "stephen luff",
+        "comment": "Using this on a Sony SW3. I tried to download the LG call app but it never appeared on my phone. So I found this one. How to give it a full test, but so far after a thorough 15  second test it works fine",
+        "date": "May 4, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRWtlVDBoWFZjV0w1NnliZlRyclBCMWxZa1FlODJ1Sjd5dWE2cDM1SW94YUMzWTVRSlltRHZXR2V1WmNEQkRZdnFpS213Y0NodDVzWk82MnZ3",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thank you Stephen!",
+            "date": "May 5, 2015"
+        },
+        "star": 5,
+        "title": "Very useful"
+    },
+    {
+        "author": "Ismaldo Sosa",
+        "comment": "Great app, it would be nice if you could add button for while in a call you could type numbers. Like calling a conference line it requires a pin after you call.",
+        "date": "April 1, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR3NlOWlqcElTYUxpV2Nnc0hJdzVNbkRvSDlRUDBNS0prYVc2ejk2YTN1QzhyRVl0R1VhNlB3dHFBM1hSWGV2UUpTc19uSkt6RWVFSTNxblEw",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Hello dear Ismaldo! Thank you for purchase and for good reply!\nI consider opportunity to make dialing while in a call, but currently Android does not allow send DTMF tones to the channel from third party apps. One chance is to implement some kind of a hack with root but it is dangerous.",
+            "date": "April 1, 2015"
+        },
+        "star": 5,
+        "title": "Its all I need it on my moto 360."
+    },
+    {
+        "author": "Mikey Hoss",
+        "comment": "Why? I don't know...",
+        "date": "April 5, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR0hPdlVEaVhuSWpQekdGajNHWU90eE1PbmlyS3NEOXNaTFgxWHRBdTRnVUpuX0ZTb1ZLQTJ5bEI3QnYyMnRBUnVHUmJSNmtEczZvUThwN2Nn",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Hello Mishuk! What do you mean? Did the app icon appear in watches apps menu? Bluetooth connection is slow and apps do not install to the watch instantly...",
+            "date": "April 5, 2015"
+        },
+        "star": 1,
+        "title": "Do not show up on my motorcycle 360 for some reason."
+    },
+    {
+        "author": "Sung Shan Li",
+        "comment": "Smooth, but the contact list is not very smooth, cannot display the calling stratus during the call, im using moto360, pls help.finally I solved my problem, thanks",
+        "date": "May 13, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRkluS0RhRmtucnlxYnA3ZVNqT2dGakVGM0p6VGFXRm1BbnhHS1BPdU9uMEtobWxSZHU1Z05oUVRGWW9pZHpjNC1XVWZOQjhDMXN6Smx6X21n",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Hello! Sorry for the inconvinience. Could you explain more about the problem?",
+            "date": "April 29, 2015"
+        },
+        "star": 5,
+        "title": "Not bad"
+    },
+    {
+        "author": "Frederic Bulochnik",
+        "comment": "Would be great if you would add an option for black background.  Thanks",
+        "date": "April 1, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRXIyVmFUdjZuVGNPVzMxYUcxRzhuQy0zVl9WYnpDbnRpb0xRNG1rMFVBS0xxcVVaX2dRUkJpT3BSUUNnRjZTSnY5M2xManQ3LWw2WEZuQ2Uw",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thank you for purchase and reply! Good news, I have this freature in the development plan.",
+            "date": "April 2, 2015"
+        },
+        "star": 5,
+        "title": "Love the app"
+    },
+    {
+        "author": "Ifran Hanif",
+        "comment": "Features all work great. Really good job.",
+        "date": "April 8, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRXNtTmVndWNPZ3BKNEdwNnpJdWRhTy1HcWVvbkVoNWNXOTdSRWpOWnpJLXNQVWVfNllVRUtFemM4Q2FOcl9NZURVdmVwYzR2T0NwLTZ5alJJ",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thank you Ifran! Very pleasure for me!",
+            "date": "April 8, 2015"
+        },
+        "star": 5,
+        "title": "Works really well"
+    },
+    {
+        "author": "Sergiu Alexandrescu",
+        "comment": "Dialer layout could be much better. Mini Dialer for Android wear does a better layout",
+        "date": "March 31, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR2NDUnUwSmxFX2V6NWdUSzctV2tOYjFud3FiNk5UbTVScGJkb0ZNVzBLTEdGVUlXQy15NlFSREw0SkVXMjJ4eXJQektNQ1BrSEpXeEVkUkI4",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Hello Sergiu! Thanks for purchase and for reply!\nIs '#', '*' and '+' dialing available in Mini Dialer? Some people asked me to make separate buttons.\nOk, anyway I can make it configurable.",
+            "date": "April 1, 2015"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "JAVIER AYALA",
+        "comment": "Excellent App, Thanks",
+        "date": "April 18, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR3BHYk8tSy1ubjNIVWRJWk82Nld3VTNPcEJWbE5jekdZMmNKbktnTUk0eWlyb3ZmV1J5QjlxdkFHcDNxYWJsTFpfUnJYelhfb0tiMS1CcFJJ",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thank you too!",
+            "date": "April 19, 2015"
+        },
+        "star": 5,
+        "title": "Amazing on LG"
+    },
+    {
+        "author": "cornel munteanu",
+        "comment": "After upgrade today call history not working.                                         .............................................................I try reinstall but stil not working. Please do something. Thanks .......................................................................... Yes,spinning circle in the center on call history. In rest everithing works great,favorite,contacts,dialer,voice,all...only call history broken. I reinstall the aplication four time,restart the phone,restart the wach (sony3) but stil not working call history.  ..................  Thank you very much,I apreciate your hard work and hope you find a solution,because I like and I need this aplication.",
+        "date": "March 31, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR0ZKQmtyZnRybDN1OXNwSWhNblV4dXZvdzlNbW5ucjAzVXZkOU95N1UzNmliWm4zYkEtOWNOWGwybDlucFAzUTY3SjRhaURXdEQ3bWQwUHlr",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Hello Mr. Cornel! Is the problem with the history list is solved or still there?",
+            "date": "April 1, 2015"
+        },
+        "star": 3,
+        "title": "Call history"
+    },
+    {
+        "author": "Seph Condor",
+        "comment": "I've tried a few of these apps, and this is by some way my favourite! Nice big icons and buttons which are very helpful when you're walking, and it just looks cool! I need to add it as a button on my custom face and I'll be good to go! The same price as a lottery ticket and it's a guaranteed win!",
+        "date": "March 31, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR0lzNzM2TGhmNXptM2p1bnlPWS1tTU1xYkpXZlozYkxib0xOdWpMdjBqd2pFaWg5dmVmaGxtck9Remg0dkEwZm5lYnBEN3pCU3Q1N20yU1M0",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thank you for purchase and for great reply!:)",
+            "date": "March 31, 2015"
+        },
+        "star": 5,
+        "title": "That's a 'yes' from me!"
+    },
+    {
+        "author": "G. Lamar Wilkie",
+        "comment": "Okay, I bought Watch Phone. And I have to say: it's probably the best $1.99 I've spent in a LONG time.  I have a Moto 360 and a rooted Note 4. All I have to do is say to my watch, \"Okay Google... start Watch Phone\" and it opens the app on the watch. I can initiate calls, look at my call log, all contacts and favorites. It even supports multiple numbers per contact: this app does it all! Since I have a Bluetooth headset, I can now make calls to anyone without ever reaching for my phone. That saves me a lot of screen-on time, which extends the phone's battery life. A true WIN all the way around!  WELL DONE to the Developer! I was happy to send in a couple of bucks for such a phenomenal piece of work.",
+        "date": "March 15, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPR2Y2WGFMWmtPRURCYXBYdHBPNHY3QXVxS0lqbmlpNEd3RjBhanZrcVBrRlNTM2dLcUlvUWowZmpPWk1yZjJUc2k3LXhvSXVsaGo2RXBSelZz",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Many thanks! When my customers are happy I'm getting hapier too!:)",
+            "date": "March 15, 2015"
+        },
+        "star": 5,
+        "title": "What a WONDERFUL convenience! Stellar app!"
+    },
+    {
+        "author": "Stephen Hensley",
+        "comment": "Would you be so kind as to put up some instructions on how to use it? It's all just symbols right now. I'd especially like to know how to do things with it by voice? Thanks.",
+        "date": "March 18, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPSG13RjlkQ3I2NFdjTE1vTzBSd3ZQSFNvRGJiZ3c5QUVoc2RXbXRwZ1ZKM1hHdFMzTmY0S2JvdUg3eTVySG81RjFyR0pVaGRQS2dITkFiOGRv",
+        "reply": {
+            "author": "Alexander Slobodchikov",
+            "content": "Thanks for purchase and for the reply! Usage is simple: the yellow button opens favorites list, the green - history, the blue button - keypad for direct dialing, the red button - the whole contacts list. All the lists are synchronized with your smartphone.\nYou can start the app with voice: \"Ok Google\", \"Start watch phone\".",
+            "date": "March 28, 2015"
+        },
+        "star": 5,
+        "title": "This is just what we needed."
+    },
+    {
+        "author": "martin lee",
+        "comment": "Doesn't work on Samsung gear watch only works on andriod cheap clone watches",
+        "date": "March 18, 2015",
+        "permlink": "/store/apps/details?id=com.psksoft.watchphone&reviewId=Z3A6QU9xcFRPRWlZTkc4Z2hoRFllOUpfLXNuY1E0SnZPc3p6SVlNSE1jSzZZRldGQktxNS0ya0E5dWlkV1BzMEQ1UEhFaGFMYWRDMzRhQzlIc0JvRURmcjln",
+        "reply": null,
+        "star": 1,
+        "title": "Not work"
+    }
+]

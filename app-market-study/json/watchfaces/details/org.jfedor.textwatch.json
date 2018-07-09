@@ -1,0 +1,45 @@
+{
+    "title": "Polish Text Watch",
+    "summary": "An Android Wear watch face showing the time in Polish",
+    "icon": "//lh3.googleusercontent.com/1COOH9Go2pDZuKDfUa8cNiv7Zm3Of1jv1fhHvAULy6ymsGqR05YmyhW1ujl1ef4ldw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.8,
+    "reviews": 8,
+    "developer": "Jacek Fedorynski",
+    "developerId": "Jacek+Fedorynski",
+    "developerEmail": "jfedor@jfedor.org",
+    "developerWebsite": "http://www.jfedor.org/",
+    "updated": "April 7, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "An Android Wear watch face showing the time in Polish.This is a watch face for Android Wear smartwatches. It does not show up on the phone as an app or an icon.",
+    "descriptionHTML": "An Android Wear watch face showing the time in Polish.<br><br>This is a watch face for Android Wear smartwatches. It does not show up on the phone as an app or an icon.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/CIgYbUTA9ZIqJZqUXsJ94vT3syOESCrBEf6fBRPZww5xFwt3GPD4CJFb4SXmDiJhHeE=h310",
+        "//lh3.googleusercontent.com/U6PiimqtdtvqlZXv3_kv2Qddb2hmxLW9GNHD-tiWIJ_QIA4H19Pc78z4HJdVcAnA0ok=h310",
+        "//lh3.googleusercontent.com/77SSA6jvY4ggup6aJyeGRSeYWVYDSaMSDn8IcKOkmEHEIhu2BEtKGITsMpmB1rjNMA=h310"
+    ],
+    "comments": [
+        "Wspaniały zegarek!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.jfedor.textwatch&hl=en&gl=us",
+    "appId": "org.jfedor.textwatch"
+}

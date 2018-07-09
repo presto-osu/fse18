@@ -1,0 +1,52 @@
+{
+    "title": "Tiled Time",
+    "summary": "Interactive, animatable watch face with clean, minimalistic and refined design.",
+    "icon": "//lh3.googleusercontent.com/AYXzwM6m0oQ5a4CBATvM0e9reroBKa_zBwlb2TLz84qs38aBa6Mu1DFvEax7FSWMYSE=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.2,
+    "reviews": 4,
+    "developer": "Andrey Fomchenko",
+    "developerId": "Andrey+Fomchenko",
+    "developerEmail": "fomand@gmail.com",
+    "developerAddress": "Marupes st. 21-9\nRiga\nLatvia\nLV-1002",
+    "updated": "February 26, 2017",
+    "version": "1.1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch face offers 19 interactive themes, which will look great on both round and square watches.3 ambient modes from minimal to full color.Includes 4 widgets: date, weather, calendar, heart rate + stripe bar to show battery level.Date widget: ✓ Day✓ Day of week✓ Month✓ Week✓ Moon phaseWeather widget: ✓ Temperature✓ Wind speed✓ Atmospheric pressure✓ Humidity✓ Sunrise time✓ Sunset timeCalendar:✓ Current month with highlighted current day✓ Next two monthsHeart Rate:✓ 10 seconds update✓ Always on screen✓ Configurable heart rate zone with notifications for better workout",
+    "descriptionHTML": "Watch face offers 19 interactive themes, which will look great on both round and square watches.<br>3 ambient modes from minimal to full color.<br>Includes 4 widgets: date, weather, calendar, heart rate + stripe bar to show battery level.<br><br><b>Date widget:</b> <br><br>&#x2713; Day<br>&#x2713; Day of week<br>&#x2713; Month<br>&#x2713; Week<br>&#x2713; Moon phase<br><br><b>Weather widget:</b> <br><br>&#x2713; Temperature<br>&#x2713; Wind speed<br>&#x2713; Atmospheric pressure<br>&#x2713; Humidity<br>&#x2713; Sunrise time<br>&#x2713; Sunset time<br><br><b>Calendar:</b><br><br>&#x2713; Current month with highlighted current day<br>&#x2713; Next two months<br><br><b>Heart Rate:</b><br><br>&#x2713; 10 seconds update<br>&#x2713; Always on screen<br>&#x2713; Configurable heart rate zone with notifications for better workout",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/q0VwU48L9Inckow-PmgEhZR3Oksv1Vh4FKWpcCgqJd2SBIfo0celRU2UC5MVzC70hsA=h310",
+        "//lh3.googleusercontent.com/0RfArxlaWPsL7vp5fvwUg86n6FOWh6t7TzLB4Uve1HZ70bJzaYebU7QOUvQs3XsINA=h310",
+        "//lh3.googleusercontent.com/phq1ccGywW9ojWIGVAb8BI3bA8BuUfD-GiEK5q2faMExKS6rgOK4Eo14NLR-deHcjkre=h310",
+        "//lh3.googleusercontent.com/4WtLHoH3XmAL0dJKdAdWO-8b796Phq8AYkC5u4KoU12EHVBPiAuyCumLEudJRooOAk-y=h310",
+        "//lh3.googleusercontent.com/oqCbsZlDTpXn9A80eoYKk3zJBo7KyQkJxEMKYZ_9PHT3ovDQ25VSaz8BZZm3I28ikQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/7MpaZ9YxaTo",
+    "comments": [
+        "Like the designs, really love the  transition from one theme to another; not only is it easy, the effect is very very cool. My only suggestion, or request, would be a little more color control.",
+        "12 hour mode doesn't work at noon. It shows 0:30 instead of 12:30 PM"
+    ],
+    "recentChanges": [
+        "Fixed 12-hour mode",
+        "Fixed rendering for Moto 360 1st gen"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=watch.momentum.tilewatchface&hl=en&gl=us",
+    "appId": "watch.momentum.tilewatchface"
+}

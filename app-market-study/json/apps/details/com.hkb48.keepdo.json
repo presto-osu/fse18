@@ -1,0 +1,53 @@
+{
+    "title": "KeepDo!",
+    "summary": "Make it a habit with KeepDo!",
+    "icon": "//lh6.ggpht.com/HViK3GL-ZHH2Caky-F6NbmH4vaB73Ign7lpfNiOlQR-0IYTGibmev2BQZiN9Y0qWSVc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 110,
+    "developer": "HKB Project",
+    "developerId": "HKB+Project",
+    "developerEmail": "hkb.project@gmail.com",
+    "updated": "October 14, 2017",
+    "version": "1.8",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Small but an handy application helps you to manage daily tasks easily and efficiently.Your feedback will highly appreciated and encourage us to improve more on it!Features:- Reminder- Widget- Optimized reminder notification for Android wear- Date change time setting- Select stamps- Backup & Restore- Sort Do list- Show the count of continuous execution of Do as \"Combo\"",
+    "descriptionHTML": "Small but an handy application helps you to manage daily tasks easily and efficiently.<br>Your feedback will highly appreciated and encourage us to improve more on it!<br><br>Features:<br>- Reminder<br>- Widget<br>- Optimized reminder notification for Android wear<br>- Date change time setting<br>- Select stamps<br>- Backup &amp; Restore<br>- Sort Do list<br>- Show the count of continuous execution of Do as &quot;Combo&quot;",
+    "histogram": {
+        "1": 2,
+        "2": 3,
+        "3": 9,
+        "4": 22,
+        "5": 74
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/RaGBe5q0nqSoLbCOm8QA2wlWVqh6AFgguIM78RW5bDL97q7L-0ircbsufX0VvYJ6E1Y=h310",
+        "//lh3.ggpht.com/zDf8wkSyuoUb8j35v6lnoFQwda43pokHvFJ9UgIyVMi9qpuAGeQfmSQZfHP9v46Kh4Q=h310",
+        "//lh6.ggpht.com/q0fCh-22kVLajFEt--DsdeXXXWakthkUPgDyXDEvDk93S5YAwKvhks2s1ApAiS2kEHk=h310"
+    ],
+    "comments": [
+        "Nice and simple, a life changing tool I have several hobbies and projects which I would like to work on and use KeepDo for tracking 5 min of my time a day for each one (e.g. read a book, eat vitamins, work on a coding project, go to bed at a predefined time). So far it works great, I can see how little by little it helps me to achieve my goals. I even use it to track things I want to not do (distractions) and it works equally well. Kudos to the author(s)!",
+        "Nice and free, small size. If you can add a counter for a task done daily like do drills 2x a day, ability to add notes for a day and also add a symbol for not done but this app is already excellent. Thanks."
+    ],
+    "recentChanges": [
+        "v1.8.0",
+        "- Notification channel support for Android 8.0",
+        "v1.7.0",
+        "- Android 6.0 adaptation",
+        "- Update user interface",
+        "v1.6 / v1.6.1",
+        "- Lollipop adaptation"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.hkb48.keepdo&hl=en&gl=us",
+    "appId": "com.hkb48.keepdo"
+}

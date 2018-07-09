@@ -1,0 +1,56 @@
+{
+    "title": "AIKA - The Smart Watch Face",
+    "summary": "The smart watch face with calendar and weather.",
+    "icon": "//lh3.googleusercontent.com/tXzW0EyxNVLyUSgfs6kmx63cZVRf-D0UPnrFbEUQH8RqS_wLabpi1uxuYk2Mgz154ak=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 71,
+    "developer": "Fluid Interaction",
+    "developerId": "Fluid+Interaction",
+    "developerEmail": "support@fluid.fi",
+    "developerWebsite": "http://aikawatch.com/",
+    "developerAddress": "Tuomelankatu 29 as. 2\n13210 Hämeenlinna\nFinland",
+    "updated": "January 25, 2016",
+    "version": "0.9.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "HUGELY POPULAR AND AWARD-WINNING WATCH FACE FINALLY AVAILABLE ON ANDROID WEAR.AIKA merges time and time-related data, like calendar and weather into a single interactive watch face that can be read with a single glance. Our mission is to update the value a wristwatch can bring to your everyday life. AIKA is a tool for making your life easier by providing swift answers to your everyday life questions like “how much time do I have?”, “where should I be next?”, and “am I free to enjoy a picnic with you under the evening sun?”. Key features:• Time + calendar + weather merged into single watch face• Calendar events visualized on the watch face• 60 min countdown indicator to help you be in time• Hourly local weather data for the whole day• Analog and digital watch faces• Classic, easy to read design• Interactive, tap the screen to change the watch faceWeather information is provided by http://forecast.io/Android Wear version 1.3 or above is required for interactive watch faces.R&DAIKA, formerly known as Watcher, was first published on Samsung Galaxy Gear in July 2014. Since then we have painstakingly designed, iterated, studied and polished AIKA to provide you rich timely information with a single glance. We believe AIKA enables you to remain in control while storming through the clouds of your daily schedule without fear of crashing.Created by Fluid Interaction, Helsinki, Finland.",
+    "descriptionHTML": "HUGELY POPULAR AND AWARD-WINNING WATCH FACE FINALLY AVAILABLE ON ANDROID WEAR.<br><br><br>AIKA merges time and time-related data, like calendar and weather into a single interactive watch face that can be read with a single glance. Our mission is to update the value a wristwatch can bring to your everyday life. AIKA is a tool for making your life easier by providing swift answers to your everyday life questions like &#x201C;how much time do I have?&#x201D;, &#x201C;where should I be next?&#x201D;, and &#x201C;am I free to enjoy a picnic with you under the evening sun?&#x201D;. <br><br>Key features:<br>&#x2022; Time + calendar + weather merged into single watch face<br>&#x2022; Calendar events visualized on the watch face<br>&#x2022; 60 min countdown indicator to help you be in time<br>&#x2022; Hourly local weather data for the whole day<br>&#x2022; Analog and digital watch faces<br>&#x2022; Classic, easy to read design<br>&#x2022; Interactive, tap the screen to change the watch face<br><br>Weather information is provided by http://forecast.io/<br><br>Android Wear version 1.3 or above is required for interactive watch faces.<br><br>R&amp;D<br>AIKA, formerly known as Watcher, was first published on Samsung Galaxy Gear in July 2014. Since then we have painstakingly designed, iterated, studied and polished AIKA to provide you rich timely information with a single glance. <br><br>We believe AIKA enables you to remain in control while storming through the clouds of your daily schedule without fear of crashing.<br><br>Created by Fluid Interaction, Helsinki, Finland.",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 6,
+        "4": 17,
+        "5": 43
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/kvKzCF6jokT6_JDCDU0Q6JNWziRv5LNX_GIWo17V9F6rxorA4gJptJqG9TTbis3E2A=h310",
+        "//lh3.googleusercontent.com/Mf4cZBKG3ProP3RFqZeYUGnIoyYyEf0lE8XavLS7CxqYIhBVAPTgdxLgeWWxpJyu9AK6=h310",
+        "//lh3.googleusercontent.com/vL6WM4pa8w65zXE22vfy698Bzgz8c35byPOZJgXmYRLnVHIH8pT6L3FiWplIzpEJbg=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Oifc6k9PdgU",
+    "comments": [
+        "Really cool colors and design. I wish it could be adapted to square watches, too, plus a battery indicator would be nice.  Also, I noticed a significant battery drain when using it on my watch (Smartwatch 3), mainly with the screen always on (compared to other calendar-enabled watch faces with screen on).",
+        "Nice design, needs some changes A very pretty watch face. Has a problem with rtl events. I would also like to see current event in digital mode and current event's start time on the arc (not just remaining).",
+        "Great app! Not sure if it's a wear problem, or this app, but temperature will revert to Celsius occasionally... Also, i wish all the weather and calendar stuff showed in the same face.  But still, a great watch face.",
+        "Weather face is useless, does not show any weather details. Rest is good. needs a background that can give it a 3D kind of look rather than the vanila flat background.",
+        "Best watch face I have so far found Has all the relevant info you might need, with the exception of notifications (nudge nudge, wink wink, say no more say no more)",
+        "Worked great on my Gear S2 as watcher. Cant even get it to work on the Gear S2 and they removed the watcher program.  Worthless app for Gear2."
+    ],
+    "recentChanges": [
+        "- Watcher is now known as AIKA",
+        "- Calendar and weather data should start synchronizing automatically",
+        "- Various bug fixes and minor improvements under the hood"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fi.fluid.watcherwear&hl=en&gl=us",
+    "appId": "fi.fluid.watcherwear"
+}

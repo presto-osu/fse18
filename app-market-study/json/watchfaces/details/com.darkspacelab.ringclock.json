@@ -1,0 +1,51 @@
+{
+    "title": "Ring Clock Watch Face",
+    "summary": "Ring Clock is simple clock with digital time and analog rings.",
+    "icon": "//lh3.googleusercontent.com/iWmFMBcGiDfjSZgGPkfzZGdtDZNITKSGp0VyqNtm4TO9pjtis5P7VXG8oZddPlly5A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 5,
+    "developer": "Dark Space Lab",
+    "developerId": "Dark+Space+Lab",
+    "developerEmail": "contact@darkspacelab.com",
+    "developerWebsite": "https://darkspacelab.com",
+    "developerAddress": "Widna 20/2a, 05-200 Wolomin, Poland",
+    "updated": "April 12, 2015",
+    "version": "1.4.9",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Ring Clock is simple clock with digital time and analog rings. The rings are related to time: inner yellow ring gets brighter, when hour gets bigger. Both cyan and magenta rings represents minutes and seconds. The rings provide brights symbol of time for late night fun. The clock is black at midnight to indicate that party just started for next day.",
+    "descriptionHTML": "Ring Clock is simple clock with digital time and analog rings. The rings are related to time: inner yellow ring gets brighter, when hour gets bigger. Both cyan and magenta rings represents minutes and seconds. The rings provide brights symbol of time for late night fun. The clock is black at midnight to indicate that party just started for next day.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/55r8uHJoFjJuI57uJtQGmz6oaK3l-im2E9fAQgHGU9yja82cCTYezj4vHZq7qPo3BhY=h310",
+        "//lh3.googleusercontent.com/LpDX3ewZ2XMBvARSUNiceOlGwj4_JbJTFEg6cc0CUXDoJV-twTlh3Y8GNs4fAVG3Viqc=h310",
+        "//lh3.googleusercontent.com/PTbeQAjuDbh4by1nsY2N3WA2b-oUsHVfdovxKnrQHaCmQx64n8nlmXKykDx8qW-56Ow=h310",
+        "//lh3.googleusercontent.com/sWwKbv1x8LuRKM-EPNtZRtRBCyur17y-rnQu202hU4ToGt1aN7OZTNSdww4UEsWGETEf=h310",
+        "//lh3.ggpht.com/Oclsh-CujadyhWa8AJtG7rIRWfON93Ws_bO02QjztHPJnx2cnSvntpR4_MRbycpeDL0=h310",
+        "//lh3.ggpht.com/Wdrc0CAtYUGIELwsAKVwsPIV9f-dfKvID7eJ_gJI8n-iwX77F6sRTRJj1iZdkYThoGNB=h310",
+        "//lh4.ggpht.com/Ra7hRj__djLjr92MoBceTZpmGDBG2lZ1ks1XCVddrI2XlKIbh39uJTgwkXyenaVITWQ=h310",
+        "//lh4.ggpht.com/luQMiH4ev_Rz5pR5zj7p6SJU3jNqh6ve83kLmYdNnBOvQj_ePrliL1qL9S-DO6EblA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Ring Clock Watch Face was improved to support ambient mode with extended baterry performance. All icons were synchronized to display consistent application logo in all Android modules."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.darkspacelab.ringclock&hl=en&gl=us",
+    "appId": "com.darkspacelab.ringclock"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Bike Finder",
+    "summary": "The easiest way to find bikes in your area!",
+    "icon": "//lh3.googleusercontent.com/tXbpuk1493jAezOLkQv7SumbW0J2LmDtviOXtueB83cV-rDeUC2LGdfdQ5yxrg4sKw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 9,
+    "developer": "Peter Janak",
+    "developerId": "Peter+Janak",
+    "developerEmail": "info@bikefinder.us",
+    "developerWebsite": "https://bikefinder.us",
+    "updated": "October 25, 2016",
+    "version": "2.0.10",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "FEATURES• Search for nearby bikeshare bikes and docks• Tap a station location navigate to it• Android Wear support! Search right from your watch! Works on both round and square displays.• Schedule alarms to notify you of availability at specific times throughout the day• Set alarm notifications to update in the background• Set minimum availability thresholds (only show stations with a minimum number of bikes or docks)• Set the number of stations shownDESCRIPTIONBike Finder is a simple app born out of wanting a fast and easy way to find available bikeshare bikes around me. I didn't need a map with tons of little icons. I just wanted to tap a button and see where the closest docking station was and how many bikes were available. So that's what this app does!Bike Finder presents an easy interface to searching for available bikeshare bikes and docks around you. Not only that, you can also set up scheduled alarms so the app will notify you of availability at specific times, say before your morning commute or before you leave work.And also! Android Wear support! Using your watch you can quickly search for bikes without even having to pull out your phone. So get out there and ride! Easier now than ever before.SUPPORTED BIKESHARES• Citibike (New York, NY)• Pronto (Seattla, WA)• Cogo (Columbus, OH)• Bay Area (Bay Area, CA)• Divvy (Chicago, IL)• Bike Chattanooga (Chatanooga, TN)• Capital (Washington, DC and surrounding areas)• Hubway (Boston Metro Area, MA)• ArborBIke (Ann Arbor, MI)• Austin B-cycle (Austin, TX)• Battle Creek B-cycle (Battle Creek, MI)• Boulder B-cycle (Boulder, CO)• Brorward B-cycle (Fort Lauderdale, FL)• Charlotte B-cycle (Charlotte, NC)• Cincy Red Bike (Cincinnati, OH)• Columbia County B-cycle (Evans, GA)• Dallas Fair Park (Dallas, TX)• Denver B-cycle (Denver, CO)• Des Moines B-cycle (Des Moines, IA)• DFC B-cycle (Denver, CO)• Fort Worth Bike Sharing (Fort Worth, TX)• Great Rides Bike Share (Fargo, ND)• GREENbike (Salt Lake City, UT)• Greenville B-cycle (Greenville, SC)• gRide (South San Francisco, CA)• Heartland B-cycle (Omaha, NE)• Houston B-cycle (Houston, TX)• Indy - Pacers Bikeshare (Indianapolis, IN)• Madison B-cycle (Madison, WI)• Nashville B-cycle (Nashville, TX)• Indego (Philadelphia, PA)• Rapid City B-cycle (Rapid City, SD)• San Antonia B-cycle (San Antonio, TX)• Savannah B-cycle (Savannah, GA)• Spartanburg B-cycle (Spartanburg, SC)• Whippany B-cycle (Whippany, NJ)• More soon!PERMISSIONS EXPLANATION• android.permission.ACCESS_FINE_LOCATION - Used to determine where you are, so the app can find the nearest bikeshare to you• android.permission.ACCESS_NETWORK_STATE - Stops app from making requests if there is no network• android.permission.INTERNET - Allows the app to make requests to find information about nearby stations• android.permission.RECEIVE_BOOT_COMPLETED - Allows the app to set notification alarms on boot• android.permission.VIBRATE - Lets the Android Wear app vibrate the wearable when it is finished searching NOTICESPowered by B-cycle.This app is in no way affiliated with any of the aforementioned bikeshare systems or their partners, sponsors, or any other related parties, including Motivate and B-cycle. This app is an unofficial, third party utility. To sign up for B-cycle, go to http://www.bcycle.com.",
+    "descriptionHTML": "<b>FEATURES</b><br>&#x2022; Search for nearby bikeshare bikes and docks<br>&#x2022; Tap a station location navigate to it<br>&#x2022; Android Wear support! Search right from your watch! Works on both round and square displays.<br>&#x2022; Schedule alarms to notify you of availability at specific times throughout the day<br>&#x2022; Set alarm notifications to update in the background<br>&#x2022; Set minimum availability thresholds (only show stations with a minimum number of bikes or docks)<br>&#x2022; Set the number of stations shown<br><br><b>DESCRIPTION</b><br>Bike Finder is a simple app born out of wanting a fast and easy way to find available bikeshare bikes around me. I didn&apos;t need a map with tons of little icons. I just wanted to tap a button and see where the closest docking station was and how many bikes were available. So that&apos;s what this app does!<br><br>Bike Finder presents an easy interface to searching for available bikeshare bikes and docks around you. Not only that, you can also set up scheduled alarms so the app will notify you of availability at specific times, say before your morning commute or before you leave work.<br><br>And also! Android Wear support! Using your watch you can quickly search for bikes without even having to pull out your phone. So get out there and ride! Easier now than ever before.<br><br><b>SUPPORTED BIKESHARES</b><br>&#x2022; Citibike (New York, NY)<br>&#x2022; Pronto (Seattla, WA)<br>&#x2022; Cogo (Columbus, OH)<br>&#x2022; Bay Area (Bay Area, CA)<br>&#x2022; Divvy (Chicago, IL)<br>&#x2022; Bike Chattanooga (Chatanooga, TN)<br>&#x2022; Capital (Washington, DC and surrounding areas)<br>&#x2022; Hubway (Boston Metro Area, MA)<br>&#x2022; ArborBIke (Ann Arbor, MI)<br>&#x2022; Austin B-cycle (Austin, TX)<br>&#x2022; Battle Creek B-cycle (Battle Creek, MI)<br>&#x2022; Boulder B-cycle (Boulder, CO)<br>&#x2022; Brorward B-cycle (Fort Lauderdale, FL)<br>&#x2022; Charlotte B-cycle (Charlotte, NC)<br>&#x2022; Cincy Red Bike (Cincinnati, OH)<br>&#x2022; Columbia County B-cycle (Evans, GA)<br>&#x2022; Dallas Fair Park (Dallas, TX)<br>&#x2022; Denver B-cycle (Denver, CO)<br>&#x2022; Des Moines B-cycle (Des Moines, IA)<br>&#x2022; DFC B-cycle (Denver, CO)<br>&#x2022; Fort Worth Bike Sharing (Fort Worth, TX)<br>&#x2022; Great Rides Bike Share (Fargo, ND)<br>&#x2022; GREENbike (Salt Lake City, UT)<br>&#x2022; Greenville B-cycle (Greenville, SC)<br>&#x2022; gRide (South San Francisco, CA)<br>&#x2022; Heartland B-cycle (Omaha, NE)<br>&#x2022; Houston B-cycle (Houston, TX)<br>&#x2022; Indy - Pacers Bikeshare (Indianapolis, IN)<br>&#x2022; Madison B-cycle (Madison, WI)<br>&#x2022; Nashville B-cycle (Nashville, TX)<br>&#x2022; Indego (Philadelphia, PA)<br>&#x2022; Rapid City B-cycle (Rapid City, SD)<br>&#x2022; San Antonia B-cycle (San Antonio, TX)<br>&#x2022; Savannah B-cycle (Savannah, GA)<br>&#x2022; Spartanburg B-cycle (Spartanburg, SC)<br>&#x2022; Whippany B-cycle (Whippany, NJ)<br>&#x2022; More soon!<br><br><b>PERMISSIONS EXPLANATION</b><br>&#x2022; android.permission.ACCESS_FINE_LOCATION<br>&#x2003;- Used to determine where you are, so the app can find the nearest bikeshare to you<br>&#x2022; android.permission.ACCESS_NETWORK_STATE<br>&#x2003;- Stops app from making requests if there is no network<br>&#x2022; android.permission.INTERNET<br>&#x2003;- Allows the app to make requests to find information about nearby stations<br>&#x2022; android.permission.RECEIVE_BOOT_COMPLETED<br>&#x2003;- Allows the app to set notification alarms on boot<br>&#x2022; android.permission.VIBRATE<br>&#x2003;- Lets the Android Wear app vibrate the wearable when it is finished searching <br><br><b>NOTICES</b><br>Powered by B-cycle.<br><br>This app is in no way affiliated with any of the aforementioned bikeshare systems or their partners, sponsors, or any other related parties, including Motivate and B-cycle. This app is an unofficial, third party utility. To sign up for B-cycle, go to http://www.bcycle.com.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/mlfnsO8lNva2daD1fMrvGNkUznWCTrbSs-6-Bff1sTIiYEAC5BvRgC6B8RfdPBbFssk=h310",
+        "//lh3.googleusercontent.com/gHCn1ju4hd9CDrL95Sy4HR1Fr4YD4lSKHRky_Phcd4r3lTTSU8y45EKZDzGeuLEe7QOD=h310",
+        "//lh3.googleusercontent.com/Q4DvFX_wY6fVahv0WAHuHm1sO25pDw_nk68LdYy3waCEJjIiod4RVp-_HKZajXM7uw=h310",
+        "//lh3.googleusercontent.com/Pb6PKslhbi5GXxebmtTyvPMSO9jedIrJHaXRlyNaBcFkIzrc0oyUlpuQQpf9lMJ4OGw=h310"
+    ],
+    "comments": [
+        "It sucks, when I've tried to use it. It says no network or network not available. What good is that?",
+        "Citibiker Must Have! Amazingly simple and useful app! Thanks for putting it together.",
+        "App doesn't work The app finally works and it is in the simplest format.",
+        "Excellent App!",
+        "Excellent It's straightforward to use, quickly finds bikes/stations nearby, and looks great!"
+    ],
+    "recentChanges": [
+        "* Added support for launcher shortcuts! (Requires Android 7.1+)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.pjj.bikefinder&hl=en&gl=us",
+    "appId": "com.pjj.bikefinder"
+}

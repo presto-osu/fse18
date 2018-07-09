@@ -1,0 +1,52 @@
+{
+    "title": "Ultimate Tuner for Wear",
+    "summary": "Tune your instruments with your Smart Watch!",
+    "icon": "//lh3.googleusercontent.com/uKwFOV-ldcbdepuyP4_7GFGCMF1TNCn9iX0ScQ6BHA0qmhxORHBcXF_88Lh3REdbhnE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.3,
+    "reviews": 6,
+    "developer": "van Stein en Groentjes",
+    "developerId": "6648802986441531007",
+    "developerEmail": "info@vansteinengroentjes.nl",
+    "developerWebsite": "https://vansteinengroentjes.nl",
+    "developerAddress": "Hoge Rijndijk 162\n2314 AH Leiden\nLeiden\nThe Netherlands",
+    "updated": "January 14, 2017",
+    "version": "Varies with device",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "size": "Varies with device",
+    "description": "Forgot your tuner and your phone during one of your repetitions or performances?With Ultimate Tuner for Wear, you can tune your instrument directly with your wearable device!You can set the concert pitch, the transposition of your instrument (like C for guitars, piano etc) and there is a wide choice of appealing skins.When you tune your instrument, the watch and your phone can give you haptic feedback as well, so you do not even need to look at your screen while tuning. One vibration means your pitch is too low, two vibrations means that you are too high and if you are on tune you feel tree rapid vibrations.It was never so easy to tune your instrument.Stay tuned!",
+    "descriptionHTML": "Forgot your tuner and your phone during one of your repetitions or performances?<br><br>With Ultimate Tuner for Wear, you can tune your instrument directly with your wearable device!<br>You can set the concert pitch, the transposition of your instrument (like C for guitars, piano etc) and there is a wide choice of appealing skins.<br><br>When you tune your instrument, the watch and your phone can give you haptic feedback as well, so you do not even need to look at your screen while tuning. One vibration means your pitch is too low, two vibrations means that you are too high and if you are on tune you feel tree rapid vibrations.<br><br>It was never so easy to tune your instrument.<br>Stay tuned!",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/m_TlZb0nwTDQJcK6kmaJCM9MgzqFs9FsK82UURWoqVOs5lfm1vmHmdzD1LYc-RnDWMB2=h310",
+        "//lh3.googleusercontent.com/M-MZWwTPt19aXoAic7rferx1_pX-qRZ_L2JaQwVRE7GMTZ2fT84eTh2MzfbrwKQHeC8=h310",
+        "//lh3.googleusercontent.com/GvCohsnSBlBtPR2e8etiGJc85ygYdSJ70Jqh7UcnEIMJruNndjGJSFaB4FyDWZkecMua=h310",
+        "//lh3.googleusercontent.com/jsPaUux5PwAw98wvyLPvuSYWf6nmXsnWvZfWlJ3gxIgWRwnOqne1hlp8QJBnVroip7c=h310",
+        "//lh3.googleusercontent.com/zHGleclyT2Mhc8IXBGk1j8Fq7YnWJQKNxU1c3AbjsKuYiOuZDUclakflt_KKDOpARsw=h310",
+        "//lh3.googleusercontent.com/16qDeM9eW9l2QwUJhROG3PZyXvSd6-MVe--yBqJT8Ky4wTcOoKrKG4iJJYzN1UiZipI=h310"
+    ],
+    "comments": [
+        "Did not work at all!"
+    ],
+    "recentChanges": [
+        "This update improves the functionality for Android 7.0 and Wear 2.0 devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.vansteinengroentjes.weartuner&hl=en&gl=us",
+    "appId": "com.vansteinengroentjes.weartuner"
+}

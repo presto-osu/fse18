@@ -1,0 +1,43 @@
+{
+    "title": "Fibonacci Wear",
+    "summary": "First Android App for Wear, developed as the study of technology",
+    "icon": "//lh3.ggpht.com/YJz0sJ7qUdxeW9rmbXC6I2k6TWgPe3xqn27NQYo9SXxQZkb_vN4gvFO3aXZyBB91ZyZi=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.7,
+    "reviews": 3,
+    "developer": "Bruno Pantaleão",
+    "developerId": "Bruno+Pantale%C3%A3o",
+    "developerEmail": "bruno.ing2@hotmail.com",
+    "developerWebsite": "http://www.bdesigns.com.br",
+    "updated": "October 4, 2014",
+    "version": "1.0",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "Primeiro App para Android Wear , desenvolvido como estudo da tecnologia , nele voce podera selecionar o numero indice da sequencia de fibonacci e receber um alert com o resultado desse indice na sequencia de Fibonacci.",
+    "descriptionHTML": "Primeiro App para Android Wear , desenvolvido como estudo da tecnologia , nele voce podera selecionar o numero indice da sequencia de fibonacci e receber um alert com o resultado desse indice na sequencia de Fibonacci.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/McGqwnY2mEaEu31qBHtlKOzUbhmODRI6yc8tzKcIanUnGaEYiF5o3wmtpSFFl1n7CrQh=h310",
+        "//lh3.ggpht.com/7RKwUILPRdo_V2d-vV8aaNzf0iqH4TRbSsJGfQ0AR7O1PHw9beUbKzRivXRpwRFO2Q=h310",
+        "//lh5.ggpht.com/mPgRNM4n5ukH4Eu6druOOvnXyIDQ8Bc1KuKM0MXoj9ilgbbT-CwVrli62S68GZMgXHY=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wear.fibonacci.brunopantaleao.fibonacciwear&hl=en&gl=us",
+    "appId": "com.wear.fibonacci.brunopantaleao.fibonacciwear"
+}

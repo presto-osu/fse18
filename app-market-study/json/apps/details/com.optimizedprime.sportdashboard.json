@@ -1,0 +1,56 @@
+{
+    "title": "Strada Dashboard",
+    "summary": "The smart Speedometer you bring with you!",
+    "icon": "//lh6.ggpht.com/COJnkBuZUbOi0tbq2-p20tCH5ScyuU7MguJYF05oUMS5ZKCCvcVrOf2DJzNyIeXdJ861=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.4,
+    "reviews": 9,
+    "developer": "OptimizedPrime",
+    "developerId": "OptimizedPrime",
+    "developerEmail": "googleplaystore@optimizedprime.com",
+    "developerWebsite": "http://stradadash.blogspot.com/",
+    "updated": "February 10, 2015",
+    "version": "1.16",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Strada Dashboard aims to be the most awesome dashboard for your daily commute.KEY FEATURES:Speedometer - Displays how fast you’re going in easy to read large, bold text.Speed Warnings - Hear a tone to warn you when you’re speeding.  If you have an Android Wear device, you will also feel your watch vibrate when you’re speeding.Clock - See the current time in easy to read text.Commute Analyzer - Studies your commute and gives you a score and letter grade.Idle Timer - Counts how much time you spend at Idle (0 mph/ 0 kmh).Slow Timer - Counts how much time you spend moving at or slower than 20 mph.Fast Timer - Counts how much time you spend moving at or faster than 60 mph.Timer Indicator - Indicates whether your current speed is categorized under Idle Time, Slow Time, or Fast Time.Commute Log - Saves all your commute information.  You can access your commute log summary and details anytime.Feedback (Bugs, Problems, Suggestions)Fill out our Google Form - http://goo.gl/forms/IUnpx5ZJTJor Tweet us at @StradaDashKeeping In TouchGoogle+ - http://goo.gl/JI6psCTwitter - https://twitter.com/StradaDashPrivacyWe have full respect for your privacy strive to maximize your privacy.  First, we don’t have accounts.  Second, sending us anonymized Traffic Information is completely up to you (from Settings).  Lastly, we use Google Analytics to help us improve the product.  None of them identify you by name, email, or phone number.SettingsScreen Always On - lets you control whether or not to keep the screen on.  This is On (checked) by default.  We recommend you keep this On (checked).Fast Sampling - lets you enable/disable Fast Sampling.  When enabled, it will sample at up to ten times per second (w/ optional bluetooth GPS receiver).  If this causes poor response time, you can disable it so that it samples at a typical one time per second.Unit System - lets you control the speed/distance unit to use.  Options are MPH or KMH.Send Traffic Information - lets you control whether or not to send us anonymized commute traffic information.  No personally identifiable information will be sent.  Commute information will help develop upcoming realtime features.  This is Off (unchecked) by default, but we would appreciate it if you switch it to On (checked).Speed Warning (Street) - lets you control the speed at which the Street Speed Warning triggers.  Options are 5 to 130, in increments of 5.  Default is 40.Speed Warning (Freeway) - lets you control the speed at which the Freeway Speed Warning triggers.  Options are 5 to 130, in increments of 5.  Default is 70.",
+    "descriptionHTML": "Strada Dashboard aims to be the most awesome dashboard for your daily commute.<br><br><b>KEY FEATURES:</b><br><br><b>Speedometer</b> - Displays how fast you&#x2019;re going in easy to read large, bold text.<br><br><b>Speed Warnings</b> - Hear a tone to warn you when you&#x2019;re speeding.  If you have an Android Wear device, you will also feel your watch vibrate when you&#x2019;re speeding.<br><br><b>Clock</b> - See the current time in easy to read text.<br><br><b>Commute Analyzer</b> - Studies your commute and gives you a score and letter grade.<br><br><b>Idle Timer</b> - Counts how much time you spend at Idle (0 mph/ 0 kmh).<br><br><b>Slow Timer</b> - Counts how much time you spend moving at or slower than 20 mph.<br><br><b>Fast Timer</b> - Counts how much time you spend moving at or faster than 60 mph.<br><br><b>Timer Indicator</b> - Indicates whether your current speed is categorized under Idle Time, Slow Time, or Fast Time.<br><br><b>Commute Log</b> - Saves all your commute information.  You can access your commute log summary and details anytime.<br><br><br><br><b>Feedback (Bugs, Problems, Suggestions)</b><br>Fill out our Google Form - http://goo.gl/forms/IUnpx5ZJTJ<br>or Tweet us at @StradaDash<br><br><br><b>Keeping In Touch</b><br>Google+ - http://goo.gl/JI6psC<br>Twitter - https://twitter.com/StradaDash<br><br><br><b>Privacy</b><br>We have full respect for your privacy strive to maximize your privacy.  First, we don&#x2019;t have accounts.  Second, sending us anonymized Traffic Information is completely up to you (from Settings).  Lastly, we use Google Analytics to help us improve the product.  None of them identify you by name, email, or phone number.<br><br><br><b>Settings</b><br><i>Screen Always On</i> - lets you control whether or not to keep the screen on.  This is On (checked) by default.  We recommend you keep this On (checked).<br><br><i>Fast Sampling</i> - lets you enable/disable Fast Sampling.  When enabled, it will sample at up to ten times per second (w/ optional bluetooth GPS receiver).  If this causes poor response time, you can disable it so that it samples at a typical one time per second.<br><br><i>Unit System</i> - lets you control the speed/distance unit to use.  Options are MPH or KMH.<br><br><i>Send Traffic Information</i> - lets you control whether or not to send us anonymized commute traffic information.  No personally identifiable information will be sent.  Commute information will help develop upcoming realtime features.  This is Off (unchecked) by default, but we would appreciate it if you switch it to On (checked).<br><br><i>Speed Warning (Street)</i> - lets you control the speed at which the Street Speed Warning triggers.  Options are 5 to 130, in increments of 5.  Default is 40.<br><br><i>Speed Warning (Freeway)</i> - lets you control the speed at which the Freeway Speed Warning triggers.  Options are 5 to 130, in increments of 5.  Default is 70.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/bpv96_Zj-Qn91jQXNF5r7sWs8hzcktvgZf5wkdeE_ICCoMlGIR39yoV_4ASZb2CeHwJt=h310",
+        "//lh3.ggpht.com/SdfTFjFb0_X8uqaX05w1Khk_BYnKtWLUJdK_-SrLM0wCNPUbQJcAbsFugguehvCtfaA=h310",
+        "//lh6.ggpht.com/qEn0Iq7Kb4WlqRjb-SmDKLK_9ZshQnx2s4WGm8y0W8J6FXmzvRuWdXFUj1xiWKVguQ=h310",
+        "//lh3.ggpht.com/ZfoKYzSwlOy9U7CvtILFj2BMn4Qd2Icasd5sOGofZXc61L2ah9BlO6usvUY05FwsjsH9=h310",
+        "//lh4.ggpht.com/lpfeWv5Lw33-OsoSbvd_qiGSe0CA-05Kq07NQ5sKVTELO1p0yQT2sjfOjJyveIPVtznK=h310",
+        "//lh4.ggpht.com/DwM_qtUFQeVQgL3M0mH-Y2Y9SoOdQWjPteyJKVn3DMr9ar7hsnMo8KdCjO7XomKUlg=h310"
+    ],
+    "video": "https://www.youtube.com/embed/MoSQ0Z0_YSk",
+    "comments": [
+        "Awesome App! This guy is a GENIUS! so much info in a clean presentation. Keep it up!",
+        "Awesome app This is a must have for anyone with a bad commute.",
+        "This app is fantastic! Really useful for long commutes!",
+        "Great app! Easy to use.  Love it when my LG G Watch vibrates when I go \"speeding\".",
+        "Best speedometer!!! Now I know how much my commute sucks, lol."
+    ],
+    "recentChanges": [
+        "What's New in Strada Dashboard v1.16?",
+        "1. Full offline support.  No need for mobile data or wifi while using Strada Dash!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.optimizedprime.sportdashboard&hl=en&gl=us",
+    "appId": "com.optimizedprime.sportdashboard"
+}

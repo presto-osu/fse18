@@ -1,0 +1,51 @@
+{
+    "title": "SWARM weather",
+    "summary": "The SWARM watch face tells you time, weather &amp; temperature based on location.",
+    "icon": "//lh6.ggpht.com/PwyV-a4WKrAjxe07mknxJLwcEtJZQYrxrqFmupoldHZcnjjz6USJI5GWPYAlxgRZAQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 139,
+    "developer": "SWARM",
+    "developerId": "SWARM",
+    "developerEmail": "hello@swarmnyc.com",
+    "developerWebsite": "http://swarmnyc.com",
+    "updated": "May 8, 2015",
+    "version": "1.2.6",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "Be the talk of the party with our custom built SWARM Model Weather Watch Face. Simply install it and you'll be telling time like never before! All our watch faces come with this amazing feature it built in. Not sold yet? No problem, there's more!!For the low low price of free, you'll get more than just a time telling watch face, you'll also get weather pulled into your Android Wear device based on your location! What!? We can't believe it either but it's true! In NYC, and freezing, no problem. This watch face lets you know! In Hawaii and it's 86 and Sunny. No problem, this watch face will let you know! Want temperature in Celcius because you're in Europe, no problem! Sunrise? Sunset? No problem, no problem, no problem! We've got that built in as well. All this and a selection of background colors can now be yours, simply by clicking the INSTALL button. Supplies will last so hurry now. It's software after all.SWARM Weather Watch Face Features- Location based- Lets you select color- Tells you weather in Fahrenheit and Centigrade- Shows you the weather with a nifty graphic- Changes graphics based on sunrise sunsetand- Tells time!!!/// ON A SERIOUS NOTE // If you'd like to learn how to make your own Android Wear Watch Face stop by our blog http://swarmnyc.com/whiteboard/",
+    "descriptionHTML": "Be the talk of the party with our custom built SWARM Model Weather Watch Face. Simply install it and you&apos;ll be telling time like never before! All our watch faces come with this amazing feature it built in. <br><br>Not sold yet? No problem, there&apos;s more!!<br><br>For the low low price of free, you&apos;ll get more than just a time telling watch face, you&apos;ll also get weather pulled into your Android Wear device based on your location! What!? We can&apos;t believe it either but it&apos;s true! <br><br>In NYC, and freezing, no problem. This watch face lets you know! <br><br>In Hawaii and it&apos;s 86 and Sunny. No problem, this watch face will let you know! Want temperature in Celcius because you&apos;re in Europe, no problem! <br><br>Sunrise? Sunset? No problem, no problem, no problem! We&apos;ve got that built in as well. <br><br>All this and a selection of background colors can now be yours, simply by clicking the INSTALL button. Supplies will last so hurry now. It&apos;s software after all.<br><br>SWARM Weather Watch Face Features<br><br>- Location based<br>- Lets you select color<br>- Tells you weather in Fahrenheit and Centigrade<br>- Shows you the weather with a nifty graphic<br>- Changes graphics based on sunrise sunset<br><br>and<br><br>- Tells time!!!<br><br>/// ON A SERIOUS NOTE // If you&apos;d like to learn how to make your own Android Wear Watch Face stop by our blog http://swarmnyc.com/whiteboard/",
+    "histogram": {
+        "1": 21,
+        "2": 12,
+        "3": 26,
+        "4": 34,
+        "5": 46
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/kvSsTGm1kMmTXZjM6hcIXnZbriJ04eTsQNtHs8REFohEQs4UBMCR_Jh4VQXDX70bb9k=h310",
+        "//lh3.ggpht.com/oNTrBndUvW2J7sUcN-EP3OoM4GwrY1Kpcw-gLZrROYj6uSTs0Lz_FAwWQyQwdNsI3crV=h310"
+    ],
+    "comments": [
+        "Doesn't work Not matter what I set the weather icon would not show up.",
+        "No customization, does not even support Celsius.",
+        "Awesome! I love this! I'm especially glad that this is open source so I can learn to make my own watch face :)",
+        "Uses some weird medieval temperature scale.",
+        "Very good. Very simple and minimalistic. Just what I'm looking for. More color options would be nice.",
+        "Temperature not right"
+    ],
+    "recentChanges": [
+        "Various bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.swarmnyc.watchfaces&hl=en&gl=us",
+    "appId": "com.swarmnyc.watchfaces"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Digital Weather WatchFace",
+    "summary": "Basic digital watch face with color themes configuration, weather and forecast",
+    "icon": "//lh3.googleusercontent.com/JFbiVN0RGBBqulhCpkXQlaPsaLRviJfUqvhA_N4uE5R-O9DXtW7IeTGJ5xEC2MQSdg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.9,
+    "reviews": 7,
+    "developer": "Tamago Design",
+    "developerId": "Tamago+Design",
+    "developerEmail": "com.tamago@gmail.com",
+    "developerWebsite": "http://tamago.byexamples.com/",
+    "developerAddress": "16, Lorong Rajawali 7,\n11900, Bayan Lepas,\nPenang, Malaysia.",
+    "updated": "October 28, 2016",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Feature:Time, Date and Weekday.12-Hour format with AM/PM indicator.Watch and phone battery level indicator.Weather, temperature and forecast (Location permission needed).Color theme configuration (16 color themes for your selection).Casual and nice watch face design (digital).Simple and clear ambient mode design.Translucent and short notification peek card.Note:If location service is turned off, last known location will be used for weather. Please at least turn on location service 1 time after install this watch face.If internet access is not available, last known weather information will be shown.Weather information will only refresh once in 1-3 hours, base on the update rate from weather provider (open weather map)To install:1. Do allow some times for your mobile to transfer Watch Face to your watch.2. Please execute 'Resync app' under Android Wear App on your mobile after install, this is to synchronize the watch face.3. Long press your watch and choose Basic Watch Face as your watch faceCompatible with all round and square watches.",
+    "descriptionHTML": "Feature:<br>Time, Date and Weekday.<br>12-Hour format with AM/PM indicator.<br>Watch and phone battery level indicator.<br>Weather, temperature and forecast (Location permission needed).<br>Color theme configuration (16 color themes for your selection).<br>Casual and nice watch face design (digital).<br>Simple and clear ambient mode design.<br>Translucent and short notification peek card.<br><br>Note:<br>If location service is turned off, last known location will be used for weather. Please at least turn on location service 1 time after install this watch face.<br>If internet access is not available, last known weather information will be shown.<br>Weather information will only refresh once in 1-3 hours, base on the update rate from weather provider (open weather map)<br><br>To install:<br>1. Do allow some times for your mobile to transfer Watch Face to your watch.<br>2. Please execute &apos;Resync app&apos; under Android Wear App on your mobile after install, this is to synchronize the watch face.<br>3. Long press your watch and choose Basic Watch Face as your watch face<br>Compatible with all round and square watches.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/bvHAjeLi-1rVfIlAbBn6NnOVyDtHqWLrwHSWZPyNan3oQwQDS1c_QwdD8yr3a-Nzg_8=h310",
+        "//lh3.googleusercontent.com/SHRsfwb8n8UQYyW5ABV94FI5uS1fgXG6B4gnF8EJbCGE4dZ8l3D7XYeOlGlHO-qapLo=h310",
+        "//lh3.googleusercontent.com/VRafFvnJMmPeyk3TLx_QsGi2eF1q-XNMseS4SSEw1Fdjgjqa1b0Ve4f0gJ5wiPgByWio=h310",
+        "//lh3.googleusercontent.com/ZCGWnSeWrNL8U_HLqMUXFS2VL903d3AfvGLghm3QSamgujoEN-nDYUhYCP8OVOWRNQE=h310",
+        "//lh3.googleusercontent.com/ifZR3ra6rkcO6kjgqvqIw7ydN9ZaXzO1NdDgLT485ok6ziCpraRsEMGpbwRQD6eVjw=h310",
+        "//lh3.googleusercontent.com/jcGCW7LWiT7DPmjv4-8QDUcQmgNSJWW2vWR5LDREz8LgjpDAe6zkaCC7ROe0H6eWiBs=h310"
+    ],
+    "comments": [
+        "Very nice but... i need degrees Celsius and 24 hour clock and   then i would buy.",
+        "Nice Cool and simple design."
+    ],
+    "recentChanges": [
+        "Fixed a typo word."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tamago.basicweatherwatchface&hl=en&gl=us",
+    "appId": "com.tamago.basicweatherwatchface"
+}

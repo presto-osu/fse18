@@ -1,0 +1,62 @@
+{
+    "title": "Tappur for Philips Hue, Tasker",
+    "summary": "Control Philips Hue, Tasker, and Intents from lockscreen and smartwatch.",
+    "icon": "//lh3.googleusercontent.com/9_hPHNptnpBWU5IPj4sJ4WKPdEZgOQLRd8U39W307alAvqLDsYMM0zBCySetquPCgQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 22,
+    "developer": "Tappur, Inc.",
+    "developerId": "Tappur,+Inc.",
+    "developerEmail": "feedback@tappur.co",
+    "developerWebsite": "http://www.tappur.co",
+    "developerAddress": "2513 Van Ness Ave,\nSan Francisco, CA\n94109\nUSA",
+    "updated": "March 6, 2016",
+    "version": "1.22",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Quickly launch your favorite shortcuts from your phone's lock screen, notifications bar, and Android Wear smartwatches.• Turn on/off Philips Hue light scenes • Add favorite actions to Quicklaunch in the Notifications bar, lockscreen widget, and smartwatch• Beautifully display the colors in custom scenes• Automatically turns on WiFi when you activate a Hue scene• Launch apps and Android Intents (beta)• One-touch text SMS or email someone• Open maps navigation to work• Run any Tasker Task quickly (beta) such as:• Instantly take a picture (without waiting for the camera app to open)• Call or text your favorite personComing in Tappur 2.0, you’ll also be able to:• Call an Uber • Instantaneously play your favorite Spotify playlist• Save time by triggering multiple actions as once (ex: prepare for bed by turning off your lights, turning off your music, locking your door, setting your alarm, and activating your sleep monitor at all once)• See actions only when it makes sense to see them• See sensitive actions (like locking/unlocking your door) only using additional authentication methods• Tappur will learn from your behaviors and make suggestions for automation. For example, after a week of you coming home and turning on your Hue lights to a certain scene, Tappur will ask if you want to automate this action. • You can always easily remove automations you don’t like or don’t find useful. As we in beta, please give us your feedback, and don't hold back! We want to make the best app possible. Please email feedback@tappur.co if anything could be improved.* Lockscreen Quicklaunch only available in Android 5.0+",
+    "descriptionHTML": "Quickly launch your favorite shortcuts from your phone&apos;s lock screen, notifications bar, and Android Wear smartwatches.<br><br>&#x2022; Turn on/off Philips Hue light scenes <br>&#x2022; Add favorite actions to Quicklaunch in the Notifications bar, lockscreen widget, and smartwatch<br>&#x2022; Beautifully display the colors in custom scenes<br>&#x2022; Automatically turns on WiFi when you activate a Hue scene<br><br>&#x2022; Launch apps and Android Intents (beta)<br>&#x2022; One-touch text SMS or email someone<br>&#x2022; Open maps navigation to work<br><br>&#x2022; Run any Tasker Task quickly (beta) such as:<br>&#x2022; Instantly take a picture (without waiting for the camera app to open)<br>&#x2022; Call or text your favorite person<br><br><b>Coming in Tappur 2.0, you&#x2019;ll also be able to:</b><br><br>&#x2022; Call an Uber <br>&#x2022; Instantaneously play your favorite Spotify playlist<br>&#x2022; Save time by triggering multiple actions as once (ex: prepare for bed by turning off your lights, turning off your music, locking your door, setting your alarm, and activating your sleep monitor at all once)<br>&#x2022; See actions only when it makes sense to see them<br>&#x2022; See sensitive actions (like locking/unlocking your door) only using additional authentication methods<br>&#x2022; Tappur will learn from your behaviors and make suggestions for automation. For example, after a week of you coming home and turning on your Hue lights to a certain scene, Tappur will ask if you want to automate this action. <br>&#x2022; You can always easily remove automations you don&#x2019;t like or don&#x2019;t find useful. <br><br>As we in beta, please give us your feedback, and don&apos;t hold back! We want to make the best app possible. Please email feedback@tappur.co if anything could be improved.<br><br>* <i>Lockscreen Quicklaunch only available in Android 5.0+</i>",
+    "histogram": {
+        "1": 3,
+        "2": 3,
+        "3": 4,
+        "4": 3,
+        "5": 9
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-yF7gLkLFJIu--jEXIiyP0EvKbpnkgiP6e_6Oe7LqVBphk1UH5hiF4NHylprrFzezTPt=h310",
+        "//lh3.googleusercontent.com/MdDcn3i-5ipebDKUiiiNqvhMqFGG28sseGLl3QHhsDSkju2Cg_Y5wpoMrLY2rmgr9A=h310",
+        "//lh3.googleusercontent.com/XjuHGzT0rMaqRUvhZeRJOzEX50GCgioxDiKtmZU6Htizs6cfzoNJpZRFvJxFwdy7zjk=h310",
+        "//lh3.googleusercontent.com/I2v-yMcd4EJGM9WKKbbxHUgLYai3NUX_aGPiW9uhqmV05JHXiW7k3L_ewOcsfT08LoA=h310",
+        "//lh3.googleusercontent.com/IEsEoiaQLDr2Lj_M6zLgVFi4ithv7iQQY279oDE-wu8w0dJsbtCHziUb99Ro5ixVtw=h310",
+        "//lh3.googleusercontent.com/ZnTwG9B8rcKlfqZOEOAPI9CYxCffrQiIvgEt8aR6-Dg4tzU4-kJnfur7k3Ck2kZgQFA=h310"
+    ],
+    "comments": [
+        "It works, most of the time Doesn't find all lighting profiles for hue, when it loses connection it's a total pain getting it connected again when there's hardly any feedback about what it's trying to do. Often just pressing buttons with nothing happening. Lock screen to control the lights is nice, but only when it works.",
+        "I'm only able to control the first room on my Hue list. Theres no option to choose which room I want a certain scene to be applied to.",
+        "Lock screen operation! Ability to operate lights without launching a program speeds things up.",
+        "Sikkkkk F_ING SI\"KKKKK",
+        "Finally an app which offers Philips Hue control from lockscreen!",
+        "The future is here! Love using this user friendly app to transform mundane tasks into fast and easily done mode. I have it hooked up to my Phillips Hue Lights and I can control  and activate different preset scenes depending on my activity with just one tap. Awesome."
+    ],
+    "recentChanges": [
+        "Improved Tasker support! Run Tasker tasks from your lockscreen or watch.",
+        "v1.22:",
+        "* Easier to swipe away quicklaunch on Wear",
+        "* Performance updates",
+        "v1.19:",
+        "* Updated onboarding flow so Hue connect only shows for Hue users.",
+        "* Fixed Hue connection screen not showing in some instances."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.tappur.tappur&hl=en&gl=us",
+    "appId": "co.tappur.tappur"
+}

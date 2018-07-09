@@ -1,0 +1,62 @@
+{
+    "title": "Handy List",
+    "summary": "The ideal &quot;to do&quot;, shopping, or check list app for your phone or smart watch !",
+    "icon": "//lh3.googleusercontent.com/j0JBSDO6EwCKQfO4SzpuyQwaZDzC0wmCUzdw9EZQf80i6WKuVWxPyPlAKoFb5mNozwY=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.2,
+    "reviews": 24,
+    "developer": "BinaryEarth",
+    "developerId": "BinaryEarth",
+    "developerEmail": "info@binaryearth.net",
+    "developerWebsite": "http://www.binaryearth.net",
+    "developerAddress": "Anthony Dunk\nPO Box 405\nGosford\nNSW 2250\nAustralia",
+    "updated": "September 22, 2017",
+    "version": "4.6",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Prioritise items and tick them off when done. Perfect for shopping, \"to do\" lists, and for planning what to take on your next trip away.HandyList allows you to manage a number of lists. As you complete each item you can tick it off, and then delete all the ticked items. Items can be prioritised with colour coding and a list can be exported to a text file.This app works great on your phone, but is probably unique in that it will also work stand-alone on Android Wear smartwatches - even when the watch is in aeroplane mode or far away from your phone. The \"wrist list\" mode of the app includes a built-in scrolling keyboard that allows you to enter list and item names directly from your watch! But if you prefer typing on your phone then you can create the list there and send it to your watch instead.You can also Email or SMS a list to a friend.The app has been tested on both round (Moto 360) and rectangular (Sony Smartwatch 3) Android Wear watches.",
+    "descriptionHTML": "Prioritise items and tick them off when done. Perfect for shopping, &quot;to do&quot; lists, and for planning what to take on your next trip away.<br><br>HandyList allows you to manage a number of lists. As you complete each item you can tick it off, and then delete all the ticked items. Items can be prioritised with colour coding and a list can be exported to a text file.<br><br>This app works great on your phone, but is probably unique in that it will also work stand-alone on Android Wear smartwatches - even when the watch is in aeroplane mode or far away from your phone. The &quot;wrist list&quot; mode of the app includes a built-in scrolling keyboard that allows you to enter list and item names directly from your watch! But if you prefer typing on your phone then you can create the list there and send it to your watch instead.<br><br>You can also Email or SMS a list to a friend.<br><br>The app has been tested on both round (Moto 360) and rectangular (Sony Smartwatch 3) Android Wear watches.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 6,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Kgerjg_0yWB-ZCynbsTMSr4O5Sg0LrH9H_tijurWK7nwhT5Sla-po0C24vDnd6JP7gc=h310",
+        "//lh3.googleusercontent.com/E9q6gd0l-irHYAN0-0PcqIGololDyU15qCdKI61dTje54I5i2Xwytg9ekX4m4wutTIb4=h310",
+        "//lh3.googleusercontent.com/iAGWeVfQKxsEWo7cz9BDXV3M2cDYAKV4m9Yr9PaRWN4f7hXqzDjITR_2qYmvDoBcVck=h310",
+        "//lh3.googleusercontent.com/N7YF1prXewpAUSYk-32zdCs8z39Wg9AHW4vV53Qj4Zk9-FYpXT4zqHULbiJtGSLU6geU=h310",
+        "//lh3.googleusercontent.com/RRrkn2G7WsnJGvcfUuWtoMUqye_A4ybjlXvH2vMbjjCFo3m1nTmFpOknL3UZqET3C0s=h310",
+        "//lh3.googleusercontent.com/10aWQ3PcdQs2knRqp4tudiGgi4nO4Y-8oGe_CDA96u2vfdS8oMGQgZ2Y4R7TaApQraE=h310",
+        "//lh3.googleusercontent.com/_2XkO_h6uAviZ_3rBidsbPSQCZE_JTtdcG3YDVcQZUW2ZEovMiwIQ_t4j2YFGITkGAEs=h310",
+        "//lh3.googleusercontent.com/vDZlWDualBastZ2wwOmrG0ejJtaOifbaipBm6nNEN22PNmvVqrT-LmmIADFYDEhgmA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/HmOa325BWIA",
+    "comments": [
+        "Awesome App, please change the design to something more user friendly and more pleasing to the eyes, also please add reminders. Otherwise GOOD JOB!!!",
+        "Just started to use it.  I like it but I would love to beable to change the order of the 'Lists' also instead of just the items in the list.",
+        "It's not compatible with rounded screen. I almost can't see anything that I'm writing with this app.",
+        "Best check list app for Android Wear Great for creating and managing check lists such as todo or shopping lists right there on your watch!  Could use faster input method like voice support -- but please always provide the on-watch keyboard as an option because voice sometimes can't be used.  Could use integration and sync with corresponding Adroid version.  Glad I do NOT have to push my data to the cloud to use it.  Over all, though, I think this is extremely useful and works great even just as it is -- and prefer it to any other similar app!",
+        "You are a model developer! You take on board all feedback and act on it quickly and effectively! Both of my concerns were dealt with and the app is now much better than before. I also tried out the alternate theme and prefer it to the default one. Take my 5 stars with thanks.",
+        "Thanks for this wonderful app.. Can you make the size of letters a bit small as it need a lot of scrolling just to type a single word.. Or Add just make use of google's speak now feature so that will make file a bit easier.."
+    ],
+    "recentChanges": [
+        "4.6: Bug fix.",
+        "4.5: Show cursor in correct location on watch. Fixed reported crash bug on phone.",
+        "4.4: Added buttons to move a list item to the top or bottom of the list.",
+        "4.3: When you long press on a list item on the phone, you can now choose to move it up or down one place in the list."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=binaryearth.handylistplus&hl=en&gl=us",
+    "appId": "binaryearth.handylistplus"
+}

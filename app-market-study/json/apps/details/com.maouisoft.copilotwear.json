@@ -1,0 +1,49 @@
+{
+    "title": "Copilot Wear",
+    "summary": "GPS assistant for Pilot. Compatible with Android Wear.",
+    "icon": "//lh3.googleusercontent.com/-Mj4K7DMsLc3SNw0g2yXt7GEkOfh2Sdtmo9qnmjLnVFuG2Rfjpx3mNlBhvhCNWjmSw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.5,
+    "reviews": 6,
+    "developer": "MaouiSoft",
+    "developerId": "MaouiSoft",
+    "developerEmail": "gekkosound+copilotwear@gmail.com",
+    "developerWebsite": "http://www.copilot.club",
+    "updated": "October 20, 2016",
+    "version": "1.0.7",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Copilot Wear is a simple and minimalistic app to guide the light-aircraft pilot (SEP, ULM).By setting a sequence of points, the application will guide you from one point to the next providing you with simple and useful information to ensure you a pleasant and accurate navigation.The data for airports and navigation aids are in-app memory. You can browse through airports data without any internet connection.You can add a point to your navigation by selecting :• an airport (ICAO code or name).• a nav-aid (VOR, NDB, etc)• or freely drag any point on a mapOnce you have launched your navigation, you can move from one point to another by simply drag the screen.** Optional **Wearing an Android Watch ? Check the status of your navigation on your wrist for a minimum space requirement.** In detail **The data airports and radio-navigation are available for the following countries: Algeria, Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Canada, Chile, Colombia, Croatia, Denmark, Egypt, Finland, France, Germany Greece, Israel, Italy, Mexico, Morocco, Netherlands, Norway, Paraguay, Peru, Poland, Portugal, Sweden, Switzerland, Tunisia, United States, VenezuelaYou can use the application to perform navigations outside these countries by dragging manually your points on the map.******* This application should not be used as the main information to prepare an aircraft in flight or during a flight. *******",
+    "descriptionHTML": "Copilot Wear is a simple and minimalistic app to guide the light-aircraft pilot (SEP, ULM).<br><br>By setting a sequence of points, the application will guide you from one point to the next providing you with simple and useful information to ensure you a pleasant and accurate navigation.<br><br>The data for airports and navigation aids are in-app memory. You can browse through airports data without any internet connection.<br><br>You can add a point to your navigation by selecting :<br>&#x2022; an airport (ICAO code or name).<br>&#x2022; a nav-aid (VOR, NDB, etc)<br>&#x2022; or freely drag any point on a map<br><br>Once you have launched your navigation, you can move from one point to another by simply drag the screen.<br><br>** Optional **<br>Wearing an Android Watch ? Check the status of your navigation on your wrist for a minimum space requirement.<br><br>** In detail **<br>The data airports and radio-navigation are available for the following countries: Algeria, Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Canada, Chile, Colombia, Croatia, Denmark, Egypt, Finland, France, Germany Greece, Israel, Italy, Mexico, Morocco, Netherlands, Norway, Paraguay, Peru, Poland, Portugal, Sweden, Switzerland, Tunisia, United States, Venezuela<br><br>You can use the application to perform navigations outside these countries by dragging manually your points on the map.<br><br>******* This application should not be used as the main information to prepare an aircraft in flight or during a flight. *******",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/3hm5vUsewRl6WAXSFL4muYFjiygMlei1BNOmXeCeNNJqisLAWNVQj0q5iFG2Jlu0_Xw=h310",
+        "//lh3.googleusercontent.com/kJFyeCcgNv8ZNGEwDi6x7HpBxvc32yAf6RBkRDyXFFvg5yybpy6vQU5cAO-7WQJXV6Q5=h310",
+        "//lh3.googleusercontent.com/DeBPtJTGwRgY40v7yzqect8YaVI45fpTgxcj8YDishwKM836SsdrHjkwWr5UVzXQTw=h310",
+        "//lh3.googleusercontent.com/YK1RTd_hPJx4Ueo6i-E3nVX2_bpR3QWjZuKQqBBdJkHKfcBmMUjK3fCmINPCe26rrOM=h310"
+    ],
+    "video": "https://www.youtube.com/embed/4Mp2JAyOlMs",
+    "comments": [
+        "Useful ! Very easy to use. It brings the essential you need during a flight."
+    ],
+    "recentChanges": [
+        "Restriction aux seules appareils ayant un GPS hardware."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.maouisoft.copilotwear&hl=en&gl=us",
+    "appId": "com.maouisoft.copilotwear"
+}

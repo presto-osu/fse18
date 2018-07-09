@@ -1,0 +1,48 @@
+{
+    "title": "Simply - Watch Face",
+    "summary": "Simple and Minimal Watch Face",
+    "icon": "//lh3.googleusercontent.com/K40vzblpeRoP--GNJOHnOG_4zfh8lViIo1CB4nnGJVU-fcLn6dBLmiJXLSQQuW26gw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 5,
+    "developer": "arg",
+    "developerId": "6348506520145188411",
+    "developerEmail": "admin@dojousugeetateware.net",
+    "developerWebsite": "http://dojousugee.tateware.net/",
+    "updated": "December 16, 2015",
+    "version": "1.02",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "WatchFace in pursuit of simplicity.Optimized processing for minimize power consumption.",
+    "descriptionHTML": "WatchFace in pursuit of simplicity.<br>Optimized processing for minimize power consumption.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LGkLeqONEP3sJmQNwKCacDl1hmf05fISpwCVEZtccR528pTFkdBXKQn1t4f6USfQqg=h310",
+        "//lh3.googleusercontent.com/hqFv9wafYx2wvzap90aNs2U_Y43HI2w2PIy8DMnx9vHIXSDkHXa_h535h7xksyWiEA=h310"
+    ],
+    "comments": [
+        "Ok could be better Would be nice if I could change the time format.."
+    ],
+    "recentChanges": [
+        "Fixed a bug that day of the week is not displayed correctly.",
+        "Fixed a bug that the peeking card is not displayed in ambient mode.",
+        "Further optimization, power saving."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.ddo.dojousugee.simply&hl=en&gl=us",
+    "appId": "jp.ddo.dojousugee.simply"
+}

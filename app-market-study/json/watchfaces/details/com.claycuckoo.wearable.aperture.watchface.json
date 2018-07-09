@@ -1,0 +1,44 @@
+{
+    "title": "Aperture Watch Face (beta)",
+    "summary": "The Android Wear watch face for geeky photographers.",
+    "icon": "//lh3.ggpht.com/z6SMYRL-lsxBce5siB-V_Wk2DLTM_xQvT0v2z6or4cnsiHVsVx9P7btMkZddT557VcU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.4,
+    "reviews": 11,
+    "developer": "Clay Cuckoo Software",
+    "developerId": "Clay+Cuckoo+Software",
+    "developerEmail": "claycuckoo@gmail.com",
+    "developerWebsite": "http://claycuckoo.wordpress.com",
+    "updated": "February 1, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Requires a Android Wear device.Shows aperture values on the watch face instead of the hours. The aperture opens and closes according to the time / aperture.I have only been able to test it on a Sony Mobile SmartWatch 3. If you find any issues on other devices then please send me a email and I will fix it ASAP.Photographs by Roger Madsen Photography. More watch faces with other photos is coming soon.",
+    "descriptionHTML": "Requires a Android Wear device.<br><br>Shows aperture values on the watch face instead of the hours. The aperture opens and closes according to the time / aperture.<br><br>I have only been able to test it on a Sony Mobile SmartWatch 3. If you find any issues on other devices then please send me a email and I will fix it ASAP.<br><br>Photographs by Roger Madsen Photography. More watch faces with other photos is coming soon.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 5,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/xpUm5AR944zZf32cgXLuml92RQIECdPMt918Lg-Lln-ZFaQ9QCXbXXuROBdXvh5hagQ=h310",
+        "//lh6.ggpht.com/WAKNGfIodN7BIZf7_ugI8YHGiv7sePfslm_HJ7lWyxmRhM58lZzwWKLJRY7__x2HS-SW=h310"
+    ],
+    "comments": [
+        "A well executed idea Works as described!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.claycuckoo.wearable.aperture.watchface&hl=en&gl=us",
+    "appId": "com.claycuckoo.wearable.aperture.watchface"
+}

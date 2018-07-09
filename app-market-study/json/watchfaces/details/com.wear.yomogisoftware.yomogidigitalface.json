@@ -1,0 +1,49 @@
+{
+    "title": "Big Digital WatchFace",
+    "summary": "This is simple digital watch face with big character for Android Wear.",
+    "icon": "//lh3.googleusercontent.com/I_GXErkeLkXzHEJJdUrmHIQJ-dGlNftvgY4Nb0Qsrd236OM5gnRn2_FQHNXSMemJMvQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 3,
+    "developer": "Yomogi Software",
+    "developerId": "Yomogi+Software",
+    "developerEmail": "yomogi08+support@gmail.com",
+    "developerWebsite": "http://yomogi.nobushi.jp/",
+    "developerAddress": "Aikawa-machi, Aiko-gun, Kanagawa-pref. Japan.",
+    "updated": "June 7, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "The point of view is big characters of time and date for clear readable and layout.Using varies color and gradient color.The face has battery gauge on center line, you can recognize percentage quickly and helpful.For moto360, Galaxy Gear, Zen watch, and so on.",
+    "descriptionHTML": "The point of view is big characters of time and date for clear readable and layout.<br>Using varies color and gradient color.<br>The face has battery gauge on center line, you can recognize percentage quickly and helpful.<br>For moto360, Galaxy Gear, Zen watch, and so on.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/PxhM3TAxKWsHfSufAwMpdPfnGw-4c7eaCZUHhTCimhOsckQmuZNNFvaRcHz4LgkePYfu=h310",
+        "//lh3.googleusercontent.com/-6D62Q_NJcVsSIIWV2aS_MBOEZcL-2zp7G3yOTfv1uPnln4smJ7ej_e30Q4SFLMMJwg=h310",
+        "//lh3.googleusercontent.com/S3dUm4gHD23A1TnqG0WnVhAi1hm4blR37vvmlDFET1cBTSFTdQA-yERnyCJ8ODS71biI=h310",
+        "//lh3.googleusercontent.com/sHJhUq3FHV9HFoW2swI8SEj4TPOelPviIZNk-YWG0WMwG1mIy0LeX9tY86BcKST1GA=h310",
+        "//lh3.googleusercontent.com/y5LFAybcWsRAALR3FxfVyD7ktmQ-UhxJ0kzFH1ygy6Ng-nECwVhHsdd0lRObxHD1ow=h310"
+    ],
+    "comments": [
+        "It's just a simple time app colorful and don't need my glasses to see the time or date. Does not show up on my phone app drawer  but it in app settings",
+        "No 12hr? Nice watchface, would give 5 stars if I could change to 12hr time."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wear.yomogisoftware.yomogidigitalface&hl=en&gl=us",
+    "appId": "com.wear.yomogisoftware.yomogidigitalface"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Timicon",
+    "summary": "Timicon is a beautiful watchface that let&#39;s you access all relevant information",
+    "icon": "//lh4.ggpht.com/7Z1rWqinfb1royF5zLKcA54VAh5CRRnNDCEP29pUUhOjwikz2_ILyJL3SpbwzPpR9w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 48,
+    "developer": "aquilin.nl",
+    "developerId": "aquilin.nl",
+    "developerEmail": "hugo.arends@gmail.com",
+    "developerWebsite": "http://www.aquilin.nl",
+    "updated": "June 1, 2014",
+    "version": "1.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Timicon is a beautiful watchface that let's you access all relevant information.It features 7 color themes (one based on battery level) and lot's of options.This app is not compatible with Android Wear devices (like Gear Live or LG G watch).It operates on devices that run Android like the Omate TrueSmart.The app shows interactive icons for:- Airplane mode /on/off- WiFi on/off/connected- Service state on/off/roaming- One custom app- Alarm clock- GPS on/off- Number of missed text messages- Number of missed calls- Bluetooth on/off/connected- Battery level- Ringer mode normal/silent/vibrateAll icons are clickable, either opening the corresponding app or toggling the setting immediately.",
+    "descriptionHTML": "Timicon is a beautiful watchface that let&apos;s you access all relevant information.<br>It features 7 color themes (one based on battery level) and lot&apos;s of options.<br><br>This app is not compatible with Android Wear devices (like Gear Live or LG G watch).<br>It operates on devices that run Android like the Omate TrueSmart.<br><br>The app shows interactive icons for:<br>- Airplane mode /on/off<br>- WiFi on/off/connected<br>- Service state on/off/roaming<br>- One custom app<br>- Alarm clock<br>- GPS on/off<br>- Number of missed text messages<br>- Number of missed calls<br>- Bluetooth on/off/connected<br>- Battery level<br>- Ringer mode normal/silent/vibrate<br><br>All icons are clickable, either opening the corresponding app or toggling the setting immediately.",
+    "histogram": {
+        "1": 11,
+        "2": 0,
+        "3": 4,
+        "4": 7,
+        "5": 26
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/tKDqutHU4UmR4yI9o_dRitjP5j46gDGZu94VcTWoDgZZme622nD6wyWxwzBGxGoZ2gs=h310",
+        "//lh4.ggpht.com/LGoZ_N2yuh6VUDMTI2lNJ7zlt2_HQPfcQJFx1gUXDtkQIAEN4EqYDL35Bqa2kt1zHQ=h310",
+        "//lh6.ggpht.com/dkVsq-zeMGYKRMKy6_2tb9eUrmzU1-Jx5c6YJ1I2YVEBjZqLhCRx509PG7sjSjRlUWw=h310",
+        "//lh4.ggpht.com/BH1Nu468lDqQpwRIxK1xCeAcH61N5k1fBHDqbLNL47nevNgv7k1RnTKjf9SmV250ROg=h310",
+        "//lh6.ggpht.com/3wTgxAM4rl6_-0QPzNDbHNj9g0Jt7JvP89xwUZ2N0WOTgNtfD5vV4Jkny4KBMwvW_OY=h310",
+        "//lh5.ggpht.com/lrXr_6j5gV7he9662jc3AhU-u1X89BYhji0skIOW0wUhzt1VvrSpIwasvUfj2Q-JjA=h310",
+        "//lh4.ggpht.com/93WbZtR9oozDScrSxF7p8HwEH90GMLzze0IBfZqw4nqXbbrZkWxEk6ss2Tf9JCApN-T_=h310"
+    ],
+    "comments": [
+        "Sony smart watch 3 Since all the smart watches I have looked into have been androidware wouldn't it be wise to make this app compatible with such devices? That said it works well on the Z3 compact!",
+        "Doesn't show up as watch face on Gear live. Is this not compatible with android wear?",
+        ":-) best so far for Standalone full android smartwatch!  No Ads and Free Works great on standalone smartwatch zgpax s6... I would gladly pay or donate (thru play) for this!",
+        "Not working On my LG G Watch R.",
+        "Perfect Watchface for a Smartwatch Everything you need just on your watchface. Elegant and functional! PERFECT",
+        "love it. works great on my macwear m7"
+    ],
+    "recentChanges": [
+        "Implemented additional languages:",
+        "- French (thanks John Séraphin)",
+        "- Dutch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=nl.aquilin.timicon&hl=en&gl=us",
+    "appId": "nl.aquilin.timicon"
+}

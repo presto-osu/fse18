@@ -1,0 +1,48 @@
+{
+    "title": "Prayer Watch",
+    "summary": "A watch face that keeps track of Muslim prayer times.",
+    "icon": "//lh3.googleusercontent.com/VYRP-S7dJ7QCAoHybW4V7HANyry48Ma2WrZVz2SAeOWdStK6QOBFYrJEgm44gtdLcpk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 4,
+    "developer": "Ageelg",
+    "developerId": "Ageelg",
+    "developerEmail": "ageelg.mobile@gmail.com",
+    "developerWebsite": "http://www.ageelgmobile.com",
+    "developerAddress": "PO BOX 18737\nDaharan, 31311\nSaudi Arabia",
+    "updated": "May 23, 2015",
+    "version": "1.01",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "A watch face that keeps track of Muslim prayer times also it shows both Gregorian and Islamic Hijri dates.",
+    "descriptionHTML": "A watch face that keeps track of Muslim prayer times also it shows both Gregorian and Islamic Hijri dates.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6T04TB9JM-JdvkDqvZ1gG4Oi_-70Yn5KUKdCGh4zqzUIsgmoY9UmZCgO7CA79_7AE2w=h310",
+        "//lh3.googleusercontent.com/S7QGq6VLnp3ZS0ECUhFrMnnluT5ndO0ncWs4whCNgxNxdYQwWLupsr61AZXGsQsODQ=h310",
+        "//lh3.googleusercontent.com/viHWIG9-bPxlenA0i_37tiV_hXAOi-f7gCd2YywsbmE_0pKIclzbrn-vt3_kkGALeQ=h310"
+    ],
+    "comments": [
+        "Hard to read really tiny fonts that can't be changed"
+    ],
+    "recentChanges": [
+        "First release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=givefoood.greeteveryone.prayerwatchface&hl=en&gl=us",
+    "appId": "givefoood.greeteveryone.prayerwatchface"
+}

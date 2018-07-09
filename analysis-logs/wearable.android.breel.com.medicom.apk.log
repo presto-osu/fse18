@@ -1,0 +1,146 @@
+Soot started on Thu Jun 21 13:41:43 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: wearable.android.breel.com.medicom.BReelWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/wearable.android.breel.com.medicom.apk
+[INFO] MySceneTransformer: ############## wearable.android.breel.com.medicom.BReelWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   53
+[INFO] FlowGraph: @@@@ Total Methods: 233
+[INFO] FlowGraph: @@@@ Total Stmts:   3659
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1), (unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1), (unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1), (unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1), (unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1), (unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new wearable.android.breel.com.medicom.watchface.OrientationController$1]317,1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1_2=[-1], $r1_2=[-1], $r2=[0]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r2=[0]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 2.398000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:41:49 EDT 2018

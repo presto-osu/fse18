@@ -1,0 +1,43 @@
+{
+    "title": "RGB Clock",
+    "summary": "Two clock-faces, one decimal and one binary.",
+    "icon": "//lh5.ggpht.com/HHX0VZTm0bTxh-8O2iTMZiGTwWzQIJEaYLE_ZQEXh52d7HALIHYtkoRGhp2XWQfcsmSA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "Erbsman",
+    "developerId": "Erbsman",
+    "developerEmail": "erbsman@gmail.com",
+    "updated": "February 25, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "The Binary Clock Face shows time by displaying seconds, minutes and hours as binary numbers, and the color coding is the same, red for seconds, green for minutes and blue for hours.The Decimal Clock Face shows time by highlighting the digits 0-9 with red for seconds, green for minutes and blue for hours. There are two digits for each unit, the darker color represents the first digit and the brighter the second (*10).This watch-faces are not intended to be easy to read, but to look nice and to force some brain activity when finding out what time it is.",
+    "descriptionHTML": "The Binary Clock Face shows time by displaying seconds, minutes and hours as binary numbers, and the color coding is the same, red for seconds, green for minutes and blue for hours.<br><br>The Decimal Clock Face shows time by highlighting the digits 0-9 with red for seconds, green for minutes and blue for hours. There are two digits for each unit, the darker color represents the first digit and the brighter the second (*10).<br><br>This watch-faces are not intended to be easy to read, but to look nice and to force some brain activity when finding out what time it is.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/8PgrqrZKhRwdADCPM7R8-CJUYIrcV3IXP9zY8nkwPyoxw4X1TI1TjJ0eRHQ0uc_2LIg=h310",
+        "//lh5.ggpht.com/dhNpcXDTAP7VklAytCB18Hpq7By1Ay82gD4lsiNAZ4v8uNQd49SFzmjc0xSOBUFffB-7=h310",
+        "//lh5.ggpht.com/f-y7VdnbPw4RNRHXOEKPJyfNnNikWm7MZQzfF-WIuqKfZXdWU6WiQG-ZAcL48rHKyImK=h310",
+        "//lh5.ggpht.com/P7pBHeZ4jB6ezsc5D8eUhGVw3BOxqj3TR7ambTdzGbz4D--iCCPqlKQFUNSaO1iZHto=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.kjellstrand.ccc.watch&hl=en&gl=us",
+    "appId": "se.kjellstrand.ccc.watch"
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Material Metronome",
+    "summary": "A simple metronome with a touch of material.",
+    "icon": "//lh4.ggpht.com/8SSfYYBrKP91oYNfK4t4WOVZ9f6hE7bmnnr9GK8Kn-mwVEEpkBe_1M9Z3tb31eaIyTY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.5,
+    "reviews": 38,
+    "developer": "Developer Dunn Apps",
+    "developerId": "5121284658336663889",
+    "developerEmail": "DeveloperDunnApps@gmail.com",
+    "developerWebsite": "https://devdunnapps.firebaseapp.com/",
+    "developerAddress": "216 NW Sunset Lane\nGrimes IA, 50111",
+    "updated": "October 6, 2015",
+    "version": "1.8.1",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "The Material Metronome is a simple, yet effective app to get a tempo or beat going.Features-Start at any tempo from 1 to 250-Choose between different sounds; Cowbell, Woodblock, Electronic 1, Electronic 2-Use 11 different bar counts 2/4 to 12/4-Accent the first note of a bar-Keep it going while in a different app-Save configuration to up to four different profilesPermissionsWe do not like permission hungry apps and neither should you but here are the permissions we do request.•    Wakelock - Lets the app keep the screen on if set in the settings•    Vibrator - Relays the tempo on Android Wear devices•    Billing - Adds the ability to donate.",
+    "descriptionHTML": "The Material Metronome is a simple, yet effective app to get a tempo or beat going.<br><br><br><b>Features</b><br><br>-Start at any tempo from 1 to 250<br><br>-Choose between different sounds; Cowbell, Woodblock, Electronic 1, Electronic 2<br><br>-Use 11 different bar counts 2/4 to 12/4<br><br>-Accent the first note of a bar<br><br>-Keep it going while in a different app<br><br>-Save configuration to up to four different profiles<br><br><br><br><b>Permissions</b><br>We do not like permission hungry apps and neither should you but here are the permissions we do request.<br><br><br>&#x2022;    Wakelock - Lets the app keep the screen on if set in the settings<br><br>&#x2022;    Vibrator - Relays the tempo on Android Wear devices<br><br>&#x2022;    Billing - Adds the ability to donate.",
+    "histogram": {
+        "1": 8,
+        "2": 1,
+        "3": 6,
+        "4": 10,
+        "5": 13
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/yLlkeIZNckZ9gRcYuEKe7T98E4cjuYyXnmGoJtVbQYaWu00vlATZOdk1r9KERtGSvw=h310",
+        "//lh3.googleusercontent.com/ecV41A0Qa6fu0bqPBYCMr4tRG-hZG30SZfWk1qJSFAX_whQcyR_qixRiJC6daGZ8bQ=h310",
+        "//lh3.googleusercontent.com/OLRDv2FOWIGkeWFvYhOEqIds0UZSQQSXIAjqnFtDUPEq6xdzjwAe6DOtOhTM_R7qCIQ=h310",
+        "//lh3.googleusercontent.com/_HidvkbTVpKvJpMwlWaABU5n4EjVAcP8qIArs0mxqvHUVlwkhILmxMAqZ3xnUYcchjs=h310",
+        "//lh3.googleusercontent.com/d5S8ksqfoP1AMXkn4szSJULohIh1XrdP9hWERZM_dNw5IKhhuxfQfqBWRqfrlSqIqHic=h310"
+    ],
+    "comments": [
+        "Too buggy.. Crashes often. Ameture effort of app development",
+        "Crashed I have a Samsung Galaxy Note 5 and it crashed.DO NOT GET",
+        "Unfortunately it crashes on opening - Moto G2 running 6.0 Marshmallow",
+        "App crash on launch On cm13",
+        "Crashes on opening, marshmallow",
+        "Great app Still wish there was a way to get rid of that banner ad."
+    ],
+    "recentChanges": [
+        "10/6/2015",
+        "New notification to match lollipop guidelines.",
+        "7/28/2015",
+        "Added back the woodblock and cowbell options.  Added a setting to make the screen flash when a beat is played.  New animations.",
+        "5/18/2015",
+        "Added to option for X/8 time.  Fixed a few bugs so there should be fewer crashes.  Updated some things to reflect material design changes.  NOTE: Instrumental sounds were removed from this update because they were not acurate.  Expect an update soon on rather or not they will make a return."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.devdunn.metronome&hl=en&gl=us",
+    "appId": "com.devdunn.metronome"
+}

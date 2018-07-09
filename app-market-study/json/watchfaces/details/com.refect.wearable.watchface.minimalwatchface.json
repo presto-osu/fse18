@@ -1,0 +1,53 @@
+{
+    "title": "Minimal Watchface",
+    "summary": "A beautiful customizable minimalistic android wear watch face",
+    "icon": "//lh5.ggpht.com/ULbKjc1btRTL98AtSqqT8oNtlVqHb99nAC5LiI9Je-N1PLObb3pajBbmaqzUK7GzoMc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 40,
+    "developer": "refect",
+    "developerId": "9003864528948922705",
+    "developerEmail": "therefectcorporation@gmail.com",
+    "developerAddress": "2988 W 12th St\nCleveland, OH\n44113",
+    "updated": "February 12, 2015",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Make sure to check out all the customizable features in the handheld application!✭Tested on Moto360Features:✔ Design your own minimal watch face✔ Beautiful minimalistic interface✔ Predefined material colors✔ Customizable colors for everything on the screen✔ 12/24 hour support✔ and more to come!This is my first watch face. Comments are always welcome!",
+    "descriptionHTML": "Make sure to check out all the customizable features in the handheld application!<br><br>&#x272D;Tested on Moto360<br><br>Features:<br>&#x2714; Design your own minimal watch face<br>&#x2714; Beautiful minimalistic interface<br>&#x2714; Predefined material colors<br>&#x2714; Customizable colors for everything on the screen<br>&#x2714; 12/24 hour support<br>&#x2714; and more to come!<br><br>This is my first watch face. Comments are always welcome!",
+    "histogram": {
+        "1": 3,
+        "2": 6,
+        "3": 6,
+        "4": 12,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/Sla_N3JEFQd6K932CDWCHCHnANJ6r4yoyac6cL1lpfShOQCVAChFgjOugfj4_3xwoPZZ=h310",
+        "//lh6.ggpht.com/518CF1h604eMMDiTRRmEG5Hy86HYhTD4ldzLAXgqr5D20G0jKiJZrJlL-4Rru7fJRw=h310",
+        "//lh5.ggpht.com/WqxoAF7W5iUjlJcp29tjdvUq740uvaF_POiB18v7xgRMC0_sAOeVm2BZ6o7BSZpJPA=h310",
+        "//lh3.ggpht.com/T2pbVtkPhk5DMrpUvqU4hTmp-GRaVgHtB6JWlmUpkef8sqJ5GMX1HP0SE8ifMD_Qlz4=h310"
+    ],
+    "comments": [
+        "A great start! If you're into minimal, you've stumbled upon the right watchface! This thing looks really crisp on my Moto 360, gotta say. The color customization is really great, but the customization ends there, even though it's minimal in nature there could be options to add stats, weather etc, even if they're off by default. I'm gonna keep this watchface on my watch because it's incredibly easy to see in the bright sun without resorting to upping the brightness. I did not notice the bleed another user reported.",
+        "Nice Very slight bleed off background colour on seconds wheel, always shows default colours for a frame on watch wake up, and colour picker on phone has a few issues (keyboard keeps coming up and colour always defaults to white), but very nice nonetheless. Looking forward to fixes. Could do with losing the secondary (seconds) color on battery saving mode too.",
+        "Really good Love it so far the only little tweaks I would make would be to add full black. (000000) to the color palette. I can type it in but having it on the default color listing would be nice. Also the ability to enlarge the font for the hour section would be awesome. It's not bad the way it is but I would prefer to make it a larger. Keep up the great work!",
+        "The one and only Finally a real and functional minimal watchface. And customizable. Love it!",
+        "Bad graphic design The area around the red on the original watch face has an ugly white border around the elements."
+    ],
+    "recentChanges": [
+        "- Fixed minute circle offset error",
+        "- Tested on square android emulator"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.refect.wearable.watchface.minimalwatchface&hl=en&gl=us",
+    "appId": "com.refect.wearable.watchface.minimalwatchface"
+}

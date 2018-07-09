@@ -1,0 +1,47 @@
+{
+    "title": "Wear Compass",
+    "summary": "Compass app that calculates the Heading angle and North position in wearables.",
+    "icon": "//lh3.googleusercontent.com/I95Btziy2DKUJuLBjwownwKL5dU6VL9xB0GIBgTrOZcWuX9GcLuHdugRVelZyX3g4ao=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.5,
+    "reviews": 6,
+    "developer": "Jesus Galindo M",
+    "developerId": "Jesus+Galindo+M",
+    "developerEmail": "jesus.galman@gmail.com",
+    "updated": "August 26, 2015",
+    "version": "2.4",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Wear Compass is a stand alone wearable app that displays the magnetic heading and points to the magnetic North in order to help you get a sense of your current location just by taking a quick look at your wrist. This app doesn't depend on GPS and Data Access to get your location, instead it uses the wear device geomagnetic and accelerometer sensors to calculate the North and the heading angle.",
+    "descriptionHTML": "Wear Compass is a stand alone wearable app that displays the magnetic heading and points to the magnetic North in order to help you get a sense of your current location just by taking a quick look at your wrist. This app doesn&apos;t depend on GPS and Data Access to get your location, instead it uses the wear device geomagnetic and accelerometer sensors to calculate the North and the heading angle.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.1 and up",
+    "androidVersion": "5.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/X74lhyKLfvhv4myRFOHlpYvJy7UwXbIzOe3_jDUxzBfSAzNx6rVpEKI_9TYcvtpA9wiX=h310",
+        "//lh3.googleusercontent.com/Ikl0FsMKWegBQye53Ddao0g33l7DPRc86vKM3RiZ8QtDI2pZaZ_gde_zMVXQC5CTF5Q=h310",
+        "//lh3.googleusercontent.com/uNhz-S5WRn3IwiM5yiNwV_IWzGFlpy_OdQ8vXB1fEWgyHoTQsYVHasVxvcS8Vn4ay2M=h310"
+    ],
+    "comments": [
+        "Doesn't work",
+        "Doesn't work"
+    ],
+    "recentChanges": [
+        "Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=compass.wear.app.jesusgalindom.wearcompass&hl=en&gl=us",
+    "appId": "compass.wear.app.jesusgalindom.wearcompass"
+}

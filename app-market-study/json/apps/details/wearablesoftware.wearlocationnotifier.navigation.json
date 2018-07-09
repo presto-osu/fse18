@@ -1,0 +1,52 @@
+{
+    "title": "Places Nearby & Nav for Wear",
+    "summary": "Get notification on your watch for places nearby. Goto place via navigation app.",
+    "icon": "//lh3.googleusercontent.com/mDAnKBFGgGmsgAXWx1SD1-_Uar3vEa6CE_SZHnXvUynnzUj_n3bdHzhb5p8nSYDBujA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.2,
+    "reviews": 20,
+    "developer": "Wearable Software",
+    "developerId": "9027257451638050761",
+    "developerEmail": "support@wearable-software.com",
+    "developerWebsite": "http://www.wearable-software.com/",
+    "developerAddress": "Wearable Software\nCedric Larrat\nGrötzingerstr. 73\n76227 Karlsruhe-Durlach",
+    "updated": "April 12, 2015",
+    "version": "1.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "This app is a navigation and places discovery tool especially designed for your android wear watch helping people to find places nearby. It displays places near to users current location based on selected interests. In addition you can set the search radius for finding new locations. Navigate to point of interest via navigation tool.Features:- Discover new places nearby- Set specific search radius- Search automatically for new locations in background- Navigate to point of interest via navigation app- Set individual location filter based on your interestsPlease note:-Make sure your mobile is compatible with Android Wear.-Make sure to pair your phone with the wearable device with help of the Android Wear app.Do you have any suggestions for improvement? Any ideas? Any issues with the app? Please let us know.",
+    "descriptionHTML": "This app is a navigation and places discovery tool especially designed for your android wear watch helping people to find places nearby. It displays places near to users current location based on selected interests. In addition you can set the search radius for finding new locations. Navigate to point of interest via navigation tool.<br><br><br>Features:<br>- Discover new places nearby<br>- Set specific search radius<br>- Search automatically for new locations in background<br>- Navigate to point of interest via navigation app<br>- Set individual location filter based on your interests<br><br><br>Please note:<br>-Make sure your mobile is compatible with Android Wear.<br>-Make sure to pair your phone with the wearable device with help of the Android Wear app.<br><br><br>Do you have any suggestions for improvement? Any ideas? Any issues with the app? Please let us know.",
+    "histogram": {
+        "1": 4,
+        "2": 3,
+        "3": 4,
+        "4": 2,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/5Mr8TVYB-nlk6d_q33ZoPMNz4w9NzSKVcSPdxpXLw5X2JiFL6Ou4GJmDUCphv3Uw9mJE=h310",
+        "//lh3.googleusercontent.com/3kTbVSh3IEyNuDHQj-cCBkq-TXR4JMnFHGey20aNR8QQBgdDWwFHPZYZNqQjBvk73s6K=h310",
+        "//lh3.googleusercontent.com/vO2b2qukzLbyhvtnDWebUY3akKXvenQWyhErU4nlbkqtX170htg-JV463c-wg8-1qvg=h310",
+        "//lh3.googleusercontent.com/_6Ls07eGeB4J4dusWakou63kkCo6OAUP2J7LIZlvd7qr8h7IWd3s-tdg1Ya-3E2_b4I=h310",
+        "//lh3.googleusercontent.com/eC6EipoIz5GoSnNzek8W9kMnHNmX6qSmWNQhk32NAL3JJfSRvSlIcjRFCwy-b1mN1FE=h310",
+        "//lh3.googleusercontent.com/-2YzDlcSWrjOOxKo70NATFkiCwGh0kzN9GhpfwY9fIZcQgS4mWfTUNqFsYHFHcwjpw=h310",
+        "//lh3.googleusercontent.com/XWg5uv4aRwEzCW-Kro3YicDOsSe2rkHl1pKuBOXbvfmRbEdxfZZuF2n6UK8BbrnWZdU=h310",
+        "//lh3.googleusercontent.com/qN4a3ER4CWE4wuEhsIKR_4tKz0RflY3n95qe0Ux4Ty_KCV4GkJMO_zuyUgGA3TPXKLI=h310"
+    ],
+    "comments": [
+        "constant GPS battery drain when indoor",
+        "Unfortunately navigation doesn't work even if I off google maps navigation in settings"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wearablesoftware.wearlocationnotifier.navigation&hl=en&gl=us",
+    "appId": "wearablesoftware.wearlocationnotifier.navigation"
+}

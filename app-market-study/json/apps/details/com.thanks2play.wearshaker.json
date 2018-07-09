@@ -1,0 +1,52 @@
+{
+    "title": "Wear Shaker",
+    "summary": "Custom vibrations for your wear device! Have a different pattern for every app!",
+    "icon": "//lh3.googleusercontent.com/N7Q6Ra-6_VAvwK3UP_nkqERjKbfE11BMNjt0Aov3NVoaS8uFTKeLSshfO-ahYJzWm9w=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 29,
+    "developer": "Thanks2Play",
+    "developerId": "Thanks2Play",
+    "developerEmail": "brady.larson.development@gmail.com",
+    "developerWebsite": "http://www.thanks2play.com",
+    "updated": "January 4, 2016",
+    "version": "1.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Tired of missing notifications on your wear device? Then Wear Shaker is perfect for you. This app allows you to customize the vibration patterns for every app, so you can know what app is sending you a notification before you even look at your wrist.You'll be able to select from a list of all the apps that you have installed. Once you select an app, you'll be able to add a series of pauses and vibrations for that app.NOTE: This app sends the vibration pattern AFTER the normal notification. If you only want the custom notification you can block notifications from that particular app in the Android Wear app, but then you'll only get the vibration pattern and not the actual notification on your wear device.",
+    "descriptionHTML": "Tired of missing notifications on your wear device? Then Wear Shaker is perfect for you. This app allows you to customize the vibration patterns for every app, so you can know what app is sending you a notification before you even look at your wrist.<br><br>You&apos;ll be able to select from a list of all the apps that you have installed. Once you select an app, you&apos;ll be able to add a series of pauses and vibrations for that app.<br><br>NOTE: This app sends the vibration pattern AFTER the normal notification. If you only want the custom notification you can block notifications from that particular app in the Android Wear app, but then you&apos;ll only get the vibration pattern and not the actual notification on your wear device.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 3,
+        "4": 7,
+        "5": 15
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/vA2t67-fR71k2qBxVzHb2wuSE5s_yDEGBBfmLxWR_QcKARl4_jmCeo-R4KGDYpJwKh8=h310",
+        "//lh5.ggpht.com/iiVTJG1WIUzTCDd3UV9Bwwu25J6qZ7XFmeTZ29gehdjsnTFjYVq4MqyFf6uxw0FwxhA=h310"
+    ],
+    "comments": [
+        "doesn't work at all with Sony Smartwatch 3",
+        "What I needed! My LG G watch's vibration was too weak and I would miss notifications. Now I never miss them thanks to this app!",
+        "Works well? Been getting a lot of random vibrations.  Gonna uninstall to see if this app is the culprit.",
+        "wear Shaker So far so good. Love the custom notifications.I can't believe this is only 65p as its worth a lot more.",
+        "Great Exactly what I needed on my Moto 360.",
+        "Vibrates even when interruptions are set to Priority Only and None, and when Theater mode is on. Could you update the app so that it only vibrates when interruptions are set to All."
+    ],
+    "recentChanges": [
+        "Fixed issue where it stopped vibrating on the wear device.",
+        "Crash fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.thanks2play.wearshaker&hl=en&gl=us",
+    "appId": "com.thanks2play.wearshaker"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Metrobot",
+    "summary": "Metrobot helps you get to know the time of departure of the next metro train.",
+    "icon": "//lh4.ggpht.com/ojmXq1BIa2sK-h13mHbl6zHanGTDKzm4E9RndDaFGEBG3JF9_KI-erqn0uwt_PQnAHvD=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 79,
+    "developer": "STRV",
+    "developerId": "STRV",
+    "developerEmail": "hello@strv.com",
+    "developerWebsite": "http://www.metrobot.cz/",
+    "developerAddress": "Na příkopě 859/22, 110 00 Praha 1, Czech Republic",
+    "updated": "April 7, 2015",
+    "version": "1.0.4",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "This app currently only supports the metro system in Prague, Czech Republic and the San Francisco Bay Area BART network.Metrobot lets you know when the next metro or BART train is departing from a particular station. All it takes is just one click. You can see the exact departure countdown in seconds, so you'll never miss a train again or rush for no reason.The app automatically picks the right station based on your location. If there is no location provided, you can manually pick the station yourself.The Prague Metrobot shows you a map of all city metro entrances. It also lets you purchase tickets and manually search for a particular station.The BART Metrobot shows you a map of the entire BART network. It also lets you manually search for a particular station.The app is compatible with all Android Wear devices.",
+    "descriptionHTML": "This app currently only supports the metro system in Prague, Czech Republic and the San Francisco Bay Area BART network.<br><br>Metrobot lets you know when the next metro or BART train is departing from a particular station. All it takes is just one click. You can see the exact departure countdown in seconds, so you&apos;ll never miss a train again or rush for no reason.<br><br>The app automatically picks the right station based on your location. If there is no location provided, you can manually pick the station yourself.<br><br>The Prague Metrobot shows you a map of all city metro entrances. It also lets you purchase tickets and manually search for a particular station.<br><br>The BART Metrobot shows you a map of the entire BART network. It also lets you manually search for a particular station.<br><br>The app is compatible with all Android Wear devices.",
+    "histogram": {
+        "1": 3,
+        "2": 3,
+        "3": 10,
+        "4": 10,
+        "5": 53
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/yPFETOewvZTcFDrkf4_9nAXoWdOmsobN1GM-0zVGWzrz28nDs7iWPVgSuuP3fxG6hzk=h310",
+        "//lh3.ggpht.com/VrCmc6BN5VJeg_2ueEqDu15pNb_HYqHheLecnygjmGncgvGyHFMQAP29y7NjGvidoVc=h310",
+        "//lh6.ggpht.com/6nDWCTyGv4yep5LTXMcHtVPu7mT0iROQcHP9X8BMri3abfsE9TuQz2XJH0gCMgbZymk=h310",
+        "//lh3.ggpht.com/veGCtLjPgohZlB3JH0WT-NV8VuKPba2xGhu4rfzjqPIWEVi0SJY0t6-atxhdQlSkfTCt=h310",
+        "//lh6.ggpht.com/GxS0oUmzDmcHUZkKNTSlIe6IbpPsC8fGW8-4kBTnmf826ZUN_q1wTWVCK4paiFi-x8Q=h310",
+        "//lh6.ggpht.com/q8UG5-LVJ1h_GZe4uCD5sgOgr79nEpqJ75XAbdiT7vZ2tfIgWZshU-Cl6IHCCb8oBt0=h310"
+    ],
+    "video": "https://www.youtube.com/embed/qaYqBusEUCg",
+    "comments": [
+        "Great idea, but a bit limited. Exactly what I have been looking for. However, to be useful for Prague it should have buses and trams as well. The metro goes so frequently that the use of the app is very limited otherwise.",
+        "Excellent app, I've been using this on my commute to and from work and my shift times sometimes mean I travel when there is only one train every 10 minutes.   The Samsung Watch support is excellent but do you have any plans to extend this to Samsung Gear devices? I have a Gear S3 I would love to get this app working with.  Cheers.",
+        "Inaccurate For the station closest to my house, it's off by about 4 minutes. Just missed the train to work. BART says next train is in 18 minutes, this says 23.",
+        "Signál Skvělé, díky vývojářům! Škoda jen, že je díky v podstatě nulovému pokrytí metra připojením do Internetu aplikace nepoužitelná :-(",
+        "Great look and functionality, but as others have said,  you can't trust the schedule for BART.  I missed by train because of it.",
+        "بسیارخوب است دست شمادرد نکند"
+    ],
+    "recentChanges": [
+        "- New stations of Prague metro line A"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.strv.metrobot&hl=en&gl=us",
+    "appId": "com.strv.metrobot"
+}

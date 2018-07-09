@@ -1,0 +1,61 @@
+{
+    "title": "HealthTap",
+    "summary": "Get immediate help from 108,000 top US doctors, 24/7 for advice and treatment",
+    "icon": "//lh3.ggpht.com/spr0yAqPeoEKxbxj8pOm5J0KGIR5_KgKwiti2jiNcxg3_Lgmci45V9U-4P39LFKkSiY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000,
+    "maxInstalls": 5000000,
+    "score": 4.4,
+    "reviews": 16359,
+    "developer": "HealthTap",
+    "developerId": "HealthTap",
+    "developerEmail": "support@healthtap.com",
+    "developerWebsite": "https://www.healthtap.com/",
+    "updated": "February 4, 2018",
+    "version": "5.3.19(prod)",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Get instant free answers and help from more than 108,000 top doctors right from your phone or tablet. You can also pay for a virtual consult to video or text chat with a primary care doctor 24/7 or a doctor of your choice during their Virtual Office Hours.HOW WE HELP YOU:(1) Get immediate, trustworthy, personalized free answers from the world's largest library of doctor knowledge. Over 6.2 billion answers served to hundreds of millions of people!(2) Send your own, unique question and get personalized doctor responses quickly from doctors in 141 specialties.(3) Video or text chat with a primary care doctor for advice, treatment, prescriptions, referrals, lab tests or a second opinion—NOTE: This app will ask for permissions like location, network state, and system status to help offer you personalized, real-time health information. You can review the full list of Android permissions at: htap.us/2b8hh9/",
+    "descriptionHTML": "Get instant free answers and help from more than 108,000 top doctors right from your phone or tablet. You can also pay for a virtual consult to video or text chat with a primary care doctor 24/7 or a doctor of your choice during their Virtual Office Hours.<br><br>HOW WE HELP YOU:<br><br>(1) Get immediate, trustworthy, personalized free answers from the world&apos;s largest library of doctor knowledge. Over 6.2 billion answers served to hundreds of millions of people!<br><br>(2) Send your own, unique question and get personalized doctor responses quickly from doctors in 141 specialties.<br><br>(3) Video or text chat with a primary care doctor for advice, treatment, prescriptions, referrals, lab tests or a second opinion<br><br><br><br>&#x2014;<br>NOTE: This app will ask for permissions like location, network state, and system status to help offer you personalized, real-time health information. You can review the full list of Android permissions at: htap.us/2b8hh9/",
+    "histogram": {
+        "1": 933,
+        "2": 355,
+        "3": 1020,
+        "4": 3172,
+        "5": 10879
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/xXrXcrRsCteGEUYUK6XNZaz1rM9gMyRbWs-wv9pDwreZzYNwTGBrXr6b36-mO_N8Sbw=h310",
+        "//lh3.googleusercontent.com/4YXsX-c22Vpz0PtuLnm_053sSFhxjrspq0vJcS63XvSQOAfLFHxFUPZaASXzlRMYxQ=h310",
+        "//lh3.googleusercontent.com/MSBW3jUFWaAdhQIOs4rKsFg2eXi-p8kzAQl4_T1PfB4s0kXbiFutmhRW3p3_yHnXHjB3=h310",
+        "//lh3.googleusercontent.com/X05QKDUf-_b39sLCk1eEiTXNU0Y1JsYIPMfZm6JRnpTTMD8FwehsEw-VB3QNTr7wlV8U=h310",
+        "//lh3.googleusercontent.com/yF0ow5bOaPJ9n_f6fQQfBBN9TO8NLcSKYZ9ucZ1Est0PpnDGbiD9dTBB-8bxYUTK=h310",
+        "//lh3.googleusercontent.com/j_hJkXeUFvjM3l4nH92_IyvGtxEeDVa0Dak4ZFBYXYglaVpPrtkrz74Nig_hfn_d4Vcc=h310",
+        "//lh3.googleusercontent.com/uITAgvbvbPIBLz0Uw2DXz0pwL_8otPEeWHskA-OU0UtGVjfKALC_zGHiTDyJQWNV0eM=h310",
+        "//lh3.googleusercontent.com/Z6GNokQBXozcFzEycT36F8o3927g0_fO21WRZJEf9XZIr0sknpGOYr5S886VwF_-XdBn=h310",
+        "//lh3.googleusercontent.com/wsRruhVYujI4emFCikEdJJTo5egY3yZslFTpBxP_hEHaZtjSBSO77a6OlJJm6XIynog=h310",
+        "//lh3.googleusercontent.com/UnmATufJhi19a62EfH2wOZ1mbJa19jCDv0Llj15yetonyUS5Bs8egQ5G1ebDaMF6Fg=h310"
+    ],
+    "comments": [
+        "The actual appointments are costly and I was not able to see a doctor from Colorado via video chat for diagnosis",
+        "I don't care for the app too much",
+        "Great app to get  info from dr.s",
+        "Very informative",
+        "I love it. Didn't have to go to the ER. Very helful!!",
+        "There's some explanations on side effects, which is what I am looking for. Also they mention another app that tracks restaurant foods by ingredients such as milk. I want that app, but apparently it is only available for iPhones and I have an Android (Samsung Galaxy S7). Perhaps they will make the app for us Android users asap."
+    ],
+    "recentChanges": [
+        "• Various bug fixes & enhancements",
+        "Thanks for all your love and helpful feedback! Please keep it coming :)",
+        "HealthTap saves you time by connecting you to top doctor expertise quickly and conveniently. If you found the service helpful, please consider using those extra few minutes to review our app!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.healthtap.userhtexpress&hl=en&gl=us",
+    "appId": "com.healthtap.userhtexpress"
+}

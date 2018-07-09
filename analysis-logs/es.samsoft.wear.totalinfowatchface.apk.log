@@ -1,0 +1,77 @@
+Soot started on Thu Jun 21 13:03:36 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: es.samsoft.wear.totalinfowatchface.service.ServicioMain
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/es.samsoft.wear.totalinfowatchface.apk
+[INFO] MySceneTransformer: ############## es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   51
+[INFO] FlowGraph: @@@@ Total Methods: 173
+[INFO] FlowGraph: @@@@ Total Stmts:   2699
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new es.samsoft.wear.totalinfowatchface.service.ServicioMain$Engine]57,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1_5=[-2236963], $r1_6=[-2236963], $r1_7=[-2236963]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [ffdddddd]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 3.561000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:03:43 EDT 2018

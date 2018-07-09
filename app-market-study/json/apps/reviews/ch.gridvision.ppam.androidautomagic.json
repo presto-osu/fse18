@@ -1,0 +1,414 @@
+[
+    {
+        "author": "",
+        "comment": "UPDATE: After months of performing flawlessly, since the last update, none of my flows are working any more. They're fine if i manually 'Execute' them, but they're no longer firing automatically.  PREVIOUS: I wanted to create a simple script which would set my phone's screen lock to use a PIN when I was at home and a password  when I was elsewhere. Having previously tried Tasker and Automate; both of which seemed only to offer the option to enable/disable screen locking entirely, I didn't hold out much hope for this lesser known alternative. But the reviews were encouraging and I thought I'd give it a go. 15 mins later and *Hooray!* I now have a phone which uses a simple PIN no. at home (I still want some privacy!) and automatically switches to a stronger password when I'm away from home. UPDATE: I reinstalled the Qpython plugin and Automagic picked it up the second time. So all good now and another star added.",
+        "date": "January 9, 2018",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRWNLczlFdVVDYzFPUTdNLS0yRHo2WGpsVm1jRFRCbGVCck1USUVnVTgzdVk4emtYOVBBMXEzTzJGZHc0RXR1eVFOQzNXbHJYOVdBaldxc1E",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nPlease ensure that Automagic is allowed to run in the background and that the status icon is displayed so the system does not stop Automagic. Also check that no task killers are running. Also restart the device once.\nPlease contact me at info@automagic4android.com if the problem should persist.\n\nRegards,\nMartin",
+            "date": "January 9, 2018"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "P\u00e9ter Poms\u00e1r",
+        "comment": "I started to use this as a replacement for good old Llama. It could be alright but the location based triggers still don't work every time (even though it is set to 'modern'), periodic timer is unreliable a lot of times and the app started to crash/close a lot lately although it is set to protected in Android and should be always running. As excited I was when I bought it, that disappointed I am now \ud83d\ude10",
+        "date": "December 24, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRW5WbS1uZzY4cnl0b0JyNXdWNV8yTzk0dEpZdG9QbmhEckZ3UWlpOExETG1yY3V2WjdjdW5LRmVQaUhNbWNNUTNYZFVnUjVILTJEa1VqZUE",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nPlease try to switch the method 'Classic' to 'Modern' in the regular location-trigger respectively to 'High Accuracy' in the periodic location trigger if you have not tried this yet. 'Modern' uses Google Play services location which can work better on some devices.\n\nRegards,\nMartin",
+            "date": "September 10, 2017"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Mitchell Axtell",
+        "comment": "Hands down the most useful app on my phone.  Mute calls/volume at work, log battery level to check rate of discharge, find my phone flow- most features I wish my phone had I've been able to make!  The developer's response to user questions is exemplary- Martin is very involved.",
+        "date": "December 2, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRWFCTXhRUXhqaGZwTDF2ZjBpbzlLdDkwajNDU1BvZ0l1XzlEbnhrNWVzY0RVU2pycFVMbzdWN256aV9xTE42QVRkUHZWNE9SSV8zdERHWkE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Michael Ritchey",
+        "comment": "Really great app. Using it with mi band tools, sleep as Android and DI.fm radio.    I have created 3 pretty involved flows. One that watches sleep as Android sleep start. Then posts a status bar notification that mi band tools reads and changes mi band to continus heart rate monitoring.   In the morning sleep as Android alarm fires silently. Automagic kicks off di.fm radio with some conditional loops.  Adjusts volume with slow raise.    Once I stop sleep as Android. Automagic then stops di.fm from playing as well as closing the app and adjusting a few things back to my preference.  All without root.   I will say non root did make some of the things I want a little more complex but I was still able to mostly achieve my goals.  One thing I am concerned about is since I am using  accessibility functions. These will most likely be broken once Google pulls. Apps that allow this.  :(",
+        "date": "November 16, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR3BxcHZJVk1jNzNXRllwNDZyUXRPQWRORlZDbTNJVjcxUW8xWVd1eFlOUlhqNGhtSzdjaUI4cmdlVUswRG5Wc2k0UU1tUUhnYS16dHoxTkE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Miller Dunlap",
+        "comment": "I *wanted* to like it, wanted it to replace AutomateIt. But so many of the goes don't seem to actually work. \"Turn off Bluetooth when device is disconnected\" for example, does nothing. \"Toggle WiFi when arriving/leaving home\" - nada. I'm disappointed.",
+        "date": "January 31, 2018",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPSGZKMmUwZUV5dlowaVY3SWVTWGxHWGxCdzJxYkRHN0NsbHpuNWxxb2ZERE5kYWdJcV9jdDh3TnJubENTajluQ25WRFdpZ0FPUE1nbVVpUVE",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nPlease contact me at info@automagic4android.com with a description of your flows so I can check what the problem might be.\n\nThanks & Regards,\nMartin",
+            "date": "January 31, 2018"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "How do I get rid of the double service notifications on my Google Pixel? I have one that doesn't show up in the bar unless I pull it down (I'm ok with this one) and a second one that displays an icon all the time.",
+        "date": "December 5, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRjNDZUVWMEd6ckRwMF9iWVZBcHhvaHhkZ21WTmd2N2NQaTRfS25HYlhoUVBBY05jbW1xMFVvT2ZkTGpGVWJRUzlaMWcwREotcS1NSnVOTFE",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nAutomagic should only show one notification by default. Please enable Automagic/Settings/General/'Icon in expanded status bar' if you want to hide the icon that would otherwise be always visible on the status bar. Please contact me at info@automagic4android.com if this should not resolve the issue.\n\nThanks & Regards,\nMartin",
+            "date": "December 7, 2017"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Sean Ellis",
+        "comment": "I feel the need to come back and revise my previous review. This is a fantastic alternative to Tasker, I may even say better in some ways. I've recently converted almost all of my tasks over and deleted Tasker along with the several plugins I had installed for it - since most of what I needed the plugins for is actually baked in to this app already... Tasker had been starting to act weird for me so I decided to give Automagic another go before I look at other alternatives. It took a little getting used to, some of the ways you have to do things is imo not very intuitive - but once you figure it out you just know and it becomes natural. It is actually really awesome, low footprint and much prettier layout if you're into that kind of thing. The scripting is very powerful and enjoyable to use. Though I do stand by what I said about support being practically non existent - when I run into problems, I want to do a Google search, get a little insight into how to achieve what I want to - learn something along the way and carry on. I don't want to have to email the developer directly and wait whoever knows how long for a reply. You probably get thousands of emails a day, I shouldn't have to be bothering you with that kind of stuff - but like I said - information is scarce. The forum is closed off, new registrations need to be approved or something before you can even post - so have to wait to even be able to ask a question to begin with at the official source of help. The subreddit is an absolute ghost town - almost all threads remain unanswered there. Google+, I don't really see anything here. There's maybe 2 communities - and one of them is Italian so I can't use that. I almost settled on the 4 stars because of this - but I'm enjoying it a lot and it seems very reliable so in terms of such a robust app with limitless possibilities it is definitely 5 star. I just wish there was better information out there. Nobody seems to know what Automagic is - and that is a damn shame.",
+        "date": "February 13, 2018",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR0NYdnJsZ05SalRmSEN4QmdIVXVxb2RzMGs2V3NkLUo2ZVNjLWhCUW5mXzc3SHkxRUJpX2lWanYzYjByenpJcUZGZGJodGZsd01PR0J3SXc",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nThat's not really accurate. You can get support by mail at info@automagic4android.com or in the support forum.\nI also grant refunds outside of the regular Google Play refund time window, you just have to ask.\n\nRegards,\nMartin",
+            "date": "November 16, 2017"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Sveto",
+        "comment": "Just bought this app and it dont work. Just says Unfortunatley. Automatic Premium has stopped. Dont know why. Can i get mony back? My phone noa h8 Android 6.0.1",
+        "date": "January 14, 2018",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPSDVqOXo3UEIyRjdnX0FUanhaMW1sZHlpdDBCSVNjOUFETHVqRHh0WTN6cXF3Q2c0VFpUNXAtWjlfSGJLbl9uVnpRcUlsdFBzSU93VDZ2bEE",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nPlease try to reboot the device once and to uninstall/reinstall Automagic from Google Play one more time. Please contact me at info@automagic4android.com for a refund or if Automagic should still crash.\n\nRegards,\nMartin",
+            "date": "January 14, 2018"
+        },
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Amit Patil",
+        "comment": "The ONLY alternative to Tasker. Even better. Moved all my stuff from Tasker to Automagic. Supports tasker plugins. Technologically more advanced. Regular updates. What more you can ask for?",
+        "date": "November 26, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR0NJUnJ6X3JxUmhSMXVHYlpDbU5OQ3lic3dLakhIWGpDMXJSb3gzY3Z2REF2QkQ5czA2MEJjckliVkFOX09mNmNVQ0x3aVNXcTVON1ZfSWc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Shwetabh Kumar",
+        "comment": "After the latest update the connection lines don't appear even though if i connect again i get the message connection already exists.",
+        "date": "February 2, 2018",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR1dOVDBKMUR5VER6Nlh2VVEtMHpMV3FobXJQbUdfTEZibTB6dmJPaUdQcTlSeHNVdUl2bkg1MG5nbWJoRlQ3X0hWZXRRekotMGE5V0ZFZVE",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nPleas try to restart the phone once. Contact me at info@automagic4android.com if the problem should persist.\n\nRegards,\nMartin",
+            "date": "February 4, 2018"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Gianluca",
+        "comment": "The best app I've ever downloaded, period.",
+        "date": "December 11, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRUFNYW5kN2VCMVNIWjUzLTZSQUNuMkltdXY2N3RwaHE2TzgxQ0RabFEydFNjRER5LWdHY2t5RlRUMVFwenRvZ2xqaUttVUFEcnlvWEZTd1E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Janrey Licas",
+        "comment": "It's a bit easy to understand, yet you can be more complex about it. One thing that I can't understand is how you apply Int Variables. Documentation is what I got troubled. No such concrete examples with the use of the following variables(Some). In a other way, it's so fun to use and so good. Makes me feel alive and becoming a power user xD  I recommended thid for every uder who likes automization and etc xD  10/10 would recommend.",
+        "date": "September 20, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRk5MbVo3ZGxXX2RIWmdTTXM4bFNiODBEQzlzS2RMSmdxdl9uc0ZmSXhWUmlxczB4X252YUZZRzdBaTlBc0U1UTVSTFBTdkU0NWFYWWJNVGc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Miles Whittaker",
+        "comment": "Just used this to hide the annoying Android Oreo notification. Everytime I create a new flow, I'm blown away by how easy to use and powerful this app is, even without root. I'm surprised that Tasker is what people talk about when they think automation. This app has a 4.8! That's not an easy achievement!",
+        "date": "November 4, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR2xteTQwLVdNSTEtUXBkRzUwZTJneU5kUFlRa0NFY08wTjZqa3pHNTU0WDRWTzZadUhPaFpLbW5YSmJON19mTk1TOFlsWFF5RVNhbW1FVmc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Digital Stone",
+        "comment": "I've tried Trigger, Tasker and especially Automate... But Automagic is the very best, hands and feet down. I struggled for months with several complex automations in Automate(busy life). But this app, i got used to and rebuild everything and more within a week or so. Global variables? Action script? GUI? Hell yes to all.",
+        "date": "October 22, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRU5qNWU2VDV0VkIzd1RYTldvWEJhYXZNLWxERC1hZzZMRy1VLXhLVG15c084ZTBlTWQxam1yU1VPcURRSDNmcE9vNHBlOGZWV051NGMydGc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Geo Pertea",
+        "comment": "This has been a great joy to play around with and get control over many aspects of my phone -- especially as a programmer I am amazed at the possibilities this app provides.  As for non-coders, I believe that the graphical flow view should be fun to learn and experiment with. The forums are very helpful when looking for recipes for various use cases and the author is also getting involved and active on the forums, while maintaining the app to keep up with the Android updates. This app is also a show case of Android's openness and versatility (esp. if you have root, but that's not mandatory) and one of the reasons I could never switch to a closed system like iOS (there's no equivalent for this powerful app in that ecosystem).",
+        "date": "October 2, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPSFBFcVBrU3o4elA4dmotNnF3YnN4aVU1NTdpZndwY0xFaU1EbUJGRWl2dXhYOF84cDVmREFhd3dIQWxxLWR5bld3YXk2YjlTeF9ZVnF0Snc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Andrew Raymond",
+        "comment": "I can't imagine going without this app. Having an Android device without Automagic now seems as absurd as giving up my smartphone for an old flip phone.",
+        "date": "September 18, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRlpUeWpqdUM4WlpOdDNQeGRRbklYTW9vTzl0Q0UzM19wdDlvMnctVU9tQTBGT3hJakpqSERBcDgxblR5QWlBXy1hMVNMVTNfY3VkRnBwb0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Jan Christoph Uhde",
+        "comment": "Super easy to use! Works unlike similar apps that I have tried before. The flow diagrams can really be understood by 8 or 80 year olds, so you can express some not super trivial conditions in almost no time. I use this app to do some time recording based on the GSM cell I am currently in. For work I set some additional network options and lower the ringer volume. Perfect!",
+        "date": "November 13, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR3h1Vm1OalpjX3p0WklhYXRLOEhrMV9GYTdrM2pJRHpVUm1aRTBjMTYwSG1uaTZmTjJZdEpDODA1NS13N0xSdzlnRmRTeHlaNmU5WlRfOWc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Matt Bramley",
+        "comment": "Amazing. Use it for a variety of things, changing phone volume when car/headphones dis/connects, quiet at work, status icon when I'm on call etc.",
+        "date": "November 17, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR0w2aDBtZUxpZnA4c01CZFN1YkZaWG1ZdWxtZ0NqWXJQQVZTVU9CaFhmREp0X293ZktsdzFSZ2JiUFRuYW9SeFdkblAybVZVMndQOFlMRUE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Ptrck Caresosa",
+        "comment": "If you're a visual learner then this app will be the perfect fit for you. Still the best",
+        "date": "September 24, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR0xVMm10QW03eXFZNF9TcVZickVVVDAtRjVtaG4zLVZ0bV9NeWlmZkUzRUxfamdoaGt2Q2dweVlKUUxmWk5PcWtaXzNOM09fX0FUZ0dCTmc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Robert Tufeanu",
+        "comment": "Bravo, in sfarsit acum avem posibilitatea sa adaugam si comentarii...",
+        "date": "September 20, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRTFDOEF1WlcwUWNvUWctcXV4NnhVZEZiT0hCWFRsUEVmV3JaSy1qQkh4Rkc3MGR0OENMTDVHbFdFZlhtYUtMcVVPdlJMREFHNG80Q1AtR2c",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nPlease reboot the device once and check that battery optimizations are not enabled for Automagic and that no task killer apps or memory optimizers are interfering with Automagic. Contact me at info@automagic4android.com if the problem persist.\n\nRegards,\nMartin",
+            "date": "May 30, 2016"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Geert Van Camp",
+        "comment": "Powerful and easy to use, great app",
+        "date": "November 16, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR3gwaVJ2d2l1TDF3LWhubEFFV3pRWXJVLXBuaXYwMVd6ZmNVNXg3WFZMZ1puZFhBSUFWR28zRXpmQzRyWGNrTXhweHdZamZ2SGY1dFF3T0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "Best in class!",
+        "date": "November 17, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRWFDeTNIU0JTaWdqa1JIYTU0a1VJdUtabk1yZF9hcVJrNG1kUWtsRDhtWlI1dTBnR2RySXJRV0JVbGZFTUczTlFUczZXMGJuc0NBTzFNT0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Sergei Shir",
+        "comment": "Excellent app",
+        "date": "November 16, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRnNWV0Y2UklwWnZUVTFFbVdMVW9YQVpxeTBqZzRDY2dQNzU5ZENWZHlpR1JnRDcyTTd2TUU3ZHI3bTZLSWVheDJtQm13N1BwaHVGc1p6WVE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "Easy for beginners, complete for people that used to program. (And best forum ever: problems solved in less than a day)Absolutely worth to buy this app.",
+        "date": "September 11, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRktnWTZ0cTJNZ3BKV3ZmUmdic2lFdzFvNGtYYzRSRS1zSkRDYU9hS09uVUhzRTRVWVJET1R4cldPVl9kWmtrVHFVWHdrV3NWTFZkZ0JJaEE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "da m",
+        "comment": "Tasker user of 4 years. I've been missing out.  v1.34: flow NOTES and DESCRIPTIONS! finally",
+        "date": "September 10, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPSC13RmxHalBzSmQxd3ppMFVCcXJOaVdUOTlnUWJwanpoaXp6NnZVYXljMVJkZVItME9TZzZNYmxKc3VSM3JSWGhVNEM0XzhrZEpuX1JSb0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Erick Rodriguez",
+        "comment": "I was surprised of how intuitive this app is. After installing this app and without much knowledge I was able to create a flow that allowed me to open my calendar follow by tasks with conditions to activate from 6 am to 8am, when turning the screen on for the first time. That meant that if I turn the screen off and then on again it wouldn't trigger till the next day. With No much knowledge. Now that's impressive.   Update: WONDERING if this app allows to set scenes like tasker. Basically a pop up notification that is interactive.",
+        "date": "June 5, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRVlIdHZrS19CZUVjVThFQ2FBR3phOWxscWFzbklNZUdkRTQzMXRQaUlZY0FzRE16OFpvMlA0SXhYcTlpUWF1a194ZEppX0dYRHFzV0toYUE",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nThanks for your feedback!\n\nAutomagic does not provide fully customizable dialogs and activities but you can implement a lot of features with custom widgets and show the widgets as overlays (see action 'Show Custom Widget Overlay').\nUsing action 'Input Dialog' or condition 'Confirmation Dialog' might also be an option.\n\nRegards,\nMartin",
+            "date": "June 5, 2017"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Markus Birth",
+        "comment": "I was a Tasker user for years until AutoMate came up in the news as revolutionary with its flow charts. After some research I also found Automagic and of those three, it's the best solution for me. Modern interface compared to Tasker, lots of integrated features where you needed a Tasker-plugin before and much easier for complex tasks than AutoMate.",
+        "date": "May 20, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRWRwd3hoZzBnb1U3NmRfT0NtaXZlOURKdTU1ODJuaWFYZ3A4Y3ptQjVMRFpENWRrdFVDVjhNMkpjc25NNWtMSGYzTExnOS1qc1BOZHQ4Q0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Michael Rocks",
+        "comment": "Good, useful app and fun to play with. Fyi turning on accessibility service reliably causes FC's in Chrome. Turning it off remedies the problem. Fwiw I'm in a custom ROM, 7.1. x. If Dev wishes I can submit a log",
+        "date": "July 30, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRXlhdEYtWXZqMHhpMDZmTjFncGNNNlFfSWdsTE9vbU5SallEdDJFWUoxWDBMZnJ2RVVLOEUxdzREUmFMR0RDaEdIUUpKZzBqbUp2eEpybnc",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nPlease submit a crash report so I can check what's going on. Could you please also note the version of Chrome and the name of the custom ROM in your bug report.\n\nThanks & Regards,\nMartin",
+            "date": "July 30, 2017"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Barry Ing",
+        "comment": "I've searched for a really intuitive app to automate tasks on my Samsung Galaxy S7 but all appear pretty clunky... until I discovered Automagic. Having used the trial version and created two macros in minutes I purchased the full version without hesitation. Five star!",
+        "date": "July 30, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPSF96dm9hdFMyZ3hpVTBTUTctaU9taDE3X1o5YmlJckRnalFvV2NwTlJNeWNOU2pEM1RXYTZ5OVUxTDZBVzMwNHJXeTc3dmxzdXgxME80eXc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Anba R",
+        "comment": "I also have tasker. And not using both because I don't know what to automate in everyday use. But in my testings I find automagic simply amazing! Maybe I am either too busy or perhaps plain lazy to put this app to better use.",
+        "date": "May 20, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRXRVakdrMDZsR3VwZmVNVjlSZ0UxRVR2bXc2cjJyM2Jtd3VFbnRqU1pfeXFSUE5YU2Jfa3AxMHhOWXpRU29wVzQyNG9xaUV0eXVHQWdaSmc",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nAutomagic can not do anything when Automagic is not installed. Are any other automation apps installed?\nPlease contact me at info@automagic4android.com, I'll try to help.\n\nRegards,\nMartin",
+            "date": "January 17, 2017"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Robert Groom",
+        "comment": "Automagic is without doubt the best of all the automation apps (I tried most), so many triggers, actions and the amazing flow diagrams for routines. The recent update allowing custom widgets to be draggable allows awesome possibilities, I made my own mini keyboard for programming. I designed a single small widget which allows complete control of my device, WiFi,  Bluetooth, media player, mini launcher all in one. The developer is helpful and listens to users.",
+        "date": "September 10, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRnF4cDJycXFwMi05MGVwYmY5bzV3OExyZnBUbUJiRm5HYy1waVpOLUVPQ3NjX09BbjgxTWo4NXVDY0ZYbjNweE9rRHpUQ1BUNTkwREszM0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "Bought Tasker a long time ago, but never used it because it was cumbersome to me. Tried again with Automagic and it's great. Now I have flows to set priority ringer at work, disable lock screen at home, run greenify periodically and more. Money well spent!",
+        "date": "July 21, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRXlCeFhQbXFXbEpwX3VmQmVOemNhQlNlb2oyOEh4UzB1d3Z3ZHhJcnJOdGlGQm0xZlVCdXZrYW4ta2p2ZmpZRVkzMkpXWWhjWlRkSTZ6WlE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Sinan Awad",
+        "comment": "Battery hog and inaccuracies in location detection. Edit: blazing fast response from developer, I'll give it one more try.",
+        "date": "August 24, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRjJZZVE3UHBsS0R3NVFvcFdvMHJIZ3dtNU16Ujdsa2VQSURWSnhpVmQyLWpWckFOaVdiUEtXTmJ6NEx0Yk1yNEwxMTJsTGtodHMtc2dGcGc",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nBattery consumption highly depends on the way the flows are structured.\nPlease contact me at info@automagic4android.com if you would like to get help or a refund.\n\nRegards,\nMartin",
+            "date": "August 24, 2017"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Matt Dimond",
+        "comment": "If I could give one app 6 stars this would be it.  The graphical interface makes it fairly easy to learn the basics.  However, once you work with it for a while you realize just how powerful this tool really is. I couldn't imagine my phone without it!",
+        "date": "June 10, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPR1JwNWQ1WXVhX09ldmxhYjZVQUlHQXRoV0RjVFg0bEFSOG8zNFpFWjJxRE5GeDRzdkk5Yll0MHlvNXRXUUZmS0t4WE50Wkx2Q1h5dEE1b1E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "D Norstrand",
+        "comment": "For me this app is an essential part of having a smart phone. Easy to use. Amazing capabilities. Alexa can't create an alarm that plays music rather than a noise, but this can. I actually use this app to control Alexa.",
+        "date": "January 3, 2018",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRU9LdXVqZ2lkbXpVQjVUN2ZsVVR0aVJGalVGQS1UbnFyZHhHdzBVbjJwTHBHcjExNmQ2M045LWdMMHVUd3FZaWgyQmtPUDJ2LUxGMUpzcHc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "R J",
+        "comment": "Not able to select the paths between events anymore? What's the workaround for that",
+        "date": "June 20, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRzJCdXAxVXptbnBhQkd1WFUzdnd5ZWpVdEp6Wmlla2MzMTVfZTU5WG95V3BIQjdIamppWGktckduQndWdmdER3pfTGN1WlFBQVBNUldtNXc",
+        "reply": {
+            "author": "Gridvision Engineering GmbH",
+            "content": "Hi,\n\nSelecting paths between triggers/conditions/actions should still work by tapping on the connection. Please try to reboot the device once and contact me at info@automagic4android.com if it should still not work afterwards.\n\nRegards,\nMartin",
+            "date": "June 20, 2017"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Kev Barnes",
+        "comment": "I like this app, as a former Tasker user, however I can't fathom out how you automate Franco kernel profiles, which would pretty much nail this as a 5 star app \ud83d\ude01",
+        "date": "August 26, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPSGpyQnQ5RExYWnZJa0NJcmQtVTR4Y1NoZ05PVmtmYkNyZUpFVFVoS3hvY2g1R1pZWnYwVVJpcUpfNW5pbTRoekpqWDdLMU03SUJhblFpZ3c",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "R T",
+        "comment": "I love any app that supports me being lazy.",
+        "date": "August 1, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRy1JNGVGYklLREdpczl2eVgtR242QjNIMFVxZU5wckE3UWFfY1ZFWXZnYTV5bWJBdGxJOU55VmZlM1FXMHQ1eHFfcV96N0VLeUdIMkRSWmc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Chris Peterson",
+        "comment": "A great tool with unlimited capabilities. Way above all similar apps.",
+        "date": "June 26, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRXdUZFNZejB5bl81Y3hrTDNLUnpoaHJqWDA3dzZXRXFKMUFCbmZKdFNjNEdfWFR0bFlPNW9WN3VFZV8tcm1XeEpUbnp2RDNxdWZTcVVDaVE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Jazer Ocfemia",
+        "comment": "Highly customisable and intuitive with its visual representations of process \"flows\". Worth the purchase!",
+        "date": "July 7, 2017",
+        "permlink": "/store/apps/details?id=ch.gridvision.ppam.androidautomagic&reviewId=Z3A6QU9xcFRPRWdyb3drc3NXVGsxZzFhUjNnQ20taUZ5Y3ZmNDJJMFE3SnRGUlhyZHNDMHNyYTZMNDFEVHVleGpfeGl0U1RseTFYUUpRRWE2NmFXWnFfbnc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    }
+]

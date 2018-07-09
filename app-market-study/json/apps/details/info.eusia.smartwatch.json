@@ -1,0 +1,55 @@
+{
+    "title": "PIC2ALERT",
+    "summary": "An alert display app for smart watches",
+    "icon": "//lh3.googleusercontent.com/TSqchsVkIW2r8MDrN0FTXFOuAFdwakaS3gKTo3gdGwE2afbucTbaE9UG51HgA0wNtBdh=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 3.5,
+    "reviews": 2,
+    "developer": "EUSIA",
+    "developerId": "EUSIA",
+    "developerEmail": "m.r.manna@eusia.info",
+    "developerWebsite": "http://www.eusia.info",
+    "developerAddress": "871, Begum Rokeya Sharani Dhaka Bangladesh",
+    "updated": "August 16, 2015",
+    "version": "1",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "description": "This is a Pictorial presentation of alerts in smart watch to help people who normally forgets daily routines of taking medicines or others. This solution has a desktop part called configurator. Through configurator you can create a configuration file of alerts with pictures and upload it to this application. Uploading each configuration will reset this smart watch application.",
+    "descriptionHTML": "This is a Pictorial presentation of alerts in smart watch to help people who normally forgets daily routines of taking medicines or others. This solution has a desktop part called configurator. Through configurator you can create a configuration file of alerts with pictures and upload it to this application. Uploading each configuration will reset this smart watch application.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XFtWiahEPk6Vu7LIMoEi4Zz2WgYePWS0BpZcIJTyFmjxaEd7fVYgF4R8gvh7UGnxfA=h310",
+        "//lh3.googleusercontent.com/WVK5f-CSwt6zNcKBeDikaodatPbasswZhWFIyF-fx0POjVE49fOCfanG3-BpA8byGye1=h310",
+        "//lh3.googleusercontent.com/B4VFCs9kzaQjryZa9kKUpTHcmBLXeg3yb6gC8TWIOpEP2lFkS9nLCuUs1MGtojxEUw=h310",
+        "//lh3.googleusercontent.com/qqNVnlbplkRKkoCj3BN9bHvFwvuj6xHQ9sutzM-ECB_sJ2LmmRi6ojo2AUrq7SBnutA=h310",
+        "//lh3.googleusercontent.com/fGLshanUwzRVkrYuuJFcVL0XGBdLxedtC3lIuDkHeSWSGbesiCQLegjtltJFAaqGV-2b=h310",
+        "//lh3.googleusercontent.com/ydy-G8OeWrzfKqzWsjg8ZwsKy_A2Gn4XojJ9i179rIb2cI0nZYLgqblrNSWuVL1gWw=h310"
+    ],
+    "comments": [
+        "Not user friendly I like the idea, but never could figure out how to use it. Changes the watch face and it didn't seem to allow me to change it to another face."
+    ],
+    "recentChanges": [
+        "- Server Sync Mechanism",
+        "- Pictures are now auto synced with client devices with device id",
+        "- added Companion App and DataLayer Sync with Watch",
+        "- added support for minSdkVersion 18",
+        "- registration activity on mobile now"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.eusia.smartwatch&hl=en&gl=us",
+    "appId": "info.eusia.smartwatch"
+}

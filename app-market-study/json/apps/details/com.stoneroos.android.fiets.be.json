@@ -1,0 +1,58 @@
+{
+    "title": "Fiets! VL",
+    "summary": "Fiets! - Plan a nice bike route and let the app guide you through your trip.",
+    "icon": "//lh6.ggpht.com/DtYnGBF5cS2g6I1vhu7Rk4jkWBe8nSauUPOrUqHfzcq-Xw4ppSnvvhzSgdQuAAmswU_n=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 123,
+    "developer": "Stoneroos",
+    "developerId": "Stoneroos",
+    "developerEmail": "stoneroos@stoneroos.com",
+    "developerWebsite": "http://www.fietsapp.be",
+    "developerAddress": "Joop van den Endeplein 1\n1217 WJ Hilversum\nNederland",
+    "updated": "August 21, 2017",
+    "version": "1.8.5",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "With the Fiets!-app you can easily plan, save and share a route. While biking you can use Fiets! as a navigational aid. Hoe does the planning work? Simple, choose a node where you wish to start, from this point onwards continue selecting the available nodes on the map to complete the route. Are you satisfied save the route. Another way is to choose a start and end node after which the Fiets!-app will calculate the shortest route or you can download FREE routes added by other Fiets!-app users from the Routeplein. While biking you can also use Fiets! as a navigational aid. Select one of your saved or downloaded routes and start the navigation. On the map you can see what your current position is and what the upcoming node will be on the route. Have a look on www.fietsapp.nl/legenda.html for the meaning of the different nodes and their colors. You can share your own routes with other Fiets!-app users. On www.routeplein.be all these routes are visible. This makes the website the platform to discover and share new node routes. Check all the routes on the Routeplein, find a suitable route and upload it using the Fiets!-app. Biking in The Netherlands? Download Fiets! NL. Enjoy Fiets!",
+    "descriptionHTML": "With the Fiets!-app you can easily plan, save and share a route. While biking you can use Fiets! as a navigational aid. <br><br>Hoe does the planning work? Simple, choose a node where you wish to start, from this point onwards continue selecting the available nodes on the map to complete the route. Are you satisfied save the route. Another way is to choose a start and end node after which the Fiets!-app will calculate the shortest route or you can download FREE routes added by other Fiets!-app users from the Routeplein. <br><br>While biking you can also use Fiets! as a navigational aid. Select one of your saved or downloaded routes and start the navigation. On the map you can see what your current position is and what the upcoming node will be on the route. Have a look on www.fietsapp.nl/legenda.html for the meaning of the different nodes and their colors. <br><br>You can share your own routes with other Fiets!-app users. On www.routeplein.be all these routes are visible. This makes the website the platform to discover and share new node routes. Check all the routes on the Routeplein, find a suitable route and upload it using the Fiets!-app. <br><br>Biking in The Netherlands? Download Fiets! NL. <br><br>Enjoy Fiets!",
+    "histogram": {
+        "1": 15,
+        "2": 14,
+        "3": 23,
+        "4": 42,
+        "5": 29
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nNIh7gudbyXWaiXESPHS-LfU0evnEAP2aMbfF1MyRQBWfwSEuyaJKkw1H0NdG7ybOA=h310",
+        "//lh3.googleusercontent.com/8Wm0KbDu6YD7V_O6gRbaP6vbZuYoY_t3Rm_fRjlkjWDzfqBzCqSQe8wca9uxTghH96Y=h310",
+        "//lh3.googleusercontent.com/bZGUDDSNBFQvWnXVdECP9tjhGDpoqYXBRKUlMjljEpOdDNJQNnDZd4gE49O-ZEBUCiI=h310",
+        "//lh3.googleusercontent.com/V7zj5D1mJqh3-geWwPDFRtSKug4HZgCPryd8Kr2Xo9MwqazvOFK-Gw2uJUEpFfD1DcY=h310",
+        "//lh3.googleusercontent.com/cOLP_fM8ZxprwbXSjKOSld5SErM6Ev-aZ_loj08pU2ysfirNm_SWPgpJeY4WueuM57I=h310",
+        "//lh3.googleusercontent.com/Kk3i8JZyMUN6IThK3equkgpAjeFhzvrukGKg5tTK8akiJU6PwrWCAeao5C1nUCClKQ=h310",
+        "//lh3.googleusercontent.com/FJcDO6Lc1XNKzRbPcZfzfLxAzzZRGV2X3aTiMYdBTPcxOZSK9wGwADp-W4iJRlmk0wja=h310",
+        "//lh3.googleusercontent.com/l9bfWoiRoPyTumsQRgnYIJhAZwSJ-IHn2NPKix1T0xDcUmSSrGRBHx-P4YsVyKi4b9E0=h310",
+        "//lh3.googleusercontent.com/8QUZyCV4d5J2Bwo6QIkRJ8m8fj2lWL_gwj0KXVEfZtJIJ_69uLOfgYJGzogn5tlANUxV=h310",
+        "//lh3.googleusercontent.com/QWwdt5k1jbAP_XfbXOOIDl93Soa0zpWLMmFUP7pzBDtyjvCWSpTK0IJcXexKIptHZLyu=h310",
+        "//lh3.googleusercontent.com/LQRp8dHvu1KImbeKeykY0NRO3f4YYrLia2TGIl6ZjC--7GVOHQgmRjOAUO3ym22va2E=h310",
+        "//lh3.googleusercontent.com/GqYTOyTGtv0aTDVgxreehQYmHbZ-cMB6Kunlv1QPXkMYkeNfIbMFIVYJZLG758vGkfo=h310"
+    ],
+    "comments": [
+        "Wordt tijd dat deze app eens serieus geüpdatet wordt met moderere framework van google/map box /routeyou, om een 3d weergave en degelijke routing ook buiten de knooppunten mogelijk te maken.",
+        "Settings crashes. Navigation not working anymore Settings menu always crashes. Navigation is not working anymore."
+    ],
+    "recentChanges": [
+        "Nieuwe knooppunten"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.stoneroos.android.fiets.be&hl=en&gl=us",
+    "appId": "com.stoneroos.android.fiets.be"
+}

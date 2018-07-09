@@ -1,0 +1,46 @@
+{
+    "title": "Glowing Contraption Watch Face",
+    "summary": "Unusual watch face, based on non-central minute hand, begets this mystery.",
+    "icon": "//lh3.googleusercontent.com/OKEIqWm20fak1yBCnsCiompeAZPPkITAJXfw8saPCWH9Jw2Tp6ROSQMe4VCEb2qr05Y=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.7,
+    "reviews": 6,
+    "developer": "Евгений Суворов",
+    "developerId": "%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2",
+    "developerEmail": "twssupp0rt@gmail.com",
+    "developerWebsite": "https://groups.google.com/d/msg/weardialer/xzhKcdy_6KI/Sc8qAx4mBwAJ",
+    "developerAddress": "119049, Москва, Ленинский проспект 2А",
+    "updated": "February 8, 2017",
+    "version": "1.02",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Imagine an ordinary analog watch: there is always a pivot around which most of the hands are rotating. But what happens if you place minute hand on an outer edge of a gear, that is rotating around center point itself? And even more, let this hand spin with different relative speed?This highly experimental watch face won't let you read time easy, instead it provides unique experience of displaying time in a very unusual way. Central gear outer radius and minute hand lengths are predefined so that resulting figure will fit within watch screen, but you are free to change minute hand relative rotation speed multiplier, which may lead to perplexing and hypnotizing results. With the default speed multiplier of 3 you get contraption, which has a close resemblance to Nord Zeitmachine QuickIndicator - one of the most unusual luxury watch you may ever see and which became developer muse during development. Take note, that when multiplier value is greater or equal to 12, the figure becomes almost solid, thus there is no point to increase this value further, but you're welcome to try and see the results.Albeit using a lot of calculations, this watch face is optimized thoroughly and will actually benefit from higher watch screen resolutions resulting in much sharper picture (e.g. compare realtime preview on the phone with an average 320 pixel sized watch screen). Most of the values are precached and used in an effective way during main display cycle, thus application will become battery intensive only for several moments after settings are applied.So go ahead and find out your favorite mind boggling contraption!Being more an implementation of an interesting experiment, than a practical watch face, this application is completely free of charge with no penalties, but if you liked the idea and feel generous, then feel free to explore in-app purchase items to support developer.",
+    "descriptionHTML": "Imagine an ordinary analog watch: there is always a pivot around which most of the hands are rotating. But what happens if you place minute hand on an outer edge of a gear, that is rotating around center point itself? And even more, let this hand spin with different relative speed?<br><br>This highly experimental watch face won&apos;t let you read time easy, instead it provides unique experience of displaying time in a very unusual way. Central gear outer radius and minute hand lengths are predefined so that resulting figure will fit within watch screen, but you are free to change minute hand relative rotation speed multiplier, which may lead to perplexing and hypnotizing results. With the default speed multiplier of 3 you get contraption, which has a close resemblance to Nord Zeitmachine QuickIndicator - one of the most unusual luxury watch you may ever see and which became developer muse during development. Take note, that when multiplier value is greater or equal to 12, the figure becomes almost solid, thus there is no point to increase this value further, but you&apos;re welcome to try and see the results.<br><br>Albeit using a lot of calculations, this watch face is optimized thoroughly and will actually benefit from higher watch screen resolutions resulting in much sharper picture (e.g. compare realtime preview on the phone with an average 320 pixel sized watch screen). Most of the values are precached and used in an effective way during main display cycle, thus application will become battery intensive only for several moments after settings are applied.<br><br>So go ahead and find out your favorite mind boggling contraption!<br><br>Being more an implementation of an interesting experiment, than a practical watch face, this application is completely free of charge with no penalties, but if you liked the idea and feel generous, then feel free to explore in-app purchase items to support developer.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/YSIBsHJo_TfUuAFS2cz2fCJ87JwNWsw6Qct3R7i2gYUi5-s4IeKeM1hSF29HODQkfnc=h310",
+        "//lh3.googleusercontent.com/KAsRjbZnLrEP61EaMNq7kt81MYv9PIk8iuE36yW7SwxQDRzUY9KPe6PF0jq3QjmQlRA=h310",
+        "//lh3.googleusercontent.com/Ql1OljnWKSfmtLta9Xt9IypfDSPPQ19CKsYeVnhMwnVRJvuFH4XrIzPGyAS_b8SaNw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- added in-app privacy policy."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.trinketworkshop.glowingcontraption&hl=en&gl=us",
+    "appId": "com.trinketworkshop.glowingcontraption"
+}

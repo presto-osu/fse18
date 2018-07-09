@@ -1,0 +1,50 @@
+{
+    "title": "Wear Sound Meter",
+    "summary": "Measure your atmosphere noise from your wrist",
+    "icon": "//lh3.googleusercontent.com/Wk3LIol4UQIpcMVNB44gFKZjDQ2Lv_Ff8uxf2J29sy23aDABVYYZhqHJaxC4j3GT0U0=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 14,
+    "developer": "Abdulla Eqab",
+    "developerId": "Abdulla+Eqab",
+    "developerEmail": "AHEqab@gmail.com",
+    "developerWebsite": "http://aheqab.com/PrivacyPolicies/wearsoundmeterprivacypolicy.htm",
+    "developerAddress": "American University of Sharjah\nPOBox 26666 Key 128",
+    "updated": "February 3, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Wear Sound Meter is an app for Android Wear devices that measures the noise volume in decibels (db) using your watch built-in microphone and displays it neatly in real timeSupports both Round and Square Android Wear watchesYou can also calibrate the app manuallyAfter installing, you will not see any icon on your phone menu. The application will automatically sync to your watch (it may take time).Please note that some devices are limited to a specific volume level, for example Huawei Watch is limited to around 80 db. Therefore the application will not measure any volume beyond that",
+    "descriptionHTML": "<b>Wear Sound Meter</b> is an app for Android Wear devices that measures the <b>noise volume in decibels (db)</b> using your watch built-in microphone and displays it neatly in <b>real time</b><br><br>Supports both <b>Round and Square</b> Android Wear watches<br><br>You can also <b>calibrate</b> the app manually<br><br>After installing, you will not see any icon on your phone menu. The application will automatically sync to your watch (it may take time).<br><br><b>Please note</b> that some devices are limited to a specific volume level, for example Huawei Watch is limited to around 80 db. Therefore the application will not measure any volume beyond that",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/cxFki2liw-6QFICT6NPRm_3E8MBmMHmIfOaqdfWs6Px_o-YPCKCCQE3ixwoMAHLS7uM=h310",
+        "//lh3.googleusercontent.com/Ur-LC4RedsGtcwntTCJpNAZERTSc6nxl4adDeOhKoTctgB813I9KBO3rRK8WCWYnMQ=h310"
+    ],
+    "comments": [
+        "Useless I have a calibrated mic and smaart. This app is upwards of 30db off almost always.",
+        "Thanks for your reply! You can calibrate it with the plus and minus! Perfect."
+    ],
+    "recentChanges": [
+        "Fixed Android Marshmallow permission issue",
+        "Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aheqab.wearsoundmeter&hl=en&gl=us",
+    "appId": "com.aheqab.wearsoundmeter"
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Speedometer : Android Wear",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh5.ggpht.com/ZezQbWz3ToSg9ZnbVRs16TSuv8Ed4iFH7hew0xRx1ISq9Ix7pRY44hOIWn6T-eoFpJzl=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.4,
+    "reviews": 16,
+    "developer": "Oleksiy Martynov",
+    "developerId": "Oleksiy+Martynov",
+    "developerEmail": "3martynov@gmail.com",
+    "developerWebsite": "https://plus.google.com/+OleksiyMartynov",
+    "developerAddress": "138 Smithwood dr\nToronto Ontario Canada",
+    "updated": "July 15, 2014",
+    "version": "1.3",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Speedometer shows speed in KPH or MPH. Perfect for when you jog or ride a bicycle.This app is for Android Wear. When wearable app is open, long-tap anywhere on screen to change speed unit.This app uses GPS to measure your speed.The speedometer's accuracy depends on the quality of the GPS signal.",
+    "descriptionHTML": "Speedometer shows speed in KPH or MPH. Perfect for when you jog or ride a bicycle.<br><b>This app is for Android Wear. </b><br>When wearable app is open, long-tap anywhere on screen to change speed unit.<br>This app uses GPS to measure your speed.<br>The speedometer&apos;s accuracy depends on the quality of the GPS signal.",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 3,
+        "4": 4,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/GE_ZpRsPpHy-NY2MvZI98uPijCOSufIyD481eFmhAiJ3wtXwDMIkpakQxqiOAz78HkQ=h310",
+        "//lh3.ggpht.com/nm7OldtCjpr7RIC1Dq5vLM9TkHrO3TZaNcU0pHz-MGQ7VhLVrXErLxFHLBSdGcGKWi_U=h310",
+        "//lh6.ggpht.com/2YW6mVqyBjWQ_O4Q9Sj6lia2HzpaAjiTGrWcI5EQjbeCPJ-Vwh_99Quu7NvzgaGEkg=h310"
+    ],
+    "comments": [
+        "It Works The app is simple and works, but the refresh rate seems laggy. Other than that, it is a good app.",
+        "Straightforward Simple and gets the job done. I'd prefer a larger digital readout, though, for easier reading while biking.",
+        "Won't work It crashed my moto and it would never work.  Just a waste.  Don't fall for it.",
+        "This will not work with my moto 360",
+        "Awesome Looks good on my watch and works flawlessly. Used it during a bicycle ride,",
+        "Useful app! Especially when I'm jogging and biking! Thanks :&gt;"
+    ],
+    "recentChanges": [
+        "-screen lock added for convenience",
+        "-bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=martynov.com.speedometer&hl=en&gl=us",
+    "appId": "martynov.com.speedometer"
+}

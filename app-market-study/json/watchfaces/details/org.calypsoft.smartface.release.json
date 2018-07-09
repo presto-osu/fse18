@@ -1,0 +1,54 @@
+{
+    "title": "SmartFace",
+    "summary": "Customize your smartwatch according to your Agenda with SmartFace.",
+    "icon": "//lh5.ggpht.com/_QBJ4rxMO2G6EDsE5coOn_KrhNovMMXeI2k-HYAWC-BDw_VkZ3RbzoIczIJSVQ3r2x0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.1,
+    "reviews": 11,
+    "developer": "Calypsoft",
+    "developerId": "Calypsoft",
+    "developerEmail": "calypsoft.france@gmail.com",
+    "developerWebsite": "http://smartface.watch",
+    "developerAddress": "Les bastides du Vallon 777 rte du Vallon 83320 Carqueiranne, France",
+    "updated": "February 2, 2015",
+    "version": "0.0.3.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "You are looking for an elegant agenda reminder, you want to periodically change your WatchFace or you simply want to customize your WatchFace with your own photos?Now is the time, get started with SmartFace!Smartface is still a young but fully tested application, free for life and add free.Your watchface is your agenda:Set up the background you want for your holidays, a date or any event dear to you. Your watchface will automatically change and keep the same chosen background during the whole event. Plan only what you want, and if no background has been defined for an event the default background will show up! Beautiful yet useful transitions:60 minutes before an event, your background starts showing up. An elegant and noninvasive way to keep an eye on your agenda. Say good by to notifications!100% FREE:SmartFace is ads free and free. No ads, download and enjoy our application for 0$. Your satisfaction and your comments on the PlayStore are our best reward.WatchFace API:Smartface makes the most of the brand new Google WatchFace API, available starting to Android 5.0.Make sure your smartwatch is running android 5.0 or higher.Keep in touch, there are more features to come !More details on http://smartface.watch",
+    "descriptionHTML": "You are looking for an elegant agenda reminder, you want to periodically change your WatchFace or you simply want to customize your WatchFace with your own photos?<br>Now is the time, get started with SmartFace!<br><br>Smartface is still a young but fully tested application, free for life and add free.<br><br>Your watchface is your agenda:<br>Set up the background you want for your holidays, a date or any event dear to you. Your watchface will automatically change and keep the same chosen background during the whole event. Plan only what you want, and if no background has been defined for an event the default background will show up! <br><br>Beautiful yet useful transitions:<br>60 minutes before an event, your background starts showing up. An elegant and noninvasive way to keep an eye on your agenda. Say good by to notifications!<br><br><br>100% FREE:<br>SmartFace is ads free and free. No ads, download and enjoy our application for 0$. Your satisfaction and your comments on the PlayStore are our best reward.<br><br>WatchFace API:<br>Smartface makes the most of the brand new Google WatchFace API, available starting to Android 5.0.<br>Make sure your smartwatch is running android 5.0 or higher.<br><br>Keep in touch, there are more features to come !<br>More details on http://smartface.watch",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/s3qXVWpBYd6pF7al3ca3rbxAfXKGURCC5d52kARDZaPOYIWFA9P4hMdN84IDFudBVw=h310",
+        "//lh6.ggpht.com/8Lp66_HB08PNdzP8Jo4P7F6xOied7WY4qy3x4UUKXx0B0SfSkU_Ahq22AVF8WGMOn7Sg=h310",
+        "//lh3.ggpht.com/WAtk128YYhv5l2PzsJlnBukqFseTi-xIhj8aZxvunI2nYMD-B_FU1r2untElPy1K8Ng=h310",
+        "//lh4.ggpht.com/wiqSIWaFdwS4CQD_CU_jdUrNyCbGrQIp-aWulGqRTjJvhCWG9S4ZCD_J4FHAXKZALRc=h310",
+        "//lh6.ggpht.com/2lu_yI1Eqw-S8EOO52A30nEe1RxtMJXwG_gp8Snsv2Q3PWnw5eXfn9vTVT2vlfBUig=h310"
+    ],
+    "video": "https://www.youtube.com/embed/NRsd7kxGePk",
+    "comments": [
+        "Great support! Had a problem getting the watchface to work and the dev support was fantastic and helped me get it working. Je suis Charlie",
+        "Worst app for my watch I've seen Is this a joke?  A pie chart to tell me my day?  Crashed my watch as soon as it loaded, and expects me to add custom pics to every event in my calendar.... (and app crashes as soon as I picked a pic) What a waste.  Pure garbage.",
+        "Good idea I really like the concept but the resolution of the pictures was terrible."
+    ],
+    "recentChanges": [
+        "Back to the standard edition.",
+        "Memory optimizations."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.calypsoft.smartface.release&hl=en&gl=us",
+    "appId": "org.calypsoft.smartface.release"
+}

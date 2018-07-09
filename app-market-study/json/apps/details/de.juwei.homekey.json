@@ -1,0 +1,51 @@
+{
+    "title": "HomeKey",
+    "summary": "Control your KeyMatic with your Smartphone including IP-Camera and NFC-Tags",
+    "icon": "//lh4.ggpht.com/ZWEq-4rWcj0RcU7Ytw5v38KwEcK-YAG4gDZt2REUN_OtAkHe2THezu0wINSvI41kfg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 117,
+    "developer": "Juwei-Apps",
+    "developerId": "Juwei-Apps",
+    "developerEmail": "homekey@juwei.de",
+    "developerWebsite": "https://groups.google.com/d/forum/homekey-app",
+    "developerAddress": "Jürgen Weiß\nLigusterstr. 7\n90530 Wendelstein",
+    "updated": "August 9, 2017",
+    "version": "1.74",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "With HomeKey you have your KeyMatic HomeMatic control at all times and can make your remote control to leave at home: your phone becomes the key of your house! The additional configurable IP camera you can see in the house or thanks SSH tunnel on the road, who is at the door when it rings and you can allow family members or friends directly into it, without having to get up from the couch. Using NFC tags can processes as open door or lock KeyMatic be greatly simplified: just stick a tag beside the front door and assign the action \"Open\" or \"Lock\" to it.✓ opening / locking / unlocking with slide buttons;✓ Works with CCU1 and CCU2 natively without any additional software;✓ It can be used in any network IP camera that offers static JPEG still images;✓ Battery Economical update of the camera image with 1 image per second;✓ camera full screen view with fast update rate and strike - for tablets with wall mounting;✓ Save camera image;✓ presence: automatic setting of the HomeMatic system variable \"presence\" when opening / locking / unlocking;✓ Logging in HomeMatic System log;✓ WLAN detection: the app can wait for a wireless connection (can be deactivated), and waits for request even in a special WLAN SSID;✓ Alarm system monitoring: a triggered alarm (eg in the \"alarm zone 1\") can be reset via the app;Optional features of the Pro version (InApp purchase):✓ Support multiple KeyMatics and associated cameras!✓ NFC tags simplify operation outside the front door (open and lock) and can be programmed directly in the app / read;✓ To open / locked via NFC tag, the app starts automatically performs the action and closes with success again automatically *✓ access of Move possible via automatically secured SSH tunnel;✓ Per Tasker plugin controllable;✓ wearable support, for example, Sony SmartWatch 3;Simplify access to your home and get immediate HomeKey on your smartphone!All you need is a HomeMatic CCU, a KeyMatic, an Android smartphone and this app.To provide guidance on setting up, and a forum for questions, please visit:https://groups.google.com/d/forum/homekey-appImportant Safety Notice: Each user of a HomeMatic with KeyMatic should provide sufficient assurance of its network, as it is every network subscriber possible to control KeyMatic about the HomeMatic without any password. Use the built-in firewall to control the HomeMatic Hits!Required permissions:* In-app purchases: In order for the Pro version can be purchased. The basic version, however, can be used indefinitely and contains no advertising!(Control Near Field Communication, Full Network Access) * Network communication: Access to the HomeMatic is via network. Near field communication NFC = and is required to control the KeyMatic via NFC tags.* Calls (read phone state and identity retrieve): For the HomeMatic protocol also the unique IMEI smartphone will be logged for security reasons. To read this this permission is required.(Modify or delete USB storage contents) * Memory: Required for use of the SSH private key and for storing camera images by pressing and holding on the camera image.Note: HomeKey is placed on the security and privacy very great value! There are no data collected from the smartphone, to send it to any server. The network communication takes place exclusively between the app and your HomeMatic P2P. Optionally, a push notification on your mobile phone in the HomeMatic be established. These communicates directly with the Google server (GCM) and not on one of our servers!",
+    "descriptionHTML": "With HomeKey you have your KeyMatic HomeMatic control at all times and can make your remote control to leave at home: your phone becomes the key of your house! The additional configurable IP camera you can see in the house or thanks SSH tunnel on the road, who is at the door when it rings and you can allow family members or friends directly into it, without having to get up from the couch. Using NFC tags can processes as open door or lock KeyMatic be greatly simplified: just stick a tag beside the front door and assign the action &quot;Open&quot; or &quot;Lock&quot; to it.<br><br><br>&#x2713; opening / locking / unlocking with slide buttons;<br>&#x2713; Works with CCU1 and CCU2 natively without any additional software;<br>&#x2713; It can be used in any network IP camera that offers static JPEG still images;<br>&#x2713; Battery Economical update of the camera image with 1 image per second;<br>&#x2713; camera full screen view with fast update rate and strike - for tablets with wall mounting;<br>&#x2713; Save camera image;<br>&#x2713; presence: automatic setting of the HomeMatic system variable &quot;presence&quot; when opening / locking / unlocking;<br>&#x2713; Logging in HomeMatic System log;<br>&#x2713; WLAN detection: the app can wait for a wireless connection (can be deactivated), and waits for request even in a special WLAN SSID;<br>&#x2713; Alarm system monitoring: a triggered alarm (eg in the &quot;alarm zone 1&quot;) can be reset via the app;<br><br>Optional features of the Pro version (InApp purchase):<br><br>&#x2713; Support multiple KeyMatics and associated cameras!<br>&#x2713; NFC tags simplify operation outside the front door (open and lock) and can be programmed directly in the app / read;<br>&#x2713; To open / locked via NFC tag, the app starts automatically performs the action and closes with success again automatically *<br>&#x2713; access of Move possible via automatically secured SSH tunnel;<br>&#x2713; Per Tasker plugin controllable;<br>&#x2713; wearable support, for example, Sony SmartWatch 3;<br><br>Simplify access to your home and get immediate HomeKey on your smartphone!<br>All you need is a HomeMatic CCU, a KeyMatic, an Android smartphone and this app.<br><br><br>To provide guidance on setting up, and a forum for questions, please visit:<br>https://groups.google.com/d/forum/homekey-app<br><br><br>Important Safety Notice: Each user of a HomeMatic with KeyMatic should provide sufficient assurance of its network, as it is every network subscriber possible to control KeyMatic about the HomeMatic without any password. Use the built-in firewall to control the HomeMatic Hits!<br><br><br>Required permissions:<br><br>* In-app purchases: In order for the Pro version can be purchased. The basic version, however, can be used indefinitely and contains no advertising!<br><br>(Control Near Field Communication, Full Network Access) * Network communication: Access to the HomeMatic is via network. Near field communication NFC = and is required to control the KeyMatic via NFC tags.<br><br>* Calls (read phone state and identity retrieve): For the HomeMatic protocol also the unique IMEI smartphone will be logged for security reasons. To read this this permission is required.<br><br>(Modify or delete USB storage contents) * Memory: Required for use of the SSH private key and for storing camera images by pressing and holding on the camera image.<br><br><br>Note: HomeKey is placed on the security and privacy very great value! There are no data collected from the smartphone, to send it to any server. The network communication takes place exclusively between the app and your HomeMatic P2P. Optionally, a push notification on your mobile phone in the HomeMatic be established. These communicates directly with the Google server (GCM) and not on one of our servers!",
+    "histogram": {
+        "1": 9,
+        "2": 1,
+        "3": 6,
+        "4": 12,
+        "5": 89
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NEamXYLsuydGtjO6U-xpEMcYuXDFIeqsq7i5h0JLXO5ffkmGjPOnxVS7ifskxwkoYIgd=h310",
+        "//lh3.googleusercontent.com/wb8aNtyJs-skyvqCoym8vnusmt_T7lgGsbbpJadQZ4F_FTRGQkOFkcymfJSFL44JTgk=h310",
+        "//lh3.googleusercontent.com/7KAkLid-DHkvTx5rDwkmgVApZBqOE-WnSs5XZQXhZBdbVPyiGPFgSn5dbh9SSRKGfXs=h310",
+        "//lh3.googleusercontent.com/ZhHvLRxOCCSMcdVDfsb428mWLQRdOwqWOCSLXiNwGgnX6RrjIyZjqX4ZL6_Un0SF5kc=h310",
+        "//lh3.googleusercontent.com/A-xDtXUySYbL3_5KTdOBmMdob2_IROcoNqH6HGUqQDT7eskAhnHDgO4TlPtUnwf9GIw=h310",
+        "//lh5.ggpht.com/YL8ID_Q8l0h0gTaqhUkklW75E7P8K7WFg8szmnz-JtPwLdWCFLra5SoCHzPp3DwPVw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "✓ Extended error messages at tag writing;",
+        "✓ Corrected umlaut strings in \"Last action\";",
+        "✓ Compatibility to Android Nougat (7.0);"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.juwei.homekey&hl=en&gl=us",
+    "appId": "de.juwei.homekey"
+}

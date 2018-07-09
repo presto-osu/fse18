@@ -1,0 +1,56 @@
+{
+    "title": "Time Tracker - Android Wear",
+    "summary": "Time Tracker - keep track of time through vibration, sound or Android Wear!",
+    "icon": "//lh4.ggpht.com/fkdD4pJtHCf0gdW1onz7MGvIk0yWzrBvqs1wGvBMjsD59s4PmcsmHEHLuf7oIBBhCRE=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.5,
+    "reviews": 8,
+    "developer": "JonG Mobile Apps",
+    "developerId": "JonG+Mobile+Apps",
+    "developerEmail": "jonnigil@gmail.com",
+    "developerWebsite": "http://www.jonathangil.com",
+    "developerAddress": "Arthur van Schendelstraat 205\n3511MC Utrecht\nThe Netherlands",
+    "updated": "February 28, 2015",
+    "version": "1.2.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "50% Discount to celebrate release of V1.2!Time Tracker does the work for you so you can focus on the important things in life!Do you hate losing track of time and having to constantly check your smartphone or watch?Do you need an app that will track time for you?Time Tracker will keep you aware of time without being intrusive or needing interactions to give you the time. With all the customization and features you need, you'll be right on time, every time!Features- Default feature counts the hours by vibrating/sounding off the time. Example:    --- Vibrate 4 times for 16:00    --- Vibrate 11 times for 23:00    --- Vibrate once, on the quarter hour    --- Vibrate twice, on the half hour- Fully customizable intervals.    --- Fine tune up to 3 custom intervals just the way you like them.    --- Pick a custom sound for each interval from your own notification sounds. Or use the provided sounds.    --- Make your Android smartphone or Android Wear smartwatch vibrate- Set quiet hours to make sure Time Tracker only works when you want it to - Doesn't drain your battery.- Starts back up after rebooting or updating your smartphone.No bunnies were harmed before, during or after the development of this app.Please feel free to suggest features or report any bugs so they can be addressed as quickly as possible!",
+    "descriptionHTML": "50% Discount to celebrate release of V1.2!<br><br>Time Tracker does the work for you so you can focus on the important things in life!<br>Do you hate losing track of time and having to constantly check your smartphone or watch?<br>Do you need an app that will track time for you?<br><br>Time Tracker will keep you aware of time without being intrusive or needing interactions to give you the time. With all the customization and features you need, you&apos;ll be right on time, every time!<br><br>Features<br>- Default feature counts the hours by vibrating/sounding off the time. Example:<br>    --- Vibrate 4 times for 16:00<br>    --- Vibrate 11 times for 23:00<br>    --- Vibrate once, on the quarter hour<br>    --- Vibrate twice, on the half hour<br>- Fully customizable intervals.<br>    --- Fine tune up to 3 custom intervals just the way you like them.<br>    --- Pick a custom sound for each interval from your own notification sounds. Or use the provided sounds.<br>    --- Make your Android smartphone or Android Wear smartwatch vibrate<br>- Set quiet hours to make sure Time Tracker only works when you want it to <br>- Doesn&apos;t drain your battery.<br>- Starts back up after rebooting or updating your smartphone.<br><br>No bunnies were harmed before, during or after the development of this app.<br>Please feel free to suggest features or report any bugs so they can be addressed as quickly as possible!",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 0,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/B0h0okoVdg2j6FycFcAIWlskeGSO0wGyXcIaWeFbyG_2rwM0ql33WkSrjefLHYrSB3E=h310",
+        "//lh3.ggpht.com/HAaFPMoxJiHwQOYd-rGdUShggNGOU71MRSP6a4v2jL9hG-AgpBKs9fyY8KH4PP26vK55=h310",
+        "//lh5.ggpht.com/7aT46PL64KMXYD3FBAPaZsd79Zuvxyxsqv5WZGZFSa5O15HDSNnt7BGqkkRY-YvYsNw=h310",
+        "//lh4.ggpht.com/e7QvPMRLObpsjKLHC8vZH282uBdownqUeS9CdeYknkahrY1cTtuYWnsJC391WUZtaA=h310",
+        "//lh6.ggpht.com/YwE45WhHCJTI9R1fD8zHT51VMsuVDTpJugXuJNTRsIqqRL8BSUfLXe_SNemi17R2hMA=h310",
+        "//lh3.ggpht.com/TXZgEwUnS2jw-T6dVgNlOXpyCvTwCsmS4rKaogeibQDIXet-eLOlmoMHgdnV9Dz0Iw=h310",
+        "//lh4.ggpht.com/6VI8wqf4cxuyemFJfpR1ZjIywUubg_2ZGRdHWBIKCIh-ldsljFT9OvALN1o9nUKE-HI=h310",
+        "//lh5.ggpht.com/NEKFMXIuqEwAwRqnyTVmkPBAHRdYdZ-cECt2Vdqs6moZchwUj7cyH9HpJUh2W6cC1IPP=h310"
+    ],
+    "comments": [
+        "I like it but..... It's a well thought out idea and i like it.  But i feel prehaps you should be able to customize the vibrations on wear.  My email vibrates once and facebook is twice so I'm getting them confused.  Prehaps a more powerful vibration option as well for wear?  Its very good and helps keep track of time without constantly pulling out phone.  Well done",
+        "the combination of my phone and lg watch r going off really keeps me aware of time!",
+        "Works perfectly with my Moto360, keeps my from time traveling. Especially useful when I need to be focusing on work. Much more reliable than using the interval timers on the store for the same purpose. One bug: the bottom half of the configuration app slightly overlaps the top half (OnePlus One with CyanogenMod 12, with on-screen nav bar enabled. if on screen nav is disabled or hidden its fine)."
+    ],
+    "recentChanges": [
+        "Version 1.2.2",
+        "- Several bugs fixed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jong.net.tapclock&hl=en&gl=us",
+    "appId": "jong.net.tapclock"
+}

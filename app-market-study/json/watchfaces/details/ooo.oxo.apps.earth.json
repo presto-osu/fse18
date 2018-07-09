@@ -1,0 +1,61 @@
+{
+    "title": "Mantou Earth",
+    "summary": "Live Wallpaper of the earth taken just 30 minutes ago",
+    "icon": "//lh3.googleusercontent.com/WrObbkacdOl6PZ7FJZW7InPo9t9L4WsmdxNMhK9u8tWpjCiD2k_DpOwtCc8dLd1PQGg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.6,
+    "reviews": 1186,
+    "developer": "oxo",
+    "developerId": "oxo",
+    "developerEmail": "support@oxo.ooo",
+    "developerWebsite": "http://www.oxo.ooo",
+    "developerAddress": "广东省广州市大学时光",
+    "updated": "December 1, 2016",
+    "version": "1.7.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A Live Wallpaper with LIVE earth taken from satellite just 30 minutes ago.Accelerating with Qiniu CDN and using WebP to reduce network traffic.==========FAQQ: How to set as a lock screen?A: In stock Android, wallpaper also displays in lock screen. This acts differently in different third party ROMs. Please contact your ROM provider.Q: Is it possible to show the other part of the earth?A: No. In the mean while, Himawari-8 is the only geostationary satellite can take colored photos.Q: Why doesn't it update after I set it as my wallpaper?A: I may be our server currently encountered a failure. Or please check if your security software prevents Mantou Earth from connecting to the Internet in the background.Q: Why it falls back to my default wallpaper a few seconds after I set it as my wallpaper?A: Please check if your security software prevents Mantou Earth from running in the background.==========If you have any other question, please contact us via support@oxo.ooo (we can read only Chinese or English).",
+    "descriptionHTML": "A Live Wallpaper with LIVE earth taken from satellite just 30 minutes ago.<br><br>Accelerating with Qiniu CDN and using WebP to reduce network traffic.<br><br>==========<br><br>FAQ<br><br>Q: How to set as a lock screen?<br>A: In stock Android, wallpaper also displays in lock screen. This acts differently in different third party ROMs. Please contact your ROM provider.<br><br>Q: Is it possible to show the other part of the earth?<br>A: No. In the mean while, Himawari-8 is the only geostationary satellite can take colored photos.<br><br>Q: Why doesn&apos;t it update after I set it as my wallpaper?<br>A: I may be our server currently encountered a failure. Or please check if your security software prevents Mantou Earth from connecting to the Internet in the background.<br><br>Q: Why it falls back to my default wallpaper a few seconds after I set it as my wallpaper?<br>A: Please check if your security software prevents Mantou Earth from running in the background.<br><br>==========<br><br>If you have any other question, please contact us via support@oxo.ooo (we can read only Chinese or English).",
+    "histogram": {
+        "1": 22,
+        "2": 25,
+        "3": 46,
+        "4": 163,
+        "5": 930
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/EFodOPUNCIIXs5gP5H6emmzpNdlRHL0EGyl4AZiVuFa3ukBUukBT08xI7h_fX95VtNQ=h310",
+        "//lh3.googleusercontent.com/KZgGOZ3_alwUeNMw1rVMho1b4hn_KTOvRuKyU4JbeohPbwAq-x42lrXLfdcCtM8S-80=h310",
+        "//lh3.googleusercontent.com/rmMmIuQzwTk-x2wABzjL5X3Uz9p7KYe7-IQ9wa8JNS39UHbOC4i44vN5jlY4eK4BAg=h310",
+        "//lh3.googleusercontent.com/Kb8rfjPs8npel6UoRhMJn7Jc834fa9jAfZxd_kErKLU1th00hPeTXouIZurCE75DlA=h310",
+        "//lh3.googleusercontent.com/cJeD_rwZilx9Kgsik9KZf2wczfjFUpJKoBIsd_yDhhxQeuT0esBkNW977MoB-ECEINA=h310",
+        "//lh3.googleusercontent.com/yrxWg2NuL8_RbiQOVR2MvcvupwFFtowZTwarimAKO9O3CBnA9jsbbhSYNRcHJhMwQQ=h310",
+        "//lh3.googleusercontent.com/BIkYMPbL_yqO7aMbHyYXiX2ira6KWY6rEDixW_Nlba98fxxcDJAaY1KRKnCGWz-qAdI=h310",
+        "//lh3.googleusercontent.com/Mn3CbXQf1O5kiNyGQRV4jJ_ll7yX3kyuadqsdTu9A7tDVpwyYf4wF2ZFIXhQiIMKzRer=h310",
+        "//lh3.googleusercontent.com/JDBWzOntxPkDeANhkMB8I-eZjarLaTuzkffL4muyWSvVCuuOIwTLnGMuFBvIzkKSaMs=h310",
+        "//lh3.googleusercontent.com/5Qa7HO1VBOODTyC_N3FlRC8LKLs82OmK--mLhNypy3tkDABJ-2pdukvzmG0mGWYDZP4=h310",
+        "//lh3.googleusercontent.com/v_D3EVdp9zftMHayQxyq_bwVh7mfLnYEneW-FqjmPdA49cYF4z_U03wztJB2ujKNSmU=h310"
+    ],
+    "comments": [
+        "Concept is great Now it at least updates but most images are either partially or fully black and white.. there seems to be some problem with the code. When I run a power shell command in my windows PC the images are always in full colour.",
+        "Location Based view!! I absolutely love the app but I would like it even more if I could see over Europe. I know the developer has said that it is using images from a particular satellite but I am hoping that there are other satellites taking similar pictures of other parts of the world that the developer can implement into the app.",
+        "Great idea. As someone living in Europe, I would prefer the picture to lookout over Europe, so the day/night cycle matches my location.   I understand that the source of the picture is Asian, so there might not be location based pictures to fetch?  So in general, great product, as a feature request: Location based view of Earth!",
+        "Black and white Incredibly cool idea, though every morning the images are in black and white and no a longer live image. Need to clear data and reset wallpaper to restore use",
+        "Great idea but I don't like that I can't adjust which part of the earth it covers. I'm Uninstalling for now but would consider using again in the future if I could see my side of the earth.",
+        "Love it Great app, highly recommend, images are high res and no performance difference."
+    ],
+    "recentChanges": [
+        "Update for Data Saver API of Android N"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ooo.oxo.apps.earth&hl=en&gl=us",
+    "appId": "ooo.oxo.apps.earth"
+}

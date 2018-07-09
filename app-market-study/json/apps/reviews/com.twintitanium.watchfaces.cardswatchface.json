@@ -1,0 +1,15 @@
+[
+    {
+        "author": "Dan Driscoll",
+        "comment": "Ambient mode shows watch battery percent but when lit up does not show anything on bottom.",
+        "date": "October 31, 2015",
+        "permlink": "/store/apps/details?id=com.twintitanium.watchfaces.cardswatchface&reviewId=Z3A6QU9xcFRPRTRiQWF5S1F2YURCekoxWXZ4VjZVSUlJYlhUbHVhcGQ2YTJLbDU1NzJvSnE5UnR2RWo5UWhhZnhqY2QyZWF4eVpwN1ZNZzZlS0pXbHJBX1Qw",
+        "reply": {
+            "author": "Twin Titanium",
+            "content": "Really? That's strange, because we've definitely tested on moto 360. The bottom card isn't drawn when a peek card is showing, but it doesn't sound like that's the case for you. I'll look into it for the next update.",
+            "date": "November 1, 2015"
+        },
+        "star": 4,
+        "title": "No bottom card on Moto 360"
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "title": "Domino's Pizza Belgium",
+    "summary": "With the Domino’s Pizza Android app ordering and creating pizzas is fun and easy",
+    "icon": "//lh4.ggpht.com/UYCJwic0v1l4Bt7LjHcokaslgqUCytU1J-mjztzQzadSHIoGFKIOiVblv-f62UEwCmo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.2,
+    "reviews": 110,
+    "developer": "Domino's Pizza Enterprises Limited",
+    "developerId": "Domino's+Pizza+Enterprises+Limited",
+    "developerEmail": "website@dominos.nl",
+    "developerWebsite": "http://pizza.dominos.be/fr",
+    "updated": "July 20, 2017",
+    "version": "2.6.10",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Pizzas, Salads or Cheesybread ?With the Domino’s Pizza Android app ordering is fun and easy.With the live pizza tracker you can follow your order from A to Z. Get Pizza Tracker notifications directly on your Android Wear smart watchDisplay Pizza Tracker on your TV and use your phone for other activities with the Chromecast casting featureOnline payment is safe, quick and without extra charges for credit card. Of course it’s also possible to pay cash.Pick up or delivery? No problem, both are possible and with the pizza tracker you won’t waste another minute any more. Choose the time you want.Create your own pizza in ‘Be the Chef’.You can’t make a choice in the menu? With ‘Half Half’ you select 2 pizza flavours on 1 pizza.The best and exclusive deals only for Android! Be the first to know all new pizza introductions.",
+    "descriptionHTML": "Pizzas, Salads or Cheesybread ?With the Domino&#x2019;s Pizza Android app ordering is fun and easy.<br><br>With the live pizza tracker you can follow your order from A to Z. <br>Get Pizza Tracker notifications directly on your Android Wear smart watch<br>Display Pizza Tracker on your TV and use your phone for other activities with the Chromecast casting feature<br>Online payment is safe, quick and without extra charges for credit card. Of course it&#x2019;s also possible to pay cash.<br><br>Pick up or delivery? No problem, both are possible and with the pizza tracker you won&#x2019;t waste another minute any more. Choose the time you want.<br><br>Create your own pizza in &#x2018;Be the Chef&#x2019;.<br><br>You can&#x2019;t make a choice in the menu? With &#x2018;Half Half&#x2019; you select 2 pizza flavours on 1 pizza.<br><br>The best and exclusive deals only for Android!<br> <br>Be the first to know all new pizza introductions.",
+    "histogram": {
+        "1": 36,
+        "2": 9,
+        "3": 5,
+        "4": 15,
+        "5": 45
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/tWyQ5OidQRX5anBRekPAVi9Q5WH0kmPgCs-ehkLEVZVCm_fuVBnY0DKm3uNQhcdXn-7B=h310",
+        "//lh3.ggpht.com/vV4lGxtB-MGpGyPiX37jhyuKKdUDIIkJZLnLu-P41Dv7Mm71vbTWV9IaJ1cz4N4acaA=h310",
+        "//lh6.ggpht.com/Pl-Nhd7OL354vSdZjh5OLJE_xUbXycNNgjXcrb89Yk7gT1nllkCvVV_Eo6kZVA1-qT41=h310",
+        "//lh4.ggpht.com/oFnoTOEfYbB-GaoLTBIuDuYFcmcsL4ix_6qmRYDdesy2W_lmqsEc3Xgt-Q-jZOSD7ZxF=h310",
+        "//lh6.ggpht.com/Qp0eVNC-AVypYVSTYLK7L9AKuDTAEo-1DYd9a8-0HnHIyP_1BCyQqLJbfYCpPgdZMAEZ=h310",
+        "//lh5.ggpht.com/Oor6wooyU1kYtzVedqLXuwNxvomGVzPiCFip2C-31nLIVQKz4sCXarIlW3j8xUjpV3g=h310"
+    ],
+    "comments": [
+        "somebody forgot a space between the web address and a null",
+        "App is just the mobile website. Sometimes paying online via the app can be a true hassle as it crash/bug/ask to open in another app, just redirect to the website or if you're lucky works as intended.",
+        "Could be better The app does not remember Paypal credentials (pizza.be app does it correctly). It always refers to Domino's Pizza Antwerpen Kiel. Very confusing when my address is in Gent.",
+        "Good app. Does what it has to. One minor: on crazy Tuesday and Saturday the coupon code is not automatically filled in, and you need to search online to find the code.",
+        "brilliant too good too easy .... im buying too much pizza now 😆",
+        "Wrong address Type street & post code, get right streetname in another postcode halfway across the country, just like the site, broken"
+    ],
+    "recentChanges": [
+        "Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=be.dominos.android&hl=en&gl=us",
+    "appId": "be.dominos.android"
+}

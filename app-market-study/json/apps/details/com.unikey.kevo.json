@@ -1,0 +1,59 @@
+{
+    "title": "Kevo",
+    "summary": "With Kevo, your Smartphone is now your key.",
+    "icon": "//lh6.ggpht.com/7wQk6c9M1kFkZTkheR0pZpLPsUr1DxMUmPYKbEHwPUatQcmW74LHa4J1GdoW_EDjjwQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.7,
+    "reviews": 2305,
+    "developer": "UniKey Technologies",
+    "developerId": "UniKey+Technologies",
+    "developerEmail": "customercare@kwikset.com",
+    "developerWebsite": "http://www.mykevo.com",
+    "updated": "September 12, 2017",
+    "version": "2.0.33p",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Download the Kevo app for use with the Kevo Touch-To-Open smart locks made by Kwikset and Weiser.No more fumbling for your keys. Keep your phone in your pocket or purse and just touch the smart lock to open.Send eKeys to family, friends and guests from anywhere, anytime with the mobile app or from the web. Control access by choosing to send an Anytime, Scheduled or Guest eKey.Check Kevo’s history to see lock/unlock events all users and set up notifications when they come home or leave.The Kevo Touch-To-Open smart locks are available from retailers in the USA (Kwikset) and Canada (Weiser). For more information or to buy a Kevo smart lock, visit www.kwikset.com/kevo or www.weiserlock.com/kevo.Kevo for Android is made possible by these wonderful open source projects: http://assets.unikey.com/open-source/android.html",
+    "descriptionHTML": "Download the Kevo app for use with the Kevo Touch-To-Open smart locks made by Kwikset and Weiser.<br><br><br>No more fumbling for your keys. Keep your phone in your pocket or purse and just touch the smart lock to open.<br><br><br>Send eKeys to family, friends and guests from anywhere, anytime with the mobile app or from the web. Control access by choosing to send an Anytime, Scheduled or Guest eKey.<br><br><br>Check Kevo&#x2019;s history to see lock/unlock events all users and set up notifications when they come home or leave.<br><br><br>The Kevo Touch-To-Open smart locks are available from retailers in the USA (Kwikset) and Canada (Weiser). For more information or to buy a Kevo smart lock, visit www.kwikset.com/kevo or www.weiserlock.com/kevo.<br><br><br>Kevo for Android is made possible by these wonderful open source projects: http://assets.unikey.com/open-source/android.html",
+    "histogram": {
+        "1": 454,
+        "2": 146,
+        "3": 191,
+        "4": 431,
+        "5": 1083
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Kei5gDMg31-3YRk3ij4tmVKmsvK6C1B2Xa_X989JDxaZGUm-_roY5h82GPRd_WhyNOc=h310",
+        "//lh3.googleusercontent.com/XLbVcUZCXkwQXxMq6sJR7B1KFb6F16Y6233dEQNZfItOLcR8f2DPSSPSRfEmERuP8Ns=h310",
+        "//lh3.googleusercontent.com/3vhTeTAVKs8ArIan679ZgyBjGelyi45lSENYATtO4e6OBGu9deTWu8hMKhKWQYD4OVw=h310"
+    ],
+    "video": "https://www.youtube.com/embed/3Hk7vDAsGW4",
+    "comments": [
+        "Installation was easy, and the setup was painless. When I downloaded the app, it initially stated that my Galaxy S5 Active wasn't compatible, but I was still able to calibrate both it and my key fob with no problems. It operates just fine on my Galaxy tablet as well. The software update downloaded and installed successfully. Now I love my new door lock. Just don't keep your key fob anywhere close to the lock, and you won't have any issues to deal with.",
+        "The only reason I'm not giving five stars is because the app has stopped showing all events in the lock history. It shows most of them, but not all. For example, my husband leaves for work and then a few hours later I might leave for work. It will not show me locking after leaving. If that were fixed, it would absolutely be five stars. Otherwise it is incredibly useful.",
+        "The privacy policy us almost as bad as Schlage's. Like most corporations they share with their partners which makes sense; however, how that information is protected and used beyond them is unspecified and not protected by the privacy policy. I would prefer apps and devices independent of GPS tracking, cloud based services, and data collection.  They should work independently of their creators. I like IP enabled devices that can be managed outside of their creators. I would be more comfortable with Quickset if they offered an app and device that did not collect or connect online. Just solely Bluetooth & NFC",
+        "This app has been working great since February 2017 but since the last couple of updates it doesn't work properly in any consistent way. I'm using a Samsung Galaxy S7 on Android 6.1 and its reliability has dropped to such a low point that I now need to carry physical keys with me because it only works less than 40% of the time. Sometimes I log off and back on the app works and sometimes it doesn't. I'm having the same issue on a second phone an iPhone 6. These are both Kevo 1st generation deadbolts.  Same issue with both locks.",
+        "The touch-to-lock/unlock functions work fine, which is good and the primary reason I got the lock in the first place. The Android Wear compatibility was great too! Then they broke the Android Wear aspect and haven't fixed it.  C'mon Unikey, you're a big company with a lot of resources: put more into Android and AW development!",
+        "Doesn't work with the Google Pixel XL2 and I've had the phone for about 3 months now. Back to using the old fashioned key. Super annoying. Kevo needs faster updates for compatibility. Had issues with my Galaxy S7 before this phone, go figure. Super excited and impressed by the lock at first but where is the tech support??!!"
+    ],
+    "recentChanges": [
+        "Resolved a number of app crashes",
+        "Resolved a software update issue for Kevo Convert when used with Galaxy S7",
+        "Resolved several issues with changing scheduled eKeys",
+        "Resolved an issue where Kevo would not auto start following power cycling device",
+        "Fixed a hang problem on a new install if Bluetooth is disabled",
+        "Fixed an issue where attempting to change user profile resulted in an error",
+        "Fixed an issue where attempting to rename an Anytime eKey failed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.unikey.kevo&hl=en&gl=us",
+    "appId": "com.unikey.kevo"
+}

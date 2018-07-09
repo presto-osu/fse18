@@ -1,0 +1,44 @@
+{
+    "title": "Sonos Wear",
+    "summary": "Able to control your Sonos music system from smartwatch",
+    "icon": "//lh4.ggpht.com/siXjcjmCcvd5WkRahSAWZANSdGzJdgziJmOppeIWqiOHvmUR4hv1bpVjQOhgHL7xPg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.3,
+    "reviews": 7,
+    "developer": "Agafi",
+    "developerId": "Agafi",
+    "developerEmail": "agafi.st@gmail.com",
+    "updated": "January 7, 2015",
+    "version": "1.0",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "You can control one Sonos system directly from your smartwatch.Insert the ip on the mobile app and then control your system from the watch.I have tested it on N5 and LG G R and Sonos Playbar.Give me any feedback.",
+    "descriptionHTML": "You can control one Sonos system directly from your smartwatch.<br><br>Insert the ip on the mobile app and then control your system from the watch.<br><br>I have tested it on N5 and LG G R and Sonos Playbar.<br><br>Give me any feedback.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/Xr1hrcZtFZnF0eOxTW3UZZWzVTmMnt3lPyzBq35pJISU6DaNg44dlMbIcpJkxZSU9F_9=h310",
+        "//lh3.ggpht.com/dnTXPZWoRknApp1oFc_2cak0ae3AolGldboS8VoaNzkbjXAfD516Ew-DLxk6SOAxjkyv=h310",
+        "//lh3.ggpht.com/D_nEA5jc5CNVPDjaR0NKlo5R5c3Z73BchUsjqEa3cFtl66QTQS4vZLR0wPKISz0e4Gx7=h310"
+    ],
+    "comments": [
+        "needs more devices control you can only control over sonos device. I have about 7 devices"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=it.mp.sonoswear&hl=en&gl=us",
+    "appId": "it.mp.sonoswear"
+}

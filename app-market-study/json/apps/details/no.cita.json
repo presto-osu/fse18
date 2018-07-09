@@ -1,0 +1,56 @@
+{
+    "title": "Aftenposten",
+    "summary": "Aftenposten for Android keeps you up to date wherever you are!",
+    "icon": "//lh3.googleusercontent.com/0HQ3-9UpekiBr3iy9UsJrLGpw-bFJq893RrMMnoU10yczPPdFlY5dq6iq5xt4smgFA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.1,
+    "reviews": 3306,
+    "developer": "Aftenposten",
+    "developerId": "8203262268636094614",
+    "developerEmail": "mobil@aftenposten.no",
+    "developerWebsite": "http://www.aftenposten.no",
+    "developerAddress": "Akersgata 55\n0180 OSLO",
+    "updated": "March 4, 2018",
+    "version": "4.1.1",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "Aftenposten for Android keeps you up to date wherever you are!Top features- The latest news from Aftenposten- Save articles you want to read later- Create your own content menu by searching for your favorite subjects- Customize your own breaking news notifications- Homescreen widget- Read six articles a week for free- Log in and try our subscription service for 1 nok to gain unlimited access to all our digital content in apps and webpages.Subscribers will get:- Unlimited access to all news from AftenpostenThe Aftenposten app need certain permissions to give you the best possible reading experience. Here is a description about what the permissions are for.- Identity and device ID: required for receiving news notifications- Access Coarse and Fine location: This permission allows the app to give you more relevant content, as well as provide you with the weather forecast in your location.- WiFi connection information: Gives the app permission to use nearby WiFi networks instead of your mobile network. The app needs internet connection to load content, and will adapt to your connection speed.- Photo/Media/Files: To reduce load times and data usage the app will temporarily cache images and content on your device. This permission also allows you to add media when sending news tip from the app.Follow us on:Google+: https://plus.google.com/+aftenposten/postsFacebook: https://www.facebook.com/aftenpostenTwitter: https://twitter.com/Aftenposten",
+    "descriptionHTML": "Aftenposten for Android keeps you up to date wherever you are!<br><br>Top features<br>- The latest news from Aftenposten<br>- Save articles you want to read later<br>- Create your own content menu by searching for your favorite subjects<br>- Customize your own breaking news notifications<br>- Homescreen widget<br><br>- Read six articles a week for free<br>- Log in and try our subscription service for 1 nok to gain unlimited access to all our digital content in apps and webpages.<br><br>Subscribers will get:<br>- Unlimited access to all news from Aftenposten<br><br>The Aftenposten app need certain permissions to give you the best possible reading experience. Here is a description about what the permissions are for.<br>- Identity and device ID: required for receiving news notifications<br>- Access Coarse and Fine location: This permission allows the app to give you more relevant content, as well as provide you with the weather forecast in your location.<br>- WiFi connection information: Gives the app permission to use nearby WiFi networks instead of your mobile network. The app needs internet connection to load content, and will adapt to your connection speed.<br>- Photo/Media/Files: To reduce load times and data usage the app will temporarily cache images and content on your device. This permission also allows you to add media when sending news tip from the app.<br><br>Follow us on:<br>Google+: https://plus.google.com/+aftenposten/posts<br>Facebook: https://www.facebook.com/aftenposten<br>Twitter: https://twitter.com/Aftenposten",
+    "histogram": {
+        "1": 199,
+        "2": 148,
+        "3": 257,
+        "4": 1234,
+        "5": 1468
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone 10+",
+    "screenshots": [
+        "//lh3.googleusercontent.com/HNFiTlWHU3CD5zvU01Pjn7o6ll7ZGXeb_ZBPfgmtqgSp-0TTtqzMIbIbiZ-xqqWEbw=h310",
+        "//lh3.googleusercontent.com/Q_SQixwfo8sd7sKV4wSrm-KZf62GxsYl2O5IVM1WEtz7FqZIfS8Ij-aSOjxKzJ9qETw=h310",
+        "//lh3.googleusercontent.com/mGrwxds6Cv-3iIOtvb0sE-SuHynGU5niykfzy-bIqelg6O13OsS1v28g7lAQlPcHlOYf=h310",
+        "//lh3.googleusercontent.com/ORvwSo-G_YQCLGM8KcgtTflXiUIUPn8ScKh4hR5Zh2UOH4ICLZ2sa1vb228pEdJUVg=h310",
+        "//lh3.googleusercontent.com/S5LnZf9Y18-m486eVCmDXwsXEvG4m9gq-ztffR4StElykJ1wa6Mzy5NJ9Cj0v5MRi5s=h310"
+    ],
+    "comments": [
+        "Siste oppdatering took den ut av sirupskrukka. Nå åpnes artikler umiddelbart. (note8)",
+        "Brukte denne appen for nyhetsvarsel, men det har sluttet helt å fungere. For å lese selve avisa er fortsatt nettsida veldig mye bedre. Og hvorfor insisterer appen å åpne ting i Chrome og ikke i standard nettleser?",
+        "Fremdeles problemer med widget for Android 8.0. ingen mulighet for å oppfriske widget og den viser dermed gamle nyheter",
+        "Appen viser reklame selv om man har betalt abonnement. Double dipping kalles det. Har sagt opp abonnementet og kommer ikke tilbake før reklamen er borte.",
+        "Denne appen har sluttet å fungere normalt. Når jeg klikker på en artikkel på forsiden får jeg en blank side mesteparten av tiden. Jeg venter lenge i håp om at artikkelen skal lastes, men ingen ting skjer. Går tilbake og prøver på nytt med samme resultat. Bruker jeg en nettleser på telefonen i steden, så går det lynraskt å klikke seg inn på artikler fra forsiden. Kommer til å slette denne og bare bruke nettleser fremover.",
+        "Treg, dårlig brukergrensesnitt og irriterende varsling inne i appen. Aftenposten har mye bra innhold så merkelig at de ikke bruker litt mer ressurser på å presentere det på en skikkelig måte"
+    ],
+    "recentChanges": [
+        "- I denne versjonen har vi laget en nyhetsvarselliste som ligger nederst i menyen",
+        "- Mange forbedringer og feilrettinger"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=no.cita&hl=en&gl=us",
+    "appId": "no.cita"
+}

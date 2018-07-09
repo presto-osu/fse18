@@ -1,0 +1,54 @@
+{
+    "title": "Speed Trap Pro",
+    "summary": "Speed Trap helps you to be warned about the presence of speed cameras.",
+    "icon": "//lh3.googleusercontent.com/AFRXRRIv97hHWsnPkEAb4zcs4T6vDDJwwaRQEo-2Q-osPTB39aid3tbyaQJkJWK090SH=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 46,
+    "developer": "Marco Stornelli",
+    "developerId": "6982888636488378244",
+    "developerEmail": "playappassistance@gmail.com",
+    "developerWebsite": "http://speedtrap.altervista.org",
+    "developerAddress": "Via poggio SNC, 00100, Italy",
+    "updated": "February 5, 2018",
+    "version": "5.0.2",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": " ** With the application does not provide any default database ** To know where to download the points and read the manual visit Speed Trap (link at the bottom of the page).The pro version includes more features than the free version:1) Delete files after import2) Integration with the most popular applications of automation3) Export Data4) Vibration5) HUD6) Support for Android Wear7) Map Editor with 3d display8) Support Bluetooth9) Widgets10) Voice activation11) Auto update via plugin12) Import/Export and settings for backup13) Bluetooth headset supportSome images from: http://www.wear-generator.com according to CC BY 3.0 http://creativecommons.org/licenses/by/3.0/",
+    "descriptionHTML": "<b> ** With the application does not provide any default database ** </b><br><br>To know where to download the points and read the manual visit Speed Trap (link at the bottom of the page).<br><br>The pro version includes more features than the free version:<br>1) Delete files after import<br>2) Integration with the most popular applications of automation<br>3) Export Data<br>4) Vibration<br>5) HUD<br>6) Support for Android Wear<br>7) Map Editor with 3d display<br>8) Support Bluetooth<br>9) Widgets<br>10) Voice activation<br>11) Auto update via plugin<br>12) Import/Export and settings for backup<br>13) Bluetooth headset support<br><br><br>Some images from: http://www.wear-generator.com according to CC BY 3.0 http://creativecommons.org/licenses/by/3.0/",
+    "histogram": {
+        "1": 7,
+        "2": 2,
+        "3": 3,
+        "4": 8,
+        "5": 26
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/wZwRglhSjuZy4M2j2s5ZXU4kiLR7w3M7V4H4qziQlDRz9CS8aroOotfichTnXriibmM=h310",
+        "//lh3.ggpht.com/XfmyZtWJhe3nYig_VQzSvAY6E3d7kiS_ugDXZGZX9SGjYcR1wwpva_p8W2iBNCyNeIYo=h310",
+        "//lh5.ggpht.com/KX77Gcpmhqgp0Rhl6SodiL_aLoShA-EhhDArJQE2zeUeJXesb99LZoQz_brVrKqv7w=h310",
+        "//lh4.ggpht.com/h5FVnqLDCpXsF_DWA-zY-qQ6zM7rfSGcaChw7UQbNEx7mhbepo_bpFG1K2x7GbfbnDY=h310",
+        "//lh6.ggpht.com/h4qG8SIexaIC-bwd8fYbEu7nuFQyzme4y5w8JVCCu-4m0CmBoe8qzgFU6YiO32htmAw=h310",
+        "//lh4.ggpht.com/xe_o7DIcac5N5HTHii5Y9tMK9F1uNfeQJ8Hn757d8Jg9OSh73pqbUkSU3JAvzUqLI-ha=h310",
+        "//lh5.ggpht.com/9tJatpvCsdUppwYCfNd4FmOVdOAdx_PWIH6Te36KY8I2w_5VHKAlDfzwXrCRQQLkbiK_=h310",
+        "//lh3.googleusercontent.com/0-HLBGDmnUuqOtUGP4sfHirqA6RZ3Iik3u6Goop8p7AImUfhv-LNB4UQ4E2V_4Kc7dg=h310"
+    ],
+    "video": "https://www.youtube.com/embed/sMWLUumTPt0",
+    "comments": [
+        "excellent and has a manual and very good support (I was having problems with file import)"
+    ],
+    "recentChanges": [
+        "Widget didn't work on android 8+"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.balda.speedtrappro&hl=en&gl=us",
+    "appId": "com.balda.speedtrappro"
+}

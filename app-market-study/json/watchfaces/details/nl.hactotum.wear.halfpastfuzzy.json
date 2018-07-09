@@ -1,0 +1,61 @@
+{
+    "title": "Half Past Fuzzy (Watch Face)",
+    "summary": "A minimalistic &quot;fuzzy&quot; watch face for your Android Wear device.",
+    "icon": "//lh4.ggpht.com/vvRFzoAF1KBfpe4_Y_XULgmKmN-EJoWy8zTETDPd_hh2HseFfc_rc-MLanbna0C3Y-o=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 29,
+    "developer": "Hactotum",
+    "developerId": "Hactotum",
+    "developerEmail": "info@hactotum.nl",
+    "developerWebsite": "http://hactotum.nl/android/halfpastfuzzy/",
+    "developerAddress": "Theeheuvellaan 5\n3903 DE Veenendaal\nThe Netherlands",
+    "updated": "July 12, 2015",
+    "version": "1.1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A minimalistic \"fuzzy\" watch face that shows an approximation of the current time, as text.Colors, font sizes and display style can be customized.It is now possible to define color-presets, which you can switch to locally on the watch -- without needing to grab your phone.(This clock only supports English or Dutch. All other languages will get the text displayed in English.)",
+    "descriptionHTML": "A minimalistic &quot;fuzzy&quot; watch face that shows an approximation of the current time, as text.<br><br>Colors, font sizes and display style can be customized.<br><br>It is now possible to define color-presets, which you can switch to locally on the watch -- without needing to grab your phone.<br><br>(This clock only supports English or Dutch. All other languages will get the text displayed in English.)",
+    "histogram": {
+        "1": 1,
+        "2": 4,
+        "3": 6,
+        "4": 5,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/4F3v0fWoYuvIyqkHzqjLwd4774_WXaMlL_dC1vTqsugrV1tyE1Mj29Pe6t54C359D7Q=h310",
+        "//lh4.ggpht.com/5PkhCrW4cbbXLqLuHiopjVouHap8N2y981HUebCup6kkTL3Ec1wNUmb8LQh1axsa5kg=h310",
+        "//lh4.ggpht.com/hDWxo1c6yiNmTHTbH02Jq_F9Q11htBj3euZsb1IfdkCxeUGjYsO8bU8Y4okSsXmeWHo=h310",
+        "//lh3.googleusercontent.com/xJmYMlcFBAFFq6BZATomYQG5BkPTLN4tsonzWRMDj-gtmclqs1DS612TriyX-g3ImTc=h310",
+        "//lh3.googleusercontent.com/ADEWCTvK5So4pm5d_aVPOLSQMzioBxgGcW1IUX2lbNYWZf6sGf7eCoW0nMPoJr8eAN0=h310",
+        "//lh3.googleusercontent.com/dWzm2L7TgwIZhctwBIRulUCmu5dsgjXzU0CfjNU-2lQ7Na32rh-aSDVPj5dyt97Hcac=h310",
+        "//lh3.googleusercontent.com/dg0yYZKtj-4Uy7BX74woQvTiKvlwpTDgXIzvZQs7gXIBRTx9KaPl4pVZwbwK9-Z_sPI=h310"
+    ],
+    "comments": [
+        "Fuzzy implementation needs work. I'm using the \"Fuzzier\" setting, and at 10:28 the watch was telling me \"Quarter past Ten\" despite it being much closer to half-past. Similarly, at 11:48 the watch is saying \"Noon\" even though 11:48 is closer to \"Quarter till noon\" than to \"Noon\". Other than this complaint, the watch face is excellent. Wonderful customization options, ability to change font, color, size and wording.",
+        "Great amount of customisability and the basic fuzziness setting gives ~5 minute accuracy, which is what I was after. Only issues are cards cover bottom string if it's of a reasonable size and no complications for date. Perhaps allow the display to resize or rearrange if a card is present.",
+        "Nearly ten years ago, I learned of a project where someone was planning to create a watch which would tell the approximate time.  I thought it was a terrific idea and every so often, I'd check the project webpage to see if there was any progress and saw nothing (well, nothing meaningful).  A few months ago, I learned of a watch which merely shows the hour hand (and the noon mark on the face is where noon is supposed to be, straight up!).  I thought that was really cool, too, but couldn't justify spending a few hundred bucks on a watch that did nothing but tell the (approximate) time.  How incredibly lucky I am to live in a world where I have a smartwatch that lets me install a watchface that gives me either of the above two concepts (and thousands more).  Are there things I'd like to change about HPF?  Sure.  Are there other things in my life I'd like to change?  Sure.  But sometimes I need to be okay with things being the way they are.  Heck, if I wait a few minutes, they'll change.  :)   Thank you, Hactotum, for making this awesome face available to us for free.",
+        "Pretty much what I wanted, although it'd be nice to have a date option. It'd be cool if the amount of adjustable fuzzy was more fine grained on the useful side (IE lowest would be increments of five) similar to the fuzzy clock in KDE systems.",
+        "😂😂😂 Fuzziness factor extreme. Text too dark in ambient only seen in dark area. Wish there's a slider for that too",
+        "While there's no date display in fuzzy mode, it's still a great holiday watch face, and my favourite of its kind."
+    ],
+    "recentChanges": [
+        "New in 1.1.5:",
+        "- Fixed problems with Dutch language setting around midnight.",
+        "New in 1.1.4",
+        "- Added extra settings tab for language override and card peek size,",
+        "- Updated Google Play Services"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=nl.hactotum.wear.halfpastfuzzy&hl=en&gl=us",
+    "appId": "nl.hactotum.wear.halfpastfuzzy"
+}

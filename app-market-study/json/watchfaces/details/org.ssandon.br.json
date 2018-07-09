@@ -1,0 +1,59 @@
+{
+    "title": "Aviator Watch",
+    "summary": "Watch for Pilotes",
+    "icon": "//lh3.googleusercontent.com/yim148r2O1wOAmQZN8E0dxXXhhQC360mGMmI79p4rbUKf5v-4fErSxGGvFIJJjZR2XAC=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 8,
+    "developer": "Stéphane Sandon",
+    "developerId": "St%C3%A9phane+Sandon",
+    "developerEmail": "stephane.sandon@gmail.com",
+    "developerAddress": "9 rue Adrien Ricard\n38000 GRENOBLE",
+    "updated": "February 13, 2016",
+    "version": "2.0.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "★★ Watch for Pilotes ★★For Pilotes who wants to be informed on weather information on their prefered airport. Designed for Moto 360, Sony Smartwatch 3, Samsung Gear Live.This watch is not only beautifull, it also features high performance rendering and was designed to achieve high energy efficiency for a full action day.Features- Awesome Designed Watch Face,- Touch screen,- Hours, Minutes,- Smooth Second Hand,- Day of the month,- Battery Gauge,- Weather (Airport observed QNH Pressure, Temperature),- Chronometer (start, stop, reset),- Take your Heart Rate directly on the watch, (1)(2)- Notification / Vibrator,- Animated Dials,- Energy saver Dim mode,- Energy saver in Interactive mode when low on energy.(1) : Your watch needs a Heart Rate sensor.(2) : Normal Heart Rate frequency increases with altitude.",
+    "descriptionHTML": "&#x2605;&#x2605; Watch for Pilotes &#x2605;&#x2605;<br><br>For Pilotes who wants to be informed on weather information on their prefered airport. <br><br>Designed for Moto 360, Sony Smartwatch 3, Samsung Gear Live.<br><br>This watch is not only beautifull, it also features high performance rendering <br>and was designed to achieve high energy efficiency for a full action day.<br><br>Features<br><br>- Awesome Designed Watch Face,<br><br>- Touch screen,<br><br>- Hours, Minutes,<br><br>- Smooth Second Hand,<br><br>- Day of the month,<br><br>- Battery Gauge,<br><br>- Weather (Airport observed QNH Pressure, Temperature),<br><br>- Chronometer (start, stop, reset),<br><br>- Take your Heart Rate directly on the watch, (1)(2)<br><br>- Notification / Vibrator,<br><br>- Animated Dials,<br><br>- Energy saver Dim mode,<br><br>- Energy saver in Interactive mode when low on energy.<br><br>(1) : Your watch needs a Heart Rate sensor.<br>(2) : Normal Heart Rate frequency increases with altitude.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/0H2HXYN0cd5gFHWC_pBJqfrIHENpmnpFoVvuzAX0v1b3UaJKAszLgi4VummeaGklHv8=h310",
+        "//lh3.googleusercontent.com/jjPatQuwUAlFhT0w3Kug-X1ytFfYULKitM6-w_H4BNNCxXdSIgbFP-yHs_1I5m6iKyI=h310",
+        "//lh3.googleusercontent.com/GxDT9e1ZYCJvsw4f9iAVbYx3Kcc55U1BQwtdhrhtlF4bcNSfNdIdG2LhM-9KT0UNBiMW=h310",
+        "//lh5.ggpht.com/GBwMw2itv_pc_ovS-RSB9GzmCvp1Vojcxul7C4yzr_LQ1zKG3TULDygO9zeWvl5zOw=h310",
+        "//lh4.ggpht.com/ebweZn-ASpE8l36HAEjcHvkzTR7f-yA2e12HLtM5uNJGGzcOrAb1QhauafQckmt5U_g=h310",
+        "//lh4.ggpht.com/dIC-G4ofIQ6_CRfLoT2CpFM0OfKsXt-6mrJc-J3rTNuBKfpebDWs5hVTBO6Qr5BmIEE=h310",
+        "//lh3.googleusercontent.com/2yVye_7_-ywyOK9RbgCkTpIoTR1TBrAXuXdXCzionxw4AyQNHAUQQwLtygFZA8LJxoWa=h310",
+        "//lh3.googleusercontent.com/-JaomFMk9wE-fWa6m2fZPl1o_Dgixh88a6TWJrdp2PdqKfq8EeDvh1w2qEylRVc9azA=h310"
+    ],
+    "comments": [
+        "Problem - Sony SW3 Hi Stephane. The pressure and weather will not update no matter what i do. Please fix. Using CYYZ and CYKZ...No luck. Also, maybe have choice of red or blue hands on a white background with black indicators? Just a suggestion. Thanks!",
+        "Really like this... But on my SW3 the date is slightly obscured by the 3 and the date could be a little bit larger. In my opinion the text box spoils the look of the watchface so please make it optional. Also the batter meter is a little bit too large as it covers the 6."
+    ],
+    "recentChanges": [
+        "v2.0.2 : fix error with last Android Wear.",
+        "v2.0.1 : new mode : you can now check your heart rate from the watch !",
+        "v2.0.0 : version with touch screen, chronometer, ...",
+        "v1.2.1 : minor adjustment.",
+        "v1.2.0 : fix incomplete Metar use case, little design fix.",
+        "v1.1.0 : add temperature, lcd watch settings, style fix in airports list.",
+        "v1.0.0 : initial release."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.ssandon.br&hl=en&gl=us",
+    "appId": "org.ssandon.br"
+}

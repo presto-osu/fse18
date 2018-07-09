@@ -1,0 +1,49 @@
+{
+    "title": "LG Call forwarding",
+    "summary": "You can forward calls to watch when incoming call are not answered on phone.",
+    "icon": "//lh3.googleusercontent.com/TekUNJFWykG7NHfI9VSNzrmr-MRfX33LK4KaVY4EGzvsdmIvrfEPBLw8O3Q_KlDXB3g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 27,
+    "developer": "LG Electronics, Inc.",
+    "developerId": "6033443741999759446",
+    "developerEmail": "LGEAppsCS@lge.com",
+    "developerWebsite": "https://kr.m.lgaccount.com/customer/privacy",
+    "updated": "March 25, 2016",
+    "version": "5.1.1",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Left your phone at home and go out for a while? Left your phone at office and move to a different place for a while?You can forward calls to watch when incoming call are not answered on mobile phone by one click button on the watch.Before using the app, watch needs to be connected with phone and the phone has to be turned on.If you want to forward calls to watch click ‘on’ and if you want to turn off click ‘off’.● Warning- Compatible with the LG Smart Watch that provides call feature, except VZW smart watch.- According to the mobile phone service provider, you need to require a subscription in advance the call forwarding service.- Before using the app, ask to mobile phone service provider. (Can be paid for the call forwarding service, according to the service provider)- Function may not work depending on network condition, please contact the mobile phone service providers.- According to mobile phone providers can provide additional service to forward calls remotely, please contact the service providers.",
+    "descriptionHTML": "Left your phone at home and go out for a while? Left your phone at office and move to a different place for a while?<br><br>You can forward calls to watch when incoming call are not answered on mobile phone by one click button on the watch.<br><br>Before using the app, watch needs to be connected with phone and the phone has to be turned on.<br><br>If you want to forward calls to watch click &#x2018;on&#x2019; and if you want to turn off click &#x2018;off&#x2019;.<br><br><br>&#x25CF; Warning<br><br>- Compatible with the LG Smart Watch that provides call feature, except VZW smart watch.<br><br>- According to the mobile phone service provider, you need to require a subscription in advance the call forwarding service.<br><br>- Before using the app, ask to mobile phone service provider. (Can be paid for the call forwarding service, according to the service provider)<br><br>- Function may not work depending on network condition, please contact the mobile phone service providers.<br><br>- According to mobile phone providers can provide additional service to forward calls remotely, please contact the service providers.",
+    "histogram": {
+        "1": 7,
+        "2": 3,
+        "3": 1,
+        "4": 5,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hglM95pkP_d1XDoOVZ5M91d627KEkWJ34oOTVuaYSC2V4_VPmVK8bi5FETOG4hp42yM=h310",
+        "//lh3.googleusercontent.com/JejmDobdTZpzJA57cLL2KLPxor5pLyRSDMtiUu38QdJ77e7e25ExjEbr3y6OJHZV63yN=h310",
+        "//lh3.googleusercontent.com/7vl-YuUk4uypc62EAD5BSS90cRRiR_IBh0xzMTggB-oBvZXaHpr9A80JVOkb48TXzw=h310",
+        "//lh3.googleusercontent.com/z3664LY_4Mw5lNEPXV_Sy6qYM12tZtQrwpU97nORKZboG-nt5IlHgo1-NczI43Me_FQ=h310"
+    ],
+    "comments": [
+        "Not working I have huawei p9 smartphone which is connected to my lg urbane 2 LTE but unfortunately this application doesn't work on my watch keep showing invalid sim!I make calls using my watch with O2 sim card in it what mean I have the watch like a standalone phone can call browse the web but when comes to call forwarding nope is doesn't seem to work at all",
+        "This works for me :-)  Urbane 2nd W200E (AW1.5) with S7 Edge Be sure to allow phone permissions for the app on the watch after install.",
+        "I have brand new ATT LG Watch Sport and it says not compatible with this device",
+        "Does not work either, keep sending me to the play store."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.lge.callforwarding&hl=en&gl=us",
+    "appId": "com.lge.callforwarding"
+}

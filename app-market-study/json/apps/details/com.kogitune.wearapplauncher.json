@@ -1,0 +1,48 @@
+{
+    "title": "Wear Launcher",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh4.ggpht.com/Wa-1_6dRXz0n1rdoGkucu1qldjvddV6B6zW5ObJHRWXUH-F1HPCi8zBncjmyC8MKYfNf=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 10,
+    "developer": "takam",
+    "developerId": "takam",
+    "developerEmail": "takam.dev@gmail.com",
+    "developerWebsite": "http://kogitune.com",
+    "updated": "July 13, 2014",
+    "version": "1.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app add Launcher NotificationI am investigating bug that screen become gray.",
+    "descriptionHTML": "This app add Launcher Notification<br><br>I am investigating bug that screen become gray.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 5,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/J6jjHG0Qf6CrTis7iwrhTG-aIjgGwg2FznldbRZCeenqF994L-a3JvIpeKcCkkSpQro=h310",
+        "//lh6.ggpht.com/WGin_GswcJxG6isguMCcMqGQjqa4ZIIUoLU38zYwnvTJjqIkEB_ZZ3_AXs1Fx_jlRDo=h310",
+        "//lh3.ggpht.com/OmgXouNReJhkFBQc2hzDG0IN2dO6TlhWAGxsVx7GygCtK3i7va03HY0fwa6BnRoc_b8=h310"
+    ],
+    "comments": [
+        "Too zoomed in on round face Quick and east to use, but doesn't display well on round (LG G Watch R) watchfaces. Needs to zoom out a bit.",
+        "Not working App will not run on my moto 360."
+    ],
+    "recentChanges": [
+        "画像以外はリリースできる状態に"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kogitune.wearapplauncher&hl=en&gl=us",
+    "appId": "com.kogitune.wearapplauncher"
+}

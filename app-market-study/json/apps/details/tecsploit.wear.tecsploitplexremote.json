@@ -1,0 +1,49 @@
+{
+    "title": "Android Wear Plex Remote",
+    "summary": "Plex Remote Control for android wear, supports both square and round devices",
+    "icon": "//lh6.ggpht.com/qqveD7QzCWrmsMvXbYP8PCnyy1Cs0YCzRReupJMpXPvKY-VrmjCoaTol5OJr7gzdeQ=w300",
+    "price": "$1.54",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 1.5,
+    "reviews": 6,
+    "developer": "TecSploit",
+    "developerId": "TecSploit",
+    "developerEmail": "tecsploit@gmail.com",
+    "developerWebsite": "http://www.tecsploit.com",
+    "developerAddress": "29 the grange\nHorninglow\nBurton on trent",
+    "updated": "May 2, 2015",
+    "version": "1.3",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "This is a universal remote control for Plex clients that allows you to control multiple Plex clients from an easy to use Google Wear device.Compatible with both square and circular Android Wear devices, and tested to work with Plex Home Theater, Plex Media Center, Plex for Android, Plex for IOS and Rasplex (a Plex client for the Raspberry Pi)FeaturesSupports Plex Managed UsersAutomatic client discoveryNavigate menus on the client and play media (up, down, left, right, back, select)Play, Stop, Pause media that is playingControl multiple clients (by selecting which client you wish to control on the handheld device)SetupBefore using the remote you should configure the Plex server address and choose the client on the mobile app.You can then launch the application on Android Wear device and take control of your Plex client.If you use Plex Managed users you will also need to check the 'Use Managed Logins' check box from within the mobile app and then enter your Plex TV websites username and password, NOTE that this the credentials you use to log into the Plex TV website, not the pin of the Plex user. Support If you find any bugs or problems please report them to tecsploit@gmail.com - we will respond to all emails and will fix any problemsIf you have any requests for new features please send them to tecsploit@gmail.com, this app is under constant development and we will be pushing out new features as soon as we can add them.Also available on Sony Smart Watch 2 - search for Smart Connect extension for SmartWatch 2 Plex",
+    "descriptionHTML": "This is a universal remote control for Plex clients that allows you to control multiple Plex clients from an easy to use Google Wear device.<br><br>Compatible with both square and circular Android Wear devices, and tested to work with Plex Home Theater, Plex Media Center, Plex for Android, Plex for IOS and Rasplex (a Plex client for the Raspberry Pi)<br><br><b>Features</b><br>Supports Plex Managed Users<br>Automatic client discovery<br>Navigate menus on the client and play media (up, down, left, right, back, select)<br>Play, Stop, Pause media that is playing<br>Control multiple clients (by selecting which client you wish to control on the handheld device)<br><br><b>Setup</b><br>Before using the remote you should configure the Plex server address and choose the client on the mobile app.<br>You can then launch the application on Android Wear device and take control of your Plex client.<br><br>If you use Plex Managed users you will also need to check the &apos;Use Managed Logins&apos; check box from within the mobile app and then enter your Plex TV websites username and password, NOTE that this the credentials you use to log into the Plex TV website, not the pin of the Plex user.<br><br><b> Support </b><br>If you find any bugs or problems please report them to tecsploit@gmail.com - we will respond to all emails and will fix any problems<br>If you have any requests for new features please send them to tecsploit@gmail.com, this app is under constant development and we will be pushing out new features as soon as we can add them.<br><br>Also available on Sony Smart Watch 2 - search for Smart Connect extension for SmartWatch 2 Plex",
+    "histogram": {
+        "1": 5,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/lOVyrmvSMeNpG_-fueWpgPbEj0qZ2XGVz7hxZtKf918pJCKpFkMcIhw_pjuQwwdMUOU=h310",
+        "//lh3.googleusercontent.com/LM2TrbAgbVYV3yrpBnElqQ98SC4Y_WQocKomjITCv_TnXRX8chHP76RDlvgRCPosU6M=h310"
+    ],
+    "comments": [
+        "Volume buttons not working Unfortunately it is not possible to change the volume. Pressing the speaker buttons has no effect. However, this app is still a convenient way to play and pause.",
+        "Doesn't Don't waste your money. It doesn't work at all and the developer has no servive. This app should be removed for the Google store big time. I cannot get a refund. I guess I lost my money.",
+        "Does not work Whatever you do, don't download this, it does not work . Plex supports smartwatches automatically"
+    ],
+    "recentChanges": [
+        "Added support for Plex managed logins, you can now use your android smart watch to control plex even if you Plex Media Server is secured using Plex managed logins."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=tecsploit.wear.tecsploitplexremote&hl=en&gl=us",
+    "appId": "tecsploit.wear.tecsploitplexremote"
+}

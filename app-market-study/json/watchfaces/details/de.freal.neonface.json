@@ -1,0 +1,43 @@
+{
+    "title": "NeonFace Watchface",
+    "summary": "A moody neon-themed throwback for your wrist!",
+    "icon": "//lh3.googleusercontent.com/bcDbhZTvdtj0KVNxaHAVb87sXXWU7_uksw7YNP5V2dLMGI3X33cmq8r4UdpE9w71RQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 5,
+    "reviews": 3,
+    "developer": "TheFreal Studios",
+    "developerId": "TheFreal+Studios",
+    "developerEmail": "thefreal@gmail.com",
+    "updated": "January 12, 2017",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "What's cooler than a neon-themed watchface in 2017?Well, probably a lot of things. Explosions for one thing.But you can't get those on the Play Store if you don't own a Note7.So, this is the next coolest thing!",
+    "descriptionHTML": "What&apos;s cooler than a neon-themed watchface in 2017?<br>Well, probably a lot of things. <br>Explosions for one thing.<br>But you can&apos;t get those on the Play Store if you don&apos;t own a Note7.<br>So, this is the next coolest thing!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.1 and up",
+    "androidVersion": "5.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/zvLPOfqDLev_H2POGAgLKOIAnmXLrnxtoRJP-xHy1qw-bvsHvjJdl-2HhsH0qEnuxTg=h310",
+        "//lh3.googleusercontent.com/T7J79Y00DSxf9E6yiByCpbydbRGeBskL8OOXie5tIkuZuBp-an36UQGfBAtvpVLGwHg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Fixed a scaling issue on flat tired watches (looking at you, moto)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.freal.neonface&hl=en&gl=us",
+    "appId": "de.freal.neonface"
+}

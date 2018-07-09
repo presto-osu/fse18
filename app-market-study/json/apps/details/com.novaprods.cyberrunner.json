@@ -1,0 +1,62 @@
+{
+    "title": "Cyber Runner",
+    "summary": "Embark on a thrilling runner and shooter adventure in a futuristic forest!",
+    "icon": "//lh3.googleusercontent.com/4pV_N3atXVvT9aDEwX322K0IAy_Et2tQHYhmzVEd9HIXLM2wiWD8uDTuV6Ibho4AxA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.8,
+    "reviews": 125,
+    "developer": "Nova Productions",
+    "developerId": "Nova+Productions",
+    "developerEmail": "novaproductionsgames@gmail.com",
+    "developerWebsite": "https://docs.google.com/document/d/1rlJP4ciMvatDEGjhYOuz2oYF7xOHevZ42qWwO7VRkrk/edit?usp=sharing",
+    "updated": "January 24, 2016",
+    "version": "1.2.3",
+    "genre": "Adventure",
+    "genreId": "GAME_ADVENTURE",
+    "familyGenre": "Action & Adventure",
+    "familyGenreId": "FAMILY_ACTION",
+    "description": "Dash through an endless forest, crush your enemies and boost your skills with powerful bonuses! Get achievements and compete in leaderboards to become the best Cyber Runner! How long can you survive?Main Cyber Runner features:◉ Fast, addictive and challenging runner / shooter◉ Multiple enemies and mega bonuses◉ Customisable blaster to eradicate enemies◉ Beautiful graphics and visual effects◉ Stunning music and sound effects◉ Upgrades to enhance your powers ◉ Highscores, leaderboards and achievements◉ Simple controls◉ 100% free futuristic runner with no ads◉ Android Wear supportUnleash the power of Cyber Runner and begin your endless running journey!Have any feedback or suggestions? Reach us at: novaproductionsgames@gmail.comOur game has been tested on the following devices : Nexus 6, Galaxy S2, Moto G and Moto 360 (Wear). Some graphical elements were inspired by titles such as Megaman, Tyrian or Advanced Wars.",
+    "descriptionHTML": "Dash through an endless forest, crush your enemies and boost your skills with powerful bonuses! Get achievements and compete in leaderboards to become the best Cyber Runner! How long can you survive?<br><br><br>Main Cyber Runner features:<br>&#x25C9; Fast, addictive and challenging runner / shooter<br>&#x25C9; Multiple enemies and mega bonuses<br>&#x25C9; Customisable blaster to eradicate enemies<br>&#x25C9; Beautiful graphics and visual effects<br>&#x25C9; Stunning music and sound effects<br>&#x25C9; Upgrades to enhance your powers <br>&#x25C9; Highscores, leaderboards and achievements<br>&#x25C9; Simple controls<br>&#x25C9; 100% free futuristic runner with no ads<br>&#x25C9; Android Wear support<br><br>Unleash the power of Cyber Runner and begin your endless running journey!<br><br>Have any feedback or suggestions? Reach us at: novaproductionsgames@gmail.com<br><br>Our game has been tested on the following devices : Nexus 6, Galaxy S2, Moto G and Moto 360 (Wear). Some graphical elements were inspired by titles such as Megaman, Tyrian or Advanced Wars.",
+    "histogram": {
+        "1": 22,
+        "2": 9,
+        "3": 12,
+        "4": 11,
+        "5": 71
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/m8zNlVKmdIr74rZSNQ6MjYCRCKT-7YjzCP2puLldJDZK5Jir07zoShTK4wLGqp4UFOMJ=h310",
+        "//lh3.googleusercontent.com/wThX0JMFPi843dze9vF0gK0Wdhu4vVYrq5pGeBDS-uD5X6PCxFrBMyDh1aIlnBduFbU=h310",
+        "//lh3.googleusercontent.com/g--qwdq5_-5CNSTw01dquPNVcvSOz4oKXuZvV1lnarLOqkTF3ujyE7BGEOVKIsY5z-DV=h310",
+        "//lh3.googleusercontent.com/ynWXqEG6WDCO8WSKpGcR7nCQQRgeF-kV3b5NkgSnoGN9HdDHP3FvENRp08iy6zFn-Mc=h310",
+        "//lh3.googleusercontent.com/jMXzarOJB59iK31YNe-3HNhSDVwWiZAA--fSaP2KQVlShl2ohQzz52UyN_1Z8CRES6LY=h310",
+        "//lh3.googleusercontent.com/mPqmXYrak1u6B9r8UShDDCIWn7H-NcUiI0haV73SkxM_eRXLiZAzGXtBZbi5tji0EG9Y=h310",
+        "//lh3.googleusercontent.com/p8tewSN2BmFDHFuFgzSNaPwXKtY4A8d3fcNKgwMZfNZKNoAhSw-qawQ_rBg9r5iExhE=h310",
+        "//lh3.googleusercontent.com/2IcPf12g3Hb4IJ0cLmfRR7nUEgn1Wdng0EpAnJv9iDVhnkPxZ_fVewL7kFCzn9wFhBg=h310"
+    ],
+    "comments": [
+        "Cool",
+        "Pretty fun. Graphics and music remind me of megaman. I would change the starter bullets to something that doesnt blink do much tho.",
+        "I enjoyed it and the challenge it provided. Who needs wings if you can jump that high!",
+        "Great Very addictive game! I love the old school graphic style.",
+        "Simple but addictive. Very nice game for relax.",
+        "Awesome game. Really addictive!"
+    ],
+    "recentChanges": [
+        "- Increased damage cool down by 50%.",
+        "- Slightly decreased speed of green orb bullets.",
+        "- Other minor tweaks.",
+        "- Updated to latest libraries."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.novaprods.cyberrunner&hl=en&gl=us",
+    "appId": "com.novaprods.cyberrunner"
+}

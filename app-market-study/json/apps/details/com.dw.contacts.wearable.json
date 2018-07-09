@@ -1,0 +1,51 @@
+{
+    "title": "DW Contacts Wear",
+    "summary": "Making a call from your watch",
+    "icon": "//lh4.ggpht.com/ZBk4nW4mWJIeCsGIZPv3mN2-5jrCDapwnG79YuaWaHVl9Y0032Nh2xTCxeD5Ys4KidY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.3,
+    "reviews": 33,
+    "developer": "DWP",
+    "developerId": "DWP",
+    "developerEmail": "support@dw-p.net",
+    "developerWebsite": "http://www.dw-p.net/",
+    "developerAddress": "BLK G, 7/F, East Sun Ind. Cent\n16 Shing Yip St, Kwun tong,\nHong Kong",
+    "updated": "March 9, 2015",
+    "version": "0.0.0.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Making a call from your watchIf you install DW Contacts, you can also use the speed dial.Note that it only allows you to dial from the watch. If you need to talk you also need to pick up the phone or Bluetooth headset.",
+    "descriptionHTML": "Making a call from your watch<br>If you install DW Contacts, you can also use the speed dial.<br><br>Note that it only allows you to dial from the watch. If you need to talk you also need to pick up the phone or Bluetooth headset.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 3,
+        "4": 2,
+        "5": 24
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/MoLLUuA1jN51rkGNCmwJM3HTWSc0F_mW-CUXSiHOiO0-jRRhx3EdWM0yxIfGJD-4EcAK=h310",
+        "//lh5.ggpht.com/FKr1hIY2Zu773_phN5M2cyitBY_tEi_l8jPp6S90MXWP6AVcGKawpVsQD11bVWT1p7A=h310",
+        "//lh4.ggpht.com/JSm4sztzzirmatD1Diu9IE2DSnY2yy3ROBE1I3vFh2eF_v3mj4yCzD4fThaJxlmnENqd=h310",
+        "//lh3.ggpht.com/l4QsTPVi8VU9SqZZ3ALpzlukA5cl2QhJiDz6-wN2HT3lhm-zgJR1kW308FdZvt7MpQ=h310"
+    ],
+    "comments": [
+        "Hi,  Please look if you can create app to display contact information like -  First Name Last Name Nickname Organization Job Title Notes etc. On Android Wear Smart Watch during incoming / outgoing call.  Same like \"In call widget\" which appears on phone while using DW contacts app  Thanks!",
+        "Horrible Moto 360"
+    ],
+    "recentChanges": [
+        "Adjust the dial pad layout",
+        "Ignore case in voice search a contact name, contact contains the number of priority return"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dw.contacts.wearable&hl=en&gl=us",
+    "appId": "com.dw.contacts.wearable"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Simple Explorer",
+    "summary": "File Manager for Android Wear",
+    "icon": "//lh3.googleusercontent.com/bgqH8Sih-EHccGIl9-Nx3jBppwyQkSfkJKgP8IJRv84ExgZ_rKc8jggrPlZa1JqGseqi=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 25,
+    "developer": "Emil Suleymanov",
+    "developerId": "Emil+Suleymanov",
+    "developerEmail": "suleymanovemil8@gmail.com",
+    "developerAddress": "c/o Mandel\nLinus-Funke-Weg 26\n80995 Munich\nGermany",
+    "updated": "June 24, 2015",
+    "version": "2.2.6",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "File Manager for Android Wear devices.Based on https://github.com/DF1E/SimpleExplorer .Source code - https://github.com/sssemil/SimpleExplorer .",
+    "descriptionHTML": "File Manager for Android Wear devices.<br><br>Based on https://github.com/DF1E/SimpleExplorer .<br><br>Source code - https://github.com/sssemil/SimpleExplorer .",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 1,
+        "4": 8,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-Ikh7SGg9fKSnIY-EBb9PxW4pXKUtkbCkZvTvRB_KzfSCyuZLrwdgHiK7-GdSdmxBqc=h310",
+        "//lh3.googleusercontent.com/drebZ8xZKq7je8dArWk33JP6kCwmC10xNx6ddvNsvAMHDmrAu8LxrSPYBKy-gZGC4uo=h310"
+    ],
+    "comments": [
+        "Not shipped with the source code the author is linking to. For example, I get an annoying pop-up that keeps me from using the app, that says something along the lines of, \"Please wait for your watch to synchronize, thanks :)\"  At first this was just annoying, because it is an all-white screen that prevents me from \"simply exploring\" my files. However, when I try to grep the source code linked to for any such \"watch\" reference, I can't find it.  Which I can only assume means this app is in the PlayStore with a fork that is not actually open sourced.",
+        "Good Very light and useful.",
+        "RipOff of EZ File Manager Literally just changed the theme and that's it. It's not even scaled for android wear. If you download EZ file Manager and sideload it onto your watch this is what you'll get (except it's blue)."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sssemil.dnielfe.manager&hl=en&gl=us",
+    "appId": "com.sssemil.dnielfe.manager"
+}

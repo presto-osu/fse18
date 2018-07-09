@@ -1,0 +1,49 @@
+{
+    "title": "Just A Weather Radar For Wear",
+    "summary": "Just a simple weather radar for your android wear device.",
+    "icon": "//lh3.googleusercontent.com/SLEWVkeaxDhbHEHnHzTtAx0o6IAqe5JtsvM5tpIh6qar4WMSCOpHT9ifZC5m1ICgecpw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.3,
+    "reviews": 10,
+    "developer": "RetraC",
+    "developerId": "RetraC",
+    "developerEmail": "justadroiddev@gmail.com",
+    "updated": "August 29, 2015",
+    "version": "1.0.1",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "Just what you would expect, just a weather radar for your watch / android wear deviceSimple, fast, and it just works.1. download and install2. open the app on your watch3. see the weather radar for your areaThis is my first android wear app so feedback is greatly appreciated. New feature ideas are also encouraged!Animated radar coming soon!",
+    "descriptionHTML": "Just what you would expect, just a weather radar for your watch / android wear device<br>Simple, fast, and it just works.<br><br>1. download and install<br>2. open the app on your watch<br>3. see the weather radar for your area<br><br>This is my first android wear app so feedback is greatly appreciated. New feature ideas are also encouraged!<br><br>Animated radar coming soon!",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qz0co8ygul1C4od-_cD9fuvAkxWPKmOslAS00S1Ok-VqYc15LA82N9dv-_5G-M15lUhn=h310",
+        "//lh3.googleusercontent.com/qy2-BzDBV6p6oNxsk5hQmtGo_SvB5sNRA0q0oLASTtu9GDdD74gLSC5oXm-uTN49UhDP=h310"
+    ],
+    "comments": [
+        "Took over an hour to load Took over an hour to load on LG Urbane-1 and has yet to install on moto 360-1 but now working well on LG.",
+        "Never did work on my LG gr watch.",
+        "It is what it says, just a radar, without any ads or fluff.",
+        "Perfect!! Just a radar exactly what I needed!!",
+        "Radar This will be great once it has animated Radar and ability to zoom in and out."
+    ],
+    "recentChanges": [
+        "- improved battery usage to almost nothing"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.justadev.android.wearable.datalayer&hl=en&gl=us",
+    "appId": "com.justadev.android.wearable.datalayer"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Digital Wave Watch Face",
+    "summary": "Beautifully animated watch face for Android Wear with wave seconds",
+    "icon": "//lh3.googleusercontent.com/VX3sE4uM_Qke6hHMctcpYzFTTU0J5gs5lqQPPjE-zV3cn3q39_rvxg3e7lhyoahkOqIP=w300",
+    "price": "$1.26",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 202,
+    "developer": "NinjaLab",
+    "developerId": "NinjaLab",
+    "developerEmail": "tobia.ninjalab@gmail.com",
+    "developerWebsite": "http://www.ninjalab.co",
+    "developerAddress": "Via Fratelli Rosselli 7,\n46100 Mantova Italy",
+    "updated": "January 27, 2016",
+    "version": "1.1.25",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Digital Wave is an Android Wear watch face that makes simplicity its best feature. It takes full inspiration from Sony Smartwatch 3 default face, but we have improved it making it easier to use, with better animations, with changeable colors and making it compatible with round watches.The seconds ticks are animated with a wave effect while the colors of the minutes digits are beautifully faded.It is totally configurable and you can change background colors both in ambient and normal modes, hours, minutes and seconds. You can change fonts and their sizes.Fully compatible with all Android Wear devices (Moto 360, Lg Wear, Samsung, Sony, Asus,...)Wear, watchface.",
+    "descriptionHTML": "Digital Wave is an Android Wear watch face that makes simplicity its best feature. <br><br>It takes full inspiration from Sony Smartwatch 3 default face, but we have improved it making it easier to use, with better animations, with changeable colors and making it compatible with round watches.<br><br>The seconds ticks are animated with a wave effect while the colors of the minutes digits are beautifully faded.<br><br>It is totally configurable and you can change background colors both in ambient and normal modes, hours, minutes and seconds. You can change fonts and their sizes.<br><br>Fully compatible with all Android Wear devices (Moto 360, Lg Wear, Samsung, Sony, Asus,...)<br><br>Wear, watchface.",
+    "histogram": {
+        "1": 6,
+        "2": 3,
+        "3": 7,
+        "4": 59,
+        "5": 127
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/pGe8jYFlBafDsNxI03TvHAsa3MhkVP85a9V9QP-mlaZV-1oi0WAgn1SZCRVuyeu7LBk=h310",
+        "//lh6.ggpht.com/BPtkWDoWiobgSoOH7JXU_BGpqZb4Z9nZy4E9l9y9dJSTi-5rN_xuifQymJSoRgEnkDk=h310",
+        "//lh6.ggpht.com/6vvvLTnvM9uVEMVe2Jd6oug6pscgSDSgoJ8z4VCkNkUHz0txKFmWBm3KCLpt44-kyQ=h310",
+        "//lh4.ggpht.com/LnHgsH-3F2sa4M-pCCDXxfWA28E76J53fH4RR79DM91wKEGxdkysViX6tGB7faNiXw=h310",
+        "//lh4.ggpht.com/tjKPZikJ7BbtuaGfWtBNh2IWaHKKZeV84gI3y5Vz3a4kZzS3dtohfV7TWQxuVphyn_MH=h310",
+        "//lh6.ggpht.com/z0FBreriB088hD8GSMHSR-pn6oedeVQ3XPQCcW1LVezlJaiFBRl71Lz29WMRUu4hnSrq=h310",
+        "//lh6.ggpht.com/JJDgo-a8m8d07Stv4O70FJwigWxgZck1BmyvLKSSGZFK4k7H043iRW_Kid9J6FSEYUs=h310"
+    ],
+    "comments": [
+        "Great App The overall design and options are quite decent although I would have liked far more options to customize the experience.   There is a weird bug that does not allow me to change the 24hour format to a 12hour format on my LG G watch. Kinda ticks me off",
+        "Amazing watch face. Are you willing to provide an option to have the HH:mm horizontally instead of a vertical orientation? This also ties in with the 2nd question I have: are you going to support Watch face Complications from Android Wear 2.0? If so, switching to a horizontal orientation would actually clear up space on top of the time for 1 or 2 complications. It also provides space under the hour/minutes for the entire date, like for example \"Just a Minute\" watch face does.",
+        "Love the look, been using it for over a year on my original Moto 360, just upgraded to the second generation now that it's cheap online and got Android wear 2, it really needs a notification count option since wear 2 ruined notifications, please add it!",
+        "Very nice.   Good to find a nice, clean, simple watch face. So many try to do everything, with battery stats, weather, interactions - it's surprisingly difficult to find something like this that tells the time and looks good.",
+        "Brilliant, lots of options. Love that you can change font sizes, types and especially the ambient mode colours. Would love the option of displaying a simple battery meter (XX%) whilst the screen was lit if possible.",
+        "When i put it as a watch face on my smartwatch it shows me the seconds the date but not the minutes and hours can you help me?"
+    ],
+    "recentChanges": [
+        "- fixed aliasing problem on oled watches"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.ninjalab.digitalwave&hl=en&gl=us",
+    "appId": "co.ninjalab.digitalwave"
+}

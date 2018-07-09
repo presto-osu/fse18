@@ -1,0 +1,61 @@
+{
+    "title": "Seebye Chat Heads",
+    "summary": "This app allows you to interact directly on new incoming messages from WA.",
+    "icon": "//lh5.ggpht.com/9xNLu6-BBLokdarCZWDxfTOOE-TqK_U4QExgVM0dRx_bPRuUo305fDu6cE0QikEOs2e5=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.8,
+    "reviews": 2808,
+    "developer": "seebye",
+    "developerId": "seebye",
+    "developerEmail": "support@seebye.com",
+    "developerWebsite": "http://seebye.com",
+    "developerAddress": "‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎",
+    "updated": "December 12, 2014",
+    "version": "3.0.1",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "This app needs root rights.Only english and german comments will be answered.===========TranslationIf you want to help me, you're free to translate my app.Translate: https://applokaligo.appspot.com/app/#/projects/14856021===========Join the open betahttp://forum.xda-developers.com/showthread.php?p=47026347===========Follow us on Twitter:@seebyeOfficial https://twitter.com/seebyeOfficialFacebook:https://www.facebook.com/pages/Seebye/688993624521089Google+:https://plus.google.com/113043128770427427504/about===========Seebye Chat Heads brings the liked und famous chat heads to Wasap.So you can access easily Wasap from every app.By the way you have the choice,if you use this app as a stand-alone app or as a FN extension. Furthermore you have different opportunities to carry on a conversation.For one thing you can create chat heads manually, for another thing you can wait for a incoming message.Clicking on the chat head in the stand-alone mode opens the popup chat.In the popup chat you can easily answer your conversation partner.Clicking on the chat head in the Floating Notifications mode opens a menu with the options to open the popup chat,mark the messages as readed or do a quick reply.A quite interesting side effect is that your last online time won't update if you're using the app to answer.======credit of the used images according to terms of use on Flickr: Kayla Kandzorra - http://www.flickr.com/photos/calleephoto/4536571806/in/set-72157623702980837",
+    "descriptionHTML": "<b>This app needs root rights.</b><br>Only english and german comments will be answered.<br>===========<br><b>Translation</b><br>If you want to help me, you&apos;re free to translate my app.<br>Translate: https://applokaligo.appspot.com/app/#/projects/14856021<br>===========<br>Join the open beta<br>http://forum.xda-developers.com/showthread.php?p=47026347<br>===========<br>Follow us on Twitter:<br>@seebyeOfficial https://twitter.com/seebyeOfficial<br>Facebook:<br>https://www.facebook.com/pages/Seebye/688993624521089<br>Google+:<br>https://plus.google.com/113043128770427427504/about<br>===========<br>Seebye Chat Heads brings the liked und famous chat heads to Wasap.<br>So you can access easily Wasap from every app.<br>By the way you have the choice,<br>if you use this app as a stand-alone app or as a FN extension. <br>Furthermore you have different opportunities to carry on a conversation.<br>For one thing you can create chat heads manually, for another thing you can wait for a incoming message.<br>Clicking on the chat head in the stand-alone mode opens the popup chat.<br>In the popup chat you can easily answer your conversation partner.<br>Clicking on the chat head in the Floating Notifications mode opens a menu with the options to open the popup chat,<br>mark the messages as readed or do a quick reply.<br><br>A quite interesting side effect is that your last online time won&apos;t update if you&apos;re using the app to answer.<br>======<br>credit of the used images according to terms of use on Flickr: Kayla Kandzorra - http://www.flickr.com/photos/calleephoto/4536571806/in/set-72157623702980837",
+    "histogram": {
+        "1": 348,
+        "2": 175,
+        "3": 371,
+        "4": 622,
+        "5": 1292
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/Waup8W04jGo6hl50jNbKgbaZq6Z2Ik6l_ot0t-ZJTdwmzsrbyxoX7Bs7IiDKUZs5zjk=h310",
+        "//lh3.ggpht.com/RJE_Xg0uxgJjR8M6tEH-EKTHZz02KSgnes7dbqi-D57AGZclH2zss_jkn1BX1zuXrsc=h310",
+        "//lh4.ggpht.com/3PhVPRfk4ot2DI5wEnsNOdbp0zX8M53T7foNExTGUQjwt0UEHLS97rWTJWYD3bK1asg=h310"
+    ],
+    "comments": [
+        "Not working properly anymore Used to work great, but hasn't been updated in ages and is no longer compatible with WhatsApp. Quick reply for group chats hasn't been working for months, and now quick reply for individual chats has stopped working with the latest version of WhatsApp.",
+        "Not working properly now.. Whatsapp messages not showing when i received new messages from my contacts.. Have to open whatsapp so that seebye can received the new text. Please fix, loving this app",
+        "great idea love the feature I wish it was build in in whatsapp and sms  sadly it slowed my (3gig ram) phone down so bad I had to remove it the Same day. ..",
+        "Awsome app It is an awsome an most needed whats app mod indeed but it requires more attention first you must  Enable group chatting . Second you should make less animation and more performance . That is all thank you for yor nice app",
+        "Needs work It needs. More control I can't find info on the upgrade until improves I will wait",
+        "Good but can be improved. would be better if can integrate other chat apps such as WeChat......Support WECHAT please😅"
+    ],
+    "recentChanges": [
+        "V 3.0.1:",
+        "- Lollipop support added..",
+        "____________________________",
+        "V 3.0.0:",
+        "- new permission: READ_PHONE_STATE",
+        "it's needed to close the popup chat on incoming calls (the popup chat blocked the interaction with the phone during calls)",
+        "- new permission: WAKE_LOCK",
+        "it's needed for cpu wakelocks to make sure chat heads are created (+notification sounds are played) if the screen is turned off",
+        "- read all changes on http://forum.xda-developers.com/showthread.php?t=2507948"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seebye.chatheads&hl=en&gl=us",
+    "appId": "com.seebye.chatheads"
+}

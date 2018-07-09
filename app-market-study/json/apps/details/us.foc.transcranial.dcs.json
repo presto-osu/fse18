@@ -1,0 +1,62 @@
+{
+    "title": "foc.us take charge tdcs tacs",
+    "summary": "Control your foc.us v2 tdcs tacs neurostimulator with the official foc.us app.",
+    "icon": "//lh3.googleusercontent.com/zRPDjJr40bM0Uddd7wIzhC_ypcFtCJOsOQvzCaxK2meLZgK_G5S1TsjsWBJZObujdvg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.3,
+    "reviews": 13,
+    "developer": "foc.us",
+    "developerId": "7090784862794901427",
+    "developerEmail": "help@foc.us",
+    "developerWebsite": "http://www.foc.us",
+    "updated": "September 3, 2015",
+    "version": "1.2.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Control your foc.us v2 with the official foc.us app.The foc.us v2 is a transcranial stimulator than can generate electrical waves for tDCS (transcranial direct current stimulation), tACS (transcranial alternating current stimulation), tPCS (transcranial pulsed current stimulation) and tRNS (transcranial random noise stimulation).This app lets you change the settings for each program. These are the variables you can change. Please note some settings are mode dependent e.g. no frequency setting for direct current mode.Mode: tDCS, tACS, tPCS, tRNSCurrent: 0-2mATime: 1 to 40 minsFrequncy: 0 to 300HzOffset: 0 to 1.5mABipolar: Off, OnSham: Off, On, BlindSham period: 0 to 60 secondsVoltage: 0 to 60VYou can learn more about foc.us at www.foc.us*** Please ensure you update your v2 firmware to at least 1.8 via the computer application which can be found at http://www.foc.us/v2/downloads ******* If you are running Android 5.0* you will need to upgrade the firmware of your v2 to 1.9. This enables you to turn off bluetooth security as a workaround to a known ble bug in android.",
+    "descriptionHTML": "Control your foc.us v2 with the official foc.us app.<br><br>The foc.us v2 is a transcranial stimulator than can generate electrical waves for tDCS (transcranial direct current stimulation), tACS (transcranial alternating current stimulation), tPCS (transcranial pulsed current stimulation) and tRNS (transcranial random noise stimulation).<br><br>This app lets you change the settings for each program. <br><br>These are the variables you can change. Please note some settings are mode dependent e.g. no frequency setting for direct current mode.<br><br>Mode: tDCS, tACS, tPCS, tRNS<br>Current: 0-2mA<br>Time: 1 to 40 mins<br>Frequncy: 0 to 300Hz<br>Offset: 0 to 1.5mA<br>Bipolar: Off, On<br>Sham: Off, On, Blind<br>Sham period: 0 to 60 seconds<br>Voltage: 0 to 60V<br><br>You can learn more about foc.us at www.foc.us<br><br>*** Please ensure you update your v2 firmware to at least 1.8 via the computer application which can be found at http://www.foc.us/v2/downloads ***<br><br>**** If you are running Android 5.0* you will need to upgrade the firmware of your v2 to 1.9. This enables you to turn off bluetooth security as a workaround to a known ble bug in android.",
+    "histogram": {
+        "1": 5,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XtMd3mBRYQjfiX_HP6lwe8FD9INQu7vOJlrMcSYPusWi0Z-8G6ZfTtvhA4P24ijTLn4=h310",
+        "//lh3.googleusercontent.com/0oZg8EKxWZyGLgP0iG5D5YKkZmQef-cznEkZSpWYyPGBWvMJvbXIcJ8IG5_juxCuswfh=h310",
+        "//lh3.googleusercontent.com/YWxdGkFkrNk9f3V1WtlsIz3PE-zjWVoVoSdjcSR5RZSug5ICdY8xg451p96uAW0EkG0=h310",
+        "//lh3.googleusercontent.com/VkaXlI6SaGgnst1Nzt-yqnhPck1XVjxN6ko9w-n7s_BTHIodAyFN0RT0cYQAKk-9QuU=h310",
+        "//lh3.googleusercontent.com/xJ4s95or6ajf_JIgIw5D42yrCACxtYfhQLsVYzuurVogWyUSaLMhCMXzvZ2Z6nnhmRI=h310",
+        "//lh3.googleusercontent.com/B6AB0U_lrSCsXVF5uIrY7rWoUCent-G44suqH_r8V88_wGwZwsU_qOMa4VuATagqQR0n=h310",
+        "//lh3.googleusercontent.com/Otz-oXgPBmITOjTliEUUTuWgSts5NQNL5cDvuewkVANt6ljLDb_ZFZ4HogLl2Pfigx2I=h310",
+        "//lh3.googleusercontent.com/si39uZQB6rjOeDS0-zusr7P2enunjpVRgR5y-Atz4Qlh25-xX_qGjlf1fYbzN6goAg=h310",
+        "//lh3.googleusercontent.com/o_2oOGjtdt-E8au-axNT6ITnqTRlqVCSqLy11pHUfPhTrC-28QWxUjk0vXgOynVgng=h310",
+        "//lh3.googleusercontent.com/T343VPJg0pTgFZwb_hjp8LrPusbZaHZ1Y3cJ3deL4dLQ0lEPJhoGnKQp3S0ccJcqy5c=h310",
+        "//lh3.googleusercontent.com/mXBT03l1j-_Y6A4zrgKwLGfsy2jxb0Qk0gRXVkKWoKRa1mEN0dxznu-cpSA657uWBAI=h310",
+        "//lh3.googleusercontent.com/CCBf39vswYnop9HAE3flsGRlbDezeWU9mkLpb4ZWqTfDUTaRhfFfSrB-rqx1GTQleqbX=h310"
+    ],
+    "comments": [
+        "Foc.us sells great ideas, not products & services. Their software and support is total trash. It's so bad I feel scammed.",
+        "The app is a bit flaky but then a lot bluetooth apps are - once you figure out how to use it its OK.  I gave it a 1 because the £300 device which you have to buy BROKE after 3 months and foc.us support is hopeless",
+        "Do not buy this device. It stops working in weeks and they give no support or refund. IT is a total scam.",
+        "Sleep at last! Finally, I can enjoy a good night's sleep.",
+        "SCAM does not work. No support."
+    ],
+    "recentChanges": [
+        "Open sourced code available for this app",
+        "Android wear updates.",
+        "Fix current and time info notifications"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=us.foc.transcranial.dcs&hl=en&gl=us",
+    "appId": "us.foc.transcranial.dcs"
+}

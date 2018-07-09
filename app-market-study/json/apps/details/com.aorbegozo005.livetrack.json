@@ -1,0 +1,55 @@
+{
+    "title": "Location Tracker - Live Tracking & family GPS",
+    "summary": "Free Location Tracker with live tracking, map, and GPS locator for the family",
+    "icon": "//lh3.googleusercontent.com/8FvqtwQnpPhKMVGHlfT1RrWWFK2CXuSR1wt_-HpSmoE7MCn-mvAI7pfQhQO1WjgCOA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.1,
+    "reviews": 532,
+    "developer": "Live Tracking",
+    "developerId": "Live+Tracking",
+    "developerEmail": "livetrackingapp@gmail.com",
+    "developerWebsite": "https://livetrackingapp.com/",
+    "updated": "February 24, 2018",
+    "version": "2.1.0",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "﻿Location Tracker and live tracking at your fingertips. Open the GPS locator, track your coordinates and positions, and share it in real-time on a map for your friends and family.Location Tracker is the best live GPS location tracking app for your Android phone. Do you need to locate people, friends or family while they're away on a bike trip or another journey and make sure they don't get lost? Simple. This GPS locator is now your best friend and will stream location data for anyone you decide to track and display it on a map for you.Find and locate members of your family and other people by simply installing this location tracker app with GPS coordinates on their cell phones and never worry about them being unreachable AND impossible to find again. Use the live locator to track or locate someone and avoid they get lost.How to use- Install the GPS location tracker app on your mobile device.- Start a new live tracking session. Your position will appear on the live tracking app and the app will start recording your path via GPS.- Share menu will pop up. Choose the app you want to use to share (Email, social networks, instant messaging apps...). Your friends and family will receive a link to the live tracker and your GPS coordinates.- Your friends and family can open the link they received and follow the locator. If they have the app installed they will be able to see exactly the same info as you (map, charts, location, GPS coordinates...). They can also use a browser if they do not have the app installed.Features- You can see the track from the app or a web browser (also in a desktop PC) in real time.- Altitude and speed charts.- Live location on map and GPS position & coordinates.- Export your tracks in GPX format.More information: https://livetrackingapp.com/",
+    "descriptionHTML": "&#xFEFF;Location Tracker and live tracking at your fingertips. Open the GPS locator, track your coordinates and positions, and share it in real-time on a map for your friends and family.<br><br>Location Tracker is the best live GPS location tracking app for your Android phone. Do you need to locate people, friends or family while they&apos;re away on a bike trip or another journey and make sure they don&apos;t get lost? Simple. This GPS locator is now your best friend and will stream location data for anyone you decide to track and display it on a map for you.<br><br>Find and locate members of your family and other people by simply installing this location tracker app with GPS coordinates on their cell phones and never worry about them being unreachable AND impossible to find again. Use the live locator to track or locate someone and avoid they get lost.<br><br><b><u>How to use</u></b><br>- Install the GPS location tracker app on your mobile device.<br>- Start a new live tracking session. Your position will appear on the live tracking app and the app will start recording your path via GPS.<br>- Share menu will pop up. Choose the app you want to use to share (Email, social networks, instant messaging apps...). Your friends and family will receive a link to the live tracker and your GPS coordinates.<br>- Your friends and family can open the link they received and follow the locator. If they have the app installed they will be able to see exactly the same info as you (map, charts, location, GPS coordinates...). They can also use a browser if they do not have the app installed.<br><br><b><u>Features</u></b><br>- You can see the track from the app or a web browser (also in a desktop PC) in real time.<br>- Altitude and speed charts.<br>- Live location on map and GPS position &amp; coordinates.<br>- Export your tracks in GPX format.<br><br>More information: https://livetrackingapp.com/",
+    "histogram": {
+        "1": 68,
+        "2": 21,
+        "3": 34,
+        "4": 50,
+        "5": 359
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2Untz9I1CKhROMMglgxGiiAvOCRrwEgg9DFD8sk6PaWVXQMH83Gc8_b5DM_UlAvtASm_=h310",
+        "//lh3.googleusercontent.com/ISE7LDqkNog7Ja9-Y5bdNbBX74Ulmd3DH8sx2ZXCmRBEGsEh50C1l6Z0Ib79ujhYVao=h310",
+        "//lh3.googleusercontent.com/qOtNOSy8YBGyStTBbfSqzbX5n7CLqG8DxCZsDgEz5jlkzbbhB6Dt0M_JxSBYd8yhPw=h310",
+        "//lh3.googleusercontent.com/2zISo76UwwuRblhQHJFAvhue1FOWxiY4qLj_SqXYqitNW2FkF1cng9te2BL-kJYxAR0=h310"
+    ],
+    "video": "https://www.youtube.com/embed/mhO79Y0z590",
+    "comments": [
+        "The big failure of this app is that it does not reliably track in the background. When I switch to another app (for example to look at a trail map) it eventually stops running and no longer records the trail nor reports online. In addition the configuration is painful, there are settings and options, and there's a hamburger menu on the left and a 3-dots menu on the right. I've also seen it report a timestamp of 2066-04-08 in the last known info when looking at a real-time track from another device.",
+        "Can I find my friend  on this  or follow him",
+        "No trail base?",
+        "Nill",
+        "Foolish app wastage of time😤👿",
+        "Fake program"
+    ],
+    "recentChanges": [
+        "- Improved GPX export",
+        "- Added KML export"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aorbegozo005.livetrack&hl=en&gl=us",
+    "appId": "com.aorbegozo005.livetrack"
+}

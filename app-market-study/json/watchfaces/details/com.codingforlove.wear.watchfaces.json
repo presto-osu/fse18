@@ -1,0 +1,52 @@
+{
+    "title": "Time Mesh Watchface",
+    "summary": "Time Mesh is a motion based Android watchface.",
+    "icon": "//lh3.googleusercontent.com/Ob8BjwX46rLGECEGTnIsKFBk275ONfBhgybrhNLaqdPEWSCcXLWpx3atx2IMb3N2Sw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4,
+    "reviews": 323,
+    "developer": "coding for love",
+    "developerId": "coding+for+love",
+    "developerEmail": "codingforlove@gmail.com",
+    "developerWebsite": "http://www.codingforlove.com",
+    "updated": "October 18, 2015",
+    "version": "1.0",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Time Mesh is a motion based Android watchface. If you are calm, time moves in an orderly fashion. If not, ripples will propagate through your perception of time. Built using a physics simulation connected by springs, rendered using OpenGL in Java.Source code here: https://github.com/chaoticbob/AndroidWatchFacesSee the watchface in action here: https://youtu.be/fGnshDKOR_s",
+    "descriptionHTML": "Time Mesh is a motion based Android watchface. If you are calm, time moves in an orderly fashion. If not, ripples will propagate through your perception of time. Built using a physics simulation connected by springs, rendered using OpenGL in Java.<br><br>Source code here: https://github.com/chaoticbob/AndroidWatchFaces<br><br>See the watchface in action here: https://youtu.be/fGnshDKOR_s",
+    "histogram": {
+        "1": 26,
+        "2": 17,
+        "3": 36,
+        "4": 82,
+        "5": 162
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/949ek_KiqqaJ3DRnKUak2wg9DRPjEzfudLlRzCor2Eq5bumZrmH3zhW7YZuOSvQ25Y4=h310",
+        "//lh3.googleusercontent.com/-A3Rcf9TeKd9pfzJnURKUh2uPAChxbxd0snfCpoDXBgMU9Bt0L4k2LnP6pfFi03Yv9o9=h310"
+    ],
+    "comments": [
+        "Great proof of concept But rather basic without any customization features.",
+        "دو بار دانلود کردم ولی اثری از برنامه نیست؟؟؟؟؟؟حتی گذینه نصب هم نداره",
+        "Doesn't show up Doesn't show up in watch faces or moto connect",
+        "great experiment!",
+        "nice nice!",
+        "Awesome watchface; most interesting one I've come across yet. Also one of the most useful watchfaces in dimmed mode; very readable. I have two requests though: (1) optional 24h-format; I can't get used to 12h format. (2) Notifications in dimmed mode overlay the clock and become unreadable.   Other than that: perfect."
+    ],
+    "recentChanges": [
+        "Fixes for some round watch faces without chin.",
+        "Fixed for Sony SmartWatch 3."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.codingforlove.wear.watchfaces&hl=en&gl=us",
+    "appId": "com.codingforlove.wear.watchfaces"
+}

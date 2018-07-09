@@ -1,0 +1,53 @@
+{
+    "title": "I'm Safe",
+    "summary": "Notify your friends and family you’re safe in case of emergency.",
+    "icon": "//lh3.googleusercontent.com/OYmJFx1V3WMM6OHjYBCimJpRjbcXgEQiGP-VCVe8IleicAjS6LFbKMwBkOYlrVcKv7U=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.8,
+    "reviews": 13,
+    "developer": "Corundum",
+    "developerId": "Corundum",
+    "developerEmail": "corundum.apps@gmail.com",
+    "developerWebsite": "http://www.endare.com/privacy-policy/",
+    "updated": "July 14, 2016",
+    "version": "1.1.1",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Whether a natural disaster strikes, an emergency situation occurs or you just want to notify your parents you’ve arrived at your destination safely. I’m Safe has you covered! With a tap on the shield-button you can notify contacts of your choice that you’re not in danger.When using I’m Safe your contacts will be notified via SMS. But sending an SMS may not be enough… Past events have learned us that the cellular network might get saturated when everyone is sending or calling trying to contact their loved ones. In that case you can also add your social media accounts so the app can still send your message via Facebook or Twitter.There’s also the I’m Safe extension for your smartwatch (Android Wear), no need to pull out your phone out of your pocket, just open the app on your smartwatch and tap the shield!This app has been made possible thanks to Endare and Huawei.",
+    "descriptionHTML": "Whether a natural disaster strikes, an emergency situation occurs or you just want to notify your parents you&#x2019;ve arrived at your destination safely. I&#x2019;m Safe has you covered! With a tap on the shield-button you can notify contacts of your choice that you&#x2019;re not in danger.<br><br>When using I&#x2019;m Safe your contacts will be notified via SMS. But sending an SMS may not be enough&#x2026; Past events have learned us that the cellular network might get saturated when everyone is sending or calling trying to contact their loved ones. In that case you can also add your social media accounts so the app can still send your message via Facebook or Twitter.<br><br>There&#x2019;s also the I&#x2019;m Safe extension for your smartwatch (Android Wear), no need to pull out your phone out of your pocket, just open the app on your smartwatch and tap the shield!<br><br>This app has been made possible thanks to Endare and Huawei.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jsfjhxolVPkCcKDQ0wNp9HAUo24bAsk4X2ywmITNlV1ZJVhYJms2FMPLevBaCZsR4HCp=h310",
+        "//lh3.googleusercontent.com/Bb2OGoMw3-AyEeaxUe2F2vIjrGTM1AplovPN99L2CpZ2byysyGO-VlgZENt3qxWeEQ=h310",
+        "//lh3.googleusercontent.com/po4URO2ec1yqe6D7uz4HqgYpYd0XSu2bV9D23Wfa3EBSuHTPY6nSTTUwgzHFWZTiAMgf=h310",
+        "//lh3.googleusercontent.com/wNLWKWdlSzeLr23UGG7apBd5-cCP9wlGhblifC5PjdvmTE0OmKh9xZD7sSJfV-pTVZ9x=h310"
+    ],
+    "comments": [
+        "How do I enter my birthday? To skip 1 month at a time will take me over 750 clicks!",
+        "Just tested and works like a charm! 5* rating!",
+        "Useful app in emergency situations !"
+    ],
+    "recentChanges": [
+        "* Added some intro screens",
+        "* Added gender and age to the medical ID",
+        "* Improved feedback when tapping the I'm Safe button",
+        "* Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=be.corundum.imsafe&hl=en&gl=us",
+    "appId": "be.corundum.imsafe"
+}

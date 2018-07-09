@@ -1,0 +1,52 @@
+{
+    "title": "Wear Mandelbrot",
+    "summary": "Explore the infinitely complex beauty of Mandelbrot and Julia Set fractals",
+    "icon": "//lh6.ggpht.com/DiUl56gjZZkPoAZ1HCLfbT9A6sIJoRMYtjiloZG3f2h3JLfgoF3jo8SGjROf7gWsZw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.3,
+    "reviews": 21,
+    "developer": "Fife-V",
+    "developerId": "Fife-V",
+    "developerEmail": "android@fife-v.com",
+    "developerWebsite": "http://www.fife-v.com/",
+    "updated": "September 10, 2014",
+    "version": "1.0",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Explore the infinitely complex beauty of Mandelbrot and Julia Set fractals on your Android Wear watch.Starting the app will show the top level Mandelbrot. Tap on the Mandelbrot to zoom into that location, keep tapping to go deeper into the fractal. if you want to zoom out again then double tap.To view the Julia set that corresponds to the location you tapped (the centre point of the currently display Mandelbrot) then swipe left. You can now zoom in on the Julia set too, if you'd like.Swiping right will take you back to the Mandelbrot.There are a range of colour palettes for you to choose from. Swipe up or down to cycle through the five available colour palettes.",
+    "descriptionHTML": "Explore the infinitely complex beauty of Mandelbrot and Julia Set fractals on your Android Wear watch.<br><br>Starting the app will show the top level Mandelbrot. Tap on the Mandelbrot to zoom into that location, keep tapping to go deeper into the fractal. if you want to zoom out again then double tap.<br><br>To view the Julia set that corresponds to the location you tapped (the centre point of the currently display Mandelbrot) then swipe left. You can now zoom in on the Julia set too, if you&apos;d like.<br><br>Swiping right will take you back to the Mandelbrot.<br><br>There are a range of colour palettes for you to choose from. Swipe up or down to cycle through the five available colour palettes.",
+    "histogram": {
+        "1": 5,
+        "2": 2,
+        "3": 2,
+        "4": 5,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/IMrRIhQ7sNvKgaUVIw1Svs1oBQmeiUkqKbwtBAfzCKH_Oik-y6BwUB7ZAEeLPmwV9Q0=h310",
+        "//lh4.ggpht.com/N_c25vMx6K3QLWoLlnpuPkpYH4w6Wuae-zMgIYKFgVcPsRnoFw5uGzzROoJMgNU5m3E=h310",
+        "//lh3.ggpht.com/iKLe7e2ONuIjmLEREJLQetBaOTHA6yUcbgsjnIvWgdFYavaLuJq-0Pw5wXA3CVSl59I=h310",
+        "//lh3.ggpht.com/uD1Zfa3Xkj2PrS8Cl5QG9iESQjIe2Wu3MsnNMz5bLAmBrGC7Asm5ZXOY9eLSXN5bOzKM=h310",
+        "//lh6.ggpht.com/cp7jMGSl-mPDHyivj91hcMaWpynIM7yQ74KJ8xdEf6A1AKTwlxSJP0zpWf-i8fYQLHJQ=h310",
+        "//lh6.ggpht.com/Ip4hE9sTq8vLEPoVfiwgp9DeUOlXzrVuiyQTGaSWP5RK_r7UzqNBNjTdDY3xw58WCA=h310"
+    ],
+    "comments": [
+        "Great Start!! Bravo. This is simply amazing. Some key improvements for new versions would be maybe an easier way to switch fractals. It's super hard (for me) to switch to the Julia Set. Maybe have some sort of menu you begin with to choose which set to look at? Second, make it even more smooth. At times it becomes hard to focus in on what you want. That's all, other than that.. AMAZING.",
+        "Cool",
+        "Amazing idea. Now make this into a watch face"
+    ],
+    "recentChanges": [
+        "First live version of the Wear Mandelbrot app"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fifev.wearmandelbrot&hl=en&gl=us",
+    "appId": "com.fifev.wearmandelbrot"
+}

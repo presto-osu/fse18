@@ -1,0 +1,55 @@
+{
+    "title": "Slide Watch Face",
+    "summary": "An animated sliding watch face for Android Wear devices.",
+    "icon": "//lh3.googleusercontent.com/jTl_5nxSQzdiLCWYLa4bFTTErDoPAeQEkCFjzy17JAxCWBiQWwQX8Nj97kn1L8wBcWI=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.1,
+    "reviews": 11,
+    "developer": "Anderson Solutions Inc.",
+    "developerId": "Anderson+Solutions+Inc.",
+    "developerEmail": "andersonsolutionsinc@gmail.com",
+    "developerAddress": "11484 Wildwood Ridge Dr.\nColorado Springs, CO 80921",
+    "updated": "February 6, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "A watch face app for your android wear smart watch that beautifully animates the time like a slide ruler. Give it a try! Google Play policy gives you 2 hours to try it and request a refund.Supported Android Wear Watches✔ Motorola Moto 360✔ LG G Watch✔ LG G Watch R✔ LG Watch Urbane✔ Samsung Gear LIVE✔ Sony SmartWatch 3✔ ASUS ZenWatchThe watch face will automatically install to your android wear device after installing the companion app on your handheld device. It may take a couple minutes for it to appear on the watch. After the installation is complete, open the handheld app to customize the look of your watch face. Then set the Slide Time watch face on your watch.Features and Options★ 5 different themes to choose from (Dark, Natural, Steel, Aluminum, Gold)★ Horizontal or Vertical slide orientation★ 12 or 24-Hour clock format★ Zoom, Typewriter, or No Animation★ 16 fonts to choose from (more to come)★ Option to fade previous and upcoming numbers★ Show or hide date★ 8 date formats to choose from★ Request a feature from the menu in the settings app on your phone★ Many more customizations to comeImprovement IdeasIf you would like to request a new feature or you are experiencing any issues, use the menu options in the handheld app to troubleshoot or contact us and we will respond promptly.",
+    "descriptionHTML": "A watch face app for your android wear smart watch that beautifully animates the time like a slide ruler. Give it a try! Google Play policy gives you 2 hours to try it and request a refund.<br><br><br><b>Supported Android Wear Watches</b><br>&#x2714; Motorola Moto 360<br>&#x2714; LG G Watch<br>&#x2714; LG G Watch R<br>&#x2714; LG Watch Urbane<br>&#x2714; Samsung Gear LIVE<br>&#x2714; Sony SmartWatch 3<br>&#x2714; ASUS ZenWatch<br><br><br>The watch face will automatically install to your android wear device after installing the companion app on your handheld device. It may take a couple minutes for it to appear on the watch. After the installation is complete, open the handheld app to customize the look of your watch face. Then set the Slide Time watch face on your watch.<br><br><br><b>Features and Options</b><br>&#x2605; 5 different themes to choose from (Dark, Natural, Steel, Aluminum, Gold)<br>&#x2605; Horizontal or Vertical slide orientation<br>&#x2605; 12 or 24-Hour clock format<br>&#x2605; Zoom, Typewriter, or No Animation<br>&#x2605; 16 fonts to choose from (more to come)<br>&#x2605; Option to fade previous and upcoming numbers<br>&#x2605; Show or hide date<br>&#x2605; 8 date formats to choose from<br>&#x2605; Request a feature from the menu in the settings app on your phone<br>&#x2605; Many more customizations to come<br><br><br><b>Improvement Ideas</b><br>If you would like to request a new feature or you are experiencing any issues, use the menu options in the handheld app to troubleshoot or contact us and we will respond promptly.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 6,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ulu0F9G7YpB6T7QhcRyN3zuhoauWnmxDxPEtNJPhtOUaiAbxwWsSTd7XV4zPZyFSyw=h310",
+        "//lh3.googleusercontent.com/PjyyDoHJteQzkWjcd4SnrYFHi6dv3_MKUfNLDWwo7BE-iDZByoLePtUDOZ2gS2JC1n4t=h310",
+        "//lh3.googleusercontent.com/WIrYfkRcPNYtUqZB0q_In86pzJ1DhuUdOES6YjWrufjrmB7EJ2JUnzjbHsV2Pu5KUjk=h310",
+        "//lh3.googleusercontent.com/XK8kH3tU_kPMHp69DcnBdofD5hfJN1gri9Q-hheAO3_ymesDfLCRyiywOO31WGLcBQ=h310",
+        "//lh3.googleusercontent.com/Z-eNs0Xs1RlUjqmuRK3yttmDcyZwFwI7PaXM6Rp1N88Rl4AvLWdJq1Q2ULor6v2dJHE=h310"
+    ],
+    "comments": [
+        "Great idea Would prefer more solid or gradient color backgrounds, the ones supplied can make numbers hard to read, but love the animated numbers and choice of horizontal or vertical",
+        "Beautiful Watch Face I have many watch faces for my Moto 360, but this is fast becoming my favorite \"go to\" dial.  HIGHLY RECOMMEND!!",
+        "Nice Like the way the time is displayed. Wish there were solid black and White background options. Solid black with red & white numbers. Off-white with red & gray numbers. Nice face.",
+        "Looks great! Simple yet configurable and the animations look amazing."
+    ],
+    "recentChanges": [
+        "- 1.1",
+        "* Now standalone for Android Wear 2.0.",
+        "* Added a complication to the bottom"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.andersonsolutions.slidewatchface&hl=en&gl=us",
+    "appId": "com.andersonsolutions.slidewatchface"
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Audio Visualizer",
+    "summary": "Party like it&#39;s 2999 with a colorful display responding to any ambient sound.",
+    "icon": "//lh3.googleusercontent.com/9Ve2VGGy46OkT4TSmAEP-f4Y7bnfVROht0lIyFiUv0otIopbU5aYaJolUs_O9e-1MJ4=w300",
+    "price": "$2.49",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.7,
+    "reviews": 129,
+    "developer": "AQ",
+    "developerId": "AQ",
+    "developerEmail": "wear@quet.org",
+    "developerWebsite": "http://apps.android.quet.org/audio-visualizer/privacy-policy",
+    "developerAddress": "Aladin Quet\n3BIS rue Henri Barbusse\n30000 Nîmes - France",
+    "updated": "March 14, 2017",
+    "version": "Varies with device",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "size": "Varies with device",
+    "description": "Party like it's 2999 with a colorful glowing display on your phone, tablet or at your wrist that dynamically changes with any ambient sound or music, in real-time.    Already more than 80 different music visualizers, and it keeps growing!Round and square screens are supported for Wear.You can always try the free version at http://goo.gl/juYNgV     Concern about the energy impact?Our tests showed that it can easily run continuously for more than 3 hours and a half on a smartwatch and far more on a regular device. Most consumed energy is in fact taken by the screen, not by the app itself.    About RECORD_AUDIO permissionNeeded only to acquire audio from the microphone in order to generate the visualization reacting to the sound. Nothing is saved at all.",
+    "descriptionHTML": "Party like it&apos;s 2999 with a colorful glowing display on your phone, tablet or at your wrist that dynamically changes with any ambient sound or music, in real-time.<br>    <br>Already more than 80 different music visualizers, and it keeps growing!<br>Round and square screens are supported for Wear.<br>You can always try the free version at http://goo.gl/juYNgV<br>   <br>  <br><b>Concern about the energy impact?</b><br>Our tests showed that it can easily run continuously for more than 3 hours and a half on a smartwatch and far more on a regular device. Most consumed energy is in fact taken by the screen, not by the app itself.<br>    <br><b>About RECORD_AUDIO permission</b><br>Needed only to acquire audio from the microphone in order to generate the visualization reacting to the sound. Nothing is saved at all.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 7,
+        "4": 23,
+        "5": 98
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NoK5TycAjiZ6g6xHQdJvziUKqwArFbNQz9_Plw1fP3QoQHcKp5hVePz_ZA03WXoHk4Bv=h310",
+        "//lh3.googleusercontent.com/GEv5-aciCY-oOaFoZ7Gg_gShqXR1Mi2m7kMQD7Muox0CpkOGYxJ_vHn1N60swzVZxdY=h310",
+        "//lh3.googleusercontent.com/r2dv4PUPfugmnx7Hq7CNhzoDOtd_oselm10O5Y_Geq2_NeN5CKe11f1G16Epf7sZDA=h310",
+        "//lh3.googleusercontent.com/Pfp-PInvDuG3XV49A0hfK39pqhzhT1u4IhGvC6wxo_HK4sff_eSli85PNxJjlSLvSfY=h310",
+        "//lh3.googleusercontent.com/7RBnVUCTFGEOxxwmEwS3RaVotFk5riUHxgDoBdI0a00c8O7Gz9bbgYw53dm0i1VwyZQ=h310",
+        "//lh3.googleusercontent.com/pz_7ErOP75G74Fr0ZUWZzIC70aMSq_C1ESAH0ns1KSV-nAphvTMvlfgaecVXkcxDev8=h310",
+        "//lh3.googleusercontent.com/_Z23oC4G4u5l9ZX-v2ehnBXEH2pT5uHsvaG7hZH2m8d6NfrHtiW7Ri0hjVhFN1jZJX8=h310",
+        "//lh3.googleusercontent.com/LdsoWQ-xYzlsUSILnkP--uvgP6wRJJkku5RD6NP6WbO_t7URF1rg63K8skmWO6AO_g=h310",
+        "//lh3.googleusercontent.com/mWUVN9XCQQ_9DJ7uSX0r_tVcgUf4SbNYBjonjkObv_mTGOABA5qaC5OheS4WBLhjmmDM=h310"
+    ],
+    "video": "https://www.youtube.com/embed/ujN7l1HTReI",
+    "comments": [
+        "Man, got this when it first came out in 2014, left Android Wear and now back.  Dude, the app improved so much. Keep up the good work.",
+        "Very happy with the purchase. All components are well polished and all basic functionality is covered. You wont be disappointed.",
+        "Fantastic! Exactly what I was looking for! :) Great visuals, love it! 🤣",
+        "Fun and works gr8",
+        "SOLD!!! Audio visualization for the watch!!!  Great options, and excellent execution.  I'm purchasing this right now!  This gets people's attention just about anywhere! Especially in bars, clubs, and parties!",
+        "I love the app I bought the app within minutes of using the demo version i loved it that much thanks."
+    ],
+    "recentChanges": [
+        "New renderers, more features, performances improvements and bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.quet.android.visualizer.wear&hl=en&gl=us",
+    "appId": "org.quet.android.visualizer.wear"
+}

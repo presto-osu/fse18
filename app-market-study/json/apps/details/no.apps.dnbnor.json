@@ -1,0 +1,59 @@
+{
+    "title": "DNB",
+    "summary": "DNB for Android is banking made easy.",
+    "icon": "https://lh4.ggpht.com/Tlyimm4DiJAUKgYAHOYnh8y8oZb1uONXqIKH-JTjTDBvqR2_bU5K-8HtyVXOLk3SCTU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 3.4,
+    "reviews": 5362,
+    "developer": "DNB",
+    "developerId": "DNB",
+    "developerEmail": "appsupport@dnb.no",
+    "developerWebsite": "http://www.dnb.no",
+    "updated": "December 5, 2017",
+    "version": "3.3.6",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "The DNB mobile app gives you access to our mobile services. Easy and convenient when you are on the go.You may check your account balance without having to log on. Our app also give you access to the mobile bank and Text banking services.  Other useful services are a currency calculator, a map with our offices and ATMs, share bill with friends and a receipt archive.You can be confident that DNB respects your privacy by protecting personal data, online traffic data and communications on our mobile services. General terms and Protection of personal privacy safeguard this and helps you understand how DNB uses and protects information you furnish when using our mobile applications and websites.We need certain authorisations and information about you and your mobile phone so that you can enjoy all the benefits in this app:a.\tYour profile information: name, email and telephone number are stored locally on your mobile. The app does not send this information to DNB’s systems.b.\tGeographic positioning and location information: used for the function Map in the app. The data is used ‘then and there’. This data is not stored. The app does not send location and positioning information to DNB’s systems.c.\tSMS services and Bill Share: uses list with your private contacts. The app does not send your contacts to DNB’s systems.d.\tReceipts: has access to the camera on your mobile. The app does not send your photos to DNB’s systems.e.\tMobile bank: has cookies that simplify the login procedure. DNB remembers which method you used the last time you logged in.f.\tBalance and transactions: an encrypted connection between your mobile and the bank’s systems so that you can see your account balances, latest transactions and the number of eFaktura (e-invoices) to be paid without logging in to the mobile bank.",
+    "descriptionHTML": "The DNB mobile app gives you access to our mobile services. Easy and convenient when you are on the go.<br><br>You may check your account balance without having to log on. Our app also give you access to the mobile bank and Text banking services.  Other useful services are a currency calculator, a map with our offices and ATMs, share bill with friends and a receipt archive.<br><br>You can be confident that DNB respects your privacy by protecting personal data, online traffic data and communications on our mobile services. General terms and Protection of personal privacy safeguard this and helps you understand how DNB uses and protects information you furnish when using our mobile applications and websites.<br><br>We need certain authorisations and information about you and your mobile phone so that you can enjoy all the benefits in this app:<br><br>a.\tYour profile information: name, email and telephone number are stored locally on your mobile. The app does not send this information to DNB&#x2019;s systems.<br>b.\tGeographic positioning and location information: used for the function Map in the app. The data is used &#x2018;then and there&#x2019;. This data is not stored. The app does not send location and positioning information to DNB&#x2019;s systems.<br>c.\tSMS services and Bill Share: uses list with your private contacts. The app does not send your contacts to DNB&#x2019;s systems.<br>d.\tReceipts: has access to the camera on your mobile. The app does not send your photos to DNB&#x2019;s systems.<br>e.\tMobile bank: has cookies that simplify the login procedure. DNB remembers which method you used the last time you logged in.<br>f.\tBalance and transactions: an encrypted connection between your mobile and the bank&#x2019;s systems so that you can see your account balances, latest transactions and the number of eFaktura (e-invoices) to be paid without logging in to the mobile bank.",
+    "histogram": {
+        "1": 1267,
+        "2": 413,
+        "3": 522,
+        "4": 1002,
+        "5": 2158
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/9e7fQM7SxUBZbYQqr1r5UMCA5K2PYxUSTkNwguUyDnyGiqz9LLlK6Qe9ovMLOKUP2-U=h310",
+        "//lh5.ggpht.com/C0A76V1i9H6ITyNqDaIjkGUBH53MjCHb44evm5CWslOrhOgEEXKkfgW-3vsPtArkKQE=h310",
+        "//lh3.ggpht.com/mLYkS1c7TmdEyRd5M9Qu2jM79na6CunLUU9OKlcnQL7BlyN3jfV-9jLEv7Uo4Rc9MA=h310",
+        "//lh3.ggpht.com/ViTxiBqjGMMmByugOWr_GCuLRnyEe3JN0NRmQr2eFIWzw5KB3UH_wtlBnYhTh0j8TFw=h310",
+        "//lh6.ggpht.com/jgGKivBE1swq9u68p7wZ4BAV9vSTjofr2I7VPrxrxSobGIKKd0VqD1FghsD0WZwdZooa=h310"
+    ],
+    "comments": [
+        "Jeg forstår ikke hvorfor nettbanken ikke kan være bygget inn i selve appen. Den kunne vært så mye enklere og kjappere å bruke om man slipper gå gjennom en nettside for å bruke mobilbanken. Har også et veldig udatert design. Ser at dere jobber med en ny app. Håper dere får det til da.",
+        "Appen er utdatert og ikke on par med andre banker sine apper. DNB skal liksom være den største banken men klarer ikke å lage en skikkelig app engang. På tide å skjerpe seg",
+        "Fungerer ikke etter android 8 på sony xperia x performance",
+        "Fungerer ikke etter oppdatering til Android oreo.",
+        "Helt ille",
+        "Good. ;)"
+    ],
+    "recentChanges": [
+        "WHAT’S NEW",
+        "•\tPrivacy terms and conditions: updated information under Settings",
+        "•\tShortcut to self service cancelling of card (in Norwegian)",
+        "•\tWe don’t support Samsung Gear any longer, due to old watches and few users.",
+        "•\tBugfixes",
+        "•\tWe are working on new mobile bank. Stay tuned!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=no.apps.dnbnor&hl=en&gl=us",
+    "appId": "no.apps.dnbnor"
+}

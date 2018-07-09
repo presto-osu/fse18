@@ -1,0 +1,44 @@
+{
+    "title": "Lu Watchface",
+    "summary": "Android Wear Watchface",
+    "icon": "//lh3.googleusercontent.com/ZEG_KgaPi7YwRpJvRTIiWeUdcUpq9F92l6p2x4vUCB5imRci4lGa7nlvInGubuc9h00=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 2,
+    "developer": "Dovocode",
+    "developerId": "Dovocode",
+    "developerEmail": "info@noteus.nl",
+    "developerWebsite": "http://www.ludalabs.com",
+    "updated": "April 5, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "An free Android Wear Watchface",
+    "descriptionHTML": "An free Android Wear Watchface",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/avf6oB7HfLmnqKwnu3RzqbJgtxjf4d2wcir_iLODImzDl9zzAZeFDP8j8cCxGXp3mD0=h310",
+        "//lh3.googleusercontent.com/2TFw3HqZstRmAgbciWjL1wCYdcz7LaYV-_IPME2biCHAN8phe7mo2pg7gt95OONFow=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "No response fixed and some small fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ludalabs.luwatch&hl=en&gl=us",
+    "appId": "com.ludalabs.luwatch"
+}

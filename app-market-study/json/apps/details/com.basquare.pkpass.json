@@ -1,0 +1,61 @@
+{
+    "title": "PKPASS 4 Android",
+    "summary": "Apple Passbook file viewer for Android.",
+    "icon": "//lh3.googleusercontent.com/Lttklv-1mNOz4hkd3EPvC6pGLLDK1Uv8H5LeTmaWLL2C7WXIvcLHYrRdbD6GrYeNiD0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.2,
+    "reviews": 49,
+    "developer": "BASquare",
+    "developerId": "BASquare",
+    "developerEmail": "hq@basquare.com",
+    "developerWebsite": "http://www.basquare.com",
+    "updated": "July 19, 2016",
+    "version": "2.1.7",
+    "genre": "Business",
+    "genreId": "BUSINESS",
+    "description": "Feel free to read any type of passbook on your Android Device. Collect all your passbooks into one place. Be notified if you are close to passbook ticket location or be reminded if is time for some passbook event. Also we provided not only mobile, but watch app, so check it out on your Android Wear. You can go through all passbooks from your phone right on Wear and rapidly get QRcode. And even more, open from wear full passbook on phone.In order to enhance the app and make in better, please, send us, your passbooks if some corrupts the app.",
+    "descriptionHTML": "Feel free to read any type of passbook on your Android Device. Collect all your passbooks into one place. Be notified if you are close to passbook ticket location or be reminded if is time for some passbook event. <br><br>Also we provided not only mobile, but watch app, so check it out on your Android Wear. You can go through all passbooks from your phone right on Wear and rapidly get QRcode. And even more, open from wear full passbook on phone.<br><br>In order to enhance the app and make in better, please, send us, your passbooks if some corrupts the app.",
+    "histogram": {
+        "1": 13,
+        "2": 6,
+        "3": 4,
+        "4": 8,
+        "5": 18
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-xXD1FlC6EfOG5hupxDxgMpt6u-AclsfhKqsQ55DoWNU8epAB-69g6ppK5ibaffuRFI=h310",
+        "//lh3.googleusercontent.com/OUY77VeODQSNuWH9YCamRh8QnOgIg1gVnJ9mEgiBzbLeFV7ZzjkQxZk5S7gZAeIQBmE=h310",
+        "//lh3.googleusercontent.com/Owj5WlOQ0fWwh9JjbRa9ipJP2ZgIGQ_WqlWfps_VN-PLUmoU-_uBp28_0JO3QD5f-4HP=h310",
+        "//lh3.googleusercontent.com/dJ2P8LnPLR_7zSsYkt5q0DGCZWElFjTLWtCXseQbFpg84DRHKqyZLyRuo6kmBv-pTQ=h310",
+        "//lh3.googleusercontent.com/E__JTlMKAfsTaQBBJ7Ej1SSfncbXWZflyS8xTaHH6JL14hJt-wq-iqO7-Crx1QjGBfo=h310",
+        "//lh3.googleusercontent.com/2ncnOUyRtIfxYX7-hFKcCB7nGIbq5jqPhXfJAoJTeCSf46VYeaxkKkHZgEtmmSgOlw=h310",
+        "//lh3.googleusercontent.com/nGtPWrGFz7F02Hlwgy3rTSaX5c6bbUsUZ9Wc5GCJsNdVPHuWYesI9jaYz7O3s3roBKM=h310",
+        "//lh3.googleusercontent.com/vU8wALYP6EgRM49pDzc7eSpiFiZ--rfKkzI9ER0cfScRDzS6qYuE8WznPd_ncrAwAt9c=h310"
+    ],
+    "comments": [
+        "Could not open file I keep getting an error message when trying to open a file that was sent to me via email. When I tried to email the file to the developer as the error message instructed me to, it said my email could not be accepted.",
+        "File Does Not Work The app does not work with the document on file.",
+        "Good that it support the Androud wear But it fail to decode the passenger name from pkpass boarding pass files from LOT. Sometimes fails to decode pkpass from file. Decoding from gmail attachment works ok (except passenger name problem)",
+        "New design rocks",
+        "Nice design Good work!",
+        "Sucks Froze my phone so unistalled immediately. If I could give a zero I woukd!"
+    ],
+    "recentChanges": [
+        "- now you can create your own passbook file",
+        "- selection and filtering in Scan mode",
+        "- create own with scanning",
+        "- download passbook from link",
+        "- fixed bugs"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.basquare.pkpass&hl=en&gl=us",
+    "appId": "com.basquare.pkpass"
+}

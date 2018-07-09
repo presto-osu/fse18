@@ -1,0 +1,48 @@
+{
+    "title": "Cake Watch Face",
+    "summary": "Cake Watch Face for Android Wear displays the time as three beautiful cakes.",
+    "icon": "//lh3.googleusercontent.com/65AlXjXjdmSfo91Vay_Qvn3knFyll8roaMOZT-AHQ_6r7ZlOIffC-yRJGNzAbTzgFg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Dark Space Lab",
+    "developerId": "Dark+Space+Lab",
+    "developerEmail": "contact@darkspacelab.com",
+    "developerWebsite": "https://darkspacelab.com",
+    "developerAddress": "Widna 20/2a, 05-200 Wolomin, Poland",
+    "updated": "April 16, 2015",
+    "version": "0.0.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Cake Watch Face for Android Wear displays the time as three beautiful cakes. First bright yellow cake shows the hours, indigo cake indicates the minutes and third yellow cake marks the seconds. Cake Watch Face supports ambient mode with outline of cakes draw with white lines. This simple watch face brings joy to eat cakes for your eyes every time you need to check what time is it.",
+    "descriptionHTML": "Cake Watch Face for Android Wear displays the time as three beautiful cakes. First bright yellow cake shows the hours, indigo cake indicates the minutes and third yellow cake marks the seconds. Cake Watch Face supports ambient mode with outline of cakes draw with white lines. This simple watch face brings joy to eat cakes for your eyes every time you need to check what time is it.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/JlgjgArDeQ-Wd2Xy5zmkiGXjpKswK8uARWg0Eu90y6LCHLJjPz-0OZDPLCXBXWQvvpE=h310",
+        "//lh5.ggpht.com/Ngf88kjbKTs9oh_Zf11m8SVLTkJpcfjXhLQvPvQ5bvJnol9GsOujZVx5R-wvTW48_CM=h310",
+        "//lh6.ggpht.com/YdeEmKBj7ZWg9bd5yo7aMAAD7AdH0lWZ4zEy3FOJQFOVYWNzHVw8b0oSkAbjFRCNMmPN=h310",
+        "//lh5.ggpht.com/DHvguPX7uVtl9bNoKcgiFjS6yYl7VEM90TgRY9mwdGdasMJGE7558-S3ZTHj4esnYAU=h310",
+        "//lh4.ggpht.com/t7aYI_q8zZXRxSpS9gTbXWYmtRo4oV9Ua1UkVkLrFiEnmSe6ZIlkuaqo2JZlNBz6_w=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Cake Watch Face was improved to support ambient mode with extended battery performance. All icons were synchronized to display consistent application logo in all Android modules."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.darkspacelab.cakeclock&hl=en&gl=us",
+    "appId": "com.darkspacelab.cakeclock"
+}

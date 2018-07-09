@@ -1,0 +1,46 @@
+{
+    "title": "Watcher -Don't lose your phone",
+    "summary": "Never lose your phone and let your watch with Android Wear warn you.",
+    "icon": "//lh4.ggpht.com/NK0cym2qRoGKPTrsTS-6bv5OB0oNI-7YUXYNxecvIGG5BG_Blzm7imRcLJNeK2AyFLY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.2,
+    "reviews": 8,
+    "developer": "Zapp-Studio, S.L.",
+    "developerId": "Zapp-Studio,+S.L.",
+    "developerEmail": "info@zapp-studio.com",
+    "developerWebsite": "http://zapp-studio.com",
+    "developerAddress": "C/ Fernando Alonso Navarro 12, 4ºD",
+    "updated": "December 26, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Never lose your phone and let your watch with Android Wear warn you.If your watch to wear Android phone is disconnected, the clock will start to vibrate so you never forget.Once you reconnect the clock allows you to ring your phone to find where it is exactly.",
+    "descriptionHTML": "Never lose your phone and let your watch with Android Wear warn you.<br><br>If your watch to wear Android phone is disconnected, the clock will start to vibrate so you never forget.<br><br>Once you reconnect the clock allows you to ring your phone to find where it is exactly.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/ZmOE_LVICUGd6jycME0k_RO6pIJYcA9BiLt07e-_IcKCvwDkFjENT9Ig41I2rL0SFb0=h310",
+        "//lh4.ggpht.com/cwrsNBe-hGx7IvD8JRHvhikj91UrZmLvcxpdxmswi2KoAFpM2MOS4P7nKfvPvrXYF0Q=h310"
+    ],
+    "comments": [
+        "Buzzes, but doesn't ring The watch buzzes when the phone is disconnected, great, but apparently I should be able to make the phone ring to find it, and this doesn't work, even when the phone and watch are connected again.",
+        "No good"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.zappstudio.findwatch&hl=en&gl=us",
+    "appId": "com.zappstudio.findwatch"
+}

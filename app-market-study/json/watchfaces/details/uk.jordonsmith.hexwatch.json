@@ -1,0 +1,49 @@
+{
+    "title": "Hex - Wear Watch Face",
+    "summary": "The time as a hex triplet",
+    "icon": "//lh6.ggpht.com/3zu5LxPC3RxVF43NqTtB6wWPe_FjrcW4DEktOptJmEGRA8FShRm4PvQgDSGLB37TzXQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 5,
+    "developer": "Jordon Smith",
+    "developerId": "Jordon+Smith",
+    "developerEmail": "jordon.smith.uk@gmail.com",
+    "developerWebsite": "http://jordonsmith.uk",
+    "updated": "January 4, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Hex is a Watch Face for Android Wear using the current time as a hex triplet to colour the face and display the time.Day and date is shown when not in ambient mode and no peek cards are visible.Inspired by: http://www.jacopocolo.com/hexclock/Fork me: https://github.com/jrdnull/HexWatchThanks to Cyril Mottier for the device frame used in the feature graphic, http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/",
+    "descriptionHTML": "Hex is a Watch Face for Android Wear using the current time as a hex triplet to colour the face and display the time.<br><br>Day and date is shown when not in ambient mode and no peek cards are visible.<br><br><br><b>Inspired by:</b> http://www.jacopocolo.com/hexclock/<br><b>Fork me:</b> https://github.com/jrdnull/HexWatch<br><br><br>Thanks to Cyril Mottier for the device frame used in the feature graphic, http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 3,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/A8wjrsR3Wg__vEN763j-8gfNdFbaUo9T1MG0AF3WNZ_gp578GFbrn2Bwr8OSRf43ONap=h310",
+        "//lh5.ggpht.com/e0gPwTh5UxhRAmlwqDv5rWjYp-ikEu1PtUPCe1zhtDEhniAWq-RNhgQSjNSdO_7h1vY=h310",
+        "//lh5.ggpht.com/iU5gH7qGpSXEEe8S1RirefattO_moyrBwFV9aB2EpfSibVUqhUQMKVFViMXQMp0AeA=h310",
+        "//lh6.ggpht.com/2xDKSQpB2xSrSYfJW4YdUyoX_TxJTYO51nIIvCIyIypiB90dedk1yYYodrQRLK_pbMg=h310"
+    ],
+    "comments": [
+        "I love this. Understated, clean, efficient. Would have 5 stars if the date format could change to DDMMYYYY.",
+        "This works well and I really like the idea, but it will randomly decide when to show the date.",
+        "Fine, but isn't hexadecimal...",
+        "Good concept and clean presentation but misleading name. Provide for actual hex representation and I'll give five stars."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.jordonsmith.hexwatch&hl=en&gl=us",
+    "appId": "uk.jordonsmith.hexwatch"
+}

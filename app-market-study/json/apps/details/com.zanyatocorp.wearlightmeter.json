@@ -1,0 +1,49 @@
+{
+    "title": "Wear Light Meter",
+    "summary": "Simple app that displays current illumination",
+    "icon": "//lh4.ggpht.com/XNL0c-lgnieAg_6uZ4-HAjm2PHxTJmQ2E4EppK5wmSdShpnKkipp1YHsJer1akJapfc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.6,
+    "reviews": 29,
+    "developer": "Irony Software",
+    "developerId": "Irony+Software",
+    "developerEmail": "ask.quaternion@gmail.com",
+    "developerAddress": "Ukraine, Dnepropetrovsk, Naberezhnaya Pobedy 21",
+    "updated": "December 22, 2014",
+    "version": "1.0.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app reads data from the ambient light sensor and displays it absolute value (SI Lux).IMPORTANT: This application requires ambient light sensor, at the moment it is installed only in Motorola Moto 360 and Sony Smartwatch 3.",
+    "descriptionHTML": "This app reads data from the ambient light sensor and displays it absolute value (SI Lux).<br>IMPORTANT: This application requires ambient light sensor, at the moment it is installed only in Motorola Moto 360 and Sony Smartwatch 3.",
+    "histogram": {
+        "1": 7,
+        "2": 2,
+        "3": 2,
+        "4": 3,
+        "5": 15
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/IFnumm54N41u53XtvdsyFP4vm_Xmt1QofWhUR74vpang7Czsu5C86BhXq-70m6Ug0HCY=h310",
+        "//lh4.ggpht.com/r5PUg83IBZ-g_yMArDEws6EsAt-0R5sJLskEkxdeEbvZ5aEMhgDUDTjIIw7NejDYPTw=h310",
+        "//lh6.ggpht.com/tga7MAa7yv1dSP-sv6YbTftGvSlQT8Px3eVWuiRGMuy4yPGjtW3drdMBqgJYbFjOzXs=h310",
+        "//lh3.ggpht.com/sYSW0j_7EX0HEiumXcqi4dB6H2Bo5nnYjgM1TGzzblP6DwBmORRXOA0Vnfn2_1wJmA=h310",
+        "//lh4.ggpht.com/ddVYaWhSHSF_RdZeYhcwKs1S9DkH8G02vbXY6XezDiX44vMhJZZ7-RpxxaUCE-x08g=h310",
+        "//lh4.ggpht.com/qsSNrF2oswcFPEyDjATW5uRgRdRaQb-krFCs7xx0yay-L2lot6eGT6GeW_euZELCQA=h310"
+    ],
+    "comments": [
+        "Might be helpful to a photographer or film student otherwise kind of limited but I like it. He could expand function a bit",
+        "First work on G watch R Uninstalling"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.zanyatocorp.wearlightmeter&hl=en&gl=us",
+    "appId": "com.zanyatocorp.wearlightmeter"
+}

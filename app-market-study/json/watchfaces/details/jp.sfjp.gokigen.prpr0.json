@@ -1,0 +1,49 @@
+{
+    "title": "prpr",
+    "summary": "prpr is a very very simple slide-show watch face on a android wear.",
+    "icon": "//lh5.ggpht.com/o_XYtKdwJb2ZV9R-dp73HzH_TXbyDAC5JP3swwyPRRaM38Y-xKASwk7QVupzznvNR54=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 1.3,
+    "reviews": 3,
+    "developer": "MRSa",
+    "developerId": "MRSa",
+    "developerEmail": "sakai.ryoji@gmail.com",
+    "developerWebsite": "http://gokigen.sourceforge.jp",
+    "updated": "January 12, 2018",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "prpr is a very very simple slide-show watch face on a android wear.The prpr's default is only display five images every 10 seconds, but you can transfer and show any favorite image to your android wear from companion application.*** The transferring picture is recommended square size, because prpr-companion application automatically resizes it to fit as a square size wallpaper.",
+    "descriptionHTML": "prpr is a very very simple slide-show watch face on a android wear.<br><br>The prpr&apos;s default is only display five images every 10 seconds, but you can transfer and show any favorite image to your android wear from companion application.<br><br>*** The transferring picture is recommended square size, because prpr-companion application automatically resizes it to fit as a square size wallpaper.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/rNlqzhRkWKHJ1N3B5NY4EOPDoFFoRQhyBZrr9i-4MRh0bwZ-7G2qBwgjYj4Yauh5J_sI=h310",
+        "//lh6.ggpht.com/5vXggMGFE6Y_Sxz6ET_wtSZFGc9wQUiE76dXBESm0fnSxkBqqX8xKlAxMm7tGBzP4EY=h310",
+        "//lh3.ggpht.com/6ZxYkSnQJ04aL9EWkBbVBKnqWnzhpr19smZsxFHOtHBKVXr54K8p62wOqQyL8UcbrsM=h310",
+        "//lh3.ggpht.com/7afw_Z-aX_wPm-zY4bNlTdd5u3oeyGpK-LXmsNF0WejnROwd8f7mXPIRGoBBLy--iJE=h310",
+        "//lh6.ggpht.com/nWg5kRYcDgE3flMxteIlKj48Ifo0Vv_pz_v7hsT2AaS4wxXwZVH7MHWwZuF7aCfW6rU=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Apply for Android Wear version 2.0.",
+        "Allows enhanced number of pictures, more than 200."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.sfjp.gokigen.prpr0&hl=en&gl=us",
+    "appId": "jp.sfjp.gokigen.prpr0"
+}

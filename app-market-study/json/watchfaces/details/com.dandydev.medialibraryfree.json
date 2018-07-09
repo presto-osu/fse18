@@ -1,0 +1,59 @@
+{
+    "title": "Music Library Free",
+    "summary": "Free version with ads.  A handy app for vinyl record and CD collectors.",
+    "icon": "https://lh3.ggpht.com/djAaFlMLavHmeGhmC0EgCWSD7s7XuRPKa1ej6DDhOi1UevHYxnk4-2bdh_8fTdfILA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.4,
+    "reviews": 565,
+    "developer": "Andrew Dyer",
+    "developerId": "9175370063155225096",
+    "developerEmail": "abdyer@gmail.com",
+    "developerWebsite": "https://www.iubenda.com/privacy-policy/8022732",
+    "developerAddress": "1707 1/2 Post Oak Blvd #192\nHouston, TX 77056",
+    "updated": "August 21, 2015",
+    "version": "3.2.1",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Easily catalog your record and/or CD collection and browse it on your Android device.  Add titles by barcode scan or via the integrated Amazon.com search.  Sort and search to quickly locate titles on the shelf.  Use the coverflow view to effortlessly flip through your collection.  Add custom album art by taking a picture or selecting from the gallery.  Use the wish list to keep track of albums you want to purchase.  Quickly load albums from a Google Docs spreadsheet.  Full tablet support. View your wish list on your Android Wear device.Special thanks to Dust House Studio (http://dusthousestudio.bandcamp.com/) for permission to use some of their album artwork in the app screen shots!Like Music Library Free? The paid version of Music Library offers: - Export to a Google Docs spreadsheet- Backup/restore functionality to protect your data- The latest enhancements first- No adsVersion History:3.2Added support for Marshmallow (Android v6.0) runtime permissions. Sprinkle on a bit more Material Design. Various bug fixes.3.1.4Added ability to specify ascending or descending sort order. Various bug fixes.3.1.3Alphabetical sort is now case-insensitive and ignores \"the\" in band names. Fix bug with media type and shelf selections when editing titles. Fix crash when selecting a search result on Android 5.0 Lollipop.3.1.2System and navigation bar colors change based on album cover on KitKat and Lollipop. Album covers animate between list and detail view on Lollipop. Various bug fixes.3.1Add release date and label to album detail & edit screens. Add menu option to add album manually for titles that do not return a matching search result. Load \"Tracks & Other Info\" link in app instead of launching external web browser.3.0Updated to Material Design (even more to come)! Moved shelf list into left navigation drawer. Cover art images used as source for action bar and font colors, giving each album a fresh look. Added ability to sort by release date (note that only newly added titles will have the date available for sorting). Various fixes to retain scroll position/selection on orientation change.2.7.3Fix rotation bug on title list screen.2.7.2Fixed issue that was preventing album art from being changed on some devices.2.7.0Moved less frequently used menu items into Settings screen. Improved flow for adding albums to your collection.2.6.0Jetzt im Deutsch! (Now in German!)2.5.2Added Android Wear support. The first ~12 items in your wish list will be displayed on your smart watch when the wish list is opened on your phone.2.5.1Fixed image sizes on high resolution devices such as the Nexus 5. Better reporting of crashes to more easily identify trends and prioritize fixes.2.4.3Updated to latest version of Google Drive SDK to fix breaking changes that were causing creation of import spreadsheet to fail.2.4.2Bug fixes for issues that can occur on initial launch on some devices.2.4.1Fixed issues with Google Drive upload when creating import spreadsheet. Revised import process to load from a comma separated value (CSV) file on the SD card as a workaround for lack of support for downloading a Google Drive spreadsheet as a CSV (see updated instructions on import tab). Added \"title already exists\" confirmation when scanning barcodes.2.4Ability to add more than one copy of an album. A confirmation prompt is now displayed instead of the \"title already exists\" message.2.3.1Resolved an issue with incorrect buttons being displayed on the action bar when editing a title on some devices.2.3Moved \"Search\" button to action bar for a more intuitive flow when adding titles (changes to \"Save\" after a search result is selected). Fixed issues with spreadsheet import from Google Docs.2.2Massive overhaul to bring application design and functionality in line with paid version.  Full tablet support.  Added footer with counts to title list.  Added condition and comments fields.  Various bug fixes.",
+    "descriptionHTML": "Easily catalog your record and/or CD collection and browse it on your Android device.  Add titles by barcode scan or via the integrated Amazon.com search.  Sort and search to quickly locate titles on the shelf.  Use the coverflow view to effortlessly flip through your collection.  Add custom album art by taking a picture or selecting from the gallery.  Use the wish list to keep track of albums you want to purchase.  Quickly load albums from a Google Docs spreadsheet.  Full tablet support. View your wish list on your Android Wear device.<br><br>Special thanks to Dust House Studio (http://dusthousestudio.bandcamp.com/) for permission to use some of their album artwork in the app screen shots!<br><br>Like Music Library Free? The paid version of Music Library offers: <br><br>- Export to a Google Docs spreadsheet<br>- Backup/restore functionality to protect your data<br>- The latest enhancements first<br>- No ads<br><br>Version History:<br><br>3.2<br>Added support for Marshmallow (Android v6.0) runtime permissions. Sprinkle on a bit more Material Design. Various bug fixes.<br><br>3.1.4<br>Added ability to specify ascending or descending sort order. Various bug fixes.<br><br>3.1.3<br>Alphabetical sort is now case-insensitive and ignores &quot;the&quot; in band names. Fix bug with media type and shelf selections when editing titles. Fix crash when selecting a search result on Android 5.0 Lollipop.<br><br>3.1.2<br>System and navigation bar colors change based on album cover on KitKat and Lollipop. Album covers animate between list and detail view on Lollipop. Various bug fixes.<br><br>3.1<br>Add release date and label to album detail &amp; edit screens. Add menu option to add album manually for titles that do not return a matching search result. Load &quot;Tracks &amp; Other Info&quot; link in app instead of launching external web browser.<br><br>3.0<br>Updated to Material Design (even more to come)! Moved shelf list into left navigation drawer. Cover art images used as source for action bar and font colors, giving each album a fresh look. Added ability to sort by release date (note that only newly added titles will have the date available for sorting). Various fixes to retain scroll position/selection on orientation change.<br><br>2.7.3<br>Fix rotation bug on title list screen.<br><br>2.7.2<br>Fixed issue that was preventing album art from being changed on some devices.<br><br>2.7.0<br>Moved less frequently used menu items into Settings screen. Improved flow for adding albums to your collection.<br><br>2.6.0<br>Jetzt im Deutsch! (Now in German!)<br><br>2.5.2<br>Added Android Wear support. The first ~12 items in your wish list will be displayed on your smart watch when the wish list is opened on your phone.<br><br>2.5.1<br>Fixed image sizes on high resolution devices such as the Nexus 5. Better reporting of crashes to more easily identify trends and prioritize fixes.<br><br>2.4.3<br>Updated to latest version of Google Drive SDK to fix breaking changes that were causing creation of import spreadsheet to fail.<br><br>2.4.2<br>Bug fixes for issues that can occur on initial launch on some devices.<br><br>2.4.1<br>Fixed issues with Google Drive upload when creating import spreadsheet. Revised import process to load from a comma separated value (CSV) file on the SD card as a workaround for lack of support for downloading a Google Drive spreadsheet as a CSV (see updated instructions on import tab). Added &quot;title already exists&quot; confirmation when scanning barcodes.<br><br>2.4<br>Ability to add more than one copy of an album. A confirmation prompt is now displayed instead of the &quot;title already exists&quot; message.<br><br>2.3.1<br>Resolved an issue with incorrect buttons being displayed on the action bar when editing a title on some devices.<br><br>2.3<br>Moved &quot;Search&quot; button to action bar for a more intuitive flow when adding titles (changes to &quot;Save&quot; after a search result is selected). Fixed issues with spreadsheet import from Google Docs.<br><br>2.2<br>Massive overhaul to bring application design and functionality in line with paid version.  Full tablet support.  Added footer with counts to title list.  Added condition and comments fields.  Various bug fixes.",
+    "histogram": {
+        "1": 132,
+        "2": 50,
+        "3": 65,
+        "4": 80,
+        "5": 238
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/nNypBsomLtchVNz6b2X8NQ1CRjyxkR3B9NYW_LijTIk8EYgRQ__Q5bvL4Sx8yW5-fdY=h310",
+        "//lh3.googleusercontent.com/CfAHt3Dh8XUqlOevAve84TEYM3IUp_X4EiG7SXyQrNgyNcdHO-cy7498W7QZZKHXDVTl=h310",
+        "//lh3.googleusercontent.com/drJYmVBbP-lxoeHhQ228hx389jrYuGOhGQKHQdmuJLpgo86nLJRuJjSq_itAlzYdFQ=h310",
+        "//lh3.ggpht.com/sGwtM2QuOosd88fcgXdOxS1seEiR8wtLmOpC1eO5ZY47rHAaXmdQhiE9ku9oC0c57RbW=h310",
+        "//lh3.googleusercontent.com/v8vhB708E930fz2D148-aWbtASTa7RtWdWAs26u8Ow0p_783x0kljhC_mtOLuBpOrB67=h310",
+        "//lh3.ggpht.com/8rssBswUZ-WM6p51g4qhjWB9BZb9-a75D1vVrxqVrNKo9ImRdbFjiWRFNkxrjt8PcSn6=h310",
+        "//lh6.ggpht.com/V7lyWDsNkZ8vv2R1IjKTcHR_OQ6VzgOazA4eNSpJVk7Vn8SSiRQGIvZJWGTiT6HlGw=h310",
+        "//lh3.ggpht.com/taFkkN-VobmGoTNxKu7IlhitqROKGBdE-jJhkshjjamfwGicHIKC0ICL0W96xyN8CCk=h310",
+        "//lh5.ggpht.com/GJe0vyRX0zZ8VH_ECL5heJq9JVpYELznpX0bXqUo56ydU6k3F-LrK_noIVyCwKa6vhai=h310"
+    ],
+    "comments": [
+        "This is the worst app ever. Upgraded to paid music library but could not pull my 1500 items of music from the free version to the paid. Paid because we wanted to be able to export a CSV file to print and take shopping so we wouldn't buy the same LP twice. Waste of money and the time it took to inventory 1500 LPs and CDs!!",
+        "Not currently working, no recent updates App is incomplete and appears to be not in active development as the last version was over a year ago. Added one album and photo doesn't show on browse list.",
+        "Very confusing. I want to play free prime music on my Amazon Echo and its not working",
+        "Can this be used on Windows devices? I would like to be able to sync over several devices, through my Google account. Great little app, dirt simple to use.",
+        "Good intention, needs lot improvement Can't put lyrics n track listing , no barcode scan , no back cover option, no offline editing & update etc...",
+        "Simple and useful Easy to use.  Everything at a glance.  Bug fixes are better but not perfect yet."
+    ],
+    "recentChanges": [
+        "Added support for Marshmallow (Android v6.0) runtime permissions. Sprinkle on a bit more Material Design. Various bug fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dandydev.medialibraryfree&hl=en&gl=us",
+    "appId": "com.dandydev.medialibraryfree"
+}

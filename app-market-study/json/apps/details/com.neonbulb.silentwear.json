@@ -1,0 +1,54 @@
+{
+    "title": "Silent Wear - Pré-Marshmallow",
+    "summary": "Vibration when needed",
+    "icon": "//lh4.ggpht.com/D55ABYtoYfzvlOg2zdg5VG7M37S4pkKU0n6-Zh4CTItQtOtbmN58aJW-bWD1C27f7A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 43,
+    "developer": "Neon bulb",
+    "developerId": "Neon+bulb",
+    "developerEmail": "maxime.dupierreux@gmail.com",
+    "updated": "October 30, 2014",
+    "version": "1.2m",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "*** This app will only work on devices pré-lollipop ***This app will let you choose what sound profile to set on your phone while your Wear is connected / disconnected and charging / not charging. Just pick \"silent\", \"vibrate\" or \"general\" and the app will automatically switch your sound profile when needed. You can also make your watch vibrate each time your watch is disconnected.Once the app is installed, connect or disconnect your Wear device to see it in action.You must have an Android Wear device to use this app.",
+    "descriptionHTML": "*** This app will only work on devices pr&#xE9;-lollipop ***<br><br>This app will let you choose what sound profile to set on your phone while your Wear is connected / disconnected and charging / not charging. Just pick &quot;silent&quot;, &quot;vibrate&quot; or &quot;general&quot; and the app will automatically switch your sound profile when needed. <br><br>You can also make your watch vibrate each time your watch is disconnected.<br><br>Once the app is installed, connect or disconnect your Wear device to see it in action.<br><br>You must have an Android Wear device to use this app.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 3,
+        "4": 6,
+        "5": 31
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/3jGTGEgvzEnRN9JIYSxHrDoZAIFhEzy7tNitM35kMsgapu9AwMpwgnpty6Jn6J0V9u6R=h310",
+        "//lh4.ggpht.com/tLFNkBhROE7c2jPcXxWUaiXJ5uF6R866XetJfhkuF2ajVemofTRQewrmmJcIqVADyOk=h310"
+    ],
+    "comments": [
+        "I used to use Tasker for this. But let's face it, it was complicated/cumbersome/obscure/not user friendly. Now that I have found this app, my life is simple (AND efficient) again :)  Hurray!",
+        "Awesome! Where the wear app fails.. this app comes to the rescue. Thank you!",
+        "Works as it should Does exactly what it says it does, simple and effective, what more do you want! Works on both moto 360 2nd gen and g watch r.",
+        "Schedule Please implement a schedule feature. Time and day.",
+        "Won't show up on my LG G. After numerous resyncs and enables it still doesn't show on my watch. Please fix.",
+        "Must have app for Wear Great and useful app. I keep my phone silent when I'm wearing my G Watch. Now I don't have to think about resetting the sound when my watch is charging. It is on my short list of must have apps. Great work."
+    ],
+    "recentChanges": [
+        "Version 1.2m :",
+        "- Material design",
+        "Version 1.2 :",
+        "- New option \"Wear vibrate on disconnect\"",
+        "- Current status of phone / wear﻿"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.neonbulb.silentwear&hl=en&gl=us",
+    "appId": "com.neonbulb.silentwear"
+}

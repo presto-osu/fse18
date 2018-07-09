@@ -1,0 +1,62 @@
+{
+    "title": "Notepad",
+    "summary": "Simple notepad applicationNotepad for Android Wear.Free app.",
+    "icon": "//lh3.googleusercontent.com/6rourpgwsXuFRknbhVwvwQKovH8ucwSD_RRko0jmQkCG0Vy4__WVIYPbj3f3Ts8DrQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 61,
+    "developer": "NUmero",
+    "developerId": "5532660247086424417",
+    "developerEmail": "numero.dev.and@gmail.com",
+    "developerWebsite": "https://numeroanddev.github.io",
+    "developerAddress": "Osaka Japan",
+    "updated": "February 3, 2018",
+    "version": "Varies with device",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "size": "Varies with device",
+    "description": "Simple design and easy to use.Notepad you can use with wearable.",
+    "descriptionHTML": "Simple design and easy to use.<br>Notepad you can use with wearable.",
+    "histogram": {
+        "1": 10,
+        "2": 6,
+        "3": 4,
+        "4": 16,
+        "5": 25
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/17Ao6QrWnG-LwJp3zCJKFE_kVXD-Wun3hrob8M5F1dSlvRTKmsC1wgjx1HYmDX2Cw1c=h310",
+        "//lh3.googleusercontent.com/QEUciSkU4kfzGEe7hTZWXn27vU2WvhmDao0_Cmhz5pQRd6j7ASMKq8dhVIXrHbFX5dDs=h310",
+        "//lh3.googleusercontent.com/5mU1N29LJlSmHux5730Kav2rGw2fHFNyYZr_9PbTxZ58r0GcmFH2j4iMqDZfVYrhgA=h310",
+        "//lh3.googleusercontent.com/jM7PqaN_VywTz2vryYa4r3CRaF3gH3EE-AdX1L0Kll2sbSMaW3syFHqAl2KLldGKYyk=h310",
+        "//lh3.googleusercontent.com/uxcjIi4fK2Tx6eXou-amAJsWR6rQkWYnYh1T9eJp0QuEqQpk5ainz0b-Jfe-RKrXVA=h310",
+        "//lh3.googleusercontent.com/x-KPbNHrJ7KxcO1k1SkAU1jGO7Y3iTQ7vYv75gMv3vKP4Pq5hIthn5r-mmmjMGLQNGpb=h310",
+        "//lh3.googleusercontent.com/Euts-jNu6sN1utjRVhoLV9u_hMHYDCQJ5niucixoA5iV6Nv5VUQ3lfgWNe57CjkwuRc=h310",
+        "//lh3.googleusercontent.com/cdcX_PbFyvNeuXO3qkgkQ0pOa_6jkD66kgo7iuOwpwmtEwJ_4317WYzz2fgZ9GUzkbg=h310"
+    ],
+    "comments": [
+        "If u guys add keyboard typing, this would be 5 stars",
+        "This is a nice app for the smartwatch, works great there. For the mobile app I would suggest: 1) Let send notes to smartwatch (would give one more star) 2) Have a paid version to get rid of ads! I'll pay for it! (would give give stars!)",
+        "Please add a word counter beside the character counter. Plz plz plz",
+        "I haven't worked out where it saves to phone on iOS. Pretty good otherwise",
+        "Fully working nice notepad!",
+        "good and helpful but keep is better"
+    ],
+    "recentChanges": [
+        "Ver 6.0.0",
+        "・Categories can now be added and edited.",
+        "・Changed some layout.",
+        "・Bug fixed."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.numero.simplememo&hl=en&gl=us",
+    "appId": "com.numero.simplememo"
+}

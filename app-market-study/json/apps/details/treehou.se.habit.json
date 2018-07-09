@@ -1,0 +1,60 @@
+{
+    "title": "3House - openHAB client",
+    "summary": "A client for the automation software openHAB.",
+    "icon": "//lh3.googleusercontent.com/Kb4MwtPbFYzkoZicPFdLAQSDdy1Fc4KXdi61aQTcEuv3sx8QXSdN0eDCQiAhOtCqL9tr=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.9,
+    "reviews": 106,
+    "developer": "3hou.se",
+    "developerId": "3hou.se",
+    "developerEmail": "mattias@3hou.se",
+    "developerWebsite": "http://3hou.se",
+    "developerAddress": "Ostgatan 14.\n412 75. Gothenburg, Sweden",
+    "updated": "February 19, 2018",
+    "version": "5.5.7",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "A client for the automation software OpenHAB.Features:- Supports multiple servers.- Tasker support.- Custom controllers.- Push notifications.help translate:https://oswmdvr.oneskyapp.com/collaboration/project?id=71199Try out beta build:https://play.google.com/apps/testing/treehou.se.habitLanguage skillsWant to contribute?https://github.com/ibaton/3HouseOpenHAB:http://www.openhab.org/",
+    "descriptionHTML": "A client for the automation software OpenHAB.<br><br>Features:<br>- Supports multiple servers.<br>- Tasker support.<br>- Custom controllers.<br>- Push notifications.<br><br>help translate:<br>https://oswmdvr.oneskyapp.com/collaboration/project?id=71199<br><br>Try out beta build:<br>https://play.google.com/apps/testing/treehou.se.habit<br><br>Language skills<br><br>Want to contribute?<br>https://github.com/ibaton/3House<br><br>OpenHAB:<br>http://www.openhab.org/",
+    "histogram": {
+        "1": 10,
+        "2": 8,
+        "3": 9,
+        "4": 33,
+        "5": 46
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jt4U6hLW2bM5KSj_vpQp0fVWwPmMvgp_huirGeeXWlxXX4GMyd23saNYPrxQ9FdxJHA=h310",
+        "//lh3.googleusercontent.com/p90YeDZ7buMYv4k9Fx0-uElwcZqU8O8Kz4QYhkzOWCqsWXssD0BwcPU4jiTrAV1LXg=h310",
+        "//lh3.googleusercontent.com/AxMxQem2G_yMy0LSlQMvM5bjg4WJ_4Hi29FknpBzRMjQ5OiMYK6vJ49xqGoHDgljkQzk=h310",
+        "//lh3.googleusercontent.com/OnOj9eA_1YoP0hZfGQXZAB6M7kADoVJuIT26K6bwAMZXH8YvVnNsTvCwiVZS0ZCKQEbm=h310",
+        "//lh3.googleusercontent.com/5V42_ixCt1pBRabKqAy82U_iecI_2cbiZ1z4c396IJy22BZAhZaPxBsrROXdyAJyqw=h310",
+        "//lh3.googleusercontent.com/oF54TEOoCAU0Ik-n0ObvbCMy1FytqLhZQkavH9u3xrixdfKIMRxsLKN9GMWf31uMkSAM=h310",
+        "//lh3.googleusercontent.com/XnONqSzrz02OLPDFAMN_ZGlEKqrnec5ICZcF1-YgwQiZ3sgAaBR1UlL8sqkKOHh8SVE=h310",
+        "//lh3.googleusercontent.com/eynw7kFzdYP-jMqmXNNxj1D6A9r7riutk6DtHqZ6GBboqmByDCtUyC0MUuspm0PtXw=h310",
+        "//lh3.googleusercontent.com/Jjmm8DKnC_ToH0xFJQZSq29uHSfxl1cP4cYSoPx-ac3xPtRupvV39j5rQPkBzuhN8h8=h310"
+    ],
+    "video": "https://www.youtube.com/embed/8zuHXubC-aE",
+    "comments": [
+        "Feb 21: finally no longer crashing. super happy to have this app back  Update Jan27: Still crashing on load. running Galaxy S7 on Android 7.0  Update jan 13 2018: the latest update released has caused the app to no longer work. every time i start it.. it crashes.   Old review: works really well. I have a problem where it won't connect to my server if I'm over 3G. the moment i'm on WiFi the connection is established...",
+        "Moto G5 with Android 7.0 now likes the app again. Thanks for the fix",
+        "It crashes every time on launch with latest Android 8.1.0",
+        "The controller does not work with more than 2 rows",
+        "constantly crashes after last update Android version 6.0.1. Used to work perfectly fine, now crashes after any action (for example switch selection). please fix. UDPATE: no longer crashes on switch selection. Back to 5 stars",
+        "Crash android 6 When click a switch program shutdown."
+    ],
+    "recentChanges": [
+        "Small bug fix."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=treehou.se.habit&hl=en&gl=us",
+    "appId": "treehou.se.habit"
+}

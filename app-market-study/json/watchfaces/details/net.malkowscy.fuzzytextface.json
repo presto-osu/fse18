@@ -1,0 +1,45 @@
+{
+    "title": "Yet Another Fuzzy Text Face",
+    "summary": "YAFT is minimalistic watch face for Android Wear device.",
+    "icon": "//lh3.googleusercontent.com/h1hF3HwSMyORb6A3Co4SKUhGY74LjPP06sLuZSTL0gQ30zsu8CKEykpJLM0fa_3fYsFM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 2,
+    "developer": "Bartosz 'bmalkow' Małkowski",
+    "developerId": "Bartosz+'bmalkow'+Ma%C5%82kowski",
+    "developerEmail": "bartosz.malkowski@gmail.com",
+    "developerWebsite": "https://github.com/bmalkow/yaftf",
+    "updated": "June 16, 2016",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Features:- display fuzzy time in natural language- display date on tap- notify when connection with phone is lost",
+    "descriptionHTML": "Features:<br>- display fuzzy time in natural language<br>- display date on tap<br>- notify when connection with phone is lost",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/FpCM74CgLyzp9HH3m8aXGooNcZTQd1P9gS32pz8n7Cd75ki_Jzh7ipKT_TWzmcBM0ww=h310",
+        "//lh3.googleusercontent.com/XZF_fjfmnHOwlatv-WXsD5vQhgiJ-2JoipZDRxsf7ku-9zKYVmZDcl_4QNuPHJITrl0=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "New icon",
+        "fixed minor bugs"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.malkowscy.fuzzytextface&hl=en&gl=us",
+    "appId": "net.malkowscy.fuzzytextface"
+}

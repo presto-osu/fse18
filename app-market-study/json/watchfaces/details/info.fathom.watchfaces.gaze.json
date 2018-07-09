@@ -1,0 +1,56 @@
+{
+    "title": "Gaze Effect: Watch Face",
+    "summary": "A watch face that looks back",
+    "icon": "//lh3.googleusercontent.com/8CE2xj-p23Iqs_mBugVSpZ1ak-NdKx3YgmXxvwPRORV8-xzfG6qn6HB_Xq_KmMv77w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 86,
+    "developer": "Fathom Information Design",
+    "developerId": "Fathom+Information+Design",
+    "developerEmail": "inquire@fathom.info",
+    "developerWebsite": "http://fathom.info",
+    "developerAddress": "300 Cambridge Street, Floor 5\nBoston, MA 02114",
+    "updated": "October 16, 2015",
+    "version": "1.1.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Gaze Effect is an Android Experiment that displays mysterious eyes that gaze back at you when you look at your watch. The more you look at your watch, the more your watch looks at you. If you don’t check your watch for a while, the eyes start disappearing. In the later hours of the day, the eyes grow tired, and they move and blink less. Keep an eye out for special times throughout the day when they get especially eerie.The design alludes to Jacques Lacan’s psychological term “Gaze,” or the realization that you are an object being looked at just as an inanimate object can be looked at. The Gaze Effect watch face is a quirky reference to self-awareness, and our relationship to personal devices and time.For more information about Gaze Effect visit http://www.androidexperiments.comSee Fathom’s full collection of watch facesCoubertin Rings: A watch face to motivate your daily activity http://goo.gl/6OZfQKGaze Effect: A watch face that looks back https://goo.gl/klBrM1Bouncing Isaac: A watch face inspired by light and physics https://goo.gl/WFf1FtThis project is open source, and the code is available here:https://github.com/fathominfo/fathom-watchfaces",
+    "descriptionHTML": "<i>Gaze Effect</i> is an Android Experiment that displays mysterious eyes that gaze back at you when you look at your watch. The more you look at your watch, the more your watch looks at you. If you don&#x2019;t check your watch for a while, the eyes start disappearing. In the later hours of the day, the eyes grow tired, and they move and blink less. Keep an eye out for special times throughout the day when they get especially eerie.<br><br><br>The design alludes to Jacques Lacan&#x2019;s psychological term &#x201C;Gaze,&#x201D; or the realization that you are an object being looked at just as an inanimate object can be looked at. The <i>Gaze Effect</i> watch face is a quirky reference to self-awareness, and our relationship to personal devices and time.<br><br><br>For more information about <i>Gaze Effect</i> visit http://www.androidexperiments.com<br><br><br><b>See Fathom&#x2019;s full collection of watch faces</b><br><i>Coubertin Rings</i>: A watch face to motivate your daily activity http://goo.gl/6OZfQK<br><i>Gaze Effect</i>: A watch face that looks back https://goo.gl/klBrM1<br><i>Bouncing Isaac</i>: A watch face inspired by light and physics https://goo.gl/WFf1Ft<br><br><br><b>This project is open source, and the code is available here:</b><br>https://github.com/fathominfo/fathom-watchfaces",
+    "histogram": {
+        "1": 4,
+        "2": 3,
+        "3": 9,
+        "4": 20,
+        "5": 50
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/9KtUB7IrOywsUzrxdyYN2N9nVTt9BsuRQ4rIHTMBCvWvfUSQr46XPAVZ7avHBUvcSzU=h310",
+        "//lh3.googleusercontent.com/TrU2DGG4JoS63GVN9aL6qfJS80-y8AAmgxhJyocBLrORI8VPHXOeKqJ60IE78oVqz7O8=h310",
+        "//lh3.googleusercontent.com/3Qv4L8WZlnom8nVCWbYKBTZdHwgBdQ6VIu48eAloqLv5GJQLQuWbhbuV61vAcIU1NQ=h310",
+        "//lh3.googleusercontent.com/i_o7ANwuYKevouGFcyyoz-Mi3eN7X-Oe5SXx-03RWO-PAUhheZ25suiXrvk52ZZgiI4=h310",
+        "//lh3.googleusercontent.com/BS5Thrqewvg6CU-3th1ccfBnuY3hpd8OYn3b5NPrshtlf7TQdYrN0sNcZlMVDu7iYLA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/QUqOCE5fcr4",
+    "comments": [
+        "My favorite watch face thus far.  It's fun seeing the eye(s) looking around and looking at you!  I hope to see more whimsical and fantasy themed watch faces like this one in the future.",
+        "Can we have a live wallpaper from this?  Pleeaseee :D",
+        "No working Its not working",
+        "Awesome!",
+        "Worst Worst",
+        "Nice"
+    ],
+    "recentChanges": [
+        "Adds support for 24-hour time, showing the date when tapped, and a couple other bug fixes and tweaks. Also removes Google libraries that were asking for extra permissions."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.fathom.watchfaces.gaze&hl=en&gl=us",
+    "appId": "info.fathom.watchfaces.gaze"
+}

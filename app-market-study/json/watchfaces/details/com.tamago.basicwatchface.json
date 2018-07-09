@@ -1,0 +1,49 @@
+{
+    "title": "Basic Neon Watch Face",
+    "summary": "Basic dark theme watch face for Neon colors lover.",
+    "icon": "//lh3.googleusercontent.com/nn470kiy5emOjEhXGq8_3Mptz2DKt1PgqUwIIkvBvTIAN2ZvNvgZTYIROCQ87ZL5UyWO=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4,
+    "reviews": 4,
+    "developer": "Tamago Design",
+    "developerId": "Tamago+Design",
+    "developerEmail": "com.tamago@gmail.com",
+    "developerAddress": "16, Lorong Rajawali 7,\n11900, Bayan Lepas,\nPenang, Malaysia.",
+    "updated": "May 24, 2016",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Feature:Time, Date and Weekday.Watch and phone battery indicator in both interactive/ambient mode.Color configuration (preset).12-Hour format with AM/PM indicator.To install:1. Do allow some times for your mobile to transfer Watch Face to your watch.2. Please execute 'Resync app' under Android Wear App on your mobile after install, this is to synchronize the watch face.3. Long press your watch and choose Basic Watch Face as your watch faceCompatible with all round and square watches.",
+    "descriptionHTML": "Feature:<br>Time, Date and Weekday.<br>Watch and phone battery indicator in both interactive/ambient mode.<br>Color configuration (preset).<br>12-Hour format with AM/PM indicator.<br><br>To install:<br>1. Do allow some times for your mobile to transfer Watch Face to your watch.<br>2. Please execute &apos;Resync app&apos; under Android Wear App on your mobile after install, this is to synchronize the watch face.<br>3. Long press your watch and choose Basic Watch Face as your watch face<br>Compatible with all round and square watches.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/7FquDpegtrqossU4B2cY-6UDu8XBFNJoMTnNQVDMedAhc-arCBxRxboMpf4DvtlMSg=h310",
+        "//lh3.googleusercontent.com/PvCbeCivI2_KunvsbvXQg0a34SuZB59h7lJ8juxUIFGYXkCUbX1whTZGyAz_ng6FrA=h310",
+        "//lh3.googleusercontent.com/N4Vmaj3Vk6Di8SjyPBbpKcMvKTpOYC_j6gAc7p2z-Ze5ey8RfEgLhhpDS5yAEghRz9o=h310",
+        "//lh3.googleusercontent.com/2FSlU1TMoTqcwX3A4_4xE3_nqOei7vCiKMNNUrgSBAB1_IMzLPFKKubmgpbN288RM6Q=h310",
+        "//lh3.googleusercontent.com/TuKLQt62xuow6RJ_DW0DekY7Zqv3ChpsoPZCstT57ttcA5iWyNLHhWjSinZU99sPKN0=h310"
+    ],
+    "comments": [
+        "Simple and lean, works as what it say. I will give 5 stars if you add in feature to enable user choose custom color, others than the 10 preset colors. Please consider this in your next update."
+    ],
+    "recentChanges": [
+        "Cosmetic UI display bug fix."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tamago.basicwatchface&hl=en&gl=us",
+    "appId": "com.tamago.basicwatchface"
+}

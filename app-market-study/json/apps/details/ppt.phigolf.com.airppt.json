@@ -1,0 +1,53 @@
+{
+    "title": "Air PPT",
+    "summary": "AirPPT makes possible to easily control PowerPoint by your wearables and Phone.",
+    "icon": "//lh6.ggpht.com/jvkyBzdbu5a27f9ykt9-x1l2J-uiN-G9szc9u2kVuyoZgrCvVCBPYPESnBJiuYLWow=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.2,
+    "reviews": 20,
+    "developer": "phigolf",
+    "developerId": "phigolf",
+    "developerEmail": "manager@phigolf.com",
+    "developerWebsite": "http://smart.phigolf.com/AirPPT/airppt.html",
+    "developerAddress": "Woorim E-Biz Center2 412, 184-1\nGuro-Dong, Guro-Gu, Seoul, Korea",
+    "updated": "February 25, 2015",
+    "version": "1.0.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Air PPT available to Android WearAir PPT remote controller of Power Point presentation.This app makes possible to easily control power point presentation through your mobile device and wearables.- Next/Previous slide.- Motion gesture- Start/Stop presentation.- Checking presentation timeIMPORTANT:1. Download and install PC app and Phone app http://smart.phigolf.com/AirPPT/airppt.html2. Connect your phone to PC through Wi-Fi.3. You know about gesture ( http://youtu.be/HbJ9c507_1E ).You can find more information about Air PPT ( http://smart.phigolf.com/AirPPT/airppt.html )",
+    "descriptionHTML": "Air PPT available to Android Wear<br>Air PPT remote controller of Power Point presentation.<br><br>This app makes possible to easily control power point presentation through your mobile device and wearables.<br><br><br>- Next/Previous slide.<br>- Motion gesture<br>- Start/Stop presentation.<br>- Checking presentation time<br><br>IMPORTANT:<br>1. Download and install PC app and Phone app http://smart.phigolf.com/AirPPT/airppt.html<br>2. Connect your phone to PC through Wi-Fi.<br>3. You know about gesture ( http://youtu.be/HbJ9c507_1E ).<br><br>You can find more information about Air PPT ( http://smart.phigolf.com/AirPPT/airppt.html )",
+    "histogram": {
+        "1": 11,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/0Kh2sPWXHAgTcT7bphwLZ2lIqp-fhLGjy4Q0tUglatawpVue3rt5Nhcn5xXAthRvLrY=h310",
+        "//lh6.ggpht.com/HgXVtMerfnQKVe-8juDE2H-ZSy2DH6akM3tY8DuKwRCvAwhtblG_cpJOepZ9tYvixbI=h310",
+        "//lh4.ggpht.com/B3l5Dy9gdXDBfLf-s4VOCwnOzsuAg7VrnPkzMaGV5RUvEKFfQi0RTsOqOShd2Y5geSQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/S6PxYL8K-5Y",
+    "comments": [
+        "Actually works Been trying to find something that actually works to control PowerPoint from my Android Wear - this does it. There's a companion app for the PC that displays your IP and Port, type the IP in on the phone and away you go. I have not been able to get the gestures to work, but based on the video,  don't think I'd use them anyway because it'd be too awkward.",
+        "Worked great, then stopped Using Moto360 and downloaded a month or so ago. Worked great initially. When I tried using it last week no dice. Watch works, phone works, air ppt does not. Requesting refund or support to fix.",
+        "Partially works now, great potential for later I bought this app after a recommendation on Android Police. I would give this app 3.5 stars because the app is in an early development and not everything is optimized. I use a Moto 360 and a Windows 8.1 laptop. What it can do is control the flow of slides from a phone or a Wear watch touch screen. The Wear app (Moto 360 particular) is cropped off from the bottom and I could not successfully  use any gestures. The Windows app is not optimized for high DPI like an ultrabook. Once these things are fixed, this app will well be worth $2.73 for anybody who needs to control a PowerPoint. Plus, it will look super cool.  I think this app, if it can integrate into PowerPoint, should display notes  or be able to control the laser pointer mouse cursor.",
+        "Didn't work for me",
+        "Request refund Won't even connect.  LG g2 4.2.2"
+    ],
+    "recentChanges": [
+        "Fixes some bugs"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ppt.phigolf.com.airppt&hl=en&gl=us",
+    "appId": "ppt.phigolf.com.airppt"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Wrist Sensors",
+    "summary": "What are the sensors of my wearable?I want the measurements on my mobile!",
+    "icon": "//lh3.ggpht.com/JJaoUtxNMvKieuNB7YMdBJ08iJBm8ORruAhi2sKh8HmIcHl9nnK_S_YZqDJchczsDQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.8,
+    "reviews": 9,
+    "developer": "Vassilis Kilintzis",
+    "developerId": "Vassilis+Kilintzis",
+    "developerEmail": "billyk18278@gmail.com",
+    "updated": "February 18, 2018",
+    "version": "2.3a",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "A practical clean application for wearables ( tested and developed on moto 360 ) that presents the sensors reported by the wearable and allows viewing and recording of the measurements. The measurements are either stored in the internal storage of the device or send to the mobile's external storage.Useful for identifying the sensors on a smartwatch and also to assist reasearch by storing the measurements on comma separated text file (.csv).Free and add-free :-)Enjoy",
+    "descriptionHTML": "A practical clean application for wearables ( tested and developed on moto 360 ) that presents the sensors reported by the wearable and allows viewing and recording of the measurements. The measurements are either stored in the internal storage of the device or send to the mobile&apos;s external storage.<br><br>Useful for identifying the sensors on a smartwatch and also to assist reasearch by storing the measurements on comma separated text file (.csv).<br><br>Free and add-free :-)<br><br>Enjoy",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/A8Hq-Vqa5jervyJyy2hey9O9PMId7BXxK-3z23RWPNY0b6Avr1x5dUVN3HgLI-nc-RY=h310",
+        "//lh4.ggpht.com/h7xRy5XlyCk2mJBZdDICBtRJFR1awDPZ7dzK0LfgbdczuNvpb7TmOlLCpAa4UYg_KCQ=h310"
+    ],
+    "comments": [
+        "I really enjoy the capability this app provides in displaying my Nixon mission watch sensors through complications. Thanks, and well done!",
+        "I love this app. Only decent way to make use of the sensors in my Nixon mission.",
+        "Jun17- I love the update to use complications. Being able to see these readings easily is why I got this watch./ I wanted an app that could read all the sensors and display the readings directly on the watch. This was the only app I found that did that and it works well.",
+        "Just downloaded the app would be nice to have a more user friendly interface (I'm not much of a computer guy) but tbh I'm so glad someone has finally let me use the thermometer on my Nixon mission so thank You very much 😁",
+        "Very nice, hope a better GUI can be included. This app can do more then many that are sold.",
+        "Very Impressive App! I was really impressed with this app, as far as I can tell the information is very extensive and accurate. It might be a bit much for the majority of Android users but it should be indispensable for anyone considering developing for Android Wear!"
+    ],
+    "recentChanges": [
+        "Hopefully i have fixed the bug about complications in Oreo watches.",
+        "Background recording now does not permit the watch to go into idle mode that was reducing sampling rate significantly.",
+        "Enjoy!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=gr.auth.med.lomi.wristsensors&hl=en&gl=us",
+    "appId": "gr.auth.med.lomi.wristsensors"
+}

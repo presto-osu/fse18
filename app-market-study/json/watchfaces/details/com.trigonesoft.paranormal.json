@@ -1,0 +1,57 @@
+{
+    "title": "Paranormal Watch Face",
+    "summary": "Your smart watch deserves better than looking like a cheap copy of a dumb one.",
+    "icon": "//lh3.googleusercontent.com/ZaBoAik0SRLrveS-Upvkn7K4zNShsTpolWa9eFj7IafztLUfP_gBMx-P4EuBxjFZ-z8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 22,
+    "developer": "TRIGONE",
+    "developerId": "TRIGONE",
+    "developerEmail": "contact@trigonesoft.com",
+    "developerWebsite": "http://www.trigonesoft.com",
+    "developerAddress": "Mathieu Villegas\nAvenue de Chateaubriand\nMontreal, QC, H2S 2N7\nCANADA",
+    "updated": "August 3, 2015",
+    "version": "1.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Nice watch face, with cool design and effects for Android Wear devices.Watch the video to see what it really does (video doesn't show the light TV noise effect).Several configurations are available to meet your needs:- 24 or 12 hours time- display or hide seconds- configure frequency and duration of light and dark TV noise effect- disable TV noise effect if you don't like it- set 3D effect limits- configure rendering and contrast- 2 different ambient mode rendering (paranormal and standard one)",
+    "descriptionHTML": "Nice watch face, with cool design and effects for Android Wear devices.<br><br>Watch the video to see what it really does (video doesn&apos;t show the light TV noise effect).<br><br>Several configurations are available to meet your needs:<br>- 24 or 12 hours time<br>- display or hide seconds<br>- configure frequency and duration of light and dark TV noise effect<br>- disable TV noise effect if you don&apos;t like it<br>- set 3D effect limits<br>- configure rendering and contrast<br>- 2 different ambient mode rendering (paranormal and standard one)",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 2,
+        "4": 8,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/549zA2j5mSYOFs_2Si6mXuhf7ztLOr3yahuv1ZjBCGJzbv7__AhY2pg1goju0IpaEA=h310",
+        "//lh3.googleusercontent.com/1dyGZpopvAFnIO1qpiwdvmp5VLnHyZilcAzO2Gmev5DowHiz3Z-aDxTwjDxkGk3lOkIA=h310",
+        "//lh3.googleusercontent.com/V_sq3AFn6dsO7QUFMuOSt2shRodPVy4ZdJCnoIuU4-lCE6XoZAZsnlG1B5U-dfJEP1Q=h310",
+        "//lh3.googleusercontent.com/uiPG04G7YfSnr0BIeuWSaF_BM57keRQ4Xm1Q_8gD9kZsLrIkljSgqgpyKEBU0gO49Vuy=h310",
+        "//lh3.googleusercontent.com/LmrNCDumnFyOaeCShdZDbiOTBQ_F3CYhQGTjy67k6URMP8LKJjGMHAp93dtluQzKH9Q5=h310",
+        "//lh3.googleusercontent.com/3cAjQTT-qkMjAaouHI0Mp4SrsDuNWOXDM_t3bUSrVFIRbSELrGFwsxJSVw2sF3EjUw=h310",
+        "//lh3.googleusercontent.com/9FhPtwMjWi3vtE0-okxtcHKz8cn_D-pj4n7IyFrPDBJA5h3BF5NUros7weV9dbCb85c=h310",
+        "//lh3.googleusercontent.com/oAOtzkUTkwXW3I0gfFBTp2uSoSsnBiYGuFOSCH2Yg6M8bo6FBS1H-7UkuS-N62PORgI=h310",
+        "//lh3.googleusercontent.com/YlNlpvzBW0yI8Oz6TqCEFKgR54_zIOBtxsfAR63Wqf8qOJHCaYR4dMa8QjAcpTOTys8=h310",
+        "//lh3.googleusercontent.com/CSN0sjliHy3b-YGGuh5-M7EyV-6OLhinzvKVrrQFnygflFQDOHp4W79z07VBHq_w6iE=h310"
+    ],
+    "video": "https://www.youtube.com/embed/emlgoY-lqXY",
+    "comments": [
+        "Would like to use this The face doesn't show up as an option to set on my moto 360. I've factory reset, uninstalled and reinstalled, no dice. Very frustrating.",
+        "I'm a big fan of this watch face on my Moto 360.  The phone app offers a good amount of customization, allowing you to turn down or off the 3D effects, alter the graininess and frequency of static and do a few other things.    My only complaint is that, like a lot of heavily animated watch faces, it seems to be a real battery vampire, even with the 3D effects turned off."
+    ],
+    "recentChanges": [
+        "First release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.trigonesoft.paranormal&hl=en&gl=us",
+    "appId": "com.trigonesoft.paranormal"
+}

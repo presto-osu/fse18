@@ -1,0 +1,57 @@
+{
+    "title": "Wear Counter",
+    "summary": "A simple counter for Android Wear",
+    "icon": "//lh3.googleusercontent.com/ptaQnkxx1YW5p-Ms_Tlspl1-sWDmCZ1tHU9ycCThhfvx6UV32555xJGfKvWu_M0GBg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 14,
+    "developer": "Eric Abreu",
+    "developerId": "Eric+Abreu",
+    "developerEmail": "dev@ericfabreu.com",
+    "updated": "June 1, 2017",
+    "version": "Varies with device",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "size": "Varies with device",
+    "description": " FEATURES • Customizable incrementation• 6 themes (blue, green, red, orange, yellow, and purple)• Fully independent from a phone, making it compatible with watches paired either Android or iOS devices (if using Android Wear 2.0) SOURCE CODE Github https://github.com/ericfabreu/WearCounter",
+    "descriptionHTML": "<b> FEATURES </b><br>&#x2022; Customizable incrementation<br>&#x2022; 6 themes (blue, green, red, orange, yellow, and purple)<br>&#x2022; Fully independent from a phone, making it compatible with watches paired either Android or iOS devices (if using Android Wear 2.0)<br><br><b> SOURCE CODE </b><br>Github https://github.com/ericfabreu/WearCounter",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/lLJo2fenp46WANbyALrrEXBesTbY7-6S5K9iotV4W2J5Hfrg_G5r00axUB1QhuKyvAA=h310",
+        "//lh3.googleusercontent.com/rKTP360t11y-kBAf5AX31_5yqvx7ns0d24cmNJsZGASOwy4Psr4gml0gOgwlamh_LbY=h310",
+        "//lh3.googleusercontent.com/g9tIQc_SRjxRrEnMiL8AX2pDHwjlh4X7RGhT02d6cQmw--SqoFF2MyXG8kXI2aJ7_eo=h310",
+        "//lh3.googleusercontent.com/HFlC4OIAizBpVxzsMfNE-p-WXrGDnsn9ol4jjuEbkjlqSNbS0KVqpzacZ2J7qdQEJaA=h310",
+        "//lh3.googleusercontent.com/LeRcHtIts5WUe0QgdLMCjhk8Ez-de9lyMRQ67WaSKHHTyuyp5BCgasIrjAL94eCsVQo=h310",
+        "//lh3.googleusercontent.com/EqnewMOBUBQRLFP_2KJJO8Ov4nSU0knXVvhdePhoSf4PPk-6hDyNcvm5CMeVPbbyD9c=h310"
+    ],
+    "comments": [
+        "just awesome",
+        "Simple and effective.  Exactly what I was looking for in a Wear counter app.  Thanks.",
+        "عاشق مرسی"
+    ],
+    "recentChanges": [
+        "Version 1.3.1:",
+        "- Pull-up drawer with the settings and reset buttons",
+        "- More consistent background colors",
+        "- Make app available on the Android Wear 2.0 Play Store, adding support for iOS devices",
+        "- Much smaller app size (about five times smaller)",
+        "- Minor bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ericfabreu.wearcounter&hl=en&gl=us",
+    "appId": "com.ericfabreu.wearcounter"
+}

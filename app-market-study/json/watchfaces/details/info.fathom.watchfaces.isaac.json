@@ -1,0 +1,55 @@
+{
+    "title": "Bouncing Isaac: Watch Face",
+    "summary": "A watch face inspired by light and physics",
+    "icon": "//lh3.googleusercontent.com/Sk14vA9ajLernlGtPIWh0SMUbwpZUzteT6tPBGTZ0U88RYbF5Hx8YRqn7tL1jkTaXr5F=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.2,
+    "reviews": 400,
+    "developer": "Fathom Information Design",
+    "developerId": "Fathom+Information+Design",
+    "developerEmail": "inquire@fathom.info",
+    "developerWebsite": "http://fathom.info",
+    "developerAddress": "300 Cambridge Street, Floor 5\nBoston, MA 02114",
+    "updated": "October 16, 2015",
+    "version": "1.1.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Bouncing Isaac is an Android Experiment that uses the built-in sensors on your watch to display playful, interactive, geometric patterns and colors that change throughout the day. The more you move your watch, the more the color patterns and forms emerge. The background color changes every hour throughout the day, and the triangles are based on a sliding  spectrum of highly saturated colors. The colors overlap one another as the leading point of the triangle hits one of the walls of your watch face.The watch design pays tribute to Isaac Newton’s laws of motion and his experiments using a prism to refract white light to create a spectrum of color. Bouncing Isaac is a simple watch face that showcases the wonder of light and physics.For more information about Bouncing Isaac visit http://www.androidexperiments.comSee Fathom’s full collection of watch facesCoubertin Rings: A watch face to motivate your daily activity http://goo.gl/6OZfQKGaze Effect: A watch face that looks back https://goo.gl/klBrM1Bouncing Isaac: A watch face inspired by light and physics https://goo.gl/WFf1FtThis project is open source, and the code is available here:https://github.com/fathominfo/fathom-watchfaces",
+    "descriptionHTML": "<i>Bouncing Isaac</i> is an Android Experiment that uses the built-in sensors on your watch to display playful, interactive, geometric patterns and colors that change throughout the day. The more you move your watch, the more the color patterns and forms emerge. The background color changes every hour throughout the day, and the triangles are based on a sliding  spectrum of highly saturated colors. The colors overlap one another as the leading point of the triangle hits one of the walls of your watch face.<br><br><br>The watch design pays tribute to Isaac Newton&#x2019;s laws of motion and his experiments using a prism to refract white light to create a spectrum of color. <i>Bouncing Isaac</i> is a simple watch face that showcases the wonder of light and physics.<br><br><br>For more information about <i>Bouncing Isaac</i> visit http://www.androidexperiments.com<br><br><br><b>See Fathom&#x2019;s full collection of watch faces</b><br><i>Coubertin Rings</i>: A watch face to motivate your daily activity http://goo.gl/6OZfQK<br><i>Gaze Effect</i>: A watch face that looks back https://goo.gl/klBrM1<br><i>Bouncing Isaac</i>: A watch face inspired by light and physics https://goo.gl/WFf1Ft<br><br><br><b>This project is open source, and the code is available here:</b><br>https://github.com/fathominfo/fathom-watchfaces",
+    "histogram": {
+        "1": 11,
+        "2": 29,
+        "3": 38,
+        "4": 116,
+        "5": 206
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/xd48f1b9DbEWDjl7o_lb1e4hYHU7TWgE3T3sO1XWs_ml5EOjCxr0IKhOYmTSyCHixL0=h310",
+        "//lh3.googleusercontent.com/2UD91ChTqV7bcGMpN1l4ct5zfv6FsZ9lHvTaOjMCayUsMT-eAOvjGRsVmLsJ-F0hFmzn=h310",
+        "//lh3.googleusercontent.com/MfXqAlQi7jVYf_Z7XbjKXLK-DXUZWzn-KHAjc-cuTThPmYKnRpk-Qm3jpDutqECrieM=h310",
+        "//lh3.googleusercontent.com/z3doUsfP04vQb6unbpd1xUJRiho14fzjHOWlFw8nkUnB2OPXFagtkP1m4fB0noK3__A=h310"
+    ],
+    "video": "https://www.youtube.com/embed/AekoYf2v2yM",
+    "comments": [
+        "My go to watch face I love the use of colour and ever-changing design. It also has everything I need on both the sleeping and active faces (date and time). I've tried so many watch faces but always come back to this one. Using on my Huawei watch",
+        "Such a fun watch face.  Instead of trying to cram every bit of info into a watch face, this creates art on your wrist.  I love that it's moving and constantly changing.  I also haven't noticed any battery hit using this watch face.  Bravo Devs!",
+        "Moto 360 2 I really like this face, but the default speed was really distracting after a while. A slow/medium/fast setting or a slider would win me back for sure.",
+        "I only wish the colours could be limited to a specific range or contrast for example, and that while I appreciate the face responds to external speed and light, if the face can be locked at a set speed and draw all over the face regardless of movement as mine can tend to dwindle in the bottom of the watch face and doesn't really seem to respond to my movements at all when drawing the design on.",
+        "Lights out It killed my bateries in less then 4 hours",
+        "This is an amazing watch face. My favorite that I use all the time. The live wallpaper style on a smart watch is very cool and the way the designs change, based on the angle of the watch is beyond other watch faces I've seen. This one is worth the download!"
+    ],
+    "recentChanges": [
+        "Now includes the date! And 24-hour time! Plus a few other tweaks for Android 6 compatibility and we've removed the Google Play Services library so no more ridiculous permissions requests."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.fathom.watchfaces.isaac&hl=en&gl=us",
+    "appId": "info.fathom.watchfaces.isaac"
+}

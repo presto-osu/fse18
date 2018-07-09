@@ -1,0 +1,59 @@
+{
+    "title": "iWear by ICICI Bank",
+    "summary": "iWear is ICICI Bank&#39;s official Android Wear banking application.",
+    "icon": "//lh3.googleusercontent.com/frPD6eRGlxVQTQ9fQBCyj3NNety2M0Byfo6GwXRGjgKFJVblAYwB_HfRMxGJGiwvczo4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3,
+    "reviews": 99,
+    "developer": "ICICI Bank Ltd.",
+    "developerId": "ICICI+Bank+Ltd.",
+    "developerEmail": "sudhir.shetty@icicibank.com",
+    "developerWebsite": "http://www.icicibank.com",
+    "updated": "April 27, 2015",
+    "version": "1.5",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "iWear is ICICI Bank’s Android Wear Banking application through which you can stay connected with your ICICI Bank account via your Smart Watch. iWear is a companion app that works only when user has downloaded Android Wear to their mobile devices.iWear offers banking and informational services to make a simplified banking experience as never before.On your Smart watch, you can view the following details:•\tInformation about your Bank and Credit Card accounts•\tBalance details and last 3 transactions•\tRecharge your prepaid mobile numberSteps for Installation:Step1 – Download iWear app on your Android Phone.Srep 2 – Enter your Mobile Number on the first screen of the app and Set a four digit MPIN. You will receive a 6 digit activation code. Step3 – Please enter 6 digit activation code on the next screen. Step4 – You are ready to use the app now. Use the four digit MPIN to use the appStep5 –  Select the app on the Watch and use the app. Download iMobile, ICICI Bank's flagship transactional app from www.mobile.icicibank.com/dlTerms of Usage: http://www.icicibank.com/terms-condition/terms-and-conditions.page?",
+    "descriptionHTML": "iWear is ICICI Bank&#x2019;s Android Wear Banking application through which you can stay connected with your ICICI Bank account via your Smart Watch. <br>iWear is a companion app that works only when user has downloaded Android Wear to their mobile devices.<br>iWear offers banking and informational services to make a simplified banking experience as never before.<br><br>On your Smart watch, you can view the following details:<br>&#x2022;\tInformation about your Bank and Credit Card accounts<br>&#x2022;\tBalance details and last 3 transactions<br>&#x2022;\tRecharge your prepaid mobile number<br><br>Steps for Installation:<br><br>Step1 &#x2013; Download iWear app on your Android Phone.<br>Srep 2 &#x2013; Enter your Mobile Number on the first screen of the app and Set a four digit MPIN. You will receive a 6 digit activation code. <br>Step3 &#x2013; Please enter 6 digit activation code on the next screen. <br>Step4 &#x2013; You are ready to use the app now. Use the four digit MPIN to use the app<br>Step5 &#x2013;  Select the app on the Watch and use the app. <br><br>Download iMobile, ICICI Bank&apos;s flagship transactional app from www.mobile.icicibank.com/dl<br><br>Terms of Usage: http://www.icicibank.com/terms-condition/terms-and-conditions.page?",
+    "histogram": {
+        "1": 40,
+        "2": 5,
+        "3": 6,
+        "4": 10,
+        "5": 38
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LnSOmT5cFiZn5pBiMp43MpXYhKD1fGM6Gvl6-ELB720qwGDzeOsX68g35Li-WW7tLw=h310",
+        "//lh3.googleusercontent.com/XvgtMjEXbDe52_lkgb0qg5vErYTFAgnT5r_0HCz0KNuaI3NSx2v-nWBWPTKy5XoXnjk=h310",
+        "//lh3.googleusercontent.com/S4b5WaAr7mkyynLMuOsgvmyljrUzcefN8f0BAcMUmta2OFZ3UkMfo-CAwgX1j9GFKZsM=h310",
+        "//lh3.googleusercontent.com/DMF3UZMemvhvJwoKJ1ndgIUgi_Mx8mcZUk6o6uRixq53DE6YsfKXRuT8Se7_Yxdeow=h310",
+        "//lh3.googleusercontent.com/I9ixWr28O0IMLypoXxynlp8EEcY7ogCXQ7RBBXtgoHQmRqxm5NZHgz7a9L3ZGyynYw=h310",
+        "//lh3.googleusercontent.com/zi4yCMe1K1MWZ2ul0qkSmjeLh4B0gmvmXGfVyQbLCB-PizMmsanv23tGr7UTy1oHg4M=h310",
+        "//lh3.googleusercontent.com/MLkPwnrAUCWSTEi35jRKu1kXMuCTr2aL11PyjSmbHYcSxSetTWq3fVjDzD2-Mtas4g=h310",
+        "//lh3.googleusercontent.com/YMqlbY80sLSQ5ywViQ6NAclLVoLr0QIxROw5AgalaqsWbTmvXqcsW1Osb7Cgv8N9VJM=h310"
+    ],
+    "comments": [
+        "Cannot register. Must have tried 15 times at least from 3 different locations (assuming that connectivity was the problem at home). Every time I get an error message \"Sorry, your request cannot be processed. Please try after sometime\". The least you could do is to test your app on different devices and different Android versions before releasing it.",
+        "Tried to install it months ago. Couldn't run it. App kept saying Try Again Later. Tried installing it yesterday. Still the same remark. I wonder what exactly does later means?",
+        "Never works, never Login Trying an the times to register, but no luck, always throws Null exception",
+        "Never login's I have being trying since ages...never logins..throws an error \"cannot process. Try again later\"needs loads of improvement.",
+        "Crashing crashing all the time App crashes all the time when I want to use it. Device Moto 360 Gen 1",
+        "I'm using Samsung A7 model phone. I'm trying register I'm getting msg of please  try after some time. I tried this lot of but no use...   How to rectify this  r suggest other app  to see my credit card details"
+    ],
+    "recentChanges": [
+        "1. Increased button text size",
+        "2. Help functionality included",
+        "3. Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.icicibank.wear&hl=en&gl=us",
+    "appId": "com.icicibank.wear"
+}

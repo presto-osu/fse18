@@ -1,0 +1,57 @@
+{
+    "title": "weaRDialer",
+    "summary": "Phone dialer for Android Wear smart watches.",
+    "icon": "//lh3.googleusercontent.com/kfT5jF-CAWAIYujOO29L2lW7o3prJO8as0sCz2MXcLQDpvHmQGd-ZXRPfvRVy2XQrypj=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 29,
+    "developer": "Евгений Суворов",
+    "developerId": "%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2",
+    "developerEmail": "twssupp0rt@gmail.com",
+    "developerWebsite": "https://groups.google.com/forum/#!forum/weardialer",
+    "developerAddress": "119049, Москва, Ленинский проспект 2А",
+    "updated": "May 7, 2017",
+    "version": "Varies with device",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "size": "Varies with device",
+    "description": "Easy to use dialer for smart watches with intuitive interface.N.B.: please, take note, that when new options are added with new application updates it's necessary to reenter mobile configuration for the in-app purchases to be restored.Starred in Android, call log and list of contacts with phone numbers: convenient screen locations allow to minimize your precious swipes and taps during search and dial of phone number. Light and dark display themes allow to change application style and improve information readability. Call in progress screen shows time elapsed from the moment when phone started to dial number or when call was answered if relevant notification service is enabled*, end call, switch microphone and loudspeaker buttons included. Swiping screen away also ends call. Current call can be minimized to notification using watch power button, from notification it's possible to end call or return to application interface.Contact list with small memory footprint is stored locally on the watch, thus application can be used as a simple informant even if connection to main device is lost or absent. Quick search uses contact name and phone numbers. Additional settings allow to change maximum amount of call log records, contact list sort sequence, outline shape of contact picture in lists, set option to start application automatically if incoming call is accepted or outgoing call is initiated outside of application interface and set inactivity timeout to auto-close. Interactive dialer keyboard in settings allows not only to test how it will filter data on watch, but also to configure display and search patterns to either set you favorite patterns or redefine keypad to use local symbols. Only simple USSD query results, that don't requre user interaction (e.g. balance, switch mobile capabilities etc), are processed. DTMF codes are not supported at the moment.Multiple SIM-cards option is highly experimental: since Android doesn't provide support for this functionality out-of-the-box and almost each vendor has its own implementation, only basic implementation stategies are used. Please, use inbuilt system applications to control default voice SIM-slot if possible. It is not guaranteed that this feature will work for your device.Application is presented as a full-functional trial version, test period is 7 days long. After that you may either thank developer using in-app purchase to get trial-free application associated with your Google account, or feel free to reinstall application as many times as you like to continue testing.* if this feature is not working for you, then, please, report phone model and Android version to support e-mail, we'll try to figure something out.",
+    "descriptionHTML": "Easy to use dialer for smart watches with intuitive interface.<br><br>N.B.: please, take note, that when new options are added with new application updates it&apos;s necessary to reenter mobile configuration for the in-app purchases to be restored.<br><br>Starred in Android, call log and list of contacts with phone numbers: convenient screen locations allow to minimize your precious swipes and taps during search and dial of phone number. Light and dark display themes allow to change application style and improve information readability. Call in progress screen shows time elapsed from the moment when phone started to dial number or when call was answered if relevant notification service is enabled*, end call, switch microphone and loudspeaker buttons included. Swiping screen away also ends call. Current call can be minimized to notification using watch power button, from notification it&apos;s possible to end call or return to application interface.<br><br>Contact list with small memory footprint is stored locally on the watch, thus application can be used as a simple informant even if connection to main device is lost or absent. Quick search uses contact name and phone numbers. Additional settings allow to change maximum amount of call log records, contact list sort sequence, outline shape of contact picture in lists, set option to start application automatically if incoming call is accepted or outgoing call is initiated outside of application interface and set inactivity timeout to auto-close. Interactive dialer keyboard in settings allows not only to test how it will filter data on watch, but also to configure display and search patterns to either set you favorite patterns or redefine keypad to use local symbols. <br><br>Only simple USSD query results, that don&apos;t requre user interaction (e.g. balance, switch mobile capabilities etc), are processed. DTMF codes are not supported at the moment.<br><br>Multiple SIM-cards option is highly experimental: since Android doesn&apos;t provide support for this functionality out-of-the-box and almost each vendor has its own implementation, only basic implementation stategies are used. Please, use inbuilt system applications to control default voice SIM-slot if possible. It is not guaranteed that this feature will work for your device.<br><br>Application is presented as a full-functional trial version, test period is 7 days long. After that you may either thank developer using in-app purchase to get trial-free application associated with your Google account, or feel free to reinstall application as many times as you like to continue testing.<br><br>* if this feature is not working for you, then, please, report phone model and Android version to support e-mail, we&apos;ll try to figure something out.",
+    "histogram": {
+        "1": 5,
+        "2": 2,
+        "3": 3,
+        "4": 5,
+        "5": 14
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/8-oHWXwLxdFnrSQ-vlVKUlFqJKN-jUbwomH2nKEOL6Q8dJwES4qvNrwQSSLiltzOLoY=h310",
+        "//lh3.googleusercontent.com/Oo0hxXPH77fKlNhzfQumdcT9rahGgdN6ByOm3jfVsft5QalalROtCm-F2fBVMvNTTM_0=h310",
+        "//lh3.googleusercontent.com/JDEXODyc4RpzRxNOQS-Vnp3k9dc8oTNW_DNJHFPavulWDDiQdPWej-PxKqdwzpP0=h310",
+        "//lh3.googleusercontent.com/doHNZQVCIBkGRh6NkQ_CpGruPK0yUB89aAaz8wrkYdG85D026X0UYc78pmWCVbaz2Ug=h310",
+        "//lh3.googleusercontent.com/J_xe0Ux0bPaFM5GbDjE5CO2mYGAotee60juiiHppa9Y7lPE5wTegmo-DbyIqiGQOrE0Y=h310",
+        "//lh3.googleusercontent.com/n4VXK3NJUsXoZGoU3vzNkVtzDina-609BoKpJuPD7j_uMMzdRVzdNBGitLid9Md50A=h310",
+        "//lh3.googleusercontent.com/4miAvo4MgUE--vP0Jprq2tQz4d5Zyxf7tMyLioSblZJ2BuT0AulcUxnRuHEg8Yw5avjt=h310",
+        "//lh3.googleusercontent.com/Add28Bz0k0Sa1j1ToP_BFzauKzbZazZZGg_IzFRQpgBXmSYQQRc3HTXK6eBt4D1Pe0zu=h310",
+        "//lh3.googleusercontent.com/tlRkbtaJgA-qMQuta-MtOiSMidp1EVcou-lJFkcDn7NDMxmS2jk57W2g9mnhQ4y3FVw=h310",
+        "//lh3.googleusercontent.com/GR4KYWj2blvShKQZnsyxwdejOE0-d1qET1FF0vMWEDJB7cq-z7aoDbIYS23qcX3ZyQ=h310"
+    ],
+    "comments": [
+        "Feature Request It used to let me hang up a call, doesn't do that anymore. It had also started saying \"your trial has ended\" even though I did pay for an upgrade."
+    ],
+    "recentChanges": [
+        "- added logic to restore previous Bluetooth routing scheme after call is complete for the scenario when music was playing via wireless headset before outgoing call was started or incoming call was answered;",
+        "- added option to select start screen for watch application."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.trinketworkshop.weardialer&hl=en&gl=us",
+    "appId": "com.trinketworkshop.weardialer"
+}

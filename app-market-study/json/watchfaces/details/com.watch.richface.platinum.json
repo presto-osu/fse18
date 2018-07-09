@@ -1,0 +1,57 @@
+{
+    "title": "Platinum Watch face",
+    "summary": "Animated analog watch face with custom colors, weather and fancy seconds",
+    "icon": "//lh3.googleusercontent.com/ll8s-u0M-jyXAQ3k90ei0oqvkbSdTvD3pWm4fe2BlKMbk5VPEsyxi1ke-77sXYIBfA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 131,
+    "developer": "RichFace",
+    "developerId": "RichFace",
+    "developerEmail": "richface.watch@gmail.com",
+    "developerWebsite": "http://www.richface.watch",
+    "developerAddress": "3430 Tulln an der Donau\nAustria",
+    "updated": "July 23, 2015",
+    "version": "1.2.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Platinum Watch Face is designed for round and square watches Features:✔ Digital time✔ Analog time✔ Date✔ Day✔ Weather (Providers: Open Weather Map, YR, Yahoo)✔ Watch battery indicator✔ Phone battery indicatorSettings:✔ Animation on/off✔ Custom color configuration✔ Custom hour format (am/pm)✔ Sweep or tick seconds✔ Screen time settings✔ Transparent peek cars✔ Big or small peek card✔ OK Google positionLive chat and email support on: http://www.richface.watch",
+    "descriptionHTML": "Platinum Watch Face is designed for round and square watches <br><br><b>Features:</b><br>&#x2714; Digital time<br>&#x2714; Analog time<br>&#x2714; Date<br>&#x2714; Day<br>&#x2714; Weather (Providers: Open Weather Map, YR, Yahoo)<br>&#x2714; Watch battery indicator<br>&#x2714; Phone battery indicator<br><br><b>Settings:</b><br>&#x2714; Animation on/off<br>&#x2714; Custom color configuration<br>&#x2714; Custom hour format (am/pm)<br>&#x2714; Sweep or tick seconds<br>&#x2714; Screen time settings<br>&#x2714; Transparent peek cars<br>&#x2714; Big or small peek card<br>&#x2714; OK Google position<br><br>Live chat and email support on: http://www.richface.watch",
+    "histogram": {
+        "1": 5,
+        "2": 4,
+        "3": 16,
+        "4": 41,
+        "5": 65
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_9YZpysXMEjIyzJTkmmSliKFsjXwMyLYBBxNym0wMa-x-nB8FN7PC1dNLSEotnEFOpw=h310",
+        "//lh3.googleusercontent.com/QIQQJmGHco78_f8L1DP_6SXKBiYegApm9o4-o9NEFUuBxY3SaS2yZCtcT97CFlMz1uMq=h310",
+        "//lh3.googleusercontent.com/1r_tmSk3biQeKIJQ2JIT31YGz--BwgR0i0loQ9av0iwJqw0ynQIOmraZoqO92ulWiBo=h310",
+        "//lh3.googleusercontent.com/45vWiCB6_laNygalIdYrCLxDZx2S3os1JBDvOImErW9vt9GUn6P445wEQf1ewyMQAA=h310",
+        "//lh3.googleusercontent.com/eiYE_ig_pWKJmImFdqlcTl6TAmOmoSG4Q2jJKlcwmgOwMZgrE0oqHMS2jhSz7fF4cw=h310",
+        "//lh3.googleusercontent.com/BRAg0AjwptPF5Cj6kL7pJzKO3FFb8ivV0vTXdnz1WrL7w12d2Y92sDQ0ftVbu2aqAi2v=h310",
+        "//lh3.googleusercontent.com/ua1PHWztzvrBNcy68Swukfij2ATlTbdOIXYRQeUQ0VnIScKFAolERu7OyN2j-M4IZeY=h310"
+    ],
+    "comments": [
+        "I like it, but have had to stop using it as it is causing burn in on my g watch r. This is because of the date having a white background in ambient mode, and is big enough so that even when moving the watchface (part of the g watch r's burn in protection) it still causes burn in. It would be nice if there was an option to invert the date (white text on black background) then I could go back to using it. 😉",
+        "I like this watchface, clean and provide usefull info on watch. However some minor bugs, date number not centerd, is too far left off the circle. Also brightness in dim/ambient mode is too high. Maybe it's better to add option to add brightness controll for wake and ambient mode.",
+        "Very good I downloaded several watch faces which I ended up refunding or uninstalling as they weren't as good as pictured - this one I kept and looks great on my AsusZen only wish the seconds indicator could be changed to another function like steps...",
+        "Almost there! Developer's done a lot to fix early bugs, but the off-center date digits still persist on watches like the Moto 360 v2, and Huawei Watch. They're too far to the left of their circle background. Animations and legibility are topnotch.",
+        "nice but not fully Functional Weather does not sync with local weather. Stuck at 32f.  For something that i paid money for it. It should have been tested and debugged.",
+        "Very nice watch face.  Only issue is, it is not picking up my battery level from my phone (Moto 360 watch and Samsung S5 phone)."
+    ],
+    "recentChanges": [
+        "✔ Fixed minor bugs"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.watch.richface.platinum&hl=en&gl=us",
+    "appId": "com.watch.richface.platinum"
+}

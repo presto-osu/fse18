@@ -1,0 +1,47 @@
+{
+    "title": "Love39 Watch Face",
+    "summary": "A simple, elegant Hatsune Miku themed watch face",
+    "icon": "//lh3.googleusercontent.com/FGb2a8IAFsPQ0I4f8TozXI7UAjDK8AznAy827Y3djT_ZyHNRS-NHGCKAk54UUU47bVT7=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 8,
+    "developer": "Trejkaz",
+    "developerId": "Trejkaz",
+    "developerEmail": "trejkaz@trypticon.org",
+    "updated": "January 25, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "This is a simple watch face themed after Hatsune Miku's necktie.* Simple, vector-rendered watch face (no bitmap graphics).* Supports all Android Wear watch shapes (but looks best on round).* Sleep and low color modes.* Fans of the dozenal (base 12) system can separately enable dozenal clock or calendar (the calendar may be controversial). If you don't know what that is, you don't have to concern yourself with it.* Configuration through the watch face itself.When the 2016 expo was upon us, I decided I would gear up. So I put together a custom Android Wear watch and started developing a watch face for it. The watch face you see here is the result.I would like to develop additional features, but realistically there isn't much time available, and the platform is making it difficult to implement some simple things! So I am doing the release with minimal functionality, in the hope that at some point, the platform will make things easier for us all.Although the representation of Miku's character design in this watch face is very abstract, elements of her design are licensed under the Creative Commons - Attribution-NonCommercial, 3.0 Unported (CC BY-NC) license.",
+    "descriptionHTML": "This is a simple watch face themed after Hatsune Miku&apos;s necktie.<br><br>* Simple, vector-rendered watch face (no bitmap graphics).<br>* Supports all Android Wear watch shapes (but looks best on round).<br>* Sleep and low color modes.<br>* Fans of the dozenal (base 12) system can separately enable dozenal clock or calendar (the calendar may be controversial). If you don&apos;t know what that is, you don&apos;t have to concern yourself with it.<br>* Configuration through the watch face itself.<br><br>When the 2016 expo was upon us, I decided I would gear up. So I put together a custom Android Wear watch and started developing a watch face for it. The watch face you see here is the result.<br><br>I would like to develop additional features, but realistically there isn&apos;t much time available, and the platform is making it difficult to implement some simple things! So I am doing the release with minimal functionality, in the hope that at some point, the platform will make things easier for us all.<br><br>Although the representation of Miku&apos;s character design in this watch face is very abstract, elements of her design are licensed under the Creative Commons - Attribution-NonCommercial, 3.0 Unported (CC BY-NC) license.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Sxuh7MUsXaJ7n3KNSZ_O_yfnpo3x22moW_Ml4jOjxjxXRMQkdHlCBET--VjpSHkSJ8k=h310",
+        "//lh3.googleusercontent.com/w0NjdU4pn-0oOwHuCAA3uAj0KKXMJTu5wusbKNYGeUo7LETpzanDqQK_YFycqQDChLQ=h310"
+    ],
+    "comments": [
+        "Awesome watch face, great graphics!"
+    ],
+    "recentChanges": [
+        "* Fixes for slight stuttering when rendering.",
+        "* Adjusted manifest to try to let more devices download."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.trypticon.android.love39watchface&hl=en&gl=us",
+    "appId": "org.trypticon.android.love39watchface"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Sound Control Free",
+    "summary": "Everything sound!!",
+    "icon": "//lh3.ggpht.com/9g4tExrtyCAcHjWGU-wVszGGJGhlkZR4jY70CUZOcAdtiigeDbe9uzzOGWwU1A-jkSo2=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.3,
+    "reviews": 24,
+    "developer": "cbiemiller",
+    "developerId": "cbiemiller",
+    "developerEmail": "cfbiemiller@gmail.com",
+    "developerWebsite": "https://twitter.com/#!/cbiemiller",
+    "developerAddress": "1850 Sumner St\nLongmont, CO 80501",
+    "updated": "July 8, 2014",
+    "version": "3.2.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "NOT UNDER ACTIVE DEVELOPMENT!Features:-A front screen to quickly adjust the volume of your device as needed.-Customizable audio profiles that can be used in a variety of ways. 2 types of Widgets, Android Wear, Notification widget.-Volume lock can be used in the same way that audio profiles can.-Triggers expand profiles to be automated via Location, Time, and System events.Paid vs Free:The paid version is the same as the free version except with the ability to toggle ads on or off. Ads default off in the paid version, but if you like the app consider enabling the ads. To transfer between the 2, use the Backup feature in the Free version and use the Restore feature in the Paid version.Device Requirements:This app is capable of working on devices with an API level of 9 and up or in other words Android 2.3 and up. Many features require newer versions of Android to work properly. The Vertical scrolling widget requires Android 3.0 and up while Android Wear support requires Android 4.3 and up. The notification widget requires Android 4.0 and up, but lower versions do have access to a single profile in the notification pane.Permissions:-android.permission.MODIFY_AUDIO_SETTINGS, Used to modify Audio setting as defined by user in app.-android.permission.WRITE_SETTINGS,  Used for Ringtone management and other controls-android.permission.ACCESS_FINE_LOCATION, Used for Locations-android.permission.INTERNET, Used by ads only.-android.permission.ACCESS_NETWORK_STATE, Used by ads and the airplane mode trigger.-android.permission.WRITE_EXTERNAL_STORAGE, Used for the backup/restore features.-android.permission.RECEIVE_BOOT_COMPLETED, Used to start services that were on prior to shutdown(widget updater and Locations are examples).-android.permission.READ_PHONE_STATE, used to listen for phone calls to change volume levels when phone is unlinked from notification.Libraries: ActionBarShelock and HoloEveryWhereLib are the main ones used to maintain a similar UI across devices. I did not create these Libraries.Privacy:This app stores all information locally and does not use any internet access beyond what the advertisements use. The ads can be prevented from loading in the paid version thus preventing any internet access from this app.For more information on the app, please use the following link:https://docs.google.com/document/d/10lVS43Vooeqm9jfES0ssitDs0lZx0ZkhHizGpgWKZ7s/edit?usp=sharing",
+    "descriptionHTML": "NOT UNDER ACTIVE DEVELOPMENT!<br>Features:<br>-A front screen to quickly adjust the volume of your device as needed.<br><br>-Customizable audio profiles that can be used in a variety of ways. 2 types of Widgets, Android Wear, Notification widget.<br><br>-Volume lock can be used in the same way that audio profiles can.<br><br>-Triggers expand profiles to be automated via Location, Time, and System events.<br><br>Paid vs Free:<br>The paid version is the same as the free version except with the ability to toggle ads on or off. Ads default off in the paid version, but if you like the app consider enabling the ads. To transfer between the 2, use the Backup feature in the Free version and use the Restore feature in the Paid version.<br><br>Device Requirements:<br>This app is capable of working on devices with an API level of 9 and up or in other words Android 2.3 and up. Many features require newer versions of Android to work properly. The Vertical scrolling widget requires Android 3.0 and up while Android Wear support requires Android 4.3 and up. The notification widget requires Android 4.0 and up, but lower versions do have access to a single profile in the notification pane.<br><br>Permissions:<br>-android.permission.MODIFY_AUDIO_SETTINGS, Used to modify Audio setting as defined by user in app.<br>-android.permission.WRITE_SETTINGS,  Used for Ringtone management and other controls<br>-android.permission.ACCESS_FINE_LOCATION, Used for Locations<br>-android.permission.INTERNET, Used by ads only.<br>-android.permission.ACCESS_NETWORK_STATE, Used by ads and the airplane mode trigger.<br>-android.permission.WRITE_EXTERNAL_STORAGE, Used for the backup/restore features.<br>-android.permission.RECEIVE_BOOT_COMPLETED, Used to start services that were on prior to shutdown(widget updater and Locations are examples).<br>-android.permission.READ_PHONE_STATE, used to listen for phone calls to change volume levels when phone is unlinked from notification.<br><br>Libraries: <br>ActionBarShelock and HoloEveryWhereLib are the main ones used to maintain a similar UI across devices. I did not create these Libraries.<br><br>Privacy:<br>This app stores all information locally and does not use any internet access beyond what the advertisements use. The ads can be prevented from loading in the paid version thus preventing any internet access from this app.<br><br><br>For more information on the app, please use the following link:<br>https://docs.google.com/document/d/10lVS43Vooeqm9jfES0ssitDs0lZx0ZkhHizGpgWKZ7s/edit?usp=sharing",
+    "histogram": {
+        "1": 7,
+        "2": 2,
+        "3": 1,
+        "4": 5,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/jkdcWqY-pMTaXlBiqfyiiZx7SBfhh4IW0UDeOQeoEW5zv9Rq7wL9_A4tZ4vY0tHFYQ=h310",
+        "//lh3.ggpht.com/GlAiiKHEYCgBm5DY7Eg8Nms75VGY4w5_ttkN97UPn4tf80c48Y5SZGiDMGwOjiaKc3e3=h310",
+        "//lh5.ggpht.com/EmLShi_8dJwy1aOIGOJfk6jP7SAHmCgUHA7D8-N1EY4WvTeI5zYijTCoahjK0rJ9JZ0=h310",
+        "//lh5.ggpht.com/Tdpy3pCJcbrmP9d44dhxels16pZ84as9V6w4lWqr-33r2PrhduIf2-gRygn4a1mXLcgd=h310",
+        "//lh4.ggpht.com/AgA0yj6MS43ebksq9lZyamGpFEw1fzczJVBE7Pl01RrCSRlZBFXHCu5sRSHRUqGJC6E=h310",
+        "//lh6.ggpht.com/szrc291ZHEf8oQqIgULVbA12ML5v56uAZuyjPdwCNOkzNv3STS2F4JGOnyHrHWKT1HLh=h310",
+        "//lh3.ggpht.com/Fns5UtVFB_bcuzdhKV8X1C3juRKVGIj9OfOpe4tHpPt5gpGdcOh3UVIxxQj_8r1NSQAC=h310",
+        "//lh6.ggpht.com/yJBuiZ_y0rgTO-ZHsJ0Xy92qvSnhh5XaH3I6yu9AZ9uH42_uuXfvH1a1oUyrZM3jyg=h310",
+        "//lh6.ggpht.com/1W0v6Pshkk-Khb4S2oBjci6yOabz08M-yHEkLmOuuxQwUCE7KJyDy73uxk1dE-DUKw=h310"
+    ],
+    "comments": [
+        "I must silence loudspeeker cause sounds music on headphones n speeker,this app will work??",
+        "Volume lock DOES NOT WORK Lock has NO effect. UI is very hard to see unless several customizations are made. Uninstalled.",
+        "Its No Good... The locking part works awesome very easy to set, but the timer part is very complicated and of no use, I appreciate the developer for his effort for UI but the timer is very tough and it only has start timer no setting to turn it off and go to the previous profile. Kindly make changes to it and put it easy as to set the timer on at a particular time and to get back to the default setting which is previously set or the profile which the user want to set after the profile is timed, we have a small Android Club in Brisbane-Australia and we all would like to download the app with this feature. There are lots of App having a perfect timer thing but they lag with the locking feature. This app has a perfect locking feature but lags with the timer thing...Kindly see to it and update, as I am sure you can do it  Thanks",
+        "Broken Volume Button  :( Thanks so much for this app it was exactly wut i was looking for, an app where i could change my volume and then lock it so the buttons wouldnt interfere  TY!!!"
+    ],
+    "recentChanges": [
+        "3.2.0",
+        "-UI enhancements",
+        "-Added dock based triggers",
+        "-Android Wear support",
+        "-Simplify Volume Lock to increase responsiveness",
+        "-Move Profile naming to simplify profile creation",
+        "-Other bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.cbiemiller.android.soundcontrolfree&hl=en&gl=us",
+    "appId": "com.cbiemiller.android.soundcontrolfree"
+}

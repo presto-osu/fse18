@@ -1,0 +1,59 @@
+{
+    "title": "Aerlink: Wear Connect for iOS",
+    "summary": "Manage notifications, control music playback and check the battery level.",
+    "icon": "//lh3.googleusercontent.com/eT7PU8mDMLC5wH33stlvGpx4B2FtyIwG3gCZqBW-O8Yoo2tIknBKIDGHx2w6Oij2IJg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.9,
+    "reviews": 496,
+    "developer": "Codegy",
+    "developerId": "Codegy",
+    "developerEmail": "contact@codegy.com",
+    "developerWebsite": "http://codegy.com",
+    "updated": "November 5, 2016",
+    "version": "3.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app uses BLE services available on iOS devices to manage notifications, control music playback and check the iOS device battery level, without jailbreaking the iOS device or rooting the Android Wear device. This app is not a hack and has zero risks on either device.Wear Connect for iOS is an unofficial app, Google or Apple are not affiliated with this app.",
+    "descriptionHTML": "This app uses BLE services available on iOS devices to manage notifications, control music playback and check the iOS device battery level, without jailbreaking the iOS device or rooting the Android Wear device. This app is not a hack and has zero risks on either device.<br><br>Wear Connect for iOS is an unofficial app, Google or Apple are not affiliated with this app.",
+    "histogram": {
+        "1": 87,
+        "2": 20,
+        "3": 34,
+        "4": 81,
+        "5": 274
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/lMrT1H2Hw2Q6ZNMGmAglOeDhafChUwCcHC31OAiMX0Pkl1-JwKwG1lo-xOUf-x4bp8c=h310",
+        "//lh3.googleusercontent.com/2D43w7yEaP2rdVjoFIE5e9VW7ewQnwiP2lLXHLvWapBuhV6boLkN5ngB1IEpv8AhXVP6=h310",
+        "//lh3.googleusercontent.com/q9ecN338rYVKB_J1lZmK7rT7boyiHoObcmRBkxc9icnSORnRnfWMEXr7ecxm0XlRH-o=h310",
+        "//lh3.googleusercontent.com/cya-pmfYyRReCo8RMpYv54hdL-a7AVbCkDzRtQmcBd34DYnwhugdHICdOL_CLm3oJjA=h310"
+    ],
+    "comments": [
+        "First set up was easy and worked great. App disconnected that evening and wouldn't reconnect. I deleted the app from my Asus Zenwatch 2 and reinstalled and paired again. Seems to be ok now fingers crossed. Has helped me hugely as my work phone is an iphone and personal android.",
+        "Doesn't work with Android Wear 2 :( Frequently asks for the pairing on both devices :Android and iOS).",
+        "Cant install I installed this app but any card didnt appear in my moto360 gen.2 and i cant start. Other apps are working successfully",
+        "Perfect app! S7 Edge and iPhone 7+ just connected together to my Huawei Watch.",
+        "Works great!  Android and IOS both connected to my Asus ZenWatch 2! Install on Android, install on IOS but leave running in background for IOS. Turn on app in watch. All notifications from both phones. Thanks",
+        "App sucks!!  Cant find anything that will work with iOS"
+    ],
+    "recentChanges": [
+        "- Major changes.",
+        "- Better connection and reconnection.",
+        "- Improved design.",
+        "- More app icons.",
+        "- Reminders and Camera Remote greatly improved (Requires Aerlink on the handheld device).",
+        "- Shows correct color for every notification (Requires Aerlink on the handheld device).",
+        "Any error or bug, contact me on Twitter: @GuiyeC"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.codegy.wearconnectforios&hl=en&gl=us",
+    "appId": "com.codegy.wearconnectforios"
+}

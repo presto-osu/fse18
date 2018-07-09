@@ -1,0 +1,42 @@
+{
+    "title": "WatchFaceOne for ZenWatch 2 (Unreleased)",
+    "summary": "A simple analog watch face designed for ASUS ZenWatch 2.",
+    "icon": "//lh3.googleusercontent.com/n0roslDxMoQy31ZHXHIz3VbcWU4Zkd-EFiGYG-sZVnkZ1wrWUuDrwsAgGBscU4I3sHYu=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Petr Leitermann",
+    "developerId": "Petr+Leitermann",
+    "developerEmail": "petr.leitermann@gmail.com",
+    "updated": "April 26, 2016",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Simple black background watch face designed for ZenWatch 2.Date may now be visible in low bit ambient mode (white - due to low bit ambient mode on zenwatch 2) and return to red when leaving ambient mode.",
+    "descriptionHTML": "Simple black background watch face designed for ZenWatch 2.<br><br>Date may now be visible in low bit ambient mode (white - due to low bit ambient mode on zenwatch 2) and return to red when leaving ambient mode.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/O-WCm0aR1rYa-2h9VD6HIzvdfeN8rEaxz_5uPTkW1Ahi2QEQ9uXyP2N8oJMxuQrELeRB=h310",
+        "//lh3.googleusercontent.com/vp6EaV4M2x7sJ1B9kSpYFpq6q98yjGoP4S4UwZmrql98COCipE5bqzPTRlpX0L3x6gPT=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Date may now be visible in low bit ambient mode (white - due to low bit ambient mode on zenwatch 2) and return to red when leaving ambient mode."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cz.petrleitermann.watchfaceone&hl=en&gl=us",
+    "appId": "cz.petrleitermann.watchfaceone"
+}

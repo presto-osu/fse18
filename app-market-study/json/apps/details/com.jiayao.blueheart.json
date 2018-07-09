@@ -1,0 +1,54 @@
+{
+    "title": "Blue Heart Monitor",
+    "summary": "Bluetooth Heart Rate monitor on your phone and watch. Works with Polar H7, etc.",
+    "icon": "//lh3.googleusercontent.com/Pr_qt7B103p5O__LrL-JYafX8DXVbrYzHSqGCkf2bRfzvYO6pCeMB0d5_RfR2r59zYg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.7,
+    "reviews": 32,
+    "developer": "Jiayao Yu",
+    "developerId": "Jiayao+Yu",
+    "developerEmail": "jiayao.health@gmail.com",
+    "developerWebsite": "https://twitter.com/blueheartmon",
+    "updated": "December 30, 2015",
+    "version": "1.0",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "This is a minimalist heart rate monitor that display data from your Bluetooth heart rate sensors like Polar H7.  It doesn't require any personal data or configuration. It also works great with Android Wear. And the watch app works without the phone and is battery efficient.The usage is very simple. Bring up the app and you should see your heart rate straight away as long as the heart rate sensor is turned on and in range. Disconnect on the phone app if you want to display data on your watch.It's tested with Polar H7, but it should work with all Bluetooth heart rate sensors. Let me know if any device doesn't work.",
+    "descriptionHTML": "This is a minimalist heart rate monitor that display data from your Bluetooth heart rate sensors like Polar H7.  It doesn&apos;t require any personal data or configuration. <br>It also works great with Android Wear. And the watch app works without the phone and is battery efficient.<br><br>The usage is very simple. Bring up the app and you should see your heart rate straight away as long as the heart rate sensor is turned on and in range. Disconnect on the phone app if you want to display data on your watch.<br><br>It&apos;s tested with Polar H7, but it should work with all Bluetooth heart rate sensors. Let me know if any device doesn&apos;t work.",
+    "histogram": {
+        "1": 6,
+        "2": 2,
+        "3": 5,
+        "4": 3,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/fMOaSBDm7hMvQ5g5SfCuX4ul9Bl3tZxTgJZvfAYvLg6bLGEyFpTaUwgIcdygI8JkIA=h310",
+        "//lh3.googleusercontent.com/oUqKNH1DilaW6TFHeAPCFBhgMf5WkCckFfZKphmPBjRD7lR23FkzO98tApgb6wXhTKA=h310",
+        "//lh3.googleusercontent.com/S3q70hJMhby8mxCjXAu5hX_UInyRtfjGvsDOydS3nLCUftVhFAkwxnuN_KW1rA2LvA=h310",
+        "//lh3.googleusercontent.com/qPpd60OI7pjSpGZKFQfFs1ft4MeKhCLgIN4b1VEsed7Ir8QvO2KPmaTJNz-Kno329J60=h310",
+        "//lh3.googleusercontent.com/bYCBf7j7t2v9H01BS0TfY96fnSmJlDF30HjxUZIGoVw4gCkkoDjDZcqeAawiWdfoxBs=h310"
+    ],
+    "comments": [
+        "A true example of a keep it simple application.  Worked first time, nice and easy to read. Only upgrades I can think of are, save the data and some sort of timeline. Thank you for no annoying advertising.",
+        "This app is too basic for my needs, but it's the only one I've found which connects my fossil q to a wahoo tickr. One annoying bug is that if I leave the app by pressing the crown on my watch, when I reload the app it won't reconnect to the HRM. Instead I must quit the app by swiping right; then it works fine the next time it starts up.",
+        "Simple, perfect No ads, no sign in, no stupid security risks, connected 1st time, nice big digits. I can run Jogtracker in the background to record, and this on top for seeing my instantaneous hr.",
+        "I can't get it to connect to my watch. Which is a Fossil Q smart watch. Also, it won't read my heart rate.",
+        "Works, but I would love to see a few tweaks If this had a time scale and maybe a way to log your heart rate it would be the perfect app.",
+        "Simple and gets the work done Awesome app, would be cool if a notion of time could be incorporated."
+    ],
+    "recentChanges": [
+        "Fixed some layout issue."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jiayao.blueheart&hl=en&gl=us",
+    "appId": "com.jiayao.blueheart"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Heading Indicator Watch Face",
+    "summary": "A lean Heading Indicator like watch face with digital time and date.",
+    "icon": "//lh4.ggpht.com/Avz31ndiOiPAGh3IxNr6ffvqZpn5rTwr7QtER0oEq2hZz-ynHRzusw3uOYXqlJomQL2V=w300",
+    "price": "$1.29",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 2,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@jollant.net",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "March 31, 2015",
+    "version": "2.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Here is my attempt at the Heading Indicator. This watch face is an original creation and the third in my \"Pilot's Toolkit\" series.Heading indicators are fairly simple flight instruments which only show one thing. Adding time and date in a seamless fashion is a bit challenging.Hours and Minutes are displayed in the right hand window.Day of the week and Day of the Month are displayed on the left hand. Day of the week will be displayed using 3 letters between the first and the ninth then 2 letters until the end of the month.The outside bezel rotates in 24h and therefore accurately represents time.Directions have been replaced by hours except for cardinal points to preserve the instrument look and feel.On Watch configuration let you choose between 24 and 12 hours time format as well as select Bezel Rotation speed between 24h, 12h and one minute. Bezel values will adjust to selected mode (0-24,0-12 or 0-60).Ambient mode is rendered with just the digital part. It's color is set to white to fit OLED screen.For the record, doing some research for this face I came across the Bell&Ross Heading Indicator. Man this thing is smart and gorgeous.Do not hesitate to drop feature requests at support@seenapps.comIf you like our watches, don't miss the good stuff https://twitter.com/SeenApps",
+    "descriptionHTML": "Here is my attempt at the Heading Indicator. This watch face is an original creation and the third in my &quot;Pilot&apos;s Toolkit&quot; series.<br><br>Heading indicators are fairly simple flight instruments which only show one thing. Adding time and date in a seamless fashion is a bit challenging.<br>Hours and Minutes are displayed in the right hand window.<br>Day of the week and Day of the Month are displayed on the left hand. Day of the week will be displayed using 3 letters between the first and the ninth then 2 letters until the end of the month.<br><br>The outside bezel rotates in 24h and therefore accurately represents time.<br>Directions have been replaced by hours except for cardinal points to preserve the instrument look and feel.<br><br>On Watch configuration let you choose between 24 and 12 hours time format as well as select Bezel Rotation speed between 24h, 12h and one minute. Bezel values will adjust to selected mode (0-24,0-12 or 0-60).<br><br>Ambient mode is rendered with just the digital part. It&apos;s color is set to white to fit OLED screen.<br><br>For the record, doing some research for this face I came across the Bell&amp;Ross Heading Indicator. Man this thing is smart and gorgeous.<br><br>Do not hesitate to drop feature requests at support@seenapps.com<br>If you like our watches, don&apos;t miss the good stuff https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/LQ_gSx3Jwfpgsdhqocfv5iEPpjWYIZdZrjhzWu8XDEthwWiN_XI6tNCfpBEXE-2iSf8=h310",
+        "//lh6.ggpht.com/LaoyLlNbwZd_onRdOvsh5d_0P_d59LQ9xzeAcBguA1WyPOQhcucTYIiuOV6Kg-0MZg=h310",
+        "//lh4.ggpht.com/1OXZNlhkblefH5DOqv3O6jhNMP-K1h60Nk9D1jeK7g03lRNfvo66um8y15QRdaVlrbPx=h310",
+        "//lh5.ggpht.com/ndoAHhQ1z7kpm7OgLZNCRwrV1ibxHPVfUPAb-sw7TAb_KV6FqM8c7FCM8ymyCYGwBgo=h310",
+        "//lh3.ggpht.com/3czi7f1xiVq7rTTl-VlGc6JBlxwMdGODX1Y7uAuZrdnxyNguaO9iWfOeKhLkm1X1AdA=h310"
+    ],
+    "comments": [
+        "Top notch design Like this one too!"
+    ],
+    "recentChanges": [
+        "Changed Ambient color to white to fit OLED screens"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.compass_face&hl=en&gl=us",
+    "appId": "com.seenapps.compass_face"
+}

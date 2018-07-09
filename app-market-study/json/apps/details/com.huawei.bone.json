@@ -1,0 +1,52 @@
+{
+    "title": "Huawei Wear",
+    "summary": "Your chief  exercise and health Expert.",
+    "icon": "//lh3.googleusercontent.com/_rzivh0SSLb8DBMHJnPbymFL09tBFG0K2fGSw4ppxiGH2sCs8dGlbccBnsXL4ZkcDpQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000,
+    "maxInstalls": 5000000,
+    "score": 3.6,
+    "reviews": 17618,
+    "developer": "Huawei Internet  Service",
+    "developerId": "Huawei+Internet++Service",
+    "developerEmail": "huaweifitness@gmail.com",
+    "developerWebsite": "http://www.huaweidevice.com",
+    "updated": "February 8, 2018",
+    "version": "Varies with device",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "size": "Varies with device",
+    "description": "Huawei Wear is an app that helps you manage your Huawei wearable devices, providing you with a complete, consistent, and convenient user experience. It can currently pair with HUAWEI WATCH, HUAWEI FIT, and HUAWEI Talkband wristbands.More wearable devices will be supported soon (smartphone running Android 4.4 or later required). Please stay tuned.With Huawei Wear, you can:1. Pair with various wearable devices.2. Check fitness, calories, and distance data.3. Manage paired devices, such as setting alarms, managing notifications, and updating devices.4. Share data with Huawei Health for more detailed statistics.",
+    "descriptionHTML": "Huawei Wear is an app that helps you manage your Huawei wearable devices, providing you with a complete, consistent, and convenient user experience. <br>It can currently pair with HUAWEI WATCH, HUAWEI FIT, and HUAWEI Talkband wristbands.<br>More wearable devices will be supported soon (smartphone running Android 4.4 or later required). Please stay tuned.<br>With Huawei Wear, you can:<br>1. Pair with various wearable devices.<br>2. Check fitness, calories, and distance data.<br>3. Manage paired devices, such as setting alarms, managing notifications, and updating devices.<br>4. Share data with Huawei Health for more detailed statistics.",
+    "histogram": {
+        "1": 3220,
+        "2": 1329,
+        "3": 2113,
+        "4": 2932,
+        "5": 8024
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/pO3mY96tRwev9W0_cN13yVk4XqE3gDQmDx5oDmqjF7sDaySh_-mCYm3lUdHAO0gqmlAK=h310",
+        "//lh3.googleusercontent.com/3RyT6O3iwm3xhBOMMBwLclsBIw-d3etcFoqpHyOwDn1zkr00_NzYL8RavqfaovUv5sb5=h310"
+    ],
+    "comments": [
+        "Why you don't catch system \"Do not disturb\" status? Why I have to use both Wear and Health apps, one for the notifications, alarm (same, why don't collab with others, you are worse in it) and other for sleep data? Please, do something before I lose my band 2 pro, locks aren't good also :(",
+        "Please give us a good update!  When I'm asleep, the heart rate light is on continuously. It doesn't switch off until it detects I'm awake again. Its killing my battery. This only happens at night.",
+        "Doesn't fully paired my Huawei Band 2 Pro with Huawei Health app on my phone (P9 Lite). Sleep tracking and automatic tracking doesn't work as well. Quite useless, it would be a lot better if we could pair the band's with phone directly and not with this broken app. Now not only pair with Health app not working but I can't for example use my band for Smart unlock, because it can't be paired as Bluetooth device properly (not possible to find it by other way than this app).",
+        "I'd love it if app would let me change the ui language of my honor band 3. Now it's the same as the apps. The app takes the language from system. Since the band doesn't support my language, when i have my phone in Polish, the band is in chinese. So i have to have my phone's os in english. If i could either change in-app language or language of my band, that would be great!",
+        "This app causes a huge battery drain on my phone. I'm talking down to 20% in 6-8hrs, and that's if I don't use the phone at all. Unfortunately you need this app if you plan on using the Huawei Health app, since its the only way the app captures sleep/heart rate data. If you don't plan on using that, then don't bother installing this.",
+        "honor band 3, i wish there would be option to keep watch screen on all the time. also it would be nice to customize what would be on main screen.. like hr and how many messages. Bluetooth logo examble is waste of space."
+    ],
+    "recentChanges": [
+        "Bug Fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.huawei.bone&hl=en&gl=us",
+    "appId": "com.huawei.bone"
+}

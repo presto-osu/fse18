@@ -1,0 +1,63 @@
+{
+    "title": "Krona Fusion Watchface",
+    "summary": "Weather Watch Face, designed with Google&#39;s official Android Wear Watch Face API",
+    "icon": "//lh4.ggpht.com/Qub5SaVHVlqD3dbPrXfoL5uF-QBV6tTkb5UWNcq6AspbR68ecX9Ty0b7uPVifg08UGE=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.1,
+    "reviews": 43,
+    "developer": "Simon Barke",
+    "developerId": "Simon+Barke",
+    "developerEmail": "mail@simonbarke.com",
+    "developerAddress": "701 SW 62nd Blvd\nApt X-169\n32607 Gainesville FL\nUSA",
+    "updated": "January 8, 2015",
+    "version": "2.2.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Crafted with the Moto 360 in mind, optimized for all square and round watch layouts.Please post feedback and feature requests in the comments or email us directly.Analog and Digital Watch Face with Automatic Weather Updates12 handcrafted designs individually optimized for round and square layouts. Each design comes in a light and dark theme.All features (digital time, day/date, weather, battery, analog hands) can be hidden.Fully compatible with new official Google Android Wear Watch Face API.Requires Android 4.3+ (Jelly Bean, API 18) to be installed on your phone and Android Wear 5.0.1 (Lollipop) to be installed on your watch, rolling out for all Android Wear Smartwatches (Motorola Moto 360, LG G Watch, LG G Watch R, Samsung Gear Live, ASUS ZenWatch, Sony SmartWatch 3).Features• Six color schemes: silver, gold, steel• Smooth sweep hand animation• Android companion app for watch face customization• Optional elements: analog hands, digital time, calendar, weather, battery percentage, battery ring     - Analog hands: smooth hour, minute and sweep hands     - Digital time: 24h or am/pm     - Calendar: weekday and today's date     - Weather: current condition and min/max temperature     - Battery Percentage: remaining wearable battery power     - Battery ring: multicolored halo indicating battery status• Ambient mode support: easy on the batteryInstallSome minutes after the app installed on your phone, the watch face will be copied to your watch automatically. If this does not happen, run 'Resync apps' from settings of the Android Wear App. Choose the watch face in the Android Wear App and enter the settings companion app from there. Select color schemes and features (weather, digital time, calendar, battery ring, ...). Please let us know if you run into any troubles.PermissionsCurrent weather condition is requested by companion app and pushed to Android Wear device.• Coarse location, network-based (no GPS) for weather data• Full internet access for weather data request• Enable weather update service upon rebootRequired by official Google Android Wear Watch Face API• Prevent phone (watch) from sleeping• Acts as custom watch faceWeather update status log file is written to your phone for debugging. Can be accessed from advanced settings.• Read and write contents of USB storage",
+    "descriptionHTML": "<i>Crafted with the Moto 360 in mind, optimized for all square and round watch layouts.</i><br>Please post feedback and feature requests in the comments or email us directly.<br><br><br><b>Analog and Digital Watch Face with Automatic Weather Updates</b><br>12 handcrafted designs individually optimized for round and square layouts. Each design comes in a light and dark theme.<br>All features (digital time, day/date, weather, battery, analog hands) can be hidden.<br><br>Fully compatible with new official Google Android Wear Watch Face API.<br>Requires Android 4.3+ (Jelly Bean, API 18) to be installed on your phone and Android Wear 5.0.1 (Lollipop) to be installed on your watch, rolling out for all Android Wear Smartwatches (Motorola Moto 360, LG G Watch, LG G Watch R, Samsung Gear Live, ASUS ZenWatch, Sony SmartWatch 3).<br><br><br><b>Features</b><br>&#x2022; Six color schemes: silver, gold, steel<br>&#x2022; Smooth sweep hand animation<br>&#x2022; Android companion app for watch face customization<br>&#x2022; Optional elements: analog hands, digital time, calendar, weather, battery percentage, battery ring<br>     - Analog hands: smooth hour, minute and sweep hands<br>     - Digital time: 24h or am/pm<br>     - Calendar: weekday and today&apos;s date<br>     - Weather: current condition and min/max temperature<br>     - Battery Percentage: remaining wearable battery power<br>     - Battery ring: multicolored halo indicating battery status<br>&#x2022; Ambient mode support: easy on the battery<br><br><br><b>Install</b><br>Some minutes after the app installed on your phone, the watch face will be copied to your watch automatically. If this does not happen, run &apos;Resync apps&apos; from settings of the Android Wear App. Choose the watch face in the Android Wear App and enter the settings companion app from there. Select color schemes and features (weather, digital time, calendar, battery ring, ...). Please let us know if you run into any troubles.<br><br><br><b>Permissions</b><br>Current weather condition is requested by companion app and pushed to Android Wear device.<br>&#x2022; Coarse location, network-based (no GPS) for weather data<br>&#x2022; Full internet access for weather data request<br>&#x2022; Enable weather update service upon reboot<br>Required by official Google Android Wear Watch Face API<br>&#x2022; Prevent phone (watch) from sleeping<br>&#x2022; Acts as custom watch face<br>Weather update status log file is written to your phone for debugging. Can be accessed from advanced settings.<br>&#x2022; Read and write contents of USB storage",
+    "histogram": {
+        "1": 1,
+        "2": 4,
+        "3": 6,
+        "4": 12,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/R01LoZOMchQpFQ8idGXRuDReY7jz3guCjSohmu0Z-WUmuKwkN7uYsszZAZeJWSHxHXY=h310",
+        "//lh5.ggpht.com/s5FHHkyQdINq2WooJ-nMlQLUsFLTve6XEcdbevoN6koOXEYlsvpmBwF26g1NOtemMY-g=h310",
+        "//lh6.ggpht.com/v79Rxa8LkVwMxZsZD7MXx7iJNLx7QS2RtdilFHXr86pueMPxeLRok_WQmN8qfmUlvPU=h310",
+        "//lh4.ggpht.com/sNYrF35R1QFSUcYxLxTT5KYNRoFt2wyjYSe-Dd1M3N-6O-JvfyeTaeaIks4GojleUAbP=h310",
+        "//lh4.ggpht.com/7lsR8ZnVDs_Cg0xFWJ7NbnoyLxeAaOX3GygQXtgE15Eud2JPtxm5YzU-C_2iRCanZKRw=h310",
+        "//lh6.ggpht.com/xCL8LD_qPp2oO74PuQwi7IdKZkz8jDCo7sKhKqwAe5CJH3IYQXb-0RQmLtw0dH2wLCA=h310",
+        "//lh6.ggpht.com/8A5O0_s-8n-9jR97QvzMC-4u84Y_i4zrxcWHOUItHyVPf7hQfT6AnH3wxCbLUjMecQHJ=h310"
+    ],
+    "comments": [
+        "No companion app... Uninstalled a couple times now and still get no companion app.  Default colors and settings are kinda ugly (at least to me) and with no way to change them, its a deal-breaker.",
+        "Good watch faces choices!!! Easy to use and change the design and color of the watch face. Make the changes to the design on your phone. Click sync. The changes immediately appear on your watch!",
+        "Nice watch Daily driver. Thank you!!",
+        "LG G Watch R The weather is not accurate at all.  Having difficulty getting texts.",
+        "Very good app and great faces.   Would be even better if it had an option to increase the width of the hands/change their shape.",
+        "Classic! This is one of my favorite watch face. It just is classic"
+    ],
+    "recentChanges": [
+        "2.2.2",
+        "- fixes for ASUS ZenWatch",
+        "- fixes for Sony SmartWatch 3",
+        "2.2.1",
+        "- improved weather update service",
+        "- optional log file for weather data update debugging (new permission to write file on phone)",
+        "2.2.0",
+        "- fix for LG G Watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.marscity.fusion&hl=en&gl=us",
+    "appId": "net.marscity.fusion"
+}

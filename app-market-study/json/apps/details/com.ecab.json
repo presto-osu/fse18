@@ -1,0 +1,58 @@
+{
+    "title": "eCab, the new taxi experience",
+    "summary": "eCab the booking app that gives you access to the best taxis in Europe!",
+    "icon": "//lh3.googleusercontent.com/-8sqzBhpNSBr4z6aON0EZ59foVyQwfBfwqhKUgEc8DhsQTl-0dOAKZ-ZPHxCfzDx008=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.2,
+    "reviews": 738,
+    "developer": "eCab",
+    "developerId": "eCab",
+    "developerEmail": "customers@e-cab.com",
+    "developerWebsite": "http://www.e-cab.com",
+    "updated": "April 13, 2017",
+    "version": "3.7.2",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "eCab, the smart city move.Available in 10 cities in Europe: Paris, Brussels, Amsterdam, Lyon, Lille, Rennes, Bordeaux, Reims, Aix-en-Provence and Douai. More cities around the world will be soon available. With eCab:  - Order in 1 click with your smartphone. - Pre-book your vehicle up to 15 days in advance - Estimate the price and duration of your trip - A professional and thoughtful driver in 5 minutes - Track your eCab in real time - Pay from your smartphone - Evaluate your driver 3 levels of service designed for your needs: - eCab: immediate order - eCab+: priority order, pre-booking, choice of the vehicle - eCab VIP: exclusive service, VIP driver, luxury vehicles",
+    "descriptionHTML": "eCab, the smart city move.<br><br>Available in 10 cities in Europe: Paris, Brussels, Amsterdam, Lyon, Lille, Rennes, Bordeaux, Reims, Aix-en-Provence and Douai. More cities around the world will be soon available. <br><br>With eCab: <br> - Order in 1 click with your smartphone.<br> - Pre-book your vehicle up to 15 days in advance<br> - Estimate the price and duration of your trip<br> - A professional and thoughtful driver in 5 minutes<br> - Track your eCab in real time<br> - Pay from your smartphone<br> - Evaluate your driver <br><br>3 levels of service designed for your needs:<br> - eCab: immediate order<br> - eCab+: priority order, pre-booking, choice of the vehicle<br> - eCab VIP: exclusive service, VIP driver, luxury vehicles",
+    "histogram": {
+        "1": 241,
+        "2": 54,
+        "3": 61,
+        "4": 93,
+        "5": 289
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/awOc3KUN7SFasVtoyhjSx2DLu-pfO48WxhY_nKlLqb3rwNYPEwKEkSDcmFIIrl2lDA=h310",
+        "//lh3.googleusercontent.com/roqDJf7XuaJ1gv8hb6yy1DWktjnVzubaaOp7FmXHi4Vgtc0OQKE4vetaiLFWb3G-AvTj=h310",
+        "//lh3.googleusercontent.com/ELBHx_VItECktTLnVARVw8eYp0ynFt6mH9N1LPOzKOuC2BWbSQXJbuOp80KEbMaSpDjf=h310",
+        "//lh3.googleusercontent.com/u1Ivp-ES1oCWrY6qjHDg5xaRMwSJESsFuPWEHNFgun3A3238-MdeEiww9bAj9Z3RjRs=h310",
+        "//lh3.googleusercontent.com/9TRvIM-PM3vK98VWeMFbXLAaO6Ya5-H7UFil0T7zyKBbszRQCppvI7uahqPgOFxi-A=h310"
+    ],
+    "video": "https://www.youtube.com/embed/CcJz8VEiyfU",
+    "comments": [
+        "Dishonest app. It shows you a map of supposedly nearby cars, but best I can tell the cars are phoney. It always shows a car nearby and estimates 1 or 2 minutes, even when that isn't remotely true and you wait indefinitely for no taxi. Second, it doubles your tip. Drivers add the tip and when you enter that same tip into the app, the result is that your tip gets applied twice.",
+        "I really don't like that it says the drivers get the tips. When they absolutely do not. The app is ok but it's not fair to take tip money next for the driver and keep it for management. And be dishonest about it",
+        "That's why I like Uber. App sucks. 90% of the time cannot even connect, gives an error message. Tried to use it for my brief stay in Vancouver since Vancouver doesn't have Uber. Total waste of time.",
+        "I used it twice. The first cab I booked was successful after trying twice. The second I attempted 5 or 6 times before my friend just used the taxi company's own app. Not very impressive. I don't think I'll use it again.",
+        "So useless. It could be Vancouver's cab industry, maybe it's not the app's fault. But it shows many cars around, and then nothing at all when i attempt to book a car. What a waste of time.",
+        "Sometimes, when it works, you might get a better fare than with Uber when it has surge pricing. But most of the time, it will either not open at all/open but won't find your destination/will tell you your ride is booked but then basically get stuck. Seems like very little user testing has been done. Compared to Uber the whole experience is clunky and unreliable. Also, I am writing this at 2 am - you can probably tell I feel let down."
+    ],
+    "recentChanges": [
+        "Thanks to your feedbacks, we have:",
+        "- Improved the app stability",
+        "- redesigned a few features (live ride tracking, recent addresses management, etc.)",
+        "The whole team is available for any information or remarks. Please send us your comments and suggestions to customers@e-cab.com."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ecab&hl=en&gl=us",
+    "appId": "com.ecab"
+}

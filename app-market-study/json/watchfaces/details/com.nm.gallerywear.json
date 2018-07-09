@@ -1,0 +1,54 @@
+{
+    "title": "Wear Photos From Gallery",
+    "summary": "Application for accessing photos from phone gallery to Android Wear Watch",
+    "icon": "//lh4.ggpht.com/-aB_LEKkMl8nGpBiJ3Br-MEnf8EBaxriudTmhU96879IBazJ0onUx1kkF7xUOUZgEPM=w300",
+    "price": "$2.59",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2,
+    "reviews": 22,
+    "developer": "Himanshu Kevadiya",
+    "developerId": "Himanshu+Kevadiya",
+    "developerEmail": "h.kev14@gmail.com",
+    "developerAddress": "C/O Nabajeet Barman,\nEduard spranger str. 7, 2/13, 71634, Ludwigsburg, Germany",
+    "updated": "September 25, 2014",
+    "version": "1.1",
+    "genre": "Puzzle",
+    "genreId": "GAME_PUZZLE",
+    "description": "Wear watch users can use this application for accessing photos from mobile gallery to their Android Wear watch. Wear watch must stay connected with cell device due to accessing photos from cell phone to wear watchFeatures:- User can look at photo images without taking out cell phone  - User can access photos from mobile gallery to wear watch- User can tap on photo to make it larger- User can scroll down and up photos into wear watch screen interface- This application is designed for round wear watch and square wear watch",
+    "descriptionHTML": "Wear watch users can use this application for accessing photos from mobile gallery to their Android Wear watch. Wear watch must stay connected with cell device due to accessing photos from cell phone to wear watch<br><br>Features:<br>- User can look at photo images without taking out cell phone  <br>- User can access photos from mobile gallery to wear watch<br>- User can tap on photo to make it larger<br>- User can scroll down and up photos into wear watch screen interface<br>- This application is designed for round wear watch and square wear watch",
+    "histogram": {
+        "1": 12,
+        "2": 3,
+        "3": 4,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/0v215TVSpap8oXUrYdpRftDkAoIEE5cObM33X11_bV3fOCsiPTa5k-ABLIjJ0oQomU9j=h310",
+        "//lh3.ggpht.com/UlrGkFBHshDbD2aUkmktpniRZCZfZago_R4dq3DVTSOUvrEy7cwhaFvI4iHYoyRI_gs=h310",
+        "//lh6.ggpht.com/3TYGTGpCa5XxQyCJUGU1dImk6NqCD91hy-MMoKXdpoycznZeHy8-L5OIClM7yXmNkh3t=h310",
+        "//lh4.ggpht.com/xMt2fPDqeU-CGMI1auS_7q9Fp2BZJY8VNeB2kIvEEryD8u7vM6Aivqq6a0tQkKijexw=h310"
+    ],
+    "comments": [
+        "It works! But... After sitting on this app for a few days it decided to work. The one major issue now that I can actually use the app is it resizes pictures into squares distorting faces and the like. Also, load times are very long, which is probably why I thought the app was nonfunctional at first. Fix these two problems and you'll have five stars. I have an HTC One M7 phone for the record.",
+        "It doesn't work It really works even when it does it gets stuck",
+        "Shows nothing but a black screen.",
+        "Sucks",
+        "not worth it. doesn't work. Screen goes black. no options on p hone to sync photos or anytype of setup menu.",
+        "Waste of money I requested a refund within 2 minutes of buying this and finding it only worked once and none of the features such as tap to zoom, and scroll worked on the LG g watch.  No refund given and stuck with an app that doesn't work at ALL. Just shows a blank screen now..."
+    ],
+    "recentChanges": [
+        "Added photo zoom functionality.",
+        "Bug fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nm.gallerywear&hl=en&gl=us",
+    "appId": "com.nm.gallerywear"
+}

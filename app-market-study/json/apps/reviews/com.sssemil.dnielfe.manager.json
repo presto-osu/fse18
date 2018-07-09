@@ -1,0 +1,33 @@
+[
+    {
+        "author": "Jonathan Zacsh",
+        "comment": "Not shipped with the source code the author is linking to. For example, I get an annoying pop-up that keeps me from using the app, that says something along the lines of, \"Please wait for your watch to synchronize, thanks :)\"  At first this was just annoying, because it is an all-white screen that prevents me from \"simply exploring\" my files. However, when I try to grep the source code linked to for any such \"watch\" reference, I can't find it.  Which I can only assume means this app is in the PlayStore with a fork that is not actually open sourced.",
+        "date": "November 28, 2015",
+        "permlink": "/store/apps/details?id=com.sssemil.dnielfe.manager&reviewId=Z3A6QU9xcFRPSGxTTVNEVEx5aVBhWHdxRExWM3hCOERkUFdCQVBHWE5BUF9nSnFGMXM3WGNSSXU1dlU1M3Q5NV9yRHFETUszWXJxa19tWkVUT2NiT2lOOHJ3",
+        "reply": {
+            "author": "Emil Suleymanov",
+            "content": "You can find watch side source code here - https://github.com/sssemil/SimpleExplorer . This link is available in description too. Phone side is too simple for publishing. And that \"pop-up\" is just phone side app...it doesn't pop-up anywhere :/",
+            "date": "December 30, 2015"
+        },
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Ablat Nurmuhammad",
+        "comment": "Very light and useful.",
+        "date": "September 19, 2015",
+        "permlink": "/store/apps/details?id=com.sssemil.dnielfe.manager&reviewId=Z3A6QU9xcFRPRmY4Z2lXc3hURThOTFU2MTB6SWpoRjVET00zMWtXdzBObjViNXJWUjFYSEVIN3ZnOWt5M2R5LTcxSWcyeFA5VXJENk5zNE1rbFEwNGptQW1v",
+        "reply": null,
+        "star": 5,
+        "title": "Good"
+    },
+    {
+        "author": "Zak Bahm",
+        "comment": "Literally just changed the theme and that's it. It's not even scaled for android wear. If you download EZ file Manager and sideload it onto your watch this is what you'll get (except it's blue).",
+        "date": "January 27, 2016",
+        "permlink": "/store/apps/details?id=com.sssemil.dnielfe.manager&reviewId=Z3A6QU9xcFRPRjI0SDFTRjRlV3JzalRLb0V5blltQ1pPNG9reEY3NlR1eEZkblVqUEk3Vl94QnpTZExQSVZGNy1yMXZ3dTRIQ29HblUwc1FUbWlHZ0x4bzZr",
+        "reply": null,
+        "star": 1,
+        "title": "RipOff of EZ File Manager"
+    }
+]

@@ -1,0 +1,51 @@
+{
+    "title": "Tasker Utils",
+    "summary": "Tasker utility actions",
+    "icon": "//lh4.ggpht.com/L_D4Gsm5M28GEoVUdLhVZN2cbX0mzDMZ73qvadHKsLxfc7vvOaWJ0wL3JDAN6UpC1_d8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.7,
+    "reviews": 42,
+    "developer": "Vincent Z",
+    "developerId": "Vincent+Z",
+    "developerEmail": "vincentzdeveloper@gmail.com",
+    "updated": "February 14, 2015",
+    "version": "1.01",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Supports actions that are not available in other popular Tasker plugins, including:1. Get SMS message ID by address and body. The ID can be used later by action #2 and #3 below.2. Delete a message by ID. It requires App Ops in 4.4+3. Mark a message as read by ID. It requires App Ops in 4.4+4. Get the importance of a running process. It can be used for foreground/background check5. Wipe data. It'll perform a factory reset, can be used in anti-theft tasks.6. HTTP Get. It's a replacement for Tasker's own HTTP Get action to unblock execution of other tasks.7. Watch always-on screen. Toggles the always-on screen setting in connected Android Wear watch.Permissions:READ_SMS: Get SMS message IDWRITE_SMS: Delete SMS & Mark a SMS as readINTERNET: HTTP GetNote: This is not a standalone app, it requires Tasker and is visible only in Tasker.",
+    "descriptionHTML": "Supports actions that are not available in other popular Tasker plugins, including:<br><br>1. Get SMS message ID by address and body. The ID can be used later by action #2 and #3 below.<br>2. Delete a message by ID. It requires App Ops in 4.4+<br>3. Mark a message as read by ID. It requires App Ops in 4.4+<br>4. Get the importance of a running process. It can be used for foreground/background check<br>5. Wipe data. It&apos;ll perform a factory reset, can be used in anti-theft tasks.<br>6. HTTP Get. It&apos;s a replacement for Tasker&apos;s own HTTP Get action to unblock execution of other tasks.<br>7. Watch always-on screen. Toggles the always-on screen setting in connected Android Wear watch.<br><br>Permissions:<br>READ_SMS: Get SMS message ID<br>WRITE_SMS: Delete SMS &amp; Mark a SMS as read<br>INTERNET: HTTP Get<br><br>Note: This is not a standalone app, it requires Tasker and is visible only in Tasker.",
+    "histogram": {
+        "1": 9,
+        "2": 2,
+        "3": 4,
+        "4": 4,
+        "5": 23
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/7QXT5ZyxrDLYj2MbMGNFNUFy0OFIH60YdRmbo5wha2sTJ6vXH7O1ZUlkGMVPoSJrBzsL=h310",
+        "//lh3.ggpht.com/ktzL3f2Tr_TDsqOytrAKNn_N-kKXnlzk3_3Kaw9qNipVzQmjwWUSPUoFh2gj_7UON24=h310",
+        "//lh4.ggpht.com/F_cCQTo0aaftKPpfxxtEno9wPNXgDsHpd8B5K0-26gSPBn0maUtAqxnm1YSOfoserUZA=h310",
+        "//lh6.ggpht.com/72V32viRMHJe0JKq0QKrE8nUKuxO1Ax6DoDgG-JYFeAl31smgwIjo9jd5QNbJ5Q2Uw=h310",
+        "//lh3.ggpht.com/BlmZ6o9clJ0Vk4IjkS0whwZatdl4Lt3qVx0uu0nKwdeRjeCIP1rXQ6b_giylugg1jtfl=h310"
+    ],
+    "comments": [
+        "I want to delete select SMS with Tasker. This plugin can read the %smsid, but it cannot delete any sms. I'm rooted, and it says to Grant \"App Opps\", but that is too vague, I have no idea what \"App Opps\" refers to. I'm sadly disappointed because I need a way to delete SMS spam from \"no number\" spammers. Samsung Galaxy S5, Android 6.01 Marshmallow",
+        "Definitely a good addition to tasker This one is worth grabbing for those custom security and sms. Thanks, this a well needed plug in.",
+        "Doesn't work for me - always returns 1000 for process",
+        "Good app But need update to fix inviald %smsid",
+        "I guess this is useful to only a limited audiance",
+        "I got a hacker. Problems. Que ago"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.vincentz.taskerutils&hl=en&gl=us",
+    "appId": "com.vincentz.taskerutils"
+}

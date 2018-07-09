@@ -1,0 +1,49 @@
+{
+    "title": "Nexty - for Android Wear",
+    "summary": "Nexty - the new advance Bluetooth Chat is now running on an Android Wear device",
+    "icon": "//lh3.googleusercontent.com/9UWsUrQn1NlP0KJOkZB-_Rll9P3GbUqLvNBoelWy-2hskDi1gbfPMarpO5xB_2nCZg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "Matthias Credits",
+    "developerId": "Matthias+Credits",
+    "developerEmail": "matthias.credits@gmx.de",
+    "developerWebsite": "http://www.matthias-credits.de/",
+    "developerAddress": "Lavesstrasse 12\n30159 Hannover\nDeutschland",
+    "updated": "July 16, 2015",
+    "version": "1.3.7",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "As a proof of concept Nexty is now running on an Android Wear device with the full feature set as Nexty has on a handheld except that the picture chooser is disabled because there is no camera and no picture storage on an Android Wear device so far.If you would like to read more about Nexty and its features in detail, please visit Google Play for the mobile Nexty: Nexty - Thew new advanced Bluetooth ChatNexty on Android Wear does not need a smart phone as companion. Nexty on Android Wear works fully autonomy.Onscreen Keyboard for Android Wear:Android Wear has no onscreen keyboard for text input but Nexty needs one to be able to send text messages to another Nexty so I developed an own keyboard. In the video you can see how it is working. I tested it on the device wearing it at my wrist and it is pretty easy.",
+    "descriptionHTML": "As a proof of concept Nexty is now running on an Android Wear device with the full feature set as Nexty has on a handheld except that the picture chooser is disabled because there is no camera and no picture storage on an Android Wear device so far.<br><br>If you would like to read more about Nexty and its features in detail, please visit Google Play for the mobile Nexty: <a href=\"https://play.google.com/store/apps/details?id=net.matthias_credits.nexty\">Nexty - Thew new advanced Bluetooth Chat</a><br><br>Nexty on Android Wear does not need a smart phone as companion. Nexty on Android Wear works fully autonomy.<br><br>Onscreen Keyboard for Android Wear:<br><br>Android Wear has no onscreen keyboard for text input but Nexty needs one to be able to send text messages to another Nexty so I developed an own keyboard. In the video you can see how it is working. I tested it on the device wearing it at my wrist and it is pretty easy.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/IgSQ4R5omDdv9TI-3y-be7jleo_NMgd8jdUxkAs89Gq-FKZ729tIBrIyC9zxCxr-2w=h310",
+        "//lh3.googleusercontent.com/iQE1qQOhcpBoGHpfqc4wEGKMRhoD4onXCao6aRbox4W3hrBWOZV3NcjE96Q6GhmIJds=h310",
+        "//lh3.googleusercontent.com/phj94K00hrdyCMyHdrBwpukNVes6thJQacxSkqQtSpexT2Uay_QkAXYRJhROq4UQnQU_=h310",
+        "//lh3.googleusercontent.com/3S-5T3aN-psbNAfslntBkpZitpJ3n6RHGihDeHRvzM1L_DhpyKjPlhLOwR7PBwBEv38=h310",
+        "//lh3.googleusercontent.com/W_skhuXZuQYjwJRJapIY8BD8Afu1Iyj_tQuEKb_Lo83de1iY6fHurGDvvSekHqv4y4Q=h310"
+    ],
+    "video": "https://www.youtube.com/embed/OBqQDvJyvhA",
+    "comments": [],
+    "recentChanges": [
+        "- bugfix: small change in fragment definition. I hope that prevents some wiping problems on LG Watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.matthias_credits.wearnexty&hl=en&gl=us",
+    "appId": "net.matthias_credits.wearnexty"
+}

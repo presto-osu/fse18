@@ -1,0 +1,56 @@
+{
+    "title": "Snapzy for Android Wear",
+    "summary": "Remote camera view and trigger for Android Wear",
+    "icon": "//lh5.ggpht.com/rcZJ80dULyAEykiZnHOzrfx6mk38Cy3cGa4bb5hnjRWuW0w0xf4KyDLae-wzZazyh6GU=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.7,
+    "reviews": 29,
+    "developer": "Spritefish",
+    "developerId": "Spritefish",
+    "developerEmail": "support@spritefish.com",
+    "developerWebsite": "http://www.spritefish.com",
+    "developerAddress": "Egebjerghuse 21\n2750 Ballerup\nDK Denmark",
+    "updated": "July 2, 2015",
+    "version": "39-wear",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "NOTE - This will only work with Android Wear watches. If you are using a Samsung Gear watch, please install from the Samsung Gear store.With Snapzy, you are able to use your Android Wear device as a remote trigger and viewfinder. See what the camera on your phone sees, right from your wrist. For well-timed selfies, use the \"delayed shot\" feature to make sure you have time to get ready for the shot, once you have checked that the photo will be perfect.Also, Snapzy is handy when you need to inspect something that can be hard to reach. Behind the washing machine, under the car? No problem - just enable the flash on your phone and see what the camera sees - right on your wrist!NEW - Swing burst mode. Capture and analyze your favorite sports moves, perfectly timed for when you swing your arm. Works well with baseball, tennis and golfNOTE - this version will not work with Galaxy Gear (Tizen) devices. To use it with Galaxy Gear (Tizen), download the version from the Samsung Store.",
+    "descriptionHTML": "NOTE - This will only work with Android Wear watches. If you are using a Samsung Gear watch, please install from the Samsung Gear store.<br><br>With Snapzy, you are able to use your Android Wear device as a remote trigger and viewfinder. See what the camera on your phone sees, right from your wrist. For well-timed selfies, use the &quot;delayed shot&quot; feature to make sure you have time to get ready for the shot, once you have checked that the photo will be perfect.<br><br>Also, Snapzy is handy when you need to inspect something that can be hard to reach. Behind the washing machine, under the car? No problem - just enable the flash on your phone and see what the camera sees - right on your wrist!<br><br>NEW - Swing burst mode. Capture and analyze your favorite sports moves, perfectly timed for when you swing your arm. Works well with baseball, tennis and golf<br><br><br>NOTE - this version will not work with Galaxy Gear (Tizen) devices. To use it with Galaxy Gear (Tizen), download the version from the Samsung Store.",
+    "histogram": {
+        "1": 13,
+        "2": 0,
+        "3": 6,
+        "4": 4,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/f38UVaCJhHya9zh3aGEyOO5JuOkzZMbf-bjGUe0C-FjBPabXy5WlhnN2fwNh6n2kB3k=h310",
+        "//lh5.ggpht.com/5aJXYH_YkqF9Ly_xKuCjg5gyyDn5LMLTr9ZKgLKdj-XMtQzKfu7Twn55WYDpo8e0kfE=h310",
+        "//lh6.ggpht.com/t0vWjzb_6QN4DWM3Py1pRliMH7oFjSrJEVHvH1wFDaqz6wuy6Or0pjPKNX6RFVTHbYE=h310",
+        "//lh5.ggpht.com/pU1j22glaI9yxm0-4ncLh5JLiAut10J3nwQQEBto4_6tNBRop1Ht7FpTWbWvDuI_xg=h310",
+        "//lh6.ggpht.com/12TenLG8jre41R2T-xufQ6MQ2We7GaMgietyl2KTSobTHOEsqw9XODXqfZ53aipc7g=h310"
+    ],
+    "video": "https://www.youtube.com/embed/0BBIFgKw8pU",
+    "comments": [
+        "This app was great and then it stopped working. I cant get my Gear 2 watch to see the app anymore and the phone just opens it locally. Please fix. Samsung S6 Edge and Gear 2 watch.",
+        "Won't connect Bought it then uninstalled it installed it again but won't connect to my phone",
+        "Samsung note 4 Buggy,  I've managed to download the Samsung version as mentioned but when my gear apps update it stops working then I need to re install again.  Love the idea but wish was more stable.",
+        "It is still autostarting, when connecting to bluetooth, please try it out before uploading to public, as i said, it is still autostarting!",
+        "Useful but buggy ... ... needs a fix to stop it from self starting.",
+        "Does not work on Gear S Note 3 Refund or fix please"
+    ],
+    "recentChanges": [
+        "Fixed issue with watch app starting on bluetooth connect"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.spritefish.snapzy&hl=en&gl=us",
+    "appId": "com.spritefish.snapzy"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Contact Sharer",
+    "summary": "Easily send multiple contacts&#39; information! Supports sharing via NFC.",
+    "icon": "//lh3.ggpht.com/d43YxZV8WJZPkQYhPb0mIQEmvWYjfiT015GU3Tk11DLwqs0_MpqNH6XZvnk07fEYhA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 18,
+    "developer": "Tran Hoang Nhat",
+    "developerId": "Tran+Hoang+Nhat",
+    "developerEmail": "nhat1127@gmail.com",
+    "developerAddress": "Room 904, Apt. No. 08, Dich Vong, Cau Giay District, Hanoi City, Vietnam",
+    "updated": "December 4, 2014",
+    "version": "1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Sharing multiple contacts' information has never been easier. No longer the time you send contacts and sender can't read the information! Just choose all the contacts you need to send information, and press Share button! Works with contacts have multiple phone numbers.Currently available methods to share are:● QR Code - Fast, no cost, and totally cool! Support Android Wear devices.● NFC - Just tap your phone next to another NFC-enabled device to instantly share contacts' details. Tested with Android and MeeGo devices!● Clipboard - Copy the contacts' details to the clipboard to paste to other app.● SMS - Send contacts' details in plain text SMS and avoid additonal cost of sending an MMS!● vCard - Save your contacts' details to external storage in vCard format.● Email - Send an email with a vCard file attached.This application can only share phone numbers now, but support for sharing emails are coming soon!The Location permissions are only for the ads. This app doesn't collect any personal and contacts' information.If you like this application and find it useful to you, please rate it 5*. Bugs report are always welcome!The N-Mark is a trademark or registered trademark of NFC Forum, Inc. in the United States and in other countries.This app uses the ZXing library. (c) ZXing Authors.Keywords: share, contact, via SMS, NFC, vCard, qr, code, qr code, android wear, wearable, smartwatch",
+    "descriptionHTML": "Sharing multiple contacts&apos; information has never been easier. No longer the time you send contacts and sender can&apos;t read the information! Just choose all the contacts you need to send information, and press Share button! Works with contacts have multiple phone numbers.<br><br>Currently available methods to share are:<br>&#x25CF; QR Code - Fast, no cost, and totally cool! Support Android Wear devices.<br>&#x25CF; NFC - Just tap your phone next to another NFC-enabled device to instantly share contacts&apos; details. Tested with Android and MeeGo devices!<br>&#x25CF; Clipboard - Copy the contacts&apos; details to the clipboard to paste to other app.<br>&#x25CF; SMS - Send contacts&apos; details in plain text SMS and avoid additonal cost of sending an MMS!<br>&#x25CF; vCard - Save your contacts&apos; details to external storage in vCard format.<br>&#x25CF; Email - Send an email with a vCard file attached.<br><br>This application can only share phone numbers now, but support for sharing emails are coming soon!<br><br>The Location permissions are only for the ads. This app doesn&apos;t collect any personal and contacts&apos; information.<br><br>If you like this application and find it useful to you, please rate it 5*. Bugs report are always welcome!<br><br>The N-Mark is a trademark or registered trademark of NFC Forum, Inc. in the United States and in other countries.<br><br>This app uses the ZXing library. (c) ZXing Authors.<br><br>Keywords: share, contact, via SMS, NFC, vCard, qr, code, qr code, android wear, wearable, smartwatch",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 15
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/_gOv7y76SAi19SQ2iHWOnQ6aZ273QjBFgzhRkJRz5v5VwAmVAUD6g-AbGl9KdLbiXh8=h310",
+        "//lh3.ggpht.com/SzE6p5k9RsP6shIDl-5-1RZEVVhuOcpz9HksQ24HDeEGtqn_AuMPrTgP3tqJ6PAZPew=h310",
+        "//lh5.ggpht.com/yOFjmqQVBTKBrZiSbeqmeMR1D2hv4DpYpVfWkR0cMIpucygWWQHmy-aGjGuJ553LlUGf=h310",
+        "//lh4.ggpht.com/-2r0sXwdwKGQs4ZQyQDlJdIoeD3-0HGconLe2oUA0xwSVLONZ2oFMF4muCOWN0u5Tm4=h310",
+        "//lh3.ggpht.com/TjrwM7cK1KSYPlsImy9Sn8A0bAM1BknERubtMdFwtzw0bwe5dUNyIBqI-ZvaNXePVsCH=h310",
+        "//lh3.googleusercontent.com/2MOE0NLNoW0L0JBfJnVCwHnU7EmE9nexhQMXP9QXcy-gffqYSVFVfRiuamDgDqEDJ2I=h310"
+    ],
+    "comments": [
+        "5*",
+        "App rất tiện, 5*",
+        "Not work Bad"
+    ],
+    "recentChanges": [
+        "New feature added!",
+        "The app now support sharing via QR Code, also displayable on Android Wear devices!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nhatth.contactsharer&hl=en&gl=us",
+    "appId": "com.nhatth.contactsharer"
+}

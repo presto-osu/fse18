@@ -1,0 +1,47 @@
+{
+    "title": "Spywatch",
+    "summary": "Take photos, record audio or video with Spywatch, using your Android Wear.",
+    "icon": "//lh3.googleusercontent.com/fGf6DFU67_zFrbxSJzpeHePo6GB6Jlp8bJAmY1TGTLtNpJ9VvhB26YP4NMhv-udKLw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.8,
+    "reviews": 8,
+    "developer": "ARworks Ltd",
+    "developerId": "ARworks+Ltd",
+    "developerEmail": "szbudahazy@arworks.hu",
+    "developerWebsite": "http://www.arworks.com",
+    "updated": "September 14, 2015",
+    "version": "1.0",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Spywatch application enables the users to control the photo, video and voice recording features of their mobile phones via Android Wear smartwatch remotely while the live picture is visible on the watch's screen. Recorded content is saved in the memory of the phone and can be reached anytime by the user.",
+    "descriptionHTML": "Spywatch application enables the users to control the photo, video and voice recording features of their mobile phones via Android Wear smartwatch remotely while the live picture is visible on the watch&apos;s screen. Recorded content is saved in the memory of the phone and can be reached anytime by the user.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Sc-XGjIMyBntiZXAh6IVnryvXUmA2wh6eZ_beQNBwGyCBjJ_lKUW__y_3tO-p-rLFY8=h310",
+        "//lh3.googleusercontent.com/Cqmhmo0dlByQnkQw61jVNf_WYYoyFzAw5OW0cQy9PTB9LEqEHR0etqEPzb08YK5ZMuc=h310",
+        "//lh3.googleusercontent.com/PjIezZGe1BKnEA1gOSqAW3X_Y4zX3G1mao9hdB4nbcP1w1dIRQazuLVADMxkRBUUfg=h310",
+        "//lh3.googleusercontent.com/tQdhcI18hk8IDxT-WLx0wTe18wnXGpFVEUwLcd5KDuwzIFOnDdAy7b1KFSNxq-d67JY=h310"
+    ],
+    "comments": [
+        "Works OK as a photo app. But that's it. Wont even record video.",
+        "Can't start on sw3 Can open app but can't select start button."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.arworks.ncska.wear.remotecapture&hl=en&gl=us",
+    "appId": "com.arworks.ncska.wear.remotecapture"
+}

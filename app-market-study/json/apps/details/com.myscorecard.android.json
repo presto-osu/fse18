@@ -1,0 +1,63 @@
+{
+    "title": "MyScorecard Golf Score Tracker",
+    "summary": "Golf Score &amp; Handicap Tracker. Get your USGA Handicap &amp; Track performance.",
+    "icon": "//lh6.ggpht.com/1O9mbnomnnGptRwDNwWXuqJ5J81ivMbdlvwUo3ijg8C2dXFaXlI40JK8V7RUkdctLA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 289,
+    "developer": "MyScorecard",
+    "developerId": "MyScorecard",
+    "developerEmail": "support@myscorecard.com",
+    "developerWebsite": "http://www.MyScorecard.com",
+    "developerAddress": "1112 Montana Ave, Suite 131\nSanta Monica, CA 90403",
+    "updated": "May 21, 2017",
+    "version": "2.0.45",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "Golf & Handicap Tracker brought to you by MyScorecard. Find out why thousands of users love MyScorecard:(a) Make it Official: USGA Handicap Indexes(b) Make it Easy: 16,000+ plus course database with slope, rating, and course scorecard information(c) Make it Fun: Track achievements and see recent scores / achievements by your friendsV2* Bug Fixes* User Interface Updates to create more intuitive entryV1* Track gross score or hole by hole or stroke by stroke* Choose from 40+ pro stats to track using personalized performance reports* Automatic calculation of stats if you enter scores on a hole by hole/stroke by stroke basis* Receive an Official USGA Handicap Index * Display your USGA Handicap Card (e.g. if you need to play on St Andrews)* Post 9 or 18 hole scores, as well as tournament scores* Find your score to lower your handicap, view your entire score & statistic history, and more * Track fellow club members - see their scores and recent achievements* Easy, intuitive navigation* 16,000+ plus course database with slope and rating information as well as full course scorecards for easy hole by hole entry* Access your account from any phone, table, or computer with an internet connection* Ties into MyScorecard.com Official Handicap Tracking Service - log in online for more in-depth analysis and featuresUse of the app is free, but v2 requires a MyScorecard membership. Receive a free 30-day trial the first time you submit a round from the app.",
+    "descriptionHTML": "Golf &amp; Handicap Tracker brought to you by MyScorecard. Find out why thousands of users love MyScorecard:<br><br>(a) Make it Official: USGA Handicap Indexes<br>(b) Make it Easy: 16,000+ plus course database with slope, rating, and course scorecard information<br>(c) Make it Fun: Track achievements and see recent scores / achievements by your friends<br><br>V2<br>* Bug Fixes<br>* User Interface Updates to create more intuitive entry<br><br>V1<br>* Track gross score or hole by hole or stroke by stroke<br>* Choose from 40+ pro stats to track using personalized performance reports<br>* Automatic calculation of stats if you enter scores on a hole by hole/stroke by stroke basis<br>* Receive an Official USGA Handicap Index <br>* Display your USGA Handicap Card (e.g. if you need to play on St Andrews)<br>* Post 9 or 18 hole scores, as well as tournament scores<br>* Find your score to lower your handicap, view your entire score &amp; statistic history, and more <br>* Track fellow club members - see their scores and recent achievements<br>* Easy, intuitive navigation<br>* 16,000+ plus course database with slope and rating information as well as full course scorecards for easy hole by hole entry<br>* Access your account from any phone, table, or computer with an internet connection<br>* Ties into MyScorecard.com Official Handicap Tracking Service - log in online for more in-depth analysis and features<br><br>Use of the app is free, but v2 requires a MyScorecard membership. Receive a free 30-day trial the first time you submit a round from the app.",
+    "histogram": {
+        "1": 43,
+        "2": 24,
+        "3": 28,
+        "4": 81,
+        "5": 113
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/9-AwABg7FrAJrUs4z2q1jYwhk0mvDHMs3YSjvEG-HaSPdkkyaPnOSnAbjCKl6QqT98U=h310",
+        "//lh3.googleusercontent.com/y1JUfbPK2qAMZna9LLlz0rYONTYkaI9QJbRJ9Zzk8MDY0bI0J0KVgfshtyW4oeggIRk=h310",
+        "//lh3.googleusercontent.com/F8KemDoZZCSLM_dGSY62ntEvN6FKmDVoufyg8bVnEf1EOCO5mWQCpq8SQIAtdiMMDQA=h310",
+        "//lh3.googleusercontent.com/AlH7nPJbLmdJZz58jGKelhqysBgdMaonDYmC7wRNqIa3sT6RsU0a_0gKXEUnvJ5pvxP3=h310",
+        "//lh3.googleusercontent.com/spX5SjCnjCRNKrwGamdWFGRvVQ4ha2bCcG9cXf5pf2V5oJmRLrQO7xKAEmxeOKFoMF8=h310",
+        "//lh3.googleusercontent.com/rhKfHuoGwh07kxSEVsk0s2LXOyLSJFGM4EKyVd4tvCslSZf-Kp9mbkjS7YNCiJoDril6=h310",
+        "//lh3.googleusercontent.com/rbZUKzGeFOANYMmlbdXpJvQyrC-km60UI9MG9LnB_hBOA88dyt7LdEwQYjYhh0c4IQ=h310",
+        "//lh6.ggpht.com/MH6dGcdLPuBDkq-keKWYtWFdxzTxuyY2tJ-zJ0Nh6-r_X80CtPh_rPnNxVu0tLKZRP4=h310",
+        "//lh6.ggpht.com/oijWDcDLGtN-KB7T8-pMYO712qqp7uq1tuxXP6EXP9isSyL3YjZmtt8E5O2E6624yJB-=h310",
+        "//lh3.googleusercontent.com/RzjCEr_M0gmZDpG7VCWJp1sCdOJIIS6YMwcQJ24t6cjR2fi5vieQ3k6e5QmNN_Osnw=h310",
+        "//lh3.googleusercontent.com/KQzOHOFq9MbUqf9j08JAmxQZRnCd6MHnbRUaBKUFYBCVDjcqBzlty3R4XMp7kil85Q=h310",
+        "//lh3.googleusercontent.com/rzPfjhxGUzgBvCfi6FjWaPjHwoAW41f8kpls_yqnZFibi4RkCHFOksxAGcS1thoHXQ=h310",
+        "//lh3.googleusercontent.com/d7B7tGbul1vYGNNf1s5flUKEqeMth-GgHEn4KGYs5ay72Fpqs7tT9QzQfrdjgFqMep9Z=h310"
+    ],
+    "comments": [
+        "Love the app.  I use it to track every round I play.  Only minor glitch is putting in hole by hole score ..... when you get to hole 18 it doesn't tab down to the putt tab automatically so you accidently put the number of putts on the hole for your score.  Seems would be an easy fix.  All in all its a keeper.  Definately hope the little putt score situation on hole 18 is fixed soon......also interested in further comlplex fun adjunct development.",
+        "love the App. occasionally it crashes but it saves the data so you don't lose everything. worst case I update online. the online app is great. lots of analysis.",
+        "It won't let me enter scores.  Paid for 3 years.  Entered scores for 2 months.  Now it won't allow it.  Emailed support twice with no answer.  Updated my AP.  Still doesn't work.",
+        "Downloaded the app, got to the log on and register page, wud not set up to facebook as said couldnt due to the app, went to register myself and it would not accept my postcode no matter how i presented it, with spaces n without, cap/lower case and just first 3 letters",
+        "Worked well the first year but I ran into an issue with the app during renewal. Been paying for a year and can't get it working and support claims I haven't paid even after showing them my receipt. They've become unresponsive or slow to respond. Can't recommend.",
+        "I liked the app...until I got my 5 scores in! Wasn't sure I wanted to keep the app because it's not tied into the GHIN system.   Now I can't even go in to see what my prior scores are!  Unfortunately, 'Myscorecard' has convinced me not to purchase"
+    ],
+    "recentChanges": [
+        "Updated scoring system.  We have rebuilt the scoring system from the ground-up.  Whether entering total score, hole by hole, or stroke by stroke/on the course or off, the new version of the round scoring should provide a much easier way to enter your round."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.myscorecard.android&hl=en&gl=us",
+    "appId": "com.myscorecard.android"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "simOclock Watch Face",
+    "summary": "simOclock (Simple Clock) is a clean and minimal watch face.",
+    "icon": "//lh5.ggpht.com/HwEpC1YoTUMYiAHc_liDErs9pRWK5yKC-cm9P6qz7EIcshWa0UbahL-_ub_Pb808SnM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 175,
+    "developer": "Nerd Attack!",
+    "developerId": "Nerd+Attack!",
+    "developerEmail": "info@nerdattack.com.my",
+    "developerWebsite": "http://www.nerdattack.com.my",
+    "developerAddress": "B-3A-01, Capital 2,\nOasis Square,\nJln PJU 1A/7A,\n47301 Petaling Jaya,\nSelangor, Malaysia",
+    "updated": "August 12, 2015",
+    "version": "1.0.6",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "simOclock (Simple Clock) is a clean and minimal watch face that features simple and modern design with a variety of background selections.Works great on Moto 360, LG G Watch R, Samsung Gear Live and more!Watch face features:•  Round & Square designs•  Gorgeous background selection (if you're bored of the plain background)•  Smooth seconds dot•  Battery indicator•  Date & Day•  21 preset themes•  Customisation options•  Battery-saving ambient modeThis is our first watch face design, if you have any feedbacks or suggestions on how we can further improve simOclock, please email us at info@nerdattack.com.my",
+    "descriptionHTML": "simOclock (Simple Clock) is a clean and minimal watch face that features simple and modern design with a variety of background selections.<br><br>Works great on Moto 360, LG G Watch R, Samsung Gear Live and more!<br><br><b>Watch face features:</b><br>&#x2022;  Round &amp; Square designs<br>&#x2022;  Gorgeous background selection (if you&apos;re bored of the plain background)<br>&#x2022;  Smooth seconds dot<br>&#x2022;  Battery indicator<br>&#x2022;  Date &amp; Day<br>&#x2022;  21 preset themes<br>&#x2022;  Customisation options<br>&#x2022;  Battery-saving ambient mode<br><br><i>This is our first watch face design, if you have any feedbacks or suggestions on how we can further improve simOclock, please email us at info@nerdattack.com.my</i>",
+    "histogram": {
+        "1": 10,
+        "2": 8,
+        "3": 18,
+        "4": 55,
+        "5": 84
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/zY52iACBKS-iYtmrHmx7x4nRrz3P6LdsIv2Ar40iNK1UlFSfsPD6Rs4Lpe0NMW0Yhzc=h310",
+        "//lh6.ggpht.com/QVa1gY3q4wUmw6vhYTmMFY1YeKl9Z73-rrJhdu625-EODJMlg2Q6jGnj1sDP3vgLaxg=h310",
+        "//lh4.ggpht.com/h6M_BmZ3CrQuOBlp1iw-xHvLQZAyOuGpZIIWGBiJ8H1e2tFfytSL1wGeVEKFvcolFQ=h310",
+        "//lh4.ggpht.com/N7f2ReoVSGCs6lSJc8Mh0J723SO-OrHnPH50A2_sO2CQuS2GhTOLKCNEe2hb8rbVMg=h310",
+        "//lh5.ggpht.com/5-VyiD-48NRgYs2NoxfdBel6vzP6oJ9WKur_IIyc0Fv_VY6xpQeQbYs1KEBV1COs9w=h310",
+        "//lh3.ggpht.com/kzlEaNGZ5v8Kq1wHo1SQl0iz9nA6A-eLrygObXxuvsSn9-rSs8yKT3KLuTV4ynKufg=h310"
+    ],
+    "comments": [
+        "Good, could use some improvements in ambient mode This is a really nice watchface! I'd appreciate it, though, if it has some settings for the watch hands when in ambient mode. With just the outlines as it is now, sometimes it can be a bit difficult to read.",
+        "Mmmh. I remember a watch with rubber band from Italy name \"O'clock\", that have very similar design with simOclock. But I always appreciated hard work and I do hope you could provide plain black background for amoled screen like G Watch R. Now the black one seems like just dark grey. And ability to change between watch and phone battery info would be greatly appreciate. Thanks.",
+        "On my polar m600 the black background is more of a grey which doesn't look so great in my opinion. Also the default template choices don't update properly and I had to change the appearance in the custom setting tab",
+        "It's a nice watch face but yet I don't feel it's simple enough for me. I do like that the watch face shows the battery percentage even if that downgrades it's simplicity",
+        "Unable to see app I installed it but unable to trace it in my mobile, using nexus 5",
+        "Cannot see watchface No app in app drawer, no watch face in android wear or on watch itself."
+    ],
+    "recentChanges": [
+        "- New watch hands",
+        "- Improved performance, migrated to new framework",
+        "p/s: We're working on further improving SimOclock, hang in there!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nerdattack.simoclock&hl=en&gl=us",
+    "appId": "com.nerdattack.simoclock"
+}

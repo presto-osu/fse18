@@ -1,0 +1,49 @@
+{
+    "title": "RollDice (Android Wear)",
+    "summary": "Android Wear funny app",
+    "icon": "//lh4.ggpht.com/O0RfdHHnNXCbRGcUNE1CQsoj3K4U1g1Hc-6MrLI-3mST63rVL8JT4LWteGnfchaYIH8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.5,
+    "reviews": 72,
+    "developer": "Cyrille GUIPIE",
+    "developerId": "Cyrille+GUIPIE",
+    "developerEmail": "cyrilleguipie@gmail.com",
+    "developerWebsite": "http://www.cyrilleguipie.blogspot.com",
+    "updated": "July 20, 2014",
+    "version": "1.3",
+    "genre": "Casino",
+    "genreId": "GAME_CASINO",
+    "description": "This app simulates your dice on your Android Wear smartwatch.You just have to shake your watch for rolling your dice",
+    "descriptionHTML": "This app simulates your dice on your Android Wear smartwatch.You just have to shake your watch for rolling your dice",
+    "histogram": {
+        "1": 14,
+        "2": 7,
+        "3": 12,
+        "4": 10,
+        "5": 29
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/YkAXVNaEcFbulQ2_YaAAVHm5jbsPpxcRERZpC9J4AgG-sTyicTbr5udLnxtQmYjiBA=h310",
+        "//lh5.ggpht.com/QSOuhf0UOOdwDGoq-c4r9mCuaJ6QyNFwtx-YcPOyKi5oqV6I4-qOxE1M3r7ZTSiwcmo=h310"
+    ],
+    "comments": [
+        "Game doesn't work for my u8",
+        "Pretty neat!",
+        "Nice app Loving it"
+    ],
+    "recentChanges": [
+        "Bug fixed",
+        "Design improved"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.cyrilleguipie.rolldice&hl=en&gl=us",
+    "appId": "org.cyrilleguipie.rolldice"
+}

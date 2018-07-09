@@ -1,0 +1,54 @@
+{
+    "title": "Track My Train UK",
+    "summary": "TRACK a UK train service to receive real time notifications.",
+    "icon": "//lh3.googleusercontent.com/aYKbEjdX0WXiXhvmFFyZUbtOh0SJC_4FMoSVGjDs1VHyuX1oyt7UAja8C2ceOJBwaGk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3,
+    "reviews": 10,
+    "developer": "Apps by Ross Beazley",
+    "developerId": "Apps+by+Ross+Beazley",
+    "developerEmail": "apps@rossbeazley.co.uk",
+    "developerWebsite": "http://www.rossbeazley.co.uk/index.html",
+    "updated": "August 2, 2016",
+    "version": "3.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Need to catch a train?In a hurry?Worried you'll be late?Search on your mobile for specific train departures from any UK station and use the real time notifications to keep you up to date with its status.A dedicated service tracking app on your android wear reduce distractions, allowing your to cycle, drive walk or run to your preferred station without having to keep checking your mobile No more reaching the station only to find the train you rushed to catch is running late; Track My Train keeps you up to date with any service's progress.There is a beta version of the app available with newer features, sign up here: https://play.google.com/apps/testing/uk.co.rossbeazley.trackmytrain.androidPlease help buy new server hosting by donating here https://crowdfunding.justgiving.com/ross-beazley",
+    "descriptionHTML": "Need to catch a train?<br>In a hurry?<br>Worried you&apos;ll be late?<br><br>Search on your mobile for specific train departures from any UK station and use the real time notifications to keep you up to date with its status.<br><br>A dedicated service tracking app on your android wear reduce distractions, allowing your to cycle, drive walk or run to your preferred station without having to keep checking your mobile <br><br>No more reaching the station only to find the train you rushed to catch is running late; Track My Train keeps you up to date with any service&apos;s progress.<br><br><br>There is a beta version of the app available with newer features, sign up here: https://play.google.com/apps/testing/uk.co.rossbeazley.trackmytrain.android<br><br><br><br>Please help buy new server hosting by donating here https://crowdfunding.justgiving.com/ross-beazley",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/IaP8IMLE9FkYFXTuDmmzQKolD_JwzhImvNS0PihRt_JopH8eYgKyYKUxtRqna8RbKYMW=h310",
+        "//lh3.googleusercontent.com/4tgTyyyNBcNkIYG7rOTKkw16GDq4L9VUvNGbc9Wn1pM_6-yRDfez4NweM--QuxJ2jQ=h310",
+        "//lh3.googleusercontent.com/eHcxQvekyVA1OptHZKG5_19yaJTkHcuvQZDYtq-ltScMFsjmv2A6-Jw2Xhum3_81dkQ=h310",
+        "//lh3.googleusercontent.com/9PR95XY6Qy-rgK3vKRMCxJLs7ta8BQN_FwF8lmcd_NiKvN8TGb_CVASNllM21lSebg=h310"
+    ],
+    "comments": [
+        "I tested this today and it does work. My late train was updated as the platform information changed. I am surprised there is no free app with more features like checking station times on the watch instead of keep having to go to the phone. I feel android Wear is still in infancy.",
+        "Your better off guessing. Poor.",
+        "Doesn't work😕",
+        "Fantastic app! Incredibly useful app. Has a great design with a nice Material Design UI. Excellent Android Wear app.",
+        "Good app Handy app less faff than the national rail one",
+        "Very nice app with a great UI. The tracking feature is quite handy to keep track of specific trains    However it would be nice if the functionality was expanded a touch, for instance the ability to favourite journeys (ie to and from work) would be quite useful to quickly check when the trains are and if their on time. Along the same lines a widget to quickly those journeys without having to open the app would be rather nice."
+    ],
+    "recentChanges": [
+        "Please help me raise £200 to improve the reliability of this free app.",
+        "https://crowdfunding.justgiving.com/ross-beazley"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.rossbeazley.trackmytrain.android&hl=en&gl=us",
+    "appId": "uk.co.rossbeazley.trackmytrain.android"
+}

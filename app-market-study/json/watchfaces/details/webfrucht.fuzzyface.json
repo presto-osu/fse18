@@ -1,0 +1,53 @@
+{
+    "title": "Fuzzy Face - Word Watch Face",
+    "summary": "A fuzzy word watch face in a plain colorfull design",
+    "icon": "//lh5.ggpht.com/N5s1IildSzzpAz32AeigI8PVVjLwnZvTlbIL2B2dal7GFQbUI5u-CAKay3XvcGufbs0=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 16,
+    "developer": "Webfrucht Development",
+    "developerId": "Webfrucht+Development",
+    "developerEmail": "development@webfrucht.de",
+    "developerWebsite": "http://www.webfrucht.de",
+    "developerAddress": "Andreas Schwarzbauer\nFlemingstrasse 15b\nHoesbach, Bayern 63768\nGermany",
+    "updated": "February 9, 2015",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "You like a simple and plain design ? You like a fuzzy watch face ?Then this is your new watch face !Excellent readability either in black or white or with a set of nice color combinations. With several types of shapes it is looking great on square and round watches.* Watch Face available in 5 languages: English, Deutsch, Español, Français, Português* Works with round and square watches* With date and battery indicators* Configuration available on the watchNOTE: Please make sure your watch is running Android Wear 5.0.",
+    "descriptionHTML": "You like a simple and plain design ? You like a fuzzy watch face ?<br><br>Then this is your new watch face !<br><br>Excellent readability either in black or white or with a set of nice color combinations. <br>With several types of shapes it is looking great on square and round watches.<br><br>* Watch Face available in 5 languages: English, Deutsch, Espa&#xF1;ol, Fran&#xE7;ais, Portugu&#xEA;s<br>* Works with round and square watches<br>* With date and battery indicators<br>* Configuration available on the watch<br><br>NOTE: Please make sure your watch is running Android Wear 5.0.",
+    "histogram": {
+        "1": 1,
+        "2": 3,
+        "3": 1,
+        "4": 4,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/wnRVi-sxSt3lFkLfgOEcS898gfHMwI80w6850L_TPm4kZZa13YwHrK49Fcmy3T8hFl8=h310",
+        "//lh4.ggpht.com/AmYDzy8wAPOK74-MyiKYh6_nLefMVbH50HI64MDgeHHV0V-n1fd7W_gwU6dsrBJL2Q=h310",
+        "//lh5.ggpht.com/qfgSAGj-rxjqgSZtVl5YgNRmdtYAro84MXVuPBTg9LIZA9bfmuUUcTAM-tfJzdxJF_s=h310",
+        "//lh3.ggpht.com/KIoZ62-UmfGS-GTJuF6EW31qxrcEh1uYMTmuey1ApxPSE9sdV9KV2p2Ewm8LsufYhs0=h310"
+    ],
+    "comments": [
+        "Crashes The face crashes after one second",
+        "Very nice Really nice implementation of a general time watchface. Love the random feature.",
+        "Cards cover text (and date)",
+        "Customizable and Fully Featured Best fuzzy watch face available.",
+        "Really great The fuzzy language is better than I've experienced in other fuzzy watch faces, and the ability to switch colours and styles using the watch is nice (though the actual colour combinations available aren't really to my taste). If you like this style of reading the time, it's worth the money."
+    ],
+    "recentChanges": [
+        "performance and api fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=webfrucht.fuzzyface&hl=en&gl=us",
+    "appId": "webfrucht.fuzzyface"
+}

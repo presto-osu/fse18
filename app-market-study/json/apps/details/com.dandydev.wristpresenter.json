@@ -1,0 +1,63 @@
+{
+    "title": "Wrist Presenter",
+    "summary": "Control your presentations wirelessly with Android Wear &amp; Pebble smart watches.",
+    "icon": "//lh3.ggpht.com/1NuTA9-TO8ucaHfZ8M2p8tT-jQ0qcwQGc4dXw5Q5ocfDwqLUo0Hp4d8XpU7Hcqtd8axM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.2,
+    "reviews": 53,
+    "developer": "Andrew Dyer",
+    "developerId": "9175370063155225096",
+    "developerEmail": "abdyer@gmail.com",
+    "developerWebsite": "http://wristpresenter.com/",
+    "developerAddress": "1707 1/2 Post Oak Blvd #192\nHouston, TX 77056",
+    "updated": "March 31, 2015",
+    "version": "1.6.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Use your Android Wear or Pebble smart watch to control your presentations.NOTE: For wireless smart watch control you must have an Android Wear or a Pebble with at least version 2.0 firmware.Easily control your presentations wirelessly with your smart watch. A quick glance at your watch and you will instantly know what slide you are on and how many slides you have left. Change slides by pressing the previous/next buttons on the Android Wear screen or the top/bottom buttons on the right side of the Pebble.Connect to Google Drive to access your presentations. Currently, PDF, Google Drive presentations, and raw image formats are supported.To add raw image presentations, choose the \"Enable image presentations\" menu option for each Drive account. This will create a \"Wrist Presenter\" folder. Create a subfolder for each raw image presentation and upload the images into it on Google Drive. The folder name will be used for the presentation name and images will be ordered alphabetically based on their file names.When offline, any previously opened PDF or raw image presentations will be available. This makes it possible to use your presentations at conferences where network connectivity is often poor to nonexistent.View your presentations on a projector with a Chromecast, Miracast (http://www.amazon.com/gp/product/B00H2D3N0M/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H2D3N0M&linkCode=as2&tag=slacod-20), or an HDMI adapter (http://www.amazon.com/LinkS-Slimport-Adapter-optimus-infinity/dp/B00F8FGSOE/ref=pd_sim_e_6&tag=slacod-20) on compatible devices.Wrist Presenter is run by fellow smart watch enthusiasts Matthew Morey and Andy Dyer. Please send all bugs and feature requests to support@wristpresenter.com.",
+    "descriptionHTML": "Use your Android Wear or Pebble smart watch to control your presentations.<br><br>NOTE: For wireless smart watch control you must have an Android Wear or a Pebble with at least version 2.0 firmware.<br><br>Easily control your presentations wirelessly with your smart watch. A quick glance at your watch and you will instantly know what slide you are on and how many slides you have left. Change slides by pressing the previous/next buttons on the Android Wear screen or the top/bottom buttons on the right side of the Pebble.<br><br>Connect to Google Drive to access your presentations. Currently, PDF, Google Drive presentations, and raw image formats are supported.<br><br>To add raw image presentations, choose the &quot;Enable image presentations&quot; menu option for each Drive account. This will create a &quot;Wrist Presenter&quot; folder. Create a subfolder for each raw image presentation and upload the images into it on Google Drive. The folder name will be used for the presentation name and images will be ordered alphabetically based on their file names.<br><br>When offline, any previously opened PDF or raw image presentations will be available. This makes it possible to use your presentations at conferences where network connectivity is often poor to nonexistent.<br><br>View your presentations on a projector with a Chromecast, Miracast (http://www.amazon.com/gp/product/B00H2D3N0M/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00H2D3N0M&amp;linkCode=as2&amp;tag=slacod-20), or an HDMI adapter (http://www.amazon.com/LinkS-Slimport-Adapter-optimus-infinity/dp/B00F8FGSOE/ref=pd_sim_e_6&amp;tag=slacod-20) on compatible devices.<br><br>Wrist Presenter is run by fellow smart watch enthusiasts Matthew Morey and Andy Dyer. Please send all bugs and feature requests to support@wristpresenter.com.",
+    "histogram": {
+        "1": 30,
+        "2": 7,
+        "3": 2,
+        "4": 4,
+        "5": 10
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/m5IoIiTRFJy_wM8RUGWAXsXAog8zcZFoi44swtoakeGyyryVCGweOk5aRN2qg0KmQWvo=h310",
+        "//lh5.ggpht.com/dqbrRbjJuSqkDPfMDUus2BYP0TbbfU0oisZlH5YgsnqFauGEVspopAhz3UnAO9ubGQ=h310",
+        "//lh3.ggpht.com/yZiPfnbQN_uusLQzT6NIj4XyhxbCOo3NUBTe7B2SEaAr34PHj2L6wQ9pZR6GhWX9c9mf=h310",
+        "//lh5.ggpht.com/N5_GzgCUc-qhcfDGMgEo6sW9AGgXyPgW53KtUgnO6766xyRt3kSsR5NZZQoCKJLhEMoJ=h310",
+        "//lh4.ggpht.com/cefnje3VJj04c66jKrRUqFenlGFgF2oKJpwbso_YiKP736Jy5LTSpZjYEAuigQUfJ80e=h310",
+        "//lh3.ggpht.com/7k4OI3PmWj9jDtemQa_9LM2Fxs5WlNCHM_aQFbnTQ_AVpW6oDRYYEJIaAtOWfcQPAFo=h310",
+        "//lh4.ggpht.com/ma7ZUdh2rVWNu1jEe1ntHJJMFhZ9PRR_Zr1BAbhSTqP-0Af9yrhFWd5sfdJl0FxKOfE=h310",
+        "//lh4.ggpht.com/a6jcRmczgzbtozZMf5LVOI6MV3qqrvB2WsP8Kd5FPdoI5iNeYfLdVEAHoAweFwGATRI=h310",
+        "//lh3.ggpht.com/CqHS-Z13GNO_wXMHIfpe5NhuIdfvtEDbYGEfM7WEJfwxDg93sdTvpunQhSg4S-Sku4Y=h310",
+        "//lh6.ggpht.com/qjHPzmJgMgYz-_9GhnF3TRtrCRqZYOLCr_3j-_a-Pe7hM6cyXrNgjr37HatBtb4ylks=h310",
+        "//lh3.ggpht.com/uCjBLXI18rVXbcGd8rzl2r7U4kqWZ7JYBWBrk7GMKG5t4QqrCF2JrEm7M4puQQm_Xec=h310",
+        "//lh6.ggpht.com/aOlUF2csfxNCGbVUgLkpZBXWNEiAqhjGessgBCCnlD3jPLeimz1CrKfjOWnLtBYVtCjX=h310",
+        "//lh4.ggpht.com/qGnZljquqwg5aEpPWt5aR4DE_lkaTDFYGjB9m17hMMZz-5rarEKZ7aZAM1uoDuASsvl4=h310"
+    ],
+    "comments": [
+        "Does not work I don't enjoy writing one star reviews but unfortunately for this app I have to. Never does it ask to connect with Google Drive and no companion app is installed on the Lg of device(latest firmware). It would have been a great app if the developer would take these issues into consideration, and I will update my review I'd that ever happens.",
+        "Doesn't work The app never ask to connect to Google Drive, so I can't see my slides. I really need to use this app, so I will wait you to fix this and I will change my review if it works.",
+        "Does not work Next slide button does not work",
+        "Limited sliders, tell me before I downloaded",
+        "Does not work Very annoying app. Could not get to work at all on LG G3 plus LG G Watch R (latest firmware) using Google Drive and Google Slides. Totally useless and certainly not fit for purpose in a real world work situation. Deleted (accompanied by Nelson Munz punch to developer's rib cage).",
+        "Doesn't work This app will not access google drive or allow pebble to remotely control presentations. The programmers are aware of this yet still bill in app purchases."
+    ],
+    "recentChanges": [
+        "Updated to work with Pebble Time and the latest version of the Pebble firmware."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dandydev.wristpresenter&hl=en&gl=us",
+    "appId": "com.dandydev.wristpresenter"
+}

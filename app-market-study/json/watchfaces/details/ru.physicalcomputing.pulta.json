@@ -1,0 +1,56 @@
+{
+    "title": "Pulta the OBDII Watchface",
+    "summary": "Watchface with some OBDII functions.(For smartwatches, not for phones/tablets!)",
+    "icon": "//lh3.googleusercontent.com/kumZU3LL_sslW8fHxuBifPFs3rMlxRFeowzcpNKGMS5hnNRAKmo7ztKPMwhgejtCAiE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 8,
+    "developer": "Anatoly Besplemennov",
+    "developerId": "Anatoly+Besplemennov",
+    "developerEmail": "longtolik@gmail.com",
+    "developerWebsite": "http://www.physicalcomputing.ru",
+    "developerAddress": "Moskovskaya str., b.54 Vladikavkaz, RSO-Alania, 362047",
+    "updated": "April 22, 2017",
+    "version": "1.3",
+    "genre": "Auto & Vehicles",
+    "genreId": "AUTO_AND_VEHICLES",
+    "description": "The app connects your Android Wear smartwatch to your car ECU using Bluetooth ELM327 adapter directly, without any phones or tablets.First, do pair your watch (not a phone!) with the adapter as it's shown on the pictures. (Pairing devices is the Android OS's job, not the app's one).If the app does not work please try to do following:- unpair all Bluetooth devices from your watch;- pair your ELM327 adapter,  try codes 1234 or 0000 (or other known from your adapter's supplier) it's needed just because the Android Wear will not show the error message if the code is wrong! The app assumes the name  begins with \"OBD\" letters (further don't matter). If not, please report and the app may be edited.The interactive watch face was tested with LG G Watch, Asus Zenwatch, Zenwatch 3 and Mini-Bluetooth adapters.To switch the mode, press the left/right parts of the watch screen, to turn the Bluetooth connection on/off please tap the center ring.Notes.1. Do not drive while playing with the app.2. ELM327 V2.1 may work or not. Author tested a cheap Mini-Bluetooth adapter, it works just fine.3. You can change the items colors using your phone (companion Android Wear app) and background color on the watch directly.",
+    "descriptionHTML": "The app connects your Android Wear smartwatch to your car ECU using Bluetooth ELM327 adapter directly, without any phones or tablets.<br>First, do pair your watch (not a phone!) with the adapter as it&apos;s shown on the pictures. (Pairing devices is the Android OS&apos;s job, not the app&apos;s one).<br><br>If the app does not work please try to do following:<br>- unpair all Bluetooth devices from your watch;<br>- pair your ELM327 adapter,  try codes 1234 or 0000 (or other known from your adapter&apos;s supplier) it&apos;s needed just because the Android Wear will not show the error message if the code is wrong! The app assumes the name  begins with &quot;OBD&quot; letters (further don&apos;t matter). If not, please report and the app may be edited.<br><br>The interactive watch face was tested with LG G Watch, Asus Zenwatch, Zenwatch 3 and Mini-Bluetooth adapters.<br>To switch the mode, press the left/right parts of the watch screen, to turn the Bluetooth connection on/off please tap the center ring.<br><br>Notes.<br>1. Do not drive while playing with the app.<br>2. ELM327 V2.1 may work or not. Author tested a cheap Mini-Bluetooth adapter, it works just fine.<br>3. You can change the items colors using your phone (companion Android Wear app) and background color on the watch directly.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/8bDbFeIpDiSOBTmWP1XW89A5My0dUZcfJmRgOM787hT9oVorOoQ3QrdzajuRrFmsfe4=h310",
+        "//lh3.googleusercontent.com/6NHYIa90MaaG9XNhv6Czwv26ODw90VcdHNWyMO_rVUUagJu9qGwyxXQlz0s1qhZwIxc-=h310",
+        "//lh3.googleusercontent.com/CfV5AjOco4LyOuZQJEkDMYI6uwrAa-XgPfDmeJR4IiIRMQowOcXI4vzgT_0xUfBhGAE=h310",
+        "//lh3.googleusercontent.com/3E8ePdnTJ6vS3Th0hrZwHFXusOypVK7_2URUPWZqJxcxcf-Car5o8HSPwacF7qjfrA=h310",
+        "//lh3.googleusercontent.com/1AzQLf7Fb7EMyogykCCJToOvZv0NPYXCWK8f9z6KZSkLpk_mR1WVpU9KzG96_mVJVfg=h310",
+        "//lh3.googleusercontent.com/Xn_S5AirSISxcladFjydWplS_KM6FH4zyfUkgpN84R34dD1mr9kT_CgDq6KLPX9coQ=h310",
+        "//lh3.googleusercontent.com/Zj6YFJ3uokSymQ26513fO-DcT-dsDBSaDLf9cdHO7p7iiw-UKRgo_gHUeFQT_TNfT6_t=h310",
+        "//lh3.googleusercontent.com/4bi5T_35z6yyTYF1yfAvAcDh_KRQ4frxDjHQNn5MUoYSCM3cBuCkW-0Q381mRh-40nM=h310"
+    ],
+    "video": "https://www.youtube.com/embed/VxMhna1aKZk",
+    "comments": [
+        "Works great I love it! Awesome, works exactly as advertised. Displays engine data on my Asus Zenwatch 2 from my cheap obd2 Bluetooth device",
+        "Nice"
+    ],
+    "recentChanges": [
+        "Cleaned bugs for ELM-327 Bluetooth adapters V1.",
+        "Please select the items colors on your taste using the companion device and Android Wear app for smartphones/tablets."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ru.physicalcomputing.pulta&hl=en&gl=us",
+    "appId": "ru.physicalcomputing.pulta"
+}

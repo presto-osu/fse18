@@ -1,0 +1,53 @@
+{
+    "title": "Dx1 WatchFace",
+    "summary": "Simple Digital with Analog style combo.For Android Wear only",
+    "icon": "//lh3.googleusercontent.com/LvCtVMEs1VAyXIrcYsmalN_MJbr2JgbUg5TFEP7zyJ7GHQ7uYGzgRUqxGekK063yYv8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 3,
+    "developer": "GoonzMobile",
+    "developerId": "GoonzMobile",
+    "developerEmail": "cyberdenzx@gmail.com",
+    "developerWebsite": "http://www.goonzmobile.com",
+    "developerAddress": "C5 B59 L21 Cattleya Street,\nGrand Centennial Homes,\nKawit 4104,\nCavite,\nPhilippines",
+    "updated": "January 31, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "The watch face which combines the simplicity of analog and digital.v1.2• Added lock featurev1.1• Display colors now changeable• Tap on the right half of the display to change colors• Tap on the left half of the display to change 12hr/24hrv1.0• Minimal design• Ambient dots visible• Interactive change between 24Hr and 12Hr formats  (Tap on the \"time\" area to switch)• Hour, minute and seconds displayed as circles in varying sizes.",
+    "descriptionHTML": "The watch face which combines the simplicity of analog and digital.<br><br>v1.2<br>&#x2022; Added lock feature<br><br>v1.1<br>&#x2022; Display colors now changeable<br>&#x2022; Tap on the right half of the display to change colors<br>&#x2022; Tap on the left half of the display to change 12hr/24hr<br><br>v1.0<br>&#x2022; Minimal design<br>&#x2022; Ambient dots visible<br>&#x2022; Interactive change between 24Hr and 12Hr formats<br>  (Tap on the &quot;time&quot; area to switch)<br>&#x2022; Hour, minute and seconds displayed as circles in varying sizes.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/pNUwripc3KkYbndOwiroKEyv5ZKLN4ATH7jM8-R-fCxKh4yQuaNybYGtjuXy1RIOobHk=h310",
+        "//lh3.googleusercontent.com/2DMOF0CbNZmM3JWQeHf7rShW-JbcLEH-WxU1sQdtM7IKlot5FFhFcTjFWLnIXDT9zyC1=h310",
+        "//lh3.googleusercontent.com/BxsZ9vEfJ1G22SSkWTBxams9PDDCYLJh6n98moeupQrlhoWS8dGvI1r9bzaOdaflJA=h310",
+        "//lh3.googleusercontent.com/E8ugk-arBh2NpaBx6n08kZH8YRla8YuIgX87wgG2KFfUAmdcrNurTFZRntFMrpahxQ=h310",
+        "//lh3.googleusercontent.com/DVMLcfFEkSn9sbdQTFgR4MkmIh8hWym-6Vxf2TV4ymyOaljvbfh2IHfTGewUgcBXR-c=h310",
+        "//lh3.googleusercontent.com/drKVWLqKTs5uHWJ5PXyJG6yjYjZA7jKYaYfx0r-EXSPEr54E6PDgtOmqTPsaAY386Rg=h310",
+        "//lh3.googleusercontent.com/Qcc6tv-gLLKd3p2ETTrqP6wz0nPTd5qPi8yaQSZexkBIp5pg13TqMBXu5QKBtn8XS00C=h310"
+    ],
+    "comments": [
+        "Simple and functional Easy to change colors, minimal battery use in specially ambient mode."
+    ],
+    "recentChanges": [
+        "- updated for Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.goonzmobile.wear.dx1watchface&hl=en&gl=us",
+    "appId": "com.goonzmobile.wear.dx1watchface"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Misys Watch Face",
+    "summary": "Corporate T-Shirts are so 90s. Wear a corporate Misys Smart Watch instead :)",
+    "icon": "//lh3.googleusercontent.com/5gk-n6dG5E9L9GSt1VsTQJJQwa_1CLpdUvlBGdzQ9bTYkUanWJWdoOcRhT3i1zhJ_g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 5,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerWebsite": "http://www.seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "September 7, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A gift to our colleagues at Misys, and whoever loves our brand.You will notice gradient colors spin one turn per minute.This face display Hours, Minutes, Seconds, Day of the Week, Month and Day of the month.Art Director: Yoan MamanGrease Monkey: JC Jollant",
+    "descriptionHTML": "A gift to our colleagues at Misys, and whoever loves our brand.<br><br>You will notice gradient colors spin one turn per minute.<br>This face display Hours, Minutes, Seconds, Day of the Week, Month and Day of the month.<br><br>Art Director: Yoan Maman<br>Grease Monkey: JC Jollant",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/P-F3qzgln8v4gZqkcX0A0F6RAhXXAeiNOAq-pUiuPiueSnvXYe8ACOTaF5ZUc53Xqsk=h310",
+        "//lh3.googleusercontent.com/2QFi49pVXdbvC0Nnq5Om589jhuWrNlMAP9gydv7TjsqYxblbcGBqg0TuXo605Pk0Zw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Improved ambient mode with date, without seconds",
+        "Fixed missing date after system upgrades"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.misys_face&hl=en&gl=us",
+    "appId": "com.seenapps.misys_face"
+}

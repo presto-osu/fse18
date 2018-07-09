@@ -1,0 +1,67 @@
+Soot started on Thu Jun 21 13:32:33 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: uk.co.rossbeazley.watchview.WatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/uk.co.rossbeazley.wear.apk
+[INFO] MySceneTransformer: ############## uk.co.rossbeazley.watchview.WatchFaceService$RotateEngine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   244
+[INFO] FlowGraph: @@@@ Total Methods: 709
+[INFO] FlowGraph: @@@@ Total Stmts:   5781
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12024339,-12797356,-16730185,-65536,-1,-736755,-16777216])
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-1, -16777216, -12024339, -16730185, -12797356, -736755, -65536]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-1, -16777216, -12024339, -16730185, -12797356, -736755, -65536]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [red, ff3cba54, ff00b7b7, fff4c20d, ff4885ed]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [red, ff3cba54, ff00b7b7, fff4c20d, ff4885ed]
+[INFO] MySceneTransformer: colors equal=true
+[INFO] MySceneTransformer: TOTAL TIME: 29.651000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:33:07 EDT 2018

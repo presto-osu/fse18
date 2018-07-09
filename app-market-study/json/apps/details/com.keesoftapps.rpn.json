@@ -1,0 +1,53 @@
+{
+    "title": "RPN Calculator for Wear",
+    "summary": "A powerful RPN calculator designed for the Moto 360.",
+    "icon": "//lh3.ggpht.com/uaSaTJ8yLo8HjOhUaEug5HmrMHb0cUmzYt1Den0Cms1bjsOoSqSeMK-hmAL4N_deaQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.4,
+    "reviews": 52,
+    "developer": "Keesoft Apps",
+    "developerId": "Keesoft+Apps",
+    "developerEmail": "keesoftapps@gmail.com",
+    "updated": "January 19, 2015",
+    "version": "1.04",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "RPN Calculator is a powerful scientific calculator with the look and feel of a classic Hewlett-Packard calculator. RPN Calculator was designed from the start for the Moto 360's round screen and chin. The calculator's display is positioned in the center of the screen for best viewing on a round screen and the keys are arranged in a logical order around the display. Not only is RPN Calculator a powerful problem solver, it looks great too.Features: • Reverse Polish Notation (RPN) operating logic, the most efficient solution for evaluating mathematical expressions • Transcendental functions: Exponential, Logarithm, Trigonometric, and Hyperbolic • Statistical functions: Mean, Standard Deviation, and Linear Regression • Polar and Rectangular Coordinate Conversions • Factorial, Percentage, and Percent Difference • Time and Angle Conversions • By using two shift keys all functions are on one screen and are easy to find and use • The keys are arranged as a basic four function calculator and most simple calculations can be done without using the shift keysPlease note:RPN Calculator requires an Android Wear watch to run. The app that's installed on your phone or tablet is the installer only and does not run the calculator. RPN Calculator will be installed on your watch and ready to use when paired.Right now RPN Calculator only works on the Moto 360, LG G, and LG G Watch R. I'll soon be offering a version with a GUI that looks great on all Android Wear watches.",
+    "descriptionHTML": "RPN Calculator is a powerful scientific calculator with the look and feel of a classic Hewlett-Packard calculator. RPN Calculator was designed from the start for the Moto 360&apos;s round screen and chin. The calculator&apos;s display is positioned in the center of the screen for best viewing on a round screen and the keys are arranged in a logical order around the display. Not only is RPN Calculator a powerful problem solver, it looks great too.<br><br><br><b>Features:</b><br>&#x2003;&#x2022;&#x2003;Reverse Polish Notation (RPN) operating logic, the most efficient solution for evaluating mathematical expressions<br>&#x2003;&#x2022;&#x2003;Transcendental functions: Exponential, Logarithm, Trigonometric, and Hyperbolic<br>&#x2003;&#x2022;&#x2003;Statistical functions: Mean, Standard Deviation, and Linear Regression<br>&#x2003;&#x2022;&#x2003;Polar and Rectangular Coordinate Conversions<br>&#x2003;&#x2022;&#x2003;Factorial, Percentage, and Percent Difference<br>&#x2003;&#x2022;&#x2003;Time and Angle Conversions<br>&#x2003;&#x2022;&#x2003;By using two shift keys all functions are on one screen and are easy to find and use<br>&#x2003;&#x2022;&#x2003;The keys are arranged as a basic four function calculator and most simple calculations can be done without using the shift keys<br><br><br><b>Please note:</b><br>RPN Calculator <b>requires an Android Wear watch</b> to run. The app that&apos;s installed on your phone or tablet is the installer only and <b>does not</b> run the calculator. RPN Calculator will be installed on your watch and ready to use when paired.<br><br><br>Right now RPN Calculator only works on the Moto 360, LG G, and LG G Watch R. I&apos;ll soon be offering a version with a GUI that looks great on all Android Wear watches.",
+    "histogram": {
+        "1": 8,
+        "2": 11,
+        "3": 7,
+        "4": 5,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/g9uBsc_N98vh67oGlNhva5Qnmol8aUiI4FbUhpL16ByqEklbbth5fiLRggGiWCCXkeg=h310",
+        "//lh6.ggpht.com/qFbcSk7vDb-iOsvwrfir64pRJ71H4ezqy4yPovxQLbnLkJNJWdmC85OPaRs9lNWTJQ=h310",
+        "//lh4.ggpht.com/aec9RMe5jMkpvU32psHSa2fPB4uud7mrRc7fiBJKc9m7pfO_JkD10Qy3xR_NGc4A9A=h310",
+        "//lh5.ggpht.com/wNq2FWEenAtcUCFJT3FvfpCZaS5vVwdxY9cCnmrl-X-kv9ZqP381SPMC79rBLsThrO4=h310",
+        "//lh4.ggpht.com/aQ3ldKWW42xGcYh7UhQTW2R2eXK3WEtBQWCJOgYIEJV5VHqk2B5zzlUvjE50b6tIOg=h310"
+    ],
+    "comments": [
+        "The app is broken on my Moto 360 Sport. The buttons are unresponsive and there appears to be a secondary digit display overlaying the top buttons. Uninstalling and reinstalling did not fix the issue.",
+        "Still doesn't work right on SW3 Over 10 months ago you said you'd release a version that would work on a Smarwatch 3.  What's the problem?  The picture in the store of the square layout looks Great.  Please let us use it...",
+        "It does not work on my LG watch. Please fix as I would love to have a calculator like this on my watch. If it helps, there looks to be a screen in front of the f & g keys and now buttons work.",
+        "Excellent Implemenation I was so afraid that I'd be stuck with some generic standard calculator on my LG G Watch R.  This does the job and is consistent with the HP calculators we all know and love.  Well done.",
+        "Doesn't work on the huawei watch I'll give it a 3, in order to be neutral. Just wanted to let you know that it isn't compatible on the huawei watch.",
+        "Don't promise and never deliver Don't promise and show a square screen, but not have it implemented, nor an update out that puts it into motion. Don't lie to your customers. Last updated 1/19/2015"
+    ],
+    "recentChanges": [
+        "Added support for the LG G watch."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.keesoftapps.rpn&hl=en&gl=us",
+    "appId": "com.keesoftapps.rpn"
+}

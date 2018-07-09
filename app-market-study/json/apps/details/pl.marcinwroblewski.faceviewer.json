@@ -1,0 +1,53 @@
+{
+    "title": "Wearblue",
+    "summary": "Always wanted to check your Wall on your wearable? Now it&#39;s possible!",
+    "icon": "//lh3.googleusercontent.com/iOOwKs5G-uCo-xeQDrr3fuowZr5Q8NUnDP4dafbuHUD3oXLgyfQw4I8YVR5-iEUb9B8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 16,
+    "developer": "Marcin Wróblewski",
+    "developerId": "Marcin+Wr%C3%B3blewski",
+    "developerEmail": "nicram606@gmail.com",
+    "developerWebsite": "http://marcinwroblewski.16mb.com",
+    "developerAddress": "Polska, Jastrzębie-Zdrój 44-335, ul. Pomorska 91",
+    "updated": "March 28, 2017",
+    "version": "1.0.7",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "description": "Become a ninja user of the biggest social network and read posts from your wrist. Let's be clear - there's no app like this and this is for free!This app displaing posts that belongs to the biggest social network at this time.It can provide critical infos.You don't want to miss them? Download the app so you can have access to it on you watch everytime!",
+    "descriptionHTML": "Become a ninja user of the biggest social network and read posts from your wrist. Let&apos;s be clear - there&apos;s no app like this and this is for free!<br><br>This app displaing posts that belongs to the biggest social network at this time.<br>It can provide critical infos.<br>You don&apos;t want to miss them? Download the app so you can have access to it on you watch everytime!",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 1,
+        "4": 4,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LOWotZvrxTByUaIEhWveIBjQjonR6fqvV7TgQGKJgvZxRkDu3trpt5roxhnfwnv1cgw=h310",
+        "//lh3.googleusercontent.com/AWPbs7xH5T2VHdKFmWcwquFw3CrfasdnjUDP3ZBv7bLiPEOkPEdGi3EaGmhLqOCXZA=h310",
+        "//lh3.googleusercontent.com/2l6BAdi4_g7531wCfQ19NOu0QJgxaxcyu1GvJYoYIYIKyqNEmQ7pdKG9EpWr9Lgd6w=h310"
+    ],
+    "comments": [
+        "It's ok, but would be great to have: - option to fetch only 'top stories' rather than just 'most recent' - option to filter out some accounts (some just post pictures, pretty useless with this app) - pull in pictures (and if it's a link - then follow up with metadata preview like FB does)",
+        "I like this app, would be better with your friend statuses or even just pictures for who I'm following pages.",
+        "New version works well The updated version works well, but only shows post from pages, not people. Guessing this is something you are working on? Looking forward to the next update, thanks for the hard work",
+        "Does not work!! An I registered like the instructions said but still will not work...waste of time.",
+        "Doesn't work Just get a notification saying it can't get any notifications and I should check my phone has an internet connection. Even though Facebook is running fine on my phone.",
+        "I hope it gets working, because it's long overdue for the platform. But at this point it just says I don't have Internet when I'm on home wifi"
+    ],
+    "recentChanges": [
+        "Translation improvement"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.marcinwroblewski.faceviewer&hl=en&gl=us",
+    "appId": "pl.marcinwroblewski.faceviewer"
+}

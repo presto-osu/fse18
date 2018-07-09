@@ -1,0 +1,45 @@
+{
+    "title": "QRClock",
+    "summary": "It is necessary to bar code reader app to know the time, is nonsense watch.To watch face of Android Wear support.",
+    "icon": "//lh3.googleusercontent.com/lhlCuuNwWuDN8mrKXj97cemqE40ahrXLrVLgspSqmnKYtrDf9M0fnlhEg9HVxno4HFoY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.3,
+    "reviews": 3,
+    "developer": "moduler",
+    "developerId": "moduler",
+    "developerEmail": "android.dev@loves8bit.net",
+    "updated": "February 8, 2016",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "時間を知るためにバーコードリーダーアプリが必要となる、ナンセンスな時計です。ホーム画面にウィジェットとして配置することができます。Android Wearのウォッチフェイスにも対応していますので、ギークな感じを演出したいときにおすすめ！あまりに実用性に欠けるので、設定で人間が読める数字をうっすらと表示する機能も付けました。デジタル表示の設定をすると、かろうじて時計として使えます。",
+    "descriptionHTML": "&#x6642;&#x9593;&#x3092;&#x77E5;&#x308B;&#x305F;&#x3081;&#x306B;&#x30D0;&#x30FC;&#x30B3;&#x30FC;&#x30C9;&#x30EA;&#x30FC;&#x30C0;&#x30FC;&#x30A2;&#x30D7;&#x30EA;&#x304C;&#x5FC5;&#x8981;&#x3068;&#x306A;&#x308B;&#x3001;&#x30CA;&#x30F3;&#x30BB;&#x30F3;&#x30B9;&#x306A;&#x6642;&#x8A08;&#x3067;&#x3059;&#x3002;<br>&#x30DB;&#x30FC;&#x30E0;&#x753B;&#x9762;&#x306B;&#x30A6;&#x30A3;&#x30B8;&#x30A7;&#x30C3;&#x30C8;&#x3068;&#x3057;&#x3066;&#x914D;&#x7F6E;&#x3059;&#x308B;&#x3053;&#x3068;&#x304C;&#x3067;&#x304D;&#x307E;&#x3059;&#x3002;<br><br>Android Wear&#x306E;&#x30A6;&#x30A9;&#x30C3;&#x30C1;&#x30D5;&#x30A7;&#x30A4;&#x30B9;&#x306B;&#x3082;&#x5BFE;&#x5FDC;&#x3057;&#x3066;&#x3044;&#x307E;&#x3059;&#x306E;&#x3067;&#x3001;&#x30AE;&#x30FC;&#x30AF;&#x306A;&#x611F;&#x3058;&#x3092;&#x6F14;&#x51FA;&#x3057;&#x305F;&#x3044;&#x3068;&#x304D;&#x306B;&#x304A;&#x3059;&#x3059;&#x3081;&#xFF01;<br><br>&#x3042;&#x307E;&#x308A;&#x306B;&#x5B9F;&#x7528;&#x6027;&#x306B;&#x6B20;&#x3051;&#x308B;&#x306E;&#x3067;&#x3001;&#x8A2D;&#x5B9A;&#x3067;&#x4EBA;&#x9593;&#x304C;&#x8AAD;&#x3081;&#x308B;&#x6570;&#x5B57;&#x3092;&#x3046;&#x3063;&#x3059;&#x3089;&#x3068;&#x8868;&#x793A;&#x3059;&#x308B;&#x6A5F;&#x80FD;&#x3082;&#x4ED8;&#x3051;&#x307E;&#x3057;&#x305F;&#x3002;<br>&#x30C7;&#x30B8;&#x30BF;&#x30EB;&#x8868;&#x793A;&#x306E;&#x8A2D;&#x5B9A;&#x3092;&#x3059;&#x308B;&#x3068;&#x3001;&#x304B;&#x308D;&#x3046;&#x3058;&#x3066;&#x6642;&#x8A08;&#x3068;&#x3057;&#x3066;&#x4F7F;&#x3048;&#x307E;&#x3059;&#x3002;",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hiVqkqYTMyqZCb_TrJE3U7VPWP-LsJ7z-o6pVxWkh7jRxB7X2VICgKxVXXOx3KcizLk=h310",
+        "//lh3.googleusercontent.com/eS5CjAVeBGnW1uAmV6hGnvsRnjU1Qu5QJvdTut1LCxCM2PcdlrzFGqO5Mxysxt_1uzsR=h310",
+        "//lh3.googleusercontent.com/8KaFKOZboV69ZyqGphtqog_euqrDSCQBh23Ask79lkzprBBNgdFbxoKpwCMPUleaVlLJ=h310",
+        "//lh3.googleusercontent.com/ibF5AVGr0Y-4lj7H6wWelrqLNUT39H3pfl5-_-wIspuoxI8r8bcEsmV3yYiJ7Yjs4A=h310"
+    ],
+    "comments": [
+        "このアプリわ良いです"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.loves8bit.qrclock&hl=en&gl=us",
+    "appId": "net.loves8bit.qrclock"
+}

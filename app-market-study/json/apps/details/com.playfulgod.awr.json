@@ -1,0 +1,52 @@
+{
+    "title": "Rebooter for Android Wear",
+    "summary": "Reboot app for Android Wear and most other devices.",
+    "icon": "//lh5.ggpht.com/cc-IiYCxj42OCn4L7RLtgPOOEWd3Wo0hJdTtcljU_pngQZM92IR8uaHKlDfLUOzwyLPq=w300",
+    "price": "$1.25",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.8,
+    "reviews": 9,
+    "developer": "PlayfulGod",
+    "developerId": "PlayfulGod",
+    "developerEmail": "playfulgod@gmail.com",
+    "developerWebsite": "http://unleashedprepaids.com",
+    "developerAddress": "3617 Winland Dr\nDalton, GA 30721",
+    "updated": "August 18, 2014",
+    "version": "1.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app gives reboot options for Android Wear devices (mainly the watches at the moment).This app requires root!!!Currently supported devices:Android Wear Supported:*LG G Watch*Samsung Gear Live*Should work on the Moto 360 (when released).Android Mobile Support:*Most devices out.The app gives the following reboot options:*Reboot*Reboot to recovery*Reboot to bootloader*Power Off",
+    "descriptionHTML": "This app gives reboot options for Android Wear devices (mainly the watches at the moment).<br><br>This app requires root!!!<br><br>Currently supported devices:<br><br>Android Wear Supported:<br>*LG G Watch<br>*Samsung Gear Live<br>*Should work on the Moto 360 (when released).<br><br>Android Mobile Support:<br>*Most devices out.<br><br>The app gives the following reboot options:<br><br>*Reboot<br>*Reboot to recovery<br>*Reboot to bootloader<br>*Power Off",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/tz4_Nmz2WsBMjje6b2D8gRmK97nl04if0WCcPwkPtTREXGkOuO4N0YN0UPJUWDn6bqM=h310",
+        "//lh6.ggpht.com/OMZyI7G-U1pzIkK4WJL09L-BAqeOTPvTctfvPVHlnGIizqhhgrwwiJkrJvoZKVvngA=h310",
+        "//lh6.ggpht.com/6mfMTfWlGx-vrVNlNeSbucLfJ7HrP7arSYLPlqK6Nrlz0-gzfGabu16nJzJ0Aa61MN4=h310",
+        "//lh4.ggpht.com/YKQD7zR-iZID2yhTiDoFDcjiXzUjZbU14IFGPBAG8P0ClKHf4wK0XDKpAKVf0rp5Iop-=h310",
+        "//lh5.ggpht.com/WGrgC8YqWKepbq13vwRbirl-t054Cr8vSCr4U7oiNFEp2-OqDTOns0cbyBrNqCN8RTGo=h310"
+    ],
+    "comments": [
+        "Doesn't work at all.",
+        "Great app thanks",
+        "Not working"
+    ],
+    "recentChanges": [
+        "Reworked button images"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.playfulgod.awr&hl=en&gl=us",
+    "appId": "com.playfulgod.awr"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Reflective Scenery",
+    "summary": "Keep the world in your pocket. A small watch that reflects your surroundings.",
+    "icon": "//lh5.ggpht.com/XbVkgl8jJryHCg-lULpf9700zpjSlKTewz8WOFoT8HMjEbfyJVH-BwRWGlPSTz-dH3Gk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.8,
+    "reviews": 102,
+    "developer": "Xlythe",
+    "developerId": "5169167096263035875",
+    "developerEmail": "support@xlythe.com",
+    "developerWebsite": "http://www.xlythe.com",
+    "developerAddress": "1 Vista Montana #4422\n95134 San Jose, California",
+    "updated": "January 5, 2017",
+    "version": "1.5.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Reflective Scenery is an Android Wear watchface (and widget) that reacts to the real world. In the background, the sun arcs through the sky. As it sets, the sky changes colors before transitioning to night. Comes with 4 analog faces (and 1 digital face).If you buy pro ($0.99), you can choose your setting -- snow capped mountains or a city of sky scrappers. It also enables astronomy and weather data -- rain, snow, and clouds will appear on the watch, and the real sunrise and sunset will be used.",
+    "descriptionHTML": "Reflective Scenery is an Android Wear watchface (and widget) that reacts to the real world. In the background, the sun arcs through the sky. As it sets, the sky changes colors before transitioning to night. Comes with 4 analog faces (and 1 digital face).<br><br>If you buy pro ($0.99), you can choose your setting -- snow capped mountains or a city of sky scrappers. It also enables astronomy and weather data -- rain, snow, and clouds will appear on the watch, and the real sunrise and sunset will be used.",
+    "histogram": {
+        "1": 11,
+        "2": 12,
+        "3": 13,
+        "4": 17,
+        "5": 49
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/-E60Dvv4-OyLZpzbqFKEAyoMC11VANjOzFOUXS-lsejouY-e7tsj6gx0QDbMkxqJ7Z4=h310",
+        "//lh6.ggpht.com/YsZCrmxicTsGMxe3B8_FkhjrGIB3vcQ-eKgjitpP1I0IEjfft0GZqe8DkZu_Nz9bweE=h310"
+    ],
+    "comments": [
+        "No ambient mode Screen stays lit with background picture. This should be an option. For an OLED screen this will eat battery and potentially cause burn-in. Remember to set always on screen to off if you intend to use this. (In my opinion, that slightly defeats the purpose of having a watch.)",
+        "No ambient mode Stays the same in ambient mode. Might cause burn-in on OLED screens.",
+        "No dim mode. Without a dim mode this is useless with an AMOLED watch. Kiss your battery life goodbye.",
+        "Ambient doesn't work Watch face looks good, but in ambient mode, it just inverts the colors and you can't see the time. It also has a lot of white space, so it's not saving any battery. In other words, it's completely useless in ambient mode.",
+        "Not working! Just payed 80p for this face and it's not appearing on my Sony smartwatch 3 at all and isn't showing in my wear app, please resolve this issue or let me know if I have done anything incorrectly.",
+        "Simple and Clean I really like this watch face. Simple and clean. It actually stopped me from constantly staring at my watch is a good thing. I would love to maybe see more faces, changing the colors of the hands, and maybe a temperature reading for outside."
+    ],
+    "recentChanges": [
+        "v1.5.1",
+        "-Bugfix with weather",
+        "v1.5",
+        "-Add 'Forest' watchface",
+        "-Add animated weather on 'Forest' and 'Sakura Blossoms'",
+        "-Add configuration app on the watch itself",
+        "v1.3",
+        "-Add 'Sakura Blossoms' watchface"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.xlythe.clock.scene&hl=en&gl=us",
+    "appId": "com.xlythe.clock.scene"
+}

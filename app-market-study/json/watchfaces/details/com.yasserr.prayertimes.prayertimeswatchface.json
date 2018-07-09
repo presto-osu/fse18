@@ -1,0 +1,50 @@
+{
+    "title": "Prayer Times",
+    "summary": "Shows Muslim prayer times in a semi-analog watch face and time until next prayer",
+    "icon": "//lh6.ggpht.com/FlCyfSaRUECz4lrcKhT__IRHALi109v9DmauFniSCluWhOc9PCWlj2PVyfUalIHPww=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 34,
+    "developer": "Romman Media",
+    "developerId": "Romman+Media",
+    "developerEmail": "romman.media@gmail.com",
+    "updated": "January 13, 2015",
+    "version": "1.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Automatically detects prayer times based on your location, and can be setup to change the times based on different well known calculation methods. Prayer names are available in both Arabic and English.",
+    "descriptionHTML": "Automatically detects prayer times based on your location, and can be setup to change the times based on different well known calculation methods. Prayer names are available in both Arabic and English.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 5,
+        "4": 5,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/2-4td-Q8sqmZv4i3tOL1bXXj01V-N8NzGx-6m6CNAyG8GlxdSQmQ6pHTaVmxp7cHMcUX=h310",
+        "//lh4.ggpht.com/OBPj60N1_-ya3XBf5n8BDXyvCvxmfskeqRGG_LuFQUdkjSrCvteM6tMMOXYir1KUKZ8=h310",
+        "//lh6.ggpht.com/wLstGdyYuCm33Z4REytuUmWNZlYsC-rAgDvRQ7eZtva_68W0YJTmnnu6uojtZIKgrdFw=h310",
+        "//lh6.ggpht.com/a9drUqp78ljQ2JuPt9s0bXeknb1QJLi9r7HDAcSx5TvaX2VqycizR7y0buAOAP8l_XAK=h310"
+    ],
+    "comments": [
+        "Great stuff! Feature request: Please give option to see what actual time the next prayer will be. Right now it shows how much time is left such as 1 hr etc. This could be an option in the settings on 'Do you want time left or actual time for next prayer to show'.",
+        "Settings Timings are inaccurate. We need an option to set times manually please.",
+        "It needs It needs auto location I can't get the right times it was saying Isha after 9 min but Isha was 60 min",
+        "Good Best",
+        "Must have",
+        "Great"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.yasserr.prayertimes.prayertimeswatchface&hl=en&gl=us",
+    "appId": "com.yasserr.prayertimes.prayertimeswatchface"
+}

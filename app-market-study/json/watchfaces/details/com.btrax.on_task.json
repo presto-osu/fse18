@@ -1,0 +1,49 @@
+{
+    "title": "OnTask ToDo on Watch Face",
+    "summary": "OnTask is very simple ToDo task application for smart watch.",
+    "icon": "//lh5.ggpht.com/KjoIYdq0fug1T4hFo12fpikaEc3uSe8VsTCSsi5B3SJuzP5m1KyHPHwC5eBlk4v_ico=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.2,
+    "reviews": 4,
+    "developer": "btrax, Inc.",
+    "developerId": "btrax,+Inc.",
+    "developerEmail": "developer@btrax.com",
+    "developerWebsite": "http://ontask.btrax.com/",
+    "updated": "January 8, 2015",
+    "version": "0.8.6",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Welcome to OnTask!It’s the best way to engage in your most important tasks! Your top priority task will show up on your smartwatch until you complete it. Beautifully designed, simple to use, and fun to interact with your task reminder.Pro-Tip: Set OnTask as the home screen on your smartwatch. Speak or select your most important task. Now you are “on task.” The task will appear aside the watch on your home screen. When you complete the task, just swipe the task out. Now you can only select tasks with your smartwatch, but later we will update our mobile app to enable editing tasks. Stay tuned!source codehttps://github.com/btrax/on-task﻿",
+    "descriptionHTML": "Welcome to OnTask!<br>It&#x2019;s the best way to engage in your most important tasks! Your top priority task will show up on your smartwatch until you complete it. Beautifully designed, simple to use, and fun to interact with your task reminder.<br><br>Pro-Tip: Set OnTask as the home screen on your smartwatch. Speak or select your most important task. Now you are &#x201C;on task.&#x201D; The task will appear aside the watch on your home screen. When you complete the task, just swipe the task out. <br><br>Now you can only select tasks with your smartwatch, but later we will update our mobile app to enable editing tasks. Stay tuned!<br><br><br>source code<br>https://github.com/btrax/on-task&#xFEFF;",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/fWIV-Mxk_uOm42urWelD3-YLeZdE0Fy-g6kyF2b3cZkCOBIiIUbZl-vmlIqEuAhv4j0=h310",
+        "//lh3.ggpht.com/3Q0k9_2sf7rUfzNpm6EwHzO5kviatbO4VwWpVnm4FcZwn0YwVGTqx73GO4aKK_rkkvMv=h310",
+        "//lh3.ggpht.com/4QPNt85-BjGRyR3mq10qUIKgPxhmrXHx7Q1CmeEHqhTIISzTrDHZs1v4G8gowh3HYkXg=h310"
+    ],
+    "video": "https://www.youtube.com/embed/_n8M8xvyVMU",
+    "comments": [
+        "Potential Need a jet black background to take advantage of the lg watch r oled display plus make the second ticker red instead the minute ticker.",
+        "simple and great, thanks for sharing the source"
+    ],
+    "recentChanges": [
+        "update animation"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.btrax.on_task&hl=en&gl=us",
+    "appId": "com.btrax.on_task"
+}

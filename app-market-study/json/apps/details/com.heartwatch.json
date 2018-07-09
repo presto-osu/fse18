@@ -1,0 +1,51 @@
+{
+    "title": "HeartWatch",
+    "summary": "Remotely measure heart rate of your family or friends who have heart problems.",
+    "icon": "//lh3.googleusercontent.com/YJDXd_2GBtPdeD-D0CBMP2mqBAj_cTheC5KUAyN0s-P1cyTWuXahMtV53T6TrSJlaYU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 12,
+    "developer": "Borys Wojciechowski",
+    "developerId": "Borys+Wojciechowski",
+    "developerEmail": "heartwatchapp@gmail.com",
+    "updated": "June 28, 2015",
+    "version": "0.9.4.36",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "HeartWatch gives you a unique way to monitor the heart rate of elder people or anyone suffering from heart diseases. It allows you to request an instant, remote pulse measurement with just a single tap, at any time and from anywhere.❤ Features:• Remotely check the heart rate of your close friends and family members (they're required to have an Android Wear smartwatch equipped with a heart rate monitor).• Set automatic periodic heart rate measurements for them.• Choose a suitable measurement duration.• Receive notifications when your friend's heart rate goes out of a specified range.• Get quick access to contact data and GPS location of your friend in case of emergency.• Browse the history of measurements.• Inspect the data in charts.• Automatic activity recognition for measurements (walking, running, cycling, driving).• Android Wear integration, including a wearable app.• Start a heart rate check via voice command by speaking to your watch or phone (e.g. \"Ok Google, check my pulse\", \"Ok Google, what's my bpm?\" etc.).• Seamlessly sync measurements to Google Fit and integrate the data with other sources.The mail goal of HeartWatch is to measure and monitor someone else's pulse, but you can still use the app entirely alone, with limited functionality.Requirements:• An Android Wear smartwatch equipped with a heart rate monitor for you or your friend• Android Wear app (available in Play Store)• Google+ account for quick and secure sign-in• Internet connectionPlease remember: due to technical limitations, possible bugs and complexity of the cardiology field in general, this app can NOT be used as a reliable or credible source of medical information. Please read the full EULA in Settings. Thank you for your understanding.Screenshots contain sample and fictional data.Android Wear, Play Store, Google Fit & Google+ are registered trademarks of Google Inc.Author of the watch frame: Cyril Mottier (CC BY).",
+    "descriptionHTML": "HeartWatch gives you a unique way to monitor the heart rate of elder people or anyone suffering from heart diseases. It allows you to request an instant, remote pulse measurement with just a single tap, at any time and from anywhere.<br><br><br>&#x2764; Features:<br>&#x2022; Remotely check the heart rate of your close friends and family members (they&apos;re required to have an Android Wear smartwatch equipped with a heart rate monitor).<br>&#x2022; Set automatic periodic heart rate measurements for them.<br>&#x2022; Choose a suitable measurement duration.<br>&#x2022; Receive notifications when your friend&apos;s heart rate goes out of a specified range.<br>&#x2022; Get quick access to contact data and GPS location of your friend in case of emergency.<br>&#x2022; Browse the history of measurements.<br>&#x2022; Inspect the data in charts.<br>&#x2022; Automatic activity recognition for measurements (walking, running, cycling, driving).<br>&#x2022; Android Wear integration, including a wearable app.<br>&#x2022; Start a heart rate check via voice command by speaking to your watch or phone (e.g. &quot;Ok Google, check my pulse&quot;, &quot;Ok Google, what&apos;s my bpm?&quot; etc.).<br>&#x2022; Seamlessly sync measurements to Google Fit and integrate the data with other sources.<br><br><br>The mail goal of HeartWatch is to measure and monitor someone else&apos;s pulse, but you can still use the app entirely alone, with limited functionality.<br><br><br>Requirements:<br>&#x2022; An Android Wear smartwatch equipped with a heart rate monitor for you or your friend<br>&#x2022; Android Wear app (available in Play Store)<br>&#x2022; Google+ account for quick and secure sign-in<br>&#x2022; Internet connection<br><br><br>Please remember: due to technical limitations, possible bugs and complexity of the cardiology field in general, this app can NOT be used as a reliable or credible source of medical information. Please read the full EULA in Settings. Thank you for your understanding.<br><br><br>Screenshots contain sample and fictional data.<br><br><br>Android Wear, Play Store, Google Fit &amp; Google+ are registered trademarks of Google Inc.<br><br>Author of the watch frame: Cyril Mottier (CC BY).",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 3,
+        "4": 0,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ITx8ixVPJbfav6BvuXIFnclzlhrhawGhLfxlKVdfFc_x7o_7NU-2N1XcPC3AGJMYotA=h310",
+        "//lh3.googleusercontent.com/fl8TXUZU4y7m-0VptUrybVm8-CncWPI8ZF8FFTHaIt_lmcwG6Op5H9CQsDarohDxfDg=h310",
+        "//lh3.googleusercontent.com/6LMAiUNG6_82hln1z6bmi-j5myt4GRne4ateXRKtcdQthBgXiD1dxOp4w_GWu0nS36U=h310",
+        "//lh3.googleusercontent.com/cVmf51LHTXX3zLnpY1woru7kuXjvWksiiJ_Dy-SYAoQoxiZEl7-SEetyfpL82Oh6D7xB=h310",
+        "//lh3.googleusercontent.com/_MH__7JFBpKcpKQUf_9FXig7ZNx66L1DzftWaV9HNgsWOiHTgg-LHS-A8-xr2vMpsN0=h310",
+        "//lh3.googleusercontent.com/Qigpl-OuRAbKtFOdX9shBgxofYKq4X3i_4VEeI8lX-t0mwanxgEJaaVGC1wr-KQUhWY=h310",
+        "//lh3.googleusercontent.com/Pzfbxax_ZwLKBfJkLMdnSxZZQVPSllJ-FToNhDo_lK980pXGwgyu4WuiZkPUiRKKCM4=h310",
+        "//lh3.googleusercontent.com/_xy75lId-BizuEEDHEso-q8lYcLq2IGse2JXEIH42BK7ukGlBf2b4C9pTGcNmUKRkzwN=h310"
+    ],
+    "video": "https://www.youtube.com/embed/sVldl7QC2m0",
+    "comments": [],
+    "recentChanges": [
+        "• Fix for devices that use custom Contacts app",
+        "• Added a new icon"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.heartwatch&hl=en&gl=us",
+    "appId": "com.heartwatch"
+}

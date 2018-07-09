@@ -1,0 +1,58 @@
+{
+    "title": "Dublin Bikes",
+    "summary": "Dublin Bikes !",
+    "icon": "//lh4.ggpht.com/tjOIIGKxT4Qote5dENFBWP8A56HPJsyswWKRZlmi0cpPAEaIRz8T-rAFPx43iXh6XQEt=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.8,
+    "reviews": 138,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.dublinbikes@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Dublin Bikes is a tool allowing you to view the status of bike stations of Dublin and suburbs. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or nameYou can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Dublin Bikes is a tool allowing you to view the status of bike stations of Dublin and suburbs. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 2,
+        "4": 18,
+        "5": 115
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/uN3K0ZvnroS45hH9Q_r-zdmdybxYCUhrNhnoJeIcOoSTqstkvoTruLQzfWS0VU91OLFm=h310",
+        "//lh3.googleusercontent.com/b-hF4CMIM5S8d86Z1xyfzDRmqtV0gvRI9cLSXjCltwkTqXgavIcWoFyiJWEsftVhkkHB=h310",
+        "//lh3.googleusercontent.com/Z9UEPONRDVRXlynJBueckhxPXybP2qZ_2NMs3nHuSsVSZLw4gJknAK5SaGnmIjbZ_MA=h310",
+        "//lh3.googleusercontent.com/pU_wff3XFxZeMp05sXQcLsmWqKCSzDePEVDsWWM9DdF_5C2dceLf12QLzmmJfUKcd5w=h310",
+        "//lh3.googleusercontent.com/q-yw5C0p_oVTl2RPsGhqGrzvAQYGKwP5TMyfMsTOWhWBd5ItrSxt64N7QYz1v2cGOBc=h310",
+        "//lh3.googleusercontent.com/VH5JphVxqzgjru9ZHc9j3AzWkZAU9OpkthaZlr4x7sMfQhwRNe7ixVu5kMzJw7LNNLPP=h310",
+        "//lh3.googleusercontent.com/SXmw9FDUfV3TkmVYROKh1bQmtBdT-uFIbmw1WSzMDKZBYoRb4V0xXcLT6mjo0fZI4w=h310",
+        "//lh3.googleusercontent.com/1xmVzdcH_o2A5vE9Yc-irI-3cYrSWoqszGBJBzhntnGAAfSkQPbn_TceWaRy8V38ztc=h310"
+    ],
+    "comments": [
+        "Not accurate data, it's only good if you don't know where the stops are. Really bad like the original app.",
+        "Great app please add android O (8.0) support including adaptive round icon",
+        "Great app, reliable and always up to date.",
+        "As a new Dublin Bikes user, this app is fast, helpful, better looking, and a more pleasant experience than other apps in the store.",
+        "Sometimes it doesn't have your real position.",
+        "Does the job for me, thanks folks"
+    ],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.dublinbikes.view&hl=en&gl=us",
+    "appId": "com.michgauz.dublinbikes.view"
+}

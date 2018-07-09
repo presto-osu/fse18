@@ -1,0 +1,55 @@
+{
+    "title": "27 Watch faces for Wear & Sony",
+    "summary": "27 beautiful and completely different clocks for smartwatches and phones.",
+    "icon": "//lh5.ggpht.com/yC8rRfG39iW7gPBNDJIKKOOxyF7eR1VHnN_LQepgbOPeTaMkjrPimQpfqobWcJbUbQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.3,
+    "reviews": 1407,
+    "developer": "Kurt Huwig",
+    "developerId": "Kurt+Huwig",
+    "developerEmail": "kurthuwig@gmail.com",
+    "developerWebsite": "http://www.huwig.de/",
+    "developerAddress": "14 rue de la montagne\n57515 Alsting\nFrance",
+    "updated": "November 29, 2016",
+    "version": "1.17.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Enjoy 27 different watchfaces on your phone or a smartwatch that is capable of running apps, like* Callisto 100* Omate TrueSmart* Simvalley AW-414, AW-420as well as all Android Wear devices like* Samsung Gear Live* LG G WatchOn Android Wear do a long click on the clock to get to the list of the clock faces and select the one you like.These companion watches are also supported:* Sony Smartwatch 1* Sony Smartwatch 2DOES NOT WORK ON SAMSUNG GALAXY GEAR (but on the Gear Live running Android Wear)!Swipe horizontally to switch the face and vertically to change the theme (some faces don't have themes). Double-tap for options.The app starts in demo mode and sometimes displays a text \"demo version\" over the face. To disable the text, you have to buy the app via an in-app purchase. You can access the in-app purchase by double-tapping the screen.The app is already licensed on the Omate TrueSmart and no purchase is necessary. For all other watches: if you purchase the app, then in the settings the option* install as lockscreen* developer modewill be enabled.To develop your own faces, go tohttps://github.com/kurthuwig/facesto get the source of all watch faces and a tutorial how to use them.Smart Connect extension for SmartWatch 2Smart extension for SmartWatch 2 clocksLiveWare extension for SmartWatch 2",
+    "descriptionHTML": "Enjoy 27 different watchfaces on your phone or a smartwatch that is capable of running apps, like<br><br>* Callisto 100<br>* Omate TrueSmart<br>* Simvalley AW-414, AW-420<br><br>as well as all Android Wear devices like<br><br>* Samsung Gear Live<br>* LG G Watch<br><br>On Android Wear do a long click on the clock to get to the list of the clock faces and select the one you like.<br><br>These companion watches are also supported:<br><br>* Sony Smartwatch 1<br>* Sony Smartwatch 2<br><br>DOES NOT WORK ON SAMSUNG GALAXY GEAR (but on the Gear Live running Android Wear)!<br><br>Swipe horizontally to switch the face and vertically to change the theme (some faces don&apos;t have themes). Double-tap for options.<br><br>The app starts in demo mode and sometimes displays a text &quot;demo version&quot; over the face. To disable the text, you have to buy the app via an in-app purchase. You can access the in-app purchase by double-tapping the screen.<br><br>The app is already licensed on the Omate TrueSmart and no purchase is necessary. For all other watches: if you purchase the app, then in the settings the option<br><br>* install as lockscreen<br>* developer mode<br><br>will be enabled.<br><br>To develop your own faces, go to<br><br>https://github.com/kurthuwig/faces<br><br>to get the source of all watch faces and a tutorial how to use them.<br><br>Smart Connect extension for SmartWatch 2<br>Smart extension for SmartWatch 2 clocks<br>LiveWare extension for SmartWatch 2",
+    "histogram": {
+        "1": 405,
+        "2": 120,
+        "3": 146,
+        "4": 184,
+        "5": 552
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/tocaU5JjsaRANnwsikl390Uy-WuoCOB4Zx1RYNqsnev8BY_pIXFb4TEj00aI11RoKA=h310",
+        "//lh5.ggpht.com/zAmKUxpzd4LyUTAUqVLYTi2P1SE2PBdlj9FIs42xXPeJAtYgpSwWY1CSamE1Shh6Hi4=h310",
+        "//lh6.ggpht.com/4VKXCAeZL8pocaF0gSEFlqzNDGaKlC13sI6UoLWq5Wx2VCUQEJQ8QKVuHlHEBsnhnQ=h310",
+        "//lh3.googleusercontent.com/MntUecNxV70WltPFOwALh9-jQf2DQ7DYYgKn5Qdp3eUKaiEnmTQoMJ0yuLMkorFUnG0=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Kt3dBY8qI3M",
+    "comments": [
+        "Not working right. Please tell me how to refund I bought the paid version but it doubles my lock screen. I have to go through the original watch lock screen  then this one and now after restart of watch it doesn't work at all. I really liked the concept",
+        "Great but crashes watch Installed this on my doogee s1 smartwatch, and after about 2 mins, I get system authorization, you device will shut down in \"20 sec\" countdown timer and watch powers down.  Edit: installed, turned off Wi-Fi for hour, when turned back on it licences fine and works fine. Only crashes system if it tries to get licence straight after installing",
+        "Joke don't want to work.  Would have loved to have the trek app",
+        "I like it",
+        "Unlicensed demo version? Demo text on a free app and crap controls.",
+        "This P.O.S don't work"
+    ],
+    "recentChanges": [
+        "Bugfix for Android < 4.4 (Kitkat)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.huwig.watchfaces&hl=en&gl=us",
+    "appId": "de.huwig.watchfaces"
+}

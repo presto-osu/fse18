@@ -1,0 +1,46 @@
+{
+    "title": "Drunk O' Clock",
+    "summary": "Drunk O&#39; Clock, the watch face that swears",
+    "icon": "//lh3.googleusercontent.com/m--dGCB2_5CcTobYGYrTPcSTN7n7wUqeF2o2akBw9XhRUUkyUE80_y5i5uoNP-IuXA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.8,
+    "reviews": 4,
+    "developer": "K&J",
+    "developerId": "K%26J",
+    "developerEmail": "briankhouw@gmail.com",
+    "developerAddress": "Rijswijkseplein 621\n2516LV\nDen Haag",
+    "updated": "December 20, 2015",
+    "version": "1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Drunk O' Clock is an awesometastic port of the Pebble watch face with the same name.It includes a few onboard customizable settings, including changing the alignment as well as the word pack.There are three word packs included (sober, tipsy, wasted). The watch face is optimized to work on all Android wearable devices including:Moto 360, LG G, LG G R, Sony Smartwatch 3, LG Urbane, Asus Zenwatch, Gear LiveSome functionality compared to the Pebble version was left out to optimize performance and save power. The watch was personally tested on a Moto 360 as well as an LG G.If you encounter any problems or bugs with the watch face, feel free to email us with a description of the problem and the device you're using.",
+    "descriptionHTML": "Drunk O&apos; Clock is an awesometastic port of the Pebble watch face with the same name.<br><br>It includes a few onboard customizable settings, including changing the alignment as well as the word pack.<br>There are three word packs included (sober, tipsy, wasted). <br><br>The watch face is optimized to work on all Android wearable devices including:<br>Moto 360, LG G, LG G R, Sony Smartwatch 3, LG Urbane, Asus Zenwatch, Gear Live<br><br>Some functionality compared to the Pebble version was left out to optimize performance and save power. <br><br>The watch was personally tested on a Moto 360 as well as an LG G.<br>If you encounter any problems or bugs with the watch face, feel free to email us with a description of the problem and the device you&apos;re using.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/FUEJ66uw5E3fPD3r0EVBI6ICi-FPgnjbWfv1S1kvDhu9LGagXURbMfiBDLKsJCLSKY4=h310",
+        "//lh3.googleusercontent.com/pVDtrbjARuao6tdKFvvXT_R0ZxzhcN9IZehe_5ScXMJRWmxSd9Powc2GdtuX3cyQ76U=h310"
+    ],
+    "comments": [
+        "I Just opened it and it doesn't do anything fine then just make everything less fun",
+        "Doesn't do anything. Opens to a blank screen.",
+        "Would be better if you could change the colour"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=io.kandj.drunkoclock&hl=en&gl=us",
+    "appId": "io.kandj.drunkoclock"
+}

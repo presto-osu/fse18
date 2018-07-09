@@ -1,0 +1,72 @@
+Soot started on Thu Jun 21 12:38:05 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.watch.richface.delta.DigitalDeltaRichFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.watch.richface.delta.apk
+[INFO] MySceneTransformer: ############## com.watch.richface.delta.DigitalDeltaRichFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   279
+[INFO] FlowGraph: @@@@ Total Methods: 1455
+[INFO] FlowGraph: @@@@ Total Stmts:   26344
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r5=[-16777216], $r4=[-65536], $r5=[-65536], $r2=[-3355444], $r2_1=[-11676929], $r1=[-16777216], $r2_4=[-3355444], $r2=[-11665498], $r2=[-11665498], $r5_1=[-16777216]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r2_7=[-1], $r5=[-16777216], $r4=[-65536], $r5=[-65536], $r2=[-3355444], $r2=[-4259585, -16721610, -16735271, -10665929, -10453621, -65536, -32768], $r2_1=[-3355444, -1, -2659, -3155748, -13124, -793099, -2634552], $r5_1=[-65536, -16776961], $r2_3=[-3355444, -1, -2659, -3155748, -13124, -793099, -2634552], $r1=[-16777216], $r2_4=[-3355444], $r2=[-11665498], $r5=[-65536, -16776961], $r2=[-11665498], $r5_1=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [red, ff4dd2ff, ff4dffa6]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ffff8000, ffd7ccc8, ff4dffa6, ffbf00ff, ff607d8b, ff00a3d9, ffffccbc, red, ff5d4037, fff3e5f5, fffff59d, blue, ff00d936, ffcfd8dc]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [red, ff4dd2ff, ff4dffa6]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [red, ff4dd2ff, ff4dffa6]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [red, ff4dd2ff, ff4dffa6]
+[INFO] MySceneTransformer: TOTAL TIME: 67.852000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:39:18 EDT 2018

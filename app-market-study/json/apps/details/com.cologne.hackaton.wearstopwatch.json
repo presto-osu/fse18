@@ -1,0 +1,45 @@
+{
+    "title": "Wear Stopwatch",
+    "summary": "Suitable Stopwatch &amp; Timer for the wearable platform",
+    "icon": "//lh3.googleusercontent.com/CBDlIzS34XOMZMLCvXebOfsK4_7vSnWgSRqRc7jgOfhGLvNtHtIaag9v8uPhdddeLbl_=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.4,
+    "reviews": 5,
+    "developer": "Khmelenko Lab",
+    "developerId": "Khmelenko+Lab",
+    "developerEmail": "d.khmelenko@gmail.com",
+    "updated": "March 29, 2015",
+    "version": "1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Suitable Stopwatch & Timer for the wearable platform.Stopwatch can work in background, has the feature 'Laps' and synchronizes with the handheld device.Background timer.This project is open source.Authors:Dmytro KhmelenkoGabriel Schlatter",
+    "descriptionHTML": "Suitable Stopwatch &amp; Timer for the wearable platform.<br>Stopwatch can work in background, has the feature &apos;Laps&apos; and synchronizes with the handheld device.<br>Background timer.<br><br>This project is open source.<br><br>Authors:<br>Dmytro Khmelenko<br>Gabriel Schlatter",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qHa3dSKc5Kf-V3LnxR-lA0I2pJFKPizkuMrDZzCdInayHDbVhdSMQxC_4HHsulnEz8g=h310",
+        "//lh3.googleusercontent.com/KsgNjRMsKkzaJy8o8EK2-umRmOyDALLsJGNysh-s8k-VyzadoaVCZBhH56Po7J26i5o=h310",
+        "//lh3.googleusercontent.com/T_hCQqi4lCMaUgqlJgiEX4IYbVIcdU9-lBzC5VH5TNahZSckSw6EzRSjrYgbDAYuvQ=h310"
+    ],
+    "comments": [
+        "Nice! Just what I needed. A stopwatch with multiple splits. Syncing with the phone is a nice idea.",
+        "Missing 1 key feature The app doesn't stay awake in the background."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.cologne.hackaton.wearstopwatch&hl=en&gl=us",
+    "appId": "com.cologne.hackaton.wearstopwatch"
+}

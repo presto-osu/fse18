@@ -1,0 +1,52 @@
+{
+    "title": "Find My Phone 4 Android Wear",
+    "summary": "Use Android Wear Watch to find your phone, auto locks the phone when away",
+    "icon": "//lh4.ggpht.com/-RpBgiMduDVtE4vyJWPJTr__N24KjqD1hh95DD1maDf-1zpNmuiXHs47-IMagWGBSK0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.7,
+    "reviews": 478,
+    "developer": "Track My Fitness",
+    "developerId": "Track+My+Fitness",
+    "developerEmail": "support@vimo.co",
+    "developerAddress": "1172 Castro St.\nMountain View, CA 94040",
+    "updated": "December 15, 2014",
+    "version": "1.5.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app uses the Device Administrator permission, if you want to enable the auto lock function. Think through before you give this permission. Decline the permission request if you do not need auto lock function. It turns your Android Wear watch into a leash for your phone. It is the only Android Wear App that automatically locks your phone when your Android Wear watch is out of range. It keeps your phone secure. - Alert: It alerts you when your phone is out of the range of your Android Wear watch. Never forget to carry your phone with you again.- Find: You can tap on your Android Wear watch to sound an alarm on the phone. Finding your Phone is so much easier. On the Android Wear watch say \"Ok, Google, start Find My Phone\"- Secure: When your Android Wear watch is out of the Bluetooth range of your phone, the Android Wear Find My Phone App automatically locks your phone. Your phone is always secure.Works with all Android Wear watches, Samsung, LG G, LG G R, Moto 360, Asus Zenwatch, Sony Watch 3. If you do not want the auto locking feature, simply do not grant the App the Device Admin permission. If you like it, give it a 5 star rating. This App will always be free, no Ad, no in-app purchase. It is our contribution to the community to make fellow Android Wear users' life easier. Do not like it? Stop whining, the source code is at https://github.com/drhuanliu/AndroidWearFindMyPhone/ , contribute to make it better for fellow Android Wear users. Credit: started with the code base from Android Wear SDK's example.",
+    "descriptionHTML": "This app uses the Device Administrator permission, if you want to enable the auto lock function. Think through before you give this permission. Decline the permission request if you do not need auto lock function. <br><br>It turns your Android Wear watch into a leash for your phone. It is the <b>only Android Wear App that automatically locks your phone</b> when your Android Wear watch is out of range. It keeps your phone secure. <br><br>- <b>Alert:</b> It alerts you when your phone is out of the range of your Android Wear watch. Never forget to carry your phone with you again.<br><br>- <b>Find:</b> You can tap on your Android Wear watch to sound an alarm on the phone. Finding your Phone is so much easier. On the Android Wear watch say &quot;Ok, Google, start Find My Phone&quot;<br><br>- <b>Secure:</b> When your Android Wear watch is out of the Bluetooth range of your phone, the Android Wear Find My Phone App automatically locks your phone. Your phone is always secure.<br><br>Works with all Android Wear watches, Samsung, LG G, LG G R, Moto 360, Asus Zenwatch, Sony Watch 3. <br><br>If you do not want the auto locking feature, simply do not grant the App the Device Admin permission. <br><br>If you like it, give it a 5 star rating. This App will always be free, no Ad, no in-app purchase. It is our contribution to the community to make fellow Android Wear users&apos; life easier. <br><br>Do not like it? Stop whining, the source code is at https://github.com/drhuanliu/AndroidWearFindMyPhone/ , contribute to make it better for fellow Android Wear users. <br><br>Credit: started with the code base from Android Wear SDK&apos;s example.",
+    "histogram": {
+        "1": 84,
+        "2": 28,
+        "3": 57,
+        "4": 101,
+        "5": 208
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/zB-HPh33zOrSF9fVTOwMGKyHctN6ia40r9dIWTbgyVHy7g0S_3VAq-T5GLJjBKNCkq4=h310",
+        "//lh4.ggpht.com/Ukl9amWAwYi9SaeOEUWakNnxuLsy3dauStGOLPEWv7wtCJ70xVAWfQkD7kfRFFvk4w=h310",
+        "//lh3.ggpht.com/6iRBQWtXLb9axe2ncScvSZZxAVksxFpof4IE38zYZY5uezZeDlebSIFZEKyrJSyAdzU=h310"
+    ],
+    "comments": [
+        "Initially worked fine as a Phone finder and I was impressed, then when I tested for range, nothing happened, Subsequent taps gave the Android UAHS (Unfortunately, this app has stopped) message. Then when invoking from apps menu just rang once and stopped. Maybe a bug in the Android SDK...who knows.   I also tested for range by putting both phone and SW3 in airplane mode.  Trying this out again after being put off by Wear Aware's long alarms",
+        "Useful at times I would leave my phone in the car by accident and it alerts me usually pretty quickly. The ring phone feature seems to have issues. It rings for a second and stops. I don't know if it's the app's fault or not.",
+        "App over complicated. I just want to find my watch. I don't want to set up so many steps as far as passwords, device permissions, etc. Just find my watch. If I want anything beyond that, allow me the CHOICE to do it.",
+        "Doesn't work with priority notifications When I have my smart watch switched to priority notifications, if my phone goes out range the watch doesn't vibrate but only shows the notification card. I even tried adjusting the apps specific notifications setting and making it a priority app, but that didn't work. Otherwise, it does what it says.",
+        "No longer works. It used to work. It will tell me if my phone is out of range but the find my phone feature no longer works.",
+        "how! i revoke the device admin from the app, but still i am not able to remove it! what is wrong with this app?"
+    ],
+    "recentChanges": [
+        "Allow you to revoke Device Admin Permission directly from the App, so that you can uninstall (god forbid :-))"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.vimo.findmyphone&hl=en&gl=us",
+    "appId": "co.vimo.findmyphone"
+}

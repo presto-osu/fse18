@@ -1,0 +1,49 @@
+{
+    "title": "Shoppinglist",
+    "summary": "Simple shopping list",
+    "icon": "//lh5.ggpht.com/T3tEy3oWV3ceortEnpd6HisFks0msmhcnebhNozTADAPKMXEQfqRFF_9uNvX2fXe1Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 38,
+    "developer": "Thomas Kerkmann",
+    "developerId": "Thomas+Kerkmann",
+    "developerEmail": "thkerkmann@googlemail.com",
+    "developerWebsite": "http://kerksoft.de",
+    "updated": "February 12, 2017",
+    "version": "1.14",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Manage a simple shoping list with-strike out-sorting-export-import",
+    "descriptionHTML": "Manage a simple shoping list with<br>-strike out<br>-sorting<br>-export<br>-import",
+    "histogram": {
+        "1": 5,
+        "2": 1,
+        "3": 4,
+        "4": 11,
+        "5": 17
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/WBFCb4kWZNq6fTM-7joFvwn70Gbr4BqPDaz_aFCPAvUREtIMDlJgKiXxVd2vEZvqkTI=h310",
+        "//lh4.ggpht.com/4PyrPMJHauadxEYw6duKdKysXAPAtcK9jT6-PmF87Kcr_1iV_eHPelTa1tA1koagGKE=h310",
+        "//lh5.ggpht.com/PotJd6r556dol98PR50VPecdX1qmAy--TFBkmO2M3S7UgwZT_chO-9gO7N7QGPF5a8Ve=h310",
+        "//lh6.ggpht.com/AyiqGoy1l7d5tm3QuENXC09bV6Yw-E_zrcU-Gn-qR6TUOeuWfdPIRPauJrTrtGjq2Q=h310",
+        "//lh3.googleusercontent.com/b7ne6F7vTix7JXfdu2QjCvP7QtBvZbvTRDXX6ZXvc69bN67-Xf7GoIm8qC-c4-6OK1l7=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Version 1.14",
+        "- Data protection statement",
+        "- optimized wearable communication"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.homeip.thkerkmann.einkaufsliste&hl=en&gl=us",
+    "appId": "net.homeip.thkerkmann.einkaufsliste"
+}

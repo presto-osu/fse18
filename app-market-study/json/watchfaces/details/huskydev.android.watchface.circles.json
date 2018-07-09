@@ -1,0 +1,57 @@
+{
+    "title": "HuskyDEV Circles Watch Face",
+    "summary": "Watch Face with great look and feel. Detailed weather and battery informations.",
+    "icon": "//lh3.googleusercontent.com/JIZieowbUstzhqU1mK-DZGIUE5ibA1BTAIFqjc2RsXGmaHI3pnC03-i4NKt9CDhktXDC=w300",
+    "price": "$1.79",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 48,
+    "developer": "HuskyDev",
+    "developerId": "8016075941590810026",
+    "developerEmail": "huskydevcz@gmail.com",
+    "developerWebsite": "http://www.huskydev.com",
+    "developerAddress": "Weberova 14\nDecin 6\n40502",
+    "updated": "June 6, 2016",
+    "version": "1.05",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Interactive Circles Watch Face for Android Wear 5+.Three rotating circles, with small triangles on vertices showing current time.Interactive Watch Face includes:★ Daily weather including sunset, sunrise time, wind speed, highest and lowest day temperature★ Weather forecast for next days★ Indicators Watch battery and WeatherConfiguration contains:★ Multiple accent colors★ Time color same as accent color or white★ Time and date format follow phone settings★ Smooth seconds animation★ Keep watch screen awake interval★ Weather update interval★ Customizable temperature units★ Customizable wind speed units★ Information about last weather updateThe HuskyDEV Circles Watch Face works great with squared and round watches.Make sure your watch has the Android Wear System 5.0 or higher version.Compatible with:✔ Moto 360✔ LG G Watch R✔ LG G Watch✔ Sony Smartwatch 3✔ Samsung Gear Live✔ Asus ZenWatch ✔ LG Watch Urbane✔ Huawei Watch W1✔ TAG Heuer ConnectedCommon synchronization problem solution:If the Application does not appear on your watch please do the following:- uninstall the face application from phone- disconnect watch from phone- restart watch- connect watch and phone again- install Circles Watch Face once againApplication using- weather data from http://openweathermap.org/ and http://YR.no (Norwegian Meteorological Institute)- weather icons from http://adamwhitcroft.com/climacons/",
+    "descriptionHTML": "Interactive Circles Watch Face for Android Wear 5+.<br><br>Three rotating circles, with small triangles on vertices showing current time.<br><br>Interactive Watch Face includes:<br>&#x2605; Daily weather including sunset, sunrise time, wind speed, highest and lowest day temperature<br>&#x2605; Weather forecast for next days<br>&#x2605; Indicators Watch battery and Weather<br><br>Configuration contains:<br>&#x2605; Multiple accent colors<br>&#x2605; Time color same as accent color or white<br>&#x2605; Time and date format follow phone settings<br>&#x2605; Smooth seconds animation<br>&#x2605; Keep watch screen awake interval<br>&#x2605; Weather update interval<br>&#x2605; Customizable temperature units<br>&#x2605; Customizable wind speed units<br>&#x2605; Information about last weather update<br><br>The HuskyDEV Circles Watch Face works great with squared and round watches.<br><br>Make sure your watch has the Android Wear System 5.0 or higher version.<br><br>Compatible with:<br>&#x2714; Moto 360<br>&#x2714; LG G Watch R<br>&#x2714; LG G Watch<br>&#x2714; Sony Smartwatch 3<br>&#x2714; Samsung Gear Live<br>&#x2714; Asus ZenWatch <br>&#x2714; LG Watch Urbane<br>&#x2714; Huawei Watch W1<br>&#x2714; TAG Heuer Connected<br><br><br>Common synchronization problem solution:<br><br>If the Application does not appear on your watch please do the following:<br>- uninstall the face application from phone<br>- disconnect watch from phone<br>- restart watch<br>- connect watch and phone again<br>- install Circles Watch Face once again<br><br>Application using<br>- weather data from http://openweathermap.org/ and http://YR.no (Norwegian Meteorological Institute)<br>- weather icons from http://adamwhitcroft.com/climacons/",
+    "histogram": {
+        "1": 5,
+        "2": 3,
+        "3": 8,
+        "4": 9,
+        "5": 23
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-37smQrgfqcJ25zofNMRKdmjvJnZniChO8QlucPJdaDoysoC6GRt-R0wrEkxR4fIsA=h310",
+        "//lh3.googleusercontent.com/-2iMGrNS41bVKm5ENWu83I_YWmz7pxlIg4JobKwZj2OoP8u3cXoZ_vq_2gP9YJ7TFdE=h310",
+        "//lh3.googleusercontent.com/TyF7KjX7gFCvvM5CCmXZK2ZPSkUOlAWOXPLc7ZOc72P2IzbUt_24n6bCd3HgFmGYENQ=h310",
+        "//lh3.googleusercontent.com/GyyoUmdbn9pCtNSN2rNOs1oxouKFfacYK3w5URn9IICc9pGlt8Dz_Fe69B_cjFx6QQ=h310",
+        "//lh3.googleusercontent.com/1WX147-Hizs1AU_h1PgjWTb8KkeCmo1xYEsdJJjSOv5nBkz61iCrPimpfyj3px630nw=h310"
+    ],
+    "video": "https://www.youtube.com/embed/_aI3C3mvtOM",
+    "comments": [
+        "YET ANOTHER ... Great Design by Husky !!!",
+        "Good Goodddddd",
+        "Functional, but that's it It is a decent watchface, nothing exceptional. But it does not update temperature info correctly, what's unacceptable for a paid watchface (always shows 19 degrees). Either fix the bug or remove the misleading/broken functionality.",
+        "Nice Nice watch face. Interactive features don't work well. Would like to be able to turn them off or replace them with second time zone. Wish you could select only the accent colors you want for automatic change.",
+        "Pretty and functional It's a very nice looking watch. Lots of color options and rather functional with a very responsive team (great job guys!). I know phone battery is coming which is will probably make it my daily watch face. The only thing that could be improved is adding more options for the user such as deciding what icons(I.e. battery or weather) are displayed and choosing when the colors change or which colors are on the automatic cycle.",
+        "Once again face is nice but ambient is crap and can't be customized. I want to be able to change that ugly font, size and location on screen and an option to add date"
+    ],
+    "recentChanges": [
+        "Fixed:",
+        "- Api version for calling sun and moon data is increased to 1.1, without this upgrade  data are not available."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=huskydev.android.watchface.circles&hl=en&gl=us",
+    "appId": "huskydev.android.watchface.circles"
+}

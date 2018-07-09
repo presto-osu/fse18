@@ -1,0 +1,49 @@
+{
+    "title": "Physics Toolbox Wear",
+    "summary": "The app displays accelerometer and gyroscope data on an Android Wear device",
+    "icon": "//lh3.googleusercontent.com/0JzxrvREi4nsPuvnokdmRPc-tQU-voBXL-_iQGNZbR32FJu1i4OsGl_3Fw5ZJGnGKA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.1,
+    "reviews": 8,
+    "developer": "Vieyra Software",
+    "developerId": "6483394247866966083",
+    "developerEmail": "support@vieyrasoftware.net",
+    "developerWebsite": "https://www.vieyrasoftware.net/privacy-policy",
+    "developerAddress": "225 C St SE Apt B\nWashington D.C. 20003\nUSA",
+    "updated": "August 4, 2016",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This is a beta version. Right now the app only shows accelerometer and gyroscope data on the paired Android Wear device. Coming soon, capability to record data, display gyroscope and magnetometer data, voice commands, etc. To run the app, go to start on your Android Wear device, and then select Physics Toolbox Wear, or say \"start Physics Toolbox Wear\" on your Android Wear device. To use the app it is necessary to re sync apps on the Android Wear app.",
+    "descriptionHTML": "This is a beta version. Right now the app only shows accelerometer and gyroscope data on the paired Android Wear device. Coming soon, capability to record data, display gyroscope and magnetometer data, voice commands, etc. <br><br>To run the app, go to start on your Android Wear device, and then select Physics Toolbox Wear, or say &quot;start Physics Toolbox Wear&quot; on your Android Wear device. To use the app it is necessary to re sync apps on the Android Wear app.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/QEy1KpUpBxH88H7S5rxUFOnYKiQIVaoXNDrD8oyE5C3YppwReoKdHFWSXqdlNXH4mIc=h310",
+        "//lh3.googleusercontent.com/_Idu4gq6ZYJJOT8OMrT7gm5CoK-jyVbmRaxF8gXfjeZ3TyrwfH-Qt-DAtQA-Sx6QwNc=h310"
+    ],
+    "comments": [
+        "Sorry for the \"hated it\". I love the idea, but it simple doesn't even a show up on my LG urbane, even after re-synching. As soon as I can make it work I'll update my review!",
+        "Force Close on Moto 360 Says Hello Round World and then closes."
+    ],
+    "recentChanges": [
+        "New icon.",
+        "Minor bug fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chrystianvieyra.android.physicstoolboxwear&hl=en&gl=us",
+    "appId": "com.chrystianvieyra.android.physicstoolboxwear"
+}

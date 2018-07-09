@@ -1,0 +1,42 @@
+{
+    "title": "Wearable SMS",
+    "summary": "Wearable SMS is an application that can send and receive SMS in Android Wear.You can easily return the frequently used five of the message.",
+    "icon": "//lh4.ggpht.com/owMjL-07q-qtf3hb1k8l7ao8q3K66ePe0loDjvHn5PLePIC8AJ3Ic8PtkXHiIN1RdDY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Groove Systems Inc.",
+    "developerId": "Groove+Systems+Inc.",
+    "developerEmail": "support@groove-systems.com",
+    "developerWebsite": "http://www.groove-systems.com",
+    "updated": "November 2, 2014",
+    "version": "1.0.0",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "受信したSMSメッセージをAndroid Wear で確認し、返信も行えるアプリです。予め用意された利用頻度の高い5つのメッセージから選択して返信します。※ 本アプリを利用するためには、Android Wear 端末が必要となります。",
+    "descriptionHTML": "&#x53D7;&#x4FE1;&#x3057;&#x305F;SMS&#x30E1;&#x30C3;&#x30BB;&#x30FC;&#x30B8;&#x3092;Android Wear &#x3067;&#x78BA;&#x8A8D;&#x3057;&#x3001;&#x8FD4;&#x4FE1;&#x3082;&#x884C;&#x3048;&#x308B;&#x30A2;&#x30D7;&#x30EA;&#x3067;&#x3059;&#x3002;<br>&#x4E88;&#x3081;&#x7528;&#x610F;&#x3055;&#x308C;&#x305F;&#x5229;&#x7528;&#x983B;&#x5EA6;&#x306E;&#x9AD8;&#x3044;5&#x3064;&#x306E;&#x30E1;&#x30C3;&#x30BB;&#x30FC;&#x30B8;&#x304B;&#x3089;&#x9078;&#x629E;&#x3057;&#x3066;&#x8FD4;&#x4FE1;&#x3057;&#x307E;&#x3059;&#x3002;<br><br>&#x203B; &#x672C;&#x30A2;&#x30D7;&#x30EA;&#x3092;&#x5229;&#x7528;&#x3059;&#x308B;&#x305F;&#x3081;&#x306B;&#x306F;&#x3001;Android Wear &#x7AEF;&#x672B;&#x304C;&#x5FC5;&#x8981;&#x3068;&#x306A;&#x308A;&#x307E;&#x3059;&#x3002;",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/dJm9Q1aQphgCumtvma3oH7nnE8AtVlz_9p-cxQIfNhHdajppW0weDachDi6j3C-_A60=h310",
+        "//lh4.ggpht.com/NFPf6LeyuQ3xlIrmvwOg6ZJsvjaN_Xkc4vkvu1mTGD305fNRJDvZIH4LVhPrlnyAnxr_=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.groove_systems.wearsms&hl=en&gl=us",
+    "appId": "com.groove_systems.wearsms"
+}

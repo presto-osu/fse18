@@ -1,0 +1,50 @@
+{
+    "title": "issimo",
+    "summary": "issimo, the elegant Android Wear metronome built around your love of music!",
+    "icon": "//lh4.ggpht.com/kw0FUJ9afgwxpXn8DOg3QHouL9ppywmqjdRROm2VMAAVvxoHjG41fVNqoTnq0wSBUw=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.2,
+    "reviews": 6,
+    "developer": "JSJPC",
+    "developerId": "JSJPC",
+    "developerEmail": "wearissimo@gmail.com",
+    "developerWebsite": "https://twitter.com/wearissimo",
+    "developerAddress": "Boulder, CO",
+    "updated": "February 7, 2015",
+    "version": "1.0.0.9",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Meet issimo, the elegant new Android Wear metronome built around your love of music! Developed to help simplify your practice and bring your focus back to the music.No ads; No in-app purchases; No unnecessary permissions; Your one time payment gets you issimo--forever.issimo is the most robust metronome for your Android Wear device. issimo is thoughtfully and beautifully designed. From the clean, layered metronome, to the elegant quick-access time signature settings, you will find issimo easy and fun to use.Features:-Metronome-    Simply tap the tempo to start the metronome. Tap the arrows to change; and, long press to speed through tempos-Time Signature-     Straight forward: tap the buttons to change the time signature        *1/1    2/4    3/4    4/4    5/4    6/8    9/8    12/8        *Tempo is set to the dotted quarter note for 6/8  9/8  12/8        *Time signature and tempo can be changed dynamically while metronome is running-Performance Mode-     Open up the time signature page and press and hold anywhere to enter performance mode. Head back to the time signature page to turn it off         *Performance mode changes the UI to a sleek white-on-black scheme so that during a performance, it lets you take center stage while still keeping full functionality.**Note: issimo will not show up in the app drawer on your phone. It is watch only. If you do not see it on your watch make sure it is connected through the Android Wear app and try an app resync. If all else fails reboot both devices. If that's still not working, let us know! We'll get it fixed for you.**issimo is open source, and makes use of open source code. Thanks to Digutsoft for their open source efforts. Thanks to Cyril Mottier and Daniele Bonaldo for the wear device frames used. Thanks also to GLuk for the font.",
+    "descriptionHTML": "Meet issimo, the elegant new Android Wear metronome built around your love of music! Developed to help simplify your practice and bring your focus back to the music.<br><br>No ads; No in-app purchases; No unnecessary permissions; Your one time payment gets you issimo--forever.<br><br>issimo is the most robust metronome for your Android Wear device. issimo is thoughtfully and beautifully designed. From the clean, layered metronome, to the elegant quick-access time signature settings, you will find issimo easy and fun to use.<br><br>Features:<br>-Metronome-<br>    Simply tap the tempo to start the metronome. Tap the arrows to change; and, long press to speed through tempos<br><br>-Time Signature-<br>     Straight forward: tap the buttons to change the time signature<br>        *1/1    2/4    3/4    4/4    5/4    6/8    9/8    12/8<br>        *Tempo is set to the dotted quarter note for 6/8  9/8  12/8<br>        *Time signature and tempo can be changed dynamically while metronome is running<br><br>-Performance Mode-<br>     Open up the time signature page and press and hold anywhere to enter performance mode. Head back to the time signature page to turn it off<br>         *Performance mode changes the UI to a sleek white-on-black scheme so that during a performance, it lets you take center stage while still keeping full functionality.<br><br>**Note: issimo will not show up in the app drawer on your phone. It is watch only. If you do not see it on your watch make sure it is connected through the Android Wear app and try an app resync. If all else fails reboot both devices. If that&apos;s still not working, let us know! We&apos;ll get it fixed for you.<br><br>**issimo is open source, and makes use of open source code. Thanks to Digutsoft for their open source efforts. Thanks to Cyril Mottier and Daniele Bonaldo for the wear device frames used. Thanks also to GLuk for the font.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/P-6QvmaqH43Ivq1gODezNjMZ0J_MY1Bkn20H_V_WDyfTq4wSgbBOZf1_ML0zAFlo4bp-=h310",
+        "//lh4.ggpht.com/DFJUVhdMn4Qf8TorPLQxzNPpH6YwWQC_hmtlvHWT1FmKXeNim54ErtcN8dDGz_RMAr74=h310",
+        "//lh6.ggpht.com/D4I28RxZEJt747WNe4hsFKp2ydTRTgZNXW36TWFr51Iei1hRBEG_pS6V2s_0Bw5p_ggU=h310",
+        "//lh6.ggpht.com/pUU7v29Ke8BZBHZMluegvSiKpYF1thejPnRhe-frXFS3H8EsakZIaH_rT3ZF6Pwnvyc=h310",
+        "//lh5.ggpht.com/gGnJ3eASQ9xyUdNr9WBhaO5gB2x7H_HJUs4sbo6GY6GiYwpiRDTcr3zRfeuBekocezk=h310"
+    ],
+    "video": "https://www.youtube.com/embed/aInHrRHdSqA",
+    "comments": [
+        "Great app for music players!",
+        "Good in theory, missing critical option Good in theory, missing critical option... You can't change the strength of the vibration! I would very quickly lose track of the accent. Add this function and it may become more useful. Clean interface, simple as it should be. Just needs that key function."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jsjpc.issimo&hl=en&gl=us",
+    "appId": "com.jsjpc.issimo"
+}

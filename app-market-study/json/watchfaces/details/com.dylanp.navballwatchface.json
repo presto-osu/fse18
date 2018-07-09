@@ -1,0 +1,54 @@
+{
+    "title": "Navball WatchFace",
+    "summary": "A watch face based on the Kerbal Space Program navball.",
+    "icon": "//lh5.ggpht.com/oCvlRXSdgutRGxTeNBmDGIvaDUvxT-1EOvicd28npGlP86kNhNXYM2GQTbEAiWTf6Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 44,
+    "developer": "musicalbigfoot",
+    "developerId": "musicalbigfoot",
+    "developerEmail": "musicalbigfoot@gmail.com",
+    "developerWebsite": "http://www.dylanp.com",
+    "developerAddress": "420 S 3rd St Apt A\nMissoula MT 59840",
+    "updated": "February 21, 2015",
+    "version": "1.0.6",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "This watch face is based on the navball from Kerbal Space Program. It features watch and phone battery levels as well as current date and temperature based on automatic or manually set location info.",
+    "descriptionHTML": "This watch face is based on the navball from Kerbal Space Program. It features watch and phone battery levels as well as current date and temperature based on automatic or manually set location info.",
+    "histogram": {
+        "1": 6,
+        "2": 7,
+        "3": 8,
+        "4": 9,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/W6PgVKje_ZXcRmN9HDz7Zu-nQ24F9QIS_EQONjd8SYCqnjCLIf6lJQzjHRppXZBq2w=h310",
+        "//lh4.ggpht.com/8DkVYuqyzkeT009npEiKv3dYidd2COSkgoeBjj1UjB-9_pObjad-iTsyx9eJitjNZ6A=h310",
+        "//lh5.ggpht.com/seeokjnMhkBBdrBjKkIvCJxuwdiZfd3EnT5xiDzdtAzWpKOXPuY7WEXlcycIqBwl3fRC=h310",
+        "//lh5.ggpht.com/c3lJuM2NfZhqY3N-cZ-G5eO7fOEgva67P2WVSbSGNnVhIsr4KkF4wuYHhqCXxbZ7gIPY=h310"
+    ],
+    "comments": [
+        "Upside down? Navball appears upside down on my watch. Is this a \"Down Under\" joke on us Australians? I so want this to be cool, but that's really quite annoying. Also, the shift to the cut-down Ambient time is annoying if you're looking at it when it changes.",
+        "Beautiful It isn't a good shape for my square watch so I won't use it which is a shame since it looks good otherwise.  On a square face it gets too small.  Great work though!",
+        "I want to use this so badly... But it isn't showing up in my watch settings. Just got the watch today, in part to use this face, and it isn't working.  Sad face",
+        "Not working Was so excited to try this watch face since I work at sea but unfortunately does not work on LG urbane urbane 2nd edition LTE",
+        "Probly will use up battery qiuckly",
+        "Nice! Took forever to sync but got it working. Love it"
+    ],
+    "recentChanges": [
+        "Added proper support for ambient mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dylanp.navballwatchface&hl=en&gl=us",
+    "appId": "com.dylanp.navballwatchface"
+}

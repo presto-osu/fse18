@@ -1,0 +1,54 @@
+{
+    "title": "Jet Airways",
+    "summary": "Our app will make your planning and travel convenient, simple &amp; smart.",
+    "icon": "//lh3.googleusercontent.com/O8nYBGUxq9b66CchgU9i3OQ877PU8o8jT_UJB8KD_VaBea74pHnxTLVftfYLY7zwTg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000,
+    "maxInstalls": 5000000,
+    "score": 3.9,
+    "reviews": 23937,
+    "developer": "Jet Airways (India) Ltd.",
+    "developerId": "Jet+Airways+(India)+Ltd.",
+    "developerEmail": "info@jetairways.com",
+    "developerWebsite": "http://www.jetairways.com",
+    "updated": "February 7, 2018",
+    "version": "1.0.43",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Welcome to the Jet Airways Mobile app for Android!Now travel smart and stay connected with the all new Jet Airways mobile app. With this safe and secure tool you can seamlessly plan your trip, search for the lowest fares, check-in, view your flight status, discover special offers, manage your booking and your JetPrivilege account. Highlights:1. Flights – Seamlessly book and pay for domestic and international flights using multiple payment options. With our My Booking feature, now save your itinerary details for easy access anytime2. Manage Booking – Amend your flight itinerary, change or cancel bookings, update your frequent flyer number, contact details, meal preference and even passport and immigration data3. Redeem JPMiles – Book an award ticket using JPMiles to your preferred destination 4. Seat Select -   Select your preferred seat while booking your ticket or use our Manage Booking feature for the same5. Check-in - Select your preferred seat and get your eBoarding Pass delivered to your email6. JetPrivilege – Enrol in our award winning frequent flyer program and access your JetPrivilege account on the go.7. Flight Status - Check your flights status real time. Search using your flight number, airport or route8. Flight Status Notification – Subscribe and receive updates on the flight status for a particular flight9. Feedback - Share your experience with us.",
+    "descriptionHTML": "Welcome to the Jet Airways Mobile app for Android!<br><br>Now travel smart and stay connected with the all new Jet Airways mobile app. With this safe and secure tool you can seamlessly plan your trip, search for the lowest fares, check-in, view your flight status, discover special offers, manage your booking and your JetPrivilege account. <br><br>Highlights:<br><br>1. Flights &#x2013; Seamlessly book and pay for domestic and international flights using multiple payment options. With our My Booking feature, now save your itinerary details for easy access anytime<br>2. Manage Booking &#x2013; Amend your flight itinerary, change or cancel bookings, update your frequent flyer number, contact details, meal preference and even passport and immigration data<br>3. Redeem JPMiles &#x2013; Book an award ticket using JPMiles to your preferred destination <br>4. Seat Select -   Select your preferred seat while booking your ticket or use our Manage Booking feature for the same<br>5. Check-in - Select your preferred seat and get your eBoarding Pass delivered to your email<br>6. JetPrivilege &#x2013; Enrol in our award winning frequent flyer program and access your JetPrivilege account on the go.<br>7. Flight Status - Check your flights status real time. Search using your flight number, airport or route<br>8. Flight Status Notification &#x2013; Subscribe and receive updates on the flight status for a particular flight<br>9. Feedback - Share your experience with us.",
+    "histogram": {
+        "1": 3164,
+        "2": 1462,
+        "3": 2634,
+        "4": 4933,
+        "5": 11744
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/y3eFt2h7GpUM8WXJ4-9rbU4r2vb49VMe74oBHDZ5pQiQjpH0DkUFkxI7Hj-YgLwtFWw=h310",
+        "//lh3.googleusercontent.com/mjaNGgeIWl9V6PdV5JCjV4K9OXkb1t5bIkV6aBRSchCVwifC-FCD-r06NDQ_Umi1RrEB=h310",
+        "//lh3.googleusercontent.com/JgbxqwLymU04UdFK8lf3AN-NOBEuEPDQ20GaLWAv1tUr4172FUKJxUqhoBm8J3VkpTyN=h310",
+        "//lh3.googleusercontent.com/eSmnqPv1Y8iNnR1kKCiujNZ805rJ-sB5xGD3iz5IhBsGbXFR-KQgwhgt_h5p72MC0tM4=h310",
+        "//lh3.googleusercontent.com/K1vXm8frLQaGoYUPdXL-wqq841VbEoexyVG7tPJtiaad966swsEJM3uZYtS5GNpLWW9R=h310"
+    ],
+    "comments": [
+        "The app wont work. Wanted to book tickets using my privilege miles..  useless app.",
+        "Impossible to redeem your Jet Miles using this app... I have spent my entire after noon navigating from one error to the other.",
+        "Very badly built app which takes ages to respond on every screen and even redirections are not properly handled...this is the state of this app running on even high end phones and with 4G network. It seems that providing a bad customer experience is forte of Jet airways in every department!",
+        "Worst app to register... No options for city lists but yet Asking to select the city and no options to type the city name... so failed attempt to register",
+        "Payment options are only limited to debit and credit cards if you want to purchase seats. I booked flight tickets but later on while buying seats payment options are very much restricted and limited.",
+        "Useless app, the Web check in always fails, the auto complete drop down list doesn't let you select certain airports (e.g. Ho Chi Minh City), completely irresponsive and slow, a real disappointment unfortunately. Said that, the website has exactly the same issues, when the code base behind is poor you can't expect more."
+    ],
+    "recentChanges": [
+        "• Miscellaneous bug fixes and improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jetairways&hl=en&gl=us",
+    "appId": "com.jetairways"
+}

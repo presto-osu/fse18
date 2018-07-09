@@ -1,0 +1,58 @@
+{
+    "title": "Tally Counter for Wear",
+    "summary": "Tally Counter for Android Wear - Use it to count anything you need to track!",
+    "icon": "//lh3.googleusercontent.com/yHL2OKpn0Yg8vyLcrVTfQZgxGeXngHVvvT2MobleoJike_SkU-QZSibeoDz0tdem=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 27,
+    "developer": "Fat Russell",
+    "developerId": "4948350704947456352",
+    "developerEmail": "virginia@fatrussell.com",
+    "developerWebsite": "http://www.fatrussell.com",
+    "developerAddress": "428 Braddock Street\nJohnstown, PA 15905",
+    "updated": "January 14, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Tally Counter for Wear from Fat Russell LLC works on all Android Wear watches. Use it to count anything that you need to keep track of!  You can save tallies and continue counting later, reset tallies that you need to repeat often or delete a tally that you're done with.  Use “Tally Counter” to:•   take attendance•   count livestock•   track distance or laps when running•   count money•   keep track of rows when knitting or stitching•   check off a sequence of events•   count prayers•   tally beers consumed Whoa!  Counting can be fun!  Enjoy!",
+    "descriptionHTML": "<b>Tally Counter for Wear</b> from <i>Fat Russell LLC</i> works on all Android Wear watches. Use it to count anything that you need to keep track of!  You can save tallies and continue counting later, reset tallies that you need to repeat often or delete a tally that you&apos;re done with.  Use &#x201C;Tally Counter&#x201D; to:<br><br>&#x2022;&#x2003;  take attendance<br>&#x2022;&#x2003;  count livestock<br>&#x2022;&#x2003;  track distance or laps when running<br>&#x2022;&#x2003;  count money<br>&#x2022;&#x2003;  keep track of rows when knitting or stitching<br>&#x2022;&#x2003;  check off a sequence of events<br>&#x2022;&#x2003;  count prayers<br>&#x2022;&#x2003;  tally beers consumed <br><br><b>Whoa!  Counting can be fun!  Enjoy!</b>",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/E5vPJWGP1D6bIl_BSz9SxAxnp3mMo1mqmvozdiKuyiZ0-xQEpg02S4zpHMPKPnIRJwAC=h310",
+        "//lh3.googleusercontent.com/SvW5INHxIm96t9JafhaUR4LJjEAs6mN4695MsrI4BunZEGXZlNtfDsnpUmaXTCyU_hxW=h310",
+        "//lh3.googleusercontent.com/yrNW2Ee96FiKop7o2iPx8fbcpRCtDU__oPyy_hWVEbyVyBdpYduVS41DzIGpQe1zGEo=h310",
+        "//lh3.googleusercontent.com/fEgU6HNekvSxQIuw6Nr6wfBT_zLZHPmoKRw_io8uDBSAQ9FZFVKWQWICwJVXc7cIuw=h310",
+        "//lh3.googleusercontent.com/mOg25SQF37iEAHgf8KqGBbFQU3qR2VnozMRusaoo1aT6xClm5eon3AssFs6qXjhGQOzx=h310"
+    ],
+    "comments": [
+        "Really nice!",
+        "Works great for knitting. Perfect, actually. I would prefer if the + was bigger and more centered on the screen, but it really doesn't matter because even having the ability to keep track of my rows while knitting from my watch (instead of from my phone) is extremely convenient. On my phone I'd constantly get sidetracked by other applications, get locked out and stuck entering my lock code every time I wanted to just add a row. What makes it better is that I can then save the tally ❤❤",
+        "I tally what, this app is awesome! I never new how to keep track of how many sheep it took to fall asleep, now I do.",
+        "This is very useful to have on a smartwatch. Now that it makes use of a wake lock, it's even better.",
+        "Great app It's easy to use and nicely designed. I use it to give my kids points for good behavior.",
+        "A lady ALWAYS knows how many glasses of wine she's had. Don't be a crass lout at the party!  Keep track of how many glasses of vino you've had with this fun little app.  Keep count and keep it classy girls!"
+    ],
+    "recentChanges": [
+        "Support for Android Wear 2.0 and those using iPhones!",
+        "Added support for always-on screens.  Tally counter will stay open and go into ambient mode instead of closing and going back to the watch face.  This feature requires permission for \"Wake Lock\".",
+        "For those upgrading, you will need to accept the new permission to access the new version (1.2)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fatrussell.tallycounter&hl=en&gl=us",
+    "appId": "com.fatrussell.tallycounter"
+}

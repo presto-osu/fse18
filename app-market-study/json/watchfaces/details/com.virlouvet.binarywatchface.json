@@ -1,0 +1,56 @@
+{
+    "title": "Binary watch face",
+    "summary": "Geek binary watch face, 16 million colors available",
+    "icon": "//lh3.googleusercontent.com/6neo_zQrIazRfMgq9dxUD66VMvutgOIkCWX68nL2u9yDcTF6U1uoHvDwfFKbGKGeMsQg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.7,
+    "reviews": 3,
+    "developer": "Virlouvet Xavier",
+    "developerId": "Virlouvet+Xavier",
+    "developerEmail": "virlouvetxavier@gmail.com",
+    "developerWebsite": "http://www.virlouvetxavier.fr",
+    "developerAddress": "Mr Virlouvet Xavier 68 Avenue de la Libération Appartement 101 72000 Le Mans",
+    "updated": "November 27, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "A Geek screen (WatchFace or Watch Face) for your SmartWatchYou have for outer cercle the hours.For the middle cercle the minutes.For the inner cercle the secondes.The date is print at the middle of the screen.There is also a good battery management to improve the battery life of your SmartWatch.With this WatchFace you have the date and hours, and you can make it unique. Customise your WatchFace with the Android Wear application on your smartphone.Color is available is level of Red, Green, Bleu ( => More than 16 Millions Color)I still developing this WatchFace so ask me if you need a new fonctionnality.To read the hours, for example if the circle 16,4,2 is colore, the hours is 22 (16+4+2)Thanx You",
+    "descriptionHTML": "A Geek screen (WatchFace or Watch Face) for your SmartWatch<br>You have for outer cercle the hours.<br>For the middle cercle the minutes.<br>For the inner cercle the secondes.<br>The date is print at the middle of the screen.<br><br>There is also a good battery management to improve the battery life of your SmartWatch.<br><br>With this WatchFace you have the date and hours, and you can make it unique. Customise your WatchFace with the Android Wear application on your smartphone.<br><br><br>Color is available is level of Red, Green, Bleu ( =&gt; More than 16 Millions Color)<br><br>I still developing this WatchFace so ask me if you need a new fonctionnality.<br><br>To read the hours, for example if the circle 16,4,2 is colore, the hours is 22 (16+4+2)<br><br><br>Thanx You",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/fggzlg2YtJaaqFyfU0Lt1TRpo1xCE0iEkzQ5OmZ4tLAWTecfWTMTUdAX0ydS5JxpTu83=h310",
+        "//lh3.googleusercontent.com/UteIov96P3ln8ef1oeKd3SZbfA7Dchi0SxF50ogSjxtoFdOO5n4QgzBEVUrgFVttftk=h310",
+        "//lh3.googleusercontent.com/oVW9Lo2X2ve_iXpkVGPjkJ9f6GZeQIXQbt1bkQk6lHo2zduvWgpIE_Ljp53KdsoosA=h310",
+        "//lh3.googleusercontent.com/XWLu6KuYyP9MfpU4kKkNE118qk1wqSigGzaSRGi5y7YY730oCrlvdUTsGRyEsETR9Zc=h310",
+        "//lh3.googleusercontent.com/E5FBpPm8JNuiooboHHlwJbjoR6IUxQwY82b_MC5TwRqFmQOO308NoDeG6Ebol4T-oaI=h310",
+        "//lh3.googleusercontent.com/4dILU1awjqyeLUGth3QosJsF6c6Y9Vyz7f_QqMCM9fL0cZowj6jRfF8QefQPp712UfY=h310",
+        "//lh3.googleusercontent.com/gP4C3_PDyFT0cwPy_Iz2eRWwmA8WsfiO0vPfyZM5hRv_fjogWjbsPhU5xKNxFe3T8A=h310",
+        "//lh3.googleusercontent.com/R1lplA6LOECjDwAgA1yORmBZpMRDU6h_uNz7wAivoTpjkkhO6mqTdytvy5DIc5lk9qo=h310",
+        "//lh3.googleusercontent.com/C5JfQovt4MCmtHViXGuZpzsxwnyTkAGj4iNtQ2HGwX9QIPlUme-G1OPGwcQwIPG0osY=h310",
+        "//lh3.googleusercontent.com/G7XLQC5EM2fTSr1KOEXZrPpvzydk5aocpttFXl7s02jbu8jF2rk5ywbyxN9_1BZpkPzU=h310"
+    ],
+    "comments": [
+        "Great app! I just wish I could figure out how to set it to 24h time as shown in the pictures. All of my other watch faces and my phone show 24h time. But this face shows 12h. Thanks!"
+    ],
+    "recentChanges": [
+        "Print hours with 24h format."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.virlouvet.binarywatchface&hl=en&gl=us",
+    "appId": "com.virlouvet.binarywatchface"
+}

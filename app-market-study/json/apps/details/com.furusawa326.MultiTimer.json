@@ -1,0 +1,58 @@
+{
+    "title": "Multi Timer",
+    "summary": "You can use multiple timer in parallel.",
+    "icon": "//lh3.googleusercontent.com/aMKU5c00Z_HgUcQ6p97iqCGQO0xMrdqnxx_5z_ujCU3UsdLCqbTxpu49lt6LhzLsaA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 14,
+    "developer": "furusawa326",
+    "developerId": "8775447991534774498",
+    "developerEmail": "furusawa326@gmail.com",
+    "developerWebsite": "http://www.applandr.com/apps/MultiTimer-g/?",
+    "developerAddress": "横浜市都筑区加賀原2-2-1",
+    "updated": "June 27, 2017",
+    "version": "2.24",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "You can save as a template timer which used often.At first, you tap + button. Then you choose new or template. When you choose template,a timer added immediately. And you tap hourglass icon, then a timer starts.【Edit timer】When you tap a pencil icon, the screen is belong to edit timer screen. You can edit title, message, time, and operation when the time is up.If you choose speech, the device should be installed TTS.When you choose play sound, you can set repeat time. If you set to 0, the sound will loop.【Edit template】Tap the three line at top left, then the drawer menu will open. And you select edit template.Or, at edit timer screen, you can choose \"save as template\".【How to stop notification】When the popupscreen had displayed, you can stop notification by tap ok.Or, you can stop notification by tap the blinking hourglass icon.When many timer are notifying, all notification will stop by you shake the device. It is available by setting.【Cooperation with android wear】 You can cooperation with android wear. When you select a notification to the Status bar as a notification method, you will be notified in android wear when time is up. You can also stop notification from the android wear.",
+    "descriptionHTML": "You can save as a template timer which used often.<br><br>At first, you tap + button. Then you choose new or template. When you choose template,a timer added immediately. And you tap hourglass icon, then a timer starts.<br><br>&#x3010;Edit timer&#x3011;<br>When you tap a pencil icon, the screen is belong to edit timer screen. You can edit title, message, time, and operation when the time is up.<br>If you choose speech, the device should be installed TTS.<br>When you choose play sound, you can set repeat time. If you set to 0, the sound will loop.<br><br>&#x3010;Edit template&#x3011;<br>Tap the three line at top left, then the drawer menu will open. And you select edit template.<br>Or, at edit timer screen, you can choose &quot;save as template&quot;.<br><br>&#x3010;How to stop notification&#x3011;<br>When the popupscreen had displayed, you can stop notification by tap ok.<br>Or, you can stop notification by tap the blinking hourglass icon.<br>When many timer are notifying, all notification will stop by you shake the device. It is available by setting.<br><br>&#x3010;Cooperation with android wear&#x3011;<br> You can cooperation with android wear. When you select a notification to the Status bar as a notification method, you will be notified in android wear when time is up. You can also stop notification from the android wear.",
+    "histogram": {
+        "1": 3,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/W2CBTg-mKYYPD9xESKpd4z0AUdPnjlwdylZvu_VY9y7nG0MQplbg1fY9jIQzhBdg7yY=h310",
+        "//lh3.googleusercontent.com/dArRrXlQ1wvnQsrBCADW-3Dp_oiO27EWThwBPWC4qPZ7hy0r2fT16RXHA4kHvtQrfpA=h310",
+        "//lh3.googleusercontent.com/5MaMBquT4z6K_ThKbu-1SnyRP9X_LOAoZLvMYXfqJpexDymsFeT1CgDlzqN_QvmPXw=h310",
+        "//lh3.googleusercontent.com/6ygeH5xOqrVJKCqui64Q7qv8ahxNT5UCr70ASkb4LjBYGxwd8DJJ8pJ7V6JJSUjm8V0=h310",
+        "//lh3.googleusercontent.com/gwz8vBOtGQiWtOe6sB8OnFAcUQgMjxdRXAz-3JNRUdbAkcvZjRnaLVLJENswdrpaItM=h310",
+        "//lh3.googleusercontent.com/qMnOKT9IOTZoXsFHj8oghdCZzdfCleJ67AFR2aZEvsJOt4974B2s0lPGCrbSxxmw6A=h310",
+        "//lh3.googleusercontent.com/Stjy1BYFCAb4V5Tr7eP2r0Ptvbh380gAgJKFTwqiZFA5lKQ5-BDVMuuZnDiqs9TO3jc=h310",
+        "//lh3.googleusercontent.com/EAEr3kOknv2jhe3Fgb9i7CYzMjMUXnGjNwF5htV42Unlg_lVb1atCnNlAweBtgul8CEf=h310"
+    ],
+    "comments": [
+        "You can't set it for days ahead. It only goes 23 hours long at the most. & lots of ads so if an ad comes up right before the alarm goes off, the ad will stop the alarm.",
+        "Buggy I liked the idea,  and seemed good until I tried to create templates. It kept deleting them. I finally just gave up.",
+        "So useful Such a simple concept but makes it so much easier to time when cooking.",
+        "Sorry man.... Back to the drawing board It's not working",
+        "hello. would you mind if you add \"days\" on timer? thanks",
+        "Cool Very useful to keep track of multiple times at once"
+    ],
+    "recentChanges": [
+        "Bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.furusawa326.MultiTimer&hl=en&gl=us",
+    "appId": "com.furusawa326.MultiTimer"
+}

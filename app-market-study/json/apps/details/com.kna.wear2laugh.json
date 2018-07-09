@@ -1,0 +1,54 @@
+{
+    "title": "Wear 2 Laugh",
+    "summary": "Play funny sounds from your smartwatch. You can add your custom sounds.",
+    "icon": "//lh4.ggpht.com/kNg8-P0Ia7ifWMC_DWrO0iCfa1UEfwHxZLLCi8TUzh8ZVKh_E9AfQK5XPP0X6mx2-lo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 8,
+    "developer": "Pablo Cañamares Ullan",
+    "developerId": "Pablo+Ca%C3%B1amares+Ullan",
+    "developerEmail": "kanamares@gmail.com",
+    "updated": "October 22, 2014",
+    "version": "1.3",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Play funny sounds from your smartwatch. Open your app in your Android Wear compatible device, search for your sound, and start it.You can add your custom sounds, from your Android app.** More sound to come** Please feel free to send any suggestions you see fit.",
+    "descriptionHTML": "Play funny sounds from your smartwatch. <br>Open your app in your Android Wear compatible device, search for your sound, and start it.<br><br>You can add your custom sounds, from your Android app.<br><br>** More sound to come<br>** Please feel free to send any suggestions you see fit.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/rgIHjiioi8rbSvNHBi1-lzZmXSxK5qLED9upo_20UnTI51i7IIsWdPpXbF1KqZB-d2I=h310",
+        "//lh4.ggpht.com/JrEyE0CNUCTWQAxwWCkRZ89tAgOutlYtLY-ovnxcuAnECvru044ZinutvZZO1IYBpYiJ=h310",
+        "//lh6.ggpht.com/tM4ViQPDfwERlTQd7r8Fe8hAhciEhnEmHs9u0kngfa9jZ-KCf4ZvD01NNFiOkaIOJEz7=h310",
+        "//lh6.ggpht.com/XDuBdpUdayjRWpUgwpukunczdHJw3i8p6aIohKENtezcDfbc20Bhr0G_YHTDpUKxG2Y=h310",
+        "//lh6.ggpht.com/9No7u2mF6LZOFcDGodruF-CGyqmPhH8J9edOhDMk00kwpxDVGmFTUbMO6f0OcKIUx-g=h310",
+        "//lh6.ggpht.com/EObeWg5ab-BX8sRG3qwWv309_PUYpdX-4H2g1fGpQQk8oi7HXyHKamVQiwUweJfsgsPI=h310",
+        "//lh6.ggpht.com/b6zS-W-pjRnVxgKTdkEC9GftWIzFFoDrP-LKfKBnQovl70291UOdnWgaKVq8jsELyA=h310",
+        "//lh5.ggpht.com/MC6bKAuYOKHj8QSpsJsZdU2BNl_8dIoGIAXdfHvE6hRWzkkM0kv08EH7ZqU-D35QF4g=h310"
+    ],
+    "comments": [
+        "Nope Doesn't allow me to add my own sounds. I press the sound I want and nothing happens. I press play and nothing plays and I can't save it either",
+        "What? Doesn't work on LG G Watch"
+    ],
+    "recentChanges": [
+        "** Added launch custom sounds from voice (Mic)",
+        "** Fixed some errors",
+        "** Added more checks for possible errors"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kna.wear2laugh&hl=en&gl=us",
+    "appId": "com.kna.wear2laugh"
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Voice Control for Plex",
+    "summary": "Control Plex clients with your voice!",
+    "icon": "//lh3.googleusercontent.com/Ln1bfmrbG20Kb5WsviJ5BshU7i_iV6ZyD1u7DmLuFkaB540dpnNlopAuYdxgCrvNJgw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.3,
+    "reviews": 124,
+    "developer": "Chris Bellew",
+    "developerId": "Chris+Bellew",
+    "developerEmail": "atomjack@gmail.com",
+    "developerWebsite": "http://forum.xda-developers.com/showthread.php?t=2585066",
+    "developerAddress": "3618 22nd Street #31\nSan Francisco, CA 94114\nUSA",
+    "updated": "January 12, 2017",
+    "version": "2.1.5",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "**** Please email me or post to my XDA Thread if you have any problems ***Control Plex clients with your voice! Voice Control for Plex allows you to send voice commands to Plex for playback and control.There are four ways to trigger Voice Recognition:1) Tap the app icon on the main screen.2) Install the home screen shortcut via the menu button from the Main Settings screen (or manually).3) Use utter! to pass voice commands to Tasker, which passes those commands on to this app.4) Similar to #2, but using AutoVoice instead of utter!5) If your device is rooted, you may install the Xposed Framework (http://goo.gl/qf2xmW) and the Google Search/Now API v1.2.1 (http://goo.gl/WW3Ui0) to have your voice commands passed from Google Now into this app.To use method #2 or #3 you will have to import a Tasker project via the menu button. After selecting to open the XML project file with Tasker, you will be redirected into Tasker, where you will have to finish the import by long pressing on the Home button (at the bottom of the app), then import, then select VoiceControlForPlex.prj.xml.If you enjoy this app, please consider purchasing the Donate app to support further development! http://goo.gl/tufHomPlex clients supported:Plex Home Theater (OS X, Linux and Windows)Android (limited to 1 minute, in app purchase to unlock)iOSRokuChromecast (In-app purchase)Android Wear is also supported (in-app-purchase)Upon first launch, you will have the ability to login to Plex. This is recommended as it will allow you to stream from any shared servers you have access to, and your own if it requires Plex login. After initial scanning for servers and clients, you can select your default server via the left navigation menu (if you have multiple PMS's, you can leave this setting to \"Scan All\" so that all of the servers are scanned for media. If you only have one PMS, however, you should set it here as scanning all servers will cause a delay in starting playback.) Then, select a Plex client via the Cast button in the Toolbar. You can trigger voice recognition via the app logo on the main screen, or via a homescreen shortcut (which you can create via the left navigation menu). Simply start up your chosen Voice Recognition method, and speak any of the below examples to trigger playback on the chosen Plex client. You can also specify a client to stream to by adding \"on \" to what you say to Google Now.Usage:For Movies:    \"Watch Aliens\"    \"Watch Children of Men\"    \"Watch movie Fight Club\" (I guess specifying \"movie\" would only really be useful for a movie with \"Episode\" in the title?)For TV Shows:    \"Watch season 1 episode 5 of Homeland\"    \"Watch The Newsroom Season 1 Episode 2\"    \"Watch Breaking Bad season 5 episode 8\"    \"Watch episode Once More With Feeling of Buffy The Vampire Slayer\" (Specifying the name of the episode)    \"Watch Game of Thrones episode The Rains of Castamere\" (Alternate)    \"Watch the next episode of The Walking Dead\" (uses Plex's \"On Deck\")    \"Watch The Walking Dead\" (alternate way of \"On Deck\", as long as no matching movies are found).    \"Watch the latest episode of The Daily Show\" (plays the most recent episode by air date)    For Music:    \"Listen to Black Sands by Bonobo\" - to play a single song    \"Listen to the album Drink The Sea by The Glitch Mob\" - to play an album    \"Listen to the album Music Has The Right To Children\" (Artist is optional. Specify if more than one match is found)Playback control, seeking, and subtitle/audio stream is also supported. See the Usage Examples (via the navigation drawer) in the app for examples.If you do not have \"Resume if in progress\" checked, you can say \"Resume watching\" instead of \"Watch\" to resume playback.If you run into problems, or have suggestions or requests, please visit my XDA thread: http://goo.gl/S1IdrF",
+    "descriptionHTML": "**** Please email me or post to my XDA Thread if you have any problems ***<br><br>Control Plex clients with your voice! Voice Control for Plex allows you to send voice commands to Plex for playback and control.<br><br>There are four ways to trigger Voice Recognition:<br>1) Tap the app icon on the main screen.<br>2) Install the home screen shortcut via the menu button from the Main Settings screen (or manually).<br>3) Use utter! to pass voice commands to Tasker, which passes those commands on to this app.<br>4) Similar to #2, but using AutoVoice instead of utter!<br>5) If your device is rooted, you may install the Xposed Framework (http://goo.gl/qf2xmW) and the Google Search/Now API v1.2.1 (http://goo.gl/WW3Ui0) to have your voice commands passed from Google Now into this app.<br><br>To use method #2 or #3 you will have to import a Tasker project via the menu button. After selecting to open the XML project file with Tasker, you will be redirected into Tasker, where you will have to finish the import by long pressing on the Home button (at the bottom of the app), then import, then select VoiceControlForPlex.prj.xml.<br><br>If you enjoy this app, please consider purchasing the Donate app to support further development! http://goo.gl/tufHom<br><br>Plex clients supported:<br>Plex Home Theater (OS X, Linux and Windows)<br>Android (limited to 1 minute, in app purchase to unlock)<br>iOS<br>Roku<br>Chromecast (In-app purchase)<br><br>Android Wear is also supported (in-app-purchase)<br><br>Upon first launch, you will have the ability to login to Plex. This is recommended as it will allow you to stream from any shared servers you have access to, and your own if it requires Plex login. After initial scanning for servers and clients, you can select your default server via the left navigation menu (if you have multiple PMS&apos;s, you can leave this setting to &quot;Scan All&quot; so that all of the servers are scanned for media. If you only have one PMS, however, you should set it here as scanning all servers will cause a delay in starting playback.) Then, select a Plex client via the Cast button in the Toolbar. You can trigger voice recognition via the app logo on the main screen, or via a homescreen shortcut (which you can create via the left navigation menu). Simply start up your chosen Voice Recognition method, and speak any of the below examples to trigger playback on the chosen Plex client. You can also specify a client to stream to by adding &quot;on &quot; to what you say to Google Now.<br><br>Usage:<br><br>For Movies:<br>    &quot;Watch Aliens&quot;<br>    &quot;Watch Children of Men&quot;<br>    &quot;Watch movie Fight Club&quot; (I guess specifying &quot;movie&quot; would only really be useful for a movie with &quot;Episode&quot; in the title?)<br><br>For TV Shows:<br>    &quot;Watch season 1 episode 5 of Homeland&quot;<br>    &quot;Watch The Newsroom Season 1 Episode 2&quot;<br>    &quot;Watch Breaking Bad season 5 episode 8&quot;<br>    &quot;Watch episode Once More With Feeling of Buffy The Vampire Slayer&quot; (Specifying the name of the episode)<br>    &quot;Watch Game of Thrones episode The Rains of Castamere&quot; (Alternate)<br>    &quot;Watch the next episode of The Walking Dead&quot; (uses Plex&apos;s &quot;On Deck&quot;)<br>    &quot;Watch The Walking Dead&quot; (alternate way of &quot;On Deck&quot;, as long as no matching movies are found).<br>    &quot;Watch the latest episode of The Daily Show&quot; (plays the most recent episode by air date)<br>    <br>For Music:<br>    &quot;Listen to Black Sands by Bonobo&quot; - to play a single song<br>    &quot;Listen to the album Drink The Sea by The Glitch Mob&quot; - to play an album<br>    &quot;Listen to the album Music Has The Right To Children&quot; (Artist is optional. Specify if more than one match is found)<br><br>Playback control, seeking, and subtitle/audio stream is also supported. See the Usage Examples (via the navigation drawer) in the app for examples.<br><br>If you do not have &quot;Resume if in progress&quot; checked, you can say &quot;Resume watching&quot; instead of &quot;Watch&quot; to resume playback.<br><br>If you run into problems, or have suggestions or requests, please visit my XDA thread: http://goo.gl/S1IdrF",
+    "histogram": {
+        "1": 31,
+        "2": 12,
+        "3": 16,
+        "4": 19,
+        "5": 46
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/RWohOVli7W2PMGG8RC8q1guijQXV8PMwOBdzXPGzzIMC8UopXPGYt06YsZlvSh9LPu4=h310",
+        "//lh3.googleusercontent.com/W1EN9EeXo4nEAKxjtM6AyVypSke6z_fZOLslS35hcGbMg8o-WD7dfN6RZjHTEFcULwk=h310",
+        "//lh3.googleusercontent.com/JFxptj3of0f9F9mTTxnydty3n_4c2lc5hU0olCuXVpQobJZGp8xRYgQYU_q_2p-67hs=h310",
+        "//lh3.googleusercontent.com/9q_uSSusHsxgKuul8wpgneluYIKw8H9beoEcrzBl6JaGdFwvL7Xi7osXzo_q5IENDg=h310",
+        "//lh3.googleusercontent.com/mMC4Y8hCFp4gLfTnct7Bqlb-qLAG_gXLg0VllrW0FKb_b-X21fv6qjUlgonoU8_SIA=h310",
+        "//lh3.googleusercontent.com/8IL2jn42Qx7S0yrFveWUZtZRy5Fzh0qJjBnxZQLbjztvXhAuThExHbRSutx7z9VJ9BeH=h310",
+        "//lh3.googleusercontent.com/5iCy6pEj8U72ik0c6mXjiZvRMPDIm6DileriBpkQ0xThco7Nazhmy3mm5yw1WjZOY6w=h310",
+        "//lh3.googleusercontent.com/cNFEanPbC_X7-xGOvjSuvQcIiuouY_tdQXmZYsKbwHQX92Bhoex-uYFSvjw5H_MUbw=h310",
+        "//lh3.googleusercontent.com/j9OlEk6-jkrT4vH3W9LguDfQhh1nhSzW7xJeKhMm3tvegFIsQVYa2tC_Y9JVu9e7bw=h310"
+    ],
+    "comments": [
+        "I bought this for my note 4 a few years ago, and it worked, but it seemed to crash every so often, though when it worked, it worked well.  I now have it on my Note 8, and haven't seen any trouble with it at all, it works very well, finding and doing whatever I ask it to. I want to show this off to friends/family this holiday season, I'm pretty sure they will be impressed. I've gotten 2 others into Plex, perhaps they will like this as well!",
+        "Would live for this to work but it just responds, \"Sorry, I didn't understand that\" to everything I say.",
+        "Won't recognize my Plex server, linked fine but unusable. And what's with the Trialware? Uninstalled.",
+        "Need to be able to choose a lower quality setting for Chromecast than 1.5mbps",
+        "Everything works fine, except it crashes constantly. I generally cannot keep the app open for more than one full minute.",
+        "The voice recognition works fine,  but it never finds anything I ask to watch or play"
+    ],
+    "recentChanges": [
+        "Added new voice commands:What's New, What's on deck, and What new movies do I have.",
+        "Fixed playback on Amazon Fire TV.",
+        "Fixed Chromecast Discovery.",
+        "Internal refactoring."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.atomjack.vcfp&hl=en&gl=us",
+    "appId": "com.atomjack.vcfp"
+}

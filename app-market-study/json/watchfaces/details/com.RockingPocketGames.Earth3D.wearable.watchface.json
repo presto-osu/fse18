@@ -1,0 +1,54 @@
+{
+    "title": "Earth 3D Watch Face",
+    "summary": "3D Earth Watch Face",
+    "icon": "//lh3.googleusercontent.com/ReBrug1DLFbJNUisOUSNbRWFIhPsXSHuibm8IUO3BZVHNapygDXMxQHWx8LPnhMijQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.7,
+    "reviews": 23,
+    "developer": "Rocking Pocket Games",
+    "developerId": "6896544850346764131",
+    "developerEmail": "support@rockingpocketgames.com",
+    "developerWebsite": "http://www.RockingPocketGames.com",
+    "developerAddress": "94 Andover Drive\nLondon, Ontario\nN6J 3X2\nCANADA",
+    "updated": "July 9, 2015",
+    "version": "1.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "The Earth 3D watch face displays a 3D rotating earth with separate cloud layer and the time displayed.The watch face will automatically install to your android wear device after installing the companion app on your handheld device. It may take a couple minutes for it to appear on the watch due to the number of high resolution images.  Set the Earth 3D watch face on your watch after installation is complete.For more applications visit our website at http://www.RockingPocketGames.com",
+    "descriptionHTML": "The Earth 3D watch face displays a 3D rotating earth with separate cloud layer and the time displayed.<br><br>The watch face will automatically install to your android wear device after installing the companion app on your handheld device. It may take a couple minutes for it to appear on the watch due to the number of high resolution images.  Set the Earth 3D watch face on your watch after installation is complete.<br><br>For more applications visit our website at http://www.RockingPocketGames.com",
+    "histogram": {
+        "1": 5,
+        "2": 1,
+        "3": 2,
+        "4": 4,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nCJ4VYJGwXJSjNzM6BunCxVA-2PBGE_CB9pDY2hmg41IzECJN1M9QOs_t2Lh9yuvfYE=h310",
+        "//lh3.googleusercontent.com/yuHeImDBxpHEC7qe84cRjphcp7Jb7XJomKlXWyfK9XDYNahymVImR_yHqTO_5-TP8sk=h310",
+        "//lh3.googleusercontent.com/ckFyUlJ4ZoVm9nfovSjoDstaMx_iC2X-Rs_2QMy1MWITjf0Sgbi0uhMjyZFSZE1BUsA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/0IHK-nPOFjQ",
+    "comments": [
+        "Brilliant Just what I was after. Works perfectly on moto 360 2nd, unlike the other android wear world face, which was a bug ridden nightmare. Well done to the developer. Please add 24hr clock and some day/date options to improve.",
+        "Amazing Need options to change font... Other than that. It's AMAZING",
+        "Hey, that's cool! Animated globe. Looking forward to moon and other planets ;)  Hope you can improve battery life, though.",
+        "I payed for this app so that I could use it on my gear s3 frontier and it installs on my device but is nowhere to be found!!!",
+        "Needs more features, will give more stars Needs battery and date indicator...will give more stars if you give more features",
+        "Drains the battery"
+    ],
+    "recentChanges": [
+        "-Fixed alignment bug in Android Wear 5.1.1"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.RockingPocketGames.Earth3D.wearable.watchface&hl=en&gl=us",
+    "appId": "com.RockingPocketGames.Earth3D.wearable.watchface"
+}

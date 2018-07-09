@@ -1,0 +1,53 @@
+{
+    "title": "TLI Classic Watch Face",
+    "summary": "Tells time. And other things.",
+    "icon": "//lh4.ggpht.com/L0LPXxyRMnyFkxUBgyeOohWifTTeXFxfMizMh7nceAya3UbL44faF6VDfhLq78yG1J0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 13,
+    "developer": "touchlab",
+    "developerId": "7507883486541393133",
+    "developerEmail": "info@touchlab.co",
+    "developerWebsite": "http://touchlab.co/team.html",
+    "developerAddress": "6 e 32nd st\n9th Floor\nNew York, NY 10016",
+    "updated": "January 5, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Round, classic watch face for those who want to tell time, and possibly date and weather. Works on square watch faces too.",
+    "descriptionHTML": "Round, classic watch face for those who want to tell time, and possibly date and weather. Works on square watch faces too.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 2,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/VZPpJLnTNFjzFculw8M4LimTLnIvsWzhxLKAll8-D4CMVPdKolVkpd9AVMBypMDmwy4=h310",
+        "//lh5.ggpht.com/NR8sTYefP9EHUskiqMr4bOR1qUD666-KO9ZlNf1eE2KwmQsMzDsvknAwsmcj6dUEzw=h310",
+        "//lh4.ggpht.com/HAblgoZc4azw_XuFtGG3txSzUPkvgLmQTRvmGn9x-Q9I4pns1AsyBELbRH10Yhg7f1_u=h310",
+        "//lh5.ggpht.com/zNWVVfkwHqNtZS6X1HE6qLrqTvHzoVAnV6XHUsOgQbEDcnphJYB4ufIXEqxFRfeDceo=h310",
+        "//lh3.ggpht.com/xBPIXZfJbVSs8ZF7GCr_npBcwJfhn36JNkhADulOBXwDEgYC9VfFPdnepYKmPf6gfdSn=h310",
+        "//lh5.ggpht.com/0bi-SYIKTaCwFlnq7xqPiUTN3WyGMOv9Eju4aUzRwD8JDSDCXerLFcWsOLE9rcXMJTs=h310",
+        "//lh4.ggpht.com/j8eGW4SjzjhmL73q96dLcDYgSn4ahLWlTWEMWDCvmdSCgyitCG4w6CUEu8bbgz3GvuU=h310"
+    ],
+    "comments": [
+        "I had about given up trying to find a classic watch face that showed date and temp clearly legible until I came across this one. Perfect! Thank you TLI. I'm sticking with this one.",
+        "Love it! I run Touch Lab, though, so I'm biased. Anyway, thanks to Walter for the great work on this.",
+        "It shows temperature in F only",
+        "Awesome!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.touchlab.wearable.watchface&hl=en&gl=us",
+    "appId": "co.touchlab.wearable.watchface"
+}

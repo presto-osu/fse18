@@ -1,0 +1,53 @@
+{
+    "title": "Night Clock for Wear",
+    "summary": "Use your Android device Wear as a night clock.",
+    "icon": "//lh5.ggpht.com/aQwMYON0Xe5OGVPUCuB3X1eOP3KAMJs-j7JVXxXyhyFxNtrm-EyHFd_2Fo2MjVKktA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.4,
+    "reviews": 9,
+    "developer": "FrostedKiwi",
+    "developerId": "5265122702261161158",
+    "developerEmail": "apps@frosted.kiwi",
+    "developerWebsite": "http://frosted.kiwi",
+    "developerAddress": "Koolmees\n1423NE Uithoorn",
+    "updated": "September 1, 2015",
+    "version": "1.3.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "This app will allow you to put your watch on the charger while keeping the screen on and displaying the time.You can choose any color, font size and choose between three font styles.Thanks to the burn-in protection your screen will not be ruined anymore.You can now also rotate the clock for sideways charging, and make the app start automatically when you put it on your charger.If you have any features or suggestions, feel free to send me an email!Press the clock to change the settingsThe Android Wear app takes some time to push the app to your watch, so please wait a few hours before it becomes available.",
+    "descriptionHTML": "This app will allow you to put your watch on the charger while keeping the screen on and displaying the time.<br>You can choose any color, font size and choose between three font styles.<br><br>Thanks to the burn-in protection your screen will not be ruined anymore.<br>You can now also rotate the clock for sideways charging, and make the app start automatically when you put it on your charger.<br><br>If you have any features or suggestions, feel free to send me an email!<br><br>Press the clock to change the settings<br><br><b>The Android Wear app takes some time to push the app to your watch, so please wait a few hours before it becomes available.</b>",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/B4RM2BR7enhB7com0V7n9j8HpDZSlN7T5qMtR_aUNhWJREyJYf1UQJFFlIRNXx3zPyM=h310",
+        "//lh5.ggpht.com/0AvMF1T1VY6TvUgpBFWpoaq-a8EiF5TMcSbbRU1YEASXpyJODemU0nRcdMI5xJBJPw=h310",
+        "//lh3.ggpht.com/ieEDVH5zoFlDcigqXsFwGjEM2TNBSxlFKzYoagC-YJNjFgYHkiavtlQSmhZDDukIJPs=h310",
+        "//lh4.ggpht.com/PPuIU7Xj0q5zTjLs6fYUbMI05rZlzktztzsnHfuLo-nMO3RcIykIrLTL5c5HrqkzdV19=h310"
+    ],
+    "comments": [
+        "Great app but Great app but there's others out there like it. But if you really want to make money create this as a normal watch face app with full color ambient mode. With a full color ambient mode and the time moving around every minute would be something no other watch face app offers yet is in high demand by users who want to use always on display that will not cause burn in.",
+        "Used to be great, now with update to android wear 2, the background is a light gray instead of black.. Way to bright, needs fixing!",
+        "Didn't work"
+    ],
+    "recentChanges": [
+        "- Added option to start when put on charger",
+        "- Added option to rotate clock (for sideways charging)",
+        "- Reworked settings menu"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=kiwi.frosted.nightclockforwear&hl=en&gl=us",
+    "appId": "kiwi.frosted.nightclockforwear"
+}

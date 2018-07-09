@@ -1,0 +1,52 @@
+{
+    "title": "Wear HIIT",
+    "summary": "High-intensity interval training timer for Android Wear",
+    "icon": "//lh3.googleusercontent.com/HvvlkZ4SXHK969ULSDyH83cOHd7vF-1DqKcSJLuLTTwrrmubskf2f_zdsxQHr4WfFtI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 2,
+    "developer": "CM Games",
+    "developerId": "CM+Games",
+    "developerEmail": "chris.mckellar@gmail.com",
+    "developerWebsite": "http://mckellar.wordpress.com",
+    "developerAddress": "Newmarket Road\nCheveley\nUnited Kingdom\nCB8 9EQ",
+    "updated": "August 8, 2016",
+    "version": "1.5",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Wear HIIT is an interval timer for android wear providing you with the easiest and efficient way to workout. HIIT can be used in a wide range of exercises from running, weight lifting, cycling etc. Simply set up your timings and goFeatures:Round time - minutes and secondsRest time - minutes and secondsRound time left - counts down Elapsed time - counts up the total timeRound progress - shows the current round out of total roundsVibration feedback lets you know when you are going into a new round or a rest round without the need to look at your watchEasy to use interface - swipe left to setup your custom workoutAlways on clear display lets you see your progressPersistent settings - remembers every time you open the appRound and Square - works with any android wear screen shapeUpgrade to premium to unlock:Warm up time - minutes and secondsWarm down time - minutes and secondsCustom round vibration - create your own vibration patternCustom rest vibration - create your own vibration patternStyles - Fully customization colors of everything you see on your watchAll settings can be configured via the phone companion app then synced to the watchNOTE: Syncing will only work if both the watch app and phone app are both open",
+    "descriptionHTML": "Wear HIIT is an interval timer for android wear providing you with the easiest and efficient way to workout. HIIT can be used in a wide range of exercises from running, weight lifting, cycling etc. Simply set up your timings and go<br><br>Features:<br><br>Round time - minutes and seconds<br>Rest time - minutes and seconds<br>Round time left - counts down <br>Elapsed time - counts up the total time<br>Round progress - shows the current round out of total rounds<br>Vibration feedback lets you know when you are going into a new round or a rest round without the need to look at your watch<br>Easy to use interface - swipe left to setup your custom workout<br>Always on clear display lets you see your progress<br>Persistent settings - remembers every time you open the app<br>Round and Square - works with any android wear screen shape<br><br>Upgrade to premium to unlock:<br><br>Warm up time - minutes and seconds<br>Warm down time - minutes and seconds<br>Custom round vibration - create your own vibration pattern<br>Custom rest vibration - create your own vibration pattern<br>Styles - Fully customization colors of everything you see on your watch<br><br>All settings can be configured via the phone companion app then synced to the watch<br><br>NOTE: Syncing will only work if both the watch app and phone app are both open",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/YzREhAAGHT8-JTccrqWf20sKiB76oGP5bnURpDxwLy_2NEMgOgBj2gZWcp8Q2e4-Ww=h310",
+        "//lh3.googleusercontent.com/PdrPZsvBlftbTPAs-lBWWJN_7_v4HZgXUfjWxfVcFXNJpHX0uGlefm31GUk75_PCNOTU=h310",
+        "//lh3.googleusercontent.com/BwAG7ZPfIn4GxmDv7bMCBvjy8vN8Rczn8lNXk7NY28pYnoW7Fizqb4MihnCInbUtng=h310",
+        "//lh3.googleusercontent.com/9YlFlUvFwTeI-YgJEY-SIimOyiwIBsUcM5X9cfpHN3h26sUyFntrGP3eoNhHjCBytVE=h310",
+        "//lh3.googleusercontent.com/BnK-Eqs62sUU8Y-x8NZ2DezgMGMJ3mgP1mxUz3KNp-3KlnYlOLAvvU6X33x_mtkfVZ4y=h310",
+        "//lh3.googleusercontent.com/bQF8Jp2Z10JKfuC4vQiIsWSIJB8fUK4eD20GaJaOfI9mqli0i_VQ31T6Pn-c9aFv85Pz=h310",
+        "//lh3.googleusercontent.com/bUjLHOhvd7zFOFSwX6KDz-4NmAm6P1oQJDkJ6U1KxkRxAfBVhxAPmVePsWB4liBXQA=h310"
+    ],
+    "comments": [
+        "Great app, fantastic for keeping HIIT training on track. I use it every day. Love the variable vibration pattern and the customisation options available. Definitely worth upgrading. Just make sure the app on the watch is open while syncing from the phone!  The developer is great too. Replied to my email within a day, and was really helpful."
+    ],
+    "recentChanges": [
+        "bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.cm.wearintervaltimer&hl=en&gl=us",
+    "appId": "com.cm.wearintervaltimer"
+}

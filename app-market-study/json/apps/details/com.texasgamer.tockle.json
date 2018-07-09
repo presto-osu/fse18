@@ -1,0 +1,58 @@
+{
+    "title": "Tockle",
+    "summary": "Control your phone from Android Wear.",
+    "icon": "//lh6.ggpht.com/xuPhWu0deSomTEdhDHd00BF7HUe3WK5DPjOi_9cSQdGGIaX6G6gEuOkKJwZOi4sLHN0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 200,
+    "developer": "Thomas Gaubert",
+    "developerId": "8428507969782790742",
+    "developerEmail": "tockleapp@gmail.com",
+    "developerWebsite": "http://gaubert.io/projects/tockle",
+    "developerAddress": "309 East 21st Street #1432\nAustin, TX 78705",
+    "updated": "December 22, 2014",
+    "version": "1.0.9",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Control your phone from Android Wear.Tockle enables control of your phone from your wrist. Toggle WiFi and other system settings, send an SMS message, and even activate Tasker tasks with a simple tap.Features:- Profiles for contextual ActionSets based on time, battery, WiFi, etc.- ActionSets made up of built in Actions to modify WiFi, Bluetooth, and other settings as well as run Tasker tasks- Run any ActionSet from the Wear device with \"Okay Google, start action set\"- Import Tasker tasks with easePermissions:- Internet - Google Analytics (no personal information is ever uploaded, see our Privacy Policy for details)- SMS - send SMS messages when SMS Action is used- Boot - run application on boot if enabled (disabled by default)- Contacts - allow for quick contact picking for SMS and Email Actions- Various Settings - Modify WiFi, Bluetooth, and other settings when the respective Action is runNote: Requires an Android Wear device and the Android Wear companion application.",
+    "descriptionHTML": "<b>Control your phone from Android Wear.</b><br><br>Tockle enables control of your phone from your wrist. Toggle WiFi and other system settings, send an SMS message, and even activate Tasker tasks with a simple tap.<br><br>Features:<br>- Profiles for contextual ActionSets based on time, battery, WiFi, etc.<br>- ActionSets made up of built in Actions to modify WiFi, Bluetooth, and other settings as well as run Tasker tasks<br>- Run any ActionSet from the Wear device with &quot;Okay Google, start action set&quot;<br>- Import Tasker tasks with ease<br><br>Permissions:<br>- Internet - Google Analytics (no personal information is ever uploaded, see our Privacy Policy for details)<br>- SMS - send SMS messages when SMS Action is used<br>- Boot - run application on boot if enabled (disabled by default)<br>- Contacts - allow for quick contact picking for SMS and Email Actions<br>- Various Settings - Modify WiFi, Bluetooth, and other settings when the respective Action is run<br><br><b>Note:</b> Requires an Android Wear device and the Android Wear companion application.",
+    "histogram": {
+        "1": 23,
+        "2": 8,
+        "3": 20,
+        "4": 55,
+        "5": 94
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/NPBJOHHLKSezWe11L0dZ9DNz4hl3vSnYYfSWCYt1dy4LtwZVJT1Fuc0OeSHOf4ZChdY=h310",
+        "//lh4.ggpht.com/iCFByylY3IRxE45cCyAukv4u3BNhQxuHW8SyIofwRjsH-KFd-mDqXcUjPuatXwC9bAw=h310",
+        "//lh5.ggpht.com/YmxVVbrD0WzzdUBoG7XJfaJgvSridEDuQrLECiC3RzzPL4CuIVS_g5fjQLaknFOTfw=h310",
+        "//lh6.ggpht.com/LVYhmGGKzscG3xzRhQT8gAcP3w2PHON9JBLxjcQbDckmbXMumMMcPF30IeNpA1WQCOyR=h310",
+        "//lh6.ggpht.com/E-jTXmmFOSxaIPcjuYGWvpg3JgXNK7PV30g9_Mqz77WmAF5nWWWIclPoTcjZdOAXl5A=h310"
+    ],
+    "comments": [
+        "Stopped working Amazing concept. Seemed to work at first. But now I keep getting the message \"unable to run sms\". I set it to seems sms when I choose the action on my moto 360, but every time I select, I get an error message. Update - lowered my rating further, because it's completely disfunctional, and with all the attempts I made, there is no one to talk to.",
+        "Simple, does the job, pleasing phone app interface. Well done dev! (One quick suggestion: consider an icon change? Almost passed this over as it looked like another watch face at first glance.)",
+        "Cant do tasker App does not have tasker permission",
+        "Good! Nice and simple to work out. Needs waaaaay more actions though for it to be of more use.",
+        "AWESOME APP!!! I was looking all over google play for a android wear phone control app and this one is perfect!!!",
+        "Very Good :)"
+    ],
+    "recentChanges": [
+        "Version 1.0.9 Hotfix 2",
+        "- Addresses Historian crash when renaming an ActionSet or Profile",
+        "Version 1.0.9 changelog: https://t.co/EZCbKGJk4t",
+        "Happy Holidays!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.texasgamer.tockle&hl=en&gl=us",
+    "appId": "com.texasgamer.tockle"
+}

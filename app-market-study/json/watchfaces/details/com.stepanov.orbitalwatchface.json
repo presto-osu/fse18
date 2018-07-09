@@ -1,0 +1,50 @@
+{
+    "title": "Observatorium Watch Face",
+    "summary": "New planetary system on your wrist every day",
+    "icon": "//lh3.googleusercontent.com/0Q_LCtSQhZQqCQ4yGYaGq_ozh91iOAYg1c3aJHwy7l58L4QSiYJnJcZp__JvMN3jGWaH=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.6,
+    "reviews": 11,
+    "developer": "stealeks",
+    "developerId": "stealeks",
+    "developerEmail": "alexprox91@gmail.com",
+    "updated": "December 17, 2015",
+    "version": "1.0.6",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "New planetary system every day!Stars and planets on your wrist.Android Wear smartwatch only.Optimized for round smartwatches such as the Motorola Moto 360.Works at rectangular watches such as the Samsung Gear Live, the LG G Watch.",
+    "descriptionHTML": "New planetary system every day!<br>Stars and planets on your wrist.<br><br>Android Wear smartwatch only.<br><br>Optimized for round smartwatches such as the Motorola Moto 360.<br>Works at rectangular watches such as the Samsung Gear Live, the LG G Watch.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/p2G4SULqx4ZNlAy10EYar4SejDW-NZixtdtN73Wid_CXVMOy4MNPmM6jW4mKDb__NVs=h310",
+        "//lh3.googleusercontent.com/NNGF4wLqtpvSRpDbXyv_H05A--_e1RbL9AE8O86WPHl791iGiYw_m9aEH7xye1COG4w=h310",
+        "//lh3.googleusercontent.com/MPDGz19OhdmBN7S4UgHb00qoY2qVivNrQlRTklKIOUz-0zjWLp8QhcXVL4Y__JeM3Q=h310",
+        "//lh3.googleusercontent.com/NjbhAiUbnrzT8wzl-mv1XAcIW5rVaiB6Xj9lkSGc7eTYWKh2RJtHkothKtuwQZGev_Tt=h310",
+        "//lh3.googleusercontent.com/5Sfyh5_VRztcDZs67AwKtqfNey-EntRE7zUn6wZkGPjaVT6v2gqcDUVtZqs7Dx3z5SU=h310",
+        "//lh3.googleusercontent.com/wG3-pYnT0CQRfNKAflcDrDVFTwDBNgHDHFx7P3PYxdIFOoSBT_bWs7dXBfdCwW-ifA=h310"
+    ],
+    "comments": [
+        "Font size for time could be a  size smaller or adjusted??"
+    ],
+    "recentChanges": [
+        "Settings added!",
+        "Colors updated (Google Design Color Palette)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.stepanov.orbitalwatchface&hl=en&gl=us",
+    "appId": "com.stepanov.orbitalwatchface"
+}

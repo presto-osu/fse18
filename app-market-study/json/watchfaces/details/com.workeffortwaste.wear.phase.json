@@ -1,0 +1,57 @@
+{
+    "title": "Watch Phase - Watch Face",
+    "summary": "A customizable minimal Android Wear watch face where the time rotates into view.",
+    "icon": "//lh3.googleusercontent.com/kEBpSHSvs2CL56_iTRcnZNUOOf16UOmKpyuJRwasPZ7NXh58yASxQUT21VzF94hfxkc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.6,
+    "reviews": 11,
+    "developer": "workeffortwaste",
+    "developerId": "workeffortwaste",
+    "developerEmail": "support@workeffortwaste.com",
+    "developerWebsite": "http://workeffortwaste.com",
+    "developerAddress": "26 Ifoldhurst,\nIfold,\nWest Sussex,\nRH14 0TX",
+    "updated": "May 8, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Watch Phase is a customizable minimal Android Wear watch face where the time rotates elegantly into view.Display the passing of time on your wrist in a unique way.Features:• Compatible with Wear 1 and 2.• Fully standalone, features can be configured directly on the watch.• Six customizable color themes.• Customizable ambient mode.• Optional hour, minute, and second hand for a more conventional feel.• Optional markers in ten minute increments to help tell the time at a glance.• Switch the complication display between minutes and the day of the month.",
+    "descriptionHTML": "Watch Phase is a customizable minimal Android Wear watch face where the time rotates elegantly into view.<br><br>Display the passing of time on your wrist in a unique way.<br><br>Features:<br>&#x2022; Compatible with Wear 1 and 2.<br>&#x2022; Fully standalone, features can be configured directly on the watch.<br>&#x2022; Six customizable color themes.<br>&#x2022; Customizable ambient mode.<br>&#x2022; Optional hour, minute, and second hand for a more conventional feel.<br>&#x2022; Optional markers in ten minute increments to help tell the time at a glance.<br>&#x2022; Switch the complication display between minutes and the day of the month.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/MnAbjZllOEBtMDqMemootInSaTD2WWhz7SL4yx7FmSU1nxQ9Y38D3F6RxLoXLHwT3AQ=h310",
+        "//lh3.googleusercontent.com/7lMtUcDJn5U9jPJzHZFSusV7WnpGVr66Wl4rF6WJ9NfCWkAqOvgDyZYLdmZNqf32OCI=h310",
+        "//lh3.googleusercontent.com/VP0w8EDHNgh7-79Pmjp7f_mqPizKbyeUmRoqK6B6lGNgQ5WMg-dCDHwJLT1bd7BIq00=h310",
+        "//lh3.googleusercontent.com/ui87MAuKCoF8Yw_QG_SvIglEUy5jCzLfpRnh5jOyPRqAkzU05etMKoR-mjEHCsvDgyk=h310"
+    ],
+    "video": "https://www.youtube.com/embed/H8tIkwIvE2M",
+    "comments": [
+        "I can't install this app. Unable to get the widget.",
+        "Edit: I stand corrected. Beautiful and unique, if not overly intuitive in the beginning 😁 Recommended!",
+        "This watch face contains so much awesome it got me pregnant the first time i put it on my wrist, no word of a lie.  Ps. Please add more themes, especially darker ones for those of us with oleds, also a left handed version so the faces roates in a circle the other way.",
+        "Very unique watch face. Needs some more customization options and complications. Other than that, perfect!",
+        "Superb minimalist face. My go to watch choice now"
+    ],
+    "recentChanges": [
+        "• Changes to the 12/24hr system setting are now reflected instantly without needing to reload the watch face.",
+        "• Changed the text on the Ambient Mode configuration to better reflect the visual changes.",
+        "• Complication is now available in Ambient Mode as an optional setting."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.workeffortwaste.wear.phase&hl=en&gl=us",
+    "appId": "com.workeffortwaste.wear.phase"
+}

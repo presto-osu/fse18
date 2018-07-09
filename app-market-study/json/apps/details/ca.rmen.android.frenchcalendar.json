@@ -1,0 +1,62 @@
+{
+    "title": "French Revolutionary Calendar",
+    "summary": "Resizable widget displaying today&#39;s date in the French Revolutionary calendar.",
+    "icon": "https://lh4.ggpht.com/RyVeZBn9jMfu5TQed6BmOe_L_nYska0yaASMwGu4OgChwV7UPSQ9eeZRZqTtPZzcnA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.4,
+    "reviews": 137,
+    "developer": "Carmen Alvarez",
+    "developerId": "Carmen+Alvarez",
+    "developerEmail": "ms.carmen.alvarez@gmail.com",
+    "developerWebsite": "http://rmen.ca",
+    "updated": "October 19, 2017",
+    "version": "1.18.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Resizable widget which displays the current date and time in the French Revolutionary calendar.  The widget supports the following preferences:* Whether to display the current time, or the name of the object for that day of the year (ex: grape).* Calculation method: method used to determine the first day of the year: Either based on the autumn equinox, Romme, or von Mädler method.* Language of the calendar (limited to just a few languages for now).Other features;* Possibility to share the information about the current date.* By default, the color of the scroll is different for each month. But you can also choose the color.* You can choose to display the date on your smartwatch if you have a supported phone.* You can add the widget to your lock screen (on supported devices).Three widget styles:* Horizontal parchment* Vertical parchment* Minimalist",
+    "descriptionHTML": "Resizable widget which displays the current date and time in the French Revolutionary calendar.  The widget supports the following preferences:<br>* Whether to display the current time, or the name of the object for that day of the year (ex: grape).<br>* Calculation method: method used to determine the first day of the year: Either based on the autumn equinox, Romme, or von M&#xE4;dler method.<br>* Language of the calendar (limited to just a few languages for now).<br><br>Other features;<br>* Possibility to share the information about the current date.<br>* By default, the color of the scroll is different for each month. But you can also choose the color.<br>* You can choose to display the date on your smartwatch if you have a supported phone.<br>* You can add the widget to your lock screen (on supported devices).<br><br>Three widget styles:<br>* Horizontal parchment<br>* Vertical parchment<br>* Minimalist",
+    "histogram": {
+        "1": 9,
+        "2": 2,
+        "3": 7,
+        "4": 23,
+        "5": 96
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "1.5 and up",
+    "androidVersion": "1.5",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/y4DfxjYdkDCQyft7sPAi6J7lG2QTNdG5oEji7WgR-xaysfZBsf4XKYtZ9ERzUP9OS6vX=h310",
+        "//lh3.googleusercontent.com/8pcubdsTcOzRj9yfyLOwM4W9b1ofE2dMFccOLy4Ylke3eejxT_4mT8Pt1JKvsmXzsxU=h310",
+        "//lh3.googleusercontent.com/JsAe8fNrHwMwXDakw4IGYyaScZLG8Ww-7P2ZHZSg-7hK_FQQDftv82j7XDXDN3ivIuA=h310",
+        "//lh3.googleusercontent.com/H-tqOLKc30a4i_b7TVc5mciF_EZHn5wBZ9G8UUKJ71S45LBzPa78GDr-VyfA0tDm7-XK=h310",
+        "//lh3.googleusercontent.com/ccHZE5jF1KD7s4NBH-q9zmn5_v1XM1B8-1pCgFLkd9CNS_HYmco2-4ZVfD68B9I=h310",
+        "//lh3.googleusercontent.com/IxAMxLxQxV4EY382mASQCQxYFSlVpvYDXIn26mAfnieXKC1JJEQRi0AdbPGKK5ZLjxQ=h310",
+        "//lh3.googleusercontent.com/HAZDFBVZU2FiJj-hzGRrCXqibIObpjfbjKLivWCmCr6nUDzN71xpy9smJ30pEJl43LE=h310"
+    ],
+    "comments": [
+        "Running on a Galaxy Tab S, I cannot figure out how to open the widget as widget ... no matter what I do, the app opens full-page in white on black. Not a resizable widget as announced. Help?  Thanks for the help ... I HD forgotten how to do that.",
+        "It would be a good idea to choose different fonts.",
+        "Never mind. I uninstalled, then re-installed and got it working and it's great. Exactly what I was looking for. It even had a decimal clock, so didn't need to download one of those as well. I can now pretend to my heart's content our time system made some natural sense, and I love that.",
+        "True to its content No special permissions, no extra data collection. A simple app that does a simple thing: remind you of days long past, where ideals were more than that.",
+        "Vive la republique! This calendar is much more logical and systematic, than our.",
+        "Trop cool Très utile et unique, je l'aime beaucoup! Une chose, c'est possible d'ajouter une option de choisir un style plus minimaliste, comme celui de l'horloge défaut? Juste une version sans rôle et avec une autre fonte? Merci beaucoup, en tout cas :)"
+    ],
+    "recentChanges": [
+        "1.18.1: Take into account the roman numeral setting in the converter. Maintenance.",
+        "1.18.0: Add Basque translation and fix default font selection.",
+        "1.17.4: Fix spelling of Sansculotides, to use the spelling from the original decree.",
+        "1.17.3: Fix widget and notification bugs on Oreo.",
+        "1.17.2: Fix crash in new date converter.",
+        "1.17.1: New converter, to convert both ways, between the revolutionary and Gregorian calendars.",
+        "1.16.0: Replaced OpenSans font with Roboto font"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ca.rmen.android.frenchcalendar&hl=en&gl=us",
+    "appId": "ca.rmen.android.frenchcalendar"
+}

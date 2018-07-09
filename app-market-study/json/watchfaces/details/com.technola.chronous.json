@@ -1,0 +1,56 @@
+{
+    "title": "Chronous",
+    "summary": "A simple Android Wear watch face based on Anton Repponens &quot;300 Watch&quot; design.",
+    "icon": "//lh4.ggpht.com/4a5HtkGGLnzla7boTOwSyX9b4QrPlrTVgvaiJp4qJuum0Ri5ZUteKtOdlFZyiFeR4A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 68,
+    "developer": "Ola Bråten",
+    "developerId": "Ola+Br%C3%A5ten",
+    "developerEmail": "ola.braaten@gmail.com",
+    "developerWebsite": "http://technola.no",
+    "developerAddress": "Michael Krohns gate 69\n5057 Bergen\nNorway",
+    "updated": "January 26, 2015",
+    "version": "2.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This Android Wear watch face was inspired by a beautiful watch design by Anton Repponen called \"300 Watch\". His original design can be found at http://work.repponen.com/300-Watch please check out his other work as well.The watch face was made specifically for round smart watches and might look different on square ones.This app will not show an icon in your phones app drawer as it only has an Android Wear part, if you want to uninstall it you should be able to find it under apps in your phones settings.",
+    "descriptionHTML": "This Android Wear watch face was inspired by a beautiful watch design by Anton Repponen called &quot;300 Watch&quot;. His original design can be found at http://work.repponen.com/300-Watch please check out his other work as well.<br><br>The watch face was made specifically for round smart watches and might look different on square ones.<br><br>This app will not show an icon in your phones app drawer as it only has an Android Wear part, if you want to uninstall it you should be able to find it under apps in your phones settings.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 8,
+        "4": 16,
+        "5": 40
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/_K_yJ5VL-RnlXLMCdMjlqkv1sSCRsKrgbUnWJs9kQdn_1AfdQ-n3t4u4twTWOSeqFhts=h310",
+        "//lh5.ggpht.com/EyqCEUuUyjr5gZAkYYTqEcH65ENlD3fM81u0qI7cTWzq7i8EWp7dBpG6UFhcEHs6vJGq=h310",
+        "//lh5.ggpht.com/3RlAyEp_900Pp6Yjbo7btpN-vOUhV0T7iDccJ5LzwSdleU-N7XWlORF6mILXVhS_RC0=h310",
+        "//lh4.ggpht.com/bPf-V8H8vWSO8NIVlAD9XjqWqnrK1FwOAuD7t1bpWwnZ-YzSXbMDLhai1NZQDw0P0W0=h310",
+        "//lh5.ggpht.com/uDuj24a00Kz-Mwo2D8oyKUuDG5OF4fFAe1PQ8h6VrDIqtSC3PNDfbSLQteV4t7WOiYrC=h310"
+    ],
+    "comments": [
+        "ABSOLUTE BEST Free watch wace. And it's the best face I can find. Functional, customizable, elegant and most importantly of all: IT LOOKS LIKE A WATCH!",
+        "Good",
+        "Like it - beautiful watch face But...I know for a fact that it drains the battery pretty fast.  Used to drain about 3% per hour...now its between 8 - 10% per hour.  Please fix as this is one watch face that old like to have a my main go to face",
+        "Love the look I was planning on sticking with Motorola's \"Minimal\" watchface - until I saw this. My only request is that the seconds hand wasn't visible in dimmed mode - UPDATE: added by developer!",
+        "Good for Moto 360 If you are using the moto 360 it doesn't get cut off at the bottom which is absolutely great. Although some customization would be great! Also, and update for 5.0 features would be a good addition.",
+        "The best I've seen to date! :) Wonderful watch face! My favorite!"
+    ],
+    "recentChanges": [
+        "Update to the \"new\" Watch Face API introduced in Wear 5.0.",
+        "Added options for customizations."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.technola.chronous&hl=en&gl=us",
+    "appId": "com.technola.chronous"
+}

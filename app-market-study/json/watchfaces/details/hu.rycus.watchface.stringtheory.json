@@ -1,0 +1,58 @@
+{
+    "title": "String Theory WatchFace",
+    "summary": "Simple, animated watchface for Android Wear.",
+    "icon": "//lh3.googleusercontent.com/R8B9ujS81K01OFgweeEm9cxq_DKixLafckMyG_CrrlN6zQQ6Nd2eI_kV7sX1R-ITQhM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 345,
+    "developer": "Viktor Adam",
+    "developerId": "Viktor+Adam",
+    "developerEmail": "rycusdev@gmail.com",
+    "developerWebsite": "https://github.com/rycus86/StringTheory",
+    "updated": "February 6, 2017",
+    "version": "Varies with device",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "size": "Varies with device",
+    "description": "Simple Android Wear watchface with animated strings on the display.The strings change their positions every second when the device is in interactive mode.Open-source project, source code available at https://github.com/rycus86/StringTheory",
+    "descriptionHTML": "Simple Android Wear watchface with animated strings on the display.<br>The strings change their positions every second when the device is in interactive mode.<br><br>Open-source project, source code available at https://github.com/rycus86/StringTheory",
+    "histogram": {
+        "1": 18,
+        "2": 20,
+        "3": 45,
+        "4": 85,
+        "5": 177
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ZuUVIpBpDpMZyd8GMRWOLLNV4Yh78jyX3AdG4RXH5NKofMzW3Z6EZdRH5W-ykx-8G9E=h310",
+        "//lh3.googleusercontent.com/mExss8jbskWh0GdpYXVyx6RVa0b06_SaW2_OWnEigPN0w6KgE9v5dR3rVZ8Sugfn-Q=h310",
+        "//lh3.googleusercontent.com/sfjgyn8Mji3xwGikiuPJ5hZo2PY-RyDdu7fodCFOOjd6eeAjO2D_LnfGmraHLKZ3erE=h310"
+    ],
+    "comments": [
+        "This wach face is so nice but have a very fast animation! And this is not good!",
+        "Awesome, great concept. Would like it to show seconds and watch/phone battery percentages.",
+        "بهتر از این ندیدم ای ول",
+        "Thank you     شكرا لك",
+        "Great tanks",
+        "App Does what it says it does. Only concern is that the animations slow down the watch. It has 12 and 24h format, you can choose how many strings are animated and if the strings are constantly animating or animate every second. Either way, really cool and very much so recommend."
+    ],
+    "recentChanges": [
+        "[NEW] Better low-bit display support",
+        "[NEW] Configuration option for the number of strings to display",
+        "[NEW] Configuration option for constant animation in interactive mode",
+        "[NEW] Configuration option for 12/24 hours display",
+        "[OTHER] Prepare for Android Wear 2.0",
+        "[OTHER] Bugfixes and optimizations"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=hu.rycus.watchface.stringtheory&hl=en&gl=us",
+    "appId": "hu.rycus.watchface.stringtheory"
+}

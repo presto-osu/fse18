@@ -1,0 +1,77 @@
+Soot started on Thu Jun 21 13:03:22 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/es.samsoft.wear.stepsmonsterwatchface.apk
+[INFO] MySceneTransformer: ############## es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   54
+[INFO] FlowGraph: @@@@ Total Methods: 182
+[INFO] FlowGraph: @@@@ Total Stmts:   3574
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]1586,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]1586,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]76,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]1586,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new es.samsoft.wear.stepsmonsterwatchface.service.ServicioMain$Engine]1586,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1_8=[-2236963], $r1_7=[-2236963], $r1_6=[-2236963]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [ffdddddd]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 9.798000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:03:35 EDT 2018

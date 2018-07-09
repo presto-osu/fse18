@@ -1,0 +1,45 @@
+{
+    "title": "Heart Rate Tweet",
+    "summary": "This application can be tweeted heart rate in Android wear.",
+    "icon": "//lh3.googleusercontent.com/7ZGk_Cg6ruLkOfPfrlFSW0bwTEB_Uo5gY8XQNaZydqPTZ149O-cx0IHmt1up-K_VglE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "teshi04",
+    "developerId": "6946862596227132711",
+    "developerEmail": "teshi04@gmail.com",
+    "developerWebsite": "http://tsur.jp",
+    "updated": "November 15, 2015",
+    "version": "1.1.4",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "description": "This application can be tweeted heart rate in Android wear.# How to use1. Launch the app on your smartphone and sign in to Twitter from \"Sign in with Twitter\"2. launch the app from wear",
+    "descriptionHTML": "This application can be tweeted heart rate in Android wear.<br><br># How to use<br>1. Launch the app on your smartphone and sign in to Twitter from &quot;Sign in with Twitter&quot;<br>2. launch the app from wear",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/Ol7SlfqFpv9FJ36AiMQ3aRvy4wM1eNAif-esYN_HkZwDL27K1EnCyvQ-jgbXcZZWDQ=h310",
+        "//lh5.ggpht.com/sE19x_UnmMxDGaVmQ7P4PUiKDbOF5cI_5D8hKyA_bR4MJ8EBwd9e_Xtav_4S_VYAdIg=h310",
+        "//lh3.ggpht.com/KMUkUwMAdISEftgRUomQy2mBxbxQ9dc3GzAyjH_O0nMqaC0j39BHHSosw1-0tF3vFLKi=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- バグ修正"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.tsur.twitwearheartrate&hl=en&gl=us",
+    "appId": "jp.tsur.twitwearheartrate"
+}

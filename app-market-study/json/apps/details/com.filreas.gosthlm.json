@@ -1,0 +1,45 @@
+{
+    "title": "GoSTHLM",
+    "summary": "Shows you the upcoming departures from your favourite stations on your watch",
+    "icon": "//lh3.googleusercontent.com/IO6LlCWIxjq-Q_3LfHU9MD6lR3poxKFQhiacO_Fx0vxS4LLaLxrt6obI8tbB58pMkEI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Andreas Turku",
+    "developerId": "Andreas+Turku",
+    "developerEmail": "andreas.turku@gmail.com",
+    "developerWebsite": "https://github.com/antur84/GoSthlm",
+    "updated": "February 11, 2018",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Keeps track of your commuting needs in Stockholm when traveling by SL, Stockholms Lokaltrafik.Setup your favourite stations on the mobile app and get all the info you need on your Android Watch. The upcoming departures for your favourite stations are displayed on the watch. In ambient mode the information is updated once a minute to make sure you only need a quick glance to know if you'll make the next train or not. No more dropping your phone while running to the bus.The app has english and swedish resources",
+    "descriptionHTML": "Keeps track of your commuting needs in Stockholm when traveling by SL, Stockholms Lokaltrafik.<br><br>Setup your favourite stations on the mobile app and get all the info you need on your Android Watch. The upcoming departures for your favourite stations are displayed on the watch. In ambient mode the information is updated once a minute to make sure you only need a quick glance to know if you&apos;ll make the next train or not. No more dropping your phone while running to the bus.<br><br>The app has english and swedish resources",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Z6MwL3h1R9mQFoSCd0xVd2ngQkovAX0Bgi7RsQHoEpI5ePV8oF-o4OkkL-CkH_znjHA2=h310",
+        "//lh3.googleusercontent.com/m6CnYinZzLnZPBMxeackxV5iMJHky0RhiCdaVHJLiu8VhJnVikJPifBpbAwM3upEnAk=h310",
+        "//lh3.googleusercontent.com/KyRD72f1WLayC0yDJbBIxDy6zDfVmWs8UZBM6thR8sliZC8rwAgFt9SmV5O3bSSgWg=h310",
+        "//lh3.googleusercontent.com/4vqF4zvXXcw1TMs9JxniArlagpkHquojwzPTQZun2HxfaBdFxQAMYIk3xuToKy0IjZhk=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Support for latest SL real time APIs. The app is now also Android Wear 2.0 compatible, which means you, yourself, must install the app onto the watch, it can no longer automatically install when installing the app on the phone."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.filreas.gosthlm&hl=en&gl=us",
+    "appId": "com.filreas.gosthlm"
+}

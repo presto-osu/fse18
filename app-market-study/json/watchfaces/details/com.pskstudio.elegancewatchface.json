@@ -1,0 +1,59 @@
+{
+    "title": "Elegance Watch Face Plus",
+    "summary": "Elegant Watch Face",
+    "icon": "//lh3.ggpht.com/mJnWmFwqlmO8ZyjPhqBXOZ7pzgva9F18QlfE6gI4ncobKcbQGxBIAa--1EQqSpB23oc=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 59,
+    "developer": "psk Studio",
+    "developerId": "psk+Studio",
+    "developerEmail": "contact.pskstudio@gmail.com",
+    "developerAddress": "Bucuresti, Romania",
+    "updated": "March 26, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Customize this elegant watch face to your own preference. You can choose what element of the watch you want to see as well as the size of the tick indicators.Watch elements:✔  Current day indicator✔  Month dial✔  Day of week dial✔  Watch battery dialAfter install the watch face will be available in the Android Wear app.Touch the watch face to select it and a small wheel will apear on top of the watch face. Touch it again and the configuration app will start. If it not showing on the watch run Resync app option in Android Wear appYour feedback is highly appreciated as well as improvements suggestions.Please feel free to contact me on any problem you encounter.",
+    "descriptionHTML": "Customize this elegant watch face to your own preference. You can choose what element of the watch you want to see as well as the size of the tick indicators.<br><br>Watch elements:<br>&#x2714;  Current day indicator<br>&#x2714;  Month dial<br>&#x2714;  Day of week dial<br>&#x2714;  Watch battery dial<br><br><br>After install the watch face will be available in the Android Wear app.<br>Touch the watch face to select it and a small wheel will apear on top of the watch face. <br>Touch it again and the configuration app will start. <br>If it not showing on the watch run Resync app option in Android Wear app<br><br><br>Your feedback is highly appreciated as well as improvements suggestions.<br>Please feel free to contact me on any problem you encounter.",
+    "histogram": {
+        "1": 4,
+        "2": 3,
+        "3": 10,
+        "4": 12,
+        "5": 30
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/CLKlAYnD2EYdqfBJn-f9eioz-kqW8VZ692cHi2eWwH101aML0hLTvUrmdjDCQqGRWD8=h310",
+        "//lh5.ggpht.com/GEIbGMh6-26631RZDOq2a0W_turi-lJog387LwH54Y5ftbuIfMYhYw0TAo8uc0QQ4SEA=h310",
+        "//lh4.ggpht.com/a8PNmhCkq8-v197VYFybt676WsEeVmq12F6miwM41oZz6_1l6F1OpcbSb9AnlNzN37U=h310",
+        "//lh3.ggpht.com/0AtazGOQBv08o8Y7JcXA1em-0p2utJhMdQs0VXjx_COmxyC96BYHVrmCC2PYHS8AU9Q=h310",
+        "//lh6.ggpht.com/XIgb4o-pBImddLUuy_z4wnE0meh1hGTVPeRh9RlDbZe_ZPantZb-MkOk9hu_Ru3Vd7E=h310",
+        "//lh5.ggpht.com/b69ybfRNJA-J2hLS-GI8jK56U1sgLG7_VB9kgwBHkJaEAcALHs9ucdYcJpBBac_qg48=h310",
+        "//lh3.ggpht.com/_HdPbC7t44kxdtYWAkXIs7UZda_59OAdjs3q-XIxnMk-MEepMmnux5Tn7atJdGtCiGY=h310",
+        "//lh4.ggpht.com/hg_NZCMKsbqRZbfXidH3XlO2XJpyr5pMC83z5NYM1uj4la6Q3zhZTEtEr-DJ5YgEcw=h310"
+    ],
+    "comments": [
+        "Stylish metal watch face Downloaded watch face because of the metallic blue color on my Huawei watch and it looks great! The ambience mode could be a little better (didn't show the info circles) but does show the date which was a must for me. I like that you can customize the face but is limited to things like the length of the tick marks.",
+        "Love it I had the LG Urbane and my favorite face was the stock Chronus face. I just got the Huawei Watch and was going to miss the LG face.  This one is not identical but it's very similar in color and style and Im happy with it",
+        "I really like the look of the watch face, but a full color ambient mode would make it perfect. It looks too good to be hidden by a black and white ambient mode! Also, an option to increase the screen on time before ambient turns on would be appreciated.",
+        "Best purchase for custom watch face.  The sweeping seconds hand is perfect and the dark blue starburst dial blends in beautifully with my ZenWatch 2's midnight blue bezel!  Please add a Second Time Zone dial!",
+        "Watch face look nice, but app did not made any shortcut to configuration so I needed to create my own to configuration activity. It is buggy I guess",
+        "Won't show Never showed in watch faces"
+    ],
+    "recentChanges": [
+        "- Auto detection of Moto 360 bottom bar",
+        "- Performance update (reduced memory usage)",
+        "- Added slider for second hand update rate. 1, 3, 10 beats / second or smooth hand (the more updates, the bigger battery usage)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.pskstudio.elegancewatchface&hl=en&gl=us",
+    "appId": "com.pskstudio.elegancewatchface"
+}

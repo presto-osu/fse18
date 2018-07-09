@@ -1,0 +1,53 @@
+{
+    "title": "Signals Watch Face",
+    "summary": "Interactive utility watch face with easy to use timer and interval stopwatch.",
+    "icon": "//lh3.googleusercontent.com/DcVWBlo4i3K5ik8J3zjuNwPQnrsdw172jmAaiEdP_ZyBudQw0HRfBSyy3IbqBItqZBrF=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.6,
+    "reviews": 40,
+    "developer": "Евгений Суворов",
+    "developerId": "%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2",
+    "developerEmail": "twssupp0rt@gmail.com",
+    "developerWebsite": "https://groups.google.com/d/msg/weardialer/xzhKcdy_6KI/Sc8qAx4mBwAJ",
+    "developerAddress": "119049, Москва, Ленинский проспект 2А",
+    "updated": "February 10, 2017",
+    "version": "Varies with device",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "size": "Varies with device",
+    "description": "N.B. Please take note, that this application is not a widget! Configuration activity is only available within Android Wear application with relevant smart watch paired and connected to the phone.Simple and battery friendly watch face, that helps you control your time. Doesn't query phone for data. The only value, which is pushed to watch, when relevant data item is changed, is the phone battery value. This feature can be turned off in mobile companion to maximize watch battery life and stop sender service on phone.Signal watchface implements the idea of watches with bezel, that allows to set timer with the rotation of outer ring. In Signal Watchface to set timer is as easy as touching the minute mark at the desired angle and confirming beginning of countdown.Double touching the same widget, while no countdown is active, starts stopwatch. Not only it allows you to measure time passed, but also features vibration patterns, that are related to several popular activites like Tabata protocol for HIIT training or \"Pomodoro\" timer, that helps organize daily work in an efficient way. Very important point of this feature is that these intervals will continue to run even in background, so you can start stopwatch and then continue tracking with your favorite fitness app. Wearable configuration utility (long press watchface, then tap gear button under preview image) allows for a quick change of stopwatch interval even when not connected to phone. User interval constructor allows to manage list and create custom definitions.Watch face also features several utility shortcuts:- tap the trophy button to start default running activity, which is configured in Android Wear;- tap the \"recycle\" button to quickly change between analog and digital modes;- tap the wrench button to open watch settings (unfortunately, there is not direct shortcuts to airplane mode settings, which is the most suitable candidate for this shortcut, but this one still saves you several swipes);- tap the alarms widget to either open standard create new alarm activity if no alarms are defined, or manage alarms activity if alarms were already configured;- tap the day of month widget to open watch agenda application (shows only local watch data for current day without event horizon).Mobile companion provides real-time preview of watch face and allows to configure several content options and colors to make your watch face suit your mood (beware, that changing base and text colors makes watch to recreate immutable face parts cache using new options, doing this often may shorten watch battery life).Watch face if fully procedural, therefore it adopts to any watch screen shape and density easily.Application is presented as a full-functional trial version, test period is 7 days long. After that you may either thank developer using in-app purchase to get trial-free application associated with your Google account, or feel free to reinstall application as many times as you like to continue testing.",
+    "descriptionHTML": "N.B. Please take note, that this application is not a widget! Configuration activity is only available within Android Wear application with relevant smart watch paired and connected to the phone.<br><br>Simple and battery friendly watch face, that helps you control your time. Doesn&apos;t query phone for data. The only value, which is pushed to watch, when relevant data item is changed, is the phone battery value. This feature can be turned off in mobile companion to maximize watch battery life and stop sender service on phone.<br><br>Signal watchface implements the idea of watches with bezel, that allows to set timer with the rotation of outer ring. In Signal Watchface to set timer is as easy as touching the minute mark at the desired angle and confirming beginning of countdown.<br><br>Double touching the same widget, while no countdown is active, starts stopwatch. Not only it allows you to measure time passed, but also features vibration patterns, that are related to several popular activites like Tabata protocol for HIIT training or &quot;Pomodoro&quot; timer, that helps organize daily work in an efficient way. Very important point of this feature is that these intervals will continue to run even in background, so you can start stopwatch and then continue tracking with your favorite fitness app. Wearable configuration utility (long press watchface, then tap gear button under preview image) allows for a quick change of stopwatch interval even when not connected to phone. User interval constructor allows to manage list and create custom definitions.<br><br>Watch face also features several utility shortcuts:<br>- tap the trophy button to start default running activity, which is configured in Android Wear;<br>- tap the &quot;recycle&quot; button to quickly change between analog and digital modes;<br>- tap the wrench button to open watch settings (unfortunately, there is not direct shortcuts to airplane mode settings, which is the most suitable candidate for this shortcut, but this one still saves you several swipes);<br>- tap the alarms widget to either open standard create new alarm activity if no alarms are defined, or manage alarms activity if alarms were already configured;<br>- tap the day of month widget to open watch agenda application (shows only local watch data for current day without event horizon).<br><br>Mobile companion provides real-time preview of watch face and allows to configure several content options and colors to make your watch face suit your mood (beware, that changing base and text colors makes watch to recreate immutable face parts cache using new options, doing this often may shorten watch battery life).<br><br>Watch face if fully procedural, therefore it adopts to any watch screen shape and density easily.<br><br>Application is presented as a full-functional trial version, test period is 7 days long. After that you may either thank developer using in-app purchase to get trial-free application associated with your Google account, or feel free to reinstall application as many times as you like to continue testing.",
+    "histogram": {
+        "1": 11,
+        "2": 1,
+        "3": 2,
+        "4": 6,
+        "5": 20
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/YiSKdh3r50F2-jrwEjHccIhKGPjMwkhtdYTO500lVqoHTGLK956KAnVG7uFMRVc21wg=h310",
+        "//lh3.googleusercontent.com/xOtKEiFrN5n2XdCanWJ8oHb9bXWCUn_dSC9UUILbexzrgT87uzSCRTXLCN33_KosChaI=h310",
+        "//lh3.googleusercontent.com/tszWo7h__fcNH9MNOsEZSX9wNTb8kJ6s2ggHVQeWeqa8niBSw1Q_28k4Dx7WYPQ3VW0=h310",
+        "//lh3.googleusercontent.com/Wv-O1XZPaX2k4aWKojK6v8XixAkpRz-nQv-Q-J9O4prO_OZjHjMImnUT1mKNnXR1wqw=h310",
+        "//lh3.googleusercontent.com/8lt_d8R1RZXqHxa7pX-mbTxx64xFqFbXeR5stkRraweZcKXTGD9I1WwB61RAIDyYrDw=h310",
+        "//lh3.googleusercontent.com/9PRpHhlzIwnQA-6irowU89m1bPmnjyr6UQjxJaGeRnK4B4fSeTS5UEvT__ozP1pnOHU=h310",
+        "//lh3.googleusercontent.com/L3cxtaRKcOzx9KOrAK1HA_S9mFmZb1ngT0ljMVIFT_zdxHY8hSfUqVf6fo47-D5yeQ=h310",
+        "//lh3.googleusercontent.com/KQO1DUy2UMFDUyg6Ahp4WFyYPBDkEDSSXau_R3l5jTdZkes93gSRVeXu7y-HzVPixgc=h310",
+        "//lh3.googleusercontent.com/143GUEEW-MHm67iD7_TIfA5QXfjiD6kSJ91gF9yiYXyb5PGNxVV3t46aygSP82yiqzY=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- added Android Wear 2.0 support."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.trinketworkshop.signalwatcface&hl=en&gl=us",
+    "appId": "com.trinketworkshop.signalwatcface"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Match Timer for Android Wear",
+    "summary": "A utility for timing soccer matches from your Android Wear device.",
+    "icon": "//lh3.ggpht.com/9XL_iJazls_mSoj-wY3VBmHy6fcoqYx-1WBcdGoLmn_mP7pSW2GSQdUU6_81Z13-KA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.8,
+    "reviews": 8,
+    "developer": "Styling Android",
+    "developerId": "Styling+Android",
+    "developerEmail": "support@stylingandroid.com",
+    "developerWebsite": "http://blog.stylingandroid.com",
+    "updated": "February 26, 2017",
+    "version": "Varies with device",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "size": "Varies with device",
+    "description": "Match Timer is a utility for timing soccer matches from your Android Wear device.PLEASE NOTE: This app only works on Android Wear devices. You must install it on the phone or tablet paired with your Wear device and the app will automatically be available on  your Wear device.It is supported and explained by a series of posts which will appear on the Android development blog http://blog.stylingandroid.com.You can launch the app using the voice command \"OK Google, start match timer\".During normal operation a notification will be shown indicating the number of minutes elapsed. If you swipe down to the notification a more detailed view will be shown which details the total elapsed time (left), the total time played (top right), and the total stoppages (bottom right). The app is controlled by swiping left from this screen to see the various actions available. These will change depending on the current state. The match can be paused whenever there is a stoppage, and resumed once play recommences.When the total elapsed time reaches 45 minute there will be a notification consisting of three short vibrations, and when the total played time reaches 45 minutes there will be a notification of three long vibrations.",
+    "descriptionHTML": "Match Timer is a utility for timing soccer matches from your Android Wear device.<br><br>PLEASE NOTE: This app only works on Android Wear devices. You must install it on the phone or tablet paired with your Wear device and the app will automatically be available on  your Wear device.<br><br>It is supported and explained by a series of posts which will appear on the Android development blog http://blog.stylingandroid.com.<br><br>You can launch the app using the voice command &quot;OK Google, start match timer&quot;.<br><br>During normal operation a notification will be shown indicating the number of minutes elapsed. If you swipe down to the notification a more detailed view will be shown which details the total elapsed time (left), the total time played (top right), and the total stoppages (bottom right). <br><br>The app is controlled by swiping left from this screen to see the various actions available. These will change depending on the current state. The match can be paused whenever there is a stoppage, and resumed once play recommences.<br><br>When the total elapsed time reaches 45 minute there will be a notification consisting of three short vibrations, and when the total played time reaches 45 minutes there will be a notification of three long vibrations.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 3,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-FBPSx9i3wv5oy3WL-nFA__9d9Qn3NoH4iHyiNTHoHQSL7wIOtI7L1h8kr3aAdAV09Y=h310",
+        "//lh3.googleusercontent.com/-ejk8uCBQ7elDOTmo44HX1enlv0z6fJVpSylvPshioVp2KnLx5PUCCMNc9zf0wVaI_8=h310",
+        "//lh4.ggpht.com/u5S4gYhMjIP_KJyi8Fv270ngcgm-X8t5Pkbj3354995IpCzC7r8npHfE1qWHLbRN=h310",
+        "//lh6.ggpht.com/WVZHTG9S7jLz32xoYJQfCDMFGuV7s8nTXO7inoczvWipW2sZ4XTVKhq5XFOETOBjNeE=h310",
+        "//lh6.ggpht.com/DenXjBHnj8Q8sozLZq1Uah5yUccc8edwQSuMnVG1cyK9UXRi_hs8PEhmofysRVDdGg=h310"
+    ],
+    "comments": [
+        "LG G Watch R - No Detailed View I like the app a lot but I don't seem to have to see the detailed view. I only ever see an elapsed timer and not the total time played or the total stoppages.  No amount of pausing and restarting changes anything. The only swipe action I have is to swipe left where i see actions to pause, stop (which becomes restart after it has stopped), or block app.",
+        "I really love this app.  I'm a soccer referee and this is almost exactly what I was looking for.  My ideal app would have a Countdown timer option as well.  That way I would know exactly how much time is left in regulation time vs added time.  Thank You for this.",
+        "Nothing mind blowing!"
+    ],
+    "recentChanges": [
+        "Fixes a bug where ambient mode was not being correctly triggered."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.stylingandroid.matchtimer&hl=en&gl=us",
+    "appId": "com.stylingandroid.matchtimer"
+}

@@ -1,0 +1,60 @@
+{
+    "title": "IP Cam Viewer Pro",
+    "summary": "Remotely view listen control and record cameras.",
+    "icon": "https://lh5.ggpht.com/YAgVPtDZmnbRRTGORSj-j5WRunkmB-D8i6oNyVk3yugAmGXly4VRGgg224YgQf4UIa6o=w300",
+    "price": "$3.99",
+    "free": false,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.5,
+    "reviews": 17230,
+    "developer": "Robert Chou",
+    "developerId": "Robert+Chou",
+    "developerEmail": "robert.chou@gmail.com",
+    "developerWebsite": "https://hit-mob.com/ip-cam-viewer-android/",
+    "developerAddress": "Robert Chou\nP.O. Box 1974\nDanville, CA 94526",
+    "updated": "February 15, 2018",
+    "version": "6.5.9",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Awarded Best Software in Utilities category for 2011Remotely access your video camera, digital video recorder, network recorder and webcam.Over 1600+ devices supported. Use Scan Camera to automatically find compatible driver.http://hit-mob.com/android_device_support_list.htmlWith 5+ years of development there are so many features they won't let me describe them properly so here's an overview.  Wide protocol and video format support include HTTPS, RTSP and ONVIF.Features include matrix view, pan tilt zoom, home/lock screen widgets, grouping, encryption and in-app motion detection.Support for 2-way audio, background audio, record mode with remote control and notifications.",
+    "descriptionHTML": "Awarded Best Software in Utilities category for 2011<br>Remotely access your video camera, digital video recorder, network recorder and webcam.<br><br>Over 1600+ devices supported. Use Scan Camera to automatically find compatible driver.<br>http://hit-mob.com/android_device_support_list.html<br><br>With 5+ years of development there are so many features they won&apos;t let me describe them properly so here&apos;s an overview.  <br><br>Wide protocol and video format support include HTTPS, RTSP and ONVIF.<br>Features include matrix view, pan tilt zoom, home/lock screen widgets, grouping, encryption and in-app motion detection.<br>Support for 2-way audio, background audio, record mode with remote control and notifications.",
+    "histogram": {
+        "1": 912,
+        "2": 428,
+        "3": 879,
+        "4": 2590,
+        "5": 12421
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "https://lh3.ggpht.com/mFV0LwxkZjcTlBrxg1HpIRM3dMwpN0PXrTg6sAYMfP0E_2pehHD9Ij76CYfgaYg7DjI=h310",
+        "https://lh3.ggpht.com/XpLTInnfoWY09l375kSI-B__LPx6EpbdstphE_ZyjyqQYT-73JMURSjjO0bwWGMB4Sc=h310",
+        "https://lh4.ggpht.com/eElD6EGPXmTHtys4DCTfX4gszhNdI8gHODK0IBcZgm5V7Qu7qiv6dFlGg1WawZWRV2Ft=h310",
+        "https://lh6.ggpht.com/6LuwyPotLxTSxGoR6M1gz-hQMJESEccaOcrDxnMUCTWyb8OTbkO8-w6YLt7AlHgWYxg=h310",
+        "https://lh5.ggpht.com/FSk4YaTB5xUCEyG7zUWj0PTZAQSuZn7KwTJBgJhMV1DdiOgEPnBgj2MDfnYJNqm91KgZ=h310",
+        "//lh6.ggpht.com/NTCSwxDNua-WJYQGuPWKpfqOUEbDHOiwoKUwJTp3yiZUxGrn0CErlgy7MjHnTBq39Fk=h310",
+        "//lh3.googleusercontent.com/Vd-1OG4uNU9sSuft_nV-7o6bCYhxGM0Izra49Hko1S_gJxasw1IFxCBvJVE8_ofJUPQ=h310",
+        "//lh3.googleusercontent.com/JccJ4ahVXc9qO4BUsTcgEBlwPLCRRWqGT9xtYUiTGaGCZMYTyQ0SdEBnRXoIzSwRjZ_U=h310",
+        "//lh3.googleusercontent.com/t7oreChiVlykv-RBmh3XLBF05JgxdjaBR7rY8zchSFxj4x3eVWPQOK0390fQJ2g5W2XR=h310"
+    ],
+    "video": "https://www.youtube.com/embed/GXHc6yZqep4",
+    "comments": [
+        "Very disappointing for a paid version! Cant even record video when it starts recording. It can view the cameras, take snapshots. But CANT take videos, it just says start recording, when recording stops the supposedly captured video is none existence. Please DO FIX IT",
+        "Works very well. Many cameras supported. Frequent updates. UI needs serious overhaul. Just amateur and ugly IMHO. Please get a graphic designer to help redesign it. For the love of god man when are you going to get this thing upgraded graphically? Hello?",
+        "Since yesterday update (version v6.5.9.) I can see the camera pics again (Hikvision DS-CD 2442FWD-IW) when I am on wifi as it did not work for the last couple of days. It could not connect to the dedicated port. Now it is ok.  (Samsung Galaxy S6) If I use my mobile net, the cam keeps on loading and it never loads. Is it possible to maintain? I've been using this app for many years and it always worked both on wifi and mobile net. :)",
+        "Updated the firmware on my swann dvr8-8075. Now the app will not work with it. Very disappointed.",
+        "Well worth it after using the lite version for years. Works great with my ancient Tenvis cameras and old Samsung Galaxy. Bought February 2018 to remove the ads in the lite version and so far so good.",
+        "Every App Should Get The support and updates like ip cam pro!"
+    ],
+    "recentChanges": [
+        "Bug fixes and more drivers."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rcreations.WebCamViewerPaid&hl=en&gl=us",
+    "appId": "com.rcreations.WebCamViewerPaid"
+}

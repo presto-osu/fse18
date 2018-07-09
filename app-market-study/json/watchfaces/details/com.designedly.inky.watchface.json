@@ -1,0 +1,52 @@
+{
+    "title": "INKY Watch Face",
+    "summary": "New color in every second.",
+    "icon": "//lh3.googleusercontent.com/hAic450sdnuveFeur9x26l4AGHr4ROoLI77uYY-2YWqeQT4nWbybH_uDihDT0bLy0w=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 48,
+    "developer": "Designedly",
+    "developerId": "7158475172433672552",
+    "developerEmail": "designedly.art@gmail.com",
+    "developerAddress": "C-13\nBangur Nagar\nGoregaon West\nMumbai\nIndia",
+    "updated": "April 7, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "INKY is a simple and minimal watch face that has a predefined preset of colorful tessellated triangles for each second that are displayed in center along with white colored hands and texts for day and date. This set up will definitely make you turn your wrist so often ;).There are two variants added in this package viz. a dark one and a light one.NOTE: Hit 'Resync app' on Android Wear App after installing. This face may not appear in your watch right after installing. It may take a bit of time to make its way to your watch.If you experienced a problem or have any suggestions, please, send us an email and we will be happy to answer.This watch face is only compatible with smart watches running on Android Wear like Moto 360, LG G Watch R etc.",
+    "descriptionHTML": "INKY is a simple and minimal watch face that has a predefined preset of colorful tessellated triangles for each second that are displayed in center along with white colored hands and texts for day and date. This set up will definitely make you turn your wrist so often ;).<br><br>There are two variants added in this package viz. a dark one and a light one.<br><br>NOTE: Hit &apos;Resync app&apos; on Android Wear App after installing. This face may not appear in your watch right after installing. It may take a bit of time to make its way to your watch.<br><br>If you experienced a problem or have any suggestions, please, send us an email and we will be happy to answer.<br><br>This watch face is only compatible with smart watches running on Android Wear like Moto 360, LG G Watch R etc.",
+    "histogram": {
+        "1": 4,
+        "2": 6,
+        "3": 13,
+        "4": 4,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/eFbatijZSIjswZ8CUYjlHYpHnOwv-jqePijCeJGZmOioiQQ6KJj4sUF4UDWNGlfGZQ=h310",
+        "//lh3.googleusercontent.com/M5-A42qRqF_zWzSRqhJmx8RRVk9KYyVqHflhwWJ8j9423_e8kF1Zb55VgjsWPm9FpQ=h310",
+        "//lh3.googleusercontent.com/ttOp6NfRoDoiNNrlu7bG_QiCtRrQ1l9gGsrZkUDPi8LT9YxNpwq3_zfEcOLyUx5LQGM=h310",
+        "//lh3.googleusercontent.com/Pb35seRDppa7l3N0aZGikg35RNkAqxadhz0Z7FTS5yZ3E0WPgygiHOJr74WeMdGEPVg=h310",
+        "//lh3.googleusercontent.com/x0ozR75-Yif6DxnhXWiglwrfyQ_2A8cTB0l1_JwulT0IpxtzsbJajcjVXQ10igPTaB8=h310"
+    ],
+    "comments": [
+        "Battery rape Galaxy S6 edge and LG G Watch R on 5.1 huge battery drain.  Please optimize...",
+        "Too distracting The color changing every second is far too distracting. Refunding ASAP.",
+        "The second countdown isn't helpful and it should be digital with the numbers instead of analog",
+        "I thought the numbers were minutes not seconds. Distracting with numbers as seconds.",
+        "Nice Don't really care for the color changing every second",
+        "Digital It really needs digital clock"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.designedly.inky.watchface&hl=en&gl=us",
+    "appId": "com.designedly.inky.watchface"
+}

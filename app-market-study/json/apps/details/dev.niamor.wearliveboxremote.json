@@ -1,0 +1,61 @@
+{
+    "title": "Livebox Remote",
+    "summary": "Livebox remote control. Simple, convenient, complete and free!",
+    "icon": "//lh3.googleusercontent.com/KGJLIyvO7IgYkEW8Iorw6bgWgPsrAfUoyLsfDzLIou5HrN-9z3425WuovOAf24HKkr8R=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.3,
+    "reviews": 2039,
+    "developer": "Niamor",
+    "developerId": "Niamor",
+    "developerEmail": "niamor.dev@gmail.com",
+    "developerWebsite": "http://sagesfemmes-oise.16mb.com/livebox-remote-privacy-policy/",
+    "updated": "February 28, 2018",
+    "version": "1.7.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This is not an official Orange app.Seems not to be compatible with Orange in Poland.Pilot your Livebox TV from your watch or phone. This Livebox remote control is simple, complete and ergonomic.The app finds your Livebox TV on your Wi-Fi network. This can be done automatically at app start or manually from the settings screen.If for any reason, the scan does not work, you can enter your Livebox TV ip address.Your phone must be connected to your Livebox's Wi-Fi network.Your watch must be connected to your phone via Bluetooth if you want to use the wear app.You can now control your Livebox TV from anywhere in your home.Tips: if automatic search does not work, go to the settings screen, click on \"SCAN\" then select your Livebox TV device. If it does not appear in the list, try to reboot your Livebox and try again.If it still does not work, you can enter the ip address manually in the settings of the app. You will find it in your administrator interface, \"my network\" page, \"connected devices\" TV box icon.",
+    "descriptionHTML": "This is not an official Orange app.<br>Seems not to be compatible with Orange in Poland.<br><br>Pilot your Livebox TV from your watch or phone. This Livebox remote control is simple, complete and ergonomic.<br>The app finds your Livebox TV on your Wi-Fi network. This can be done automatically at app start or manually from the settings screen.<br>If for any reason, the scan does not work, you can enter your Livebox TV ip address.<br>Your phone must be connected to your Livebox&apos;s Wi-Fi network.<br>Your watch must be connected to your phone via Bluetooth if you want to use the wear app.<br>You can now control your Livebox TV from anywhere in your home.<br><br>Tips: if automatic search does not work, go to the settings screen, click on &quot;SCAN&quot; then select your Livebox TV device. If it does not appear in the list, try to reboot your Livebox and try again.<br>If it still does not work, you can enter the ip address manually in the settings of the app. You will find it in your administrator interface, &quot;my network&quot; page, &quot;connected devices&quot; TV box icon.",
+    "histogram": {
+        "1": 159,
+        "2": 30,
+        "3": 114,
+        "4": 498,
+        "5": 1238
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/gE5da7Oty4v1LoKn6vpwAS3AnhLus5AGhuSv4RtrSAr95Phc_e6ybSGRexDcrWm-mw=h310",
+        "//lh3.googleusercontent.com/NtwcTBLujjfLMxTmkn1uLrvfkAMGcCbDgrWGzQlL4jT8jn9yjbgA-24SwrSfSBke_tjQ=h310",
+        "//lh3.googleusercontent.com/bAgKpBwPGCikPeYd1Ep7L4KKO7b-MI4O3bFv2nlN5tcTDXrG5hSu-Mu_rXir6_k40w=h310",
+        "//lh3.googleusercontent.com/WkwSYgeLac9CPK4O_mOPT9WCwEWZPQtUVccw9m3cxdlNvcGQyP2A5lPFGQ1E8rrVijU=h310",
+        "//lh3.googleusercontent.com/-FUQ-h9jT-ZdMsQNrIbxFuVAu0bZVHA1jA9mDpGlnlI52GPKHF1ODfsQjcfqL3Q68A=h310",
+        "//lh3.googleusercontent.com/Qlkz-u9dMyt6V5_D9jBIuIQY1fEuqLNhMGdKvIbzS2Ml5-8CupUMGxk3DwIRsrl9V50=h310",
+        "//lh3.googleusercontent.com/z6m5KUDJU86LXggk_e56IrP3lzeWTxNhzJMkKZdS0n7hotuf8qwn9rCaP32SgObhsOFR=h310",
+        "//lh3.googleusercontent.com/JKQK9FDtsAC3lpYfmQmx04xEYsE4Wj31mcNJP7d8o1GVRhgs35Kte75P4coa4kvWrb8=h310",
+        "//lh3.googleusercontent.com/1doe59FaYgj-Noki7cAgs2eqz6I-DwI7OseuXu_pWDSB9poPHH1i9eZ55Qx3dE6nyM8i=h310",
+        "//lh3.googleusercontent.com/G0o0kfdhJSJlsp4FTAwA1j0TfUleSILBkbluyGMCIBuGJEVTaz9uGQQFpgUN-qzTNQ=h310",
+        "//lh3.googleusercontent.com/ZS_GvWOEq6HVzqHgqiEXX-k0OwZAg77qLSBfQ2dkioGXCkwjIvb5Db4sqqIYTmiJqzw=h310"
+    ],
+    "comments": [
+        "Simple to use (auto recognise your box). It does the work perfectly fine.",
+        "Works great!",
+        "My remote control is in repair and i need a remote and this app does just that",
+        "Really needed",
+        "Ok",
+        "Wow"
+    ],
+    "recentChanges": [
+        "Bug fixes",
+        "Performance improvement"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=dev.niamor.wearliveboxremote&hl=en&gl=us",
+    "appId": "dev.niamor.wearliveboxremote"
+}

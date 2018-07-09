@@ -1,0 +1,55 @@
+{
+    "title": "Watch Face Flat",
+    "summary": "Flat Watch Face for Android Wear Clock",
+    "icon": "//lh3.googleusercontent.com/4jrM56yBg8CuB6ToRHMbyx2w7-_j3_oikrddv7Tg2Lws78ULgfz6UdHn5p1CAkUVnFc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 153,
+    "developer": "Rabbit Design",
+    "developerId": "7611979703967153035",
+    "developerEmail": "rab4dis@gmail.com",
+    "developerAddress": "Minsk, Cherviakova 61-1",
+    "updated": "August 20, 2015",
+    "version": "1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Pimp your watch with Flat SGS6 Design Watch Face. Clean and fast galaxy interfase for everyday use.FEATURES:- 2in1: Blue and Turquoise Watch Faces- Date Information- 12/24 auto-format- Ambient (dimmed) mode- High Resolution Design- Round and Square watches SupportINSTRUCTION:1. Install Watch Face2. Wait a minute2. Go to Android Wear Application3. Choose one of Flat Watch Face4. Enjoy!The s6 watchface has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "descriptionHTML": "Pimp your watch with Flat SGS6 Design Watch Face. Clean and fast galaxy interfase for everyday use.<br><br>FEATURES:<br><br>- 2in1: Blue and Turquoise Watch Faces<br>- Date Information<br>- 12/24 auto-format<br>- Ambient (dimmed) mode<br>- High Resolution Design<br>- Round and Square watches Support<br><br>INSTRUCTION:<br><br>1. Install Watch Face<br>2. Wait a minute<br>2. Go to Android Wear Application<br>3. Choose one of Flat Watch Face<br>4. Enjoy!<br><br>The s6 watchface has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "histogram": {
+        "1": 9,
+        "2": 10,
+        "3": 34,
+        "4": 37,
+        "5": 63
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XMb-SWFPyObvWVuKjiEU3D9n6z_glraeKbbsf2o6gTJpg2SikTi48NMGlBmx16lhmw8=h310",
+        "//lh3.googleusercontent.com/Frr8bhfi89amDApeO4-tbcnJLvhanYRS7e-f_Ia6CDjVXawDw52f8BV2QlBiNaSRmQ=h310"
+    ],
+    "comments": [
+        "Nice design, Weird implementation Nice design, I like the watch face. But please make it like a normal watch face. It does not need a separate app nor should it appear as two entirely separate faces. Just make one w/ settings for color...",
+        "Good But ....... Lacks any type of customization (MULTIPLE COLOR OPTION). The Color option should be easy but please consider different Fonts and optional DAY/DATE! Thanks!",
+        "It's nice but like be able to customize it. Like battery level would be great.Now Just have to guess or my watch dies cause can't keep looking at my phone at work just see if battery life is well or not",
+        "MORE COLORS! 👍 Please make more color options. I want to see a pitch black background with white words, or a white background with the same vice versa. Or red! Please add these colors and I'll make it a 5!",
+        "Nice watch face but need option for configure background color or wallpaper",
+        "Xperia Z ultra + moto 360 + lg urbane Good needs more colors"
+    ],
+    "recentChanges": [
+        "+ added ambient (dimmed) mode",
+        "+ added date information",
+        "+ some fixes for 280x280 and 320x320 displays",
+        "+ support for API 18+ devices",
+        "+ added one more Watch Face"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rabbitstudio.watchface.gs6&hl=en&gl=us",
+    "appId": "com.rabbitstudio.watchface.gs6"
+}

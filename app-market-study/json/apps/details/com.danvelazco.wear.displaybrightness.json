@@ -1,0 +1,52 @@
+{
+    "title": "Display Brightness for Wear",
+    "summary": "Set display brightness on Android Wear based on sunrise/sunset and user activity",
+    "icon": "//lh4.ggpht.com/jV-_Nk7-T2ruXXFRSVVVukvAPLSUu9wye1ScV6nzgqlMcrDdKD1x-8KJmzU0cUSKN6Gw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 207,
+    "developer": "Daniel Velazco",
+    "developerId": "Daniel+Velazco",
+    "developerEmail": "playstore@danvelazco.com",
+    "developerAddress": "No",
+    "updated": "June 8, 2015",
+    "version": "1.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Notice: if the brightness does not change on your watch, restart the watch. Also, make sure to check the brightness by using the system settings and not a 3rd party app (like Wear Mini Launcher's settings), some 3rd party apps don't properly read the current brightness and update themselves when it changes.Uses the coarse location to calculate sunrise and sunset times, as well as the Google Play Services activity detection API to automatically set the display brightness on your Android Wear.This is only necessary for watches that DON'T have an ambient light sensor. This is not needed for the Moto 360, but can be used with it if the watch brightness setting is on manual mode. If the watch is on auto, this app will not change the value (useful if you have multiple Android Wear devices.)If it's night time, the brightness will always be set to the lowest.If it's day time, it will determine the brightness, between medium and high, based on the current user activity. Feel free to change the brightness levels depending on your activities.By using the activity detection, we are making assumptions to determine whether the user is indoors, or outdoors, and then setting the display brightness on the watch based on that.For battery saving purposes, there may be a delay between each detection.",
+    "descriptionHTML": "<b>Notice</b>: if the brightness does not change on your watch, restart the watch. Also, make sure to check the brightness by using the system settings and not a 3rd party app (like Wear Mini Launcher&apos;s settings), some 3rd party apps don&apos;t properly read the current brightness and update themselves when it changes.<br><br>Uses the coarse location to calculate sunrise and sunset times, as well as the Google Play Services activity detection API to automatically set the display brightness on your Android Wear.<br><br>This is only necessary for watches that DON&apos;T have an ambient light sensor. This is not needed for the Moto 360, but can be used with it if the watch brightness setting is on manual mode. If the watch is on auto, this app will not change the value (useful if you have multiple Android Wear devices.)<br><br>If it&apos;s night time, the brightness will always be set to the lowest.<br><br>If it&apos;s day time, it will determine the brightness, between medium and high, based on the current user activity. Feel free to change the brightness levels depending on your activities.<br><br>By using the activity detection, we are making assumptions to determine whether the user is indoors, or outdoors, and then setting the display brightness on the watch based on that.<br><br><i>For battery saving purposes, there may be a delay between each detection.</i>",
+    "histogram": {
+        "1": 23,
+        "2": 24,
+        "3": 23,
+        "4": 50,
+        "5": 87
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/cRuKGCiO3HVmUCWYUYrWYm4giIE7-qtZLO_wYZ3hZHDQcORtQtQiBn0Cs_cOvCmHFuI=h310",
+        "//lh3.googleusercontent.com/5g0a1Aulpg-ApA6fcn0qXPnbHbXmsDPg8rZCMn8iCSNflHrsIapfH4JDjnBnfD_z8g=h310"
+    ],
+    "comments": [
+        "Does not work Does not seem to work with Huawei watch. Seems to set random brightness values without any rhyme or reason. Think this could be a good app if it had some simplified settings. Not sure how many users need different brightness levels for biking vs driving. Would be better if user could manually set brightness by hours/time (ie brightness level 1 from 9pm to 6am).",
+        "Does exactly what it should This app is incredibly simple and allows me to actually see my wash screen in daylight. For some reason, my Asus Zenwatch constantly readjusts to low brightness leaving me unable to view the screen anywhere but indoors. This app keeps the brightness high when is the text that I am driving walking etc. The activity detection is very accurate in my experience. can set it anywhere from low to high depending on what you are doing and it will seamlessly change the brightness settings.",
+        "An option to work with watches with an \"auto\" mode would be nice. For example, set the brightness to adjust automatically during the day, then switch to lowest at night. My Moto 360v1is annoyingly bright when it happens to come on while I'm driving at night, even when it's set to auto brightness.",
+        "Necessary for all Android Wear 2.0 watches without an ambient light sensor!  Will save me from too-bright eye strain at night, and allow me to use my watch outside during the day, since Google removed the \"brightness boost\" feature in Android Wear 2.0, rendering my watch basically useless. Google and Asus should refer people to this app, before they return their Android Wear 2.0 watches which don't include an ambient-light sensor.  Their products make no sense without this.",
+        "I love this app! Unfortunately I'm having some problem to use it since my LG Urbane 2nd switched to AW2. Is there a way to use it with Android Wear 2.0?",
+        "Galaxy Gear Live  (1st gen wear) Works well at detecting when I'm driving.  A life saver for setting the watch bright enough to actually read while out and then drop it back down while at work.   The gear live lacks any light sensor so this is almost a required app for that device.  It's pretty accurate about finding sunrise/set time for wherever your phone is on the globe, set different levels for day/night to each activity.  Profiles that are geofenced instead of activity based as well would be a welcome update."
+    ],
+    "recentChanges": [
+        "- Bug fixes",
+        "- Add ability to customize brightness levels during the night as well instead of forcing it to the lowest level."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.danvelazco.wear.displaybrightness&hl=en&gl=us",
+    "appId": "com.danvelazco.wear.displaybrightness"
+}

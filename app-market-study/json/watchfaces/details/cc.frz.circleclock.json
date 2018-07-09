@@ -1,0 +1,49 @@
+{
+    "title": "Ring Clock Widget",
+    "summary": "Beautiful widget displaying the time as a digital clock and two colorful circles",
+    "icon": "//lh4.ggpht.com/LQonyzeveopGvgGnA76strbBtZEoj-4q75F4mD0lLC1u10OcOo2dNbr1M7g4IRRoJg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 21,
+    "developer": "Patrick Huy",
+    "developerId": "Patrick+Huy",
+    "developerEmail": "frz@frz.cc",
+    "updated": "May 28, 2015",
+    "version": "1.3",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Beautiful widget that displays the time both as a digital clock and (optionally) as two colorful circles representing hours and minutes. The widget can be freely resized to any size you desire.Colors used for the widget circles and the clock can be configured freely.Tapping the widget opens an installed app (configurable, by default the default alarm App is opened). The widget also works as a lockscreen widget.",
+    "descriptionHTML": "Beautiful widget that displays the time both as a digital clock and (optionally) as two colorful circles representing hours and minutes. The widget can be freely resized to any size you desire.<br>Colors used for the widget circles and the clock can be configured freely.<br>Tapping the widget opens an installed app (configurable, by default the default alarm App is opened). The widget also works as a lockscreen widget.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/AbIWYjt62L902yPAsN7zdCsn6aQO4BxLLyxQxwugjmNx-gC0BW4MUk5zupcwdaAE3yg=h310",
+        "//lh6.ggpht.com/fvJh-mO76kvrCk-Px7rc1TJ2N9R7bZsMFGMEXkRD0VhMKT_MEnzrwpTGNgRz7W9zYQ=h310",
+        "//lh4.ggpht.com/vzpFmy7cqqdDNLCyq0Kl6ogObTFbtsFCipsXmDdUWrDhcVgig4jNzUBk-GzOG8SpiA=h310",
+        "//lh3.ggpht.com/O3ZatJ_9lDGRyrDlsB-QnUYuGU8GTscmTk9fU7ts_tZTj43YtTELHuwCuo_9gGUUuW7a=h310"
+    ],
+    "comments": [
+        "Crash",
+        "Actually works Been trying nearly all the clock apps, looking for a 1x1 that actually takes me to stock alarm when I click it. This is the only one that delivered.",
+        "VERY GOOD 1x1 analogue clock widget ! brilliant..."
+    ],
+    "recentChanges": [
+        "- Smaller download, removed Wear support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cc.frz.circleclock&hl=en&gl=us",
+    "appId": "cc.frz.circleclock"
+}

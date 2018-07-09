@@ -1,0 +1,59 @@
+{
+    "title": "Moto Body",
+    "summary": "Activity tracking companion phone app for Moto 360 by Motorola.",
+    "icon": "//lh3.googleusercontent.com/zfpRRUdlzB9MSSrrl14z_aNd2WDp3ILDaZWVumMR1ZGDLru6zvcYumVwU_j2JgQyTxU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 4.1,
+    "reviews": 8724,
+    "developer": "Motorola Mobility LLC.",
+    "developerId": "Motorola+Mobility+LLC.",
+    "developerEmail": "playstor@motorola.com",
+    "developerWebsite": "http://www.motorola.com/support",
+    "developerAddress": "222 W. Merchandise Mart Plaza, Suite 1800, Chicago, IL 60654",
+    "updated": "November 9, 2016",
+    "version": "1.0.6.8",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "STAY ACTIVE. LIVE BETTER.Moto Body tracks your activity, offers personalized insights, and keeps you moving with daily progress notifications to help you maintain a healthier lifestyle.Now you can view your daily progress in one place on your watch — including Heart Activity, steps, and calorie burn.The Moto Body companion phone app graphs your weekly, monthly, and yearly Heart Activity, steps, and calorie burn data to help you analyze your trends over time. Plus, it offers personalized insights, tips, and helpful articles.With Moto Body, and a Moto 360 watch, you can:    Track your daily Heart Activity, steps, calorie burn and distance.    Measure your heart rate on-demand.    Track your progress over time.    Receive valuable insights related to your goals and learn from tips and articles.    Get timely and meaningful notifications throughout the day.",
+    "descriptionHTML": "STAY ACTIVE. LIVE BETTER.<br><br>Moto Body tracks your activity, offers personalized insights, and keeps you moving with daily progress notifications to help you maintain a healthier lifestyle.<br><br>Now you can view your daily progress in one place on your watch &#x2014; including Heart Activity, steps, and calorie burn.<br><br>The Moto Body companion phone app graphs your weekly, monthly, and yearly Heart Activity, steps, and calorie burn data to help you analyze your trends over time. Plus, it offers personalized insights, tips, and helpful articles.<br><br>With Moto Body, and a Moto 360 watch, you can:<br><br>    Track your daily Heart Activity, steps, calorie burn and distance.<br>    Measure your heart rate on-demand.<br>    Track your progress over time.<br>    Receive valuable insights related to your goals and learn from tips and articles.<br>    Get timely and meaningful notifications throughout the day.",
+    "histogram": {
+        "1": 693,
+        "2": 480,
+        "3": 870,
+        "4": 2160,
+        "5": 4521
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/n2dG4dKsmQS8ASzb2hCJPrxqKd0uzAIHHQi8FaP5G6lqktwueBmd4VyRfCj-L1nLjAvf=h310",
+        "//lh3.googleusercontent.com/CCRpIlc-_MRMaIPh0JKiJtVHmPnZpmd3p2FdVmmYyXGCJ-BSOjZ-3-Bqu2tMSBX4AD0=h310",
+        "//lh3.googleusercontent.com/4rjSCLMH0BvsPhxjgt5QhR9_uKwRzmu2MdlU9KA5J9a5MvF8Q2AnKeRVrhJaFxnHcdHN=h310",
+        "//lh3.googleusercontent.com/ZetzCmRPnSY0HBxxU6rr_bNGXqpc1DQlE3C5NxcsAAVDyocjKZ905hEU1t6lKY5D2ny4=h310",
+        "//lh3.googleusercontent.com/hRTYlXD2xxb-l2M84rDC2L79VTzi4PuxwRakB_IvjJxAOQuUD-Z2TL1YVuWkZKVeow=h310",
+        "//lh3.googleusercontent.com/PEfSbS3O7auY5O7vmoZLVLoHh9DS2Flm0FqAaxYgIKwyJgfJ_6ywAaw0DCZ_kUXDVQ=h310",
+        "//lh3.googleusercontent.com/DM0v_U2J02kqUL6hZ6yiNz-MRfJClEy9XZd4MMNxVAvce5HN8S22XVzhGL4G5mTrrw=h310",
+        "//lh3.googleusercontent.com/xUqbdYH1gjaBsmEB4m8hc_PhzyThEi20PIftWbG1QbU9EWJVUXKeBQnxTYPEFvbCc5A=h310"
+    ],
+    "comments": [
+        "Not a bad app, but it could be so much more. The ability to only choose running as an exercise is very limiting. I had to install Google Fit just so I could track my other workouts. The heart rate tracker seems fairly consistent and accurate, which is a plus. Recently I have noticed that my active burn calories have not been recording at all. Even after exercising for an hour, I sit at \"0 active calories burned\". I do not rely on the calorie counter, so this is more of annoyance since it used to work.",
+        "App keeps turning my android wear tracking off on its own. It will work for a week and then stop tracking heart rate. When I load app on phone, the option to stop tracking on Android wear will be selected, even when I never manually select it. Frustrating.",
+        "Useless for heart rate Gives me ten minutes of heart activity for a 45 minute insanity workout and still somehow gives me thirty minutes for a thirty minute light jog. I checked my heart rate with the app a few times during the workout and it seemed to be correct but it wasn't registering it at activity. I've posted this complaint before (a year ago) and nothing has been done to fix it.",
+        "Broken Steps are about half of what my Fitbit used to say. Heart activity is also way off. Did 20 minutes on a spin bike with my heart rate near its max and the app only counted it for 5 minutes.",
+        "Doesn't Give Accurate Feedback The Moto Body fails to detect accurate heart rate or correct steps taken.  I am very disappointed that my old Fit Bit and even Google Fit is more reliable than my Moto 360. Very disappointed in the development of this application.",
+        "Needs improvements There needs to be more options to accurately gauge your activity other than just running. People do other workouts other than just running. I have to migrate my workouts to Google Fit to accurately track my activity. It does the job but if you're going to half ass it, might as well allow Google to develop your apps for your Moto 360 Sport."
+    ],
+    "recentChanges": [
+        "Android 7.0 Nougat support.",
+        "Bug fixes and stability improvements."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.motorola.omni&hl=en&gl=us",
+    "appId": "com.motorola.omni"
+}

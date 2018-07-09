@@ -1,0 +1,52 @@
+{
+    "title": "Marseille Le Vélo (bikes)",
+    "summary": "Marseille Le Vélo, bikes in Marseille",
+    "icon": "//lh4.ggpht.com/HB-lJhNKBrYl0YuP-HViXVBphbXKZg9yYHJzHbJCGuLvcjJcAPx1fGhBU0DT5CRw41I=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.6,
+    "reviews": 58,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.marslevelo@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "\"Marseille Le Vélo\" is a tool allowing you to view the status of bike stations \"Le Velo\" network, of Marseille. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or name.You can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "&quot;Marseille Le V&#xE9;lo&quot; is a tool allowing you to view the status of bike stations &quot;Le Velo&quot; network, of Marseille. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name.<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 21,
+        "5": 36
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KyAerHgii0aGTcXzSjy_bRGyclr3FKVAgS4fEhvn36u75wYkLcsLap4K_GPDa9mBmg=h310",
+        "//lh3.googleusercontent.com/e_jUHxdXHTVw9Yrx6P2TYuP4O6XjNNaSC4wlXNaPbgHHb_GrnF6EWehVXqQwvbNO-W4=h310",
+        "//lh3.googleusercontent.com/5bYD-VwSaX05JsqaxdmGlh1AWFqRst4qEwRPjPovRj8wG9KODU5KbGtLk6fu0WGa9Hyt=h310",
+        "//lh3.googleusercontent.com/4l5T70mIp4q3yy1mWnihn9nKWIdqeMgt1cT7Qk-W3deQ9o3XcZNsMNiQIHLTme7SBw=h310",
+        "//lh3.googleusercontent.com/K_4_-ay_UxKGIGLTqSH5h8nld-b_7bFqJ3VFyIQB3xYt2Oq81w_HiuLaOjvsqA1SIg=h310",
+        "//lh3.googleusercontent.com/BIzpEHFUCLAkwZKyNWsypZIdGMhzOuZiWNf-4guqX3h9_puT66029Yf6vXOj2N396_c=h310",
+        "//lh3.googleusercontent.com/L7tA8lt341jFlfxhW8WEjfcjX-gbqJpB_ALjVEeCGElBm-ywOHpkuaMmLJh6CdR33qw=h310"
+    ],
+    "comments": [
+        "Great app but look out for bike scam in Marseille The app is faultless. Tells you how many bikes are available near you, navigates you to them - what more can you want. In Marseille, however, the system for locking your bike back into the dock doesn't work well and even when the green \"docked\" light comes on it's still possible that someone can steal the bike. Result: your credit card gets billed €150 each time this happens. My advice: in Marseille, get a taxi. It's cheaper."
+    ],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.marslevelo.view&hl=en&gl=us",
+    "appId": "com.michgauz.marslevelo.view"
+}

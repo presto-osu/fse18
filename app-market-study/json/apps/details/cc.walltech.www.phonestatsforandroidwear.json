@@ -1,0 +1,58 @@
+{
+    "title": "Phone Stats for Android Wear",
+    "summary": "Detailed phone battery, WiFi, cell, and location data display for Android Wear",
+    "icon": "//lh3.googleusercontent.com/ojXcN3f-ie3OS0nX-VkfUUy9Ka_SSYfC70qfpBVTiQO7ZiNYc6kTF_V_aRXlaISJW4g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 15,
+    "developer": "WΛLLTΞCH",
+    "developerId": "W%CE%9BLLT%CE%9ECH",
+    "developerEmail": "john@walltech.cc",
+    "developerWebsite": "http://www.walltech.cc",
+    "updated": "January 29, 2017",
+    "version": "2.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "*If you download the app, thank you very much! Please consider rating and providing constructive feedback on what can be improved and how your experience has been, or if it has helped you!*Ever wondered why your watch \"can't reach google at the moment,\" what your connected phone's WiFi signal strength was, if GPS was silently sucking the life of your phone in your pocket, or what your phone's battery level even was? After noticing no OS function or app on the play store today that presents an easy to read display of the current phone's connectivity statistics, I set out to make one myself. What resulted is a seamless, efficient app that will keep you informed about your current connectivity status, and hopefully serve as a helpful addition to Android Wear.Features:*Simple and Advanced view modes with plain signal icons, or advanced data readout*Displays Battery, WiFi, Cell service, and location data*Runs efficiently in the background even when host app is closed, only when the watch app is open*Updates every 2 seconds*Dark material design suits all android wear devicesAdvanced mode displays:Location statusTimeCell signal barsCell network providerCell networkRoaming statusCell signal strength (dBm)WiFi signal barsWiFi network nameWiFi frequencyWiFi connection speed (Mbps)WiFi signal strength (dBm)Battery %/chargingSimple Mode Displays:Location statusTimeCell signal barsWiFi signal barsBattery %/chargingUser data:All user information is accessed at time of viewing and is not stored. Data is only transmitted from the two connected devices in use via the wearable message API and a local path to the user.",
+    "descriptionHTML": "*If you download the app, thank you very much! Please consider rating and providing constructive feedback on what can be improved and how your experience has been, or if it has helped you!*<br><br><br>Ever wondered why your watch &quot;can&apos;t reach google at the moment,&quot; what your connected phone&apos;s WiFi signal strength was, if GPS was silently sucking the life of your phone in your pocket, or what your phone&apos;s battery level even was? After noticing no OS function or app on the play store today that presents an easy to read display of the current phone&apos;s connectivity statistics, I set out to make one myself. What resulted is a seamless, efficient app that will keep you informed about your current connectivity status, and hopefully serve as a helpful addition to Android Wear.<br><br>Features:<br>*Simple and Advanced view modes with plain signal icons, or advanced data readout<br>*Displays Battery, WiFi, Cell service, and location data<br>*Runs efficiently in the background even when host app is closed, only when the watch app is open<br>*Updates every 2 seconds<br>*Dark material design suits all android wear devices<br><br>Advanced mode displays:<br><br>Location status<br>Time<br>Cell signal bars<br>Cell network provider<br>Cell network<br>Roaming status<br>Cell signal strength (dBm)<br>WiFi signal bars<br>WiFi network name<br>WiFi frequency<br>WiFi connection speed (Mbps)<br>WiFi signal strength (dBm)<br>Battery %/charging<br><br>Simple Mode Displays:<br><br>Location status<br>Time<br>Cell signal bars<br>WiFi signal bars<br>Battery %/charging<br><br>User data:<br>All user information is accessed at time of viewing and is not stored. Data is only transmitted from the two connected devices in use via the wearable message API and a local path to the user.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 3,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/5oGfHushdeFdx3Ny7L9RxKPOc8lYAhSKOmqA8-KL1gGZhQZECh-y6n0zE1tUu2lqn5hb=h310",
+        "//lh3.googleusercontent.com/Mxv8WAp_ZJvedPkC9cICoBavPQyAzoRyk01KvYHQ32jPqGXdPE7dY7rnNezRl1V5v20=h310",
+        "//lh3.googleusercontent.com/cJBbpXcEXDj0dXyGTUXK8aMfC1Jtzy6imWKOVBiMqiiQD4zJg1k9PwMSTXvcaqs3-5fl=h310"
+    ],
+    "comments": [
+        "Ok the app for everything you say it is seems spot on! Great work! The only thing keeping it back from being perfect is 1. In app ads.... Literally i don't mind paying the 0.99-2.99 in app purchase for the ads to go away i just can't stand them... 2. If there is a way would like to see the current bluetooth devices connected to the phone 3. Would like to be able to disable and enable the wifi 4. Would also hope to see a way to select which wifi networks or bluetooth devices i connect to ? I know the last one is far fetched but will definitely give 5 stars if we can do something about the ads",
+        "Great app does what I was looking for.   But it would be great if you could add support for dual sim phones so you can display both cell signals the phone pick is nice but you can use this realestate for the other signal info when sim 2 is on in settings   If you made an option for always on the screen indicators (like in the system tray or something) for cell signals and WiFi So you can see when you loose or gain signal at a glance i would pay for it!!!!!!!",
+        "Good but high Power drain on my Huawei Watch. It looks like the apps is not going to sleep because my phone also offen wakes up from the App.  If this is fixed 5 STARS!",
+        "Great app. This app is what I have been looking for. Provides simple signal and WiFi status. I do wish I could keep the app open in the same spot the notifications show up, that way I don't have to open the app itself. Is there any way to do that?",
+        "Perfect",
+        "Vital info at a touch Great app with a very attentive developer. This facility has been strangely absent from the Wear platform and this is a very classy iteration. It is elegant and, since the last update, functions perfectly on my SW3 with my Galaxy Note 3. Have never known a developer to react so quickly to problems pointed out by users. Highly recommended."
+    ],
+    "recentChanges": [
+        "1.8 - Added charging state indicator and improved cpu efficiency and power management",
+        "1.8.1 - Charging state indicator fix",
+        "1.8.2 - App exit crash fix",
+        "1.9 - Enable mode and time fix",
+        "1.9.1 - Phone app time and layout fix",
+        "1.9.2 - Time color and google services crash fix",
+        "2.0 - Requested power-saving quit on ambient function, cell carrier display fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cc.walltech.www.phonestatsforandroidwear&hl=en&gl=us",
+    "appId": "cc.walltech.www.phonestatsforandroidwear"
+}

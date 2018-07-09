@@ -1,0 +1,46 @@
+{
+    "title": "Pluto Watch Face",
+    "summary": "New Horizons and Pluto",
+    "icon": "//lh3.googleusercontent.com/DE0y77bi9guoERv4D2ZF4n1S6qN1sayM5vzGTvxZtURvq7xGIpzaEAGg5A0u-dq8pZE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 2,
+    "developer": "Acorns Studio",
+    "developerId": "8082549024605583834",
+    "developerEmail": "buptcpsfan@gmail.com",
+    "developerAddress": "No.10 Xitucheng Road,Haidian,Beijing,China",
+    "updated": "July 15, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This is based on the photo taken by NASA. The most beautiful pluto we have ever seen.Tribute to researchersTip 1If the watch face is not shown on your watch after re-sync, try these steps:1. Disconnect devices (watch and phone)2. Uninstall the watch face3. Restart watch and connect device again4. Then finally install the watch faceIf you have some suggestion,you can follow our community:Facebook:https://www.facebook.com/groups/1676804045872482Google+:https://plus.google.com/106543864725528267317",
+    "descriptionHTML": "This is based on the photo taken by NASA. The most beautiful pluto we have ever seen.<br>Tribute to researchers<br><br>Tip 1<br><br>If the watch face is not shown on your watch after re-sync, try these steps:<br>1. Disconnect devices (watch and phone)<br>2. Uninstall the watch face<br>3. Restart watch and connect device again<br>4. Then finally install the watch face<br><br><br><br>If you have some suggestion,you can follow our community:<br>Facebook:https://www.facebook.com/groups/1676804045872482<br>Google+:https://plus.google.com/106543864725528267317",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/uUKVOkdgpXAcHNyWic_75Y8pGxd5M9E92-YtZMpVKu4NzsGAG7sXYPPsmP-QGjG-cm_2=h310",
+        "//lh3.googleusercontent.com/NXXSASpXqNKQTk4-dRrJhVFgpbpQMOKmcH59YCu-oZ4IXd2W0pwln55I49ishdAHIf8=h310",
+        "//lh3.googleusercontent.com/2bIxv7Qu8lKg286idtZxiaFG7D1wsApWpzzlUlybIAT6_p8B2uyB6EIp0yySAyzH4Q=h310",
+        "//lh3.googleusercontent.com/c4w6xYi2U39oz3Xorrt8jJ7k8HNQlUlcGNSsW_oTryrTOrpGBNRvvhmqbFmgtdEc9Jo=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Fix bug"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wearclan.watchface.pluto&hl=en&gl=us",
+    "appId": "com.wearclan.watchface.pluto"
+}

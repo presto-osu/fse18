@@ -1,0 +1,56 @@
+{
+    "title": "Gentle Tap For Android Wear",
+    "summary": "Sending hints to other users via vibration.",
+    "icon": "//lh4.ggpht.com/JGWnqcg4hO7tIRZRr7BO8qOsGF8CE1yARwMxYTIQVuM2JZwp98lu__48j0o-qSW_4g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.8,
+    "reviews": 59,
+    "developer": "Wearable Software",
+    "developerId": "9027257451638050761",
+    "developerEmail": "support@wearable-software.com",
+    "developerWebsite": "http://www.wearable-software.com/",
+    "developerAddress": "Wearable Software\nCedric Larrat\nGrötzingerstr. 73\n76227 Karlsruhe-Durlach",
+    "updated": "October 16, 2014",
+    "version": "1.0",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "The \"Gentle Tap\" feature of the Apple Watch now for your Android Wear smartwatch. Sending a hint via vibration to another user without the need for him to look at the screen. Especially useful in combination with a worn smartwatch. For example, send some hints to a person who is holding a lecture. Download this app now for free. Tip: To test the app, simply enter your own receiver code. Get more top apps, games & news with \"Android Wear Center\": http://tinyurl.com/m87stxsFunctions:- Send vibration hints from mobile phone to another smartphone or Android Wear watch- Receive vibration messages on your phone or Android Wear smartwatchPlease note for the Android Wear App:-Make sure your mobile is compatible with Android Wear.-Make sure to pair your phone with the wearable device with help of the Android Wear App.Do you have any suggestions for improvement? Any ideas? Any issues with the app? Please let us know.",
+    "descriptionHTML": "The &quot;Gentle Tap&quot; feature of the Apple Watch now for your Android Wear smartwatch. Sending a hint via vibration to another user without the need for him to look at the screen. Especially useful in combination with a worn smartwatch. For example, send some hints to a person who is holding a lecture. Download this app now for free. <br><br><br>Tip: To test the app, simply enter your own receiver code. Get more top apps, games &amp; news with &quot;Android Wear Center&quot;: http://tinyurl.com/m87stxs<br><br><br>Functions:<br>- Send vibration hints from mobile phone to another smartphone or Android Wear watch<br>- Receive vibration messages on your phone or Android Wear smartwatch<br><br><br>Please note for the Android Wear App:<br>-Make sure your mobile is compatible with Android Wear.<br>-Make sure to pair your phone with the wearable device with help of the Android Wear App.<br><br><br>Do you have any suggestions for improvement? Any ideas? Any issues with the app? Please let us know.",
+    "histogram": {
+        "1": 10,
+        "2": 2,
+        "3": 7,
+        "4": 11,
+        "5": 29
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/x98fQ3Ow5lGxh5dgfyCACaK-L5inYwNfKuU2rLNOmYEhJDKJNqPYFFd7Nx-otOzjos4=h310",
+        "//lh3.ggpht.com/6lsuI-RZbWwwZ0GsiHVOvCr6ecPi89wMoKnJYDigiTlXlwzk-lg6Hx7NlhiCCw-UVw=h310",
+        "//lh4.ggpht.com/4LUmZs1oYQVz06-25uFN_xBjTEDxEwA7MNPc_OVoMK6238F427ZTen-Zt9b2cBrqS3E=h310",
+        "//lh3.ggpht.com/Rk-Gb-sd5i0pRWVEP0v8MD5eZhKvST9QdHmmbjouYFlDp4UbtlFP2CPI3R6pYEYOjQ=h310"
+    ],
+    "comments": [
+        "Poor design.   Codes don't show up. Why use codes anyway?   Why not let user set their own code as their email address?",
+        "Unusable I can't find my code! The dev says to press \"receive vibrations\" and my code will appear, but all it says is \"not connected.\" Cool idea but poorly executed, they didn't include instructions or any kind of help area.",
+        "Pretty good Some things I noticed were that you have to wait at least a half minute for the button to actually react accordingly. If you try sending a vibration immediately after opening the app the button lags behind by a lot. Also wish you could change it from a foreground service to a background one. All in all, worth the download but hardly complete.",
+        "Great but. It keeps saying client ID not found. Please fix.. (Update) now all it is saying is not connected, when I am connected to the internet. Please fix!!",
+        "Not connected Enabling vibrations just gives a Not connected message. Could not get app to function with smartphone to smartphone and both connected to WiFi. Maybe dev's server is down. Also you can save a contact without entering a partner code, which isn't ideal.",
+        "Good. Features missing There is a need for an option to disable vibration on the phone.  Also, it would be great to be able to send vibrations directly from the watch."
+    ],
+    "recentChanges": [
+        "- Constant communication codes",
+        "- Contact list added",
+        "- Last session code will be saved."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wearablesoftware.gentletap&hl=en&gl=us",
+    "appId": "wearablesoftware.gentletap"
+}

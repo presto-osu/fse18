@@ -1,0 +1,59 @@
+{
+    "title": "BibleWatch",
+    "summary": "The entire King James Bible on a wristwatch. Includes customizable watch face.",
+    "icon": "//lh3.googleusercontent.com/ISkmOBw6mav6em_1Msv78A-rLL3G75ipDoo9chNh3_z5PyMo_YHFUgKXDVNYn55DwQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 10,
+    "developer": "Nadaware",
+    "developerId": "Nadaware",
+    "developerEmail": "biblewatchapp@gmail.com",
+    "developerWebsite": "http://www.biblewatchapp.com",
+    "developerAddress": "Nadaware\nP.O. Box 252802\nWest Bloomfield, Mi 48325",
+    "updated": "September 20, 2017",
+    "version": "Varies with device",
+    "genre": "Books & Reference",
+    "genreId": "BOOKS_AND_REFERENCE",
+    "size": "Varies with device",
+    "description": "Tap your way through hundreds of popular and inspirational verses, the Ten Commandments, or the Beatitudes. Or simply view the verse-a-minute when you glance at the time. Personalize your watch. Choose from popular verses, bible stories, the Gospels, Epistles or the Major Prophets.  You can choose the entire KJV, which will advance through the complete Bible from Genesis to Revelation in about 3 weeks.BibleWatch is self-contained (standalone). It may be run even when you are disconnected from the internet.BibleWatch requires no special permissions, contains no ads, and is entirely free.",
+    "descriptionHTML": "Tap your way through hundreds of popular and inspirational verses, the Ten Commandments, or the Beatitudes. Or simply view the verse-a-minute when you glance at the time. <br><br>Personalize your watch. Choose from popular verses, bible stories, the Gospels, Epistles or the Major Prophets.  <br><br>You can choose the entire KJV, which will advance through the complete Bible from Genesis to Revelation in about 3 weeks.<br><br>BibleWatch is self-contained (standalone). It may be run even when you are disconnected from the internet.<br><br>BibleWatch requires no special permissions, contains no ads, and is entirely free.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-e18vRA0GD_f9SM99_Hwt-slI7z1am5-bY7sU9xbZUBlzjyD4Q_45I8hVp581cOlH8tf=h310",
+        "//lh3.googleusercontent.com/zGCmUEWwKhI1QD6NUVvOVh34wQ4MPg8bdysau_Yu86rVzEs8ATmxZRZD-_6uznbVSzc=h310",
+        "//lh3.googleusercontent.com/W3lhx0xbuSrSX2gYQeBCPa0PX3LXBG83oGmEajPNIHa-1_Jt8nGiEBYZep4sdLLTfZc-=h310",
+        "//lh3.googleusercontent.com/EiNR2HaQ6pOOg43HqG4QdWcJ2SR9jIoLgkPYl7O1JVFCsIm8xY6lF3ofswrhgjNtXlJZ=h310",
+        "//lh3.googleusercontent.com/JLFFS7T0Z3_mP3GZ6RMxayHePDxayemi34ys8Jd5lLgwfuIdmlkINAmkSjdPgsFRMgtw=h310",
+        "//lh3.googleusercontent.com/IftC_uBNl6qWysGalCaVguw1rAvGzpbFLI8Ah9_Tzbwhvxdv-cSF9k3FjylT6AQe7ek=h310",
+        "//lh3.googleusercontent.com/Rrs1Rkc_sQ9M4JIzjvboDflVQ66Rb9ciXTbWUH0VxIUP9fJAHQwO9gm-SJ3T3HmKUQ8=h310",
+        "//lh3.googleusercontent.com/U0oP9aKXwZTOX6OId7mdjhFVdjYJsQ2jM4urb8WgD_teiUMfuTnahGEOYMHII4-xTw=h310",
+        "//lh3.googleusercontent.com/lDbGAEabVXfLpjhCJRLY7qUFhST6lQJczl7lGdUFuKES1MDsacl4jzk3-QWNVcPLxMc=h310"
+    ],
+    "comments": [
+        "this app is . it does everything that I could ask for in regard to the Bible on my SmartWatch.",
+        "A must have Bible app!!!!!",
+        "Nice watch face, but apparently I can only read the bible if the watch face is running.  Turn off watch face and no way to read. Am I missing something?",
+        "Amen! What in incredible watch face! I just downloaded this and can't wait to see how the scripture evolves over the next few days. Thank you!",
+        "Awesome!!! Thanks so much!!!"
+    ],
+    "recentChanges": [
+        "Version 3.02 provides a simpler, more intuitive user interface.  Tap once to expand the verse. Double tap to advance to the next verse.  There is also a new simpler configurator, (settings)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nadaware.biblewatch&hl=en&gl=us",
+    "appId": "com.nadaware.biblewatch"
+}

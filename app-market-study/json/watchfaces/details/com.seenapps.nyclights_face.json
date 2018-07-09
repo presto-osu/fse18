@@ -1,0 +1,53 @@
+{
+    "title": "New York City Lights",
+    "summary": "Your own window to New York City and its lights",
+    "icon": "//lh3.googleusercontent.com/_4iLPtr4CQEn1o1MhQtAutExh69CDNhhg0ujFgZtlke98o5-9XvFmvzowkdCvExO6KI=w300",
+    "price": "$1.29",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 6,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerWebsite": "http://www.seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "August 31, 2015",
+    "version": "2.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Features Time (hour, minutes, seconds), 12 hours mode.Animated lights, background and brightness.I have had this face in mind for about 2 months but could not find the right base picture. My wife has taken about 3000 pictures of the big city but I needed something really specific.I needed a building with enough windows to draw digits turning lights on and off with a somewhat rectangular shape. Then I came across a picture of the UN building taken from Long Island City.Since you cannot fit Manhattan in a watch, I decided to narrow down the selection to Chrysler+UNAfter *quite some work* I managed to squeeze 4 animations on the screen:- Time is displayed by switching UN build lights on and off. You will notice that for hours and minutes toggles are not immediate. Some windows take longer to switch. This has been disabled for seconds because frequent updates made it quite unreadable.- There is a second set of lit windows, less bright than time lights which are pseudo randomly toggled during the day.- Sunrise and Sunset are achieved by animating 4 colors gradients. They happen between 6 and 7am and between 9 at 10pm (if you use default settings)- The bottom part of the picture brightness is reduced gradually during night hours (but no the building lights)It may not look like much but there are actually 180 windows on the UN building which are individually animated by 2 different engines.You can choose any of 6 background modes- 24h cycle is the default mode (one dawn and one sunset per day)- 20min cycle will loop between 10 minutes dawn and sunset- Sunrise is a still background reflecting 6:45am- Noon is bright daylight- Sunset is still background reflecting 9:15pm- Night is pitch darkIf you have questions or concerns about this face, please drop us a note at support@seenapps.comIf you like our faces, don't miss the good stuff at https://twitter.com/SeenApps/You can also checkout http://www.seenapps.com/ for all our watch faces.",
+    "descriptionHTML": "Features Time (hour, minutes, seconds), 12 hours mode.<br>Animated lights, background and brightness.<br><br>I have had this face in mind for about 2 months but could not find the right base picture. My wife has taken about 3000 pictures of the big city but I needed something really specific.<br><br>I needed a building with enough windows to draw digits turning lights on and off with a somewhat rectangular shape. Then I came across a picture of the UN building taken from Long Island City.<br><br>Since you cannot fit Manhattan in a watch, I decided to narrow down the selection to Chrysler+UN<br><br>After *quite some work* I managed to squeeze 4 animations on the screen:<br><br>- Time is displayed by switching UN build lights on and off. You will notice that for hours and minutes toggles are not immediate. Some windows take longer to switch. This has been disabled for seconds because frequent updates made it quite unreadable.<br>- There is a second set of lit windows, less bright than time lights which are pseudo randomly toggled during the day.<br>- Sunrise and Sunset are achieved by animating 4 colors gradients. They happen between 6 and 7am and between 9 at 10pm (if you use default settings)<br>- The bottom part of the picture brightness is reduced gradually during night hours (but no the building lights)<br><br>It may not look like much but there are actually 180 windows on the UN building which are individually animated by 2 different engines.<br><br>You can choose any of 6 background modes<br>- 24h cycle is the default mode (one dawn and one sunset per day)<br>- 20min cycle will loop between 10 minutes dawn and sunset<br>- Sunrise is a still background reflecting 6:45am<br>- Noon is bright daylight<br>- Sunset is still background reflecting 9:15pm<br>- Night is pitch dark<br><br>If you have questions or concerns about this face, please drop us a note at support@seenapps.com<br>If you like our faces, don&apos;t miss the good stuff at https://twitter.com/SeenApps/<br>You can also checkout http://www.seenapps.com/ for all our watch faces.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-WMYqlyjCYQtOI6iHWOebbKP7sQvAf7CZZsE3yOD4O3D_MgyVcSJbv-RQuODJ8VcEpQ=h310",
+        "//lh3.googleusercontent.com/GNbe-haK3jcuOmkJNtBCDCB5WutPdvuNcGGswPC2TgrpEgm0tAgmcJM9TR3DTk94154=h310",
+        "//lh3.googleusercontent.com/-Zz92vGHJDljQiHdzUPBMrXlPB7YULUJ6s1MVbXLbLeWRH7EO7gSv6qQLDad7bjvTq0=h310",
+        "//lh3.googleusercontent.com/9US8ye60M27vga_mPT10Ynrki3QyIZ-B5Eefapng0JXg9NzVinekcj-vCWzOF8D1f60e=h310",
+        "//lh3.googleusercontent.com/7oNBZdXcWwW4OalnDDzynrS5G6RSPZVOTgIQnbe30hym_bkk5FUhh0v_-50y9XBfBg=h310"
+    ],
+    "comments": [
+        "Good Watchface, but there is one tiny bug... When you are in 12hr mode (I haven't tried 24hr mode yet), and the time changes in always on-screen mode, you get a weird combination for city lights that looks like it's been distorted. I'm using a G Watch R. Other than that, its a great watchface.",
+        "Great Watchface This is the best watchface in the Play Store.  The detail that went into it is incredible. My wife who is not into tech likes it.  Thanks for the app. You should do some with other cities."
+    ],
+    "recentChanges": [
+        "Added Configurable 12/24 hours mode (thanks Steven for pushing this through!)",
+        "Please note that you now have 2 pages of settings. You will need to swipe left to get to the second page.",
+        "6 configurable backgrounds remain on page 1."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.nyclights_face&hl=en&gl=us",
+    "appId": "com.seenapps.nyclights_face"
+}

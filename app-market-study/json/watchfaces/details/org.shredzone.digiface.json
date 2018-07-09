@@ -1,0 +1,55 @@
+{
+    "title": "digiface",
+    "summary": "Digital Android Wear Watchface with Barometer",
+    "icon": "//lh3.googleusercontent.com/pnYK9Zrh_NZxvmni6QwCViWg9k4KP_IXhZOGOSCXTIjJ3mSNCjkviCI76dl5c8KbzmE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 83,
+    "developer": "shredzone",
+    "developerId": "shredzone",
+    "developerEmail": "play@shred.zone",
+    "developerWebsite": "https://app.shred.zone/digiface/en/",
+    "updated": "November 25, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Six digital watch faces for Android Wear, showing time, date and lunar phase.On smartphones or smartwatches equipped with a barometer sensor, the current atmospheric pressure and a pressure chart of the past 24 hours is displayed as well.Documentation and FAQ: http://app.shred.zone/digiface/en/Would you like to have early access to new versions? Join the digiface beta channel: https://play.google.com/apps/testing/org.shredzone.digiface . You can leave and return to the stable version at any time.Watch faces:• blua: modern blue-white LCD• bunta: colorful LED watch• klasika: classic LCD watch face• luma: e-paper style bright watch face• moderna: modern digital watch face• nokto: night modePermissions:• run at startup: To continue taking pressure data after rebooting the smartphone.• prevent phone from sleeping: To sample the atmospheric pressure even when the device is sleeping. Pressure is sampled on the hour.If you have found a bug or have a feature request, please do not hesistate to contact me.",
+    "descriptionHTML": "Six digital watch faces for Android Wear, showing time, date and lunar phase.<br><br><br>On smartphones or smartwatches equipped with a barometer sensor, the current atmospheric pressure and a pressure chart of the past 24 hours is displayed as well.<br><br><br>Documentation and FAQ: http://app.shred.zone/digiface/en/<br><br><br>Would you like to have early access to new versions? Join the digiface beta channel: https://play.google.com/apps/testing/org.shredzone.digiface . You can leave and return to the stable version at any time.<br><br><br><b>Watch faces:</b><br>&#x2022; blua: modern blue-white LCD<br>&#x2022; bunta: colorful LED watch<br>&#x2022; klasika: classic LCD watch face<br>&#x2022; luma: e-paper style bright watch face<br>&#x2022; moderna: modern digital watch face<br>&#x2022; nokto: night mode<br><br><br><b>Permissions:</b><br>&#x2022; run at startup: To continue taking pressure data after rebooting the smartphone.<br>&#x2022; prevent phone from sleeping: To sample the atmospheric pressure even when the device is sleeping. Pressure is sampled on the hour.<br><br><br>If you have found a bug or have a feature request, please do not hesistate to contact me.",
+    "histogram": {
+        "1": 4,
+        "2": 4,
+        "3": 11,
+        "4": 22,
+        "5": 42
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/1c16OQ55HOGb56Gt33mWkoVX50CE__drtNW3hJsD33BpqH2M-OpBOqcPwOZzBlVcQnY=h310",
+        "//lh3.googleusercontent.com/pdH9jB5i6HnpjFx4cDPzjYHjShamLdcyPm-B2JCrp_yqW6r3lnP9oeD8QEvXdjcn1SXi=h310",
+        "//lh3.googleusercontent.com/3RxLvXhAjO4MkYtFOAW5X52eJ3kyzTZnxniTWxLnCOhW5FZl76w4xLDIB6NS45DflA=h310",
+        "//lh3.googleusercontent.com/rLXLR1_2enYImS8_mhtggGeNu-v6ltkETQTTGOgLObmfOVmC5lHoUqrYi0YdTN-P7_jr=h310",
+        "//lh3.googleusercontent.com/GxbHSXh4hayXfTGA1UXMoH5AuC9nSpkOdlEz6H4MofvnFnFWooCjm5hUoq0ul9x5F1Q=h310"
+    ],
+    "comments": [
+        "Nice clean and simple, the weather icon doesn't seem to change though would give it 5 stars if the weather icon updated.",
+        "Love this watchface.  A square watchface and the ability to select which elements are displayed in ambient mode would make it prefect",
+        "Amazing watch face. Great and very responsive developer. thank you.",
+        "Great watchface pack that's free and doesn't suck battery. Totally recommend if you like keeping things simple.",
+        "Analog watch face w/o digital wanted After adding the possibility to show watch hands it went really useful. Now I only wish for a setting to disable the digital time digits in the background, a possibility to set whatever color I want and maybe show sunrise and sunset times 😃",
+        "Love it Please give an option for colors in ambient mode! Thanks devs :)"
+    ],
+    "recentChanges": [
+        "- Support for barometer sensor in watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.shredzone.digiface&hl=en&gl=us",
+    "appId": "org.shredzone.digiface"
+}

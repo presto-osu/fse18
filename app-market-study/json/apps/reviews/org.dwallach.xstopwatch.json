@@ -1,0 +1,28 @@
+[
+    {
+        "author": "Karl Pearson",
+        "comment": "UPDATE: the developer responded and found that my anomaly only happens on the LG G Watch. He's working on it. 4-stars for quick response. 5 if I like it when it's finished :-)  So, as he told me, Stay Tuned...   As I discovered, and the description says, I can use \"OK Google\" and tell it what I want, and XTimer will respond. So, \"OK Google, Set a 22 minute and 30 second timer\" will kick off a timer to time who knows what... Or cares, right?   Give it a try, if you have a G Watch, and if you can't use the Timer on your watch, and it's not a G Watch, please post a quick comment (which will work until there are so many downloads the dev can't keep up with comments).",
+        "date": "June 30, 2015",
+        "permlink": "/store/apps/details?id=org.dwallach.xstopwatch&reviewId=Z3A6QU9xcFRPSGRXdERhbVhmbDdETVh1VXBFY3hGV25XZDNjZWlvNVRiek1nZnhoWWdFUDJ1ZlllVGUzQ0xIcksyLVlxeC1GLXp4bEl6SWVLb0g3N2VQanVV",
+        "reply": {
+            "author": "Wallach Studios",
+            "content": "Turns out that the LG G Watch and G Watch R have a bug in the time picking dialog that XTimer used, while other Wear watches work just fine. I've now pushed \"release1c\" of XStopwatch & XTimer, which works around the problem and should operate correctly on all wear devices. You should receive this update on your device soon.",
+            "date": "July 1, 2015"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "\u0412\u0438\u0442\u0430\u043b\u0438\u0439 \u041b\u0435\u0442\u043a\u0438\u043d",
+        "comment": "doesn't work !!!!!",
+        "date": "February 2, 2015",
+        "permlink": "/store/apps/details?id=org.dwallach.xstopwatch&reviewId=Z3A6QU9xcFRPRWJfclM5N3JVb0lzd0dRWmlKRTFYTnhGeUp0Q0dzU1VFeWN0UGlZLWxpTHNJWDdEZXZsNlFYTlhYbmhrck9LWHV0cV9CVHlDX3VhMmlILWtF",
+        "reply": {
+            "author": "Wallach Studios",
+            "content": "Can you be more specific? Which Android Wear device are you using?",
+            "date": "February 4, 2015"
+        },
+        "star": 1,
+        "title": null
+    }
+]

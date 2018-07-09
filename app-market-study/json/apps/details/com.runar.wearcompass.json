@@ -1,0 +1,55 @@
+{
+    "title": "Bearing - Android wear compass",
+    "summary": "Feel your direction with a vibrating compass for Android Wear.",
+    "icon": "//lh4.ggpht.com/tTmmvTPezhLZEaLLR5vzgr_eapPxbwGCAC_Xy3lg6N1JgbPSRXkxnWpfCv4j4SSA9a0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 404,
+    "developer": "RunaR",
+    "developerId": "7152561013180295823",
+    "developerEmail": "bearing@issdetector.com",
+    "developerWebsite": "http://issdetector.com",
+    "developerAddress": "RunaR\nvan Brederodestraat 11\n2811 XG Reeuwijk\nThe Netherlands",
+    "updated": "January 25, 2015",
+    "version": "1.223",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "The Moto 360 does not have a magnetometer. The compass has problems finding North. Support for the Moto 360 is limitedThis is a compass for your Android Wear with a unique Pointer mode. Feel when you are heading in the right direction.The compass has two modes:Normal: use it as you would use any compass app.Pointer mode: stretch your arm and point. The watch will start buzzing when you are pointing to the set bearing.Switch between the modes by swiping the screen (left is normal, right is pointer mode)Tap the screen to say your bearing: \"Bearing north west\", \"Bearing 38 degrees\".On the phone you can set your bearing by placing a marker on your desired location. The bearing is adjusted during your travels.",
+    "descriptionHTML": "<b>The Moto 360 does not have a magnetometer. The compass has problems finding North. Support for the Moto 360 is limited</b><br><br>This is a compass for your Android Wear with a unique Pointer mode. Feel when you are heading in the right direction.<br><br>The compass has two modes:<br><b>Normal:</b> use it as you would use any compass app.<br><br><b>Pointer mode:</b> stretch your arm and point. The watch will start buzzing when you are pointing to the set bearing.<br><br>Switch between the modes by swiping the screen (left is normal, right is pointer mode)<br><br>Tap the screen to say your bearing: &quot;Bearing north west&quot;, &quot;Bearing 38 degrees&quot;.<br><br>On the phone you can set your bearing by placing a marker on your desired location. The bearing is adjusted during your travels.",
+    "histogram": {
+        "1": 19,
+        "2": 28,
+        "3": 51,
+        "4": 86,
+        "5": 220
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/e4bQhm14BV0a515PxEBtL_4WK6VrWIEHxRJ5YlNKrbjSWJg3zLKcB5STDwb-tlMBbQ=h310",
+        "//lh5.ggpht.com/HKwSzRxEvJ0TAipi_tQEaYmnhIhCB3KoWBpIvx08FbGTP0Isye16NDr5aht4BHi8Cp8=h310",
+        "//lh4.ggpht.com/M-lpQBEsqe_5KNqllG0K4L4daRfDE4bIrbkWqZxlwAbffB_LyxOF-eFXFf_tm0Bq250=h310"
+    ],
+    "comments": [
+        "Perfect (read below for tips on calibration) Simple, easy to use, useful as the use cases are well thought out. TIP: to calibrate most android magnetometer chips (compass chips) in android: rotate the watch slowly, 3 times, for each of 3 axis planes (N-S, E-W, Up-Down). If you don't understand, search for 'calibrate compass using GPS essentials'). It's the same technique and worked for me.",
+        "Ehh... This app is great and has great user interface. But when in Pointer mode, why does my LG G Watch vibrate nonstop close to the  right edge of the green pointer pointing north? And in degrees near that edge, it just pulsates in vibration. Is that a glitch?",
+        "Realy cool, and works well But it's been uninstalling on its own, and then reinstalling, randomly, which has rendered a big-enough watch-battery suck at inopportune times, plus a notification I don't need, especially given how often I use it.",
+        "Nice idea let down by dreadful hardware. This would be great if the compass in my SW3 would work, as it is the watch pointer wanders a lot while I'm standing still and even doing the calibration dance doesn't improve it significantly.",
+        "Brilliant app on the galaxy note 4, best compass so far.  Looks good on the moto 360 watch, but seems to be exactly 90 degrees out (seems to be a common problem with this watch)",
+        "worked the first time after that not much luck..  app disappears from the wear device (LG G Watch) and then the phone app compass stops working (Map section only seems to work with a data connection)."
+    ],
+    "recentChanges": [
+        "- Toggle the map between terrain, satellite and normal.",
+        "- Distance to way point on the wear compass",
+        "- Testing for compatible hardware. Some watches do not have a magneto sensor (Moto 360). A compass will never work on such devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.runar.wearcompass&hl=en&gl=us",
+    "appId": "com.runar.wearcompass"
+}

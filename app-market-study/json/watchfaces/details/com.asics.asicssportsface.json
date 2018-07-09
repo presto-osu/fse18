@@ -1,0 +1,58 @@
+{
+    "title": "ASICS Watchface for Activity",
+    "summary": "The first ASICS Watchface!It may make your lifestyle more active everyday.",
+    "icon": "//lh3.googleusercontent.com/nFUItCF4qkgzA0Em0iU2hJAwgQbaJBx2UEpKdMEpE0Q5OT9c7k7cjGOSykI5J8HL1zU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 114,
+    "developer": "ASICS",
+    "developerId": "ASICS",
+    "developerEmail": "info@myasics.com",
+    "developerWebsite": "http://corp.asics.com/",
+    "developerAddress": "Asics\nALIVE MITAKE  1-2-5, Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan",
+    "updated": "January 14, 2016",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "​Introducing ASICS’ first custom watch face!Tracks your days progress and compare it with your previous days in a simple easy to read layout Your fitness buddy will motivate you to constantly improve!Compatible with both round and square facesAmbient mode for all day use​.",
+    "descriptionHTML": "&#x200B;Introducing ASICS&#x2019; first custom watch face!<br><br>Tracks your days progress and compare it with your previous days in a simple easy to read layout <br>Your fitness buddy will motivate you to constantly improve!<br><br>Compatible with both round and square faces<br>Ambient mode for all day use&#x200B;.",
+    "histogram": {
+        "1": 11,
+        "2": 9,
+        "3": 13,
+        "4": 33,
+        "5": 48
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KR9QUznPqM7YXcCCWir5A0fsokYBPdW_TAI_7xrm1Qjk3fg6rw9fK536S8K7D0R7Yyc5=h310",
+        "//lh3.googleusercontent.com/NzC-D_3bobNWlCGXbTYiKWsV99Q9-xWuI75oD3DyIeU56pM8zyNopTrLjMJP8XR1kfo=h310",
+        "//lh3.googleusercontent.com/FeIMm-zQFDaoxkqGQ3L8UuFPH6peqa0biztz3VeaIOySkrgCrhTeKe3g2ujnEltl6dEs=h310",
+        "//lh3.googleusercontent.com/5-U8P8_FaJqdwwYLB9SgcH-A5_AmM6P9NewRENfDuOmI7Kv2SefB0W6CAnmBksTbdQ=h310",
+        "//lh3.googleusercontent.com/1-LvZ076dpxGspi4j5_RFRf82NthPmFIYXHajFK0R7HaEDCVMhEYK8S0f0FhHzDemqc=h310",
+        "//lh3.googleusercontent.com/B-2XYEPseGnHIFFoF3G9qW3-gMssdOapAeM3F4SipVuvvczOs9LUZTXsimlzk37TB6A=h310",
+        "//lh3.googleusercontent.com/T2ue13FifmSGp8Tnt_h-Uv2K-zyE6xfDjJHn8k00yKiVPkXctCQXAhc1YAOPOX-kdw=h310",
+        "//lh3.googleusercontent.com/hmgPLWJux0L9yjpnuQ2bQYx9IwCCvD6fTLZpLB05jvPlnJ7GaXTd5HN4t6wXh8VbUb0=h310"
+    ],
+    "comments": [
+        "Needs to have option to show progress at all times. And be able to have diffrent color faces.",
+        "No 24h mode",
+        "Rich",
+        "Looks good",
+        "Always seems to think that I'm Excellent,  does not record progress from yesterday",
+        "Only displays 24 hour time? Not in the military so show AM/PM."
+    ],
+    "recentChanges": [
+        "Show time: Change 24h mode by 12h mode with AM/PM label."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.asics.asicssportsface&hl=en&gl=us",
+    "appId": "com.asics.asicssportsface"
+}

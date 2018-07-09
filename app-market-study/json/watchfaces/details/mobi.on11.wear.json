@@ -1,0 +1,56 @@
+{
+    "title": "On11 for Wear",
+    "summary": "A simple watch face with Google Fit step count.",
+    "icon": "//lh3.googleusercontent.com/rrzWR30knFsDtRoI8r6_AufAzOpsnhz4UJ9Paz_nNvHw_OOSoKzI9g9kg5c8nd2JdA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.6,
+    "reviews": 10,
+    "developer": "Qian He",
+    "developerId": "Qian+He",
+    "developerEmail": "me@heqian.name",
+    "developerWebsite": "http://on11.mobi",
+    "updated": "September 7, 2015",
+    "version": "2.0.3",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "☆ Second Prize Winner of Google Fit Developer Challenge ☆On11 for Wear reads your Google Fit data and shows your progress toward the 10K steps goal. The number under the time is your step count, and the green circle around the time is your progress.Q & AQ: Why did not the watch face show up in the Android Wear app, nor on my watch?A: The installation procedure of watch face on Android Wear is like this: (1) Your download and install a normal Android app on your phone; (2) Your phone finds the watch face installation file inside the app; (3) Your phone sends the installation file to your watch through Bluetooth; and (4) Your watch installs the watch face.Because the bandwidth of Bluetooth is limited, it takes time to send the installation file. Because the processing speed of watch is slow, it takes time to unpack the installation file and install it. Because Android Wear OS may not consider installing watch face as a high-priority task under some circumstance, it may delay the installation.Q: How to disable the annoying \"Ok Google\" hotword shown on the watch face?A: Say \"Ok Google\" to activate the voice search, then go back to the watch face. Repeat this action 6 times and it should disappear.Credit:Android Wear Flat Device Frame, made by Cyril Mottier. https://plus.google.com/+CyrilMottier/posts",
+    "descriptionHTML": "&#x2606; Second Prize Winner of Google Fit Developer Challenge &#x2606;<br><br><br>On11 for Wear reads your Google Fit data and shows your progress toward the 10K steps goal. The number under the time is your step count, and the green circle around the time is your progress.<br><br><br>Q &amp; A<br><br>Q: Why did not the watch face show up in the Android Wear app, nor on my watch?<br>A: The installation procedure of watch face on Android Wear is like this: (1) Your download and install a normal Android app on your phone; (2) Your phone finds the watch face installation file inside the app; (3) Your phone sends the installation file to your watch through Bluetooth; and (4) Your watch installs the watch face.<br><br>Because the bandwidth of Bluetooth is limited, it takes time to send the installation file. Because the processing speed of watch is slow, it takes time to unpack the installation file and install it. Because Android Wear OS may not consider installing watch face as a high-priority task under some circumstance, it may delay the installation.<br><br><br>Q: How to disable the annoying &quot;Ok Google&quot; hotword shown on the watch face?<br>A: Say &quot;Ok Google&quot; to activate the voice search, then go back to the watch face. Repeat this action 6 times and it should disappear.<br><br><br><br>Credit:<br>Android Wear Flat Device Frame, made by Cyril Mottier. https://plus.google.com/+CyrilMottier/posts",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2RVemkno3ciFr8e91kIBVn0uChdJUhlXdLxVzXQZWVIwvVjJ0ten4nFw9LPQFFDENF8=h310",
+        "//lh3.googleusercontent.com/bz4GG-GLA31BBMR1lMrj2fBQ7cmtJJbYZNFSbIP2E309IXA_Hy1HXWlaTmNqCb6oWA=h310",
+        "//lh3.googleusercontent.com/iPVCKJgmnGbWlijWNKur8hX7ZZ_wlA-OsWexjx-g0qOBGJ-q6MLXTWEF4zorIt4dMEs=h310",
+        "//lh3.googleusercontent.com/lpSxfAt7zu_Pml13DvoTF3k_7FX-Hk1c7yhXWZVXPRiST4nSgr-ud0a4r1mmoVgadChe=h310",
+        "//lh3.googleusercontent.com/OF2c5lMJpsO1Cl9OMNrDCUfHac_zqsEpA2dL3NfYkSO2hICygxIlWUPCyJIgBGHsHEI=h310"
+    ],
+    "comments": [
+        "Latest update inaccurate. 6000 steps on the official google fit watch face. Nearly 10,000 with on11 (appart from that, it's awesome).",
+        "Bye Fitbit? This warchface will guilt me into walking more, and I don't have to dig it out of my pocket.",
+        "Very nice After waiting a little while for it to install after the developer mentioned it it is a very nice app. Great colors and the steps is very good"
+    ],
+    "recentChanges": [
+        "Version 2.0.3",
+        "Regular SDK tools and dependency libs update.",
+        "Version 2.0.2",
+        "1. Added step count in ambient mode;",
+        "2. Fixed a bug that if you don’t have any step today (e.g., in the morning), the watchface will show the step count of yesterday.",
+        "*. The new step counting API in Google Play services is misbehaving. The step count read on Android Wear device is somehow very different from the step count shown in the Google Fit app. Please wait Google to fix it in the next Google Play services update."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=mobi.on11.wear&hl=en&gl=us",
+    "appId": "mobi.on11.wear"
+}

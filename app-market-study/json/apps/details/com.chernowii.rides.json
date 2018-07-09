@@ -1,0 +1,51 @@
+{
+    "title": "Rides for Wear (Uber app)",
+    "summary": "Hail an uber from your wrist!",
+    "icon": "//lh3.googleusercontent.com/38fJp3GFkFSZC2oNuCMYwrdbKeateDC79ztp6rvMpLHHNONOwEsYfKd1girAz8-phI4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 9,
+    "developer": "Konrad Iturbe - Chernowii",
+    "developerId": "8327692895936242590",
+    "developerEmail": "mail@chernowii.com",
+    "developerWebsite": "http://chernowii.com",
+    "developerAddress": "The internet\nAFK: Calle Timoteo Padros 14, 28200 El Escorial, Madrid, Spain",
+    "updated": "April 10, 2016",
+    "version": "1.1",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "This is an app to order Uber cars from your Android Wear watch. NOTE: This app needs the official Uber app in order to work.THIS IS NOT A STANDALONE APP, IT NEEDS THE OFFICIAL UBER APP FOR AUTHENTICATION!",
+    "descriptionHTML": "This is an app to order Uber cars from your Android Wear watch. NOTE: This app needs the official Uber app in order to work.<br><br>THIS IS NOT A STANDALONE APP, IT NEEDS THE OFFICIAL UBER APP FOR AUTHENTICATION!",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/lSHHf63OPkG4Gq3iKxkhkCJkvl9bME4hAUnk4LZCIN2J0pEvqi7c3Mn3jM-rsX_aq-U=h310",
+        "//lh3.googleusercontent.com/GZKWlJxenZUeUTf7uIJY7wSNRQBsQ0oZHcO8qJWI0_sz8RevBDxAmB2qn-lMhXKrGhg=h310",
+        "//lh3.googleusercontent.com/9RMlRBeyQyrU4C67a7pdvkcd_KC2LVyU7kculfse7fsknhFz4vQUiXzCjBOb8_oEzoQ=h310",
+        "//lh3.googleusercontent.com/EsJ-yF1xI8O4NicnGXDfG6mIswubDX4zukzzKHYRLH5TnquOq83WpMTzbO9bnp91lQer=h310",
+        "//lh3.googleusercontent.com/D4pKYtbFtPHsu7dooYdGKMqVxowcsQ9lyYRO60gjxdVPHw5e-PxxlwmfC6jgewsqbGg=h310"
+    ],
+    "video": "https://www.youtube.com/embed/PGxa55PAOTY",
+    "comments": [
+        "Great idea but... Great idea especially as Uber seems in no hurry to make their app Android wear compatible. However, this crashes with every button I press. Running on a Moto 360 2015."
+    ],
+    "recentChanges": [
+        "Fixed bug for round watches"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chernowii.rides&hl=en&gl=us",
+    "appId": "com.chernowii.rides"
+}

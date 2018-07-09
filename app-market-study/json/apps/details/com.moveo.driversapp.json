@@ -1,0 +1,55 @@
+{
+    "title": "Moveo Drivers",
+    "summary": "Moveo Drivers ApplicationMoveoDrivers is a app for drivers working within Moveo",
+    "icon": "//lh3.googleusercontent.com/jVXgZVGaLpcsf72_O2v5E-YFDu47Wo1x1jlfARqlTzhReFu0ItQY-tMgRDwbZ76MmheX=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.6,
+    "reviews": 12,
+    "developer": "MOVEO LLC",
+    "developerId": "MOVEO+LLC",
+    "developerEmail": "it@moveo.net",
+    "developerWebsite": "http://moveo.net",
+    "updated": "December 6, 2017",
+    "version": "Varies with device",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "size": "Varies with device",
+    "description": "Moveo Drivers Application is a practical, easy-to-use app for drivers working within Moveo’s Global Network of Chauffeurs. Stay up to date with your scheduled rides and never miss an opportunity to do business. The most efficient way to keep in touch with both dispatch and passengers at the same time. Simply open the app and instantly glance at all the rides that have been assigned to you. You can accept or reject each ride, which gives you great control over your own schedule. Each ride has an information card that lets you know ride number, service type, vehicle class, passenger name, number of passengers, luggage count, and special occasion. Within the same card, you can call or SMS your passenger at the touch of a button. Stay organized and always be on time to each and everyone of your rides! - Check out your list of rides - Switch ride stages from: accepted, on the way, at location, and drop off - Get response SMS from your passenger - See your notifications - Open up the GPS enabled map feature so you never get lost Stay safe and organized!",
+    "descriptionHTML": "Moveo Drivers Application is a practical, easy-to-use app for drivers working within Moveo&#x2019;s Global Network of Chauffeurs. Stay up to date with your scheduled rides and never miss an opportunity to do business. <br><br>The most efficient way to keep in touch with both dispatch and passengers at the same time. Simply open the app and instantly glance at all the rides that have been assigned to you. You can accept or reject each ride, which gives you great control over your own schedule. Each ride has an information card that lets you know ride number, service type, vehicle class, passenger name, number of passengers, luggage count, and special occasion. Within the same card, you can call or SMS your passenger at the touch of a button. <br><br>Stay organized and always be on time to each and everyone of your rides! <br><br>- Check out your list of rides <br>- Switch ride stages from: accepted, on the way, at location, and drop off <br>- Get response SMS from your passenger <br>- See your notifications <br>- Open up the GPS enabled map feature so you never get lost <br><br>Stay safe and organized!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_rq09nRCt_6-nwVbGz9Wla_J0xBwARu0Sah6x9mAwFHFYpU64Mm-jdS2pSPRjnqHADWD=h310",
+        "//lh3.googleusercontent.com/k3yD6ORHYe29eA9RAcw5J7WC6qWnZQAb6oS5lUckyzmtMgpI3vGMTv3W_7TFfSBYNQ=h310",
+        "//lh3.googleusercontent.com/WvYhFCJajUG7m_gmipRWIdT0EtbN5nS3hgRCe_9xIK-YS29aZENbd5mHw3bpm1XSAQ=h310",
+        "//lh3.googleusercontent.com/hj5CH1mgpC9sqQj7BVGdo1F6M_VdToT-SpJnMW7BdgNkdcvH4KdHe2ee2VmnpGoLFw=h310",
+        "//lh3.googleusercontent.com/O-xQBlUmuOMgjtbABSHujSZI5zY2LquM4zEl_Am6SDtQOY_wKkI-v9wotdRiDBN8KQ=h310",
+        "//lh3.googleusercontent.com/QnMXXO0Co6_W8jc7MDfCBLdzkLcNRWBYcBHnlt92Sk53tSt662jikfFgbR7KAjSoh-Y=h310",
+        "//lh3.googleusercontent.com/92vVOyuZj9CArpEGiOVOL9kOl0cOzI-yeoPD_qQ2IrVkozLeEIJCAPADPKKkq2s0lxQ=h310"
+    ],
+    "comments": [
+        "This is a good app to work with.",
+        "Excellent app. All the information is provided and very easy to use.",
+        "Exelent app Exelent",
+        "Doesn't work at all Check data and try again everytime the app opens"
+    ],
+    "recentChanges": [
+        "new version"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.moveo.driversapp&hl=en&gl=us",
+    "appId": "com.moveo.driversapp"
+}

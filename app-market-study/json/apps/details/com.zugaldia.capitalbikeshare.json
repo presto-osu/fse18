@@ -1,0 +1,51 @@
+{
+    "title": "Capital Bikeshare for Wear",
+    "summary": "This app lets you find the closest bike directly from your Android Wear watch.",
+    "icon": "//lh4.ggpht.com/0q3j8-lPCiIXGWMl1semIjplIF4kUUszhcUC3PWIZQcKBQXDJBiar0e7avP8RNm35mQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 5,
+    "reviews": 2,
+    "developer": "Antonio Zugaldia",
+    "developerId": "Antonio+Zugaldia",
+    "developerEmail": "antonio@zugaldia.net",
+    "developerWebsite": "https://github.com/zugaldia/capitalbikeshare",
+    "developerAddress": "Washington, DC",
+    "updated": "April 1, 2015",
+    "version": "1.5",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Capital Bikeshare for Wear lets you find the closest available bike, and dock, directly from your Android Wear smartwatch.Features:* Works both on your watch, and on your phone.* Compatible with square and round screens.* Lets you find the closest available bike. * Lets you find the closest available dock.* Gives you a summary of how many stations, bikes, and docks are nearby.* Uses the official data from Capital Bikeshare for Washington, DC.Permissions:* It requires access to your GPS to get your location.* It requires access to the Internet to get the latest available information.Feel free to file any issues or ideas here: https://github.com/zugaldia/capitalbikeshare/issues*** Please note that this app is not officially affiliated with Capital Bikeshare. ***This app is completely free and fully Open Source.",
+    "descriptionHTML": "Capital Bikeshare for Wear lets you find the closest available bike, and dock, directly from your Android Wear smartwatch.<br><br>Features:<br>* Works both on your watch, and on your phone.<br>* Compatible with square and round screens.<br>* Lets you find the closest available bike. <br>* Lets you find the closest available dock.<br>* Gives you a summary of how many stations, bikes, and docks are nearby.<br>* Uses the official data from Capital Bikeshare for Washington, DC.<br><br>Permissions:<br>* It requires access to your GPS to get your location.<br>* It requires access to the Internet to get the latest available information.<br><br>Feel free to file any issues or ideas here: https://github.com/zugaldia/capitalbikeshare/issues<br><br>*** Please note that this app is not officially affiliated with Capital Bikeshare. ***<br><br>This app is completely free and fully Open Source.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/gqba6Id6H8xxrkngYMHzRPOyiu9trBu19uo78N1zLQ919BLYvAeWWltjgZEh8r9qyxg=h310",
+        "//lh3.ggpht.com/bPQ34oIhfVdSCfNVd-1Js-qjRNLjsO-ZhqXIlJpCVrh0WejHT-BiLJQcx_VWWvWZmnQ=h310",
+        "//lh3.ggpht.com/56l-YLSNpLkGq6oVlWvgKDuauuawT-6Ivsj4ZrF3VXD2lnhb7TDOgqdq_xHukJ_zRok=h310",
+        "//lh5.ggpht.com/Bng952ywpdECKDfV2l6N2rO6kATJgiZtw9m8QwICrdq9YMERzrJNB0x1vVDfQJnnKCG6=h310",
+        "//lh4.ggpht.com/iFrjnehSXFd9JvrQj20-tDJlfsiruSbRqHJ5kASGNKeO5oNMyDnTt1YuwLy9NPHLh8HF=h310",
+        "//lh5.ggpht.com/-XL8UVaXHlI5OdiaIwmvR5zB_Q6GhEq0A_XHyCFVAL33VIw_5fOMuUN5Cl54BfEs=h310",
+        "//lh6.ggpht.com/2rU1lfoJT5v-LVQh0q6VNkUHmeSq9bxmE_OWGL2GRkGNV7_mNbefsy1Z3Q9Z6YX8CyI=h310",
+        "//lh6.ggpht.com/v3JD3SfzNXPjiwLsa4kwGOlKS5cyvS1CMUAjZyuQOCRwofF72Hx6iRNKHSqhRdHVpEw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Maintenance release."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare&hl=en&gl=us",
+    "appId": "com.zugaldia.capitalbikeshare"
+}

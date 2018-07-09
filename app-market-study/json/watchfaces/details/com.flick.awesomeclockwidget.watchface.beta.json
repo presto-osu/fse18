@@ -1,0 +1,56 @@
+{
+    "title": "ACW Watchface",
+    "summary": "A beautiful and very configurable Android Wear watchface, with custom background",
+    "icon": "//lh3.googleusercontent.com/OFJFrWy2XhJc0OqvwkvMHPpyLBkx0IflmAjlv-ILi2Ptj8NE4c25tRf49p_Mg_BlWt0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.9,
+    "reviews": 506,
+    "developer": "flick",
+    "developerId": "flick",
+    "developerEmail": "support@flick.pt",
+    "developerWebsite": "https://plus.google.com/u/0/+Jo%C3%A3odeLouren%C3%A7o/",
+    "developerAddress": "Rua Baluarte do Socorro, 2900-262 Setúbal, Portugal",
+    "updated": "September 3, 2015",
+    "version": "1.5.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "ACW Watchface is an beautiful and very configurable Android Wear watchface, including:-Custom Backgrounds-Time & Date Styling-Text Color-Standard eight different backgrounds.If you would to suggest anything else, please send me an email!Support me on Patreon: https://www.patreon.com/siniuxCheck out my other watchface, \"atmo Paper\" for Android Wear [ http://goo.gl/wafCzK ] and \"Awesome Clock Widget\" for Android [ http://goo.gl/gD2qWe ].Thanks!",
+    "descriptionHTML": "ACW Watchface is an beautiful and very configurable Android Wear watchface, including:<br>-Custom Backgrounds<br>-Time &amp; Date Styling<br>-Text Color<br>-Standard eight different backgrounds.<br><br>If you would to suggest anything else, please send me an email!<br><br>Support me on Patreon: https://www.patreon.com/siniux<br><br>Check out my other watchface, &quot;atmo Paper&quot; for Android Wear [ http://goo.gl/wafCzK ] and &quot;Awesome Clock Widget&quot; for Android [ http://goo.gl/gD2qWe ].<br>Thanks!",
+    "histogram": {
+        "1": 58,
+        "2": 32,
+        "3": 59,
+        "4": 110,
+        "5": 247
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/IvbUOjNHYXnC0pSHJCa6kmyJZXr9XZeJym2oMS55voYj7d9DOHNWSESdVG8ohTHPhoo=h310",
+        "//lh3.googleusercontent.com/yPw5TPREeE1jqBByYozQ2tIkloUeuYxEFUjb5_FN00qVobJP0I7TiDzdAx-vJ6Ll1seM=h310",
+        "//lh3.googleusercontent.com/HzhPTs2ny0PrCu2o67_mjdGqP8sPo0dCTxHF3u8Dk03A6hj5h16_UZ8pfdY4CZ1A1J8=h310",
+        "//lh5.ggpht.com/xxbhw5QtdflyglK1VKPXGfmowlHq2Y6GjkRHOgA1A6ZiRadJthrOZLrF6f4byqHhKSQ=h310",
+        "//lh4.ggpht.com/cbgCD-cpU786yjnwYzpxQexUHI0KGJayUUQxk77YmyI21o1s9So5Ar_CONvyalrWJhI=h310",
+        "//lh5.ggpht.com/h5m0jliJhNsbNTO76yYzVIeQswVlvyQfPpmbfr-rkQnRWJSwOtJshBXUm8cjTBA9fEE=h310"
+    ],
+    "comments": [
+        "Nice and simple This is what should have shipped as a standard option on smart watches.  One thing I'd ask the developer is to allow users to remove the zero leading the hours, it's not typically seen on US watches.  Well worth the price.",
+        "I purchased this because of the gorgeous options, but then I found out that each of the options I thought were included have to be purchased separately. I can understand SOME in-app purchases, but this is ridiculous. I've purchased other apps for the same price they have way more free options available with the initial purchase. You need to be more open about what is included in the initial purchase: next to nothing. I won't be purchasing any other apps from this developer. Let the buyer beware.",
+        "What happened to the randomize background feature? The whole reason that I bought the app was to randomize the background as displayed in the screen shots. Very disappointed that it is not there",
+        "Awesome But Lacking... Lovely watch face but some basic features/functions are missing. Option to remove leading zero, Rotating background, Battery percentage display, MM/DD/YR choice, and the ability to chose how long in full brightness. Weather would also be nice.",
+        "Was going with 5 stars but now it says it's  not compatible with my Nexus 6? Useless!",
+        "Love it, only problem is when restoring phone or getting a new phone, prompts for purchase again. Update Sept 2017:New phone, still prompts for purchase! Tired of this...."
+    ],
+    "recentChanges": [
+        "- The \"Custom Background not passing to the Watch\" bug should now be fixed."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.flick.awesomeclockwidget.watchface.beta&hl=en&gl=us",
+    "appId": "com.flick.awesomeclockwidget.watchface.beta"
+}

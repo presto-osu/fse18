@@ -1,0 +1,52 @@
+{
+    "title": "Pace Me (an interval timer)",
+    "summary": "Stay on track with this interval timer",
+    "icon": "//lh6.ggpht.com/2_LYs2a67KI96paPY-kHSAAWOnDnsCg9NaMPgXJrex1xTp12vf-2z-UpqUUBQeTSTf0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.1,
+    "reviews": 76,
+    "developer": "Ryan Chesla",
+    "developerId": "Ryan+Chesla",
+    "developerEmail": "RyanCheslaAppFeedback@gmail.com",
+    "developerAddress": "24960 pleasant trail\n\nRichmond heights, Ohio 44143\n\nUnited states",
+    "updated": "September 12, 2014",
+    "version": "1.0.8",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "An interval timer that runs on Android watches, phones and tablets.I noticed people in my gym would hit a set, watch the clock for exactly one minute, then hit another set. And then repeat this process over and over. I said, why should people have to manually watch the clock? This app solves that problem. If you have an Android watch its really awesome to use (I use it myself while working out). Please leave a review if you like. THANKS!!!",
+    "descriptionHTML": "An interval timer that runs on Android watches, phones and tablets.<br><br>I noticed people in my gym would hit a set, watch the clock for exactly one minute, then hit another set. And then repeat this process over and over. I said, why should people have to manually watch the clock? This app solves that problem. If you have an Android watch its really awesome to use (I use it myself while working out). Please leave a review if you like. THANKS!!!",
+    "histogram": {
+        "1": 9,
+        "2": 3,
+        "3": 8,
+        "4": 11,
+        "5": 45
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/AeRmSbeWa-_-opFD_b52uEkXG20Rt1Or9f9wuzDr3Ejtj8aE9Y4-uu_UHcUzclNCYODV=h310",
+        "//lh4.ggpht.com/Ht2sF6oxUJ9Z5ZlBtxaarJEU1lF66F1de3A_w53Kdn6kcg2VcCk-tC1yTCa_QzCrPnk=h310",
+        "//lh4.ggpht.com/OKiJj7QpWgfb9bUr-LN55MDlIUNaEeXay_y_eUgLwpioqb1Zj8l7M8s5WkuIAnXWWY1D=h310"
+    ],
+    "comments": [
+        "Basic one-interval repeater. It would be good to be able to, say, set 2 mins exercise, 30 sec rest etc",
+        "Poor app No way to use multiple intervals. Just an egg timer.",
+        "Perfectly simple. Exactly what I wanted it for.",
+        "Works! Contrary to 99% of the similar apps.",
+        "Loved it. So simple. And suits most of my needs.",
+        "So useful This application is wonderful! It's so nice that it flashes green, vibrates, and makes a sound so no matter what I know my reps are over. I can't focus on my breathing as much if I'm also counting, so I just absolutely love it!"
+    ],
+    "recentChanges": [
+        "Added support for round Android wearables"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ryanchesla.paceme&hl=en&gl=us",
+    "appId": "com.ryanchesla.paceme"
+}

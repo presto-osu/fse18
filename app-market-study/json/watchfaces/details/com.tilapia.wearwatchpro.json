@@ -1,0 +1,53 @@
+{
+    "title": "Wear Watch Pro (Watch Face)",
+    "summary": "The only watch face You need",
+    "icon": "//lh3.ggpht.com/9TmzYz-49I6_P-QD3mvjj8zoyE8-uoaN2x5lzvZKzUBvo-ed9gvX9bpHVUhKR3UIBiw=w300",
+    "price": "$3.49",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 1.7,
+    "reviews": 3,
+    "developer": "Tilapia",
+    "developerId": "Tilapia",
+    "developerEmail": "info@tap.rocks",
+    "developerWebsite": "http://www.facebook.com/tilapia",
+    "developerAddress": "Bulevardi street 7\nHelsinki, 00120",
+    "updated": "February 9, 2015",
+    "version": "2.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Wear Watch Pro is a stylish and functional digital style watch face for all Wear devices.Features:☆ 12 and 24 hour modes☆ Time display with second precision☆ Date and weekday☆ Extensive Color customization (background, hours, minutes, seconds separately)☆ Bitcoin price (in usd from Bitstamp)☆ Ambient mode for improved battery life☆ Supports both round and rectangle watchesOur aim is to be the leading watch face for Wear. Updates will be provided frequently.Uses the official watchface API for improved performance and battery lifeWorks with all wear devices, round and rectangle screens, including: Moto 360, LG G Watch, Asus Zenwatch, Sony Smartwatch 3, ...",
+    "descriptionHTML": "<b>Wear Watch Pro</b> is a stylish and functional digital style watch face for all Wear devices.<br><br><br><br><br><b>Features:</b><br>&#x2606; 12 and 24 hour modes<br>&#x2606; Time display with second precision<br>&#x2606; Date and weekday<br>&#x2606; Extensive Color customization (background, hours, minutes, seconds separately)<br>&#x2606; Bitcoin price (in usd from Bitstamp)<br>&#x2606; Ambient mode for improved battery life<br>&#x2606; Supports both round and rectangle watches<br><br><br><br><i>Our aim is to be the leading watch face for Wear. Updates will be provided frequently.</i><br><br><i>Uses the official watchface API for improved performance and battery life</i><br><br>Works with all wear devices, round and rectangle screens, including: <br>Moto 360, LG G Watch, Asus Zenwatch, Sony Smartwatch 3, ...",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/Zajz7Efd5sX6urNkDUd2q2uArx0ePKk1dKjjYciMaeDyZ5AaGknPv1uoMQ5y8o67oh8=h310",
+        "//lh3.ggpht.com/nTI4m5cHw42UvrG_WzRJx-8axAJcj3zlofIyej41nldrLBDSiRwVbAqKEdQTMMMesQ=h310",
+        "//lh4.ggpht.com/1eiUhqszWJHQ1M1Ll9AukdE5lnoCphzkjsO2KR-w32VlkVVn0gJVYCTZgEZq7IAY1-8i=h310",
+        "//lh5.ggpht.com/6FO1hwEsg1F1K0yUuQGg9bDu8aEu-_1lc5WU6z4h9KfNc4FylhB8Abc2U_ceELSMKus=h310",
+        "//lh3.googleusercontent.com/oHfJpuIFK4W1e-X_hytS6j6xcpen2SEPOxtCyERZ_6MxIwgvlftu7uopXh8W4HGL64Q=h310"
+    ],
+    "comments": [
+        "Battery This app destroys the battery life. Normal life is 2 days, I'm now getting 7 to 8 hours. Too bad really. I like the bitcoin feature. No one else has it that I can find. BTW, I use it on my Zen watch",
+        "****---DO NOT BUY THIS APP---**** Decided to ignore negative reviews and buy the app because I really wanted a BTC ticker on my wrist.. Regret.  Tried sending the dev a nicely worded email before negative rating only to find that there is no way to contact him. The email address he lists on his apps does not exist and his facebook page redirects to his Play Store apps page.  This app does 1 thing right, it brings a BTC ticker to android wear. There are very barebones minimum customization options, you as a user do not know and can not set the price refresh frequency or what exchange is used (I understand that this would be difficult to implement user settings for; at least let us know what they are if we can't change them...)  App is near unusable on H-Watch due to formatting issues.",
+        "Not working for me I don't have option to change to this watch face on my LG g watch...  Guess I'll have to check bitcoin  price the traditional way.  Can I get  refund?"
+    ],
+    "recentChanges": [
+        "- Optimized performance",
+        "- New icon"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tilapia.wearwatchpro&hl=en&gl=us",
+    "appId": "com.tilapia.wearwatchpro"
+}

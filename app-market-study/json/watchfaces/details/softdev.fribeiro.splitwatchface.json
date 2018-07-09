@@ -1,0 +1,48 @@
+{
+    "title": "Clean Watch Face for Wear",
+    "summary": "Hi there! This is my first WatchFace. It includes two different views. Enjoy",
+    "icon": "//lh3.googleusercontent.com/4gjEVI_uVjDUWlFoEKfYspb6jy-eOSoeqobIDmzqUqqJ-qjsgtt-v2o6TvIT6fwZaNs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.4,
+    "reviews": 5,
+    "developer": "Francisco Ribeiro",
+    "developerId": "Francisco+Ribeiro",
+    "developerEmail": "fr.fmpt@gmail.com",
+    "updated": "April 26, 2015",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Actually I can't say a lot about this watchface. it's very simple, but I like it.You can find two different versions, one includes full painted bars, and the other doesn't.I'm thinking about improve settings allowing you to customize font, color and size. But I'll only do it if anyone asks for it =PHope you enjoy, please rate, and if you have any suggestion, please contact me to fr.fmpt@gmail.comit was tested using #moto360 and #lgR devices",
+    "descriptionHTML": "Actually I can&apos;t say a lot about this watchface. it&apos;s very simple, but I like it.<br>You can find two different versions, one includes full painted bars, and the other doesn&apos;t.<br><br>I&apos;m thinking about improve settings allowing you to customize font, color and size. But I&apos;ll only do it if anyone asks for it =P<br><br>Hope you enjoy, please rate, and if you have any suggestion, please contact me to fr.fmpt@gmail.com<br><br>it was tested using #moto360 and #lgR devices",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/l7uo13wJuwYlFgIIeNtrb5vU0KO_FX6YyqchUXe38SbwkornNsb5fWiMauuf_Q5kFS6a=h310",
+        "//lh3.googleusercontent.com/Ji1f4a2rRYqf5Q3AeDUOUGefEjgMGsXyaoa3EJd_EmWTAS90ld6cPWxUBZG-mEtyxgTB=h310",
+        "//lh3.googleusercontent.com/2tsbGSlxJ_vew9d41ux8ywI7ODsq-wbxBZHcK-YFmOOAKS93bMRFVe_t8LFkkcCGIQ=h310",
+        "//lh3.googleusercontent.com/xcl1t6jZmoWf7r7WPod2jWcQYjS-h-4g--1z7KTf5C6P16VTgiizcC5R13Mx0UjN0l0a=h310"
+    ],
+    "comments": [
+        "Loved it! It's a beautiful example of the neo-impressionism/minimalism hybrid. Outstandingly handcrafted by the gentle touch of a professional digital watch maker. Uses a perfect blend of wizardly gradiented colours improved by the magic of a cunningly chosen font. I can't wait for the next watch face masterpiece. Keep at it!"
+    ],
+    "recentChanges": [
+        "Added watch battery level percentage at the bottom of watchface! (both on simple and bar watchface)",
+        "the battery level is updated every half hour, preserving battery life!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=softdev.fribeiro.splitwatchface&hl=en&gl=us",
+    "appId": "softdev.fribeiro.splitwatchface"
+}

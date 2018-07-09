@@ -1,0 +1,48 @@
+{
+    "title": "Internet Beat Time Watchface",
+    "summary": "Internet Beat Time Watchface with Day / Night Worldmap background for android wear",
+    "icon": "//lh3.googleusercontent.com/eYlu-Hxss1a7Uc0-tlDRAME1zo1BGvQAxpzdOz4OClVY1zOgKpr2UqTqrW3SdrOKxWI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.7,
+    "reviews": 10,
+    "developer": "Alessio Garzi",
+    "developerId": "Alessio+Garzi",
+    "developerEmail": "gun101@email.it",
+    "developerWebsite": "http://internetbeattimewatchface.ozzyboshi.com/",
+    "updated": "December 23, 2016",
+    "version": "1.8",
+    "genre": "Business",
+    "genreId": "BUSINESS",
+    "description": "Semplice watchface per Android Wear che consente di visualizzare l'internet beat time.Per maggiori informazioni riguardo Internet Beat Time consultare :http://www.swatch.com/en/internet-timeehttp://en.wikipedia.org/wiki/Swatch_Internet_TimeE' possibile visionare i sorgenti della applicazione all'indirizzo https://github.com/Ozzyboshi/InternetBeatTimeWatchFaceHome page del progetto : http://internetbeattimewatchface.ozzyboshi.com/",
+    "descriptionHTML": "Semplice watchface per Android Wear che consente di visualizzare l&apos;internet beat time.<br><br>Per maggiori informazioni riguardo Internet Beat Time consultare :<br><br>http://www.swatch.com/en/internet-time<br><br>e<br><br>http://en.wikipedia.org/wiki/Swatch_Internet_Time<br><br>E&apos; possibile visionare i sorgenti della applicazione all&apos;indirizzo https://github.com/Ozzyboshi/InternetBeatTimeWatchFace<br><br>Home page del progetto : http://internetbeattimewatchface.ozzyboshi.com/",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Gw4MiU5CU7pUjhhLqGpG9cHyySNFMzLKAX5WPCi9wPcq7g2hIOSmKaRTeL-_A8TY9ZBl=h310",
+        "//lh3.googleusercontent.com/7gDCWImA0KB265k3D48Okh-zcrspJfTxJ_aUvmSxBzLZUB-dIWeOJNcq4tK9uvKWZ2k=h310",
+        "//lh3.googleusercontent.com/5UTJ5ff9BX9ot8byoOw30-iAqzbAh70MloZofHCd2ohZJmlcBCDPTyfsM4s18gD6Qw=h310",
+        "//lh3.googleusercontent.com/J7m4sdeE-8gl2GerrR-T9b7_WxPiQkgBfaAfpwYcJeaRQE2Et1nBw3BTagT02ZLf-QU=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "As requested from one of the user the watchface now displays the date format according to the locale instead of using the fixed format gg/mm/AAAA.",
+        "Digging into the code I found a bug on the mobile app which didn't set the \"internet show date\" button according to the last state set by the user.",
+        "Minor code polishments and gradle filed updated."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ozzyboshi.internetbeattimewatchface&hl=en&gl=us",
+    "appId": "com.ozzyboshi.internetbeattimewatchface"
+}

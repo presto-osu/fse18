@@ -1,0 +1,60 @@
+{
+    "title": "Fit Watch Face - Pedometer",
+    "summary": "Count your steps with the Fit Watch FaceReach your daily goal and burn calories",
+    "icon": "//lh6.ggpht.com/0Kqtleaq7j1RgW-W7HbBC4sRh4aXuUnYQKrK1WWWSCqbXryayerqG5vilHlzi8ZoHA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.8,
+    "reviews": 29,
+    "developer": "www.iFace.watch",
+    "developerId": "www.iFace.watch",
+    "developerEmail": "android@mobilefactory.at",
+    "developerWebsite": "http://www.mobilefactory.at",
+    "developerAddress": "Gartenlehnerstraße 33,\n4060 Leonding\nÖsterreich",
+    "updated": "January 8, 2015",
+    "version": "1.24",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Step Counter Watch FaceThe Fit watch counts your daily steps like you know it from nike fuelband or fitbit. It uses the step detector on your Android Wear smartwatch. If there is no sensor on your watch it uses the Google Fit steps that are tracked by your phone. You can set your daily goal in the setting or on companion app. A nice overview statistic is also shown on the watch, displaying the last 12 hours. Whether you’re jogging, walking, hiking, or backpacking the Fit Watch Face is helping you to track your steps for your health, fitness and weight loss.Pedomter+ Ambient Mode: Time & colored Progress Bar+ Active Mode: Summed up steps from this day+ Save your battery on the watch with the ambient brightness setting, so you can have long walks ;-)+ Notification when daily goal is reachedCompatibilityMoto360, LG G Watch R and all other Round and Square Smartwatches with Android Wear.*designed in switzerland - swiss made*",
+    "descriptionHTML": "Step Counter Watch Face<br>The Fit watch counts your daily steps like you know it from nike fuelband or fitbit. It uses the step detector on your Android Wear smartwatch. If there is no sensor on your watch it uses the Google Fit steps that are tracked by your phone. You can set your daily goal in the setting or on companion app. A nice overview statistic is also shown on the watch, displaying the last 12 hours. Whether you&#x2019;re jogging, walking, hiking, or backpacking the Fit Watch Face is helping you to track your steps for your health, fitness and weight loss.<br><br><strong>Pedomter</strong><br>+ Ambient Mode: Time &amp; colored Progress Bar<br>+ Active Mode: Summed up steps from this day<br>+ Save your battery on the watch with the ambient brightness setting, so you can have long walks ;-)<br>+ Notification when daily goal is reached<br><br><strong>Compatibility</strong><br>Moto360, LG G Watch R and all other Round and Square Smartwatches with Android Wear.<br><br>*designed in switzerland - swiss made*",
+    "histogram": {
+        "1": 8,
+        "2": 7,
+        "3": 3,
+        "4": 6,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/BnqDGUba0hu5t7rRo4E7xDL2XJ2Xs7TzbStNmI6Rkn_SN2gE73S4_BTv_PFcfTVHGr0=h310",
+        "//lh4.ggpht.com/L79wDU3vzjJWXK5T7PLrvtOC_O4DNcQoPGhZE_ovUyawMtUQVGB0KM-xbpzvOxAp3uw=h310",
+        "//lh4.ggpht.com/p_ivokPjesolNSqk0adshtD8DH73nreUzQTratdw8N0pThx_kef6Tu_ILKTeKtwvfs4=h310",
+        "//lh4.ggpht.com/lPrzjCenP_VnUVIr5COma8CXGeMLJlhNTj7O9yM3yg6UyfYyjvZk6dLXFcwnhOFkqKg=h310",
+        "//lh5.ggpht.com/LyZrQkIfxg_RsLlAfBedf76xnARg4_0ZvZyTjEqZxGJKpx2BVANpbeefq9ntSvFyxB8=h310",
+        "//lh4.ggpht.com/qLDcqD929mO538SFKcwnHp941bkO4W8UxA-pmnpzJBM6tdRs9WpY8dwNnDWxV5IzD8e8=h310",
+        "//lh3.ggpht.com/DzpLCxnSczNHzNNPRK4WFrj-1j8fZjQR3lMH-uYqOZ1BU_VxQtsmdi5Nb_JbAEUqXg=h310",
+        "//lh4.ggpht.com/jZHY1KaTuuChdMtWJERzU-slYij345tvCMsde7-r9wELEaaUs-Lk2EvdjA_nxjfJBHk=h310"
+    ],
+    "comments": [
+        "Thank you! Finally an active pedometer on the watch face that integrates with Google Fit. It makes my lg g watch feel more like a fitbit which I like. It's still a little buggy but I'm sure that'll go away in the future. A good .99 cent purchase.",
+        "Strange I find it a bit weird how I cannot select google fit as what represents the goal and number if I have a watch that can track steps. Also,  when charging the moto 360 with this watch face it will flash on and off even with theater mode active. Some major bugs.",
+        "Needs some work. Steps will reset if you change face and change back. Goal is independent from user-set Fit goal. Goal is capped at 9000 steps, which is pretty low  LG G watch + Moto X gen 1   Update: Goal is now capped much higher at 20k, and steps no longer reset on watch face reset. Thanks for the updates! This morning, my steps weren't reset from the day before, but not sure yet if that has been fixed in today's update. Goal and step count still seem to be independent from Fit numbers (when I got the new version, my step count reset). Update 2: The steps seem to reset randomly at no meaningful interval. I would expect them to reset at midnight. Basically the information displayed doesn't mean a thing because it's not constrained in a way that's obvious to me as a user.",
+        "Disappointed What l wanted was a standalone pedometer for my Sony S3. What I got was a pedometer that was something less than the Google fit. At least with the Google fit it kept counting my steps after l reached my set goal. This set the counter back as soon as l reached my 10,000 steps. I want to know my total for the day with a reset at midnight. Guess I will have to keep searching.  Sorry for the low rating guys /gals. It just didn't cut the mustard.",
+        "Fit app Loved the idea of not having to wear my fitbit anymore. Well it was great first day. But it resets itself at any given time. I don't have an Accurate account of my steps. Booo.  I want my money back.",
+        "What I was looking for, but would like to be able to change where the time and steps go. Also get \"init UI error\" on Moto 360 2"
+    ],
+    "recentChanges": [
+        "show steps in ambient mode",
+        "greater step goal settings",
+        "fixed daily reset bug"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=at.mobilefactory.watchface.fit&hl=en&gl=us",
+    "appId": "at.mobilefactory.watchface.fit"
+}

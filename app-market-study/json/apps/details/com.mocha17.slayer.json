@@ -1,0 +1,60 @@
+{
+    "title": "JorSay",
+    "summary": "Shake your Wear-wearing wrist and make your phone read notifications aloud!",
+    "icon": "//lh3.googleusercontent.com/FyPq2x_UWsNGwnRD-0EN6wBMEsBRsgbNNAtjI8mnE5M-DNNNSvzowr62Nkwfp90MWB4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.9,
+    "reviews": 68,
+    "developer": "Mocha17",
+    "developerId": "Mocha17",
+    "developerEmail": "mocha17apps@gmail.com",
+    "developerWebsite": "https://bitbucket.org/mocha17/jorsay-dev-mocha17/src/master/privacy-policy",
+    "updated": "January 17, 2018",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "With JorSay, your phone reads the incoming notification aloud if you ask it to, just by shaking your watch. It eliminates the need of scrolling and swiping around on the tiny screen of the watch - actions that require using both hands, while you could be in the middle of something else, like driving.JorSay is customizable. You can select the apps it would read notifications for, whether to use maximum volume for reading notifications, and whether to 'skip' Shake Detection using Android Wear and read notifications aloud as they come in. You can also configure the Shake intensity and how long the app should listen for the Shake. Moreover, you can configure 'silence intervals' to avoid listening to notifications when you are asleep!This is just the beginning, and even more customization options are in the pipeline.JorSay is smart. It doesn't read notifications from your music player or other ongoing operations. It doesn't read notifications posted with minimum priority - like Google Now weather updates. If it fails to register a Shake, you can still trigger 'read aloud' from your watch - just say 'Start notification reader' to bring up the app and tap on the JorSay button. Moreover, it supports Ambient Mode - you can quickly get back to it even after your watch screen turns off.JorSay is transparent about its operations. It doesn't have ads, and it doesn't use your personal information for any unintended purposes. You have a say! Please give us your feedback and feature suggestions here, or by sending us an email.What does the name JorSay mean? It is a play on the Hindi word for 'aloud' - https://translate.google.com/#en/hi/aloud. :)",
+    "descriptionHTML": "With <b>JorSay</b>, your phone reads the incoming notification aloud if you ask it to, just by shaking your watch. It eliminates the need of scrolling and swiping around on the tiny screen of the watch - actions that require using both hands, while you could be in the middle of something else, like driving.<br><br><b>JorSay is customizable.</b> You can select the apps it would read notifications for, whether to use maximum volume for reading notifications, and whether to &apos;skip&apos; Shake Detection using Android Wear and read notifications aloud as they come in. You can also configure the Shake intensity and how long the app should listen for the Shake. Moreover, you can configure &apos;silence intervals&apos; to avoid listening to notifications when you are asleep!<br>This is just the beginning, and even more customization options are in the pipeline.<br><br><b>JorSay is smart.</b> It doesn&apos;t read notifications from your music player or other ongoing operations. It doesn&apos;t read notifications posted with minimum priority - like Google Now weather updates. If it fails to register a Shake, you can still trigger &apos;read aloud&apos; from your watch - just say &apos;Start notification reader&apos; to bring up the app and tap on the JorSay button. Moreover, it supports Ambient Mode - you can quickly get back to it even after your watch screen turns off.<br><br><b>JorSay is transparent</b> about its operations. It doesn&apos;t have ads, and it doesn&apos;t use your personal information for any unintended purposes. <br><br><b>You have a say!</b> Please give us your feedback and feature suggestions here, or by sending us an email.<br><br><b>What does the name JorSay mean?</b> It is a play on the Hindi word for &apos;aloud&apos; - https://translate.google.com/#en/hi/aloud. :)<br>",
+    "histogram": {
+        "1": 7,
+        "2": 5,
+        "3": 9,
+        "4": 15,
+        "5": 32
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/PbpeKkdhFZfeTMV5WxChaHY3Bkaq2GjtqowMCt5_j0eS2bZrs05huBYu-GntnEEAM5NA=h310",
+        "//lh3.googleusercontent.com/yyc3nSnOlHnQyREemlBNBk6QaKQpqMIs7z71Pvu7yYKUocaKXNqT1tRNfoBHvarI7NCh=h310",
+        "//lh3.googleusercontent.com/ah18AbJl4zT-nfHwLUNY3qalDez5h2eDG-ewuDcTd2_VGeNYzDfHrQdIV8l3sseIrA=h310",
+        "//lh3.googleusercontent.com/LEbiCcAZlvCbTTrpm01Or9peHDvyXOXKIZ4T5RPfYyy5_2eY_BPLCMx9gBycRp3EpOc=h310",
+        "//lh3.googleusercontent.com/IOqrho0ylKUHW-k1SPIwW8Ix10eNWJ7MKWDTD6lRW3GRn-S9XOd12mFxVXODHz8aOKdk=h310",
+        "//lh3.googleusercontent.com/wW_Fylnqs_o4fMShF8SO1W8J_mmm3nMOOA-TuXCFHx1aoBTI_IQtKw-tWmHgY1lkuKQ=h310",
+        "//lh3.googleusercontent.com/h88f8X7ucKhebJ12VBrBhmqpFR1KPRgGaBm8HL-VD8zlLlmyBffOt2oHqRXwvtGIRQ=h310",
+        "//lh3.googleusercontent.com/HHjDCbuaMWXCTeZZDjpUdj8zXhbac2v0xaGmkdli6QLrVdBC5tWqc_fpJrH7DbRpwUAp=h310",
+        "//lh3.googleusercontent.com/2hUcphQBPD-a7KZeNomKWszG8AXkreNHPyYvSuehIOgl6DXUZsOPb10ylpM6Nd69rA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/4zd64SotpQQ",
+    "comments": [
+        "I don't know if I'm doing something wrong but it reads notifications without shaking. I had the watch lying on the table, not moving and my phone still played my text message. I have asus zenwatch 2 running 1.4.  I have jorsay set with shake detection on with shake intensity high and detection duration 10 seconds.  I've also had it spontaneously read a text out loud 30 minutes after it was received.",
+        "Good but needs a little more I really like this app and it's extremely helpful for when I'm driving. However, my only complaint is that it only uses the phone speaker to read your messages aloud. It would be nice if it would read the messages using your Android Wear speaker. I have a Huawei watch and this would be perfect. Please implement this!",
+        "Reading All Aloud My problem is that it's reading all notifications aloud. Even when I'm not wearing the watch.",
+        "Its okay I wish you could choose which days it would work also, like i set a parameter so it doesnt go off between 8:10 and 3:02 for school but now all weekend between those hours i cant use it, i want only week days",
+        "Same problem, reads all notifications aloud.  I need it to just read notifications (on my watch, not phone) and only when I shake my wrist. Using LG G4 and Zenwatch 2",
+        "Don't work with moto 360. Reading just from my mobile."
+    ],
+    "recentChanges": [
+        "Wear 2.0 support!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mocha17.slayer&hl=en&gl=us",
+    "appId": "com.mocha17.slayer"
+}

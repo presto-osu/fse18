@@ -1,0 +1,59 @@
+{
+    "title": "BMetal(R)evo FREE Watch Face",
+    "summary": "Analog watchface with 5 bright, 4 dimmed colors, events, weather, stepcounter",
+    "icon": "//lh3.googleusercontent.com/jWwKNlOYqVNzg_kGMo0Dae-m8gKZhJlCPH5QMqdOjOF5bXbw9KP4eyedwaRHo4ZOM2CE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 17,
+    "developer": "Darkle",
+    "developerId": "Darkle",
+    "developerEmail": "Darkle@Darkle.net",
+    "developerWebsite": "http://Darkle.net",
+    "developerAddress": "Estonia\n72212 Türi\nPõik 3",
+    "updated": "May 16, 2015",
+    "version": "1.02",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This is a WatchMaker design and so the free WatchMaker App must be installed onto your device before installing this watch face. WatchMaker can be found here: http://goo.gl/FMxUfYThis is free version of Darkle BlackMetal (R)evolution watchface.Bright mode options :- Time- Day- Date- Month- Weather- Step counter- Watch battery reading - Phone battery reading (if battery reading is < 25 then text changing to red)- Watch and Phone battery led lights (going green->yellow->red)- Sunrise and sunset times (sun moving at the edge of the watch sunrise to sunset)- 5 different color choices (colorset button)- calendar events (with tilted display)- clockhands,texts and watchdetails animations- Optimized images, indexed colors, pngslim packed (for better battery life)Dimmed mode options :- 4 different color choices- 5 different brightness options- pixel grid, which can be enabled or disabled (default is enabled)- 12 or 24 hours mode option (default is 12h)- You can choose whether to show the digital clock, analog clock, or both- animations",
+    "descriptionHTML": "This is a WatchMaker design and so the free WatchMaker App must be installed onto your device before installing this watch face. WatchMaker can be found here: http://goo.gl/FMxUfY<br><br>This is free version of Darkle BlackMetal (R)evolution watchface.<br><br>Bright mode options :<br><br>- Time<br>- Day<br>- Date<br>- Month<br>- Weather<br>- Step counter<br>- Watch battery reading <br>- Phone battery reading (if battery reading is &lt; 25 then text changing to red)<br>- Watch and Phone battery led lights (going green-&gt;yellow-&gt;red)<br>- Sunrise and sunset times (sun moving at the edge of the watch sunrise to sunset)<br>- 5 different color choices (colorset button)<br>- calendar events (with tilted display)<br>- clockhands,texts and watchdetails animations<br>- Optimized images, indexed colors, pngslim packed (for better battery life)<br><br>Dimmed mode options :<br><br>- 4 different color choices<br>- 5 different brightness options<br>- pixel grid, which can be enabled or disabled (default is enabled)<br>- 12 or 24 hours mode option (default is 12h)<br>- You can choose whether to show the digital clock, analog clock, or both<br>- animations",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 4,
+        "4": 1,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/SsGRnV2ibA-UMVzt-YQXHxKoTRB7D3UdZV3_G4c9dTq8p9YeOLev4DoSHIhcn-R0-g6J=h310",
+        "//lh3.googleusercontent.com/gk0JCXCqnbovMHpGgeJ2Nn-P7sfPVxjNI062HuuaR_aSwUd_ibDlluvwXcPHOIm_pl3a=h310",
+        "//lh3.googleusercontent.com/xWbG2Q3knMY30eLHFrxalocFG6ybHDn5Hj8ZTat7Cs0TGYULZ97j84aROani0dMsgagd=h310",
+        "//lh3.googleusercontent.com/SBgpsj-jL39zXIb6L_DCX4rXazkx_j1wZrYhTJmRqSaERUDybVK1im0MsKBcaBlnUuo=h310",
+        "//lh3.googleusercontent.com/ETLe8i-OZ_YjYiMJxnFzmfWj4QIi6BiM_ezGfSNZHugbM9QcE3Xq9W6GgJIfT8ymdg=h310"
+    ],
+    "comments": [
+        "Good",
+        "Cool!!! Thanks!!!"
+    ],
+    "recentChanges": [
+        "+ 1 dimmed color",
+        "+ step counter",
+        "+ color changes (more bright color)",
+        "+ animation changes",
+        "+ dimmed mode weather icon change",
+        "+ larger texts in dimmed mode",
+        "- moto360 dimmed numbers pixelgrid fix",
+        "- weather location centering fixed",
+        "- overlapping texts fixed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=darkle.wmwatch.blackmetal.revolution.free&hl=en&gl=us",
+    "appId": "darkle.wmwatch.blackmetal.revolution.free"
+}

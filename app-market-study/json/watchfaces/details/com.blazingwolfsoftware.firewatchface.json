@@ -1,0 +1,48 @@
+{
+    "title": "Fire Watch Face",
+    "summary": "Maltese cross analog watch face contains Star of Life, fire hydrant and others.",
+    "icon": "//lh3.googleusercontent.com/7E7xVA506uCLzlTsYU36tueNvzAq3iWvuUNsilBWrckAusfoNvxINkqRb3KRGvARqQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "blazingwolf software",
+    "developerId": "blazingwolf+software",
+    "developerEmail": "blazingwolf@outlook.com",
+    "developerAddress": "8653 Passapatanzy Rd\nKing George, Va. 22485",
+    "updated": "May 9, 2016",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Fire watch face is a fire and Rescue maltese cross. It contains a Star of life as well as a hydrant and other fire related symbols. This watch face has been tested on an LG G Watch and a Moto 360 Sport.",
+    "descriptionHTML": "Fire watch face is a fire and Rescue maltese cross. It contains a Star of life as well as a hydrant and other fire related symbols. This watch face has been tested on an LG G Watch and a Moto 360 Sport.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qIlCg_WCoyUyR7JwuHbz-LYYlN14rstNDkyaF4iyq7qymLyYnto8bXozj1EMTXK5ydBq=h310",
+        "//lh3.googleusercontent.com/r1yG4uoRRDXLFPUNfNIE7geRGfPAYb3nJULN66w0uZYnvx8UZuGb1ySVVnjGj1EW4-p_=h310",
+        "//lh3.googleusercontent.com/2Y2OVTXd_7biG-sL46nappQT0u_-9St4afob1OJ396hzYoAUCmKzbRf1RfPaKdU_8Q=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Clock hands now look better.",
+        "Added ticks around the outside of the image.",
+        "Added background behind hot word and other icons to make them easier to see.",
+        "Now tested on a Moto 360 sport."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.blazingwolfsoftware.firewatchface&hl=en&gl=us",
+    "appId": "com.blazingwolfsoftware.firewatchface"
+}

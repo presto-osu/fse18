@@ -1,0 +1,53 @@
+{
+    "title": "GPS Speed",
+    "summary": "Measure your GPS speed when in Need for Speed, driving, cycling, walking, etc.",
+    "icon": "//lh3.googleusercontent.com/vuLjdAZ1NW4q6CHOki9QIHmAzCB_LmKO4O37LrsmL5EDKSW5n8CR8LIzY2LXPZqkqZI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 15,
+    "developer": "SuperThomasLab",
+    "developerId": "7433470895643453779",
+    "developerEmail": "superthomaslabmail@gmail.com",
+    "developerWebsite": "https://sites.google.com/view/superthomaslab",
+    "developerAddress": "Bedum, The Netherlands",
+    "updated": "May 6, 2016",
+    "version": "2.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Do you want to measure your current GPS speed? Do you want to know how fast you are driving? Or do you just want to know your top speed? Then this app is for you!Features• Displays your current speed• Shows your top speed• Change the speed unitSpeed Units• m/s• km/h• mph• knot• ft/sAndroid WearGPS Speed supports Android Wear devices. The functionality of GPS Speed on your Android Wear device relies on the handheld GPS (connected phone) and not the wearable. Requires: Android 3.0+Be sure to rate this GPS Speed app with your stars. Much appreciated. Your feedback is welcome.",
+    "descriptionHTML": "Do you want to measure your current GPS speed? Do you want to know how fast you are driving? <br>Or do you just want to know your top speed? Then this app is for you!<br><br><b>Features</b><br>&#x2022; Displays your current speed<br>&#x2022; Shows your top speed<br>&#x2022; Change the speed unit<br><br><b>Speed Units</b><br>&#x2022; m/s<br>&#x2022; km/h<br>&#x2022; mph<br>&#x2022; knot<br>&#x2022; ft/s<br><br><b>Android Wear</b><br>GPS Speed supports Android Wear devices. The functionality of GPS Speed on your Android Wear device relies on the handheld GPS (connected phone) and not the wearable. <br><br>Requires: Android 3.0+<br><br>Be sure to rate this GPS Speed app with your stars. Much appreciated. <br>Your feedback is welcome.",
+    "histogram": {
+        "1": 1,
+        "2": 3,
+        "3": 1,
+        "4": 2,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KzFMnHMH_tOGopHLXpHzCoHPjo7VY4U8zzmK9l0TbzCxgPmhqpX63ItNEsQkJWt5bVk=h310",
+        "//lh3.googleusercontent.com/ZZSgwsQ8w_MQLLotIJ9Uxmg_PuIPymMcjEvbVrXhs6PauTDaoAUJ2-uFEJ0s3c9VCnSg=h310",
+        "//lh3.googleusercontent.com/a3L_RoNlqKZrYB5FlPh_9RkCWQ7vDwdMbuLvWGg0qNrra9czzvMZkxcQWkLsQohHNzI=h310",
+        "//lh3.googleusercontent.com/VKe5ZU_VLRpcpCcDH_kHOV-Droedi9neTnVB-N3h-KFQozNYNVYMM01tatUeUbsxowU=h310",
+        "//lh3.googleusercontent.com/d9e3UVqaiPUGckpA603Yp-CABmBuapco1eGmx0z0rznj2rg7d987NQjcUJJ1Pd34Zw=h310",
+        "//lh3.googleusercontent.com/k3oUDpoGsUS9xgBRzVBGf0bV6rFbiOFsFp5YeafXNE_f4ZlcM7lKs4P1x_jID_WIVYQ-=h310"
+    ],
+    "comments": [
+        "Add Vertical layout.",
+        "I love thomaslabs"
+    ],
+    "recentChanges": [
+        "• Material Design",
+        "• Android Wear support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.blogspot.superthomaslab.gpsspeed&hl=en&gl=us",
+    "appId": "com.blogspot.superthomaslab.gpsspeed"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "SamyGo Remote Wear Addon",
+    "summary": "Control your Samsung TV with your watch on Android Wear",
+    "icon": "//lh4.ggpht.com/8jFshtGAxNgR_w-kCiyo5e-6ZplMgZ5yc62Jk7aoa2SYRjhM9Z0fVdmS2vxeXlmS9mVD=w300",
+    "price": "$2.42",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 25,
+    "developer": "Tom Quist",
+    "developerId": "Tom+Quist",
+    "developerEmail": "samygo-remote@quist.de",
+    "developerWebsite": "http://www.quist.de/2011/02/remote-control-samsung-tv-with-android-phone/?lang=en",
+    "developerAddress": "Rotenberger Steige 18\n70327 Stuttgart\nGermany",
+    "updated": "April 16, 2015",
+    "version": "1.5.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "\"Okay Google, open Remote\"...This is an Add-On for \"SamyGo Remote\" to control your Samsung TV with your watch.ATTENTION: This App is just a Plugin for \"SamyGo Remote\" and has no view on your smartphone.To use this app on your Smartwatch, you have to download the latest version of SamyGo Remote from the Play Store:http://play.google.com/store/apps/details?id=de.quist.app.samyGoRemoteMake sure to connect the app to your TV before using the Wear App.",
+    "descriptionHTML": "<i>&quot;Okay Google, open Remote&quot;...</i><br><br>This is an <b>Add-On</b> for &quot;SamyGo Remote&quot; to control your Samsung TV with your watch.<br><b>ATTENTION:</b> This App is just a Plugin for &quot;SamyGo Remote&quot; and has <i>no view</i> on your smartphone.<br><br>To use this app on your Smartwatch, you have to download the latest version of SamyGo Remote from the Play Store:<br><br>http://play.google.com/store/apps/details?id=de.quist.app.samyGoRemote<br><br>Make sure to connect the app to your TV before using the Wear App.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 5,
+        "4": 3,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/ia6KUEcypP4FXkGOcOq7NGFNCyotAZIVdFWKBrSX3bXfnVkWeG3A1jex-iO4JV3pqHE=h310",
+        "//lh4.ggpht.com/fJkSDOuYVemoy7FNZNcUGAwmcLFzRbIz58rp7zLBHmSUhUaTeQ1XLtGKhmgDQRI3kg=h310",
+        "//lh6.ggpht.com/FSLqtH92oOTnjc6ekPyIWEstggI3xrv_eHevti08mzpUOFmW57HILwS0ElUYyELF0Q=h310"
+    ],
+    "comments": [
+        "Very handy but limited Really like the idea of this, but unfortunately it is missing the two buttons on the remote I use the most: 'Source' and 'Guide'.",
+        "Not really functional on the Moto 360 1. Scrolling the remote on the watch it very poor. 2. Being a round watch, the top left button, power, is barely viewable and barely clickable.  3. It's very disappointing to see there's no navigation (Arrows + Select) on the remote. Smart TVs rely on these heavily.",
+        "App would be perfect if few adjustments are made The app is great on my LG G Watch. My only problem is there is no source, smart hub, and arrow buttons if they were on then the app would be perfect.",
+        "Not good Does not work.rip off!!!!!                 Plus i can't get a refund 2 min after download.Stay away!!!!!!!",
+        "Works great Like it but please add more buttons so we can use smart TV etc.",
+        "Great app. Works perfect as advertised.hi Thank you developer. Can you please configure the ui for moto 360. Thanks"
+    ],
+    "recentChanges": [
+        "Fixed crash on Android 5 Lollipop"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.quist.app.samyGoRemote.wearAddon&hl=en&gl=us",
+    "appId": "de.quist.app.samyGoRemote.wearAddon"
+}

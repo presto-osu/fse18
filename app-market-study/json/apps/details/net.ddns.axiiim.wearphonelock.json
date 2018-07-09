@@ -1,0 +1,55 @@
+{
+    "title": "Wear Phone Lock for Android Wear",
+    "summary": "A simple app allowing you to lock your phone from your Android Wear device.",
+    "icon": "//lh3.googleusercontent.com/wMicM6nXOmejIOWV5pdzrH15xXp4y7bg7PfhM2NTKM_AsMUpLQv6Pn0CW6LkiMI1pw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 88,
+    "developer": "AXIIIM",
+    "developerId": "4752731894364501023",
+    "developerEmail": "dev.axiiim@gmail.com",
+    "updated": "August 17, 2017",
+    "version": "1.4",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Ever needed to quickly lock your phone when it's not in your hand?Wear Phone Lock is the answer!Now you can take back control of your phone, even when it's not nearby! Use Wear Phone Lock to remotely lock your device, as if you've just pressed the power button. Simply tap the lock button from within the watch app, and your phone will lock straight away.IMPORTANT:  Smart Lock will be disabled temporarily when you lock your screen with Wear Phone Lock. This means that you won't be able to unlock your device with your fingerprint or face, if it was locked from your watch (you will always be able to unlock with your backup PIN, pattern or passcode). This is a security feature of the Android system and cannot be changed.This app uses the Device Administrator permission.  •This setting must be enabled before Wear Phone Lock can lock your device.•This is necessary as it grants Wear Phone Lock the 'Lock your screen' permission, and is used for the sole purpose of locking the phone's screen when the lock button is pressed on your watch.•This change is easily reversible and can be disabled at any time from within Wear Phone Lock's settings page.Please note: To uninstall Wear Phone Lock, you must first disable its administrator permissions, by going to the 'Settings' page in the app. You will then be able to uninstall the app normally.-----Please provide us with feedback!  All of your suggestions will be read and considered - just send an email to dev.axiiim@gmail.com. Your feedback really does help to create a better app, as parts of the app can be changed to reflect what you'd like to see.",
+    "descriptionHTML": "Ever needed to quickly lock your phone when it&apos;s not in your hand?<br><br>Wear Phone Lock is the answer!<br><br>Now you can take back control of your phone, even when it&apos;s not nearby! Use Wear Phone Lock to remotely lock your device, as if you&apos;ve just pressed the power button. <br><br>Simply tap the lock button from within the watch app, and your phone will lock straight away.<br><br><b><u>IMPORTANT:</u></b>  <br>Smart Lock will be disabled temporarily when you lock your screen with Wear Phone Lock. This means that you won&apos;t be able to unlock your device with your fingerprint or face, if it was locked from your watch (you will always be able to unlock with your backup PIN, pattern or passcode). This is a security feature of the Android system and cannot be changed.<br><br><b>This app uses the Device Administrator permission.</b>  <br>&#x2022;This setting must be enabled before Wear Phone Lock can lock your device.<br>&#x2022;This is necessary as it grants Wear Phone Lock the &apos;Lock your screen&apos; permission, and is used for the sole purpose of locking the phone&apos;s screen when the lock button is pressed on your watch.<br>&#x2022;This change is easily reversible and can be disabled at any time from within Wear Phone Lock&apos;s settings page.<br><br><b>Please note:</b> To uninstall Wear Phone Lock, you must first disable its administrator permissions, by going to the &apos;Settings&apos; page in the app. You will then be able to uninstall the app normally.<br><br>-----<br><br>Please provide us with feedback!  <br><br>All of your suggestions will be read and considered - just send an email to dev.axiiim@gmail.com. Your feedback really does help to create a better app, as parts of the app can be changed to reflect what you&apos;d like to see.",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 7,
+        "4": 10,
+        "5": 66
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-Zm-3hdUj-p7LbIqII6loCDGgq1q_A-IN3nLaqASijsQaZyU75MoSbPEvif9vpkEAE4=h310",
+        "//lh3.googleusercontent.com/h50PSXtA0O0yMB-gWtNOc_0rS-Bn1-JYVepy8PtpXXbmNKoGX_4zab4pnsmU4qZYfA=h310",
+        "//lh3.googleusercontent.com/FX0b9wmtSxUn-P15apXesOPsCYnjqVP0nxqggeKqqEpjqmr81PDAUqbc48f1SsN-gwA0=h310",
+        "//lh3.googleusercontent.com/EB3sFRD5VmzHKsa5VW5lX-g_341e_XdRho7GSE5lvwO-RmRvVWTnQgAibxURWM5b-xQ=h310"
+    ],
+    "comments": [
+        "Excellent! Very fast too. Used another app that would take forever.",
+        "Please add option to hide in app drawer",
+        "Excellent, simple and easy!",
+        "bad",
+        "Huawei Mate 8 and Huawei Watch Perfect app, does what it says with an easy to use interface. Thank you so much, was exactly what I was looking for. Often leave my phone at my desk or table at a restaurant, this allows me to lock it from my watch on my way to the bathroom or break room 👌👌",
+        "I'm having a bit of an issue. It installed fine on both my phone (Nexus 6P) and watch (Huawei Watch) but I'm unable to lock my phone with the watch. If you could help me figure out a solution to this problem, I will bump up my rating to 5 stars. Thank you."
+    ],
+    "recentChanges": [
+        "Version 1.4",
+        "•The locking command has been rewritten to avoid conflicts with multiple Bluetooth devices",
+        "•There is now a notice explaining why Smart Lock won't work after locking",
+        "•There is now a notice explaining why the Device Administrator permission is required"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.ddns.axiiim.wearphonelock&hl=en&gl=us",
+    "appId": "net.ddns.axiiim.wearphonelock"
+}

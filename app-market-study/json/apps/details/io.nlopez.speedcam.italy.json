@@ -1,0 +1,50 @@
+{
+    "title": "Speed Cameras Italy - Alerts",
+    "summary": "Full-featured speed camera alert system for Italy with a minimalist UI",
+    "icon": "//lh3.ggpht.com/CE2JNQXzdQ9iieVCbKIzeswV4s5oAbeowISBw74Bw2ZlEclFOSqkv7QQ8vSo_7WZGQ=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.3,
+    "reviews": 18,
+    "developer": "Nacho Lopez",
+    "developerId": "Nacho+Lopez",
+    "developerEmail": "nacho@nlopez.io",
+    "developerWebsite": "http://nlopez.io",
+    "developerAddress": "Sanchís Sivera 8, 11\n46008 Valencia, Spain",
+    "updated": "January 19, 2015",
+    "version": "1.1.3",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Introducing a minimalist UI and features from the latest versions of Android design, comes the most economical and reliable alert system for speed cameras in Italy.Drive more safely and avoid tickets with this app!* Complete speed camera database with free updates. No more false warnings! Fixed speed and traffic light cameras, all kinds of speed traps...* Spots cameras approaching only in your direction. No more mixups!* Background detection mode. Receive warnings on screen while another app is running on foreground. Use your favorite navigator, such as Google Maps™, and get notifications for incoming cameras at the same time!* Tablet ready. Other passengers can play or watch a movie and the app will still warn you!* Minimum configuration required. Works perfectly out of the box, although advanced users can tune it to their taste.* Optimized for safe driving. Simple and clear: tap on screen to start detection and long press to stop. We want you to arrive at your destination!* Supports wearables like Android Wear™ devices and Pebble smartwatches.* Features Android KitKat™ UI APIs for translucent status and navigation bars. Wow. Such clear. Much awesome.",
+    "descriptionHTML": "Introducing a minimalist UI and features from the latest versions of Android design, comes the most economical and reliable alert system for speed cameras in Italy.<br><br>Drive more safely and avoid tickets with this app!<br><br>* Complete speed camera database with free updates. No more false warnings! Fixed speed and traffic light cameras, all kinds of speed traps...<br><br>* Spots cameras approaching only in your direction. No more mixups!<br><br>* Background detection mode. Receive warnings on screen while another app is running on foreground. Use your favorite navigator, such as Google Maps&#x2122;, and get notifications for incoming cameras at the same time!<br><br>* Tablet ready. Other passengers can play or watch a movie and the app will still warn you!<br><br>* Minimum configuration required. Works perfectly out of the box, although advanced users can tune it to their taste.<br><br>* Optimized for safe driving. Simple and clear: tap on screen to start detection and long press to stop. We want you to arrive at your destination!<br><br>* Supports wearables like Android Wear&#x2122; devices and Pebble smartwatches.<br><br>* Features Android KitKat&#x2122; UI APIs for translucent status and navigation bars. Wow. Such clear. Much awesome.",
+    "histogram": {
+        "1": 6,
+        "2": 1,
+        "3": 0,
+        "4": 3,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/E78W0RZ4Zrtp2U16KplNc50fuzkYeEQL5Ym7SSodL6k78pBoeKzTv66yfmZm9BkYbQ=h310",
+        "//lh3.ggpht.com/C5pHfmVXUgF59Ma9nJwi4peVR8FyEWUGT7PNs-su3wXLTJCsPcnpWiUAPUcOeOgqCxw=h310",
+        "//lh6.ggpht.com/cg3GJJUCgz4vcdtPVCnaiubFvCwq4p2AVQKZXPXkElhRnry4McHquLZXv8-arckKkRxb=h310",
+        "//lh4.ggpht.com/yNdiGunA1jR8rLCmRDndnEbUgX87c3RMA-TYbVhksxM29Mt0nCmVhmzdHjReCokYrw=h310",
+        "//lh4.ggpht.com/n6AAIK2M5YV1qo2UVK-XcCYS99kVchEqzJuof2Pf2zyRG_PM4_51z3jnXJHLNd1I_ew=h310",
+        "//lh5.ggpht.com/meEmeINMIraEB_1amBF8GrqsFQipWx8WhltOXSxcYwSJB6GCU7qcRg4Th-rNMhvtMg=h310",
+        "//lh5.ggpht.com/G9jp35UrvZ_O8m2Gd7yEhL2emruAOAyKWYAZX3bmSb9rv81g_0yYrBLuKGS2PWS3Aeg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Mappa bugfix + performance"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=io.nlopez.speedcam.italy&hl=en&gl=us",
+    "appId": "io.nlopez.speedcam.italy"
+}

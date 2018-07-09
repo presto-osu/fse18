@@ -1,0 +1,59 @@
+{
+    "title": "Lone Brewer",
+    "summary": "A lone brewer deep under the mountain.All these barrels and nowhere to run.",
+    "icon": "//lh3.googleusercontent.com/kseEZAtGeKKyK4T5r2z5gnW1ZWFT8ki9307ssChOIxhsLeS3JNUyN7PZbwio6lpoxJTv=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 35,
+    "developer": "Deep Dark",
+    "developerId": "Deep+Dark",
+    "developerEmail": "metaphysical.intoxication@gmail.com",
+    "updated": "April 3, 2015",
+    "version": "1.0.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "WhatLone Brewer is an Android Watch Face.It is also a tribute to a bewildering and awesome game \"Dwarf Fortress\"http://www.bay12games.com/dwarves/Strike the earth!Features12 or 24 hour watch displayday of the weektiny dwarven calendar linepaintable barrels, magma and cropseverything turns to rock salt in dimmed mode, for reasonsAcknowledgementsLord Nightmare/IBM 8x8 tileset from Dwarf Fortress tileset repositoryhttp://dwarffortresswiki.org/Tileset_repositoryIt would have taken forever without REXPainthttp://rexpaint.blogspot.jp/It would have been less weeeeee without Android Wear Color Pickerhttps://github.com/BoD/android-wear-color-pickerAnd Color Picker for Androidhttps://github.com/chiralcode/Android-Color-PickerBackstoryLong time ago, a fortress has been abandoned by its omnipotent ruler.Content rating \"Everyone\" prevents this description from mentioning the gruesome details.One of the brewers, however, refusing to succumb to the ultra-violence, continued once assigned task of making dwarven wine. Unfortunately, helmet and helmet byproducts diet made him go bananas.When not re-arranging barrels and crops, he walks in lines and circles.Sometimes he sleeps.He never dreams, though.Lone Brewer is open source and free software. The source code is available at GitHub: https://github.com/nemui/lonebrewerwatchface",
+    "descriptionHTML": "<b>What</b><br>Lone Brewer is an Android Watch Face.<br>It is also a tribute to a bewildering and awesome game &quot;Dwarf Fortress&quot;<br>http://www.bay12games.com/dwarves/<br>Strike the earth!<br><br><br><b>Features</b><br>12 or 24 hour watch display<br>day of the week<br>tiny dwarven calendar line<br>paintable barrels, magma and crops<br>everything turns to rock salt in dimmed mode, for reasons<br><br><br><b>Acknowledgements</b><br>Lord Nightmare/IBM 8x8 tileset from Dwarf Fortress tileset repository<br>http://dwarffortresswiki.org/Tileset_repository<br><br>It would have taken forever without REXPaint<br>http://rexpaint.blogspot.jp/<br><br>It would have been less weeeeee without Android Wear Color Picker<br>https://github.com/BoD/android-wear-color-picker<br><br>And Color Picker for Android<br>https://github.com/chiralcode/Android-Color-Picker<br><br><br><b>Backstory</b><br>Long time ago, a fortress has been abandoned by its omnipotent ruler.<br>Content rating &quot;Everyone&quot; prevents this description from mentioning the gruesome details.<br>One of the brewers, however, refusing to succumb to the ultra-violence, continued once assigned task of making dwarven wine. Unfortunately, helmet and helmet byproducts diet made him go bananas.<br>When not re-arranging barrels and crops, he walks in lines and circles.<br>Sometimes he sleeps.<br>He never dreams, though.<br><br><br>Lone Brewer is <b>open source</b> and <b>free</b> software. The source code is available at GitHub: <br>https://github.com/nemui/lonebrewerwatchface",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 4,
+        "4": 0,
+        "5": 27
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/J_TqETC9r_3Df4MKY1VjWqaKdhlw3o8p4vMfYPJdNhYlg50VrZ34LS2-OdO8PsCTqV0=h310",
+        "//lh3.googleusercontent.com/sXjqlBDdJNQx4aDnXrVqMalpBeZSiY3pwkpZspVB6r9jfQSMifxRS3UwefndcxzhWw=h310",
+        "//lh3.googleusercontent.com/KX9UQlz6cKLC8n9Kv0aD36DFCN3xiFW2dWxzeiStaABxqUDaXXQHeW8T03S1IZTNe3U=h310",
+        "//lh3.googleusercontent.com/zL5V6TWthfbOtff5b6CtGrIJDDIKvU0fLpdAPYLSiP1b-GIl7QBvN_AUmvOhZHtVucE=h310",
+        "//lh3.googleusercontent.com/bA0Y1FQyyAJqA0RCHw09Sj74Y3Ysb-OIocXrVKLI-CVGqBmelUby8DNuuFHKGilIgVyn=h310",
+        "//lh3.googleusercontent.com/hN_iOa0Yz7K1C88sD158msZ4w9hR7bcy554RoS-0IKlZ6FMEexlNx3I6CvvBUAIveA=h310",
+        "//lh3.googleusercontent.com/4_aKkiS65tkuuRoJUlSdV5ieNYwF-404jRrbmCteMop71ke5_mURFHBfRT_bwmzw458=h310"
+    ],
+    "comments": [
+        "I really wish it worked on my phone, Im a big fan of Dwarf Fortress and would love this, but it doesnt work as a background, sadly.",
+        "Doesn't work on my phone Can't set it as a wallpaper.",
+        "Great watch face!",
+        "Great craftsdwarfship",
+        "It's a fun little watch face.",
+        "Needs alcohol to get through the working day... Innovation and Dedication all the way! Hopefully those light-loving elves don't show up trying to trade! 10/10 would brew again!"
+    ],
+    "recentChanges": [
+        "- magma day of the week",
+        "- chin problem rectified - observe the brewer and his still at all times",
+        "- hunger, thirst, fatigue, misery",
+        "- companion app config activity",
+        "- hemisphere setting. affects dwarven calendar and not your actual physical location"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=deep.dark.lonebrewer&hl=en&gl=us",
+    "appId": "deep.dark.lonebrewer"
+}

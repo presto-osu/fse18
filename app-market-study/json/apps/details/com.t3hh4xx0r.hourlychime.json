@@ -1,0 +1,53 @@
+{
+    "title": "Hourly Chime for Wear",
+    "summary": "Miss the hourly buzzes from your Pebble smartwatch? Me too!",
+    "icon": "//lh5.ggpht.com/j8K2M0xJtMsWcpUVL9aCreaoBij3ZaFd18KiESn0KJfpgWlyH4T25iFTy5x_5Ol7zuk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 258,
+    "developer": "r2DoesInc",
+    "developerId": "r2DoesInc",
+    "developerEmail": "r2doesinc@futurehax.com",
+    "developerWebsite": "http://www.futurehax.com",
+    "developerAddress": "11551 University Blvd #2, Orlando, FL 32817",
+    "updated": "October 28, 2014",
+    "version": "1.2.8",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Miss the hourly buzzes from your Pebble smartwatch? Me too! Hourly Chime for Wear allows you to configure a short vibration at the top of the hour, helping you keep track of your day.Simply install this app on your handset, and it will be synced to your Android Wear device. You can double check that it is installed by going to your google search menu on your Android Wear device, scrolling to the bottom and selecting \"Start\" and choosing \"Hourly Chime\" from the list.**PLEASE NOTE**Google has not yet made it possible to detect the mute state - or \"Zen Mode\" as its referred to in the code - of the Android Wear device. As such, even when your Wear is muted, you will still get your chime. I will of course solve this as soon as Google give us the tools to do so.",
+    "descriptionHTML": "Miss the hourly buzzes from your Pebble smartwatch? Me too! <br><br>Hourly Chime for Wear allows you to configure a short vibration at the top of the hour, helping you keep track of your day.<br><br>Simply install this app on your handset, and it will be synced to your Android Wear device. You can double check that it is installed by going to your google search menu on your Android Wear device, scrolling to the bottom and selecting &quot;Start&quot; and choosing &quot;Hourly Chime&quot; from the list.<br><br>**PLEASE NOTE**<br><br>Google has not yet made it possible to detect the mute state - or &quot;Zen Mode&quot; as its referred to in the code - of the Android Wear device. As such, even when your Wear is muted, you will still get your chime. I will of course solve this as soon as Google give us the tools to do so.",
+    "histogram": {
+        "1": 30,
+        "2": 16,
+        "3": 19,
+        "4": 68,
+        "5": 125
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/V5qRlH2eOgb5KfG49HmzDxOJGwHfyV5Fab-1mQfxuO80xX8tqzeNjWSOS0Io43exhCSG=h310",
+        "//lh5.ggpht.com/4RvvU-ivL9DZsWYtDUf1VMitSct8-39PcxkM3-Dl2Y4vxLsIg2Yp3X7un50riwxRQ2E=h310"
+    ],
+    "comments": [
+        "Like it a lot but... The quiet hours won't work for me. I'm using a Nexus 5 with lollipop (although it didn't work on 4.4.4 either) and a Moto 360 (latest version). I use the grandfather clock only on the watch. If you plan on fixing it feel free to ask for more info! No biggie if you won't. Thank you!",
+        "Great and not! The device only works daily.  Meaning every day it will not start back up unless i uinstall it and reinstall it.  It does not take long but wish i didnt have to do this.  App does everything i want it to,  except for that.  Fix this and will give 5 stars.",
+        "Nice touch I've come to like this app, the little buzz every hour is great for keeping up the time. The settings don't work properly for me, though. Thee watch buzzes every hour regardless of the quiet hours and regardless of if I put it off.",
+        "Works as Advertised Works very well. I always had my regular Casio watch beep on the hour and missed this very simple feature when I upgraded to a smartwatch. I wish Android Wear watches had a small speaker, but what can you do? This is the next best thing to recreate that simple beep and the vibration pattern is  customizable.",
+        "Great app, with one drawback... I like this app a lot, and anyone with Android Wear should definitely get it.  It does have one drawback, however.  Grandfather clock mode.  Specifically, the speed of the \"chimes\" (actually, vibrations).  They're so fast, that it's difficult to count them.  Indeed, sometimes, it feels like one long vibration instead of several distinct ones.  Still, that shouldn't deter one from installing this app.",
+        "I'd like option for different patterns (other then #of hours) to differentiate from other notifications. (I have moto360 so no sound so this is great)"
+    ],
+    "recentChanges": [
+        "Added a grandfather clock mode, chime the hour.",
+        "For example, at 3, chime 3 times."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.t3hh4xx0r.hourlychime&hl=en&gl=us",
+    "appId": "com.t3hh4xx0r.hourlychime"
+}

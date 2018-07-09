@@ -1,0 +1,51 @@
+{
+    "title": "Minimal Watch Face",
+    "summary": "Minimal Watch Face",
+    "icon": "//lh3.googleusercontent.com/g07dHoI1q5jEoatl404OLwjxHScDswAIOE82nJeWHAqNw-BVC7eBKSN2A1yn2v_xfi4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 18,
+    "developer": "OAJOO",
+    "developerId": "OAJOO",
+    "developerEmail": "contact@oajoo.com",
+    "updated": "March 2, 2017",
+    "version": "1.0.b2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Black, simple, clean watch face.",
+    "descriptionHTML": "Black, simple, clean watch face.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/aBrzeYrjQPpgWRoFct0R-qIsOm9NQ4B2DrWg8ge0W34Z4L-GDt7rYg9O_pmqt8-Kcg=h310",
+        "//lh3.googleusercontent.com/kutKaFPFQQqCtLi7PB0Zc-g4xRGKfMm33d6L917ezNO4S9A9uUvoMJ26_ol8_iOI-RA=h310",
+        "//lh3.googleusercontent.com/r4cFqycgwitL7WkMFo0rvDq7x3LfoVZJaPpD0IfsLQbmw8tLUcxwkaQdgLYfR1DVoEU=h310",
+        "//lh3.googleusercontent.com/ozWkiqd2-0WjgNBkSEllUGiD2P9JzpHxEGSG99f65cPvdSxcfEw8kHEbk86IjAYigig7=h310",
+        "//lh3.googleusercontent.com/qRuPZGvAOGra4v89bU9Q5pVmDqRfcVs9PNC-33Fi6JOjKRB-oP1DtEOUXq5bZCyk3A=h310",
+        "//lh3.googleusercontent.com/YLGJhtA-PEgX2_5By-miMPdE5nGgkLIJHHlo9jOIPUFORrcs0a0jluHMsVBpZZys-g=h310"
+    ],
+    "comments": [
+        "I like the simplicity. Wish it used the smaller notification style so they didn't cover up the time I'm trying to see. That's my only nitpick.",
+        "Like the design but should have a 12 hour option.  Don't want to do math to determine it is 9pm at night.",
+        "Nice clean watch face, but it lacks the option to display 12 hour time.",
+        "Really nice cool looking watch face! I like its minimalistic design.",
+        "Installed this just this morning 8am, it's already 4:15pm and still waiting for it to appear on my watch. What happened?"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.oajoo.wear.faces.minimal&hl=en&gl=us",
+    "appId": "com.oajoo.wear.faces.minimal"
+}

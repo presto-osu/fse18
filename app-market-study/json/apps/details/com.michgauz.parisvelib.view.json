@@ -1,0 +1,58 @@
+{
+    "title": "Paris Velib (bikes)",
+    "summary": "Paris Velib, bikes in Paris",
+    "icon": "//lh3.ggpht.com/IWpnHYF_1CziVV6d9MNsuIK3NcbUzz_ieFGBO_NNw2gQ50Xm47Ei11Ol6_WPIgHJ3A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 398,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.parisvelib@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Paris Velib is a tool allowing you to view the status of bike stations Vélib networks, of Paris and suburbs. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or name.You can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Paris Velib is a tool allowing you to view the status of bike stations V&#xE9;lib networks, of Paris and suburbs. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name.<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 13,
+        "2": 5,
+        "3": 14,
+        "4": 90,
+        "5": 276
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/AlwUaLas4hhx2pfdbWhnWQlhlleoSM3S7e6Mn_YrfOLu6ZJWktalCGXjkfYe21iRBBb6=h310",
+        "//lh3.googleusercontent.com/L-EHm0WANIi8tk5yJVyuBX7A4dwNrrSQPUPzuXC7COMDtZHAbVbk9jILh_NcOnAG1FA=h310",
+        "//lh3.googleusercontent.com/6CndI85aTzlQdZCHeNcTSQ-p_ahhB0Nbkfyz6tE-WlW6D9pEX-0gpSkZh10RPVWczlU=h310",
+        "//lh3.googleusercontent.com/eqTWOxB51eQJpd6ofyxWlWHfxDJ8ItPokI-3hdlr3z_pCHFYDKPhVCd8c_gKaHoXgw=h310",
+        "//lh3.googleusercontent.com/9is6Ht8qPkoPqxprptSwbDaHGoqWY4GP5QdlWD1ZpB3C8gzHi2PLBxG50gKMmZ_sj5M=h310",
+        "//lh3.googleusercontent.com/lYsaHjqmfsdo1I0WDjlpqAV-HfxD1y95JfedCOvA5fvP2iaZonxl1UuV8k40Fz9EAidq=h310",
+        "//lh3.googleusercontent.com/D2orVIkl5ZckX4yd1MfMotr2KPKXlUSY_Cn7_l-PVZ0pQ6EEHabKMDdo_HGkpdGsuQ=h310",
+        "//lh3.googleusercontent.com/pxLwHAk1eEEnegjJRbKd_prIR_z_XEvVaBrpK2eWPVbgf-YHGd9i6SzbepYKtIpFISTt=h310"
+    ],
+    "comments": [
+        "Ne fonctionne pas, borne velib pleine et l'application dit qu'il reste 7 places, ça arrive très souvent même en rafraîchissant",
+        "No longer works with new velib (2018). This is disappointing because it was a great app.",
+        "Super user friendly and reliable app. Must have in Paris.",
+        "Appli simple, utilisable même sur une connexion lente.",
+        "Nice app Great app to find a Velib'.",
+        "Works like a charm Downloaded this rather than the official app because of poor reviews, so can't compare, but this has great functionality, really clear and simple to use, so highly recommend."
+    ],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.parisvelib.view&hl=en&gl=us",
+    "appId": "com.michgauz.parisvelib.view"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "CompassX Android Wear Compass",
+    "summary": "CompassX specially designed and developed for android wear.",
+    "icon": "//lh4.ggpht.com/ztvXCPtEMhio9DpSo2NtujiuDwZS02Dx4BLYZfEXGN_VpAHWMAZXnCoBn81D8BNNDnA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.6,
+    "reviews": 267,
+    "developer": "Massive Robotics",
+    "developerId": "Massive+Robotics",
+    "developerEmail": "mustafa.tulu32@gmail.com",
+    "developerWebsite": "https://www.facebook.com/wearCompassX",
+    "developerAddress": "Gaziantep/TURKEY",
+    "updated": "February 24, 2015",
+    "version": "1.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "CompassX designed survivors, outdoorers, hikers, climbers, bikers, campers and aviators in mind. We focused on ease of use, functionality and design at the same time. The look of compass is so elegant and professional, makes it best available compass app for Android Wear.***IMPORTANT***PLEASE WATCH THE CALIBRATION VIDEO FROM: https://www.youtube.com/watch?v=vj26yPM6c7s&feature=youtu.be It is recommended to calibrate compass before use. To calibrate the watch, start the app and spin the watch arount 360 degree a few times in all axis till you see the compass behaves more faster than before .Digital compass sensor require this process, not related with app.Features:  - Sensor fusion methods integrated  compass readings - Ease of Use - Professional and Elegant Design - Filtered and Precise Sensor Reading. - Specially Designed for Outdoor Use***NOTE***If your watch face uses compass, CompassX app can malfunction! We had a report from our user who uses \"WatchMaker\" with a compass feature on his watch face, he had a problem.",
+    "descriptionHTML": "CompassX designed survivors, outdoorers, hikers, climbers, bikers, campers and aviators in mind. We focused on ease of use, functionality and design at the same time. The look of compass is so elegant and professional, makes it best available compass app for Android Wear.<br><br>***IMPORTANT***<br>PLEASE WATCH THE CALIBRATION VIDEO FROM: https://www.youtube.com/watch?v=vj26yPM6c7s&amp;feature=youtu.be <br><br><br>It is recommended to calibrate compass before use. To calibrate the watch, start the app and spin the watch arount 360 degree a few times in all axis till you see the compass behaves more faster than before .Digital compass sensor require this process, not related with app.<br><br>Features: <br> - Sensor fusion methods integrated  compass readings<br> - Ease of Use<br> - Professional and Elegant Design<br> - Filtered and Precise Sensor Reading.<br> - Specially Designed for Outdoor Use<br><br>***NOTE***<br>If your watch face uses compass, CompassX app can malfunction! We had a report from our user who uses &quot;WatchMaker&quot; with a compass feature on his watch face, he had a problem.",
+    "histogram": {
+        "1": 50,
+        "2": 13,
+        "3": 39,
+        "4": 51,
+        "5": 114
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/nxM0pAYJhyQr5J3JUjPOjjh134VscbxFki0sigzk0FzHEXLkyFc8-IG20LE0vLwd7a4c=h310",
+        "//lh6.ggpht.com/XC2sqmZ8Nx11Lk6PzIyOhAapZcuwUxGl6WxGpIhzk-Q1KdOMwXq607_0XXaTbSKwO4k=h310",
+        "//lh3.ggpht.com/WWIjqxyp2ZNY6rWwh_Ccnm2rK43d1vFTc43bUH9UfCScLiTiegJhCYw1gFCJIugVhaU=h310",
+        "//lh4.ggpht.com/cKEEc_wBdBYJkKzkM7kDtUQux9JKbPnvvT_1OUKEURksKBHZtuQWk6shIjY1Cv6omg=h310",
+        "//lh5.ggpht.com/u0EDfbfpejc_MuCEZfp0qT77DNRUUsc4FVO-gO-D9tU8E_C0oR2zvRUtePiUkyXeQQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/hRjuhXpOvTk",
+    "comments": [
+        "Like the appearance and seems to be only compass that should work on moto 360 1st gen. However I cannot get the compass to work at all having the 360 stuck on the app display, I have tried restarts and settings but nothing found to fix the issue. Please resolve this and rating will improve. Thanks.",
+        "Works well, just what I needed. Just had to restart moto 360. Will buy pro version. Also trying to figure out a way to launch it more easily from the watch. It's a little convoluted with the Moto.",
+        "Worked well until marshmallow update. This is a nice app that does what it says. Well at least until the marshmallow update on the moto 360 1st gen. The compass is now stuck at 360°. Confident the developer will address this issue.",
+        "Really works after so many crap. And it shows what it showing should. Scouts, couple deegrees its not a problem. LG Urbane Androidwear 2. Hvala covjece! :-)",
+        "Simply Works. Looks great on Moto Usually I need a compass to get the sense of position inside a building. This is a great tool for me. Just have to restart my moto 360 before it can run properly. need fix here. but really, just put a warning to restart the watch after instalation should be fine.",
+        "Moto 360 Watchmaker / XCompass issues These seem unable to play nice.  Which ever gets access first works - but then fails once the other tries to access the compass - at which point the working one also fails.  Symptoms - inaccurate reading in second app, then freezing in first app.  I assume one or both apps are attempting to open sensors exclusively - which would seem weird for a read only operation.  This is an app. issue, not hardware as the sensor carries on reporting movement just fine.  App is basic, but fine.  Update: I am not sure the statement that only one app can get sensor data is correct (may depend on how you are getting the data) as I have two apps gathering step data successfully, also using SensorDashboard (an app) it reports all sensors while they are being used by the other apps."
+    ],
+    "recentChanges": [
+        "- Bug Fixes",
+        "- Visual Improvement"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jack.campbell.messive.compass&hl=en&gl=us",
+    "appId": "jack.campbell.messive.compass"
+}

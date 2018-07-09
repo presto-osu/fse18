@@ -1,0 +1,56 @@
+{
+    "title": "Wear Compass Pro",
+    "summary": "Nice looking compass for your Android Wear.",
+    "icon": "//lh4.ggpht.com/Rp3VCQHQnC_IDIBMpf1QgNSjfET-JsMpte4OEiW6Iwh01XrqmyJVK6b5HVTJEmQvnoE=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.1,
+    "reviews": 9,
+    "developer": "BONLabs Andreas Kreiseder",
+    "developerId": "BONLabs+Andreas+Kreiseder",
+    "developerEmail": "support@bonlabs.at",
+    "developerWebsite": "http://www.bonlabs.at",
+    "developerAddress": "1110 Wien",
+    "updated": "January 5, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "First nice looking compass for Android Wear (for example Moto 360).It also works on your Android Smartphone as well. The app shows you the direction to magnetic north and also the strength of the magnetic fieldin your area.Instructions, requirements:Instructions for \"Wear Compass Pro\" on your Android Wear (e.g. Moto 360):* Smartphone has to be compatible with Android Wear. (at least Android 4.3.1)* Android Wear has to be paired with your Smartphone. (Bluetooth + Android Wear App)* After installing that app on your phone \"Wear Compass Pro\" will be automatically   installed on your Android Wear as well* Your smartwatch will point to magnetic north (Accuracy depends on many factors)* Simple calibration -> just move your device around on all three axis. Instructions for \"Wear Compass Pro\" on your smartphone:* Smartphone has to be at least Android Version 4.0.3* Simple calibration -> just move your device around on all three axis. * Your smartphone will point to magnetic north  (Accuracy depends on many factors)Requirements:Please note that this app works with the integrated magnetic field sensors.Due to that fact the accuracy of the compass is very sensitive and reactson environmental influences. So your result be distorted because of that.If your devices does not have a magnetic field and orientation sensor it wont be compatible.",
+    "descriptionHTML": "First nice looking compass for Android Wear (for example Moto 360).<br>It also works on your Android Smartphone as well. The app shows you <br>the direction to magnetic north and also the strength of the magnetic field<br>in your area.<br><br>Instructions, requirements:<br><br>Instructions for &quot;Wear Compass Pro&quot; on your Android Wear (e.g. Moto 360):<br>* Smartphone has to be compatible with Android Wear. (at least Android 4.3.1)<br>* Android Wear has to be paired with your Smartphone. (Bluetooth + Android Wear App)<br>* After installing that app on your phone &quot;Wear Compass Pro&quot; will be automatically <br>  installed on your Android Wear as well<br>* Your smartwatch will point to magnetic north (Accuracy depends on many factors)<br>* Simple calibration -&gt; just move your device around on all three axis. <br><br>Instructions for &quot;Wear Compass Pro&quot; on your smartphone:<br>* Smartphone has to be at least Android Version 4.0.3<br>* Simple calibration -&gt; just move your device around on all three axis. <br>* Your smartphone will point to magnetic north  (Accuracy depends on many factors)<br><br>Requirements:<br>Please note that this app works with the integrated magnetic field sensors.<br>Due to that fact the accuracy of the compass is very sensitive and reacts<br>on environmental influences. So your result be distorted because of that.<br>If your devices does not have a magnetic field and orientation sensor it wont <br>be compatible.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/tyLiNkI0vJQs1JZFyC6lIhLIfZgElaWysu__NvEh3MiEQ7CBw1YOoZ3Y95hjspcDKA=h310",
+        "//lh3.ggpht.com/pvYRzO4pCyxHvEdGoMNSbNvvfyru3ALPGOYeTwD_HAJ6UDKYmlOEtun3sw2GYo-6Sg=h310",
+        "//lh6.ggpht.com/0c7JI7LiMq3A2C6FN000bS-7F8lc_Bp8AXnOOuz8zrP_nyoqJagQHyidemDHtLZ8SHI=h310",
+        "//lh6.ggpht.com/piNyeCtE0BP8kOxu4Qy_s1ITyHbyzSyilxeUZvfjVnrQdNPTjYd6OBM6-x6qCoto2cQ=h310",
+        "//lh5.ggpht.com/6qSe6lcD-4fLKhWD9AZXn-ikoVaLxo4929f4W4cRdVSnnw4pukBk4pEYwXggz3yO6iFs=h310",
+        "//lh5.ggpht.com/t9pRtj2ePjeE5YJqTb3m7HiskXnFBR5xH31Z4KEaqNnCmJNHI8OamhvGKONcRpev2Do=h310",
+        "//lh5.ggpht.com/lpo7f0WFjhtRD7zhCIAOI0wtMT3NQ1VSspU1JP4Xo-vO9Ot9Oury5gQt7xxhzaK_wA=h310"
+    ],
+    "comments": [
+        "Good"
+    ],
+    "recentChanges": [
+        "First version:",
+        "Compass shows magnetic north on your",
+        "smartphone and smartwatch - Android Wear (e.g. Moto 360)",
+        "Attention: Accuracy depends on many factors.",
+        "Next Update -> more functionality"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=at.bonlabs.wearcompass&hl=en&gl=us",
+    "appId": "at.bonlabs.wearcompass"
+}

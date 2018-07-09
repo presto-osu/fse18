@@ -1,0 +1,53 @@
+{
+    "title": "Pure Watch Face",
+    "summary": "Pure watch face turns your Android Wear smartwatch into a delightful timepiece",
+    "icon": "//lh5.ggpht.com/3H7ppJZG7Utm0VdvZTNatjj3UEv7S5ok-8EBTWvFnaeKaL0JMKLkMCCf0sbHjRLgAQU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4,
+    "reviews": 994,
+    "developer": "Zuhanden",
+    "developerId": "Zuhanden",
+    "developerEmail": "mobile@zuhanden.de",
+    "developerWebsite": "http://www.smartwatchface.co",
+    "developerAddress": "Seehauser Str. 14\n81379 Munich\nGermany",
+    "updated": "April 9, 2015",
+    "version": "2.1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Pure is a free watch face, which looks great on the Moto 360 and other smartwatches. You can choose between the analog or the digital watch face.  This watch face is for rectangular smartwatches such as the Samsung Gear Live and round watches such as the Moto 360.----Key custom features:o Digital Watch Face o Analog Watch Face o Puristic designo Date ----How to install Pure:o Download the free app on Google Playo Open it on your mobileo Tap & hold on the watch face on the Android Wear deviceo Select one of the two Pure watch faces In case the watch face is not present, please go to your Android Wear app on the smartphone and in settings press on synchronize apps.Weather data is based on http://openweathermap.org----Visit our exclusive wearface collection for Android Wear on the Play Store http://goo.gl/QOsOu4.  Also please let us know if you like to have any other watch faces to be added to our selection of watch faces.Handcrafted in Germany",
+    "descriptionHTML": "Pure is a free watch face, which looks great on the Moto 360 and other smartwatches. You can choose between the analog or the digital watch face. <br> <br>This watch face is for rectangular smartwatches such as the Samsung Gear Live and round watches such as the Moto 360.<br><br>----<br><br>Key custom features:<br><br>o Digital Watch Face <br>o Analog Watch Face <br>o Puristic design<br>o Date <br><br>----<br><br>How to install Pure:<br><br>o Download the free app on Google Play<br>o Open it on your mobile<br>o Tap &amp; hold on the watch face on the Android Wear device<br>o Select one of the two Pure watch faces <br><br>In case the watch face is not present, please go to your Android Wear app on the smartphone and in settings press on synchronize apps.<br><br>Weather data is based on http://openweathermap.org<br><br>----<br><br>Visit our exclusive wearface collection for Android Wear on the Play Store http://goo.gl/QOsOu4.  Also please let us know if you like to have any other watch faces to be added to our selection of watch faces.<br><br>Handcrafted in Germany",
+    "histogram": {
+        "1": 60,
+        "2": 63,
+        "3": 139,
+        "4": 270,
+        "5": 462
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/sFrs_4eUvinP807POv0z1lXLsa5X3mBTLnYCMGErrFcZjG-1c-3bhtJAJ6yWRovxCg=h310",
+        "//lh5.ggpht.com/uKWNLe78Jz9LWnrU7A25j6yKCA6sm8pB1KqZorCh1wGn91PRAkoa9lwcTjjRQrDUgfE=h310"
+    ],
+    "comments": [
+        "Needs work. I uninstalled because my issues from over a year ago were not addressed... Would like to be able to turn off the weather option. Also the temperature unit setting keeps reverting to Fahrenheit after it is set to Celsius.",
+        "This watchface is simple, clean, and elegant. However it doesn't work with Android Wear 2.0, as I can't configure it. I feel like this face needs to be continued on, I'd even spend money on it. It's a really nice looking watch face.",
+        "Great, but completely broken I used to love this one, but the latest version don't allow me to disable the weather information. Worth 5 stars if it's fixed.",
+        "Great watchface. Can't change F to C in weather. Love this design. Just a minor problem: I haven't been able to change the weather units in the settings page. It appears greyed-out.",
+        "A decent-looking face, but the weather isn't configurable (e.g., update frequency) and the always-on view looks terrible on the Zenwatch due to the thinness of the font (the date is unreadable) and the watch face not supporting low-bit mode properly.",
+        "Elegant, not much configurability I like the design. I want more configuration options, such as a dash for seconds around the clock edge on digital, color choice, settings via watch, etc."
+    ],
+    "recentChanges": [
+        "Updated icons and feature banner",
+        "Updated to new API"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.smartwatchface.simplistics.watch.face.wear&hl=en&gl=us",
+    "appId": "co.smartwatchface.simplistics.watch.face.wear"
+}

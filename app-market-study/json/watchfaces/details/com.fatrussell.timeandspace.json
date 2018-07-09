@@ -1,0 +1,62 @@
+{
+    "title": "Time and Space Watch Face",
+    "summary": "Add some Timey-Wimey fun to your Android Wear! 3 different faces to choose from!",
+    "icon": "//lh3.googleusercontent.com/hdahuUN7CZ1YBhQzmeclrjGeXd-M8LjDZXEP-3DyL5kpCxpfUV-AztrRL0mZxD58CxU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.3,
+    "reviews": 165,
+    "developer": "Fat Russell",
+    "developerId": "4948350704947456352",
+    "developerEmail": "virginia@fatrussell.com",
+    "developerWebsite": "http://www.fatrussell.com",
+    "developerAddress": "428 Braddock Street\nJohnstown, PA 15905",
+    "updated": "January 15, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Add some Time and Space to your Android Wear Watch.  Choose from three watch face designs, all containing subtle, delightful animations. There are two different screwdrivers that light up, and a blinking police box. You can choose a 12 or 24-hour format for the time.  To select a format•   On your watch, long press on your current Time and Space Watch Face•   When the watch face selection list is displayed, you will see a gear icon by the Time and Space faces.  Click the gear•   Select 12 or 24 hour format•   You're done!  Enjoy!Keep an eye out for the Easter Egg - I would tell you where (or WHEN) to find it, but after I look away, I seem to forget!",
+    "descriptionHTML": "Add some <b>Time and Space</b> to your Android Wear Watch.  Choose from three watch face designs, all containing subtle, delightful animations. <br><br>There are two different screwdrivers that light up, and a blinking police box. <br><br>You can choose a 12 or 24-hour format for the time.  To select a format<br>&#x2022;&#x2003;  On your watch, long press on your current Time and Space Watch Face<br>&#x2022;&#x2003;  When the watch face selection list is displayed, you will see a gear icon by the Time and Space faces.  Click the gear<br>&#x2022;&#x2003;  Select 12 or 24 hour format<br>&#x2022;&#x2003;  You&apos;re done!  Enjoy!<br><br>Keep an eye out for the Easter Egg - I would tell you where (or <i>WHEN</i>) to find it, but after I look away, I seem to forget!",
+    "histogram": {
+        "1": 10,
+        "2": 5,
+        "3": 14,
+        "4": 32,
+        "5": 104
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2Dr3_L5L7Xr-1JmlU3aCgKc2xnOd_57TZxSdZp6n5K1yt8vTh_eaSVlSePnTsZcAVcE=h310",
+        "//lh3.googleusercontent.com/uF2ro_T2ag7RmLmMiboL8VUOjmtdL-5MbpWRUbAu-dqt8CKSHq8ffJaorpy1yczcMw=h310",
+        "//lh3.googleusercontent.com/RG4iRwbrOAkZgpIaK3FgNKG3exKIVsvmnEpLa9vnpC-WrhEa27p0tdgwCUsYIT2dXFSu=h310",
+        "//lh3.googleusercontent.com/VH_26pBJ81mZ3oBpGE_umGKHBHEPSjomi_dut5QDkUJxQwgbJC8CFVFWYuD1553ArUi3=h310"
+    ],
+    "comments": [
+        "The tardis looks great",
+        "Okay but Its okay but the issue i have is the time covers up where notifications show on the watch when its in standbys mode so your seeing white text over white text.  That's my only flaw.  I own a Hauwei Smart watch.    The tardis watchface looks bright and bold especially when in standbys mode.  I have yet to try the sonic screwdrivers yet but from what I see, I have a winner.",
+        "One tiny flaw I love the Tardis opening to show different characters,  but sometimes it gets stuck and I can't get it to show the time!   Fix that and it would be perfect!",
+        "Fun theme Nice detail, but peek cards cover up the date and part of the time.",
+        "Ok Ok , but time covers up half the TARDIS.. and the screwdriver ones look a bit off center",
+        "I like it, but I can't figure out how to change to 24-hour time. Will have to come back to this when that's working."
+    ],
+    "recentChanges": [
+        "Update 2.1-w2",
+        "- Stand-alone version of watch faces",
+        "- Now available to iPhone users!",
+        "Update 2.1",
+        "- Addressed issue with Google Play Services",
+        "Update 2.0",
+        "- Update Police Box default animation",
+        "- Added new touch animations"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fatrussell.timeandspace&hl=en&gl=us",
+    "appId": "com.fatrussell.timeandspace"
+}

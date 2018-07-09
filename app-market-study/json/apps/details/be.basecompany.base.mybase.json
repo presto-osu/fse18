@@ -1,0 +1,58 @@
+{
+    "title": "My BASE",
+    "summary": "Monitor, manage and control your BASE call plan with My BASE.",
+    "icon": "//lh3.googleusercontent.com/dnS5uayR60PMbd_Z6aCkUFZpk58TjLjMyXRBJasW5ShpLVzMuBlyYK6xkYE_iFv4-CM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 3.5,
+    "reviews": 5072,
+    "developer": "Telenet Group",
+    "developerId": "Telenet+Group",
+    "developerEmail": "myapp@telenetgroup.be",
+    "developerWebsite": "http://www.base.be",
+    "developerAddress": "Neerveldstraat 105, 1200 - Brussels Belgium",
+    "updated": "December 12, 2017",
+    "version": "1.11.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Monitor, manage and control your BASE call plan with My BASE.Simple, quick and practical, this application enables you to access the following services :- You can add options to your monthly plan and remove them whenever you want - You can find the nearest shop Fix2Go to repair your smartphone, tablet or smart watch- View your usage (mobile Internet / minutes / texts / credit)- Pay your invoice or pay for other BASE numbers and see your invoice history- Top up for yourself or for other BASE numbers- Possibility to request a third party to top up your call value- Find a BASE point of sale through an advanced shop locator- Send to and receive messages from the BASE contact center- Possibility to opt-in for e-invoice- Set thresholds to get notified when your credit drops below a certain pointTerms & Conditions: The My BASE application is only available for all active BASE customers via BASE’s EDGE, 3G and 4G mobile networks or by WiFi. Use of the application is free. The price of the data usage linked to downloading and using the app depends on your call plan.",
+    "descriptionHTML": "Monitor, manage and control your BASE call plan with My BASE.<br>Simple, quick and practical, this application enables you to access the following services :<br><br>- You can add options to your monthly plan and remove them whenever you want <br>- You can find the nearest shop Fix2Go to repair your smartphone, tablet or smart watch<br>- View your usage (mobile Internet / minutes / texts / credit)<br>- Pay your invoice or pay for other BASE numbers and see your invoice history<br>- Top up for yourself or for other BASE numbers<br>- Possibility to request a third party to top up your call value<br>- Find a BASE point of sale through an advanced shop locator<br>- Send to and receive messages from the BASE contact center<br>- Possibility to opt-in for e-invoice<br>- Set thresholds to get notified when your credit drops below a certain point<br><br>Terms &amp; Conditions: <br>The My BASE application is only available for all active BASE customers via BASE&#x2019;s EDGE, 3G and 4G mobile networks or by WiFi. Use of the application is free. The price of the data usage linked to downloading and using the app depends on your call plan.",
+    "histogram": {
+        "1": 1032,
+        "2": 412,
+        "3": 579,
+        "4": 1051,
+        "5": 1998
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/gde3B3vx1TawpuyjENXBHE_IfJsqHyO2njppFZblVx1I5vhPoP2HdZqYnYKV8kpiSA=h310",
+        "//lh3.googleusercontent.com/qHKMHlXVsRTe-Hn0xqn_hBLhvlcEkcOT1y25hY1zZjeCI8MqSid9gOPj0xVPWwGFWw=h310",
+        "//lh3.googleusercontent.com/D8ZFTU7pys6ZtUQmphXXI1DFG7orQ8hYqv353NVY9p-xP_AnQW0KlI_FT4as2vD3z8dG=h310",
+        "//lh3.googleusercontent.com/IbzM9-Ck7RKJPCfI7u91X66ZTzsnS7UdAh9YX8kw-0edwiU-IQLuGdFHIjIffItpuA=h310",
+        "//lh3.googleusercontent.com/oul4IQ5NI9c5Q5QGAuIznIWJti5jXrYz1bPHnliUDcT0PLeXS16G6J_69Y6vavnYlzk=h310",
+        "//lh3.googleusercontent.com/oIfHOkmTXCSIT5HuHdVMJQK8iU3NYlOMd4NG5ZA9s7x9iZ9jphWOCT0Oiyb_OTfvM3ES=h310",
+        "//lh3.googleusercontent.com/eZSHWjZtdvHeXEn1ecwEafJa1_qJM89pJdqeqJ3ieb5xX7gWeaaDzvTQvM6dCjuKxZM=h310",
+        "//lh3.googleusercontent.com/F--kTo5sulx3GOQykP8ezlUhYv7f11IO8y5T4EtHyh0p3mHEr8rGmsb36q40vkS0j7Q=h310"
+    ],
+    "comments": [
+        "Shows two different remaining credit amounts, while I know for a fact that I'm already over my limit. Garbage app, don't bother.",
+        "I have been using this app since I bought Base SIM card. It doesn't update my data consumption, instead of that, I log out and re-log in to see my latest consumption state. Overall, I don't see my credit value in latest updates any more.",
+        "Everytime I use it requies update an reconfiguration of the account. Completely useless. I stopped using it.",
+        "registration doesn't work even after new install in android device",
+        "Downloaded it despite the negative feedback should've listened",
+        "Sinds een update kan ik het resterende belkrediet niet meer raadplegen. Als oplossing wordt voorgesteld dat je dat toch kan raadplegen via sms of door te bellen. Waardeloze app dus!   ---------- Antwoord op Abdel: Na telefonische bevestiging dat dit verwijderd was en zeker niet meer ging teruggezet worden, dan toch iemand die wél weet hoe het werkt! Bedankt Abdel!"
+    ],
+    "recentChanges": [
+        "General improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=be.basecompany.base.mybase&hl=en&gl=us",
+    "appId": "be.basecompany.base.mybase"
+}

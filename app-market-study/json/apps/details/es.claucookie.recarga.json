@@ -1,0 +1,50 @@
+{
+    "title": "Tussam Bus Credit App",
+    "summary": "Check out if you are out of money in our bus card! From your mobile or wearable.",
+    "icon": "//lh3.ggpht.com/mTbKtcRFOQuwxdVv1T1q5jN_Zd_IgVXxqyx7N2h7yQB1ieIVnoWfFVi16LgHlqolyF8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 54,
+    "developer": "ClauCookie",
+    "developerId": "ClauCookie",
+    "developerEmail": "claudia.luque.fernandez@gmail.com",
+    "developerWebsite": "http://es.linkedin.com/pub/claudia-maría-luque-fernández/31/a06/105/",
+    "developerAddress": "London (United Kingdom)",
+    "updated": "March 7, 2015",
+    "version": "2.2",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "This app lets you know how much money your Tussam Card contains. This kind of cards are used to travel by bus around city. You will never take the bus without knowing if you have enough credit or not.Important!*******************This app is not official, but it consumes a public service provided by Tussam's web. That service is updated during the night, when buses get home and send cards info to the server.         Updated info for your card can be queried in the morning. However, we are not responsible if at sometime data is not properly updated.",
+    "descriptionHTML": "This app lets you know how much money your Tussam Card contains. This kind of cards are used to travel by bus around city. You will never take the bus without knowing if you have enough credit or not.<br><br>Important!<br>*******************<br>This app is not official, but it consumes a public service provided by Tussam&apos;s web. That service is updated during the night, when buses get home and send cards info to the server.         <br><br>Updated info for your card can be queried in the morning. However, we are not responsible if at sometime data is not properly updated.",
+    "histogram": {
+        "1": 8,
+        "2": 3,
+        "3": 3,
+        "4": 9,
+        "5": 31
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/djsvPhUBlyrXpdHFJIipxTfKxGJdrMwmMWVea2LotI1D3xUeDpVtic2E-rKln17f9aY=h310",
+        "//lh3.ggpht.com/Hk1rn6BG2rSexDTW_bPdqpqAW6nBO-8E3qZ_lTqhV1ZqTkmQNmP771sR_MAAbUFwgw=h310",
+        "//lh6.ggpht.com/WmSnpp3Clr-qRepnAw0uTo0-_Df3KJKJusyemJjYymu5--1uCwa40T-BbMFC7TLmwV42=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Included in this version...",
+        "- Minor bugs fixes and performance improvements.",
+        "- Settings screen added.",
+        "- You can configure the app to receive a notification when your credit is under a certain value =).",
+        "Thank you so much for using the app and your feedback!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=es.claucookie.recarga&hl=en&gl=us",
+    "appId": "es.claucookie.recarga"
+}

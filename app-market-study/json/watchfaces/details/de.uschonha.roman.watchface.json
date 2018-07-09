@@ -1,0 +1,51 @@
+{
+    "title": "Roman Classic Watch Face",
+    "summary": "Android Wear watch face for the modern Roman Centurion",
+    "icon": "//lh3.googleusercontent.com/ic98y3IutF8HYBnSx50gFbHsoagrLMrTNQ60KLs8LUnSIpuYTfn31ASjtXsD2TFitbk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "Ulrich Schonhardt",
+    "developerId": "Ulrich+Schonhardt",
+    "developerEmail": "schonhardt@gmail.com",
+    "developerWebsite": "http://twitter.com/uschonha",
+    "developerAddress": "Gluckstr. 5\nKarlsruhe, 76185\nGermany",
+    "updated": "January 27, 2018",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Android Wear watch face for the modern Roman Centurion.Features:* Roman numeral hours* Day/date* Battery level in %* Ambient mode * Choose accent color* Change bold or serif font* Choose outline or bold font",
+    "descriptionHTML": "Android Wear watch face for the modern Roman Centurion.<br><br>Features:<br>* Roman numeral hours<br>* Day/date<br>* Battery level in %<br>* Ambient mode <br>* Choose accent color<br>* Change bold or serif font<br>* Choose outline or bold font",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Yn4IqrOq8QgwpTecMzsV3QVeUUfW5NJwz-BiQOJ458BWHDrJuOat-yJFwdolxualcWw=h310",
+        "//lh3.googleusercontent.com/cXBUysXBgF8T0a393klkE7rrUDxWDs_7IJNol0HAvqteNFzBaCUGd-VOhk1V2XmThA=h310",
+        "//lh3.googleusercontent.com/1X7rVO5g1oYgiIWCI5qzm_N1mcG40QO0HlSO5YSoS7WB6NBP5Ms5hXsFU3DIoFIf3IE=h310",
+        "//lh3.googleusercontent.com/4df-u1IHXKi2iEWVV3jDB0kXBjsMCJPgA6_Ro_R_148U8JGQ4e_aJ4geebu1QouaBg=h310",
+        "//lh3.googleusercontent.com/ykPDIGR_1fplc9qWy1jsuXXwXCZ3oKvzffSLUbV0WJ0JDreC_XZDJEorH1w3hXN3mG0=h310",
+        "//lh3.googleusercontent.com/jOlxHdPpzBHpfyTN2HeNNzPt5krK1i3wR1eulcpb4fbJESQt_CX5Z1-NeNtknlenqMI=h310",
+        "//lh3.googleusercontent.com/_ljzD4Tfx9Ws703sRXlBGPAUgnXlzWr9NjMTqoMdM1eB6XjHYSzyODko2A6uEXIIyOU=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "recompiled for Android Wear 2.2 standalone mode."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.uschonha.roman.watchface&hl=en&gl=us",
+    "appId": "de.uschonha.roman.watchface"
+}

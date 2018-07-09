@@ -1,0 +1,63 @@
+{
+    "title": "Jagger - Watch Face",
+    "summary": "Time is #Color",
+    "icon": "//lh6.ggpht.com/mpkyUzWM7WO-VFjtjU3OGufiYI5bCh2UDfH9B0spLyJxGtActsgy-bW6NM_uj6-Htsvr=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 608,
+    "developer": "Pierre-Yves Ricau",
+    "developerId": "Pierre-Yves+Ricau",
+    "developerEmail": "py.ricau@gmail.com",
+    "developerWebsite": "http://www.jaggerface.com",
+    "updated": "January 11, 2015",
+    "version": "1.7",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "What time is it? It's Jagger o'clock! Time is #ColorJagger interprets the time as an RGB Hex color code and uses it as a watch face background. In other words: your watch background color changes every second!Jagger also displays the name of the color, so you can show off and name 50 shades of green.Custom features★ Minimalist design, no clutter.★ Every second of the day has a color name.★ Highly customizable: 12 or 24 hour clock, notification size, show / hide color name and date.★ Adapts to the notification cards.★ Optimized for Ambient mode: greyscale, updates every minute. Antialiasing disabled in low bit ambient mode.★ Supports Burn-In Protection in Ambient mode★ Efficient rendering, color names are pre computed.★ Free! I’m doing this on the side. Please be kind in your ratings.Credits→Created by Pierre-Yves Ricau http://piwai.info→Inspired by What Colour is it? http://whatcolourisit.scn9a.org→Icon design by Chris Renke http://chrisrenke.com/→Wear Frame designed by Cyril Mottier http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/Compatible with:★ LG G Watch★ LG G Watch R★ Samsung Gear Live★ Motorola Moto 360★ Asus ZenWatch★ Sony Smartwatch 3Required permissions★ Network access - needed to report crashes and log popular options.This app will not access, harvest or share any private data.Reviews★ DroidHorizon: http://droidhorizon.com/jagger-review/",
+    "descriptionHTML": "What time is it? It&apos;s Jagger o&apos;clock! <b>Time is #Color</b><br>Jagger interprets the time as an RGB Hex color code and uses it as a watch face background. In other words: your watch background color changes every second!<br>Jagger also displays the <b>name of the color</b>, so you can show off and name 50 shades of green.<br><br><br><b>Custom features</b><br>&#x2605; Minimalist design, no clutter.<br>&#x2605; Every second of the day has a color name.<br>&#x2605; Highly customizable: 12 or 24 hour clock, notification size, show / hide color name and date.<br>&#x2605; Adapts to the notification cards.<br>&#x2605; Optimized for <b>Ambient mode</b>: greyscale, updates every minute. Antialiasing disabled in low bit ambient mode.<br>&#x2605; Supports <b>Burn-In Protection</b> in Ambient mode<br>&#x2605; Efficient rendering, color names are pre computed.<br>&#x2605; <b>Free!<b> I&#x2019;m doing this on the side. Please be kind in your ratings.<br><br><br><b>Credits</b><br>&#x2192;Created by <b>Pierre-Yves Ricau</b> http://piwai.info<br>&#x2192;Inspired by <b>What Colour is it?</b> http://whatcolourisit.scn9a.org<br>&#x2192;Icon design by <b>Chris Renke</b> http://chrisrenke.com/<br>&#x2192;Wear Frame designed by <b>Cyril Mottier</b> http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/<br><br><br><b>Compatible with:</b><br>&#x2605; LG G Watch<br>&#x2605; LG G Watch R<br>&#x2605; Samsung Gear <b>Live</b><br>&#x2605; Motorola Moto 360<br>&#x2605; Asus ZenWatch<br>&#x2605; Sony Smartwatch <b>3</b><br><br><br><b>Required permissions</b><br>&#x2605; Network access - needed to report crashes and log popular options.<br>This app will <b>not</b> access, harvest or share any private data.<br><br><br><b>Reviews</b><br>&#x2605; DroidHorizon: http://droidhorizon.com/jagger-review/</b></b>",
+    "histogram": {
+        "1": 11,
+        "2": 14,
+        "3": 42,
+        "4": 128,
+        "5": 413
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/31gtfrWFRBQ2xM2GcPKi5kmNgginq5VWPBmDfVfjCZ_4pifr6K7JwKSClJ95pgIFEg=h310",
+        "//lh4.ggpht.com/kMJGxI1lusBjZR0dqeSpfLcfOfiwN2tB3VCSc5QYNvzVBG2AtWP4RQTbJSmQf4wl4L0=h310",
+        "//lh5.ggpht.com/4XSZd17FAFAMB-m6N90UH7-0p_WmsfTTmLKHUhq_JygK9SH_vI2Kq2hw2ySOYYNu9go=h310",
+        "//lh6.ggpht.com/R2b56qyQzKQ5CA_L4Dn5J-DGGRKtLrxIBp2JFxNPqsAbzgqjGpGFjUAqYBHI94lEng=h310",
+        "//lh4.ggpht.com/YEJ86l1QCNixTzAua21OsPHD4gdIb0DIluNjZom7Rgxp2vGBQpUcKXZaVwnyU3FkSnyf=h310",
+        "//lh3.ggpht.com/_dFHz-lEGCefl98aridL43H6TQM-o8ctjlDa7DMzw0MJac2poF5eWffAQXjOyKmkiTU5=h310"
+    ],
+    "comments": [
+        "my suggestion You should definitely scale the values before turning them into colors. Since I use a 12 hour clock, I never get more red than 12, which is less than 5% of the maximum amount of red possible in hexadecimal (255). I would love seeing it scaled and providing a much larger range of colors.",
+        "Gloriously geeky! If you're the sort that can memorise an RGB or have pantone espresso cups - this will make you smile every time you flick on your overpriced wrist-toy. Is it necessary? Of course not. Is it fun? Deliciously so!",
+        "Pretty, Handy A simple display with a nice quirk which also let's you set the size of the notifications, which is a massive bonus. The 5.1.1 update has made the spacing and sizing a little clunky in my Sony SW3 though..",
+        "Nice idea, not so nice result The idea of representing time by colours is very nice. However, I wished the time would be more nerdy, more hexadecimal. Instead of #101320 after #101319, I'd like to see #10531A so really representing the seconds, minutes and hours in Hex numbers. 1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,10,11,12,13,14,15,16,17,18,19,1A,1B,1C,1D,1E,1F,20 and so on. That really would make it perfect.",
+        "Nice but ate my battery Moto 360 battery discharge more than doubled over the day. Shame because I want to use this face. Nexus 4, ambient off, tilt to wake on.",
+        "Great Watchface! I love the visual style of this watchface, but I have some minor nitpicks: While in ambient mode, the color of the minutes is too dark - when sun is shining on the display, I can only see hours and not minutes, because the contrast is too low. Maybe make it white? Or, even better, if you'd consider making this watchface open-source, I could make this sort of subjective changes myself without bothering you."
+    ],
+    "recentChanges": [
+        "v1.7",
+        "- Support for 12 hour clock.",
+        "- Link to access Android Wear Settings.",
+        "- Added Advanced Settings section.",
+        "v1.5 & v1.6",
+        "- Customizable in mobile app: notification size, show / hide date and color name.",
+        "- Configuration screen uses Material Design.",
+        "- Added Network access permission to report crashes and log popular options.",
+        "- Increased app size, sorry about that. This is due to the Android SDK libraries being not modular enough. v1.6 reduces the app size by 0.4Mb."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jaggerface&hl=en&gl=us",
+    "appId": "com.jaggerface"
+}

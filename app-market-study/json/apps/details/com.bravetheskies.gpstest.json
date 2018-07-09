@@ -1,0 +1,56 @@
+{
+    "title": "Wear GPS Status",
+    "summary": "Android wear gps (Sony smartwatch 3) status viewer.",
+    "icon": "//lh3.googleusercontent.com/GoytUHXoxPQSNbpgOn4Qipe_yi5r1JRyIvH1xRBu1Y8RUw17_RKJlhzRuyqem6YAezM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 106,
+    "developer": "Brave the Skies",
+    "developerId": "8707528635966020652",
+    "developerEmail": "hello@bravetheskies.com",
+    "developerWebsite": "http://www.bravetheskies.com",
+    "developerAddress": "Bewerley\nHarrogate\nNorth Yorkshire\nHG3 5hs",
+    "updated": "December 24, 2015",
+    "version": "0.0.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "For android wear 2.0 devices use : https://play.google.com/store/apps/details?id=io.trackwear.gnss&hl=enThis is an app for seeing the current state of the device's gps.This is a quick conversion of an open source project found here: https://github.com/barbeau/gpstestIts been converted for compatibility on Android wear devices, designed for the Sony smartwatch 3 but it will work for any android wear GPS enabled device, like the moto 360 sport. Though its not been updates to support the round screen correctly.The original app can be found here : https://play.google.com/store/apps/details?id=com.android.gpstestAll credit goes to the original app.",
+    "descriptionHTML": "For android wear 2.0 devices use : https://play.google.com/store/apps/details?id=io.trackwear.gnss&amp;hl=en<br><br><br>This is an app for seeing the current state of the device&apos;s gps.<br><br>This is a quick conversion of an open source project found here: https://github.com/barbeau/gpstest<br>Its been converted for compatibility on Android wear devices, designed for the Sony smartwatch 3 but it will work for any android wear GPS enabled device, like the moto 360 sport. Though its not been updates to support the round screen correctly.<br><br>The original app can be found here : https://play.google.com/store/apps/details?id=com.android.gpstest<br><br>All credit goes to the original app.",
+    "histogram": {
+        "1": 8,
+        "2": 3,
+        "3": 14,
+        "4": 23,
+        "5": 58
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jgZo0dRcftiiBJE0l7jQQkjFqxN9AV1ZPIm1IORjzUrl6YPucJogSY1pQL9Ht_hrCw=h310",
+        "//lh3.googleusercontent.com/Ba9CCHsXiVrt33b6eAfoaazPIPs0GzV82LbnAlMpZhcCnox-dwE2WBQ2WfCaBOQnKrY=h310",
+        "//lh3.googleusercontent.com/9FhMrb6bt69iLIVoHMgzDS1S_dzbNBfxRW5ShZmcUJA0diN1-mWk7kpxlo0YqZwTxN0=h310",
+        "//lh3.googleusercontent.com/sagXVWIZFzVSHtjqFl6HHV99D9StVJ32n_ZvegY26l13hck7h2Z9epqXf8aKWrtql90=h310",
+        "//lh3.googleusercontent.com/0SQoObNnwq_C7dvze_a5J2mCw3L3lCc8O1iJWdBF_HdMlKGlgLsWgDzY_ay7kFLYsioo=h310",
+        "//lh3.googleusercontent.com/lPwOH5C3zaPrzh-VZolFIaj-heVkMeGzJUG8rKc6F25znNEHnYKazZaClL8OYgYcgU8=h310"
+    ],
+    "comments": [
+        "It might have been given five stars as I can install the app on my mobile and see the information which is great but when I try to install it on to the Huawai smart watch on android 2.0 all it seems to do is try to install on the watch and won't finish the installation. There is plenty of room on the watch and is fully charged. This was an app I was looking for my watch but I guess I won't know how it is on my watch now. Anyone any answers to what's going on.",
+        "Does NOT install on Moto 360 2nd Gen with AW2.0. I can install the app on my phone and see the information, but when I try to install it on the actual watch, it doesn't finish the installation and errors out. There is plenty of room on the watch and is fully charged. Bummer, looked like a good one... Uninstalling as it's useless (at the moment). Hopefully the developer fixes this.",
+        "Handy utility, still not quite sure what the 0/0/2 at the bottom of the status screen means.. in view/in use/something else?  Sadly the Marshmallow update seems to have seriously compromised the GPS performance on the Sony SW3 with now frequent losses of lock and much larger inaccuracies.",
+        "Absolutely necessity for runners!! Works flawlessly on LG Watch Urbane 2 LTE! I fire it up before tracking my runs with Endomondo. Can't say enough good things about this app. Thank you!!!!!",
+        "Moto 360 sport Despite what the description states this does work on the 360 sport. The issue is just some truncation of the text due to the round face on the 360. Otherwise simple tool for testing the in-built gps.",
+        "Works on Moto 360 Sport I had the same problem as another reviewer: I couldn't get GPS working on my watch until I tried this app."
+    ],
+    "recentChanges": [
+        "Updates to latest android wear build"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bravetheskies.gpstest&hl=en&gl=us",
+    "appId": "com.bravetheskies.gpstest"
+}

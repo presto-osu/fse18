@@ -1,0 +1,50 @@
+{
+    "title": "Wear Heart Rate Monitor",
+    "summary": "Turn your Android Wear Smart-Watch into a continuous heart rate monitor.",
+    "icon": "//lh4.ggpht.com/ZMd4bvv4E4l9T1M0evpnCqCnzAdoH1Nd9C_FDeSeg2p7N25Rlpb0_dcvs8BCeGn-70w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 2.7,
+    "reviews": 59,
+    "developer": "Fitmen Apps",
+    "developerId": "Fitmen+Apps",
+    "developerEmail": "jinath.fitmen@gmail.com",
+    "updated": "February 17, 2015",
+    "version": "0.2.1",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Become more health conscious, active, aware and motivated.Effortlessly track your Heart Rate:• Just wear your smart-watch and get heart rate info while you’re walking, running and cycling.Available everywhere:• Compatible with all Android Wear devices with a suitable heart rate sensor.   Turn your smart-watch into your personal HEART RATE MONITOR. Your pulse is racing, your heart is in your mouth: It’s easy to determine your physical or mental condition based on your pulse - and not only when you’re excited. Measure your heart rate after a training session to find out how your cardiovascular system is doing under stress. Take an HR measurement before your next exam. Wear Heart Rate Monitor shows you how fast your heart is beating at any given moment, Unbelievable? Just try it out! APP FEATURES & BENEFITS:* Measure your heart rate.* Graphs illustrate your measurements.* Upload your data to Google Fit  EFFICIENT ANALYSISYour resting heart rate varies depending on your age and training level. A very fit and athletic person has a lower resting HR than someone who’s hardly active. Eager to know if your fitness level has improved? Measure your heart rate on a regular basis and monitor the progress of your resting heart rate. Download the Wear Heart Rate Monitor App today, check your heart rate regularly and show your friends how cool & calm you remain even when in a seemingly stressful situation! WARNING: This is not a medical product.",
+    "descriptionHTML": "Become more health conscious, active, aware and motivated.<br><br>Effortlessly track your Heart Rate:<br>&#x2022; Just wear your&#xA0;smart-watch&#xA0;and get heart rate info while&#xA0;you&#x2019;re walking, running and cycling.<br><br>Available everywhere:<br>&#x2022; Compatible with all Android Wear devices with a suitable heart rate sensor. <br>&#xA0;<br>&#xA0;<br>Turn your&#xA0;smart-watch&#xA0;into your personal HEART RATE MONITOR.<br>&#xA0;<br>Your pulse is racing, your heart is in your mouth: It&#x2019;s easy to determine your physical or mental condition based on your pulse - and not only when you&#x2019;re excited. Measure your heart rate after a training session to find out how your cardiovascular system is doing under stress.<br>&#xA0;<br>Take an HR measurement before your next exam.&#xA0;Wear Heart Rate Monitor&#xA0;shows you how fast your heart is beating at any given moment, Unbelievable? Just try it out!<br>&#xA0;<br>APP FEATURES &amp; BENEFITS:<br>* Measure your heart rate.<br>* Graphs illustrate your measurements.<br>*&#xA0;Upload&#xA0;your data to Google Fit&#xA0;<br>&#xA0;<br>EFFICIENT ANALYSIS<br>Your resting heart rate varies depending on your age and training level. A very fit and athletic person has a lower resting HR than someone who&#x2019;s hardly active. Eager to know if your fitness level has improved? Measure your heart rate on a regular basis and monitor the progress of your resting heart rate.<br>&#xA0;<br>Download the&#xA0;Wear Heart Rate Monitor&#xA0;App today, check your heart rate regularly and show your friends how cool &amp; calm you remain even when in a seemingly stressful situation!<br>&#xA0;<br>WARNING: This is not a medical product.",
+    "histogram": {
+        "1": 22,
+        "2": 7,
+        "3": 7,
+        "4": 10,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/-qtnG8ikgHAo6zRdApc0q9PcGy21fKoSwZ93zxn5CEs6JdJf6kSnNF-Oy4xdi2iupA=h310",
+        "//lh5.ggpht.com/nTfv6UW26ofmJG_A2xbyll3RYqhDJa5TvJt8waUcK6G1XnrCfBWjLwmQoGiIe4uLOfI=h310"
+    ],
+    "comments": [
+        "Not ready. Uninstalled It looks like it has potential especially with the nice graph. But I have no idea how to stop the monitor from running. It drained my watch battery. A \"check every x minutes\" option would be nice or a way to start and stop the monitor manually.",
+        "Perfect dont change it! Perfect app for my needs. On the moto 360 (v2) andriod body started putting workloads already added by google fit into google fit resulting in me walking 10+ miles a day. Moto body was useful as it would check heart rate at regular intervals and add the information to workouts even if the workout was being recorded using google fit. This app has now enabled me to have a historic view of heart rates at regular intervals. It doesnt need to be running on the phone or the watch and it adds to google fit.",
+        "Finally! Now I don't need to press buttons  to check my heart beat.. Now it track and saves in google fit...",
+        "Didn't work on my huawei watch It didn't automatically take my heart rate. It only worked when I took a manual reading.",
+        "Need to run app on watch After installation app was always 'WAITING'. Figured out that there is an app in wear device as well. After I ran it once it was OK from then onwards.",
+        "Great app Really nice app and the much better thing is, it's more accurate. Keep it up"
+    ],
+    "recentChanges": [
+        "Initial Public Beta Release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=co.fitmen.wearable.wearheartrate&hl=en&gl=us",
+    "appId": "co.fitmen.wearable.wearheartrate"
+}

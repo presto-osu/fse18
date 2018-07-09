@@ -1,0 +1,45 @@
+{
+    "title": "RedLed Digital Watch Face",
+    "summary": "Simple, digital, with red led retro display design. Perfect for any wearable.",
+    "icon": "//lh3.googleusercontent.com/8vMFTV0dGeP5bv38RUR1NgOhT13iiNpuKSd13e533fCiU8CH6kT2WBz9EQ5Dc8Q0dA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.3,
+    "reviews": 22,
+    "developer": "3mpty",
+    "developerId": "3mpty",
+    "developerEmail": "bartekholota@gmail.com",
+    "updated": "June 11, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Retro led screen like watch face. It's prepared to look well on any shape of screen.Default settings display:- Normal & ambient mode- Current hour & minute values (visible in ambient mode)- Current day (hidden in ambient mode)- Battery level in four states - 3 blocks above 80%, 2 blocks above 40%, 1 block above 15% and 0 block for lower values (hidden in ambient mode)- Blinking colon symbol (like in old digital watches) seconds indicator (it's not blinking in ambient mode)Future versions will allow customize your watch face.",
+    "descriptionHTML": "Retro led screen like watch face. It&apos;s prepared to look well on any shape of screen.<br><br>Default settings display:<br>- Normal &amp; ambient mode<br>- Current hour &amp; minute values (visible in ambient mode)<br>- Current day (hidden in ambient mode)<br>- Battery level in four states - 3 blocks above 80%, 2 blocks above 40%, 1 block above 15% and 0 block for lower values (hidden in ambient mode)<br>- Blinking colon symbol (like in old digital watches) seconds indicator (it&apos;s not blinking in ambient mode)<br><br>Future versions will allow customize your watch face.",
+    "histogram": {
+        "1": 5,
+        "2": 1,
+        "3": 5,
+        "4": 4,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-Qlvt9xg69FXtRvTCqqPDhpsmJ4dMvpTJ5wfgePQ6JQIp1uHXMIxFQ3Gioyo4QrPMZD0=h310",
+        "//lh3.googleusercontent.com/rczPeIwQi4204LOcIJk8hN4qZxfVtbfGNgd9M8hg01uNbT43OMeJepzpfcxGKzQXPBtq=h310"
+    ],
+    "comments": [
+        "Don't know if this is something I'm doing wrong or not.  I downloaded this and loved it, then I had to reset my watch to factory settings and lost it.  Now it won't let me download it again, because it claims I've already done it.  Is there a way to get it back?",
+        "No 12.hour mode How do I change to the 12 hour mode? In the Play Store the pics show 12.hour format, but when downloaded on my watch, it shows 24.",
+        "It's okay. The background red could be dialed down a bit, and the ambient mode isn't that pretty."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.empty.digitalwatchface&hl=en&gl=us",
+    "appId": "com.empty.digitalwatchface"
+}

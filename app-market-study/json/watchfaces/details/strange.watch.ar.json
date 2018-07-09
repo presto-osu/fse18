@@ -1,0 +1,53 @@
+{
+    "title": "SW Argon Watch Face",
+    "summary": "A personalisable style for your Android Wear watch",
+    "icon": "//lh3.googleusercontent.com/PlHrDfyCeim6aYkNoNZeT-pfZbSj06Yt0NcJIny7CxP_Gqec6Ov9P_ZrdPyhuCifLg=w300",
+    "price": "$2.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4,
+    "reviews": 1,
+    "developer": "L.A. Engineering and Design",
+    "developerId": "L.A.+Engineering+and+Design",
+    "developerEmail": "sw@strange.watch",
+    "developerWebsite": "http://strange.watch",
+    "developerAddress": "3 Chaldon Road\nSW6 7NH\nLondon, UK",
+    "updated": "October 18, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "A personalisable style for your Android Wear smart watch.With the handheld customiser you can freely explore different colour combinations to match your outfit and lifestyle. Designed for Android Wear 2.x",
+    "descriptionHTML": "A personalisable style for your Android Wear smart watch.<br><br>With the handheld customiser you can freely explore different colour combinations to match your outfit and lifestyle. <br><br>Designed for Android Wear 2.x",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/pJL9qIENtmH5LmQXBx7DEYnAW0OiVd5V-3w7kf04nLxhbYavrfp5W8fndt1JIYvdknG5=h310",
+        "//lh3.googleusercontent.com/jscUrQAOKoOsFhDIQ8nTi6UUNJlZBk-pEDZUwrfWRzJvfJSL-o0AVhY0BdnnWj6I_6SX=h310",
+        "//lh3.googleusercontent.com/ttwmwyvqTONSm2ql1Oaj6ZfwgOqJnozB9h54ALrH9F_5AWT15r1a-_pvqNbV1uSr324=h310",
+        "//lh3.googleusercontent.com/-8uXttbg3sGXgBJLSWsclhrEDItmYwVOh0nF4D5tjBycB0HePN3Th2JxWZnOoVBWvMk=h310",
+        "//lh3.googleusercontent.com/PX3KX67SeZ-0Bw3mivyjAM1E5PoiGZoUPWRjXYRCjk07NZo8OZPMcuTO3V113iB1Q1Li=h310",
+        "//lh3.googleusercontent.com/AP5gCN43-9EIIJH4TqSV2XFy2Fg-c4LsCfGXWDJPe-e6JbHPBfp7YNlJItE4LqvXwQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/LRf87Oq-afg",
+    "comments": [
+        "Are complications going to be added ?"
+    ],
+    "recentChanges": [
+        "* Battery indicator improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=strange.watch.ar&hl=en&gl=us",
+    "appId": "strange.watch.ar"
+}

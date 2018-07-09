@@ -1,0 +1,59 @@
+{
+    "title": "Wear Calendar 2018",
+    "summary": "Calendar for Android Wear",
+    "icon": "//lh3.googleusercontent.com/QAQI_LV5aJljScNVfUmA1cg6_r7Z2lCo94xExM60YXrKpcX5bkqjt0MWAfjYydibjDTX=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.6,
+    "reviews": 466,
+    "developer": "Tuxerito-Soft",
+    "developerId": "5773577869737526356",
+    "developerEmail": "tuxerito@gmail.com",
+    "developerWebsite": "http://www.tuxerito.com",
+    "updated": "December 30, 2017",
+    "version": "1.8.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Calendar for Android WearView a calendar inside your Android Wear device.Features:* Month Calendar* View events (Google Calendar)* Multi-account support for events in different accounts* View holidays:-- Argentina-- Australia-- Austria-- Belgium-- Brazil-- Chile-- Colombia-- Croatia-- Czech Republic-- Germany-- France-- Italy-- Mexico-- Netherlands-- New Zealand-- Portugal-- Spain-- United Kingdom-- United States-- VenezuelaHow to use:Open the app on your Android Wear deviceSwipe up/down to change monthTouch a holiday or event day to see descriptionSwipe left to open optionsOn your phone open the app to set you account, country and other settings.IMPORTANTTo view events on your watch you need your phone because your phone send the events to the watch every time you ask for events on the watch.Permissions:Accounts(Contacts): Necessary to select the account associated with the eventsRead calendar: Necessary to read and display the events.Internet: To display ads.On Android 6+ you will be asked for permissions if you deny those permissions the app will not display accounts and events.Please don´t leave a negative review if your country is not in the list just send me a message and I will add it.",
+    "descriptionHTML": "Calendar for Android Wear<br><br>View a calendar inside your Android Wear device.<br><br>Features:<br>* Month Calendar<br>* View events (Google Calendar)<br>* Multi-account support for events in different accounts<br>* View holidays:<br>-- Argentina<br>-- Australia<br>-- Austria<br>-- Belgium<br>-- Brazil<br>-- Chile<br>-- Colombia<br>-- Croatia<br>-- Czech Republic<br>-- Germany<br>-- France<br>-- Italy<br>-- Mexico<br>-- Netherlands<br>-- New Zealand<br>-- Portugal<br>-- Spain<br>-- United Kingdom<br>-- United States<br>-- Venezuela<br><br><br>How to use:<br>Open the app on your Android Wear device<br>Swipe up/down to change month<br>Touch a holiday or event day to see description<br>Swipe left to open options<br><br>On your phone open the app to set you account, country and other settings.<br><br>IMPORTANT<br>To view events on your watch you need your phone because your phone send the events to the watch every time you ask for events on the watch.<br><br>Permissions:<br>Accounts(Contacts): Necessary to select the account associated with the events<br>Read calendar: Necessary to read and display the events.<br>Internet: To display ads.<br><br>On Android 6+ you will be asked for permissions if you deny those permissions the app will not display accounts and events.<br><br><br>Please don&#xB4;t leave a negative review if your country is not in the list just send me a message and I will add it.",
+    "histogram": {
+        "1": 66,
+        "2": 47,
+        "3": 71,
+        "4": 114,
+        "5": 168
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/rAwuhqbTlVohxYtEwnzsQckrwzKRZJxiKeceTMptsWCoZ5fSK7sSfhO03TTV_7JcqMI=h310",
+        "//lh3.googleusercontent.com/wz1SEVDLc_SeLe8ppu9TYjMSBnp1-S8IHa-cnAWHaLtwOdlfYUPp6WoM47TjNyNh2PM=h310",
+        "//lh3.googleusercontent.com/Mnl7PLTId7WTdM50bfNVA8-oyIIfjBl62ShFWOwy8-xc0JmjM7D1V_OXD2URQLJCyA=h310",
+        "//lh3.googleusercontent.com/Cty-cYVFaiIPA9x3qA8Wb9CXeg3dyTe5B_ts6KifBE-tmEhV8H-O2h3lHpp8RJUyTLA=h310",
+        "//lh3.googleusercontent.com/wjWWUiek5iZ3EsimLw8S0PRyhxn3qGggFs0PUBhKYvjk6dI7vv1sS00hkxWWQuDEBlo=h310",
+        "//lh3.googleusercontent.com/ROlF_Tp6qTMI_dboE-ZbiYY_qrzAu7RJjOe8CSE-H9FwZDZxkCZo6t2gxi1dMZnCMvtE=h310",
+        "//lh3.googleusercontent.com/O3JxFD2nYFkmtSS90hm06CjXUHkNBNHtbfmJ5HinK3FseSBVWUmeShoO-zJQ-yclQ1c=h310",
+        "//lh3.googleusercontent.com/OtNAmlb95jEa7RknrrwzwXrIvZ8jXjHNY9nSw3hkOSkAnoZoewQigi2_hPsQdQ9M-g=h310",
+        "//lh3.googleusercontent.com/8_5DbTTd5-plQs8rQAAwvc-Zb2ktlUhenlwi8ANwBpPOdIhst-Y7JII78mdmOgancA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/7JrpSwXLBME",
+    "comments": [
+        "Option to edit or add events would be a treat!",
+        "Great simple calendar app for Android Wear and a very responsive developer! He responded to my feature request same day and it was implemented shortly after.",
+        "I like this app a lot,  it's simple yet very useful. I have one small question though: given that I live in the Netherlands could you perhaps add our national holidays to the holiday options? Thanks a lot",
+        "Doesn't display my calendar events. The design is really nice and if it worked, I would use this app.",
+        "This app really helps simplify date checking for me on my wrist (and many others I believe) Developer answered my request to add my country in a swift and professional manner... Very impressive. Thanks very much and i encourage all to give this app a try.",
+        "Will not let me use app. Keeps crashing!"
+    ],
+    "recentChanges": [
+        "Added holidays for 2018."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=tuxerito.wear.calendar&hl=en&gl=us",
+    "appId": "tuxerito.wear.calendar"
+}

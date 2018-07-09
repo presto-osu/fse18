@@ -1,0 +1,49 @@
+{
+    "title": "Wear Barometer",
+    "summary": "Show you the atmospheric pressure using the barometer sensor of your device.",
+    "icon": "//lh5.ggpht.com/y3UCNXQwSSZpGAC0FEsST0IJrq6eBoMTXf3Gq0WKc9FjkIrGfkf82MI2BxQWRD-Mew=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.2,
+    "reviews": 62,
+    "developer": "Kosuge Kazuya",
+    "developerId": "Kosuge+Kazuya",
+    "developerEmail": "root@kksg.net",
+    "developerWebsite": "http://kksg.net",
+    "updated": "November 10, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Show you the atmospheric pressure using the barometer sensor of your device.",
+    "descriptionHTML": "Show you the atmospheric pressure using the barometer sensor of your device.",
+    "histogram": {
+        "1": 29,
+        "2": 15,
+        "3": 4,
+        "4": 4,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/kmaQLppKtpYWugNOpuSZAeP9usM3fGpslbWAbzgjxVCZIb6DzzlLLWdPMAOWXqGdpw=h310",
+        "//lh4.ggpht.com/4VamG_bDjHQrQkpGNp6OMUB70lU7c5UFb5vpfbcpSE4rK8lFbDwtStEMlYnx6DP8mg=h310"
+    ],
+    "comments": [
+        "Works Works on Sony Smartwatch 3.  For those who think otherwise please consider that the barometer is not on the watch but in your phone. So if it does not work for you its most likely because your phone does not have the sensor.",
+        "Not working on LG G Watch R. Any chance of a fix? You have the market to yourself at present so it would be well worth the effort.",
+        "Does not work at all on G Watch R Just shows a reading of ---",
+        "Not specified Sends barometric pressure information to watch if host device supports it, dev does not really specify this or what it's compatible with.",
+        "Doesn't work on g watch r",
+        "Doesn't work on Nixon The Mission"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.kksg.wearbarometer&hl=en&gl=us",
+    "appId": "net.kksg.wearbarometer"
+}

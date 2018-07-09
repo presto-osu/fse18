@@ -1,0 +1,56 @@
+{
+    "title": "Scout Alarm",
+    "summary": "Full control over your Scout home security system from anywhere in the world.",
+    "icon": "//lh5.ggpht.com/veGlYQysiFLsOtZAR7LDZSb6xZE5aSJpmj3S6QmaFziCcJH9txAFm7mTnOwg9b55oNoS=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.7,
+    "reviews": 72,
+    "developer": "Scout Security Inc.",
+    "developerId": "Scout+Security+Inc.",
+    "developerEmail": "support@scoutalarm.com",
+    "developerWebsite": "https://www.scoutalarm.com",
+    "updated": "October 30, 2017",
+    "version": "1.5.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Download this app to have full control over your Scout home security system remotely from your Android device, anywhere in the world.What is Scout?Scout is a sleek, smart and affordable next-generation home security system. Scout builds alarm modes around you to intuitively keep you safe, whether you are home or away. Scout is also compatible with many other security and home automation services, making it the perfect alarm system for your smart home.The Scout app provides custom alerts and 24/7 remote access to your security system, allows you to fully customize your alarm's response for each mode, and lets you instantly give access to visitors with no hassle.To learn more, visit scoutalarm.com.",
+    "descriptionHTML": "Download this app to have full control over your Scout home security system remotely from your Android device, anywhere in the world.<br><br>What is Scout?<br><br>Scout is a sleek, smart and affordable next-generation home security system. Scout builds alarm modes around you to intuitively keep you safe, whether you are home or away. Scout is also compatible with many other security and home automation services, making it the perfect alarm system for your smart home.<br><br>The Scout app provides custom alerts and 24/7 remote access to your security system, allows you to fully customize your alarm&apos;s response for each mode, and lets you instantly give access to visitors with no hassle.<br><br>To learn more, visit scoutalarm.com.",
+    "histogram": {
+        "1": 9,
+        "2": 10,
+        "3": 8,
+        "4": 11,
+        "5": 34
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/03NGwfmSwqMrUYJ_2q_18rGhMp2TuUhFVbrqPgu3g61pBU9mmBeezJeLiF65UOtwZRM=h310",
+        "//lh3.googleusercontent.com/HlUjU4KcmqzYXNvyAvJ1FPzi8tmZSXX094ByShZxqB3rZCrFfqy7NuWGA78FXuvayYpv=h310",
+        "//lh3.googleusercontent.com/KIyfAyZCGDdfRGENYPY0EUBXYk01kn9Lvm7H4t9BmmXu-q4xCVXF9iy8-vMRNP93rCc=h310",
+        "//lh3.googleusercontent.com/2vPp8b9o9kGJGVw_wQNUY0DNfOG8cDcj7KSDyOc7ltb8GZfBqgkJxGUpDfkPvc_MdDv5=h310",
+        "//lh3.googleusercontent.com/J217k2-0cRikh89FRnKSRb4MTa9uJskCi-GWu9cnoWWIx66uXsPIBcGy8eL9X8gVwTN3=h310"
+    ],
+    "comments": [
+        "Unreliable, they've sent me six hubs over three years. The devices drop off every six or seven months - not battery issues - rather antenna failures. This thing has had complete failures RIGHT BEFORE I've left town three times now - like for month stretches. Stay away. I work in security and surveillance as well as integration. I get it. It sucks.",
+        "Been using this system for 2 years now. app works as it should",
+        "Been 3 years now. I gave it a good chance. Not going to be renewing my subscription. Very buggy system, unreliable, false alarms, logs me out constantly, keyfobs are squirrelly, EATS batteries (and free batteries are not the answer) re-pairing motion detector is a chore when it goes awry. The list goes on. Just can't recommend this system.",
+        "Bought new Android with lollipop o\\s, no more tone or popup text informing me system Is armed as it did with iphone. Even that took some time with Scout support to correct. Apparently Android and Apple don,t perform the same way with this app.",
+        "The new app looks great with its cleaner interface. I haven't had any issues with the app in a long time. I even recently setup Alexa with it. It works really well with Alexa. Very pleased.",
+        "The new version isn't working well with the S8 phone.  The previous version was much better. Constant issues with arming and disarming the systemusing the app"
+    ],
+    "recentChanges": [
+        "v1.5.5",
+        "- Support for our new environmental sensors",
+        "- Other minor bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.scoutalarm.android&hl=en&gl=us",
+    "appId": "com.scoutalarm.android"
+}

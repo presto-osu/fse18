@@ -1,0 +1,52 @@
+{
+    "title": "Blackboard Watchface",
+    "summary": "This is a simple watch face works on Android Wear device.",
+    "icon": "//lh3.googleusercontent.com/ELuapV9LMWNctr41RnpIC-oMCb9zg4cX1eiDm4eMY0R82t_cqDkPEMwcvEwmujqieg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.1,
+    "reviews": 16,
+    "developer": "DwarfStar",
+    "developerId": "DwarfStar",
+    "developerEmail": "dwarfstar.dev@gmail.com",
+    "developerAddress": "神奈川県川崎市川崎区日進町",
+    "updated": "January 13, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Blackboard Watchface is a simple watch face like inspired by blackboard. Works for both round and square watch. Please try it on if you have no time to design your cool watch face by using Facer, WatchMaker and so on. [How to set the watch face]When you install this app to your handheld device, you can find this watch face in your wearable device.[Feature] - Simple - Cute - Practical[Note]This application is designed by using Anzu-moji font.http://www8.plala.or.jp/p_dolce/[Update 2015/09/30]- Support 24 hour time.  You can see setting activity from watchface picker.",
+    "descriptionHTML": "Blackboard Watchface is a simple watch face like inspired by blackboard. Works for both round and square watch. Please try it on if you have no time to design your cool watch face by using Facer, WatchMaker and so on. <br><br>[How to set the watch face]<br>When you install this app to your handheld device, you can find this watch face in your wearable device.<br><br>[Feature]<br> - Simple<br> - Cute<br> - Practical<br><br>[Note]<br>This application is designed by using Anzu-moji font.<br>http://www8.plala.or.jp/p_dolce/<br><br>[Update 2015/09/30]<br>- Support 24 hour time.<br>  You can see setting activity from watchface picker.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Zu_pDV1Ci6QEdLI3-3IPuyjDjie3vCj0qa-jI8R6GudOiPImjuYfccwbhKWXql97pZo=h310",
+        "//lh3.googleusercontent.com/rsmmo6hHFdeOv9pxw_yIhTDU-B93CfascMgWbA2cF56VHHHW_FG15DW55JX-jjCKwaxz=h310"
+    ],
+    "comments": [
+        "素敵なデザイン クリスマスのプレゼントでスマートウォッチをいただきウオッチフェイスを探していたところ、こちらのデザインに一目惚れして購入しました。スクエアディスプレイの時計へのダウンロードだったため当初は表示されている情報の周りに囲み線が出ていたのですが、開発者の方に連絡を取ると二十四時間以内に対応してくださり、囲み枠をとってくださいました。ますます素敵になり気に入っています。 I bought this watchface but saw that there was a circle line around the watchface (I had a square smartwatch). I contacted the developer and in under 24 hours he responded to me and said he released a new version that removes the line. It was great having someone who actively responds and updates based on suggestions!",
+        "Nice simple face, is what it says. In today's smart watch features, I for one like to just put this site face on during the week and give myself time off, and still have time! :)",
+        "A paid app with no options This app costs. Which if compared to all the other paid apps is insane. No options. No colors. No interactive options like the new Android wear os allows AND there is a huge name on the bottom of the watchface from developer. There should be NO REASON this is a paid app at all.",
+        "Very creative and good looking watch face. However neither ambient mode (doesn't remove color or details, only turns brightness down) nor step count works on my Huawei Watch.  Will update review if these things are fixed.",
+        "Like faces like this Now I would really like a great paper watch face to use also,"
+    ],
+    "recentChanges": [
+        "- Support square watch",
+        "- Support Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dwarfstar.watchface.watchface09&hl=en&gl=us",
+    "appId": "com.dwarfstar.watchface.watchface09"
+}

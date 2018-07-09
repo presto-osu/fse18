@@ -1,0 +1,51 @@
+{
+    "title": "Handwriting watchface",
+    "summary": "This is a simple watch face works on Android Wear device.",
+    "icon": "//lh3.googleusercontent.com/lLOV9d8dKUMba6BuyHUAwLnhX3NKVKGyV8lsIYJYFQAWQYjG-Dfl8sK6JKPkR6dlvg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.6,
+    "reviews": 98,
+    "developer": "DwarfStar",
+    "developerId": "DwarfStar",
+    "developerEmail": "dwarfstar.dev@gmail.com",
+    "developerAddress": "神奈川県川崎市川崎区日進町",
+    "updated": "May 20, 2015",
+    "version": "2.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Handwriting watchface is simple watch face like handwriting design. Works for both round and square watch. Please try it on if you have no time to design your cool watch face by using Facer, WatchMaker and so on. [How to set the watch face]When you install this app to your handheld device, you can find this watch face in your wearable device.",
+    "descriptionHTML": "Handwriting watchface is simple watch face like handwriting design. Works for both round and square watch. Please try it on if you have no time to design your cool watch face by using Facer, WatchMaker and so on. <br><br>[How to set the watch face]<br>When you install this app to your handheld device, you can find this watch face in your wearable device.",
+    "histogram": {
+        "1": 15,
+        "2": 6,
+        "3": 20,
+        "4": 18,
+        "5": 39
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/lB7l5ygnTmaDdz2vOZWPb5_TXQ4yAiq1tO98i2bjrIjzPdhHkAf9bckUqrFXOqDm2Hc=h310",
+        "//lh3.googleusercontent.com/HeaEccrvdvjrFDxownIP6r2zZvuhYHIDDC1bcbRs-lXUL4N1ozoZfZ4IZyAAc-gpGOI=h310"
+    ],
+    "comments": [
+        "Simple & Elegant Not much to be said. Great watch face and very unique. App requires no special permissions, so no worries about unnecessary intrusions. Highly recommend.",
+        "Needs dark ambient mode Keeping the screen white when sleeping doesn't do much for battery life.",
+        "Paper face Pleasant to look at as part of my collection of faces.",
+        "good stuff looks and works great on my Huawei,  added dark would be nice",
+        "Not working Not showing up moto 360",
+        "Cool face Works well with moto"
+    ],
+    "recentChanges": [
+        "Fix an issue on specific devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dwarfstar.watchface.watchface08&hl=en&gl=us",
+    "appId": "com.dwarfstar.watchface.watchface08"
+}

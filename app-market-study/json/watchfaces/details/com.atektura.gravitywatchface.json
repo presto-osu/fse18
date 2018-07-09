@@ -1,0 +1,57 @@
+{
+    "title": "Gravity Watch Face",
+    "summary": "Stunning, 3D dynamic watch face for Android Wear.",
+    "icon": "//lh3.googleusercontent.com/bU_KVo5DAYpDY1Ab_o2rfVi947CtvEsFmeOyTlYZ8NKVZYiS6LdCXQmSAXzE53LfwXU=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 9,
+    "developer": "ATEKTURA/",
+    "developerId": "5566278677903777243",
+    "developerEmail": "contact@atektura.watch",
+    "developerWebsite": "http://atektura.pl",
+    "developerAddress": "Monte Cassino 25/2\n70-467 Szczecin, Polska",
+    "updated": "March 21, 2015",
+    "version": "1.1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Gravity is a variation of a popular Dots Watch Face, that goes a step ahead.3D layering is even more powerful due to perspective that is changing with every wrist move. It makes this watch face even more alive.Additional 5-seconds orbit gives it more dynamics, so checking time will never be boring.Designed for Android Wear.Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.ATEKTURA Watch Faces on Google+https://plus.google.com/u/0/b/106084399129186124597/106084399129186124597/posts",
+    "descriptionHTML": "Gravity is a variation of a popular Dots Watch Face, that goes a step ahead.<br><br>3D layering is even more powerful due to perspective that is changing with every wrist move. It makes this watch face even more alive.<br><br>Additional 5-seconds orbit gives it more dynamics, so checking time will never be boring.<br><br>Designed for Android Wear.<br>Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.<br><br>ATEKTURA Watch Faces on Google+<br>https://plus.google.com/u/0/b/106084399129186124597/106084399129186124597/posts",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 3,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/vG7iIGwNSscxTbX2wSf018cjR2F0XZwbaUxRzECd3wKQlL4f_sLEY_Lq5b7Rqj9bLWo=h310",
+        "//lh3.ggpht.com/ECe6xLzY4OvFy4-xDHxhTcA4QWX0lLTCaPj6HJ8YlR1kqRcBwHfLd_j_0F9MwGD78UYL=h310",
+        "//lh3.ggpht.com/5D22iFrbKymcLIVvsKsUZNQsWlMcPR-DEIEgI3piqh9JymMJaIqC-DpS1_kVVt7AbLoo=h310",
+        "//lh3.googleusercontent.com/u_9v_y9SomolvsO0w0k7juGsMn0h8pKtEPYNxgvX5rdu1Dm81TxAHEsZkn9V9ZyXZtAE=h310",
+        "//lh3.googleusercontent.com/tY5vNRPPQ_HnGBUc9kHPcTQM24q9iwjHotA1YAoJNdlGewhFASxqD29dzml62SzfwI4=h310"
+    ],
+    "comments": [
+        "Design Good, All-Axis Gyroscopic Effect... Not So Much Please add an option to disable the gyroscopic effect. I love the design of this watch but the effect is just dizzying.",
+        "Like this even more than Dots, but an option for a 12 hour clock would be great.",
+        "Awesome watch face, but I wish there was an option to disable the 3d gyro effects.",
+        "Cool watch face Works great"
+    ],
+    "recentChanges": [
+        "1.1, 1.1.1",
+        "- Improved rendering,",
+        "- New all-axis 3D effect that sets orbits parallel to the ground,",
+        "- Stars in the background, so you can feed the depth even more!",
+        "- 12/24h time format switch."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.atektura.gravitywatchface&hl=en&gl=us",
+    "appId": "com.atektura.gravitywatchface"
+}

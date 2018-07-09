@@ -1,0 +1,45 @@
+{
+    "title": "English Clock for Wear",
+    "summary": "The time the way you would read it",
+    "icon": "//lh3.googleusercontent.com/rA3BG9I7g5I7y4eEN0oS0Yo1rkkWHR-dxsMnc82iIApL6Rxj9ikakOxhBEqWfeTGqX0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 4,
+    "developer": "Dream Code",
+    "developerId": "5005949867149125533",
+    "developerEmail": "support@dreamcode.it",
+    "developerWebsite": "http://dreamcode.it/",
+    "developerAddress": "Via Pantano 112,\nPaterno (PZ),\n85050,\nItalia",
+    "updated": "January 2, 2016",
+    "version": "1.0.2",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This is a watchface for Android Wear.The time unit is 5 minutes. As an example, \"ten past ten\" will be displayed from 10:08 to 10:12.If you are not comfortable with approximation, do not install this watchface.There is no configuration screen.",
+    "descriptionHTML": "This is a watchface for Android Wear.<br><br>The time unit is 5 minutes. As an example, &quot;ten past ten&quot; will be displayed from 10:08 to 10:12.<br>If you are not comfortable with approximation, do not install this watchface.<br><br>There is no configuration screen.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/oqFh0-QtCBKRZ-nz_vIPhMv_QAZTzR2EgIFPQKax_czAeDn6oPTPX5ilbAOVugyP6xo=h310",
+        "//lh3.googleusercontent.com/JC3mf9aloUoyqzmNnjEl-MGhKVhrR5pyL48yBAuLfqYrFTqwTF61TXbpqS8g3qQ2DQ=h310"
+    ],
+    "comments": [
+        "How time is told Very simple watchface, that tells the time as it should be. Quick and easy to read."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michy.italianclock&hl=en&gl=us",
+    "appId": "com.michy.italianclock"
+}

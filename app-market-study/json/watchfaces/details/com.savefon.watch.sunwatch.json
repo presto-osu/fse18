@@ -1,0 +1,52 @@
+{
+    "title": "Sundial Watch Face",
+    "summary": "Awesome sundial with an astronomically accurate calculation of the sun position",
+    "icon": "//lh3.googleusercontent.com/cx-5xBWGFJjBPqU3-0209VC67Yg7tspPqYdh8mnA6yi3QBFS9Ivf0JXPsO4hlq7Rpq8e=w300",
+    "price": "$1.05",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.9,
+    "reviews": 14,
+    "developer": "Watchmasters",
+    "developerId": "Watchmasters",
+    "developerEmail": "watchmasters.service@gmail.com",
+    "developerAddress": "Hartwichstr. 14, 50733, Cologne, DE",
+    "updated": "November 16, 2015",
+    "version": "1.0.7",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "This watch face is a beautiful, horizontal sundial with an astronomically accurate calculation of the sun position for any geographical location at any given moment. The three-dimensional gnomon casts a correct and realistically rendered shadow.The sundial is always active, reshaping and modifying itself in accordance to the sun’s movement.The color palette of the dial constantly changes to conform to the natural light cycle of day and night. Even when the sun goes down, the dial looks gorgeous with a soft night shadow that also reshapes and changes colors during the course of the night.The sundial tells also the time of the sunrise and sunset.Hour lines adjust themselves according to current location and the day of the year in order to compensate for the difference between the true solar time and the local clock time.The gnomon’s angle adjusts automatically, to the local latitude. Three themes are included: the naturally colored –Skylight, the monochromatic –Chalkboard and the discreet and warm –Shadow.The Sundial supports both square and round watches.The Sundial settings for your smartphone or tablet are an informative and fun app.Simply, choose your sundial theme and set your current location. However, you can also change your location using the map view and instantly, see how the sundial changes in real time. You can explore how the sun shines at any moment, anywhere on earth. It happens right on your wrist.",
+    "descriptionHTML": "This watch face is a beautiful, horizontal sundial with an astronomically accurate calculation of the sun position for any geographical location at any given moment. The three-dimensional gnomon casts a correct and realistically rendered shadow.<br><br>The sundial is always active, reshaping and modifying itself in accordance to the sun&#x2019;s movement.<br><br>The color palette of the dial constantly changes to conform to the natural light cycle of day and night. <br>Even when the sun goes down, the dial looks gorgeous with a soft night shadow that also reshapes and changes colors during the course of the night.<br><br>The sundial tells also the time of the sunrise and sunset.<br><br>Hour lines adjust themselves according to current location and the day of the year in order to compensate for the difference between the true solar time and the local clock time.<br>The gnomon&#x2019;s angle adjusts automatically, to the local latitude. <br><br>Three themes are included: the naturally colored &#x2013;Skylight, the monochromatic &#x2013;Chalkboard and the discreet and warm &#x2013;Shadow.<br><br>The Sundial supports both square and round watches.<br><br>The Sundial settings for your smartphone or tablet are an informative and fun app.<br>Simply, choose your sundial theme and set your current location. However, you can also change your location using the map view and instantly, see how the sundial changes in real time. You can explore how the sun shines at any moment, anywhere on earth. It happens right on your wrist.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 0,
+        "4": 2,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/swFxTK6124qfKqwImkZ8YcLoL3b_olCFsKm6wXLQZS1mrscQOrCvRupyvYGyCcOYy1-g=h310",
+        "//lh3.googleusercontent.com/5S12t82KnZDK84Y5JgnZ2n2OoFN1c5QM7LWaXIrwnkukQDkaYBdoB3OsJMfHRt1WYaE=h310",
+        "//lh3.googleusercontent.com/Tvf4Lm6Gk7KObn9dmMicjxEjqtFWtwRYvadnPWq9ajqkZO2wjvMnH9wwbcFWB5V-qFJv=h310",
+        "//lh3.googleusercontent.com/xKVP34CFKxNisdYMBQZ76s9M3CXLjSXxkgsdDE0GoA7_gMmv7_lBwV6_7kaheNnjbRc=h310",
+        "//lh3.googleusercontent.com/AI_wP-evg1afmP63iaRwgn1do4BDoUw7CoLmKQgAsMRWqJuiYHiZ77ixsP7Lb6NMUSo=h310",
+        "//lh3.googleusercontent.com/kQwYr7AtDL7g88226v3VNWODRDQLIliqRPfTDeTweBPFqHToRcpIrdblpeoz_cHUKw=h310"
+    ],
+    "video": "https://www.youtube.com/embed/u99lPbOgrzk",
+    "comments": [
+        "Like it a lot. I don't have an Android watch, glad to see that this works on a phone. The selection of colors and faces is nice, more would be welcome. Maybe add time of solar noon? For a while I thought the shadow was reversed, if you point 12  noon North, the shadow is correctly oriented.",
+        "Interesting view. Like the sunrise and sunset: bigger font than on F04 watch face. BUT...  the black font color of the sunrise/set times is unreadable on the dark blue background of the nighttime face. The color of the sunrise/set font should also switch at night, like the color of the time. I've only had the face for a day, so I don't recall if the date was also in an unreadable font color; if so, the same applies to that.",
+        "Nice one! Interesting idea! Beautiful colors. It’s a lot of fun also to change location on the map and see how the shadow and the hour lines change.",
+        "Wow, amazing. Never've seen such watches. Just cool! Love it :)"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.savefon.watch.sunwatch&hl=en&gl=us",
+    "appId": "com.savefon.watch.sunwatch"
+}

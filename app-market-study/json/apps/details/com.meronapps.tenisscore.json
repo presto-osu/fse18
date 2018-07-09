@@ -1,0 +1,50 @@
+{
+    "title": "Tennis & Padel Scoreboard",
+    "summary": "Keep track of score on your Android Wear Watch while you&#39;re playing tennis/padel",
+    "icon": "//lh3.googleusercontent.com/UiDGLtIsOw46OGUswI99JqTeYWKMTfrYaOCy8D_LZq097pHVeszzv_oJ9o2PH5KfU8o=w300",
+    "price": "$1.10",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3.8,
+    "reviews": 10,
+    "developer": "Meron Apps",
+    "developerId": "8652489291013372640",
+    "developerEmail": "meronapps@gmail.com",
+    "developerWebsite": "http://www.meronapps.com",
+    "developerAddress": "Madrid - Spain",
+    "updated": "January 20, 2016",
+    "version": "2.0.3",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Tennis Scoreboard is designed for Android Wear Devices to keep track of score while you're playing tennis or padel. This is the perfect app for anyone to don´t forget the score. It is a great tool for players, coaches, friends, and anyone who wants to follow the score of a tennis or padel match.This app has \"always-on\" on ambient mode to make it more useful while your are playing or watching a match and conserve battery.In addition, it's stand alone, you don't need your phone near to use the application on your watch. All games will be synchronised automatically on the phone. And you can share your results on your favourite social network (Facebook, Twitter, Google+...), via e-mail or text message.Compatible with square and rounded android wear watches.Tested on Moto 360, LG G Watch R and LG Watch.",
+    "descriptionHTML": "Tennis Scoreboard is designed for Android Wear Devices to keep track of score while you&apos;re playing tennis or padel. This is the perfect app for anyone to don&#xB4;t forget the score. It is a great tool for players, coaches, friends, and anyone who wants to follow the score of a tennis or padel match.<br><br>This app has &quot;always-on&quot; on ambient mode to make it more useful while your are playing or watching a match and conserve battery.<br><br>In addition, it&apos;s stand alone, you don&apos;t need your phone near to use the application on your watch. All games will be synchronised automatically on the phone. And you can share your results on your favourite social network (Facebook, Twitter, Google+...), via e-mail or text message.<br><br>Compatible with square and rounded android wear watches.<br>Tested on Moto 360, LG G Watch R and LG Watch.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XuaJ8KDLA4KFan6r2Bmtc-jnJXQ3VkDPDeEcO-qKuXlvaEvlq5gvQ7X9wSn1L8n4SA=h310",
+        "//lh3.googleusercontent.com/26vOtKLQ__RCg3-XI-CV6ncsnh6nUYfRY_-jqHtNzf-vclAtZe4ZOzGNNrmkR5idGOs=h310",
+        "//lh3.googleusercontent.com/oAc7LTdJqMShZxEukScvb9SuvzqpqyMFKaBxyMShddYjWTpl8V0gCcpDx-GKnQvQD7w=h310",
+        "//lh3.googleusercontent.com/Hx14RxrxpxjKDPhE7kI8PQgCdO0ucIC7sWMCM75-DaT10eweHdUN-OwrFEvL2Oysqt4=h310",
+        "//lh3.googleusercontent.com/DUAjSwMWy2s-0TS3hERWjG7wyGgDuosMt2y2On7K5CVoOEyRvQus_BndnEp0Dlbyb-k=h310"
+    ],
+    "comments": [
+        "A good start but missing features Easy and simple to use.  Can't change any settings,  so can't specify who starts serving,  when tie break happens,  or even how many sets to play. It's a good start but would appreciate some ability to change settings. When using the app it's also a bit too easy to give someone a point and a bit too hard to undo the point (by swiping up)."
+    ],
+    "recentChanges": [
+        "Bug fixes on tie break scoring"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.meronapps.tenisscore&hl=en&gl=us",
+    "appId": "com.meronapps.tenisscore"
+}

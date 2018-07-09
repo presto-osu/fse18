@@ -1,0 +1,52 @@
+{
+    "title": "WearLight- Android Wear",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh4.ggpht.com/YGYgbk_SMo-_4hq6l0m0_1ks1w4yDy5tx0fKpPNEHVwwebvDUyuZuRX18GQfknYQFpY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.5,
+    "reviews": 13,
+    "developer": "Brain Wave Apps",
+    "developerId": "Brain+Wave+Apps",
+    "developerEmail": "brainwave.apps@gmail.com",
+    "updated": "July 12, 2014",
+    "version": "1.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "A great simple app that lets you use the screen on your brand new Android wear watch!This app although simple is just the first of many great updates that will come adding functionality and new features!Please leave comments and email me any idea or problems!",
+    "descriptionHTML": "A great simple app that lets you use the screen on your brand new Android wear watch!<br><br>This app although simple is just the first of many great updates that will come adding functionality and new features!<br><br>Please leave comments and email me any idea or problems!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 5,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/7H_2465uzzPYxpMxDgqTwbyUVe0_8eHDjcOj7hdAiPlfOw-ZHq_P8JIvlLsm_6rAhN0=h310",
+        "//lh6.ggpht.com/DxeWTSL2xi9MEvtZf-Bux93iDZ3xxDwHIBmciLh76MAhD1dzar5kA4ES9oO-KziiiwbE=h310"
+    ],
+    "comments": [
+        "Handy, needs brightness override This is a really handy app. I have used my watch as a flashlight for a while now. But now being able to stay \"open flashlight\"  is so much easier. I only wish that this had a way of automatically overriding with brightness to brightest or even having a brightness toggle or slider. Thanks for the cool app.",
+        "Icon is black Could not talk you into modifying the icon so I can see it on a black background?",
+        "Perfect! Voice trigger updated, awesome ☺ Just what I was looking for, does the job perfectly and with minimal fuss.",
+        "Simple and perfect. Just what I was looking for.",
+        "Sympli good",
+        "Straightforward and it works, but... It would get 5 stars if it turned up the device's brightness as well. (And turned it back to the previous setting on exit). Without this you may as well just go to the launch menu with a tap and swipe."
+    ],
+    "recentChanges": [
+        "1.2 ** Now Just Say \"Open flashlight\" ! To avoid google voice recognition errors.**",
+        "1.1.1 **Fixed Multiple apps appearing on watch bug**",
+        "1.1**Fixed Icon Bug**"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=apps.brainmave.matthew.wearlight&hl=en&gl=us",
+    "appId": "apps.brainmave.matthew.wearlight"
+}

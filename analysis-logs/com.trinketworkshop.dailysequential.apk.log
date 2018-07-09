@@ -1,0 +1,89 @@
+Soot started on Thu Jun 21 12:20:36 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.trinketworkshop.dailysequential.DailySequential
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.trinketworkshop.dailysequential.apk
+[INFO] MySceneTransformer: ############## com.trinketworkshop.dailysequential.DailySequential$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   118
+[INFO] FlowGraph: @@@@ Total Methods: 596
+[INFO] FlowGraph: @@@@ Total Stmts:   10625
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trinketworkshop.common.WatchFaceView]9184,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 4.221000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:20:44 EDT 2018

@@ -1,0 +1,57 @@
+{
+    "title": "Unwin Compass",
+    "summary": "A small compass app. Made to help me learn about the sensors in the Android API.",
+    "icon": "//lh4.ggpht.com/eO4hSUZWWG9PumHMxyeVwjWTuUPaAM-4eHBsqwPYsJdiKVvPzM8tY0qKUJwhOaIeqiw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.4,
+    "reviews": 345,
+    "developer": "Frank Unwin",
+    "developerId": "Frank+Unwin",
+    "developerEmail": "unwin100@gmail.com",
+    "developerAddress": "503 Manchester Road\nWardley Swinton\nM27 9QN",
+    "updated": "November 19, 2014",
+    "version": "5.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This is my first actual good looking app.....ish. Made to teach myself about Android Sensors in app development only took me about an hour to make this. With the help of our team graphics designer - Josh Greenhough who made the compass design.",
+    "descriptionHTML": "This is my first actual good looking app.....ish. Made to teach myself about Android Sensors in app development only took me about an hour to make this. With the help of our team graphics designer - Josh Greenhough who made the compass design.",
+    "histogram": {
+        "1": 66,
+        "2": 30,
+        "3": 63,
+        "4": 76,
+        "5": 110
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/eRjSNkDScQ3t3xSKkmbkskY1GLOjz6oIKdju7X8uvpLMf3nVs1_IwQMymaVXyOEzwQs=h310",
+        "//lh5.ggpht.com/eYVmxa_3QNgpraDI1AlIHGtAeZHPv819T9UYhQdY9Pdn8m_cG9j9LvqdBL8Xs3lIrDs=h310",
+        "//lh4.ggpht.com/rVE931QCgjFG9zbgq9nQRoDvUdibqjVyDYhz_wPc6639B7XcJBdMHR2C0LPMwtQ4AQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/NgVW-35idMY",
+    "comments": [
+        "Shows different direction on watch.  Update: @Frank Unwin- \"I think other wise\"?  A user has a complaint about your product, and your answer is to tell them they are wrong?  WOW.  Your app does not work on my watch.  Simple fact.  Update:  he replied and still failed to address the issue, just asked for money.  Maybe he should spend more time fixing problems instead of attacking reviews and soliciting money as stated in the post rules.  ZERO STARS!",
+        "watch shows wrong direction The watch moto360 is exactly 90 degrees off of a real compass.   Phone is right.   Seems unlikely that is a hardware limitation if it's always 90 degrees off",
+        "Moto 360 issue is hardware fault Compasses don't consistently work on the moto 360 due to an different hardware limitation. My understanding is this is not the developer's fault. 3 stars as it doesn't give the bearing in numbers on my moto 360, just the compass needles.",
+        "Not pointing to North on Moto360 In phone it points to North correctly, but in my Moto360 it doesn't. Useless.",
+        "Not even close!! On my phone (MotoX 2nd Gen. / Android 5.0) it is accurate. However on my Moto360 (Android 5.0.2) it is way off. When it says north I am actually facing southeast. I have tried it several times, followed instructions on trying to increase accuracy, but will not calibrate correctly!! Why??",
+        "Doesn't work Just simply doesn't work.  Re: it doesn't point north. And when you rotate or move at all the needle doesn't stay in place. It moves with the phone and when I stop moving it doesn't point back towards north."
+    ],
+    "recentChanges": [
+        "**Please note that it may take up to 10 seconds on launch for the compass to calibrate and set itself.",
+        "V 5.6",
+        "- Tweaked colours slightly, for visibility.",
+        "- Increased text size, for visibility.",
+        "- Updated to Material Design."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.unwin.compass.compass&hl=en&gl=us",
+    "appId": "com.unwin.compass.compass"
+}

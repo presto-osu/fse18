@@ -1,0 +1,60 @@
+{
+    "title": "Heart Rate OS - Android Watch",
+    "summary": "Got smart watch?It&#39;ll be a waste if it&#39;s not periodically check your heart rate",
+    "icon": "//lh3.googleusercontent.com/4zw8kSeiT_4mybRYPhIeWWlcZEMgdY18WDeltXMQ_ObbTkJpIwTEQF5tnNTnwS7sUTE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4,
+    "reviews": 971,
+    "developer": "LFApp",
+    "developerId": "LFApp",
+    "developerEmail": "liem.future.app@gmail.com",
+    "developerWebsite": "http://forum.xda-developers.com/android-wear/general/app-heart-rate-os-android-wear-google-t3031964",
+    "developerAddress": "Jl Agung Utara 18\nBlok A 16A No. 5\nJakarta",
+    "updated": "July 2, 2016",
+    "version": "0.5.1",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Got smart-watch?It'll be a waste if it's not periodically check your heart rateWhat HROS forHeart Rate OS is a must have tool for android wearable smart-watch owner.Everyone will curious about his/her heart rate across the day:- How much is my highest/lowest heart rate?- When was my highest/lowest heart rate occurred?- Is it having a pattern?- How my heart rate compared with my step history- Notification when my heart rate below minimum or above maximum- EtcAnd what cool is all your heart rate data will be sync to your Google Fit account combined with other Google Fit data.Common FAQ1. What kind of smart-watch do I need?-> HROS will only work with Android wearable watch: Moto 360, LG G Watch R, Huawei Watch and other android wear watch with heart rate sensor. HROS does not work on Samsung Gear and smart watches using other operating systems. Tizen devices as Gear-Fit and Gear II are not supported. Please do not give bad rating because of it.2. Why it's not working on my watch?-> Please email via app menu send feedback, and include this information:     - Your watch model    - Do HROS app shown on your watch (try to sync with Android wear if it's not shown)    - Do the green light triggered on your watch when you manually check the heart rate from phone/watch2. My automatic heart rate check is not working?-> If you tried manual checking working, automatic hear rate check should be work. Please try to tighten your band and select more frequent checking.3. What should I do if I have question/crash?-> Write me email from menu \"Send feedback\" or go to HROS xda forum for discussion (http://forum.xda-developers.com/android-wear/general/app-heart-rate-os-android-wear-google-t3031964)What's nextHeart Rate OS is still beta and new feature will keep coming.- Summary report of your heart rate- Add integration to automation/tasker- Work-out mode- Connect to other 3rd party fitness app - More options- Etc",
+    "descriptionHTML": "Got smart-watch?<br>It&apos;ll be a waste if it&apos;s not periodically check your heart rate<br><br><b>What HROS for</b><br>Heart Rate OS is a must have tool for android wearable smart-watch owner.<br>Everyone will curious about his/her heart rate across the day:<br>- How much is my highest/lowest heart rate?<br>- When was my highest/lowest heart rate occurred?<br>- Is it having a pattern?<br>- How my heart rate compared with my step history<br>- Notification when my heart rate below minimum or above maximum<br>- Etc<br><br>And what cool is all your heart rate data will be sync to your Google Fit account combined with other Google Fit data.<br><br><b>Common FAQ</b><br>1. What kind of smart-watch do I need?<br>-&gt; HROS will only work with Android wearable watch: Moto 360, LG G Watch R, Huawei Watch and other android wear watch with heart rate sensor. HROS does not work on Samsung Gear and smart watches using other operating systems. Tizen devices as Gear-Fit and Gear II are not supported. Please do not give bad rating because of it.<br><br>2. Why it&apos;s not working on my watch?<br>-&gt; Please email via app menu send feedback, and include this information: <br>    - Your watch model<br>    - Do HROS app shown on your watch (try to sync with Android wear if it&apos;s not shown)<br>    - Do the green light triggered on your watch when you manually check the heart rate from phone/watch<br>2. My automatic heart rate check is not working?<br>-&gt; If you tried manual checking working, automatic hear rate check should be work. Please try to tighten your band and select more frequent checking.<br>3. What should I do if I have question/crash?<br>-&gt; Write me email from menu &quot;Send feedback&quot; or go to HROS xda forum for discussion (http://forum.xda-developers.com/android-wear/general/app-heart-rate-os-android-wear-google-t3031964)<br><br><b>What&apos;s next</b><br>Heart Rate OS is still beta and new feature will keep coming.<br>- Summary report of your heart rate<br>- Add integration to automation/tasker<br>- Work-out mode<br>- Connect to other 3rd party fitness app <br>- More options<br>- Etc",
+    "histogram": {
+        "1": 100,
+        "2": 46,
+        "3": 65,
+        "4": 311,
+        "5": 449
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Pv0s40oN-VayFTvPFCLCBlcbYYSi3eGDbQfY2_427VMZuMQ7J3fdd2pJRrQKnadkRp0=h310",
+        "//lh3.googleusercontent.com/zf4z9JleIThXPmSkwN-PUrU5ODUIHZWe-RVGcNLWDiKr8VyGMbH_iugLSvC3D4AX-ZXr=h310",
+        "//lh3.googleusercontent.com/E_DkaMaMw26ZEqvReQ3azios0Sxn9BbVihPn6Aeq1uFosEv0L6iCIsExqIfzipSsWHU=h310",
+        "//lh3.googleusercontent.com/6zqxHQA5gOryK_s3uab4_zyIhLln5UrA8bWzyJMnlUSYaZMvqyx7eiM2om_k7Esql2k=h310",
+        "//lh3.googleusercontent.com/W6y-OoXbajDUbnJa1UfX7lUZdlS1YWKXDlpCafl3YAyKVFbZe_yd6lPtniP_UvOMSO4=h310"
+    ],
+    "comments": [
+        "Moto 360 gen 2 Sometimes it crashes my Moto 360.        Edit: Upgraded to Moto 360 gen 2 and Android 6.0.  It works perfectly now and actually does what I wanted it for which is monitor my heart rate during long bike rides. I do hope the developers make it so it can measure my heart rate every 5 or 10 minutes though instead of just every 30. Continuously might be pushing the battery too much, but it still works great.",
+        "Figured it out. GREAT! So I figured out why I was having so much trouble. You MUST leave it running at ALL times in the background, and you have to start it manually whenever you start up your phone. It works flawlessly as long as it is running. Add it to your exempt list if you use a task killer.",
+        "In the app fix list there is written that this version fixes heart rate check on Huawei but it does not. I have a huawei watch and even if you set the \"checking timeout\" at 30 secs the app hangs after some time. The heart rate sensor stays lighten up indefinitely and the app does not measure anything. The only way to unlock the situation is to run a check with the \"huawei heart rate app\".  Anyway please fix it. I bought the pro version because the apps is very promising but if it continue with this trend, I think I will really uninstall it.    For now I will give 2 stars. If the problem I mentioned will be fixed I will gladly give 5.",
+        "Great for forcing heart rate readings on watches that don't periodically check it. It doesn't increase battery use by much on my Huawei watch either.  It will occasionally cause the HR sensor to crash if sleep as Android takes control of the sensor overnight.  I will have to restart the watch to fix it.",
+        "Visuals This app works well as promised. But I think it would benefit from a material design overhaul. Do that, and I will buy pro dev please respond, edit, no response, switched to heart trace, check it out guys",
+        "Not as accurate as it used to be Recently a fix was put in for Huawei watch and now it is not accurate for LG Urbane. Also, no way to schedule multiple off times other than just 1. Paid for full version but still lacks features. Can't get dev to respond to emails."
+    ],
+    "recentChanges": [
+        "*Hot fix for LG watch",
+        "Version 0.5.1:",
+        "- Improve heart rate detection accuracy and speed",
+        "- Fix heart rate check on Huawei",
+        "- Add setting for maximum heart rate check waiting time",
+        "- Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jwork.wearable.heartratesync2&hl=en&gl=us",
+    "appId": "com.jwork.wearable.heartratesync2"
+}

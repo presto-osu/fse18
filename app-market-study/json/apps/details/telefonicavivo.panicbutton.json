@@ -1,0 +1,51 @@
+{
+    "title": "Send Help GPS Locator",
+    "summary": "Wear/phone alert button to notify contacts of location in case of emergency",
+    "icon": "//lh3.googleusercontent.com/mGdyugiaGCkpB3M6JYO8NLPNDCF6daRo0yu5hbWNQ0zP_J4yyQEQUbmk818hhCRfUoc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 16,
+    "developer": "Stoked Studios",
+    "developerId": "Stoked+Studios",
+    "developerEmail": "stokedtechnologies@gmail.com",
+    "developerWebsite": "https://www.facebook.com/pg/stokedstudios",
+    "developerAddress": "San Jose, CA",
+    "updated": "April 13, 2016",
+    "version": "9.0",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "description": "Alert button for smartphone & smartwatch to notify contacts of GPS location in case of emergency. Save a contact number in the app using the settings button and it is ready for an emergency. In case of emergency just tap the \"send alert\" button and the message \"Please send help, my location is: your address and your latitude, your longitude\" is sent to your contact number. Use the smartwatch feature to send for help even if your phone is in your pocket or purse! The alert message can be sent in less than 2 seconds, a must have feature in case of emergency. This app is a must have for people that need protection, children, seniors, dementia and Alzheimer patients. Get this app and protect yourself and your family, it's a life saver! Great for remote locations with limited emergency services.Features- GPS and address location sent automatically- Stores phone number and load when the app is started- Wear fall detector and impact detector sends a message if a fall or a large force is detected- Wear disconnect detector: when phone and watch disconnect, an alert is sent to the stored phone#. Great for wandering seniors or children- Tested on Moto 360 smartwatchTerms of Use: Software as is without guarantee. For supplemental, educational purposes only. In case of emergency contact local authorities. No liability is assumed by developer or any party.",
+    "descriptionHTML": "Alert button for smartphone &amp; smartwatch to notify contacts of GPS location in case of emergency. Save a contact number in the app using the settings button and it is ready for an emergency. In case of emergency just tap the &quot;send alert&quot; button and the message &quot;Please send help, my location is: your address and your latitude, your longitude&quot; is sent to your contact number. Use the smartwatch feature to send for help even if your phone is in your pocket or purse! The alert message can be sent in less than 2 seconds, a must have feature in case of emergency. This app is a must have for people that need protection, children, seniors, dementia and Alzheimer patients. Get this app and protect yourself and your family, it&apos;s a life saver! Great for remote locations with limited emergency services.<br><br><br>Features<br>- GPS and address location sent automatically<br><br>- Stores phone number and load when the app is started<br><br>- Wear fall detector and impact detector sends a message if a fall or a large force is detected<br><br>- Wear disconnect detector: when phone and watch disconnect, an alert is sent to the stored phone#. Great for wandering seniors or children<br><br>- Tested on Moto 360 smartwatch<br><br><br><br><br>Terms of Use: Software as is without guarantee. For supplemental, educational purposes only. In case of emergency contact local authorities. No liability is assumed by developer or any party.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 4,
+        "4": 4,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/dul_evdQaAWnF7iWD4Ta-5keC-1aRx6KxZ9qCicll3cj0DkINW_TpGVsySIQdC0zLAY=h310",
+        "//lh3.googleusercontent.com/8GDsQ40SDkXMowsG5y-qqVZf0RLBOe00w0MEymnBEgaq2FwG-11rXNBBbXUk5uWASKE=h310",
+        "//lh3.googleusercontent.com/ySSCIBRtdm-qOKisoEzQF96KpCA_xYf5cVOayGDqR3rWf-7ob_-9pbAV1UAR1ezpzjQ=h310",
+        "//lh3.googleusercontent.com/ewQsAlRuK0B2dTAcKngdhv0Z1lTmY0zQ_Qij9gbCgLpzbl1VVwNKZ1VPAE7t-_GUNXk=h310",
+        "//lh3.googleusercontent.com/FEcAeCJ4xBBv5QbtjtwD2HDZRYTpy11Cl1VCKFO3tiqXEChrkQxpXFntvx8fZ0keAw=h310"
+    ],
+    "comments": [
+        "Good app but cannot delete contact after it is added. Also adds are a bit invasive.",
+        "Best app Great app for older people, women and children.  Especially if you dont know where you are and want to immediately send help to your location.  Great idea and kudos to the developer!"
+    ],
+    "recentChanges": [
+        "- UI update (toggle sound, toggle tweeting)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=telefonicavivo.panicbutton&hl=en&gl=us",
+    "appId": "telefonicavivo.panicbutton"
+}

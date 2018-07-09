@@ -1,0 +1,181 @@
+Soot started on Thu Jun 21 12:20:30 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.trigonesoft.paranormal.WatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.trigonesoft.paranormal.apk
+[INFO] MySceneTransformer: ############## com.trigonesoft.paranormal.WatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   39
+[INFO] FlowGraph: @@@@ Total Methods: 96
+[INFO] FlowGraph: @@@@ Total Stmts:   2089
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1), (register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1), (register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1), (register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1), (register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1), (register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,4)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([0,-16777216])
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.trigonesoft.paranormal.Renderer]359,-1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[0, -16777216], $r5_4=[16777215], $r5_5=[-16777216, 16777215], $r1=[0, -16777216], $r5_3=[0]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[0, -16777216], $r5_4=[16777215], $r5_7=[16777215], $r5_3=[0]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [4] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [4] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: TOTAL TIME: 2.399000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:20:35 EDT 2018

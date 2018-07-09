@@ -1,0 +1,45 @@
+{
+    "title": "Morse Code Watch Face",
+    "summary": "Neat watch face that displays time in Morse Code!",
+    "icon": "//lh3.googleusercontent.com/r7Cw39nn8rq83bXLJ2gQyZsiEBrkoOeypQ6gHyhvxnxAF9ob7W3S4-j5qfJjNyDLVoE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4,
+    "reviews": 2,
+    "developer": "Monte Richardson",
+    "developerId": "Monte+Richardson",
+    "developerEmail": "monte_richardson@hotmail.com",
+    "updated": "January 2, 2017",
+    "version": "1.6",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A neat little watch face for your Android Smart Watch! Displays the time in Morse Code! The top line is the hours (in 24 hour time) and the bottom line is the minutes. Each number in Morse code (0 - 9) is some combination of five dashes and dots. For example, zero is simply five dashes (-----), whereas the number five is five dots (.....). So a time like 12:34 PM (or in 24 hour time, 13:34) would display like this:.--- ...--...-- ....-And that would be the time! Please enjoy!",
+    "descriptionHTML": "A neat little watch face for your Android Smart Watch! Displays the time in Morse Code! The top line is the hours (in 24 hour time) and the bottom line is the minutes. Each number in Morse code (0 - 9) is some combination of five dashes and dots. For example, zero is simply five dashes (-----), whereas the number five is five dots (.....). So a time like 12:34 PM (or in 24 hour time, 13:34) would display like this:<br><br>.--- ...--<br>...-- ....-<br><br>And that would be the time! Please enjoy!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/vzDWkgmUhFbQgiNXCCEge_l6W5hGo2Z0QK5sMEbDxHWXDJDIgHQoO8QhE_ZqfYiDX1rp=h310",
+        "//lh3.googleusercontent.com/KwHnvbK3ZeOv4Z3XSQwbzA-Dj0EsKvVQzS1l9lC2vkFEymakAXhFWFt-uMdhp_8H4ITp=h310"
+    ],
+    "comments": [
+        "Fun App Enjoying this app, it's different!"
+    ],
+    "recentChanges": [
+        "Expanded number of supported devices. Remember, however, this is a watch face, and only meant to be used on Android Smart Watches."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=monte.morsewatch&hl=en&gl=us",
+    "appId": "monte.morsewatch"
+}

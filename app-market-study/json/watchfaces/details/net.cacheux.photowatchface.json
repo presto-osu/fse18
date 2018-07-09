@@ -1,0 +1,55 @@
+{
+    "title": "Photo Watchface",
+    "summary": "Your watch, your pictures",
+    "icon": "//lh3.googleusercontent.com/KZVVmo335NFU0fSWsWcoRYs4qHoZ6gbiX53lZCBZdnaVEekJGYlUIrXKPjFOaMRL22E=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 24,
+    "developer": "Léo Cacheux",
+    "developerId": "L%C3%A9o+Cacheux",
+    "developerEmail": "leo.cacheux@gmail.com",
+    "developerWebsite": "http://leo.cacheux.net",
+    "updated": "September 18, 2015",
+    "version": "1.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Choose any picture from your gallery, setup the time display with simple parameters, and your watchface is ready !Photo Watchface is the simpliest way to customize your Android Wear watch with the pictures you want.",
+    "descriptionHTML": "Choose any picture from your gallery, setup the time display with simple parameters, and your watchface is ready !<br><br>Photo Watchface is the simpliest way to customize your Android Wear watch with the pictures you want.",
+    "histogram": {
+        "1": 6,
+        "2": 2,
+        "3": 1,
+        "4": 7,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-VaUBNqmjYpvv1GmTcLW9u3mqaetVom1m2ZTRqWOwKeSNQEckByP8l4acjLxjz5SMn4h=h310",
+        "//lh3.googleusercontent.com/lLbMoebTy8KgC6-i-sLtqw8YzexSt5AdLL8MAL3QcCuRh6sOrOyr38S9itN9R7yEwIA=h310",
+        "//lh3.googleusercontent.com/y54JDKd-FZe1k_W4IAHmb9n0D6oCjrsSHe1DE5IDb4h0wKG9GJJTpBe9H_WfBlxCFTI=h310",
+        "//lh3.googleusercontent.com/MYykmaLPAaqUckt2iR6H4R9jmpd9eOrlUzXIErm9UNO28uz_U4RabC_JgHbMSuC5HDYy=h310"
+    ],
+    "comments": [
+        "Works Great Best of the photo watch faces that I have found. The time can be moved, resized and color/transparency adjusted to best display your photo and remain useful. I'm using it with an Asus ZenWatch and displaying Halloween wallpapers downloaded from Zedge for the month of October.",
+        "Doesn't work  Choosing a picture doesn't change it on the watch (Huawei Watch)",
+        "Lovely app. Works well with my MOTO 360 2nd gen watch. I will give you a 5 STAR",
+        "How to open it? The screen only show uninstall",
+        "Huawei Watch issuss When I chose the photo for the watch face, it just presented with a black screen. Running Android 7.1. Huawei Watch."
+    ],
+    "recentChanges": [
+        "New options :",
+        "- Disable background in ambient mode",
+        "- Display time in 12 or 24 hours",
+        "Adjust margins for round watches"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.cacheux.photowatchface&hl=en&gl=us",
+    "appId": "net.cacheux.photowatchface"
+}

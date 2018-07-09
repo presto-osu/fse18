@@ -1,0 +1,54 @@
+{
+    "title": "Life Watch Face",
+    "summary": "Get hypnotized with this geeky interactive watch face.",
+    "icon": "//lh3.googleusercontent.com/vQIbo_cWoWv5E3eSSebEf0CHTb98ymxN0SQ1I8CE6AqnL6ZQmMx3L5Y1mZKUWmnJxA=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3.8,
+    "reviews": 8,
+    "developer": "ATEKTURA/",
+    "developerId": "5566278677903777243",
+    "developerEmail": "kontakt@atektura.pl",
+    "developerWebsite": "http://atektura.pl",
+    "developerAddress": "Monte Cassino 25/2\n70-467 Szczecin, Polska",
+    "updated": "June 30, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Get hypnotized with this geeky interactive watch face.Very simple at a glance, eye catching with a tap.\"Game of life is a cellular automaton devised by the British mathematician John Horton Conway in 1970.\" / WikipediaThis watchface uses simple Conway's algorithm to process pixelated time representation, giving you 2880 different, fascinating transformations.Get excited with Conway's algorithm:\"The universe of the Game of Life is an infinite two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead. Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:Any live cell with fewer than two live neighbours dies, as if caused by under-population.Any live cell with two or three live neighbours lives on to the next generation.Any live cell with more than three live neighbours dies, as if by over-population.Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.\" / WikipediaSupported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.ATEKTURA Watch Faces on Google+https://plus.google.com/u/0/b/106084399129186124597/106084399129186124597/posts",
+    "descriptionHTML": "Get hypnotized with this geeky interactive watch face.<br><br>Very simple at a glance, eye catching with a tap.<br><br>&quot;Game of life is a cellular automaton devised by the British mathematician John Horton Conway in 1970.&quot; / Wikipedia<br>This watchface uses simple Conway&apos;s algorithm to process pixelated time representation, giving you 2880 different, fascinating transformations.<br><br>Get excited with Conway&apos;s algorithm:<br>&quot;The universe of the Game of Life is an infinite two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead. Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:<br><br>Any live cell with fewer than two live neighbours dies, as if caused by under-population.<br>Any live cell with two or three live neighbours lives on to the next generation.<br>Any live cell with more than three live neighbours dies, as if by over-population.<br>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.&quot; / Wikipedia<br><br>Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.<br><br>ATEKTURA Watch Faces on Google+<br>https://plus.google.com/u/0/b/106084399129186124597/106084399129186124597/posts",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/vpxZ6cVAxIEqE107a9ZJ7ImDJUWDCVcdhggn5jAfWinO6OekIuDVkS6sd5BcLT1H1wg=h310",
+        "//lh3.googleusercontent.com/GTzCLUUwmq1ryLRPNQiLqsjhRZqPil5_HQlPPjJVPv9Gazl7uyizswIyMmfQNUY7tw=h310",
+        "//lh3.googleusercontent.com/vkMfOzPbBe4n_nG4OHXOjLZVNgQGsNPC5E-5waP2Ft9JSxD8ClGKvF3vxiY8Nqk0OGQ=h310",
+        "//lh3.googleusercontent.com/nXGICXWj0uOVr93joVzYJLDS7gS6aGK4mHLmKANO1938DHu6ARZhBjju6l3sz87XdUk=h310"
+    ],
+    "video": "https://www.youtube.com/embed/UfET3kKbC1o",
+    "comments": [
+        "Works Animation still eventually hangs if let it run for more than a few seconds. (Is it supposed to do that?) Time now correctly displays after the watch's screen turns up, so its functional now.",
+        "Amazing idea ans implementation I love Conway's Game of life(as any nerd does) and was happy to pay for this app. Once i realized that it used the time ss the initial configuration I was supremely impressed. What a wonderful watch face.",
+        "Cool Just Bought It And Its Really Cool I Recommend It! :D"
+    ],
+    "recentChanges": [
+        "v1.2",
+        "- Android Wear 2.0 support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.atektura.gameoflifewatchface&hl=en&gl=us",
+    "appId": "com.atektura.gameoflifewatchface"
+}

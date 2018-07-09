@@ -1,0 +1,214 @@
+Soot started on Thu Jun 21 13:25:21 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: pl.nwg.dev.wear.rambler.ClassicWatchFace
+[INFO] MySceneTransformer: WatchFaceService:::: pl.nwg.dev.wear.rambler.ActiveWatchFace
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/pl.nwg.dev.wear.rambler.apk
+[INFO] MySceneTransformer: ############## pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   560
+[INFO] FlowGraph: @@@@ Total Methods: 3380
+[INFO] FlowGraph: @@@@ Total Stmts:   70133
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,19)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ActiveWatchFace$Engine]7291,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: ############## pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,-1), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,2), (register_sensor_listener,This[pl.nwg.dev.wear.rambler.ClassicWatchFace$Engine]20485,1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2] [[<null::SELECT::interactive>, <interactive::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1, 2] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.standby()
+[INFO] MySceneTransformer: TOTAL TIME: 38.232000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:26:03 EDT 2018

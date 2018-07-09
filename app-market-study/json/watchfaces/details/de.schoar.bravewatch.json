@@ -1,0 +1,53 @@
+{
+    "title": "BRAVE Watch",
+    "summary": "The ultimate watch face for BRAVE Eve pilots!",
+    "icon": "//lh6.ggpht.com/nvDeO3FIyG9jxFE_bAlpXFS-zd8Tj3jMl-BEHmq3PlzQfIOyLdCInTGGniwFjG1d7w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 15,
+    "developer": "Simon Schoar",
+    "developerId": "Simon+Schoar",
+    "developerEmail": "android@schoar.de",
+    "developerWebsite": "http://www.schoar.de",
+    "updated": "December 15, 2014",
+    "version": "0.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "The ultimate watch face for BRAVE Eve pilots!* Show off your BRAVE affiliation on your shiny wearable device* We all know that Eve is real, time to make UTC the timezone you live inWarning: This watch face always shows time as UTC/GMT/Eve time!",
+    "descriptionHTML": "The ultimate watch face for BRAVE Eve pilots!<br><br>* Show off your BRAVE affiliation on your shiny wearable device<br>* We all know that Eve is real, time to make UTC the timezone you live in<br><br>Warning: This watch face always shows time as UTC/GMT/Eve time!",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/De8lPMtnPuGqm7Y6xYLYDTBLSf0j9N9uZxwHCohVq4I13uM2HW3ESXqDSNwbOZthlus=h310",
+        "//lh4.ggpht.com/sG8vjUNQOSSgxZHnXmTG9WKjoPTSSeYLbQ1av5Lah4l7XijeMWu2lPU8kdT_DeW56GQ=h310",
+        "//lh4.ggpht.com/GQv2JGlLUI4SlMYPa2pJHatOuH9Q5DiA1-Gs9Mk6apgalq-mksHUfZmHJqHghD6w58Sv=h310"
+    ],
+    "comments": [
+        "When I look at my wrist, I know it's time to fly dangerously   7o",
+        "Interchangeable colors? The ability to change the accent colors would be nice, or maybe just variants of the application with different colors.",
+        "Love it Really enjoy it, pictures show it all",
+        "Does not show up in android apps",
+        "7o",
+        "Love it!"
+    ],
+    "recentChanges": [
+        "* Deliver two watch faces (UTC vs local time)",
+        "* Show both TZ in one face"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.schoar.bravewatch&hl=en&gl=us",
+    "appId": "de.schoar.bravewatch"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Emergency Alert for Wear",
+    "summary": "Message your loved ones in the case of an emergency, right from your watch",
+    "icon": "//lh6.ggpht.com/rjA1uMhD6cTQdmWKTHBUNH4XCkX8sz-rd2ZoKvJTpBvba6hcmIPoYaKCohx7qXj4Ig=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 51,
+    "developer": "Daniel Velazco",
+    "developerId": "Daniel+Velazco",
+    "developerEmail": "playstore@danvelazco.com",
+    "developerAddress": "No",
+    "updated": "June 7, 2015",
+    "version": "1.5",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "description": "Utility application for Android Wear. Installs an app on your watch to be able to send an emergency alert message via SMS to a pre-defined recipient. The Android application allows you to configure the phone number of your predefined emergency contact, as well as the option to send your current location to said recipient.You can start the app on the watch by going to the \"Start\" menu (slow double tap on the home screen, then scroll all the way to the bottom), or with the voice command, \"Ok Google, start Emergency Alert\"Beware: Please test it in advance. This depends on your carrier's coverage since the messages are sent via SMS and requires network coverage. I am not liable for any message that is not sent, for any reason.",
+    "descriptionHTML": "Utility application for Android Wear. Installs an app on your watch to be able to send an emergency alert message via SMS to a pre-defined recipient. The Android application allows you to configure the phone number of your predefined emergency contact, as well as the option to send your current location to said recipient.<br><br>You can start the app on the watch by going to the &quot;Start&quot; menu (slow double tap on the home screen, then scroll all the way to the bottom), or with the voice command, &quot;Ok Google, start Emergency Alert&quot;<br><br>Beware: Please test it in advance. This depends on your carrier&apos;s coverage since the messages are sent via SMS and requires network coverage. I am not liable for any message that is not sent, for any reason.",
+    "histogram": {
+        "1": 3,
+        "2": 2,
+        "3": 7,
+        "4": 15,
+        "5": 24
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/sYAogs-WnoHAluMjeHolEHlJdngt9iKcf6WuKJ6rJ6Sb9OUIGJgNjMRmpM6IA6pi0mA=h310",
+        "//lh4.ggpht.com/7OdeiEVoeUN6mFLCQ1LuwG5mgtV35FJxvTwzDYfW7ljxs1OKcvoovmGEDFdKnMRZ0X9Y=h310",
+        "//lh3.ggpht.com/_fjv1MKlsaxfu-3c56IWr-83HWYTRqqrDr8UQhaY4UzDDedth_9f4pqI5Gt8azxEA04=h310",
+        "//lh5.ggpht.com/kiho0PFNi0t1tyBGxbRShImW4sMU9cKqiFUkceF8qewEB_9yaCFq2mohsDckgMyGvws=h310"
+    ],
+    "comments": [
+        "Its ok. Uncomplicated app that works. I agree with the other reviews that the limitation of only one recipient is a failing. If that one person doesn't see the sms for whatever reason the alert could be overlooked. The delay on the watch allowing time to cancel could be longer its little more than one second. Five seconds might be better.  Another app like this one has an option to message recipients that the sender is safe and the emergency has passed etc which seems like a useful inclusion. Would like to see a dedicated watch face/complication to make access to the app visually simple. The use of google assistant is a great idea, have yet to try it.",
+        "I own a LG Urbane 2nd Edition W200 smart watch. I installed your \" Emergency Alert for Wear\" app. As you might know, the LG Urbane 2nd Edition can work autonomously without a phone connected. It is equipped with its own SIM card. Now you write in the \" WHAT'S NEW\" section \" - Only show a success message if the watch is connected to a phone.\". Is this true with the LG Urbane 2nd Edition as well? If yes, it was a drawback, as in the field I use to walk without the phone. Also it might have been stolen or got lost or became not functional due to an accident. In such cases it was maybe a lifesaver and therefore a significant improvement to your app, was such a function available on the watch without a connection to a phone. The number of smartwatches with a SIM card increases every season. So maybe you'll think about making this possible.",
+        "Works good, needs ability for more numbers Works great on moto 360 2 but really need ability to do more than one number on settings",
+        "PERFECT for Smartwatch wearers to alert someone via text in case of emergencies. Very quick and easy to alert within 1 second, faster than 911.",
+        "Works well and does what it says it will do. However I wish you could send notifications to multiple phone numbers.",
+        "Terrific app Thank you very much!  I'm a senior and this app is invaluable to me.   Works great!"
+    ],
+    "recentChanges": [
+        "- Bug fixes",
+        "- Add ability to replace delayed confirmation button with a manual confirmation button on wear app.",
+        "- Only show a success message if the watch is connected to a phone."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.danvelazco.android.wear.emergencyalert&hl=en&gl=us",
+    "appId": "com.danvelazco.android.wear.emergencyalert"
+}

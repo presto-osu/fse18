@@ -1,0 +1,48 @@
+{
+    "title": "Yosemite motion watch face",
+    "summary": "Yosemite watch face with minimal design",
+    "icon": "//lh3.googleusercontent.com/STW6oPk-wJNnrPNy2ei9ODm7nyQsDwq2EE0u3Z2oW13B8dPBStpxcrWoFh8tkM7PkVYz=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 6,
+    "developer": "Ammarptn",
+    "developerId": "7414952821763503585",
+    "developerEmail": "ammarptn@gmail.com",
+    "developerWebsite": "http://ammar.lanui.online",
+    "developerAddress": "Pattani 94000",
+    "updated": "October 25, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Yosemite watch face is the free watch face for android wear it shows the time and motion of river flow that may make you feel relax - 12/24 hour format (change in the river watch setting menu)- Mobile companion app is coming soon.enjoy the Yosemite.Font: The Medic by Viktor Hammarberg (http://www.viktorh.com/)Motion footage from http://www.wedistill.io/",
+    "descriptionHTML": "Yosemite watch face is the free watch face for android wear <br>it shows the time and motion of river flow that may make you feel relax <br><br>- 12/24 hour format (change in the river watch setting menu)<br>- Mobile companion app is coming soon.<br><br>enjoy the Yosemite.<br><br>Font: The Medic by Viktor Hammarberg (http://www.viktorh.com/)<br>Motion footage from http://www.wedistill.io/",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/BOjS04Dt6wW2g6LrV7H5h0ZlfZofsKDQV85fNIQBtr_sVJgtc9hTWJ9DrlTphYMJyZT1=h310",
+        "//lh3.googleusercontent.com/AYokkg6JaR1KrR8SUSUYQXQtfmiLcyU8pO-lXTJLjc1POC9zGJHdp7ci48iQaZBdSQ=h310",
+        "//lh3.googleusercontent.com/n8A58Z2m4jfTV0_K4e3hHr8cbf6UIF4lw1lGAsZCa1uNM7BP0bt1CElOH2jZnZDWbw=h310",
+        "//lh3.googleusercontent.com/TeW4bvqzN518Gfha0-fXvTYKcocaRFcNR30OXhK8XEDSEDUOKG21FLeoqTpvVudC-Q=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Add setting app on the phone, you can access the setting page by tap at the gear icon at the center of watch face preview (in android wear app)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ammarptn.river.wear.watchface&hl=en&gl=us",
+    "appId": "com.ammarptn.river.wear.watchface"
+}

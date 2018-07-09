@@ -1,0 +1,62 @@
+{
+    "title": "Wear Run Tracker",
+    "summary": "A wear only running session tracker that records your running session stats.",
+    "icon": "//lh4.ggpht.com/7OEcGL1yiTPeyEw8nqHnj6kMrjnIlJAZNBrV9OSkBdA8UWfOOdGCjX5ErhEm3Tb8Tawj=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 58,
+    "developer": "AllAboutEE",
+    "developerId": "AllAboutEE",
+    "developerEmail": "service@allaboutee.com",
+    "developerWebsite": "http://allaboutee.com",
+    "developerAddress": "1064 Vance Jackson #13001\nSan Antonio, TX 78213\nU.S.A",
+    "updated": "September 13, 2014",
+    "version": "2.2",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "We also have a Pro version to help you better track your progress  https://play.google.com/store/apps/details?id=com.allaboutee.myrunA running tracker app for Android wear devices that does not require a phone.This app uses your wear watch's pedometer to measure, and record, your running average speed, distance, and duration per running session.Note: The data from the free version of the app will not be imported to the pro version.Important: Two users have reported that the app crashes constantly, when this happens please report the error through the dialog so I can see exactly what is wrong and fix it asap. Also please do not rate based on this error since I already know about the issue and you were warned, thank you.Notes:- The watch must not be muted for the running session notification to be displayed.- Close the app after starting it by sliding it off to the right.- The speed displayed while running is your avg speed for the session NOT your present speed.- It is important that you set the step length as accurately as possible to your own to get more accurate results.Sources of Error / Why the measurements might be incorrect:The application calculates your running stats from the number of steps you take and your step length. If the watch's step sensor detects more/less steps than were taken or if your step length is not uniform then there will an error in the measurements, unfortunately these are errors that cannot be fixed on our end so please do not rate based on this. Note:  When the app is running the display resets to 0's when you close the app and open it again but it keeps track of the stats in the background and will display the correct info as soon as you take the next step.Watch image generated with: http://www.wear-generator.com/index.html under http://creativecommons.org/licenses/by/3.0/",
+    "descriptionHTML": "We also have a <a href=\"https://play.google.com/store/apps/details?id=com.allaboutee.myrun\">Pro version</a> to help you better track your progress <a href=\"https://play.google.com/store/apps/details?id=com.allaboutee.myrun\"> https://play.google.com/store/apps/details?id=com.allaboutee.myrun</a><br><br><br>A running tracker app for Android wear devices that does not require a phone.<br><br><br>This app uses your wear watch&apos;s pedometer to measure, and record, your running average speed, distance, and duration per running session.<br><br><br><b>Note:</b> The data from the free version of the app will not be imported to the pro version.<br><br><br><b>Important:</b> Two users have reported that the app crashes constantly, when this happens please report the error through the dialog so I can see exactly what is wrong and fix it asap. Also please do not rate based on this error since I already know about the issue and you were warned, thank you.<br><br><b>Notes:</b><br>- The watch must not be muted for the running session notification to be displayed.<br><br>- Close the app after starting it by sliding it off to the right.<br><br>- The speed displayed while running is your avg speed for the session NOT your present speed.<br><br>- It is important that you set the step length as accurately as possible to your own to get more accurate results.<br><br><b>Sources of Error / Why the measurements might be incorrect:</b><br><br>The application calculates your running stats from the number of steps you take and your step length. If the watch&apos;s step sensor detects more/less steps than were taken or if your step length is not uniform then there will an error in the measurements, unfortunately these are errors that cannot be fixed on our end so please do not rate based on this. <br><br><br><b>Note: </b> When the app is running the display resets to 0&apos;s when you close the app and open it again but it keeps track of the stats in the background and will display the correct info as soon as you take the next step.<br><br><br>Watch image generated with: http://www.wear-generator.com/index.html under http://creativecommons.org/licenses/by/3.0/",
+    "histogram": {
+        "1": 10,
+        "2": 6,
+        "3": 11,
+        "4": 11,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/EjpEvBchpZw3SsYxKa_jLDDsduvRlten5MLmvrQI8gLjn8QS6JqPfLw8k9gEVE1tiQ=h310",
+        "//lh5.ggpht.com/ird_vM5Xs2Nu_evcHxnAtl-xcZ2yYw1TT0vV7uzAaULtVYntIGblM-hOiN4QRbYyseI=h310",
+        "//lh3.ggpht.com/cFriNPlkx4A7djtJl-PhOOH3lGZTsRWopI2ZMA-Yr1yYwLvWuCixLQu9_poXMNKpbvoI=h310",
+        "//lh3.ggpht.com/G4tbkQjxwJ8EpKdyzf-7yfyDociDiCTCN78av1CHcDcXPMA6iV3COudYda11f9SKmpg=h310",
+        "//lh5.ggpht.com/k1VkuoaCatNDwRvdS8i8e26gnkmY2QpqkzJfLwgEWDDgU573rfpj6x4VfeUw8mdfig=h310",
+        "//lh3.ggpht.com/p6zi6UuPiDr3h5HD1alvYw9MKA1Nu65r2xrEuVGyuWPGXN3dSed0XnOs_K3H9Kyv4Q=h310",
+        "//lh4.ggpht.com/dlFrllnsL16PwfAH7JjcK4-UlSbhyUlETdH-lRVFwM4AAcX7dkCniBcmHWV1wxo3bw=h310"
+    ],
+    "comments": [
+        "Get rid of app icon on phone app drawer Good functionality on watch, but the app icon on the phone is a complete waste of space, since it is unneeded. Opening the app on the phone literally says that it is unneeded.  To the developer: if you look at other wear-only apps like Slumber, there is no app icon on the phone. Regarding uninstalling, you can go into your main application list to uninstall (from settings) or directly uninstall from Google Play. Maybe an option to hide the app icon would satisfy everyone.",
+        "Good First running android app that does not require a phone. Would be better if also reported calories burned based on weight.",
+        "Seems to work well, but in the description you mention that you should set your step length for calibration. The app seems to have no settings, how would I set this on my Moto 360?",
+        "Pace in minutes per mile / km Would be more useful the mph.  I would pay for that. Also would love Google fit integration.",
+        "Awesome Exactly what I wanted, now if you put the start and stop on the one screen, make it look like a sporty watch face, maybe with split times , I would buy that",
+        "Great App Great app.  I would buy the Pro version if it uploaded information to Google Fit."
+    ],
+    "recentChanges": [
+        "Version 2.2:",
+        "- Moto 360 Fix. (Used to display blank screen)",
+        "Version 2.1:",
+        "- Fixed issue where app would open more than once for some users.",
+        "Version 2.0:",
+        "- Improved step detection algorithm to give more accurate results."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.allaboutee.myrunfree&hl=en&gl=us",
+    "appId": "com.allaboutee.myrunfree"
+}

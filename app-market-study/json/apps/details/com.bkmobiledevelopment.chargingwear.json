@@ -1,0 +1,51 @@
+{
+    "title": "Charging Wear",
+    "summary": "Control what your Android Wear smartwatch does while it&#39;s charging.",
+    "icon": "//lh3.googleusercontent.com/BZd9VpXV0yTZSqUQZp8SJhI4w9PPf-DicuL5jUQEl0PVw4fRP5_OrCmf7JLLDZQTJw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 19,
+    "developer": "Kevin Broh-Kahn",
+    "developerId": "4654453048954028942",
+    "developerEmail": "kevin@broh-kahn.com",
+    "developerWebsite": "http://kevin.broh-kahn.com",
+    "developerAddress": "1415 N Taft St\nApt 878\nArlington, VA, 22201",
+    "updated": "June 3, 2017",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Charging Wear allows you to control how your smartwatch acts when it's charging. Normally, most Android wear devices do nothing but bring up a bright screen displaying the time and charging percentage. The feature can be annoying if you prefer sleeping without a nightlight and has the potential to cause screen burn.Charging Wear has a simple but elegant solution to this dilemma.To combat the charging screen issue, Charging Wear will show a completely black screen on your smartwatch whenever you plug your device in. This will allow for a peaceful, dark setting wherever you are charging your watch. The application also has the ability to turn off your watch's Bluetooth when it is charging. This ensures that the watch will not be connected to your phone when it is charging, because who wants their watch to vibrate when it's not on their wrist? Charging Wear also has the ability to take on many other features, simply email me if you have a request or any feedback!Due to the youth of Android Wear and limited testing ability, I cannot guarantee that Charging Wear will function flawlessly on every device. If the app doesn't work, crashes, or looks ugly on your device, please send me an email and I'll look into your problem as soon as I can!",
+    "descriptionHTML": "Charging Wear allows you to control how your smartwatch acts when it&apos;s charging. Normally, most Android wear devices do nothing but bring up a bright screen displaying the time and charging percentage. The feature can be annoying if you prefer sleeping without a nightlight and has the potential to cause screen burn.<br><br>Charging Wear has a simple but elegant solution to this dilemma.<br><br>To combat the charging screen issue, Charging Wear will show a completely black screen on your smartwatch whenever you plug your device in. This will allow for a peaceful, dark setting wherever you are charging your watch. The application also has the ability to turn off your watch&apos;s Bluetooth when it is charging. This ensures that the watch will not be connected to your phone when it is charging, because who wants their watch to vibrate when it&apos;s not on their wrist? Charging Wear also has the ability to take on many other features, simply email me if you have a request or any feedback!<br><br>Due to the youth of Android Wear and limited testing ability, I cannot guarantee that Charging Wear will function flawlessly on every device. If the app doesn&apos;t work, crashes, or looks ugly on your device, please send me an email and I&apos;ll look into your problem as soon as I can!",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Q-9y-WHrv2_FSMfG-IC7XaHftUr0nHAlkpgS7T8oj0o9nL7-jS0jc2xuSX10pN6DD_w=h310",
+        "//lh3.googleusercontent.com/J3uNFTOt6Yofhk1MrR5ejrRTJotecKZS233E2U_aYCsnOp13wnvm0xstKNNADulhayE=h310",
+        "//lh3.googleusercontent.com/IPLNB8EDFr2B5ia4k9TAy81vOZj21jqXr7OpwCqNIhA0rrYH8B2m7aNf0QcY8kiaTEM=h310"
+    ],
+    "comments": [
+        "Works better than Slumber.",
+        "This app is the  worst app  ever"
+    ],
+    "recentChanges": [
+        "2.0.01",
+        "- Allow installation of standalone wear app for Android Wear 2.0",
+        "2.0.0",
+        "- Add standalone wear app for Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bkmobiledevelopment.chargingwear&hl=en&gl=us",
+    "appId": "com.bkmobiledevelopment.chargingwear"
+}

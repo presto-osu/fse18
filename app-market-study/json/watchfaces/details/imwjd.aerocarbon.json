@@ -1,0 +1,50 @@
+{
+    "title": "Aero Carbon Facepak",
+    "summary": "Aero Carbon is a custom watch face for the Android Wear application Face.",
+    "icon": "//lh3.ggpht.com/yOc5K9HWQIXlmltAsRs_OsAkeTGZq8fEfilA5qghMzbEqhJGBw6GqqzEbMKTlvFdSRY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.1,
+    "reviews": 30,
+    "developer": "IMWJD",
+    "developerId": "IMWJD",
+    "developerEmail": "wjd@imwjd.com",
+    "developerWebsite": "http://www.imwjd.com",
+    "developerAddress": "123 N. Baltimore St. Bremen, Indiana 46506",
+    "updated": "September 1, 2014",
+    "version": "1.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Aero Carbon is a custom watch face for the Android Wear application Face.*YOU MUST HAVE THE APP \"FACE\" TO USE THIS FACE https://play.google.com/store/apps/details?id=boxcrab.face",
+    "descriptionHTML": "Aero Carbon is a custom watch face for the Android Wear application Face.<br><br>*YOU MUST HAVE THE APP &quot;FACE&quot; TO USE THIS FACE <br>https://play.google.com/store/apps/details?id=boxcrab.face",
+    "histogram": {
+        "1": 10,
+        "2": 3,
+        "3": 2,
+        "4": 5,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/62A21RDneGNk7-ywOCwm3pSNywyrqXuLNZOxazGXGs3EK0Va40F7FSmWu3Il0R3jhQ=h310",
+        "//lh6.ggpht.com/o4IZK2Ufe_4P5pKTm04pHv6UgvOOc0odkbhuSZl2ERdk0ItWdtqXRORuF6YCk9jRiYLz=h310",
+        "//lh6.ggpht.com/vyh-BD5wErVVNvZsAPjOEKjoUoo_HO8KI0-NFVv_nUCGMsWKlgDeb59jsCq9FCSoxR8=h310"
+    ],
+    "comments": [
+        "Doesn't work. Installed fine, but never appeared in Android Wear app or on watch. Weird.",
+        "Simple yet elegant.",
+        "Great Keep them coming,  love the look."
+    ],
+    "recentChanges": [
+        "Updated to get the theme ready for the newest build of Face..."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=imwjd.aerocarbon&hl=en&gl=us",
+    "appId": "imwjd.aerocarbon"
+}

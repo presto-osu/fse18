@@ -1,0 +1,57 @@
+{
+    "title": "2048 - Android Wear",
+    "summary": "The popular game 2048 on Android Wear.",
+    "icon": "//lh6.ggpht.com/QuJFZBulz2Dc-sG_wkqfj8jr5RpGDfWPzprnyn2_aWORVmxGEpakKQaLjvfBESHGgKc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.1,
+    "reviews": 1241,
+    "developer": "scoutant.org",
+    "developerId": "scoutant.org",
+    "developerEmail": "support@scoutant.org",
+    "developerWebsite": "http://scoutant.org",
+    "developerAddress": "28 vieux chene, 38240 Meylan",
+    "updated": "November 14, 2015",
+    "version": "2.1",
+    "genre": "Puzzle",
+    "genreId": "GAME_PUZZLE",
+    "description": "Very first implementation of game 2048 on Android Wear.Nicely fits the watch form factor with a board of only 4x4 tiles.Move the tiles on the board with your fingers. Similar tiles merge when they touch and the value get doubled. You have to get the 2048 tile to win.You MOVE the tiles with swipe gestures. Use double-tap to display current SCORE. Use long-press gesture to open MENU.2048 is a single-player puzzle game created in 2014 by Gabriele Cirulli : http://git.io/2048.Present implementation is the first on Android Wear. The original Javascript project has been fully rewritten in Java for Android Wear.",
+    "descriptionHTML": "Very first implementation of game 2048 on Android Wear.<br>Nicely fits the watch form factor with a board of only 4x4 tiles.<br><br>Move the tiles on the board with your fingers. Similar tiles merge when they touch and the value get doubled. You have to get the 2048 tile to win.<br>You MOVE the tiles with <b>swipe</b> gestures. Use <b>double-tap</b> to display current SCORE. Use <b>long-press</b> gesture to open MENU.<br><br>2048 is a single-player puzzle game created in 2014 by Gabriele Cirulli : http://git.io/2048.<br>Present implementation is the first on Android Wear. The original Javascript project has been fully rewritten in Java for Android Wear.",
+    "histogram": {
+        "1": 87,
+        "2": 61,
+        "3": 153,
+        "4": 334,
+        "5": 606
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/6lu5K1-lRjPTA-0uOkktq0fpjZirnMvSTaTdWG3_qji9K9y46h4miReAzZ3owc3gDNo=h310",
+        "//lh6.ggpht.com/bjqaZsvHu6F9DabNf0hVcHJGT_6LlAXHCN0qHKePzw9S4k2BcNhxKXfuweONKJI_qNTS=h310",
+        "//lh3.ggpht.com/Q3lohm61XK19R0ABheI5NtrHk5eTs9c6OTjhmeDngT60M9kumhym87x9N_eDQny-SKI=h310",
+        "//lh3.googleusercontent.com/G8vrgsWWCtfXeKLIMIGMzrq1hhSsx_GZ5Vrek43V5OfAgbistITghVuPWfB0Qb5or8hx=h310",
+        "//lh3.googleusercontent.com/RT1O4zZYv1twHYrjano6V7nBlYaViucU9a5-pkDZUv0PZ3RvFSW-VHW8PYIjQCzfp6E=h310"
+    ],
+    "comments": [
+        "Good app, but... If I leave the app at the screen I last see for a few days, it freezes, and I have to wait at least 15 minutes for the app to work. Really annoys me when it's at the game over screen because it's even more harder to fix. Overall, you delivered what you promised, but the lag is not fun",
+        "Works well enough, even if it is a little laggy... But I'd like if I could remove the useless launcher shortcut on my home screen. Doesn't really do much, and just kind of sits there taking up space in my app drawer.",
+        "I love the game I hate the app icon. It is ugly and horrible to look at. That also applies to the menu icons.",
+        "Can not reset game The button to reset the game is broken/impossible to click Moto 360 2015",
+        "Can't win? I got to 2048 but I didn't win, so I just played until I got another 2048 but then when I put them together the game crashed.",
+        "Great game This is BY FAR my favorite game on my watch, a great time waster!"
+    ],
+    "recentChanges": [
+        "Automatic save enabling later game resume.",
+        "Undo feature.",
+        "Use long-press to open menu."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.scoutant.game2048&hl=en&gl=us",
+    "appId": "org.scoutant.game2048"
+}

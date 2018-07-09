@@ -1,0 +1,130 @@
+Soot started on Thu Jun 21 11:13:08 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.face.watch.meo.Meo
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.face.watch.meo.apk
+[INFO] MySceneTransformer: ############## com.face.watch.meo.Meo$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   32
+[INFO] FlowGraph: @@@@ Total Methods: 88
+[INFO] FlowGraph: @@@@ Total Stmts:   1277
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.face.watch.meo.Meo$Engine]26,1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r4_2=[-1]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.standby()
+[INFO] MySceneTransformer: TOTAL TIME: 1.607000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 11:13:13 EDT 2018

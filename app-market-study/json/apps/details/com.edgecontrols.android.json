@@ -1,0 +1,53 @@
+{
+    "title": "Wear Brightness Control",
+    "summary": "A simple tool for controlling the brightness of the wear device",
+    "icon": "//lh3.googleusercontent.com/NtiEHpM2C8iUBYHPsMDz22xHQ-R7VjvsBgjPa6_1rfCMf3M6_JdqHj4W5skJlJidB-k=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 70,
+    "developer": "Sve",
+    "developerId": "Sve",
+    "developerEmail": "danaildelchev@gmail.com",
+    "updated": "December 7, 2016",
+    "version": "1.9",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "A simple tool for controlling the brightness of the wear device - sliding your finger along some of the edges of the screen will change your brightness.Long press on the edge is switching on the brightness to Auto Mode.Best for wearable devices with no integrated sensor for light.Compatible with round wearable devices.COMING - you'll be able to control the sound of the phone the same way!",
+    "descriptionHTML": "A simple tool for controlling the brightness of the wear device - sliding your finger along some of the edges of the screen will change your brightness.<br>Long press on the edge is switching on the brightness to Auto Mode.<br>Best for wearable devices with no integrated sensor for light.<br><br>Compatible with round wearable devices.<br><br>COMING - you&apos;ll be able to control the sound of the phone the same way!",
+    "histogram": {
+        "1": 14,
+        "2": 7,
+        "3": 6,
+        "4": 7,
+        "5": 36
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/64xn5ZGJvTAGKxqIuJYb7McqB5rM7JbVqsJkQAJy1Woo7bH6QyK_1rml9zPA8puWHPs=h310",
+        "//lh3.googleusercontent.com/EUA0WMBpUrdq0Z61SnXWNCYl6fT71ouRnYHGW8fTuuZYrfNwe1xeeJeFzpzLFnJXxw=h310",
+        "//lh3.googleusercontent.com/22lW60rJ9nK-bZ9jY2bAxiacoLtyNyk93PH-rg3JVhepp2Pk-FkXVrcqnSBbz7XUWcjp=h310"
+    ],
+    "comments": [
+        "If I accidently set auto mode it won't let me return to manual until I stop the app and restart it (which is a pain since it turns brightness to the max and Hwatch has no light sensor). Also, ambient mode does not match the controlled brightness (at least not when turned down low). Other than those two things I like it a lot! I think I'll keep it since it appears the dev cares about the app and might make it better :-)",
+        "Essential for Android wear Had to change my review from 4 stars to 5 after an update fixed my issue with the app not working sometimes. The dev even replied to let me know the update would fix the issue.  Probably my most used AW app I'd say",
+        "When this works it does work fantastic. I am having the same problem as the other reviewers. I can turn the brightness down below factory allowance, which is why I was looking for an app. The reason I picked this one is that it works on any screen. I tend to like the brightness down very low in dim environments, I've had trouble in the past leaving the brightness on my phone too low and going out in the morning and can't see enough to turn the brightness back up. When using this app I'm not sure if I'm accidentally turning on auto mode as the previous commenter mentioned, but each time I want to use it I have to turn it off and back on again to get it functioning. If that problem is resolved I would give the app 4 stars... 5 if it could control the ambient screen!",
+        "Nice idea bad implementation Rarely works or too complicated with no guidelines how to make it work.",
+        "Doesn't work on my LG GWR running Wear 2.0",
+        "Very useful, however I can't control the brightness using the right side of the screen on my Huawei watch."
+    ],
+    "recentChanges": [
+        "Version improvements:",
+        "* fixed reboot problem",
+        "* added - old brightness is set when Brightness control in ON again after Reboot or Stop"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.edgecontrols.android&hl=en&gl=us",
+    "appId": "com.edgecontrols.android"
+}

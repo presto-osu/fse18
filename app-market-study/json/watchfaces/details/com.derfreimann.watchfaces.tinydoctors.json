@@ -1,0 +1,57 @@
+{
+    "title": "tiny doctors",
+    "summary": "So many Doctors. So little time.",
+    "icon": "//lh3.googleusercontent.com/qOew4m8JIAEfW5it-GJn-EhcQWDn5q2jvplaZbrDWE8gbF3BYxlj7KINWTLYzP6UD_g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 92,
+    "developer": "derfreimann",
+    "developerId": "derfreimann",
+    "developerEmail": "fonkri@gmail.com",
+    "developerAddress": "Guglgasse 8/2/9/82, 1110 Wien, Österreich",
+    "updated": "January 6, 2016",
+    "version": "1.4.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Features cute miniature versions of your favourite timelord.The idea was originally created by the artist who also made the illustrations: Jonathan Abucejo!It all started as a Pebble project, but I thought it might be really nice to have it on Android Wear aswell.IMPORTANT NOTE: this watchface is now also available for selected Samsung watches, running Tizen OS -> to download it for your Samsung watch you have to download it from the Gear App Store, not this version here from the Google Play Store. If you want it for your Pebble (b/w) then it's the same -> download it from the Pebble StoreATTENTION: you need an Android Wear watch in order to use this app!!! (thanks to those 1★-givers btw. who couldn't figure that out :P)Please, if you have a problem with it just mail me and I'll try to help/solve/explain it as best as I can... there's no need to be rude...How does it work?• it shows the hour by displaying the according Doctor (e.g. from 10:00-10:59 am/pm you'll find the 10th Doctor!)• the War Doctor appears as a second 8th Doctor, from 8:30-8:59 am/pm• minutes are displayed inside each Doctor's Tardis• month and day can also be found in the TARDIS and is displayed in your watch's language• you may notice some additional characters (aliens, evil and/or friendly) appearing on your screen sometimes - don't worry, that's part of the fun and gives the watchface a surprising touch ;) Notice, this will happen completely on random!!!(there's this thing, some may call it a bug, with Android Wear where all non-supported languages are forced to show the US english settings... so, if your phone's language is for example DUTCH then your Wearable will be in english anyways, and therefore its way of presenting the date!)It needs some time to interpret the time easily, but when you're a real Whovian you will be able to achieve it in virtually no time!This Watchface was tested successfully on a Moto360 (Gen1) and a Sony SW3 here in my humble abode...#DrWho #Whovian #Doctor",
+    "descriptionHTML": "<b>Features cute miniature versions of your favourite timelord.</b><br><br><i>The idea was originally created by the artist who also made the illustrations: <b>Jonathan Abucejo</b>!<br>It all started as a Pebble project, but I thought it might be really nice to have it on Android Wear aswell.<br><br><b>IMPORTANT NOTE:</b> this watchface is now also available for selected Samsung watches, running Tizen OS -&gt; to download it for your Samsung watch you have to download it from the <i>Gear App Store</i>, not this version here from the Google Play Store. If you want it for your Pebble (b/w) then it&apos;s the same -&gt; download it from the <i>Pebble Store</i><br><br><b>ATTENTION:</b> you need an Android Wear watch in order to use this app!!! (thanks to those 1&#x2605;-givers btw. who couldn&apos;t figure <i>that</i> out :P)<br>Please, if you have a problem with it just mail me and I&apos;ll try to help/solve/explain it as best as I can... there&apos;s no need to be rude...<br><br><i>How does it work?</i><br><br>&#x2022; it shows the hour by displaying the according Doctor (e.g. from 10:00-10:59 am/pm you&apos;ll find the 10th Doctor!)<br>&#x2022; the War Doctor appears as a second 8th Doctor, from 8:30-8:59 am/pm<br>&#x2022; minutes are displayed inside each Doctor&apos;s Tardis<br>&#x2022; month and day can also be found in the TARDIS and is displayed in your watch&apos;s language<br>&#x2022; you may notice some additional characters (aliens, evil and/or friendly) appearing on your screen sometimes - don&apos;t worry, that&apos;s part of the fun and gives the watchface a surprising touch ;) Notice, this will happen completely on random!!!<br><br><i>(there&apos;s this thing, some may call it a bug, with Android Wear where all non-supported languages are forced to show the US english settings... so, if your phone&apos;s language is for example DUTCH then your Wearable will be in english anyways, and therefore its way of presenting the date!)</i><br><br><br>It needs some time to interpret the time easily, but when you&apos;re a real Whovian you will be able to achieve it in virtually no time!<br><br><br>This Watchface was tested successfully on a Moto360 (Gen1) and a Sony SW3 here in my humble abode...<br><br><br>#DrWho #Whovian #Doctor</i>",
+    "histogram": {
+        "1": 10,
+        "2": 3,
+        "3": 3,
+        "4": 10,
+        "5": 66
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/yjK-H5usQnY60V5ld6R2BeSD_zWh86iJuE12U_eQ3Hk8w9sRtMCtef2aCdzUhOyAkNo=h310",
+        "//lh3.googleusercontent.com/9d6hZ9jaHGPBs17LNk1q4CmBnoahG4toCV0ckiQ43sDDaWZMl_CMPYcpJabMr-_a_iQ=h310",
+        "//lh3.googleusercontent.com/cRCJe5qyhRMlmzKUyPtv-bL5DMcq3A-vWYjyiGbNPHjeJWFY6W0LmaA4JxP0nCfyMaqx=h310",
+        "//lh3.googleusercontent.com/6NLvfa-7o4QfnNnlVLn2YWsbAD-oDXKQnRXmt3oE8kM774XcLv_n6slx5Hhv9q_5yPg=h310",
+        "//lh3.googleusercontent.com/MAfvB2n_jaH0bIoG46yd1FHBK2AxyFxqsZ06onIYLaV1rb6QM2qliGeGmgJeH_xA2Q=h310"
+    ],
+    "video": "https://www.youtube.com/embed/UE-okjzE9NI",
+    "comments": [
+        "Cute little watch face. My only requests would be...  1) The option to have the full time displayed as it can take me a while to work out which doctor is which.  2) To be able to change/add additional information to the screen. i.e. Battery life, steps, etc...  3) Some nice regeneration effects when doctors switch over.",
+        "I love this watch face. The artwork is cool, and perfect for a real Whovian like me.   Question: what time is it when the clock strikes the 13th Doctor? Time to get a new watch! LOL",
+        "I love this watch face so much!  I'm a very big fan of new Who. Tragically, I constantly get confused on the old Who, so I'm a little lost in the early afternoon. I'll learn them eventually though.",
+        "Works brilliantly It works brilliantly on my wife's Gear S2 just wish it was available for my Gear S. From using her watch to load it it looks amazing and the doctors look even better than on the pebble. I was a fan of the black and white doctors on the pebble though. Also big shout out to the developer, who is always more than willing to help",
+        "Love it Nothing wrong with this at all. I personally like faces with more info, like battery life and weather and such. But i love the litte doctors so much. It's worth an extra simple face to get such a fun and cool watch face for a true whovian.",
+        "Super fun app! Now when people ask me the time, I say \"10 past Matt Smith!\" Girlfriend broke up with me, but that's ok, at least I have this cool app!"
+    ],
+    "recentChanges": [
+        "Version 1.4.1:",
+        "- bugfix regarding wrong display of date on some devices (thanks a lot @Patrick!)",
+        "(still) COMING: a homescreen widget and the option to turn off the random characters!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.derfreimann.watchfaces.tinydoctors&hl=en&gl=us",
+    "appId": "com.derfreimann.watchfaces.tinydoctors"
+}

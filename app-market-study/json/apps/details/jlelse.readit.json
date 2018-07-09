@@ -1,0 +1,60 @@
+{
+    "title": "NewsCatchr - Free & Open-Source News-Reader",
+    "summary": "Many unique features for the best possible news-reading experience",
+    "icon": "//lh3.googleusercontent.com/axF2z1SNA3ybpiceYGXJ42HwRqf-hrlab2kkaAOIgOuCzLySKuMFToH_BPK6NSD2eA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 93,
+    "developer": "jlelse",
+    "developerId": "5235531678717040677",
+    "developerEmail": "playstore@jlelse.eu",
+    "developerWebsite": "https://newscatchr.jlelse.eu",
+    "developerAddress": "Germany",
+    "updated": "November 8, 2017",
+    "version": "6.0.9",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "News should be available for everyone. They should be free. And they should be accessible everywhere and anytime. News are essential for free speech.NewsCatchr is an app, that tries to improve the world by enabling access to news for everyone. The app is available for Android 4.2+ and very small and resource-friendly. It's also completely open sourced, so the code can be checked by everyone.Multiple million different feeds are readable with this app, thanks to the feedly API, which provides them.But the app isn't just a normal news app. It has many more unique features, like these:• Bookmarks• Feed search with many millions of feeds• Backup to save your favorite feeds and bookmarks with ease• Pocket integration to read your bookmarked articles from any device• Chrome Custom Tabs to browse websites inside the app• Automatic caching, so you can also read articles offline• Automatic download of articles in the background (called sync)• OPML import to import feeds from feedly• Zoomable text to have a bigger article text• AMP to browse websites faster (much faster)• Readability mode to reparse articles and get the whole content• And many many more features...",
+    "descriptionHTML": "News should be available for everyone. They should be free. And they should be accessible everywhere and anytime. News are essential for free speech.<br><br>NewsCatchr is an app, that tries to improve the world by enabling access to news for everyone. The app is available for Android 4.2+ and very small and resource-friendly. It&apos;s also completely open sourced, so the code can be checked by everyone.<br><br>Multiple million different feeds are readable with this app, thanks to the feedly API, which provides them.<br><br>But the app isn&apos;t just a normal news app. It has many more unique features, like these:<br><br>&#x2022; Bookmarks<br>&#x2022; Feed search with many millions of feeds<br>&#x2022; Backup to save your favorite feeds and bookmarks with ease<br>&#x2022; Pocket integration to read your bookmarked articles from any device<br>&#x2022; Chrome Custom Tabs to browse websites inside the app<br>&#x2022; Automatic caching, so you can also read articles offline<br>&#x2022; Automatic download of articles in the background (called sync)<br>&#x2022; OPML import to import feeds from feedly<br>&#x2022; Zoomable text to have a bigger article text<br>&#x2022; AMP to browse websites faster (much faster)<br>&#x2022; Readability mode to reparse articles and get the whole content<br>&#x2022; And many many more features...",
+    "histogram": {
+        "1": 9,
+        "2": 10,
+        "3": 8,
+        "4": 21,
+        "5": 45
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Tiw4fGgAfNDkf6sS1IDiwqsxGkq_F5Ho96xXOY1IJQo7Jq_yw54qJ2W0wx-TpeChKNM=h310",
+        "//lh3.googleusercontent.com/RkMOG0noe1bUE8p6eYTA9Q8IyaAgrtDUTdwvoFTqeAFeRqtyqyBh9AEbZBlS5ALW9wc=h310",
+        "//lh3.googleusercontent.com/6JHTyFbIPkYwHN0gOyRPa8Le6TlcsXT21xjvpOwHsDwCfyEpzLfheY-SoEMdUVUzVfA=h310",
+        "//lh3.googleusercontent.com/77b4vBJO-Ln5Ndq6dnOz5I7aTR0duMtdZfnMcFhAVZ0MYE6SPnhN40ZwkaSHkyW0OWY=h310",
+        "//lh3.googleusercontent.com/W7WeaLinvvQl0SaPtq7t2A-AgiKHWcG_EP4xqiurWenufmRTinIHc0zpwgAarbr_DZ4=h310",
+        "//lh3.googleusercontent.com/-fs-0JwcEIz1paMmC9n4Il6uGw8g5mwcWc-_0xh3SiBGV8RP6s59D1rJ6_iXkCzccvw=h310",
+        "//lh3.googleusercontent.com/y2MiOSf2nHtr4HC3Ag4oyBkASQRtp_Tav7Mmg9ghE1AsrzeKKN5TpJ2GwLvp1_ExrQo=h310"
+    ],
+    "comments": [
+        "Amazing app for reading newsfeeds. It's much better than feedly for sure.",
+        "Clean, clear, wide-ranging news For a broad range of news, I can't imagine finding better. NO ADS - thank you so much! Some will say the interface isn't pretty or decorative enough for them, but I don't care about that. It's pleasant to look at, uncluttered, simple.",
+        "Very good app ..But the developer made too much features that normal people find difficult to comprehend ..If he change this apps design to something like feedly or Google news etc people will like more I believe..",
+        "I can't get this to work on my android watch",
+        "Nice",
+        "Love the UI. Ad-free. Free. Open source. Buggy. Very buggy."
+    ],
+    "recentChanges": [
+        "Welcome to an all new NewsCatchr experience!",
+        "Almost every line of code in this app has been rewritten and it has been boosted to a whole new level! See and feel a reworked UI, a much faster and better backend and lots of improved and added features.",
+        "For more detailed information, see this page: https://goo.gl/LnB7Nw",
+        "PS: If you want to support the development and help to improve this app even further, feel free to use the in-app option to donate 😉 Thank you so much!!!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jlelse.readit&hl=en&gl=us",
+    "appId": "jlelse.readit"
+}

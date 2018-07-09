@@ -1,0 +1,53 @@
+{
+    "title": "Blackout for Android Wear",
+    "summary": "Blackout your Wear device&#39;s screen when docked, protects from screen burn-in too",
+    "icon": "//lh3.googleusercontent.com/PTClhpY0h6DKhLIYT-oYOdD_5UGxojsZPbduSOh2b7m_FNDXVJScISx17kNFOl5rBQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 16,
+    "developer": "Cloudy Day Apps",
+    "developerId": "Cloudy+Day+Apps",
+    "developerEmail": "cloudydayapps@gmail.com",
+    "developerAddress": "P.O. Box 100276\nCape Coral, FL 33910",
+    "updated": "August 4, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Many Android Wear device's like the Moto 360 display a bright charging screen that can't be turned off. With Blackout for Android Wear your Wear device's screen will turn completely black when on the charger. This allows for darker bedrooms and protects against screen burn-in caused by prolonged display of device charging screens.With Blackout for Android Wear you will no longer have to enable Theater Mode before docking your wearable on the charger. Blackout for Android Wear starts automatically when you place the wearable on the charger and stops as soon as you remove the wearable from the charger. It's as easy as pie.Includes a companion application so you can turn your already docked Wear device's screen black from across the room.* Please contact us via email with any issues or requests* Please allow a few minutes for the wearable application to be delivered to your Android Wear device after installation.* Designed and tested on a Moto 360 (Gen1) with a Nexus 6",
+    "descriptionHTML": "Many Android Wear device&apos;s like the Moto 360 display a bright charging screen that can&apos;t be turned off. With Blackout for Android Wear your Wear device&apos;s screen will turn completely black when on the charger. This allows for darker bedrooms and protects against screen burn-in caused by prolonged display of device charging screens.<br><br>With Blackout for Android Wear you will no longer have to enable Theater Mode before docking your wearable on the charger. Blackout for Android Wear starts automatically when you place the wearable on the charger and stops as soon as you remove the wearable from the charger. It&apos;s as easy as pie.<br><br>Includes a companion application so you can turn your already docked Wear device&apos;s screen black from across the room.<br><br>* Please contact us via email with any issues or requests<br><br>* Please allow a few minutes for the wearable application to be delivered to your Android Wear device after installation.<br><br>* Designed and tested on a Moto 360 (Gen1) with a Nexus 6",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 12
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/OfgQLWNCvgO0xyXhoLlnek8cHkzXZU-yyt1jb4oN_Yjxjv01jWpLuHPvaTLxZ1gjDOs=h310",
+        "//lh3.googleusercontent.com/in6dORGrwJfqlBl1lGQkZwR_9Cit1MwrkC2s7s6Uzrj0lbI07dnnG7iJSvES04w3Czc=h310",
+        "//lh3.googleusercontent.com/QUSDiLd7cYzFHJHvBpYbDww55lB7eW58pExQkLMudk6vOHoADm1TbCDpN8ksU9zZRQ=h310",
+        "//lh3.googleusercontent.com/MBVPNFbuz6NvWtmjdayk0RbYodVXHLlvayNRguPFXd2_gOntjjBDnUlf0A-NfbFCew=h310"
+    ],
+    "comments": [
+        "Works...but then stops as soon as charging is finished. Even tho the watch is still docked.",
+        "Great! Works well! Can an option be added for a notification on the phone when the watch is fully charged?",
+        "Doesn't seem to work with LG Urbane and android wear 2."
+    ],
+    "recentChanges": [
+        "Updated for Android Wear 2.0, still works on Android Wear 1.X",
+        "Companion app now supports multiple wearables at once",
+        "Fixes and optimizations"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=day.cloudy.apps.darkcharge&hl=en&gl=us",
+    "appId": "day.cloudy.apps.darkcharge"
+}

@@ -1,0 +1,54 @@
+{
+    "title": "mute wear mic",
+    "summary": "This wear app mutes the microphone of wear devices &amp; disables speech recognition",
+    "icon": "//lh3.googleusercontent.com/q39dNp6Sr9JLoSC04j9DSaUwdjbeqbCnbNJkeynWFJRpc1Q9yJQWxUylNEu-74td2lvt=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 35,
+    "developer": "Andreas Bischoff",
+    "developerId": "Andreas+Bischoff",
+    "developerEmail": "andreas.bischoff@gmx.de",
+    "developerWebsite": "http://blog.robotnet.de/2015/06/22/this-is-not-okay-google-no-bug-at-your-wrist-how-to-mute-the-microphone-on-android-wear-smartwatches/",
+    "updated": "November 18, 2015",
+    "version": "1.0",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "To use this App you must own a Android wear device (a smartwatch).The app adds a missing feature to Android wear. There is no useful way to disable the wear speech recognition. If you set your watch to flight mode it becomes completely useless, even the time can be displayed incorrectly. This wear app mutes the microphone of wear devices and disables the wear speech recognition without flight mode. So you can use and enjoy your watch without running a permanent spy application. This protects your privacy and the privacy of your friends.Permanently running speech recognition can be dangerous and expensive. For instance somebody nearby, or onTV says \"OK Google dial 0900-XXXX\" and the phone dials a expensive number.Check the check box to mute the mircophone. Uncheck it to reenable the voice recognition.Will not work with Moto360 and Sony SW3!",
+    "descriptionHTML": "To use this App you must own a Android wear device (a smartwatch).<br>The app adds a missing feature to Android wear. There is no useful way to disable the wear speech recognition. If you set your watch to flight mode it becomes completely useless, even the time can be displayed incorrectly. This wear app mutes the microphone of wear devices and disables the wear speech recognition without flight mode. So you can use and enjoy your watch without running a permanent spy application. This protects your privacy and the privacy of your friends.<br>Permanently running speech recognition can be dangerous and expensive. For instance somebody nearby, or onTV says &quot;OK Google dial 0900-XXXX&quot; and the phone dials a expensive number.<br>Check the check box to mute the mircophone. Uncheck it to reenable the voice recognition.<br><br>Will not work with Moto360 and Sony SW3!",
+    "histogram": {
+        "1": 6,
+        "2": 2,
+        "3": 3,
+        "4": 2,
+        "5": 22
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/B1xFd_rygbTAAGvFUFt1DcOEU5U8eLF64l6EUVCQKVUyPZEJcokuPn-znm2ssBUSCaE=h310",
+        "//lh3.googleusercontent.com/MVOaW5yGrLPXSXCo47LZHydZ_HoRQenO4qDvYhOSsyXyT-LAGHNfcpH6sDEHD0cf49ku=h310",
+        "//lh3.googleusercontent.com/lz6yUkP7MPab54n-ZrypVC8NsTDKoav3MqXpLzenw8hSc-af8ilWLncpVfQVrDin-OqJ=h310",
+        "//lh3.googleusercontent.com/MhF8fgPkKxHY2ydC3MKIIocr25IO9WVYfzhcgx_NGQcH-0G_eUCem3mzSZURXNTj9QI=h310",
+        "//lh3.googleusercontent.com/elD5sqVoDo5CGMZBfd16-VATpHgWAvXRM5AMGiXXUuT57rIbHA7Fb_Dc6XQmJpfG9P8=h310"
+    ],
+    "comments": [
+        "Works perfectly -  Moto 360 gen 2 Thank goodness there's still a few people out there who believe in some privacy",
+        "Still working Moto 360 1st edition with 5.1.1 still recognizing Ok Google..",
+        "Works as intended on my Sony Smartwatch 3",
+        "Thank you!!!!! I've been looking for this forever!!!!!",
+        "Dalrymple",
+        "I have no idea how to judge this, or even to verify this isn't malicious.  \"OK Google\" on 5.1.1 still triggers but speaking ANYTHING after saying \"OK Google\" will not be picked up.  So I am a little worried this is not doing as it says. The fact the watch still responds to OK google leads me to believe this app could be listening., which no offense to the developer but I would rather google listen in then you. The whole purpose of installing this was to increase security by muting/disabling android wears mic, I never use voice activation and the thought of a watch that whenever the face is lit up is actively listening...i just dont like it.  Hopefully I can get some clarification, till then this is getting uninstalled for fear of security risk.  to be noted it only requires Mic permissions so technically it should be safe!"
+    ],
+    "recentChanges": [
+        "final fix for Motoprola watches (e.g. moto360)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.udue.zim.bischoff.not_okay&hl=en&gl=us",
+    "appId": "de.udue.zim.bischoff.not_okay"
+}

@@ -1,0 +1,56 @@
+{
+    "title": "KT 웨어러블 콜",
+    "summary": "Conveniently set pongan KT wearables and smart call forwarding and one-number calling service features",
+    "icon": "//lh3.googleusercontent.com/_F49ORZC_kh08HZJ-VLUkTlw82IAIwCTw1R4DdmOKPt5EgUv0jHMv4Z7Z_KzKB8DLQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 2.4,
+    "reviews": 244,
+    "developer": "KT Corporation",
+    "developerId": "KT+Corporation",
+    "developerEmail": "wearablecall@kt.com",
+    "developerWebsite": "http://www.olleh.com",
+    "developerAddress": "경기도 성남시 분당구 불정로 90 KT",
+    "updated": "September 4, 2017",
+    "version": "Varies with device",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "size": "Varies with device",
+    "description": "KT 웨어러블 콜은 웨어러블 기기(이하 웨어러블) 와 스마트폰(이하 모단말)을 함께 이용하는 이용자가 단말 이용 상황에 따라 두 지정 단말에서 모단말과 웨어러블 기기의 착신전환을 간단하게 설정할 수 있고, 원넘버 서비스 가입 시 웨어러블에서 모단말 번호로 발신할 수 있는 기능을 설정 할 수 있도록 하는 어플입니다. (예. 웨어러블을 폰에서 착신 또는 폰을 웨어러블에서 착신하도록 설정. 웨어러블에서 모단말 회선 번호로 발신하도록 설정)폰과 동일 명의의 특정 웨어러블 전용 요금제를 가입한 KT 고객 중 해당 서비스가 가입된 경우만 사용 가능합니다.[ KT 웨어러블 콜 의 접근 권한 항목 및 필요 사유 ]Android (폰) 앱1.필수적 접근권한# 전화권한 : 착신전환 서비스 가입조회/상태조회/착신설정 기능을 위한 연락처 정보 및 통신사 구별# 배터리 최적화 예외 권한 : 백그라운드 상태에서 착신전환 서비스 제공Android Wear (워치) 앱1.필수적 접근권한# 전화권한 : 연락처 확인 및 통신사 구별2.선택적 접근권한# 신체센서권한 : 심박 수치 기반의 자동착신 기능 제공* 선택적 접근권한의 허용에는 동의하지 않아도 서비스의 이용이 가능합니다. * KT 웨어러블 콜 은/는 안드로이드 6.0 이상 버전에 맞추어 선택적 접근권한을 개별적으로 동의하고 설정할 수 있도록 개발되었습니다. 만약 안드로이드 6.0 미만 버전을 이용하는 경우에는 단말장치 제조업체에서 운영체제 업그레이드 기능을 제공하는지 확인하여 업그레이드를 진행하시고 이용하시기 바랍니다. 또한 운영체제가 업그레이드되더라도 기존 앱에서 동의한 접근권한이 바뀌지는 않기 때문에 접근권한을 다시 설정하기 위해서는 단말 설정 메뉴에서 재설정하시면 됩니다.----개발자 연락처 :100",
+    "descriptionHTML": "KT &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14; &#xCF5C;&#xC740; &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14; &#xAE30;&#xAE30;(&#xC774;&#xD558; &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14;) &#xC640; &#xC2A4;&#xB9C8;&#xD2B8;&#xD3F0;(&#xC774;&#xD558; &#xBAA8;&#xB2E8;&#xB9D0;)&#xC744; &#xD568;&#xAED8; &#xC774;&#xC6A9;&#xD558;&#xB294; &#xC774;&#xC6A9;&#xC790;&#xAC00; &#xB2E8;&#xB9D0; &#xC774;&#xC6A9; &#xC0C1;&#xD669;&#xC5D0; &#xB530;&#xB77C; &#xB450; &#xC9C0;&#xC815; &#xB2E8;&#xB9D0;&#xC5D0;&#xC11C; &#xBAA8;&#xB2E8;&#xB9D0;&#xACFC; &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14; &#xAE30;&#xAE30;&#xC758; &#xCC29;&#xC2E0;&#xC804;&#xD658;&#xC744; &#xAC04;&#xB2E8;&#xD558;&#xAC8C; &#xC124;&#xC815;&#xD560; &#xC218; &#xC788;&#xACE0;, &#xC6D0;&#xB118;&#xBC84; &#xC11C;&#xBE44;&#xC2A4; &#xAC00;&#xC785; &#xC2DC; &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14;&#xC5D0;&#xC11C; &#xBAA8;&#xB2E8;&#xB9D0; &#xBC88;&#xD638;&#xB85C; &#xBC1C;&#xC2E0;&#xD560; &#xC218; &#xC788;&#xB294; &#xAE30;&#xB2A5;&#xC744; &#xC124;&#xC815; &#xD560; &#xC218; &#xC788;&#xB3C4;&#xB85D; &#xD558;&#xB294; &#xC5B4;&#xD50C;&#xC785;&#xB2C8;&#xB2E4;. (&#xC608;. &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14;&#xC744; &#xD3F0;&#xC5D0;&#xC11C; &#xCC29;&#xC2E0; &#xB610;&#xB294; &#xD3F0;&#xC744; &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14;&#xC5D0;&#xC11C; &#xCC29;&#xC2E0;&#xD558;&#xB3C4;&#xB85D; &#xC124;&#xC815;. &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14;&#xC5D0;&#xC11C; &#xBAA8;&#xB2E8;&#xB9D0; &#xD68C;&#xC120; &#xBC88;&#xD638;&#xB85C; &#xBC1C;&#xC2E0;&#xD558;&#xB3C4;&#xB85D; &#xC124;&#xC815;)<br>&#xD3F0;&#xACFC; &#xB3D9;&#xC77C; &#xBA85;&#xC758;&#xC758; &#xD2B9;&#xC815; &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14; &#xC804;&#xC6A9; &#xC694;&#xAE08;&#xC81C;&#xB97C; &#xAC00;&#xC785;&#xD55C; KT &#xACE0;&#xAC1D; &#xC911; &#xD574;&#xB2F9; &#xC11C;&#xBE44;&#xC2A4;&#xAC00; &#xAC00;&#xC785;&#xB41C; &#xACBD;&#xC6B0;&#xB9CC; &#xC0AC;&#xC6A9; &#xAC00;&#xB2A5;&#xD569;&#xB2C8;&#xB2E4;.<br><br>[ KT &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14; &#xCF5C; &#xC758; &#xC811;&#xADFC; &#xAD8C;&#xD55C; &#xD56D;&#xBAA9; &#xBC0F; &#xD544;&#xC694; &#xC0AC;&#xC720; ]<br>Android (&#xD3F0;) &#xC571;<br>1.&#xD544;&#xC218;&#xC801; &#xC811;&#xADFC;&#xAD8C;&#xD55C;<br># &#xC804;&#xD654;&#xAD8C;&#xD55C; : &#xCC29;&#xC2E0;&#xC804;&#xD658; &#xC11C;&#xBE44;&#xC2A4; &#xAC00;&#xC785;&#xC870;&#xD68C;/&#xC0C1;&#xD0DC;&#xC870;&#xD68C;/&#xCC29;&#xC2E0;&#xC124;&#xC815; &#xAE30;&#xB2A5;&#xC744; &#xC704;&#xD55C; &#xC5F0;&#xB77D;&#xCC98; &#xC815;&#xBCF4; &#xBC0F; &#xD1B5;&#xC2E0;&#xC0AC; &#xAD6C;&#xBCC4;<br># &#xBC30;&#xD130;&#xB9AC; &#xCD5C;&#xC801;&#xD654; &#xC608;&#xC678; &#xAD8C;&#xD55C; : &#xBC31;&#xADF8;&#xB77C;&#xC6B4;&#xB4DC; &#xC0C1;&#xD0DC;&#xC5D0;&#xC11C; &#xCC29;&#xC2E0;&#xC804;&#xD658; &#xC11C;&#xBE44;&#xC2A4; &#xC81C;&#xACF5;<br><br>Android Wear (&#xC6CC;&#xCE58;) &#xC571;<br>1.&#xD544;&#xC218;&#xC801; &#xC811;&#xADFC;&#xAD8C;&#xD55C;<br># &#xC804;&#xD654;&#xAD8C;&#xD55C; : &#xC5F0;&#xB77D;&#xCC98; &#xD655;&#xC778; &#xBC0F; &#xD1B5;&#xC2E0;&#xC0AC; &#xAD6C;&#xBCC4;<br><br>2.&#xC120;&#xD0DD;&#xC801; &#xC811;&#xADFC;&#xAD8C;&#xD55C;<br># &#xC2E0;&#xCCB4;&#xC13C;&#xC11C;&#xAD8C;&#xD55C; : &#xC2EC;&#xBC15; &#xC218;&#xCE58; &#xAE30;&#xBC18;&#xC758; &#xC790;&#xB3D9;&#xCC29;&#xC2E0; &#xAE30;&#xB2A5; &#xC81C;&#xACF5;<br><br>* &#xC120;&#xD0DD;&#xC801; &#xC811;&#xADFC;&#xAD8C;&#xD55C;&#xC758; &#xD5C8;&#xC6A9;&#xC5D0;&#xB294; &#xB3D9;&#xC758;&#xD558;&#xC9C0; &#xC54A;&#xC544;&#xB3C4; &#xC11C;&#xBE44;&#xC2A4;&#xC758; &#xC774;&#xC6A9;&#xC774; &#xAC00;&#xB2A5;&#xD569;&#xB2C8;&#xB2E4;. <br>* KT &#xC6E8;&#xC5B4;&#xB7EC;&#xBE14; &#xCF5C; &#xC740;/&#xB294; &#xC548;&#xB4DC;&#xB85C;&#xC774;&#xB4DC; 6.0 &#xC774;&#xC0C1; &#xBC84;&#xC804;&#xC5D0; &#xB9DE;&#xCD94;&#xC5B4; &#xC120;&#xD0DD;&#xC801; &#xC811;&#xADFC;&#xAD8C;&#xD55C;&#xC744; &#xAC1C;&#xBCC4;&#xC801;&#xC73C;&#xB85C; &#xB3D9;&#xC758;&#xD558;&#xACE0; &#xC124;&#xC815;&#xD560; &#xC218; &#xC788;&#xB3C4;&#xB85D; &#xAC1C;&#xBC1C;&#xB418;&#xC5C8;&#xC2B5;&#xB2C8;&#xB2E4;. &#xB9CC;&#xC57D; &#xC548;&#xB4DC;&#xB85C;&#xC774;&#xB4DC; 6.0 &#xBBF8;&#xB9CC; &#xBC84;&#xC804;&#xC744; &#xC774;&#xC6A9;&#xD558;&#xB294; &#xACBD;&#xC6B0;&#xC5D0;&#xB294; &#xB2E8;&#xB9D0;&#xC7A5;&#xCE58; &#xC81C;&#xC870;&#xC5C5;&#xCCB4;&#xC5D0;&#xC11C; &#xC6B4;&#xC601;&#xCCB4;&#xC81C; &#xC5C5;&#xADF8;&#xB808;&#xC774;&#xB4DC; &#xAE30;&#xB2A5;&#xC744; &#xC81C;&#xACF5;&#xD558;&#xB294;&#xC9C0; &#xD655;&#xC778;&#xD558;&#xC5EC; &#xC5C5;&#xADF8;&#xB808;&#xC774;&#xB4DC;&#xB97C; &#xC9C4;&#xD589;&#xD558;&#xC2DC;&#xACE0; &#xC774;&#xC6A9;&#xD558;&#xC2DC;&#xAE30; &#xBC14;&#xB78D;&#xB2C8;&#xB2E4;. &#xB610;&#xD55C; &#xC6B4;&#xC601;&#xCCB4;&#xC81C;&#xAC00; &#xC5C5;&#xADF8;&#xB808;&#xC774;&#xB4DC;&#xB418;&#xB354;&#xB77C;&#xB3C4; &#xAE30;&#xC874; &#xC571;&#xC5D0;&#xC11C; &#xB3D9;&#xC758;&#xD55C; &#xC811;&#xADFC;&#xAD8C;&#xD55C;&#xC774; &#xBC14;&#xB00C;&#xC9C0;&#xB294; &#xC54A;&#xAE30; &#xB54C;&#xBB38;&#xC5D0; &#xC811;&#xADFC;&#xAD8C;&#xD55C;&#xC744; &#xB2E4;&#xC2DC; &#xC124;&#xC815;&#xD558;&#xAE30; &#xC704;&#xD574;&#xC11C;&#xB294; &#xB2E8;&#xB9D0; &#xC124;&#xC815; &#xBA54;&#xB274;&#xC5D0;&#xC11C; &#xC7AC;&#xC124;&#xC815;&#xD558;&#xC2DC;&#xBA74; &#xB429;&#xB2C8;&#xB2E4;.<br>----<br>&#xAC1C;&#xBC1C;&#xC790; &#xC5F0;&#xB77D;&#xCC98; :<br>100",
+    "histogram": {
+        "1": 136,
+        "2": 15,
+        "3": 14,
+        "4": 26,
+        "5": 53
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hsU_70bsn0ivUk_D22TAllEmdgrCSYrO4Mk3bGapnwmJPDA0lURLBboBr1DD9ojxMzwz=h310",
+        "//lh3.googleusercontent.com/ZSNrOX3S9K0r2_SebSWkzD5pOMB9_RMamGu8ZtPUEcexkJB_9K_uQb3vdBf4Q2oUqvA=h310",
+        "//lh3.googleusercontent.com/YUnJxOMsVCeDJKR3Oj-qGPjyR6vh1B1CmMCq7V0-zqw-B9k39s4ElOGKPpZDM0bYLzM=h310",
+        "//lh3.googleusercontent.com/a82h4X87Jl2btvOSa8qtMWmOkSa4o8E47GVRrGO0X3l_zJPlrPyxCiwfmDw9X5AHDL8=h310",
+        "//lh3.googleusercontent.com/nttDIv3dpgrZ_7wQweywpkdaFzQBM1kIF6a67tpYQVHtq4eruieXl6yIUMAdeZr-iA=h310",
+        "//lh3.googleusercontent.com/bGbHf6c1RWVf5aSQ4Bbm-HGKvk9PXzq9atksnwI1LmaKFAi_UeRFMdjO-6CnoBt6vQ=h310",
+        "//lh3.googleusercontent.com/priMAgqNkITyVxnSSVfWBqYeQ2cKemp_0TvWNATC5liwSYIbmvbfbFAPnE29N_XbZA=h310",
+        "//lh3.googleusercontent.com/S-gjCFIxqFqxQayEuyX4a25D4_8ruRIMGV6yV5pRe2ibDMDRXxIVdbT2vqUbw3AiKv8=h310",
+        "//lh3.googleusercontent.com/33h9W4WKGQd3rkok4gaT7x067KKkvC5NEjiZ0_spwZXZHSxGftEPMnb3yOUV8Frrxtk=h310",
+        "//lh3.googleusercontent.com/jmcpDelIWocWtdZnV6KniSg-SzM2cG141wepW0wXp11rt7u3rrZ64Zb4SyJ2rtfOUjo=h310"
+    ],
+    "comments": [
+        "자동착신 기능을 안쓰고 수동으로만 쓰려는데도 강제적인 배터리 최적화 예외 설정은 좀 아쉽습니다"
+    ],
+    "recentChanges": [
+        "- 마이너 버그 수정 및 최신 SAP (Samsung Accessory Protocol) Library 적용"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kt.watchcfmanager&hl=en&gl=us",
+    "appId": "com.kt.watchcfmanager"
+}

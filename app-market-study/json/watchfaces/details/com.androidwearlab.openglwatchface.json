@@ -1,0 +1,50 @@
+{
+    "title": "OpenGL Watch Faces",
+    "summary": "A selection of Android Wear watch faces implemented using Open GL.",
+    "icon": "//lh4.ggpht.com/2IimR3Uuk0g2PAIw5bYL3qerWKnReJ62WU1SERgg0L8K9HXmj4SUCWsl54oLBpp-mg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 7,
+    "developer": "AndroidWearLab",
+    "developerId": "AndroidWearLab",
+    "developerEmail": "androidwearlab@gmail.com",
+    "updated": "February 17, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This application demonstrates a number of Android Wear watch faces with various animation effects.Effects include:Rotating texturesAnimations3D objectsEach face can be configured with a time piece; analogue or digital.More to come...Suggestions welcome.",
+    "descriptionHTML": "This application demonstrates a number of Android Wear watch faces with various animation effects.<br><br>Effects include:<br><br>Rotating textures<br>Animations<br>3D objects<br><br>Each face can be configured with a time piece; analogue or digital.<br><br>More to come...<br><br>Suggestions welcome.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/Hwtv7FKkNGYZFicqbZnu6547m8FjXGSYmo82RbIbA2hBJ9BtAiaP1qV0OjwSWQ38Uw=h310",
+        "//lh5.ggpht.com/GmGkFOyFxApqkX1UU-oQc9_f4pKa0pWkHp6NTSdR__iu9NIl4pS9P0PyfCHFExeszA=h310",
+        "//lh5.ggpht.com/yzTesgq7Yu-CAH2LUlTyo5aVTT84wZJj9ebPT6IUlM6xz3Kx4CmsRBtK7OwNfQg5DA=h310",
+        "//lh4.ggpht.com/9YDpbkFGkBUnfBWhyG9mCF-pEwVs2q4AudfMlNgrmL_RoPL0bvCkuSSaBb67MoZPgw=h310",
+        "//lh4.ggpht.com/Kj6RvPuJQkP7vvWoya0jSmpAqVjZZCErS_bEkbojdEHC6pb3h1X-qwzz6kQJC0J7_ek=h310"
+    ],
+    "comments": [
+        "Can you please add an 12 hours mode?",
+        "Awesome!",
+        "Nice"
+    ],
+    "recentChanges": [
+        "Initial release."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.androidwearlab.openglwatchface&hl=en&gl=us",
+    "appId": "com.androidwearlab.openglwatchface"
+}

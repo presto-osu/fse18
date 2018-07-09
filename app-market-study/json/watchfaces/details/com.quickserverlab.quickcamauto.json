@@ -1,0 +1,58 @@
+{
+    "title": "Drive Cam",
+    "summary": "Helps you take pictures while driving with just a hand wave.",
+    "icon": "//lh6.ggpht.com/3Z9lTD8nkN_0HFAcYf0K_wOJ04BQdJ-4ND2tDIMjjfdz1O-Cij8i_rbZi1nfOMtXG42-=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.3,
+    "reviews": 1588,
+    "developer": "QuickServer Lab",
+    "developerId": "QuickServer+Lab",
+    "developerEmail": "quickcamauto@quickserverlab.com",
+    "developerWebsite": "http://www.quickserverlab.com/",
+    "developerAddress": "QuickServer Lab,\nGA, SLV Park, KR Garden 3 Main,\nMurugeshpalya,\nBangalore - 560017\nKarnataka, INDIA",
+    "updated": "January 7, 2015",
+    "version": "1.6.06",
+    "genre": "Photography",
+    "genreId": "PHOTOGRAPHY",
+    "description": "Drive Cam (Formerly Quick Cam Auto) helps you take pictures when driving with just a hand wave.When we drive we come across many interesting moments  and we feel bad that we can't capture it without stopping or our camera is not ready. We feel memories are important so “Drive Cam” will help you capture these moments.Once you setup your phone on the dashboard just open the app. Now any time you come across any thing interesting you just have to wave your hand on top of the phone (close to proximity sensor) to tell DriveCam to capture the picture. Key features:- Voice Notification – when picture is taken and saved   (needs to be enabled from preferences section)- Monitors proximity sensor for commands- Wake up screen when picture is taken- Capture Delay now configureable in preferences- Show preview button to align phone during setup- Added support for Geo Tagging (configureable)- Supports Advanced Controls  [#]  - Exposure & Zoom settings changes on UI [#]  - Focusing Mode [#]  - Flash Mode [#]  - Scene Mode [#]  - White Balance [#]- Changing of location to save picture [#]- Switching camera (back & front) - selfie support- Countdown timer- Tasker plugin [#]- Android wear supported[#] Pro OnlyLanguages:   - English, Japanese, Chinese, Arabic, Hindi, Russian, Thai, Hebrew, Portuguese, Spanish and KoreanEnjoy and have a safe journey!For any questions, problems or wishes please email us. Thank you for using Drive Cam.",
+    "descriptionHTML": "Drive Cam (Formerly Quick Cam Auto) helps you take pictures when driving with just a hand wave.<br><br>When we drive we come across many interesting moments  and we feel bad that we can&apos;t capture it without stopping or our camera is not ready. We feel memories are important so &#x201C;Drive Cam&#x201D; will help you capture these moments.<br><br>Once you setup your phone on the dashboard just open the app. Now any time you come across any thing interesting you just have to wave your hand on top of the phone (close to proximity sensor) to tell DriveCam to capture the picture. <br><br>Key features:<br>- Voice Notification &#x2013; when picture is taken and saved <br>  (needs to be enabled from preferences section)<br>- Monitors proximity sensor for commands<br>- Wake up screen when picture is taken<br>- Capture Delay now configureable in preferences<br>- Show preview button to align phone during setup<br>- Added support for Geo Tagging (configureable)<br>- Supports Advanced Controls  [#]<br>  - Exposure &amp; Zoom settings changes on UI [#]<br>  - Focusing Mode [#]<br>  - Flash Mode [#]<br>  - Scene Mode [#]<br>  - White Balance [#]<br>- Changing of location to save picture [#]<br>- Switching camera (back &amp; front) - selfie support<br>- Countdown timer<br>- Tasker plugin [#]<br>- Android wear supported<br><br>[#] Pro Only<br><br>Languages:  <br> - English, Japanese, Chinese, Arabic, Hindi, Russian, Thai, Hebrew, Portuguese, Spanish and Korean<br><br>Enjoy and have a safe journey!<br><br>For any questions, problems or wishes please email us. Thank you for using Drive Cam.",
+    "histogram": {
+        "1": 486,
+        "2": 88,
+        "3": 141,
+        "4": 229,
+        "5": 644
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/Pr3KP1lNNy7-JYs1GCCwATxvj02l-f0AjnZUL_8J5x0CI5MUy3kLVxgi-sHuzKuHKA=h310",
+        "//lh6.ggpht.com/vbC389dUIqcCoUrpgFM9lcpheRN6k_L4mGKVb1KQ3WihBDJBcG8ibDTfNbJco_O9Qfs=h310",
+        "//lh5.ggpht.com/fulQrnsoisOosDavVb8_sXXNpsOYlsemi4ysVTZEW30CrBNG-vxab6hWAwTDxw4xEA=h310",
+        "//lh4.ggpht.com/S-seJK0dnJvTSpPMDCxFbhatwvRybTQ3As5lXQDnvMF1XCjvOK5AFy-1VyUIDOseWOLI=h310",
+        "//lh3.ggpht.com/feJ8A7m6XAlshfcsUoaIkYtHXL2RmcgfvzofPtBPSuHCssik6bLkViKU5MUG044mdvs=h310",
+        "//lh5.ggpht.com/U83iEbXfuoqT-QxOceeq7IaX_0D2-BVD4PpWIBIcsAFAGBDSfWmuviCZk-bpHOeTo28=h310"
+    ],
+    "video": "https://www.youtube.com/embed/W2S8U7YlqxM",
+    "comments": [
+        "Good idea but bugged The application seems to be good at first sight. But you do not have any countdown to make sure the picture is well taken, no real visibility when the hand is catched...",
+        "eek... what happened? it won't open... fix it for 5 stars... nice app tho",
+        "terrible just don't",
+        "Good one Very helpful for drivers",
+        "Very nice Very cool",
+        "Es una porquería!"
+    ],
+    "recentChanges": [
+        "+ Changed name to Drive Cam",
+        "+ Added basic shake support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.quickserverlab.quickcamauto&hl=en&gl=us",
+    "appId": "com.quickserverlab.quickcamauto"
+}

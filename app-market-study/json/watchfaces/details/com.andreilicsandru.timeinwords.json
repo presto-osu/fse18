@@ -1,0 +1,56 @@
+{
+    "title": "Time In Words Watch Face",
+    "summary": "An elegant Watch Face that tells Time in Words.",
+    "icon": "//lh3.googleusercontent.com/SicBLWpOsVlobOqaAEgVNrA2Tfdzq4yq9MngbrNeb5HTE02FaDlVUcqtMoH0ZP7PVh0=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 189,
+    "developer": "Andrei Licsandru",
+    "developerId": "Andrei+Licsandru",
+    "developerEmail": "andrei.licsandru.dev@gmail.com",
+    "developerAddress": "030965, Bucuresti, Romania",
+    "updated": "February 2, 2016",
+    "version": "2.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Time in Words displays the time in an elegant fashion, lighting up the corresponding words!Available in English, German and Swedish.Carefully designed for all Round and Square smartwatches running Android Wear!I am aware of the watchface missing for users running Android 5.x and I'm working to release a fix asap! Thank you for the bug reports and for your patience!💡PermissionsTime in Words requires permission to read the CALENDAR. It will ask two times to enable access to Calendar. You only need to allow access if you use the CALENDAR.The watchface may request the permission to read calendar events plus confidential information, that is how the Calendar permission is described as on Android Marshmallow. If you are unsure about this, you can safely refuse the access, it will not affect other functionalities.v2.1 MAJOR OVERHAULTime in Words now features a unique set of five screens that can be easily switched between by gently tapping the screen on its edges!Manage your appointments in the CALENDAR screen, where you can double tap to open the Wear Calendar!Check the WEATHER before going outside unprepared! (Weather provider is OpenWeatherMap)See the current DATE and BATTERY LEVEL beautifully shaped by the grid of letters!Check the screenshots above for more details!⌚ Features★ Weather, calendar, date and battery level★ Specify Weather update interval★ Notification cards awareness★ Custom background and letters color★ Change Ambient letters color to match Interactive letters color★ Enable/disable IT IS in Ambient mode★ Enable/disable inactive letters★ Enable/disable AM/PM indicatorTime in Words Watch Face is perfectly compatible with Round and Square Smartwatches!Time in Words is a premium watchface and thoroughly tested.In case you encounter any problems or if you have any questions or suggestions, send me an e-mail at andrei.licsandru.dev@gmail.com. I will be more than happy to help you!Time in Words requires Android Wear 5.0+ and Android 4.3+ (Jelly Bean).If the watch face does not appear within a few minutes from the install, run 'Resync apps' from 'Settings' in Android Wear.If the watch face still does not sync:- Uninstall the app- Disconnect the smartwatch from the phone- Restart the smartwatch- Reinstall the appEnjoy!© Andrei Licsandru. All rights reserved.",
+    "descriptionHTML": "<b>Time in Words displays the time in an elegant fashion, lighting up the corresponding words!</b><br>Available in <b>English</b>, <b>German</b> and <b>Swedish</b>.<br>Carefully designed for all <b>Round and Square smartwatches</b> running Android Wear!<br><br><b><i>I am aware of the watchface missing for users running Android 5.x and I&apos;m working to release a fix asap! Thank you for the bug reports and for your patience!</i></b><br><br><b>&#x1F4A1;Permissions</b><br><b>Time in Words requires permission to read the CALENDAR.</b> It will ask two times to enable access to Calendar. <b>You only need to allow access if you use the CALENDAR</b>.<br>The watchface <i>may</i> request the permission to <i>read calendar events plus confidential information</i>, that is how the Calendar permission is described as on Android Marshmallow. If you are unsure about this, you can safely refuse the access, it will not affect other functionalities.<br><br><b>v2.1 MAJOR OVERHAUL</b><br>Time in Words now <b>features a unique set of five screens</b> that can be easily switched between by gently tapping the screen on its edges!<br>Manage your appointments in the <b>CALENDAR</b> screen, where you can <b>double tap to open the Wear Calendar</b>!<br>Check the <b>WEATHER</b> before going outside unprepared! (Weather provider is OpenWeatherMap)<br>See the current <b>DATE</b> and <b>BATTERY LEVEL</b> beautifully shaped by the grid of letters!<br><b>Check the screenshots above</b> for more details!<br><br><b>&#x231A; Features</b><br>&#x2605; Weather, calendar, date and battery level<br>&#x2605; Specify Weather update interval<br>&#x2605; Notification cards awareness<br>&#x2605; Custom background and letters color<br>&#x2605; Change Ambient letters color to match Interactive letters color<br>&#x2605; Enable/disable IT IS in Ambient mode<br>&#x2605; Enable/disable inactive letters<br>&#x2605; Enable/disable AM/PM indicator<br><br>Time in Words Watch Face is perfectly compatible with Round and Square Smartwatches!<br><br><b>Time in Words is a premium watchface and thoroughly tested.<br>In case you encounter any problems or if you have any questions or suggestions, send me an e-mail at andrei.licsandru.dev@gmail.com. I will be more than happy to help you!</b><br><br>Time in Words requires Android Wear 5.0+ and Android 4.3+ (Jelly Bean).<br><br>If the watch face does not appear within a few minutes from the install, run &apos;Resync apps&apos; from &apos;Settings&apos; in Android Wear.<br>If the watch face still does not sync:<br>- Uninstall the app<br>- Disconnect the smartwatch from the phone<br>- Restart the smartwatch<br>- Reinstall the app<br><br><b>Enjoy!</b><br>&#xA9; Andrei Licsandru. All rights reserved.",
+    "histogram": {
+        "1": 19,
+        "2": 11,
+        "3": 18,
+        "4": 49,
+        "5": 92
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ujFiAW9CluDgnmltIBmH8F3wf4o0jMCpy_l2NTwh-XvSKGtZzy_NFvc_Q__pbdGh_lA=h310",
+        "//lh3.googleusercontent.com/vFCMY8PbKsbD1s1XcBYg7ZZqJ7DvcQ9hh7VLMKQC7N7KOmILTqryABrSHfyl669Mrz0=h310",
+        "//lh3.googleusercontent.com/sIuuZDKhrH0abICz9p05b5AS4Mc8XcIYsR3yKnhsV0es7ZTxAKhtRk_l77ZsWMkEzEo=h310"
+    ],
+    "comments": [
+        "Loving it, but.. Looks great :) good to see things fixed and working again! Im extremely satisfied with the dev talking to me and communicating with its users! Problems im experiencing right now: opening calender (left) crashes the face. And the weather (right) resets the location and will not hold a set location! Again, happy the dev is constantly looking to better the face and im sure it will be fixed soon!",
+        "Great application. Love it. Nice touch with the German language.  You might think of improving the colors and fonts settings, because they currently are very counter-intuitive.  Also, there appears to be a bug setting the \"enable ambient color\". It does not automatically update the ambient color for letters after the color for letters in active mode was changed.",
+        "Amazing but... Amazing app best thing I could have ever asked for! Sadly the calendar on the left caused the face to crash, then pressing it a second time causes the face to completely reset the weather and switch to the factor face. I am using a Asus ZenWatch 3. Please fix! Thank you :)",
+        "Hi, great watch face! Your new update keeps crashing on my Moto 360 though. Anyway of going back to the previous version? I preferred the layout and time display also. Thanks.",
+        "Great Bravo!!! But it has a problem, at least on Sony sw3. Everytime I go to its settings the weather location is changing back to Bucharest. For those with the calendar problem, you have an app that is drawing over the apps (wear mini launcher for example). Disable it set the permissions for the watch face and then reinstall / enable the other app. This is a bug I think from the OS. It happens on other apps as well.",
+        "Calendar crashes Doesn't ask to get calendar permission, just crashes when you left tap. Changing weather location is also not working."
+    ],
+    "recentChanges": [
+        "<b>v2.1 MAJOR OVERHAUL</b>",
+        "Time in Words now <b>features a unique set of five screens</b> that can be easily switched between by gently tapping the screen on its edges!",
+        "Manage your appointments in the <b>CALENDAR</b> screen, where you can <b>double tap to open the Wear Calendar</b>!",
+        "Check the <b>WEATHER</b> before going outside unprepared! (Weather provider is OpenWeatherMap)",
+        "See the current <b>DATE</b> and <b>BATTERY LEVEL</b> beautifully shaped by the grid of letters!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.andreilicsandru.timeinwords&hl=en&gl=us",
+    "appId": "com.andreilicsandru.timeinwords"
+}

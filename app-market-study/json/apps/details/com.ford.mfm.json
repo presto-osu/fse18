@@ -1,0 +1,60 @@
+{
+    "title": "MyFord Mobile",
+    "summary": "Get the most from your electrified Ford vehicle with the new MyFord Mobile app",
+    "icon": "//lh3.googleusercontent.com/aIUyxwm-3sf4Wu41UQ_OQSkv_vX-IMkJ-cUHikfFdor0mWTBfPEce32wE3DgNdJ8GEU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 2.6,
+    "reviews": 893,
+    "developer": "Ford Motor Co.",
+    "developerId": "Ford+Motor+Co.",
+    "developerEmail": "support@myfordmobile.com",
+    "developerWebsite": "http://www.myfordmobile.com",
+    "developerAddress": "1 American Rd\nDearborn, MI 48126",
+    "updated": "February 8, 2018",
+    "version": "3.6.19",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This version of the MyFord mobile app is available for Ford C-Max Energi and Fusion Energi Plug-in Hybrids as well as Focus Electric vehicles equipped with embedded modems. MyFord Mobile allows consumers to manage vehicle functions from a smartphone. This app will work in combination with the MyFordMobile website to give access to consumers in the method which works best for their lifestyles.The MyFord Mobile app allows consumers to:- View the current state of charge and fuel level- Commence charging- Precondition the vehicle cabin temperature by setting ‘Go Times’- View Value Charge profiles- Find charge stations- Use remote vehicle controlsConsumers will initially receive MyFord Mobile free of charge at purchase, and for a fee after the initial 5 year subscription subsides. Additional information regarding MyFord Mobile interaction with Ford Vehicles can be found on: ford.com/cmax, ford.com/fusion, ford.com/focus, myfordmobile.com or plugintoford.com.",
+    "descriptionHTML": "This version of the MyFord mobile app is available for Ford C-Max Energi and Fusion Energi Plug-in Hybrids as well as Focus Electric vehicles equipped with embedded modems. MyFord Mobile allows consumers to manage vehicle functions from a smartphone. This app will work in combination with the MyFordMobile website to give access to consumers in the method which works best for their lifestyles.<br><br>The MyFord Mobile app allows consumers to:<br>- View the current state of charge and fuel level<br>- Commence charging<br>- Precondition the vehicle cabin temperature by setting &#x2018;Go Times&#x2019;<br>- View Value Charge profiles<br>- Find charge stations<br>- Use remote vehicle controls<br><br>Consumers will initially receive MyFord Mobile free of charge at purchase, and for a fee after the initial 5 year subscription subsides. Additional information regarding MyFord Mobile interaction with Ford Vehicles can be found on: ford.com/cmax, ford.com/fusion, ford.com/focus, myfordmobile.com or plugintoford.com.",
+    "histogram": {
+        "1": 371,
+        "2": 118,
+        "3": 101,
+        "4": 112,
+        "5": 191
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/V_PHaSFOkjzGMxeygMcu7wTzfiXCA03pswede2hGNJSpSn1ckEiVV1A2EfMR5ViwZ0Vv=h310",
+        "//lh3.googleusercontent.com/HC0DVDWm6e9UvFFyBReLMW_xthm7VyNodVI8_dr3XRY1mllCeFGcbwhllvYZjuWch-E=h310",
+        "//lh3.googleusercontent.com/QFSQHnG6ddZgeW-kvXhSpcWbcmKZsRkTbveFnk7_X62avDoTbJcXbEFqHleqGy8GZg=h310",
+        "//lh3.googleusercontent.com/-ObYtdi2VfRR3RdQgTecjiW-jmYEGiClQsOZ1fsSxkRw2ncfsh6iagFAyvRLMy897YQ=h310",
+        "//lh3.googleusercontent.com/CaNCTzgFD64Oh9y-sHv6DTlzi6hcWVZ_v--YpiS6tH-lSpYgcqTUiEcRWDQ45vKVEWo=h310",
+        "//lh3.googleusercontent.com/NSly5N4_3rbI9HPER7FRfFu5yrLf0LtKQPMvmZ9nBeLpAreGVb2G2iub-tuJZVf94h6J=h310",
+        "//lh3.googleusercontent.com/eheTCnsiT_0mePOz9_a7OUmPDONixtcRKobxCZXvt2Ye5wMSgbOX44kBpq1mCOoA7N0=h310"
+    ],
+    "comments": [
+        "Every time they update this app they fix one problem and create two more.  Latest problem is that the miles per gallon rating in the trip log is useless. It goes from .1 mpg to 5000 plus mpg.   Never a credible number.  And these guys want to sell us a self-driving car someday?",
+        "Don't like the new interface. Fuel gauge is really small. Interface is generally slow to respond. Always reports MPG as 0.1. Someone forgot to write their unit tests... Vehicle updates are slow and sometimes fail to update at all.",
+        "User interface takes too long to enable buttons to remote start or lock doors. I should be able to open the app and issue the command immediately, and then let the app make the connection in the background so I'm not forced to wait. That's just poor UI design.",
+        "At first the app didn't work. However, I went to the ford dealer and they updated my 2017 Ford fusion Energi. Now it works great!",
+        "Won't update. Every time I open it tries to update and fails. All my car information is from last August. I use to like this app when it worked.",
+        "Generally works well especially the charging mobile alerts and remote start.  One annoying issue is the Trip and charge log fuel economy MPG rating is always wrong.  On my 35 mile drive this morning it said my economy was 3104 MPG.  This was working a few months ago when originally installed.  Any fix for it?"
+    ],
+    "recentChanges": [
+        "- ON/OFF toggle for GoTimes",
+        "- Updated FAQs",
+        "- Updated Terms & Conditions",
+        "- Other Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ford.mfm&hl=en&gl=us",
+    "appId": "com.ford.mfm"
+}

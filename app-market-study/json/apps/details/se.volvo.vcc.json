@@ -1,0 +1,58 @@
+{
+    "title": "Volvo On Call",
+    "summary": "The official Volvo On Call app",
+    "icon": "//lh3.googleusercontent.com/0sqO7m6eiiMlNDdhhKAB6olQJv650DecK73cdWCZOPYPDKHCibFCsrOYwRlf4o4yNpH3=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.7,
+    "reviews": 3331,
+    "developer": "Volvo Cars",
+    "developerId": "Volvo+Cars",
+    "developerEmail": "vocapp@volvocars.com",
+    "developerWebsite": "http://www.volvocars.com",
+    "developerAddress": "Volvo Car Corporation\nDept. 52520/PVH63\nGöteborg\nSweden",
+    "updated": "February 18, 2018",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "This official Volvo On Call app allows you to interact with your Volvo from your Android phone and Wear device. You will among other things be able to do the following:• Lock and unlock your Volvo remotely. • Start, stop and set timers for your Volvo parking heater or cabin climate.• Start and stop your engine remotely.• Locate your Volvo on a map and make it honk and blink to help you find it.• Find and send a destination to your Volvo navigation system.• Check whether your Volvo is locked and if any doors or windows are open.• Get a notification if you leave your Volvo unlocked or if the alarm is triggered.• Request roadside assistance. • Check your Volvo dashboard status, such as fuel and battery level, trip meters and more.• Access your driving journal; categorize trips, rename trips, see fuel and battery consumption, speed, see your trips on a map and send the driving journal by email.Download now and try the demo mode! Volvo vehicle requirements: Volvo On Call requires a Volvo model year 2012 (North America requires model year 2015.5) equipped with a Volvo On Call Telematics unit and a valid Volvo On Call subscription. Features available depend on your Volvo model and configuration.What we use your permissions for:• Location - Show where you are on a map in relation to your vehicle• Contacts - Allow searching for contacts’ addresses and sending them to your vehicle• Calendar - Send addresses attached to upcoming appointments to your vehicle• Storage - Export contents of driving journal to your device• (Before Android 6.0) Photos/Media/Files - Export contents of driving journal to your device",
+    "descriptionHTML": "This official Volvo On Call app allows you to interact with your Volvo from your Android phone and Wear device. You will among other things be able to do the following:<br><br>&#x2022; Lock and unlock your Volvo remotely. <br>&#x2022; Start, stop and set timers for your Volvo parking heater or cabin climate.<br>&#x2022; Start and stop your engine remotely.<br>&#x2022; Locate your Volvo on a map and make it honk and blink to help you find it.<br>&#x2022; Find and send a destination to your Volvo navigation system.<br>&#x2022; Check whether your Volvo is locked and if any doors or windows are open.<br>&#x2022; Get a notification if you leave your Volvo unlocked or if the alarm is triggered.<br>&#x2022; Request roadside assistance. <br>&#x2022; Check your Volvo dashboard status, such as fuel and battery level, trip meters and more.<br>&#x2022; Access your driving journal; categorize trips, rename trips, see fuel and battery consumption, speed, see your trips on a map and send the driving journal by email.<br><br>Download now and try the demo mode!<br> <br>Volvo vehicle requirements: Volvo On Call requires a Volvo model year 2012 (North America requires model year 2015.5) equipped with a Volvo On Call Telematics unit and a valid Volvo On Call subscription. Features available depend on your Volvo model and configuration.<br><br>What we use your permissions for:<br>&#x2022; Location - Show where you are on a map in relation to your vehicle<br>&#x2022; Contacts - Allow searching for contacts&#x2019; addresses and sending them to your vehicle<br>&#x2022; Calendar - Send addresses attached to upcoming appointments to your vehicle<br>&#x2022; Storage - Export contents of driving journal to your device<br>&#x2022; (Before Android 6.0) Photos/Media/Files - Export contents of driving journal to your device",
+    "histogram": {
+        "1": 458,
+        "2": 316,
+        "3": 378,
+        "4": 809,
+        "5": 1370
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LIHvDy-VNDjLH1aNKvxj3PtqMYOLpcVeKkOb5ICWo47GUk0_hv7-kz7_YGuo2tMbOw=h310",
+        "//lh3.googleusercontent.com/86dD79rI55gS2WLjevnVnN7lGuOvXJlLqvF9gOWiy2dmOIR6JGuyC-6QOutlKXA6Qvw=h310",
+        "//lh3.googleusercontent.com/-pLk2nvYtjopzeVtS_SOcbtZSqAurjLkuDoXOh2Zf_fnxKWhHMKh7FsG-72Q88kag7Y=h310",
+        "//lh3.googleusercontent.com/jjDvudmve7VbD7ntz3FdZvRnrdf0_JOGInflQD4i159RDP1XMwqG64f8ymZ3AcgUQ48=h310",
+        "//lh3.googleusercontent.com/4uNNHtpq2f4c6-KvGMOd89LKPJy_VpADh9FVgC0JeV1IIZdpfRqovYxtEWwpOKIFmElB=h310",
+        "//lh3.googleusercontent.com/VmOiIsiVIVlPoBqD20YQe4BmlsQtVHp4hB9Go7KEVYOFet_muqJ43jVrTYT6aJxKzgE=h310",
+        "//lh3.googleusercontent.com/3ZEZEDKnoI1_RaYvk4ALIK8vfHo5hu2AEUSinr3_53tnIaZdvql3vVQUu1cKdVcOW65C=h310"
+    ],
+    "comments": [
+        "Are 2 main things that are really a must be in this app: allow to send from Google Maps a location directly to the Car. The travel log should show and calculate the real travel not point to point straight since the distance is wrong. Please make this happens.",
+        "I receive data, see  where the car is temprature etc. But cannot send information to the car, start heater  honk n flash etc. It makes the app rather useless",
+        "The app seems not to get a respond signal from the car when a command has been executed. E.g. The app get stuck on \"starting heater\". One has to kill the app and restart to see that the heater is on.",
+        "Works great albeit a bit slow when sending commands. Would get 5 stars if there was support for Google Assistant 😁",
+        "Freezes, wrong status, fix it please.",
+        "Det går ju inte att programmera värmen, har inte fungerat på flera veckor, skärpning!!!"
+    ],
+    "recentChanges": [
+        "Minor bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.volvo.vcc&hl=en&gl=us",
+    "appId": "se.volvo.vcc"
+}

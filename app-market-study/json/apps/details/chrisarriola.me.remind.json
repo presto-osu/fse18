@@ -1,0 +1,53 @@
+{
+    "title": "reMIND",
+    "summary": "Be reminded of what&#39;s most important in the present.",
+    "icon": "//lh6.ggpht.com/cSj_c1xiFqYpDwDFNCyNVIjyOuJRJyD1gZg2MYiOfdlXX8-qanCXVf-Bc6Jr0lyRNA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 24,
+    "developer": "Chris Arriola",
+    "developerId": "Chris+Arriola",
+    "developerEmail": "arriolac279@gmail.com",
+    "developerWebsite": "http://www.chrisarriola.me",
+    "updated": "March 10, 2015",
+    "version": "1.0.17",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "reMIND is an Android Wear application that encourages you to be present and mindful of the moment. reMIND works by gently notifying you and presenting a quote on your Android Wear at a random time during the day. Upon being reminded, you can do your personal mindfulness practice or simply stop what you are doing to appreciate the moment.FEATURES:* Turn on/off reminders* Set how many times per day to be reminded---The Android Wear art work under screenshots was created by Cyril Mottier (licensed under the CC BY 3.0).",
+    "descriptionHTML": "reMIND is an Android Wear application that encourages you to be present and mindful of the moment. <br><br><br>reMIND works by gently notifying you and presenting a quote on your Android Wear at a random time during the day. Upon being reminded, you can do your personal mindfulness practice or simply stop what you are doing to appreciate the moment.<br><br><br>FEATURES:<br>* Turn on/off reminders<br>* Set how many times per day to be reminded<br><br>---<br>The Android Wear art work under screenshots was created by Cyril Mottier (licensed under the CC BY 3.0).",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 1,
+        "4": 4,
+        "5": 15
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/rM2pLR3DHmhWLzOVv6D8L_5hxtdBeQCjLMlN5nWM6GKsSWOZPeI1bWIpGRjmHuiArpA=h310",
+        "//lh5.ggpht.com/8efD17BiHomaOW3-GK-UkS3-nBr18pvHy-uk9NUcDH7-4KRI100wzVfBik1dQljVgM8=h310",
+        "//lh3.ggpht.com/PaapXIqWLZT8QAqNoEvpAPjfDRxnCFLx5f7DjQHY1imHt1Omj7tpZ1g7vw5BmQU3bw=h310",
+        "//lh5.ggpht.com/PU3IA2DYyFzm6lslA-ct8Tuni4WRTTbzzKmAjDbjUzKnLyfLxOH2WXzPmOYeON8kzw=h310"
+    ],
+    "comments": [
+        "Exactly what I was looking for. I was looking for some kind of mindfulness bell that would work with my Moto 360. This is perfect.  The author is very friendly and responsive, and quickly addressed the one issue I had with the app -- it had a dependency it didn't need. He responded right away to my concern saying it was there temporarily during debugging and wasn't meant to be in the final product, and it was quickly removed and the app was updated.  Now the app has zero dependencies and does its job well.",
+        "Great App! Any way for the reminder to auto close on phone once it shows up vs us having to manually swipe it?",
+        "Nice idea! Simple. Simple application that does what it is supposed to do. Thanks for the update, which fixed the main problem I had with the app.",
+        "Nice idea! Works well on the G-Watch R - previous issue was fixed :)",
+        "Revised Review Works great now on my Moto 360 that developer modified the position of the reminder. Great reminder, nice app and good developer response.",
+        "nice flat design! clean and simple."
+    ],
+    "recentChanges": [
+        "New reminders. Removed unnecessary permissions."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=chrisarriola.me.remind&hl=en&gl=us",
+    "appId": "chrisarriola.me.remind"
+}

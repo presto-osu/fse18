@@ -1,0 +1,54 @@
+{
+    "title": "Kisi",
+    "summary": "Secure &amp; seamless access: Kisi turns keycards into smartphone based digital keys",
+    "icon": "//lh3.googleusercontent.com/YcX-hKpOkxfkzDdJG5faPcWXcUvy4509Wxav1CnExtQvXaz0taJ_InctI3yNCwEjNA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 80,
+    "developer": "Kisi Inc",
+    "developerId": "Kisi+Inc",
+    "developerEmail": "support@getkisi.com",
+    "developerWebsite": "http://www.getkisi.com",
+    "updated": "January 5, 2018",
+    "version": "Varies with device",
+    "genre": "Business",
+    "genreId": "BUSINESS",
+    "size": "Varies with device",
+    "description": "The Kisi App turns your smartphone into an encrypted mobile key. Unlock your doors with the swipe of a finger or use Kisi‘s NFC based „Tap to Unlock“ technology. Learn how to get your own Kisi door devices via www.getkisi.com.Functionality:- Your company Badge in your phone- See and manage mobile or card based access rights- „Tap to Unlock“ technology for faster, more secure access- Remote unlock of door for administrators- Set up and configure new Kisi gear",
+    "descriptionHTML": "The Kisi App turns your smartphone into an encrypted mobile key. Unlock your doors with the swipe of a finger or use Kisi&#x2018;s NFC based &#x201E;Tap to Unlock&#x201C; technology. Learn how to get your own Kisi door devices via www.getkisi.com.<br><br>Functionality:<br>- Your company Badge in your phone<br>- See and manage mobile or card based access rights<br>- &#x201E;Tap to Unlock&#x201C; technology for faster, more secure access<br>- Remote unlock of door for administrators<br>- Set up and configure new Kisi gear",
+    "histogram": {
+        "1": 19,
+        "2": 6,
+        "3": 8,
+        "4": 9,
+        "5": 38
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/phtQr580ZzpKhHai8Vn3NUxmzIJBr2_Ui8AWyKwizurz9YnRu90JSkRi2O-vRjYktw=h310",
+        "//lh3.googleusercontent.com/4i_0Q62iglhAG8yYxk39i9faMgJFIeRC7BgSdV3cZRZAXqiXzLvYd5zQDWwiLk_FikE=h310",
+        "//lh3.googleusercontent.com/J6rPu6ppviWijJcCb78ydkLSup3tAGckf7wa-Sghzd6hI3Lp7HnLjAgnrpR03pRBYf6y=h310",
+        "//lh3.googleusercontent.com/3LuQG798j4SZJVWYVn9spVLO9disIPY8ihqJXYPRObYny0evy24Hy8aqnLkMlEUUoS4=h310"
+    ],
+    "comments": [
+        "It does not work on Android. And because of this I am late to work. It's very inconvienent. I would like it more if it was compatible with Android as it is with IOS. Give me an old-fashioned key.",
+        "Preformance has increased dramatically with Android phone. Still doesn't seem quite as good as Apple's but close",
+        "People say it doesn't work for android, I've never had an issue.",
+        "Got \"unexpected error\" where all of sudden I couldn't log in...meaning I couldn't get into my office!  Uninstalled and reinstalled and that fixed it so if getting that error try that",
+        "Running into same \"unexpected error\" on Android app.  iOS app is working it seems as well as web dashboard.",
+        "Newest version now prompts me every time I open it to turn on NFC, despite having no way to use it to unlock a door. Obnoxious."
+    ],
+    "recentChanges": [
+        "general performance and reliability improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.kisi.android&hl=en&gl=us",
+    "appId": "de.kisi.android"
+}

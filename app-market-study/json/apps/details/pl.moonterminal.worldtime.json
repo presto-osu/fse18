@@ -1,0 +1,50 @@
+{
+    "title": "World Time for Android Wear",
+    "summary": "Check time in various time zones directly on your watch!",
+    "icon": "//lh3.googleusercontent.com/XiD4ujoBuv6Do0Vh_G2Zuj9EKJd5Wr26JJa48bO7zzWho3iHCIjIko3PwE8PwAbsWw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 14,
+    "developer": "Moon Terminal",
+    "developerId": "Moon+Terminal",
+    "developerEmail": "moonterminal@gmail.com",
+    "developerAddress": "45-793 Opole, ul. Szymanowskiego 5/2",
+    "updated": "February 11, 2016",
+    "version": "1.2",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "With this application you can check time in various time zones directly on watch. You can choose from wide list of locations all over the world and add them to your custom list. Application runs on your watch and does'n need connection to your smartphone or Internet network.The Author made every effort to create a reliable, free of bugs software, but cannot be held responsible for any result of incorrect or misleading data provided by this application.",
+    "descriptionHTML": "With this application you can check time in various time zones directly on watch. You can choose from wide list of locations all over the world and add them to your custom list. Application runs on your watch and does&apos;n need connection to your smartphone or Internet network.<br><br>The Author made every effort to create a reliable, free of bugs software, but cannot be held responsible for any result of incorrect or misleading data provided by this application.",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nwEfP3hF0REIPL8pRaP9zmTuSzij7fw8rZiGPxK8klNN2UCKB729Il7wHVbsC1WwZw=h310",
+        "//lh3.googleusercontent.com/HK_4sJohRZESYNUnfOZvtHXHVS9krcTQFDRpsp_VmvHiCGV2meWwvXrJTId8i4I7hg=h310",
+        "//lh3.googleusercontent.com/RLcrhl3T98hLRVLYgFH8IT1HbgwfzFCrhcVbyP5KSkBlYgGg88bhJ7K5hnWaDiqWXnw=h310",
+        "//lh3.googleusercontent.com/vD-679a0gjTOlYB3JRIfPajg9Qt2wed3MOrRjVzaPBruO3q5Cokyq8rPpVNXkSTSrWr2=h310"
+    ],
+    "comments": [
+        "I love this app. Nice and easy"
+    ],
+    "recentChanges": [
+        "- bug in sorting timezones list fixed",
+        "- new detailed view for every time zone",
+        "- other improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.moonterminal.worldtime&hl=en&gl=us",
+    "appId": "pl.moonterminal.worldtime"
+}

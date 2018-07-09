@@ -1,0 +1,51 @@
+{
+    "title": "Gesture Calculator for Wear",
+    "summary": "Calculator that uses gestures to set operators and make simple calcs easily",
+    "icon": "//lh3.ggpht.com/i8NoWHfefkyv2dEXufe78k6XTWlnnf-9DmX4zYn8bZkWpbiDAszuieB9FysqILLuJCmg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 17,
+    "developer": "Francisco Ribeiro",
+    "developerId": "Francisco+Ribeiro",
+    "developerEmail": "fr.fmpt@gmail.com",
+    "updated": "April 9, 2015",
+    "version": "2.5",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This is my first Android Wear Application. I'm open to hear great ideas. If you have one, please send me an e-mail!This simple calculator lets you perform simple math expressions using a powerful java library named \"exp4j\". To achieve a great user experience on such a small device I've introduced 5 gestures that will let you:- Insert a plus operator;- Insert a minus operator;- Execute expression;- Clear formula;And last but not least important leave application.However using the \"virtual\" keyboard, user can use other operators such as multiply, split or even curve brackets.If an expression is not valid the screen will turn dark red. If a result could be calculated, it will turn green.If you find any bug please report it to me to: fr.fmpt@gmail.com",
+    "descriptionHTML": "This is my first Android Wear Application. I&apos;m open to hear great ideas. If you have one, please send me an e-mail!<br><br>This simple calculator lets you perform simple math expressions using a powerful java library named &quot;exp4j&quot;. To achieve a great user experience on such a small device I&apos;ve introduced 5 gestures that will let you:<br>- Insert a plus operator;<br>- Insert a minus operator;<br>- Execute expression;<br>- Clear formula;<br>And last but not least important leave application.<br><br>However using the &quot;virtual&quot; keyboard, user can use other operators such as multiply, split or even curve brackets.<br><br>If an expression is not valid the screen will turn dark red. If a result could be calculated, it will turn green.<br><br><br>If you find any bug please report it to me to: fr.fmpt@gmail.com",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 3,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/24UOvewipIfxaL3A4bkLjXEBVtrZFZvm2xs2cr25G_m5ksQJHtSpIN4HtVBzJ702C3y9=h310",
+        "//lh4.ggpht.com/ZlnNiDO5RFjxn_Q7CJBV7VD2Rx3GZJ8JLRFW2f-M3gVY3I1d2ATJrLlSnk5nnkNFDw=h310",
+        "//lh3.ggpht.com/lp3lWvGvMeo4Vn1tpoWwYrTKKk0Tx5mxtRiHmxrTabl_-0ZXuZJ6jaiYDpV_dXqOadg=h310"
+    ],
+    "comments": [
+        "Does not fit well on the Hauwei Watch 2 screen. The calculation area is 50% cut off. Looks like it would be easy to ise if it had some form of screen scaling for different watches.",
+        "Great Works well and I really like it. I have an app sugestion: a note pad in wich you can acess your notes on the watch(I have found one that does that yet) with a key board thats is like a rotary phone. What I mean is a rim that you rotate and then tap the middle to place character. I hope you use my suggestion, and thanks for a great calculator.",
+        "This is the worst app description ever!! Where are those 5 gestures? How to activate them? How to use them? It what directions should we swipe from what starting points? Without a proper description of your app it's impossible to use it and it's completely useless!",
+        "Works great Easiest calculator to use on tiny screen. Suggest making the tutorial open by default when starting app for the first time.",
+        "Found it very hard to exit.  5.0.2 LgRwR",
+        "Wonderful!!!! Thank you for the app and its free!!!! Unbelievable!!! Love it!"
+    ],
+    "recentChanges": [
+        "Corrected gestures detection mobile version"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=softdev.fribeiro.wearcalculator&hl=en&gl=us",
+    "appId": "softdev.fribeiro.wearcalculator"
+}

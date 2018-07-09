@@ -1,0 +1,53 @@
+{
+    "title": "ImageViewer for Android Wear",
+    "summary": "Offline image viewer of Android Wear",
+    "icon": "//lh3.ggpht.com/v22cVUou-0jIA449LADLnNEsKDqW9AYE69ffp3vUBoop71jyZXM7N0NrNu-dt7Dp7Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 22,
+    "developer": "flatlib.jp",
+    "developerId": "flatlib.jp",
+    "developerEmail": "developer@flatlib.jp",
+    "developerWebsite": "http://dench.flatlib.jp/app/imageviewerw",
+    "updated": "March 5, 2015",
+    "version": "1.0.1",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "Android Wear のオフライン画像ビューアです。任意の画像を Android Wear に転送し、閲覧することができます。事前に Android Wear Device に画像を転送するので、Android Smartphone/Tablet と通信が切れた状態でも動作します。Bluetooth になので、画像のサイズが大きい場合転送に時間がかかる場合があります。詳細はこちらを御覧ください。http://dench.flatlib.jp/app/imageviewerw",
+    "descriptionHTML": "Android Wear &#x306E;&#x30AA;&#x30D5;&#x30E9;&#x30A4;&#x30F3;&#x753B;&#x50CF;&#x30D3;&#x30E5;&#x30FC;&#x30A2;&#x3067;&#x3059;&#x3002;<br>&#x4EFB;&#x610F;&#x306E;&#x753B;&#x50CF;&#x3092; Android Wear &#x306B;&#x8EE2;&#x9001;&#x3057;&#x3001;&#x95B2;&#x89A7;&#x3059;&#x308B;&#x3053;&#x3068;&#x304C;&#x3067;&#x304D;&#x307E;&#x3059;&#x3002;<br><br>&#x4E8B;&#x524D;&#x306B; Android Wear Device &#x306B;&#x753B;&#x50CF;&#x3092;&#x8EE2;&#x9001;&#x3059;&#x308B;&#x306E;&#x3067;&#x3001;Android Smartphone/Tablet &#x3068;&#x901A;&#x4FE1;&#x304C;&#x5207;&#x308C;&#x305F;&#x72B6;&#x614B;&#x3067;&#x3082;&#x52D5;&#x4F5C;&#x3057;&#x307E;&#x3059;&#x3002;<br>Bluetooth &#x306B;&#x306A;&#x306E;&#x3067;&#x3001;&#x753B;&#x50CF;&#x306E;&#x30B5;&#x30A4;&#x30BA;&#x304C;&#x5927;&#x304D;&#x3044;&#x5834;&#x5408;&#x8EE2;&#x9001;&#x306B;&#x6642;&#x9593;&#x304C;&#x304B;&#x304B;&#x308B;&#x5834;&#x5408;&#x304C;&#x3042;&#x308A;&#x307E;&#x3059;&#x3002;<br><br>&#x8A73;&#x7D30;&#x306F;&#x3053;&#x3061;&#x3089;&#x3092;&#x5FA1;&#x89A7;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br>http://dench.flatlib.jp/app/imageviewerw",
+    "histogram": {
+        "1": 3,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/M8c95yFxNQKoiEhDClsCMqZvX3lIBXRTnno3KxvaLELax6-T-BmBrpHMB11z2Rqz-W8=h310",
+        "//lh3.ggpht.com/k2CLIW89DSYiFUfPZPjaeyivaLv3MysxMPebOW0TjRal6LX8QeoQ2C_xLsVknMXz8A=h310",
+        "//lh6.ggpht.com/i0Y-m46z6D8EYMSc5bqRI-2lCz3YyjpPC0hx-XGqKee6GQTUHn5VgCwjmhHfklAEYJfB=h310",
+        "//lh5.ggpht.com/hr5Zhlh4FHdNmCF83yH0GPdymh75seLCciidUk6KoTXpw5iWCnp3jlxzVrti5RCKF9Q=h310",
+        "//lh5.ggpht.com/kyIF8iVOZ43m2H9sh8t9QUcA1xNSvM9dpTN9v_EUTNS7HpLO9ErP1aYggel4G53aCs_y=h310",
+        "//lh5.ggpht.com/kyWk_hUK8rjmI3GP1Nd1LPyMRh-pI79Riip84U7TZlFhSN7PyWFwYK5EP6ACVHdDol04=h310",
+        "//lh5.ggpht.com/q13H4ixLkEWd7cBLtek4pde4NIpN81PDMg8MPbJcvXTdKAstWO-FvpPpDTKk7joefAz5=h310",
+        "//lh6.ggpht.com/zl8S7oId88P1UrWgfHm3zDge5ro58p7LrdiZVxR0hoy3P-xG99qUk1HqjH9Ya7TgQg=h310"
+    ],
+    "comments": [
+        "Totally hopeless Could not make anything out of it",
+        "I love it.."
+    ],
+    "recentChanges": [
+        "v1.0.1 : 画像がない場合のバグ修正"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.imageviewerw&hl=en&gl=us",
+    "appId": "jp.flatlib.flatlib3.imageviewerw"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Old School Watch Face",
+    "summary": "Old School Watch Face for Android Wear 1.5 et 2.0 with 6 colors !",
+    "icon": "//lh3.googleusercontent.com/vhVvlP2IALGUdJ9AxeVgFXN8iN7CPTuLJz1mLj_8ZXhyOsCx7BFETpnrG7yIDRSfBA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Olivier Lapointe",
+    "developerId": "Olivier+Lapointe",
+    "developerEmail": "lapointe.olivier@gmail.com",
+    "developerAddress": "Chemin de Saint Martin\n83119 Brue Auriac\nFrance",
+    "updated": "October 27, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Old School Watch Face, by IntemporelVintage style for this Watch Face with power reserve indicator. It displays essential information : hour, date, and battery gauge.Designed for round watches. Compatible with Android Wear 1.x and 2.0You can choose from 6 theme colors included. There are several ways to change color : - by touching the number 9 on the watch- by using the parameters of the Watch Face- by using the smartphone companionAlso, an option let you choose between a simplified Ambient mode or a classic Ambient mode. The simplified Ambient mode allows to display less information when the screen is in Ambiant mode, in order to improve the battery saving et the Burn In screen protection.",
+    "descriptionHTML": "Old School Watch Face, by Intemporel<br><br>Vintage style for this Watch Face with power reserve indicator. It displays essential information : hour, date, and battery gauge.<br><br>Designed for round watches. Compatible with Android Wear 1.x and 2.0<br><br>You can choose from 6 theme colors included. There are several ways to change color : <br><br>- by touching the number 9 on the watch<br>- by using the parameters of the Watch Face<br>- by using the smartphone companion<br><br>Also, an option let you choose between a simplified Ambient mode or a classic Ambient mode. The simplified Ambient mode allows to display less information when the screen is in Ambiant mode, in order to improve the battery saving et the Burn In screen protection.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2KJ9i-LpaIGKKp-zWSfzH22-dfVIw_MRV4hveaz61xP-3UEx6zmOY0ybvs3deOltM7de=h310",
+        "//lh3.googleusercontent.com/ia1Udy_nZcym7HxQIzWqxgjWVMj7heAQCns2C7flTHdEuI0BM6ZxGsSIfKwzUfgV71Y=h310",
+        "//lh3.googleusercontent.com/q9pVkzQOVgcMQFhvTEXPvzFN83K6It9UGwQd7Muxz-vMAI1b4NHQAde3onmnE9Ub01Y=h310",
+        "//lh3.googleusercontent.com/LM5dMDwTgQg-1dEWAf6AhxlaIHZYDZ_jW8vNs24Ym0IGiDUOrb3dXQD-jBXZ4WmeMuuO=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Code optimisation to improve autonomy"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.veetouine.oldschoolwatchface&hl=en&gl=us",
+    "appId": "com.veetouine.oldschoolwatchface"
+}

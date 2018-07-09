@@ -1,0 +1,54 @@
+{
+    "title": "Wear Volume Control",
+    "summary": "Control the volume of any app playing music on your phone from your Wear device",
+    "icon": "//lh6.ggpht.com/SbFc6f2BsNQMDmSPNFBJ0jW5swejgoQJKVSjR8l_6zULicRAkHh1EMl6DW_54BnK4Uk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 209,
+    "developer": "Varun Kochar",
+    "developerId": "Varun+Kochar",
+    "developerEmail": "varunkochar08@gmail.com",
+    "developerWebsite": "https://plus.google.com/+VarunKochar08",
+    "updated": "September 19, 2014",
+    "version": "2.2-0-g664677d",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Control the volume of any app playing music on your phone from your android wear device.Look for a notification on the android wear device when music is playing.Control volume or mute/unmute straight from your wear device.*Does not require any permissions.Send feedback/report bugs at - feedback.wear.volume.control@gmail.com",
+    "descriptionHTML": "Control the volume of any app playing music on your phone from your android wear device.<br><br>Look for a notification on the android wear device when music is playing.<br>Control volume or mute/unmute straight from your wear device.<br><br>*Does not require any permissions.<br><br>Send feedback/report bugs at - feedback.wear.volume.control@gmail.com",
+    "histogram": {
+        "1": 17,
+        "2": 11,
+        "3": 31,
+        "4": 57,
+        "5": 93
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/Upy25GPwtHqte7_7kgCDbgQYZdNkMi7DkNePoeBQV6zKT6kDtrS27DcIjfyK0I_u5Zlg=h310",
+        "//lh6.ggpht.com/WEEqMe14ck90Ip-Kq7CcvcxA4MoQjL65akL1Z1vYLTEbr4nz2wLy5wF7-xVri-936Wr1=h310",
+        "//lh6.ggpht.com/EoO7pgseDecQpjKaCQv7xOAS9KCQh_m0hqWtkSg4SsUnaOKCPFSszG3ji_Qfw7aQlEU=h310",
+        "//lh4.ggpht.com/WRfIJVJlgnuMSuLg1vZekJwQMqFDSBV3XNVD02XZ1uMSdJC9-zt9i7Eah23fI93vYvYG=h310"
+    ],
+    "comments": [
+        "Transparency I love the app with a couple of suggestions.  First,  the volume adjustment could stand to have more fine adjustment if possible.  Seems like changes are a bit too abrupt. Secondly,  if you could increase the transparency or do something to keep the notification from substantially blocking the clock.  I listen to podcasts for many hours and I'd rather be able to see the clock.",
+        "Works great. Could be even cleaner though. I like the app as it seems to do what it's supposed to and the controls are good. I'm not sure I like the grey background though. I'd rather have a more clean version without that background or with a solid color. The current image just ends up looking low-res and a bit boring.",
+        "Good but not perfect On my LG R, it does not remember the volume position i set. So every time i open the app on my watch it shows like it's muted, even though it's playing loudly. Also the volume button could be easier to use, cause when it's at minimum i often end up closing the app (by swiping) then changing the volume.",
+        "Not the top app? Sure needs a little improvement but actually works better than any other volume control app for my Nexus 5/ Moto 360.",
+        "Bummer I'm looking for a volume control for my Onkyo app.  This doesn't work.",
+        "Works great Works great, I just wish the UI picked up some material design cues. To me, it looks a bit dated. But hey, it is very functional."
+    ],
+    "recentChanges": [
+        "- New launcher icon",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kochar.volumecontrol&hl=en&gl=us",
+    "appId": "com.kochar.volumecontrol"
+}

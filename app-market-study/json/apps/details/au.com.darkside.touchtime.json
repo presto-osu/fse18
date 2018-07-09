@@ -1,0 +1,52 @@
+{
+    "title": "Touch Time",
+    "summary": "A smart watch application that tells the time by touch.",
+    "icon": "//lh5.ggpht.com/OjynXOkzndZKSE5n-xe6D2_3FLvlGmLWVmkpQtgVHh2q-gAKq9us75TB0Tn4rDPxJXQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 17,
+    "developer": "Darkside Technologies Pty Ltd",
+    "developerId": "Darkside+Technologies+Pty+Ltd",
+    "developerEmail": "mkwan@darkside.com.au",
+    "developerWebsite": "http://www.darkside.com.au",
+    "developerAddress": "203/22-40 Sir John Young Cres\nWoolloomooloo NSW 2011\nAustralia",
+    "updated": "February 7, 2017",
+    "version": "Varies with device",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "size": "Varies with device",
+    "description": "This is an Android Wear smart watch application that lets you tell the time by touch. It is designed to be useful for the vision-impaired and people who want to tell the time surreptitiously.As you slide your finger around the screen the watch will vibrate when you touch one of the virtual hands. The vibration pattern depends on the hand touched: continual vibration for the hour hand, pulsing vibration for the minute hand, and a long-short pulsing pattern if the hands are on top of each other.The application also includes a smartphone version of the software, allowing you to test it without a smart watch.The source code for this application can be found at https://github.com/google/TouchTime",
+    "descriptionHTML": "This is an Android Wear smart watch application that lets you tell the time by touch. It is designed to be useful for the vision-impaired and people who want to tell the time surreptitiously.<br><br>As you slide your finger around the screen the watch will vibrate when you touch one of the virtual hands. The vibration pattern depends on the hand touched: continual vibration for the hour hand, pulsing vibration for the minute hand, and a long-short pulsing pattern if the hands are on top of each other.<br><br>The application also includes a smartphone version of the software, allowing you to test it without a smart watch.<br><br>The source code for this application can be found at https://github.com/google/TouchTime",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 15
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/3giLrkTOEt5k07rXnn-ztq19hxcY1kVqZz8Qep1tpW1QvkcP0Yg5OXOdhW3YnEfQPg=h310",
+        "//lh4.ggpht.com/8q9Q-5JcNJrexryO4Mhdzg9CEP-20VsuDnpYdO_iGX5tDpvK0GnnIknHL4Eyb9GFkU4=h310"
+    ],
+    "comments": [
+        "Cool Concept But it will say time by android wear speaker itself??????",
+        "Smart just wonder if it uses more battery vibrating than the screen being on does.",
+        "Great concept!",
+        "Nice app",
+        "Cool app"
+    ],
+    "recentChanges": [
+        "Added Wear 2.0 support."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=au.com.darkside.touchtime&hl=en&gl=us",
+    "appId": "au.com.darkside.touchtime"
+}

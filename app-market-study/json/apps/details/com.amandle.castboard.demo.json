@@ -1,0 +1,51 @@
+{
+    "title": "Castboard - Free Trial",
+    "summary": "Mirror your notifications onto your Chromecast!",
+    "icon": "//lh4.ggpht.com/0o7569cd3wtWqcVGZwH8Ocnz4TZ68Bsqy1eD19HF1oVsb4i_sRVVXiro3kCn_KsYbC4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.9,
+    "reviews": 8,
+    "developer": "Ungulation Enterprises",
+    "developerId": "Ungulation+Enterprises",
+    "developerEmail": "aaronmandle@gmail.com",
+    "developerWebsite": "http://amandle.com",
+    "developerAddress": "753 Ehrhorn Ave\nMountain View, CA 94041",
+    "updated": "August 1, 2014",
+    "version": "1.0.2-demo",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Free 30 day trialMirror your notifications onto your Chromecast!Initial Release:- Mirror notifications onto your Chromecast- Screen saver to prevent burn-in- Optionally play a sound when a notification is received.",
+    "descriptionHTML": "<b>Free 30 day trial</b><br><br><b>Mirror your notifications onto your Chromecast!</b><br><br>Initial Release:<br>- Mirror notifications onto your Chromecast<br>- Screen saver to prevent burn-in<br>- Optionally play a sound when a notification is received.",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/0CQ9yB6tIfw0C8HIzSj4Th3kbeoECDCI5gJQkr-mvXJt7c2i4UA13eXWx67T3LT7ld3t=h310",
+        "//lh4.ggpht.com/JnSisDAkg50TZflZ9Sz_zwckjsD4CWYuHk48fewA9ZEqY_8sBCTqFNxm0-um6Ofi1FY=h310",
+        "//lh6.ggpht.com/uzk2UNFlilzbGbT0mTt7Mw3m3lUV12vnhH8V0fr9b_nARyHDTBTlt84oE_Wgsf6L4gXJ=h310",
+        "//lh5.ggpht.com/_8-6oeenq_gUk3eOZteQdR1PWypQAbZP11hYKs6mM-g_FRngTjWR1F5oKeHTWdOmams=h310"
+    ],
+    "comments": [
+        "Doesn't work",
+        "Great idea",
+        "Terrible"
+    ],
+    "recentChanges": [
+        "Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.amandle.castboard.demo&hl=en&gl=us",
+    "appId": "com.amandle.castboard.demo"
+}

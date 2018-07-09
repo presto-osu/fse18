@@ -1,0 +1,59 @@
+{
+    "title": "Whoopee Wear",
+    "summary": "Turn your phone and watch into a remote controlled Whoopee Cushion!",
+    "icon": "//lh5.ggpht.com/gGF47tXNm7wTm7JuGX2SwNl9fT_B8NVb-acFbI_-WfaKcrsS4po7pSiQ6fvo_Pb3s_I=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 291,
+    "developer": "Nordeck Interactive",
+    "developerId": "Nordeck+Interactive",
+    "developerEmail": "nordeckinteractive@gmail.com",
+    "developerWebsite": "http://nordeck.in",
+    "updated": "November 8, 2015",
+    "version": "1.1.4",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Just select the fart on your Android Wear watch or phone and start pranking people with the worlds most expensive whoopee cushion. Add or record your own farts from your device to give a personalized experience by clicking the plus button in the top bar.Two modes of control:1) Turn on the \"Whoopee Notification\" on the phone. Then view the notification on your watch and click \"Open on Phone\".2) Use the \"Whoopee Wear\" application directly on the watch by launching it.Whoopee Wear uses the system media volume, so before farting make sure the volume is all the way up.Additionally Whoopee Wear can be used to locate a missing phone.",
+    "descriptionHTML": "Just select the fart on your Android Wear watch or phone and start pranking people with the worlds most expensive whoopee cushion. Add or record your own farts from your device to give a personalized experience by clicking the plus button in the top bar.<br><br>Two modes of control:<br>1) Turn on the &quot;Whoopee Notification&quot; on the phone. Then view the notification on your watch and click &quot;Open on Phone&quot;.<br>2) Use the &quot;Whoopee Wear&quot; application directly on the watch by launching it.<br><br>Whoopee Wear uses the system media volume, so before farting make sure the volume is all the way up.<br><br>Additionally Whoopee Wear can be used to locate a missing phone.",
+    "histogram": {
+        "1": 21,
+        "2": 13,
+        "3": 27,
+        "4": 60,
+        "5": 170
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone 10+",
+    "screenshots": [
+        "//lh6.ggpht.com/lpzdvgW0eIYX-7NzMPE90hLPIZaIi2zRXVB0WXqEpT79DsE9EXbUSBtJmuSNriBJ1A=h310",
+        "//lh5.ggpht.com/QfQjSuNm6RVUKEwUJcUBiFN9A53BwBREvfUpE1dncKPYwqHU7bniKbuFe3HGsE7B6Q=h310",
+        "//lh3.googleusercontent.com/9r4yyYk3F7wWjYkd1QOLK2AuD8UEaf6HOsQWqM98GCy4fwbCKyiZCLZLH-5mnUZfRPKo=h310"
+    ],
+    "comments": [
+        "Getting feed up! Nice app BUT it keeps putting a notification on my phone to use basically. Very annoying.",
+        "Doesn't work anymore... Hasn't been working for the past 2 days. You also got rid of the settings option for some reason? All I can access is licences",
+        "Great fun It's great fun to use this app. The \"sound quality\" of the farts are the \"best\" I've heard in an app!",
+        "The reason you have a smart watch. A nice little feature is the custom sounds.  I uploaded an air horn sound and now everyone thinks I'm a DJ.",
+        "Works a treat The Max volume doesn't work, though.",
+        "Amazing The best reason to own a smart watch. Excellent for terrorising the mother in law."
+    ],
+    "recentChanges": [
+        "1.1.4",
+        "Improved how sound is managed. Now when the fart command is sent to the phone the phone will play the sound at max volume.",
+        "1.1.3",
+        "Updated UI",
+        "1.1.2",
+        "Fixed bug where the application would not let non-random farts play.",
+        "Fixed bug with the watch first load the farts would not show up on the selection screen.",
+        "Added settings to select how the volume is handled. There are two selections the system controlled and max volume."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nordeck.whoopeewear&hl=en&gl=us",
+    "appId": "com.nordeck.whoopeewear"
+}

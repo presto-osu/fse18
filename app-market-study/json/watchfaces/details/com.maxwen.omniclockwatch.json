@@ -1,0 +1,47 @@
+{
+    "title": "OmniClock Watchface",
+    "summary": "Watchface in analog OmniClock style",
+    "icon": "//lh3.googleusercontent.com/Ne0orELbtiCYWQUmiwNKqj2gRsuITkzpBAWlfkr98YejBs5Xyh8HbF4IswCuSe6Kmg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 3,
+    "developer": "Max Weninger",
+    "developerId": "Max+Weninger",
+    "developerEmail": "max.weninger@gmail.com",
+    "developerAddress": "Muenchner Bundesstr. 36\n5020 Salzburg\nAustria",
+    "updated": "July 26, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Simple and elegant. For those who want to live the \"OmniClock brand\" everywhere",
+    "descriptionHTML": "Simple and elegant. For those who want to live the &quot;OmniClock brand&quot; everywhere",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/CC57IP-PA1hSZRuEjsf_XlmQS10HQK_1Ld67sgVcfkvI5VzL5UgkdJ1P-kBc-we9yLE=h310",
+        "//lh3.googleusercontent.com/6uHOVUKzPDOZtgEkwDmh9_QXEM7wH2NPJmHIdT7NqZREIE9cmMzNXC6ecrnaKUMeqQ=h310"
+    ],
+    "comments": [
+        "I was hoping this existed, and free no less! Thanks!"
+    ],
+    "recentChanges": [
+        "Added support of watch face complications"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.maxwen.omniclockwatch&hl=en&gl=us",
+    "appId": "com.maxwen.omniclockwatch"
+}

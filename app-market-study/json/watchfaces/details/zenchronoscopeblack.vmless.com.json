@@ -1,0 +1,48 @@
+{
+    "title": "Zen Chronoscope-B Watch Face",
+    "summary": "Zen Chronoscope Black Watch Face",
+    "icon": "//lh6.ggpht.com/YWIKXlnAjPTia4yzBTvqbrnMQSg7L7XS1A4gF8uKFUn4jw5SQLWFGra-25gpvRGr8Wo=w300",
+    "price": "$1.55",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.9,
+    "reviews": 8,
+    "developer": "COOLTOUCH",
+    "developerId": "COOLTOUCH",
+    "developerEmail": "qianxundeveloper@gmail.com",
+    "developerWebsite": "http://www.qianxun.net",
+    "developerAddress": "Room 1303, Shilong Road 569, Xuhui DIstrict, Shanghai",
+    "updated": "June 23, 2015",
+    "version": "2.0.0.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "How to Use?- First, you need to have an Android Wear watch, and download \"Android Wear\" application from Google Play, then follow instructions to pair them.- After installed on your Android Device, this watchface will be automatically synchronized to your paired Android Wear watch. - Long tap on your Android Wear watch, select \"ZenChronoscopeBlack\"",
+    "descriptionHTML": "How to Use?<br>- First, you need to have an Android Wear watch, and download &quot;Android Wear&quot; application from Google Play, then follow instructions to pair them.<br>- After installed on your Android Device, this watchface will be automatically synchronized to your paired Android Wear watch. <br>- Long tap on your Android Wear watch, select &quot;ZenChronoscopeBlack&quot;",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/wtaiItjmNiAs3r7penWK2e4_5vHVE2OmGRc-vc9Zuex1uJvMHd_NlzNPTId1Ynhn0T_x=h310",
+        "//lh6.ggpht.com/n-x4hTRSqEir4-5rh9n_VaN7BPx8sLKAtd6AsIwAfgtYSuZAy1ruY7GmEks40pZd4PTC=h310"
+    ],
+    "comments": [
+        "Beautiful, but lacking. Great looking watch face, but please add a few customisation options. At the very least I'd love to be able to select the smaller peek cards. Also, the ambient mode needs work.",
+        "Did not fit moto 360 The date was completely outside the box"
+    ],
+    "recentChanges": [
+        "1. Upgrade to support New Google Watchface API."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=zenchronoscopeblack.vmless.com&hl=en&gl=us",
+    "appId": "zenchronoscopeblack.vmless.com"
+}

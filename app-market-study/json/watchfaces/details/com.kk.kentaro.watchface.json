@@ -1,0 +1,42 @@
+{
+    "title": "Weather Forecast Watch Face",
+    "summary": "This is WatchFace for Android Wear with weather forecast.",
+    "icon": "//lh3.googleusercontent.com/1xyyY8g8NXAddxzlETg1YOE4QjKj7kEwzcAeOSrTaKE9jJyHnUvE8Y6XzOVO5kLE2xQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "tsukubaapp",
+    "developerId": "tsukubaapp",
+    "developerEmail": "tsukubaapp@gmail.com",
+    "updated": "May 6, 2016",
+    "version": "1.0.12",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "This is WatchFace for Android Wear with weather forecast.It's free and easy to download.FEATURES-WatchFace gets the weather forecast at your exact location automatically by using GPS.-You can choose a daily weather forecast report or a 3 hour weather forecast report on both the round and square models.-Use the \"Update Weather Data\" button to update the weather forecast information.-To learn about the version and license of your application, click on the \"ABOUT\" button of the application.",
+    "descriptionHTML": "This is WatchFace for Android Wear with weather forecast.<br>It&apos;s free and easy to download.<br><br><br><br>FEATURES<br>-WatchFace gets the weather forecast at your exact location automatically by using GPS.<br>-You can choose a daily weather forecast report or a 3 hour weather forecast report on both the round and square models.<br>-Use the &quot;Update Weather Data&quot; button to update the weather forecast information.<br>-To learn about the version and license of your application, click on the &quot;ABOUT&quot; button of the application.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6RjIMD_BzYv3CmUenJ49GufAx4OH1LDInvy5m6L8sFqp9wQyWfi1woFIytUg_iDthtjo=h310",
+        "//lh3.googleusercontent.com/0Aba6bSZMiOedcfjy-nm3hbJEO2t3gtUG2_i41ed5qPb8Uz4ssDWa-FNU36A8ex1zWg=h310",
+        "//lh3.googleusercontent.com/4poKFGzLAndW3K_nW2iGxt_Y4_3I8pmp2ASH9bYzt88PQV_WoF6tWkDyNC9JA2NE1dqJ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kk.kentaro.watchface&hl=en&gl=us",
+    "appId": "com.kk.kentaro.watchface"
+}

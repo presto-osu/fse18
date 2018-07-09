@@ -1,0 +1,59 @@
+{
+    "title": "BMetal(R)evo FREE2 Watch Face",
+    "summary": "Analog watchface with 6 bright, 4 dimmed colors, calendar events, weather",
+    "icon": "//lh3.googleusercontent.com/ML2BX57fbzxLnL9dM-nLgg2ZPdEMmvUTqPuhqW_ArM-MPdQ1c1y4x_jxAR3matnFIdzq=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 10,
+    "developer": "Darkle",
+    "developerId": "Darkle",
+    "developerEmail": "Darkle@Darkle.net",
+    "developerWebsite": "http://Darkle.net",
+    "developerAddress": "Estonia\n72212 Türi\nPõik 3",
+    "updated": "July 17, 2015",
+    "version": "2.77",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This is a WatchMaker design and so the free WatchMaker App must be installed onto your device before installing this watch face. WatchMaker can be found here: http://goo.gl/FMxUfYThis is FREE2 version of Darkle BlackMetal (R)evolution  ver.2.77 watchfaceBright mode options :- Time- Day- Date- Month- Current Weather- Watch battery reading - Phone battery reading (if battery reading is < 25 then text changing to red)- Watch and Phone battery led lights (going green->yellow->red)- 6 different color choices (colorset button)- calendar events (with tilted display)- calendar events color wheels (user can change colors)- clockhands,texts and watchdetails animations- user can hide unwanted watch details (like date, weekday, clockhands, pixelgrid ... )- Optimized images, indexed colors, pngslim packed (for better battery life)Dimmed mode options :- 4 different color choices- 5 different brightness options- pixel grid, which can be enabled or disabled (default is enabled)- 12 or 24 hours mode option (default is 12h)- user can hide unwanted watch details (like date, weekday, clockhands, pixelgrid ... )- You can choose whether to show the digital clock, analog clock, or both- animationsif you use animations, then for smoother animation Watchmaker settings should be :(icon top left) Settings -> Watch -> Max Frame Rate = 50",
+    "descriptionHTML": "This is a WatchMaker design and so the free WatchMaker App must be installed onto your device before installing this watch face. WatchMaker can be found here: http://goo.gl/FMxUfY<br><br>This is FREE2 version of Darkle BlackMetal (R)evolution  ver.2.77 watchface<br><br>Bright mode options :<br><br>- Time<br>- Day<br>- Date<br>- Month<br>- Current Weather<br>- Watch battery reading <br>- Phone battery reading (if battery reading is &lt; 25 then text changing to red)<br>- Watch and Phone battery led lights (going green-&gt;yellow-&gt;red)<br>- 6 different color choices (colorset button)<br>- calendar events (with tilted display)<br>- calendar events color wheels (user can change colors)<br>- clockhands,texts and watchdetails animations<br>- user can hide unwanted watch details (like date, weekday, clockhands, pixelgrid ... )<br>- Optimized images, indexed colors, pngslim packed (for better battery life)<br><br>Dimmed mode options :<br><br>- 4 different color choices<br>- 5 different brightness options<br>- pixel grid, which can be enabled or disabled (default is enabled)<br>- 12 or 24 hours mode option (default is 12h)<br>- user can hide unwanted watch details (like date, weekday, clockhands, pixelgrid ... )<br>- You can choose whether to show the digital clock, analog clock, or both<br>- animations<br><br>if you use animations, then for smoother animation Watchmaker settings should be :<br>(icon top left) Settings -&gt; Watch -&gt; Max Frame Rate = 50",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 3,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/iVEMFXhQjOtorhSoRSSb0OBJbenEpBIChJoRt6b2n1bLI9s07P74P-5jcMInpAziTGEK=h310",
+        "//lh3.googleusercontent.com/JojxwReEn3NVei5NBs07XNfAK6xdINxv4809-Bvf1Z4njB_TdBe4s031sNMSvOpLTiZ4=h310",
+        "//lh3.googleusercontent.com/_pRjv7byDxApNrujTOlebQ6ted8c1BTVngMsszkzsJ8boIi2uUO_MxM1tf2ia3ebfg=h310",
+        "//lh3.googleusercontent.com/JtYXXe6_mD0T99GA8RVSQFeyaZNNPU-zoZiIVnFRQzNjUYec1p7N1EJ6k2M1CSenLboX=h310",
+        "//lh3.googleusercontent.com/SzZaAHcLfKuWDPdef5M4usEOi9WSW8ysHJkMyi4bG-iX2-O4rxM7_49RF6La_K8wow=h310",
+        "//lh3.googleusercontent.com/48-dZnYDmDX8c5yVrgfMZLSFdr7DSZoLto8Cj8g7iauy-h5y3DVQo2suYD6PCZG7fC38=h310"
+    ],
+    "comments": [
+        "Love it well done. Love the face one of the gorgeous faces.though the animation is a bit slow as well as response of touches."
+    ],
+    "recentChanges": [
+        "+ improved animations",
+        "+ 6 hours away calendar events visible",
+        "+ 1 hour away calendar info visible (with text \"Starts after xx min\")",
+        "+ reduced number of layers (more speed)",
+        "+ other optimizations",
+        "- fixed more overlaping text",
+        "- bright screen 7th calendar events was not visible",
+        "- repeating calendar info was not visible",
+        "currently unrecoverable error (watchmaker bug), it can not be repaired - weather update resets all user settings"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=darkle.wmwatch.blackmetal.revolution.free2&hl=en&gl=us",
+    "appId": "darkle.wmwatch.blackmetal.revolution.free2"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Metronome W",
+    "summary": "Metronome for Android Wear",
+    "icon": "//lh5.ggpht.com/GHIvuYrtgX8dDhOhFTJqadj_qNaPNG6CE_VDAzU_LK3YtGU9NiNzw-iqDdh1qqafx_jr=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 8,
+    "developer": "kmc3lab",
+    "developerId": "kmc3lab",
+    "developerEmail": "kmc3lab@gmail.com",
+    "updated": "November 17, 2014",
+    "version": "1.0",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "This app requires Android Wear device to run.Simple and functional metronome app for your Wear device. The watch vibrates every beat.Customize vibration types and lengths to make it easier to keep the beats. Open Wear app by saying... \"Ok Google, start Metronome W\"Features:- Set the rate of beats per minute from phone or watch- Start metronome from phone or watch- Customize vibration length- Customize first beat vibration type",
+    "descriptionHTML": "<b>This app requires Android Wear device to run.</b><br><br>Simple and functional metronome app for your Wear device. The watch vibrates every beat.<br>Customize vibration types and lengths to make it easier to keep the beats. <br><br>Open Wear app by saying... &quot;Ok Google, start Metronome W&quot;<br><br>Features:<br>- Set the rate of beats per minute from phone or watch<br>- Start metronome from phone or watch<br>- Customize vibration length<br>- Customize first beat vibration type",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/OLAFPf2WvWQ40yB-LEYqaColAhN2OuQEdE_ihwsh8bPeXJVOHs09xInMR94lDqh33662=h310",
+        "//lh5.ggpht.com/C3gOO6i4soSpilsznc-w87Qe8PJOGg_Q2ygRROZBO6BhgUVGTJtjCgu8fdWv7-odBbg=h310",
+        "//lh3.googleusercontent.com/isbjAdqGonKaifd8cXGtnPDhWqCD0MifdWXrkRou31NqypvJamBj4qlpnINGWKzFECw=h310",
+        "//lh3.googleusercontent.com/RLz59YTEBiTWt5A4SEGD2RgipFLIOkugjsgV6cDHDmP5tfoE6ZNRbzSwRC5-sD4jyxLr=h310",
+        "//lh3.googleusercontent.com/LFJx12MGCmb9CnsJATiFxRDPsQvJB0SqaVo_tE_6vRCTVoHUEbFyNg0FIQ2czgBQ8bo=h310"
+    ],
+    "comments": [
+        "Sometimes the speed is not fixed.",
+        "Would be nice if it were a metronome app for your phone, too"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kmc3lab.metronomew&hl=en&gl=us",
+    "appId": "com.kmc3lab.metronomew"
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Regatta Timer",
+    "summary": "Count down timer and stop watch for sailing regattas.",
+    "icon": "//lh3.googleusercontent.com/iz6FuUnPBRhhuI498mYL67wfcZvFP0DdoMgpOQ-ooxP63KTN82Y2JLYX3BomXaYvjhI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2,
+    "reviews": 12,
+    "developer": "Thomas Härtel",
+    "developerId": "Thomas+H%C3%A4rtel",
+    "developerEmail": "thomashaertel79@googlemail.com",
+    "developerWebsite": "https://www.facebook.com/regattatimerapp",
+    "developerAddress": "70439 Stuttgart",
+    "updated": "May 10, 2015",
+    "version": "0.2.1",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "With this app you have an count down timer and stop watch for sailing regattas. The App acts like an Optimum Time Series 3 watch. It gives acoustic and vibration signals in different time intervals.",
+    "descriptionHTML": "With this app you have an count down timer and stop watch for sailing regattas. The App acts like an Optimum Time Series 3 watch. It gives acoustic and vibration signals in different time intervals.",
+    "histogram": {
+        "1": 8,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/5jwpq9Cb5AlqziBnElN2M21GX58fkhqH8uBM00zujsJqG52j7DZsKxMqcCYqpUoLLE0=h310",
+        "//lh3.googleusercontent.com/nGQXGZrQ2-wViu5PWs9zgTkK3lJNRDABKp4IG_vrJwnI-nuoDwcf-Akzc8i2pb43qk_c=h310",
+        "//lh3.googleusercontent.com/Jq7rjVABwi6N_eaqQ1bXKfw-bBVuLlTSXQY1VQD78mdHj3D8xGECuAtdXMRT7fdKfsg=h310",
+        "//lh3.googleusercontent.com/Z1sVHS3GfGdLAONcQMobzxX_djTVh8CRH9Z0sYn6DXh0-wTzXqOOwyIDe-cdyxYfJQ=h310",
+        "//lh3.googleusercontent.com/RF9F7aDeb6W6wmp7HwXnGSv7aLq36-CLOqIfXuEUFkIr1nqLsn0nIQ9fmoJ3mWvdth4r=h310",
+        "//lh3.googleusercontent.com/PFp97FMAiIL0xfNg2rAS0KOoWDwCOoGNqJsxAHa0b7oEqO5hJGETbeAxR-DEOZZ7O1qW=h310",
+        "//lh3.googleusercontent.com/T-9Z4iveUQI4kcoY57UDu-eBFKIv-C_nDZy0numj3Ce8TTul2ijT_RrRfZNO7xIGTRk=h310"
+    ],
+    "comments": [
+        "Can't get to clock mode! Newer Android devices don't have a \"menu\" button, so I'm trapped in the opening help screen with no way out!",
+        "Samsung Gear 3 Doesn't work on Samsung Gear 3 either.",
+        "Terrible.. doesn't get past first screen"
+    ],
+    "recentChanges": [
+        "First public version with improved UI"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.thomashaertel.regattatimer&hl=en&gl=us",
+    "appId": "com.thomashaertel.regattatimer"
+}

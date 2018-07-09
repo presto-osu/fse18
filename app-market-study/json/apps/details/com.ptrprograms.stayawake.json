@@ -1,0 +1,55 @@
+{
+    "title": "Wear - Stay Awake",
+    "summary": "Buzz your wrist every few minutes to keep you alert while on long drives",
+    "icon": "//lh5.ggpht.com/H4W85kRGc8VtwL00O_xUyqtviHo1sHk6y3N-yzVgdv6i5bDPkf3GiYs7qU8dlbHkFPk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 40,
+    "developer": "Paul Trebilcox-Ruiz",
+    "developerId": "Paul+Trebilcox-Ruiz",
+    "developerEmail": "PaulTR@Gmail.com",
+    "developerWebsite": "http://ptrprograms.blogspot.com",
+    "developerAddress": "897 E Moorhead Circle\nBoulder, CO, 80305",
+    "updated": "September 14, 2014",
+    "version": "1.2.11",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app requires an Android Wear device to use.This app allows the user to select an interval of time on their Wear and start a timer that will cause the Wear to vibrate on their wrist when the timer finishes, and then repeat. The goal is to try helping drivers on long distance road trips stay alert.Source can be found here: https://github.com/paultr/androiddemoprojectsand tutorial explaining how it's made can be found here: http://ptrprograms.blogspot.com/2014/06/introduction-to-official-android-wear.htmlA bug with the wear portion not unpacking onto the user device has been fixed. Whew! If anything finds anything that doesn't quite seem right, send an email my way via the contact the developer link, and I'll do what I can to take care of it.",
+    "descriptionHTML": "This app requires an Android Wear device to use.<br><br>This app allows the user to select an interval of time on their Wear and start a timer that will cause the Wear to vibrate on their wrist when the timer finishes, and then repeat. The goal is to try helping drivers on long distance road trips stay alert.<br><br>Source can be found here: https://github.com/paultr/androiddemoprojects<br>and tutorial explaining how it&apos;s made can be found here: http://ptrprograms.blogspot.com/2014/06/introduction-to-official-android-wear.html<br><br>A bug with the wear portion not unpacking onto the user device has been fixed. Whew! If anything finds anything that doesn&apos;t quite seem right, send an email my way via the contact the developer link, and I&apos;ll do what I can to take care of it.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 3,
+        "4": 8,
+        "5": 25
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/kxMaIIaibB_1rYMA4WNU9IBUVd9Gsu2axcCdERlinp_4kBKbPj2QstPF56uaFv7IeA=h310",
+        "//lh6.ggpht.com/SzAakKuTHKIRaRnPL80UznYFPwpHgWrV8N34KKGfIRLZFQWjoKvz-GjETK8EGSt-JgQ=h310",
+        "//lh5.ggpht.com/ED_h6dsejSBGu5Y4M9tAs8IoLjBsS5y4MsVsKGPAJOCu10XiLXkBjfswpX_GZLmhvd0=h310",
+        "//lh6.ggpht.com/Sv7Qgo4GZ7uKsFTZtqbdbtvFDDpVsJkOYQnw9C365qpHAki6Up_2-RVr9MZ2FRg8mQ=h310",
+        "//lh3.ggpht.com/HP8Vx9c9We3SW3_qtSElrlLUrTtPD6LAZBRp1jqn8TqBpzFeBaPh83xnqWmKg6FZPHY=h310"
+    ],
+    "comments": [
+        "Need more function 5 stars, however: 1) The duration for vibration is too short and weak that I didn't realize it. 2) The app should have the function: not vibrating during a specific period - for example from 1: AM to 7: AM 3) It works for only 2 hours and then stop.",
+        "Almost there Use this to keep a running timer for conducting rounds at work. Only think I'd like would be being able to set specific times. My rounds are anywhere from every 4 minutes to every 30 depending on where I'm working. Please consider adding this feature as other interval timers have it but don't vibrate long enough for my preferences.",
+        "Nice As stated by other users, if you ever think of adding some functions, please start from: custom times, custom vibration intensity, length and pattern, and specific days or time of day to automatically run and stop the app. Will gladly pay for the new functions. Thank you!",
+        "really useful, good, but ... ... is there a way to specify the interval, or otherwise set it for thirty minutes? thanks!",
+        "Great idea!!! Def useful for long drives...and now it's perfect on my Moto 360!!!",
+        "It actually works As soon as I saw this, I thought it was a load of crap. But I was wrong. Give it a go :)"
+    ],
+    "recentChanges": [
+        "Centered the menu screen text so that it's readable on round devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ptrprograms.stayawake&hl=en&gl=us",
+    "appId": "com.ptrprograms.stayawake"
+}

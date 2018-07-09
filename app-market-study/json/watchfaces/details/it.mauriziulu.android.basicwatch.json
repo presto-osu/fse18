@@ -1,0 +1,45 @@
+{
+    "title": "Basic Watch",
+    "summary": "Very very basic watch face",
+    "icon": "//lh3.googleusercontent.com/GIghgV5nE8T5jQxXnLhtfwwubi0KuWI0HI7T6n_qYDLH5BmaVcQ7Zp0HGlwCDnRkcpY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.8,
+    "reviews": 4,
+    "developer": "Mauriziulu apps",
+    "developerId": "Mauriziulu+apps",
+    "developerEmail": "mauriziulu.apps@gmail.com",
+    "updated": "July 1, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "ANDROID WEAR ONLYThe most simple, compact and clean watch face for Android wear",
+    "descriptionHTML": "ANDROID WEAR ONLY<br><br>The most simple, compact and clean watch face for Android wear",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/GfHe81zqo3UsMf8psFzgSEYIuNAIauMG4Jh_c75j2LFEYcyJlqFOdNDYeUzJhfv8U3Qv=h310",
+        "//lh3.googleusercontent.com/EeWOAXiB7ZBVvAgTKurRmGw_8JvO-fX2ykSyotwGvTG9vnnmEHweeGweNnA0Gp1Kfg=h310",
+        "//lh3.googleusercontent.com/sqgP4XRzEpBqyx-Pi8OOvIsnW4uopmR1Ebd9IFQ_3nksf6L-FxVi7ub-TTObkcyvJg=h310",
+        "//lh3.googleusercontent.com/ZMDSp3XwYcMmc9kBnhJzJ7seLMunrtjiNsbok671BhOPGCMauwdDC9mNNEKKrhbQ3CX5=h310"
+    ],
+    "comments": [
+        "Nice Nice and clean. Not sure if I can remove seconds and make it 12h (am/pm) instead of 24h.   Also, what's the green bar at the top?"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=it.mauriziulu.android.basicwatch&hl=en&gl=us",
+    "appId": "it.mauriziulu.android.basicwatch"
+}

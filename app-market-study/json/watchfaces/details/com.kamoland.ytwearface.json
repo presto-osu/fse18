@@ -1,0 +1,51 @@
+{
+    "title": "Mountain trip logger WatchFace",
+    "summary": "Android Wear custom watch face for Mountain trip logger GOLD.",
+    "icon": "//lh3.googleusercontent.com/diZmNWDQU7GJ4MZ4nTJkuy-reeuxEAayEbthAOdiqvYIuSg_sZk0iIrWOtlSqprK_Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 6,
+    "developer": "KMI Software",
+    "developerId": "KMI+Software",
+    "developerEmail": "kamoland@gmail.com",
+    "developerWebsite": "http://www.chizroid.info/ytlog_wear#ytwearface",
+    "developerAddress": "4-8-12 Tsuruno, Settsu-city\nOsaka\nJapan",
+    "updated": "September 23, 2015",
+    "version": "2.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Mountain trip logger Watch face is Android Wear custom watch face for Mountain trip logger GOLD.-Require Smart watch of Android Wear 5.0+.-Require Mountain trip logger GOLD 4.35+.====================■ How to usePlease set watch face to \"Mountain trip logger Watch face\" at the setting of Android Wear.If You start tracking by Mountain trip logger GOLD, The information will be shown at the watch face.The information:-Total distance, average speed.-Current time and date, time from the start of tracking.-GPS altitude, the remaining amount of battery of smartphone and smartwatch.The information will be updated at every minutes.Source code:https://github.com/kamoland/Ytwearface",
+    "descriptionHTML": "Mountain trip logger Watch face is Android Wear custom watch face for Mountain trip logger GOLD.<br>-Require Smart watch of Android Wear 5.0+.<br>-Require Mountain trip logger GOLD 4.35+.<br><br>====================<br>&#x25A0; How to use<br>Please set watch face to &quot;Mountain trip logger Watch face&quot; at the setting of Android Wear.<br><br>If You start tracking by Mountain trip logger GOLD, The information will be shown at the watch face.<br><br>The information:<br>-Total distance, average speed.<br>-Current time and date, time from the start of tracking.<br>-GPS altitude, the remaining amount of battery of smartphone and smartwatch.<br><br>The information will be updated at every minutes.<br><br>Source code:<br>https://github.com/kamoland/Ytwearface",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/1qNxjHz6ST2nWbWHtXAl5CP3a5M39snWy2FuCdNs-u6EuN___trfQ4z9nZenUeSPNw=h310",
+        "//lh3.googleusercontent.com/gV1L8b7DbCBlGJutnbJR8y78DmdRf0mxY9i32OAezPlzIBS456Ppr07Dsj5BrEJ0Ug=h310",
+        "//lh3.googleusercontent.com/iwENCDb4YU0DTjKupQhEZJ7OS-7Yvx0O_i5OCbsEAlfxnkg9c5RoO18nLasdWPjceQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Version 2.0 (2015/9/23)",
+        "-Require Mountain Trip logger GOLD version 4.35+.",
+        "-I have released the source code. You can customize.",
+        "https://github.com/kamoland/Ytwearface",
+        "Version 1.2 (2015/7/18)",
+        "-Fix bug"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kamoland.ytwearface&hl=en&gl=us",
+    "appId": "com.kamoland.ytwearface"
+}

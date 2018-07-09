@@ -1,0 +1,52 @@
+{
+    "title": "Battery for wear",
+    "summary": "Check the level of charge all devices at once",
+    "icon": "//lh6.ggpht.com/6PhYxa5LEJpft0ZkB0nqkGedzjZH-dCJHOLp5pl1wYQSHV8GCjOUGXh1MhlAdFoxuao=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 16,
+    "developer": "Android Tools (ru)",
+    "developerId": "5721804372984655846",
+    "developerEmail": "rusdelphi@gmail.com",
+    "developerWebsite": "https://android-tools.ru",
+    "developerAddress": "Улан-Удэ\nул.Панфилова д.16-1",
+    "updated": "February 17, 2017",
+    "version": "1.0.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app allows you to know the charge level of the battery of the mobile device and hours.",
+    "descriptionHTML": "This app allows you to know the charge level of the battery of the mobile device and hours.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/gICXMfyd9sfZcrCz0DkggLxqv8WB2gdQhWytOIvhipZ93tIjFUrYTXTxQgqirM2gJ8Y=h310",
+        "//lh3.googleusercontent.com/AFO-HI7Xpij31in03beUiq9ciP8BPuC212m_tVXJQCZd4HP7zFHKAcns1XTKvyWGUexy=h310",
+        "//lh6.ggpht.com/FxTKb6vjGo0Y6fnXexr5tfvm8TdpcqWvxwnKDKZj6-3knpSNGlXUx_-OYoQvXMay_w=h310",
+        "//lh3.googleusercontent.com/eVo7keBilOapTWpePyIYrpX-V_xmeZ-AgdEYjYoGAXcnxO6ktaHL4kN8AxS84ztNaKAt=h310",
+        "//lh3.googleusercontent.com/sTp0-W63qFcwuK5mDwatCbxe-odV4TovaJLJjWXpoiLuFo_odvavpYsdztNrWWhlwA=h310"
+    ],
+    "comments": [
+        "Great little app, just what I wanted.  Five stars if there was an option to change the colour on the display as not keen on the white background."
+    ],
+    "recentChanges": [
+        "Design update",
+        "Bug Fix",
+        "Added support Androir wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rusdelphi.batterywatcher&hl=en&gl=us",
+    "appId": "com.rusdelphi.batterywatcher"
+}

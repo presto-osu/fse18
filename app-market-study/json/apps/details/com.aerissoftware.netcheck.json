@@ -1,0 +1,47 @@
+{
+    "title": "NetCheck",
+    "summary": "Your Netatmo WeatherStation on your Android Wear smartwatch!",
+    "icon": "//lh3.googleusercontent.com/ZTMKVP9Goo2xocLDnuATm3TNSkJLEXjB5mEGJZUil1GNZ27fZYeDuywJjucK7lEQ8g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.6,
+    "reviews": 25,
+    "developer": "Aeris Software",
+    "developerId": "Aeris+Software",
+    "developerEmail": "AerisSoftware@gmail.com",
+    "developerAddress": "Kissinger Straße 32",
+    "updated": "November 25, 2016",
+    "version": "2.0.0",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "If you ever wanted to access your station’s measurements but you couldn't / didn't want to take out your phone, then this app is for you. With a simple voice command \"OK Google, start application NetCheck\", or a click on the app's icon, you will get the latest measurements of your Netatmo WeatherStation organized in neat looking lists, sorted by the available modules, directly on your Android Wear smartwatch!Please note that the free version is only a demo for you to verify if everything works as you expect it to. As such it only supports indoor modules. To get access to the outdoor module, as well as the rain gauge, you must buy the full version.",
+    "descriptionHTML": "If you ever wanted to access your station&#x2019;s measurements but you couldn&apos;t / didn&apos;t want to take out your phone, then this app is for you. With a simple voice command &quot;OK Google, start application NetCheck&quot;, or a click on the app&apos;s icon, you will get the latest measurements of your Netatmo WeatherStation organized in neat looking lists, sorted by the available modules, directly on your Android Wear smartwatch!<br><br>Please note that the free version is only a demo for you to verify if everything works as you expect it to. As such it only supports indoor modules. To get access to the outdoor module, as well as the rain gauge, you must buy the full version.",
+    "histogram": {
+        "1": 6,
+        "2": 0,
+        "3": 3,
+        "4": 5,
+        "5": 11
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/zX5SmsiagQAF9pK6_RBMlQtrHZE-2sUzlNr_qrzVtqvSBNe583DuyDse-gBjCt_YCdQ=h310",
+        "//lh3.googleusercontent.com/Y8n0k1WHFJ7k5sbrlvU8YF2uxY_M7MH6PYv4FJm8SYyPE1WsiGj33YHLXS_T-3NZlQ=h310",
+        "//lh3.googleusercontent.com/ifPquVdjsDeBPG91q6oEx88Yj-TaJu-8GOWXjCAMPCyuK9m4OhWvQbCLv7QatkLViNiT=h310"
+    ],
+    "comments": [
+        "Much of the time it just doesn't work but it's good when it does. Hopefully future versions will improve stability. Until then only 3 stars."
+    ],
+    "recentChanges": [
+        "Added support for the wind gauge. Switched to the new Netatmo API version."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aerissoftware.netcheck&hl=en&gl=us",
+    "appId": "com.aerissoftware.netcheck"
+}

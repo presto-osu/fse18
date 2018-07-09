@@ -1,0 +1,50 @@
+{
+    "title": "Cergy Velo2 (bikes)",
+    "summary": "Cergy Velo2, bikes in Cergy-Pontoise",
+    "icon": "//lh6.ggpht.com/KRbkQhxnM1t2JBQKG_e6KPN6dAlPfgbYQyaKa44iDgegWgIhdoqL58NjsD6L_ydmmw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.1,
+    "reviews": 7,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.velo2@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Cergy Velo2 is a tool allowing you to view the status of bike stations Velo2 networks, of Cergy-Pontoise and suburbs. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or name.You can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Cergy Velo2 is a tool allowing you to view the status of bike stations Velo2 networks, of Cergy-Pontoise and suburbs. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name.<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/9WDV4o8rhLByrC1vJL6vcM6NLFgtW0swf3cB5zJCBIjFYOPOXLocB9AAcG83ivOZS05o=h310",
+        "//lh3.googleusercontent.com/FLiFe7n-Jw5kHPgPij9D_FTaSDXVW72lW_TKjhUEsG3Bowt6ANIk8en9OgoifCLbnV0=h310",
+        "//lh3.googleusercontent.com/xt8tTWA1FeCFagxZyzxLDGyEyc6D6zKUiOm2tEq-MUKpHXjgVrhlubF7LA41SCcWChI=h310",
+        "//lh3.googleusercontent.com/cN7su1ROF-XGLZk_5-jtG2b9UTLYsxasovoygG-ONanSBfRxIrrpijx-MKfe2eFp3uA=h310",
+        "//lh3.googleusercontent.com/CSuhSkyrN3G9wSj52iLAHPavE4DQpkdLrDA7IZh4Xg8YLSTVOSAq5p7PGtMyq_4BRy8P=h310",
+        "//lh3.googleusercontent.com/A42mB_B3KSu13MXcebXhXZlv6i0FbPLi1ZaK_Qnr2X6lqR5a6Sy1s6JsQrcyHcyLwww=h310",
+        "//lh3.googleusercontent.com/pjkQWb5BFLziUQUCxNlfuDeA7WWtHRaMVJkb4T4a7eN0CRqjxwuj6nTVOtvsg2T2Y2JW=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.cergyvelo2.view&hl=en&gl=us",
+    "appId": "com.michgauz.cergyvelo2.view"
+}

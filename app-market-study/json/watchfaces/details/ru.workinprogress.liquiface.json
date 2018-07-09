@@ -1,0 +1,58 @@
+{
+    "title": "Liqui Watchface",
+    "summary": "Modern material design watchface with a for your Android Wear.",
+    "icon": "//lh5.ggpht.com/4VFEaGG0Q914CwLgVcU1JZv3nVo0WIfYxSD5xPZhn3KgwN4st4H5flaMzEMyEfNkAKA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 347,
+    "developer": "Work in progress",
+    "developerId": "Work+in+progress",
+    "developerEmail": "info@work-in-progress.ru",
+    "developerWebsite": "https://work-in-progress.ru",
+    "developerAddress": "620063 г. Екатеринбург, улица Мамина-Сибиряка 36",
+    "updated": "August 18, 2017",
+    "version": "Varies with device",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "size": "Varies with device",
+    "description": "Liqui Watchface is very simple.Display only time and Material Design style background.Due to Liquid Animation watch looks very fashionable and fascinating.You'll want to check the time more often!",
+    "descriptionHTML": "Liqui Watchface is very simple.<br>Display only time and Material Design style background.<br>Due to Liquid Animation watch looks very fashionable and fascinating.<br>You&apos;ll want to check the time more often!",
+    "histogram": {
+        "1": 20,
+        "2": 31,
+        "3": 58,
+        "4": 103,
+        "5": 135
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/idT-KRHm1arU2PdnzVBK6QZ4e7R8eL8QUlxt9O-Z7RclqLQCpSh31fl_gBlv8qk7lb0=h310",
+        "//lh4.ggpht.com/ddAIjG4Gsv742CS_gYVBlwmbBaW0sPgKDiT2o6oKH9w2Bd7Uhf5JU_rSm1WdKXhIKw=h310",
+        "//lh6.ggpht.com/NWhRIMhkSYxU_T_uS_0WnVLpbLNSMKeO4NLrjqh_Pw7VS3IOx2IZBgHkN6j5obFW6us=h310",
+        "//lh5.ggpht.com/dja-vmc-Ols9oHCADFBXgSwtDTsY8vkESFTEXvJSMBzgVNg3VqdeXdSBGcLjOKMecw=h310",
+        "//lh3.googleusercontent.com/1oQIJl2pcMj-OID4LCuuwA3IgNH5bS_Kn0PGVswi_GfYPXdUUzF-lwNhh9svqBjCglmg=h310"
+    ],
+    "video": "https://www.youtube.com/embed/vmDIsO3-f2g",
+    "comments": [
+        "Looks nice enough, and now has the option to display 12 or 24 hour mode. My issue is that the date is wrong: September 29 should show as 29.9, not 29.8 as it does. Uninstalling for now.",
+        "Shows wrong month (12 instead of 01). No customization.",
+        "My date is showing as December for all of January.",
+        "Fix the date, I will give you 5*",
+        "I really wish i could give this a higher rating, but after looking at the other reviews and trying for myself, i have no choice.  I really love the design, it was enough to immediately make me download it, switching from mostly analog faces.  However, the lack of something as simple as a 12 hour option is a deal breaker for me, even somewhat aggravating considering how much i like it otherwise.  It also doesn't look good that it hasn't been upgraded in almost 2 1/2 years",
+        "Gorgeous but unusable It looks great, but when notification cards pop up, they cover the time. This is bad for users that actually keep some notifications up as cards, like music controls or navigation instructions."
+    ],
+    "recentChanges": [
+        "date showing",
+        "12h mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ru.workinprogress.liquiface&hl=en&gl=us",
+    "appId": "ru.workinprogress.liquiface"
+}

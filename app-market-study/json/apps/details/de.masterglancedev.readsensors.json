@@ -1,0 +1,52 @@
+{
+    "title": "Wear Sensor Info",
+    "summary": "Now you can readout the sensors of your mobile and android wear",
+    "icon": "//lh3.googleusercontent.com/_ayFw5ttitf7UbrtNxkwfRjvnSEeUBlg6vogOq-3P1trMcWF2f6y4bWCvJhkJhj3TTKW=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.4,
+    "reviews": 14,
+    "developer": "MasterGlanceDev",
+    "developerId": "MasterGlanceDev",
+    "developerEmail": "masterglancedev@gmail.com",
+    "updated": "October 4, 2017",
+    "version": "1.3.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Do you know what your sensors measure?Now you can readout the most of the Sensors of your device for free!Here a quick overview of the sensors used:http://developer.android.com/guide/topics/sensors/sensors_overview.htmlIf you want to improve this App send me an e-mail, pls.You can send me new App-Ideas, too.Here you can join the Beta-Testing circle:https://play.google.com/apps/testing/de.masterglancedev.readsensorsThere is no warranty at any kind especially for destroyed sensors or other issues.",
+    "descriptionHTML": "Do you know what your sensors measure?<br>Now you can readout the most of the Sensors of your device for free!<br><br>Here a quick overview of the sensors used:<br>http://developer.android.com/guide/topics/sensors/sensors_overview.html<br><br>If you want to improve this App send me an e-mail, pls.<br>You can send me new App-Ideas, too.<br><br>Here you can join the Beta-Testing circle:<br>https://play.google.com/apps/testing/de.masterglancedev.readsensors<br><br>There is no warranty at any kind especially for destroyed sensors or other issues.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KTg8EXweBQeih0fyoTQL1I1jytamgcBoIdjPd9JkuC1AeudqR8DsDjaP245640VPWw=h310",
+        "//lh3.googleusercontent.com/26KSIr868y69GYI1jEZBqh_4GpmqEf9ajccEjMWmraRZ79tTh--RLiut9_d_AchhGcQ=h310",
+        "//lh3.googleusercontent.com/RtsRv6DSbiTeA3Rz1hSRfKef0GBPVhKbncTRMb6qa0aSdK4R2oDkgccMAR3WNZ5pbMo=h310",
+        "//lh3.googleusercontent.com/IwAhXZiIEXSB2p2CaJMWSR4lF2k_e4XHAgMA48GAtZ__LUPJEBJMXNL1XfteGLUqzGI=h310",
+        "//lh3.googleusercontent.com/0WA70Exqdba_dQbx9nt3ini3hJEdBZiyGEQLI_oUCot0VEfSASXQdC8C_xwZgq3RYs8=h310"
+    ],
+    "comments": [
+        "Works well on LG G watch R with wear 2.0.  Accelerometer scaling can possibly be upped a bit, but that's nitpicking. Thanks!",
+        "Good .when your phone is overpowering .",
+        "No unnecessary rights needed. App needs only access to sensors. No addressbooks needed. Very seldom, today",
+        "Clean master Good"
+    ],
+    "recentChanges": [
+        "Hopefully updated to wear 2.0",
+        "I would be glad about feedback of the App:D"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.masterglancedev.readsensors&hl=en&gl=us",
+    "appId": "de.masterglancedev.readsensors"
+}

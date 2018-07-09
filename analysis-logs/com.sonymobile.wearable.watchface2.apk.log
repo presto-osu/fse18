@@ -1,0 +1,9 @@
+Soot started on Thu Jun 21 12:11:11 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.sonymobile.wearable.watchface2.chronograph.ChronographWatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.sonymobile.wearable.watchface2.digitalsony.DigitalSonyWatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.sonymobile.wearable.watchface2.watercolor.WatercolorWatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.sonymobile.wearable.watchface2.sonyabstract.SonyAbstractWatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.sonymobile.wearable.watchface2.active.ActiveWatchFaceService
+[INFO] MySceneTransformer: WatchFaceService:::: com.sonymobile.wearable.watchface2.modern.ModernWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.sonymobile.wearable.watchface2.apk
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:11:15 EDT 2018

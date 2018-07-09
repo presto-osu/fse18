@@ -1,0 +1,62 @@
+{
+    "title": "Timesheet - Time Tracker",
+    "summary": "Timesheet allows you the recording of your work with a simple push of a button.",
+    "icon": "//lh3.googleusercontent.com/73A7nageYTtQv_5tROxfJrJ_5R1y-_3t4PF6jgGnCHVSA4UkAPQ_oCmP8QfOqQSbGs3m=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000,
+    "maxInstalls": 5000000,
+    "score": 4.5,
+    "reviews": 11289,
+    "developer": "Florian Rauscha e.U.",
+    "developerId": "5679862747927242348",
+    "developerEmail": "support@timesheet.io",
+    "developerWebsite": "https://timesheet.io",
+    "developerAddress": "Untere Weißgerberstrasse 43/11\nVienna, Austria",
+    "updated": "January 3, 2018",
+    "version": "Varies with device",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "size": "Varies with device",
+    "description": "Timesheet allows you the recording of your working hours with a simple push of a button. You can easily add breaks, expenses and notes. Manage your projects and export your data to Microsoft Excel (XLS, CSV). Clear overviews and statistics will give you the best working experience. Easy Backup / Restore to SD-Card or Dropbox/Drive!Cloud SynchronizationEnable real-time synchronization to use Timesheet on multiple devices and on your desktop!Track your working hours even better with the web-application on my.timesheet.ioFeatures- Time Tracking- Project Management- Track Expenses, Notes and Coffee Breaks- Excel Export (XLS, CSV)- Location-Based Tracking- Dropbox/Drive Backup- NFC, Google Calendar Plugin- Widget and Wear SupportFeedbackFeel free to contact me, or write me your question on facebook or twitter:Facebook: https://www.facebook.com/timesheetIOTwitter: https://twitter.com/timesheetIOGoogle+: https://google.com/+TimesheetIO",
+    "descriptionHTML": "<b>Timesheet</b> allows you the recording of your working hours with a simple push of a button. You can easily add breaks, expenses and notes. Manage your projects and export your data to <u>Microsoft Excel</u> (XLS, CSV). Clear overviews and statistics will give you the best working experience. Easy Backup / Restore to SD-Card or Dropbox/Drive!<br><br><b>Cloud Synchronization</b><br><br>Enable real-time synchronization to use Timesheet on multiple devices and on your desktop!<br>Track your working hours even better with the web-application on my.timesheet.io<br><br><b>Features</b><br><br>- Time Tracking<br>- Project Management<br>- Track Expenses, Notes and Coffee Breaks<br>- Excel Export (XLS, CSV)<br>- Location-Based Tracking<br>- Dropbox/Drive Backup<br>- NFC, Google Calendar Plugin<br>- Widget and Wear Support<br><br><b>Feedback</b><br><br>Feel free to contact me, or write me your question on facebook or twitter:<br><br>Facebook: https://www.facebook.com/timesheetIO<br>Twitter: https://twitter.com/timesheetIO<br>Google+: https://google.com/+TimesheetIO",
+    "histogram": {
+        "1": 297,
+        "2": 225,
+        "3": 636,
+        "4": 2500,
+        "5": 7631
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/FZ6tLNPCRy7pt2uUf2usTczt5G8Q_N9PhXDCRpe-N_61McorSvkEq8JJ9zOB4kigTdg=h310",
+        "//lh3.googleusercontent.com/Ffb2Lis8n2lqvO1ifoNh7NC-uB_JLcbLpWtSEbjx1I7ESuDpL-SKfnUQTPRD2rFaJP0=h310",
+        "//lh3.googleusercontent.com/6QJmutAq_i7ZazAugyI_KeQ5TDlcylE-ZjMOn6tsOEu6cglQXt1ZtcpoLf4IA2T7dg=h310",
+        "//lh3.googleusercontent.com/94lH6bxdg9NrrzPMeRKLrfIgYMok4puFNvmOckJREAwhg1-DNKkRs5IB7gVtfRSGkg=h310",
+        "//lh3.googleusercontent.com/Q9VHdky8m2WenI1EiEIxfBO8T3qa0ZQaSc3TDiifiVcoyrOJwbZrQeTrXnHggA-uWHU=h310",
+        "//lh3.googleusercontent.com/bPXb_iAu7MLTHLISfIgYrR8FTI-6L1FIJ27rc4zF8vUw4GHUTtQZdt2TZAOBMgCnKRc=h310",
+        "//lh3.googleusercontent.com/CIWp8ObYSvgkqYi6fDRRgH2kw7ZOP-yuPonRPvPIzHOFC7SdQYbHWwrqI6bO6l0_cvkj=h310",
+        "//lh3.googleusercontent.com/OaXvCnc1Zw5Lhr5Yzpqv9nLGDcjEKABuv-rn6fRnNnxlrwFMcTfWXVqAb_CyOhVCaK0=h310",
+        "//lh3.googleusercontent.com/MI0ejfU17NiPLYpP7P07hY90F1vEMxzOk2-02TsSanBpvzdx6Y-qFVljOlOXJNBTQGY=h310",
+        "//lh3.googleusercontent.com/83RyHxFtUbxypzZZjypo0DTXWO0Xdh_d-WmfYPFO098v-FZuaHC2vNs1MPcZ4v7FewY=h310",
+        "//lh3.googleusercontent.com/doIskbzmYeORM4DiCGpnAhcTaOgxDDJreHUTIIBA4QNKmRVnFXTNKsVMQQsZAGnhHzE=h310"
+    ],
+    "comments": [
+        "Pros: - Two dimensional data model (projects and plural tags). - Activity timer. - Moderately clean and streamlined user interface. - Advanced backup/restore to SD card, Dropbox, Google Drive in easy to read XML format. - Usable CSV export format for external analysis. - Tag-time and project-time reports. - Geofence and WIFI -triggered start/stop/toggle of project task. - Hourly billing rate.  Cons: - Limited filtering of tasks (billing status only). - Inability to navigate from pie chart to actual tasks that make up slices. - Lack of tag and project timeline report (how metric changes over time).",
+        "Great app for keeping up with hours on different projects. Very flexible. One bit of feedback though.  If I forget to clock in and go back and edit the time, the automatic break after \"x\" hours is based on the original time I clocked in not the edited time.  This is a minor annoyance and I would still recommend this app to all",
+        "This has been the best time tracking app I've used. I was constantly forgetting to log hours worked on projects and probably cost myself several thousand dollars in unreported man hours. This one is convenient and easy to use.",
+        "This app has just got better and better. I love the stats view with the donut rings in different colours. I use it to track what I'm doing at work for my own productivity/interest and it works really well for that.",
+        "Two things would make this app perfect for small business. 1. Ability to export archived projects. 2. Project \"revenue rate\", as opposed to salary, a revenue rate would allow you to distinguish from business income, which is marginally higher than personal income. Otherwise, great app!",
+        "Great timesheet app has loads of features like stats, different projects and rates and the smiley face rate my task feature is nice at the end of the day. One great improvement would be to select a default rate while on a project because I'm on a particular rate for multiple weeks in a row maybe indefinitely so would like my phone to know that."
+    ],
+    "recentChanges": [
+        "Happy New Year!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rauscha.apps.timesheet&hl=en&gl=us",
+    "appId": "com.rauscha.apps.timesheet"
+}

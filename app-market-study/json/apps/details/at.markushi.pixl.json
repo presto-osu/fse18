@@ -1,0 +1,55 @@
+{
+    "title": "Pixl Preview",
+    "summary": "The new tool in Android Design",
+    "icon": "//lh4.ggpht.com/KaxcjAkqBPQBflE6OFyPzWBddXfNkz8exDs5uiUHQ4tW00XxjF7PSS5vszcfBqzDzA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 641,
+    "developer": "Waffle Ware Apps",
+    "developerId": "Waffle+Ware+Apps",
+    "developerEmail": "pol.kuijken@gmail.com",
+    "developerWebsite": "https://markushintersteiner.at/pixl-preview",
+    "developerAddress": "Kollroßdorf\nBad Kreuzen",
+    "updated": "October 11, 2014",
+    "version": "1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Pixl Preview lets you view your Photoshop® designs on your Android device in real-time. Get an accurate look and feel of your designs the moment you're making them, and instantly get an on-device image of all your iterations and tweaks.Additionally you can also send any screenshots or images from your device straight to Adobe® Photoshop®.Features:- Connect directly to Adobe® Photoshop® (CS5 and up)- No additional desktop software required- Send any screenshots or images from your device straight to Adobe® Photoshop®- Intelligent content-based system bar hiding, made for Android 4.4- Free and no ads- Android Wear Support- A lot more to come",
+    "descriptionHTML": "Pixl Preview lets you view your Photoshop&#xAE; designs on your Android device in real-time. <br><br>Get an accurate look and feel of your designs the moment you&apos;re making them, and instantly get an on-device image of all your iterations and tweaks.<br>Additionally you can also send any screenshots or images from your device straight to Adobe&#xAE; Photoshop&#xAE;.<br><br>Features:<br>- Connect directly to Adobe&#xAE; Photoshop&#xAE; (CS5 and up)<br>- No additional desktop software required<br>- Send any screenshots or images from your device straight to Adobe&#xAE; Photoshop&#xAE;<br>- Intelligent content-based system bar hiding, made for Android 4.4<br>- Free and no ads<br>- Android Wear Support<br>- A lot more to come",
+    "histogram": {
+        "1": 42,
+        "2": 34,
+        "3": 60,
+        "4": 130,
+        "5": 375
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/PLXmQJL36RIdf2t2VO8Qz3b-pGo00FQbPYxfkNmuW9NrWOcYHOguYq0pi1_V6DE8VxM=h310",
+        "//lh4.ggpht.com/iY3WdKO2CWun233Pon7vdhbt0I1dW2Gd_KffKeXX4C5ZliQMYhHMv3oyZAIYG_pvBQ=h310",
+        "//lh6.ggpht.com/Dcl8oHOW-yIuoce4C-IxB8WlnAWks-TXZQVFPN1hhTV-8G0viamh_CFblEW0FzgrHbA=h310",
+        "//lh6.ggpht.com/g-5tC1VK4pixj96hihfWB42K2NmqfojZbZxSr8TxsXY9ijZOFpo2tf1sQlKt_dBb8Sg=h310"
+    ],
+    "comments": [
+        "Great App. Just one issue! It works great and I love using it for my work. The only thing is that the android notification bar on top of my Galaxy Note 4 doesn't vanish when using the app and therefore partially blocks some of the image. I'll gladly give 5 stars once this issue is resolved. (Also it'd be SUPER awesome if you could 'fit to width' and  have the option to scroll down for images that have a very large height compared to their width!).",
+        "Minor tweaks needed This app is really great. But I would rate it 5 stars if few minor features were added. Firstly, a width-fit support with Scrollable view is needed. Its of immense use for all Interface designers out there.  Secondly, when using artboards, the app displays all the artboards together,.. Instead of doing this, the app could display only those artboards which are active in Photoshop. This is another thing that will help people working in the latest PS CC versions alot.",
+        "Great app! Only thing I'm missing is a zooming functionality (not sure if possible) that also maintains zoom when edits are made on PC.  Also, the activity resets when rotating the device 90° (180° works fine). Not sure if this is intended.  Hope to see those features launch soon!",
+        "Great app! It's very usefull for me. But there is a big bug that when you want to enter ip to connect to photoshop, a numeral keyboard will be show and unfortunately there is not any Dot key to enter the ip correct! You can only enter numbers! You should copy and paste your ip here! Also it is very good if you make it scroll support. Big thanks 😊",
+        "It's a shame we need 3rd party apps in the first place. Adobe should treat all platforms equally.   I like this app, it's easy to connect, fast and responsive. The reason I am giving 3 stars is because artboards are all shown at once, meaning this app is pointless in app design with more than one screen; unless of course you want each screen as a separate PSD file.",
+        "✋ Updated: Please READ!!! ✋ I can't thank you enough for how it's helping me to design mobile apps, just one more feature request: Please add scroll view! When I am designing mobile version of websites I need to see the actual preview size. So width should fit the screen but height should be scrollable! Please add this feature in next update. Thanks. 💖  I AM WILLING TO PAY FOR IT IF SCROLL FEATURE IS ADDED"
+    ],
+    "recentChanges": [
+        "- Android Wear Support",
+        "- Stability improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=at.markushi.pixl&hl=en&gl=us",
+    "appId": "at.markushi.pixl"
+}

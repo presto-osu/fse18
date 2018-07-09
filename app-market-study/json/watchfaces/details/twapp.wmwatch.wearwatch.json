@@ -1,0 +1,43 @@
+{
+    "title": "Wear Watch",
+    "summary": "Sporty watchface for your Android Wear smartwatch",
+    "icon": "//lh3.googleusercontent.com/syQl-8fh5551IgQ2EE_YRnBiXe2TCCRlc-bifoV5d5dqXsAQGDJ5SzpG_XcSFJ4UgA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 5,
+    "maxInstalls": 10,
+    "score": 1,
+    "reviews": 1,
+    "developer": "TWapp",
+    "developerId": "TWapp",
+    "developerEmail": "twappdevelopment@gmail.com",
+    "developerAddress": "Offenbach am Main\nDeutschland",
+    "updated": "October 17, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "-----------------------------------------------------Requirement:- WatchMaker Premium v3.9.4 or higher: http://goo.gl/FMxUfY-----------------------------------------------------Features:- analog clock (hours, minutes, seconds)- date display- if you tap on the date it shows your calendar entries- dimmed mode in black/white to save battery",
+    "descriptionHTML": "-----------------------------------------------------<br>Requirement:<br><br>- WatchMaker Premium v3.9.4 or higher: http://goo.gl/FMxUfY<br>-----------------------------------------------------<br><br>Features:<br>- analog clock (hours, minutes, seconds)<br>- date display<br>- if you tap on the date it shows your calendar entries<br>- dimmed mode in black/white to save battery",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/1sT4sKfZtYP6XUufFHUbm3I_C4gk9QeDPy8a-ZOxW0uG8x8F2Dro7yHGcNKrN2tZqqAG=h310",
+        "//lh3.googleusercontent.com/bNZtxAJ93gtyxgr1eayLeaU4cfE1X3o76n6Dkl_M7hd_DvGb1-FiH67-56N3Dm7m7Vk=h310",
+        "//lh3.googleusercontent.com/OMO1gBcWuORs2GOpnd0VigkUZsjrI6uG1cqg2_EqkXsFlatBxkiSJZeDQsEc58fHOuU=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=twapp.wmwatch.wearwatch&hl=en&gl=us",
+    "appId": "twapp.wmwatch.wearwatch"
+}

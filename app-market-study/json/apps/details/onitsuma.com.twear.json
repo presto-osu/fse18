@@ -1,0 +1,49 @@
+{
+    "title": "Twear",
+    "summary": "Twear - Twitter Timeline for android wear",
+    "icon": "//lh3.googleusercontent.com/oq90177Qh_w2WthH3aWznYfzwi5oL5YoWxVytWoYPkJOiZL4ykylJ7a4Lxo6Ty9uSBpE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 7,
+    "developer": "Onitsuma",
+    "developerId": "Onitsuma",
+    "developerEmail": "onitsuma.android@gmail.com",
+    "updated": "May 5, 2015",
+    "version": "1.1.1",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "With this application you can view your twitter timeline in your Android Wear device. You can also make different actions directly from your watch, as retweet or favorite tweets, and also open it on the smartphone",
+    "descriptionHTML": "With this application you can view your twitter timeline in your Android Wear device. You can also make different actions directly from your watch, as retweet or favorite tweets, and also open it on the smartphone",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/3DxZ8RtKO0XNGnJGsYd4lxkzXam3ahVfySxGl4HcMs6TccOpqlTLvFttabL1k5xiEj8=h310",
+        "//lh3.googleusercontent.com/Qnr6wM9Kln7TfZVJnBN41x36ToSkLhg0LjbSSpgFPldmpEM6ct2x7N1RHV0mIIDk9yM=h310",
+        "//lh3.googleusercontent.com/xdIhVDSqH9ONQmlsUuHC8KRgMq3Zqgrw2lwhq70n-MgKsY52aubT5YGCcTmt3z9mzEM=h310",
+        "//lh3.googleusercontent.com/nzd_TujYUuaE1d1FANRKBpkmvD1DiPsrrN8WiLLPd0YpHP_-LqB47HbI5qmnXSxC-wVd=h310",
+        "//lh3.googleusercontent.com/Z9wh021K-Uvxh1pCTi8skd-Dbf99B_F3B_L-f45BTFtrBMTX65hIYoFkMWFglOrlsw=h310"
+    ],
+    "comments": [
+        "Started off well, but... Just doesn't work any more.",
+        "Hasn't worked since install All I get is the spinning circle of death"
+    ],
+    "recentChanges": [
+        "bugfix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=onitsuma.com.twear&hl=en&gl=us",
+    "appId": "onitsuma.com.twear"
+}

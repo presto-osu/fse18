@@ -1,0 +1,54 @@
+{
+    "title": "WifiSwitcher - Switch Via Wear",
+    "summary": "WifiSwitcher lets you switch WiFi networks using your smartwatch!",
+    "icon": "//lh3.googleusercontent.com/rqAXLXsl1NBgsCUkmnYUFX-li_4cNw3nlK0CD2qgIdacGGKS2L9FLB0vz34Oflnf5uw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.5,
+    "reviews": 6,
+    "developer": "Vos Development",
+    "developerId": "Vos+Development",
+    "developerEmail": "development.vos@gmail.com",
+    "developerAddress": "Oosterhout\nThe Netherlands",
+    "updated": "January 30, 2018",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "With WifiSwitcher you can switch your WiFi connection using your smartwatch!No need to get your phone out of your pocket, you can just use the power of your wearable to switch between access points!Not only can this app switch WiFi networks for you, it can also show you the fine details of the network connection you are connected to, like:•  SSID•  MAC Address•  IP Address•  Link speed•  Network IDand more...But where does this come in handy?Say you have an extender that can be very dominant sometimes, ruining your WiFi strength and speed when you are actually wanting to be connected to your main network. Instead of having to pull your phone out of your pocket, you can now switch between networks using your smartwatch! How convenient!If you have any problems, please contact me (development.vos@gmail.com) and I'll do my best to help you out.Any suggestions or recommendations are welcome as well!",
+    "descriptionHTML": "<b>With WifiSwitcher you can switch your WiFi connection using your smartwatch!</b><br>No need to get your phone out of your pocket, you can just use the power of your wearable to switch between access points!<br><br>Not only can this app switch WiFi networks for you, it can also show you the fine details of the network connection you are connected to, like:<br><br>&#x2022;&#x2003; SSID<br>&#x2022;&#x2003; MAC Address<br>&#x2022;&#x2003; IP Address<br>&#x2022;&#x2003; Link speed<br>&#x2022;&#x2003; Network ID<br>and more...<br><br><i>But where does this come in handy?</i><br>Say you have an extender that can be very dominant sometimes, ruining your WiFi strength and speed when you are actually wanting to be connected to your main network. Instead of having to pull your phone out of your pocket, you can now switch between networks using your smartwatch! How convenient!<br><br>If you have any problems, please contact me (development.vos@gmail.com) and I&apos;ll do my best to help you out.<br>Any suggestions or recommendations are welcome as well!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/v75hPpdtSQie4ObmNCd2TVlZWkLKK2Y3KHGxoeI7g-33bXmIjS2Bb9q3jULqX8ceKA=h310",
+        "//lh3.googleusercontent.com/ac9A-2vcTyPlaOFYfvOmeLb_wwFBqCEC3FIgSl1rMidQJz1jy233_8uu6YnLlQHzlV0=h310",
+        "//lh3.googleusercontent.com/08VwSSetIOtYgl_3qAc3-csPMbtcp7j6ceS51_k_Fu_kCvkOAExLUUDtPBUGI3QFMQ=h310",
+        "//lh3.googleusercontent.com/4Y1oyVw5zD8jazepBdirB170nqg7YRBnYW9R3GuHdD0xV_wF9THFvUzL7BJ-0O-HRg=h310",
+        "//lh3.googleusercontent.com/q9oXIi6b0Umwwa2qVAcCXUSAfSnalHoS7XTWi6gUxFjPGSMD8ygt1nkuWI31-_HxlQ=h310",
+        "//lh3.googleusercontent.com/3SKe_zw97KIwR8QbO7-1luLJy8WR8c4EendyKTQXTmo1HbvFxHWgdGbnqJKqA4ctKK92=h310"
+    ],
+    "comments": [
+        "Love it...",
+        "Good"
+    ],
+    "recentChanges": [
+        "- Code optimizations",
+        "- Bug fixes",
+        "- Splitting of wear and phone app"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=nl.vosdevelopment.wearwifiswitcher&hl=en&gl=us",
+    "appId": "nl.vosdevelopment.wearwifiswitcher"
+}

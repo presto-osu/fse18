@@ -1,0 +1,56 @@
+{
+    "title": "Ezro Watch Face",
+    "summary": "A Simple Minimalistic Watch Face",
+    "icon": "//lh3.googleusercontent.com/zsRqc_zE6jzzt0Tgm99XBfg083S3fAqv2zn7EXWQ8Y1x2n3iSSwmAiTRhRCpJrYxhQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.9,
+    "reviews": 14,
+    "developer": "Project Eighty Eight",
+    "developerId": "Project+Eighty+Eight",
+    "developerEmail": "ezrowatchface@gmail.com",
+    "developerWebsite": "https://www.facebook.com/ezrowatch/",
+    "updated": "December 20, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A Simple Minimalistic Watch FaceIts as easy as that, from a personal point of view i couldn't find a watch face for my needs that was also asthetically pleasing so i decided to create my own.*Displays basic time/date *Displays Battery percent of the watch*Customisable colours- Should work on all android wear *(Note: Tested on ASUS Zen Watch, i havent tested all wearables)",
+    "descriptionHTML": "A Simple Minimalistic Watch Face<br><br>Its as easy as that, from a personal point of view i couldn&apos;t find a watch face for my needs that was also asthetically pleasing so i decided to create my own.<br><br>*Displays basic time/date <br>*Displays Battery percent of the watch<br><br>*Customisable colours<br><br>- Should work on all android wear *(Note: Tested on ASUS Zen Watch, i havent tested all wearables)",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/N_I2GwVPWzc49kXfRAqU1bVYjEE1TxnOw5bWk1f6iNmGE9-GNdjQjiTrmUeKlK3WdA=h310",
+        "//lh3.googleusercontent.com/OqRb5ApgPr6XVFBaM0R_TW4cIKGNbUUKsrOP55ASJDdLB6hATwmIfr63kzEoMhYuWQ=h310",
+        "//lh3.googleusercontent.com/rVlQ6qiKAcWxgRKd6TA1qWx2Uk_beha1dmgV3udkzuz6a6fuEWTjMi6UF4YJkpaLye8=h310"
+    ],
+    "comments": [
+        "زیباست و کاربردی .",
+        "Alignment problems on the Huawei Watch. I send screenshot via email"
+    ],
+    "recentChanges": [
+        "*BUG FIX: Fixed battery percentage not aligning properly on higher resolution devices",
+        "*Updated the Mobile Interface to be more interactive and attractive",
+        "*Implemented a new Colour Picker for enhanced customization",
+        "*Styled watch face slight including an arc and battery info larger",
+        "*Option to turn features on/off",
+        "*Coming Soon*",
+        "*Weather",
+        "*Steps",
+        "*Icons for all of the above"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ezrowatch.ezro&hl=en&gl=us",
+    "appId": "com.ezrowatch.ezro"
+}

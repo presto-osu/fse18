@@ -1,0 +1,44 @@
+{
+    "title": "WearCam (Unreleased)",
+    "summary": "A simple Photo/Video/Gallery App for your Android Wear Smartwatch",
+    "icon": "//lh3.googleusercontent.com/rHsYPfmSBeDDv2X3f63sGIYwcSbpNtJNjUZo3Pzr8VvlIhge8voT3fnzbigol4eT_tU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Mustafa Baris Cicek",
+    "developerId": "Mustafa+Baris+Cicek",
+    "developerEmail": "swave94@gmail.com",
+    "updated": "June 30, 2015",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "Stream your Camera from your Smartphone easily to your Android Wear Smartwatch. You can take pictures/videos or preview taken pictures in the gallery through simple Touch/Swipe Gestures.Requirements: Android 5.0 (Smartphone) , Android 5.0 (Watch)",
+    "descriptionHTML": "Stream your Camera from your Smartphone easily to your Android Wear Smartwatch. You can take pictures/videos or preview taken pictures in the gallery through simple Touch/Swipe Gestures.<br><br>Requirements: Android 5.0 (Smartphone) , Android 5.0 (Watch)",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/kvZyDM2Kw503WoMNxI2Trm0qTkltbwVYhRWl95p1IqjPh8d7YTXjd182k7f8bTK5tA=h310",
+        "//lh3.googleusercontent.com/atUeTtyJ1u_jDRbWeLqwsa6QZ9FU8NkdxTaC1J0MwT7oTTjDU5LRT7aCyBuuUKjN_TKw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Crash on Nexus/OneplusOne devices fixed.",
+        "Compression works better now.",
+        "Better error handling."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.felixgruber.www.wearcam&hl=en&gl=us",
+    "appId": "net.felixgruber.www.wearcam"
+}

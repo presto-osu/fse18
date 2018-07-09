@@ -1,0 +1,61 @@
+{
+    "title": "Slideshow for SmartWatch",
+    "summary": "Show pictures on your SmartWatch as a slideshow.",
+    "icon": "https://lh3.ggpht.com/ujIagYPIwiD4ifRt8MxAXqqsQ3BHqc8wv5BVwpoC1wiWqeRyhYGqQr1vKEJcsFchNcfM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.9,
+    "reviews": 789,
+    "developer": "Square Island",
+    "developerId": "5441086938038769987",
+    "developerEmail": "android@sqisland.com",
+    "developerWebsite": "http://www.sqisland.com",
+    "developerAddress": "603 S Public Rd #728\nLafayette, CO 80026",
+    "updated": "September 22, 2013",
+    "version": "3.2.0",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "Show pictures on your SmartWatch as a slideshow.This application collects all the images on your phone and display them on your watch. You can select a subset of photos by picking a specific folder. Swipe left and right during the slideshow to move images back and forth.Take your watch off the strap and clip it everywhere to show off your photos! Wear it as a name tag, and be the star at your next party.Note: This application will not be shown in your phone application screen. Access application settings via LiveWare™ manager, where you can also enable or disable this SmartWatch application.LiveWare™ extension for SmartWatchLiveWare extension for SmartWatch 2Smart Connect extension for SmartWatch 2",
+    "descriptionHTML": "Show pictures on your SmartWatch as a slideshow.<br><br>This application collects all the images on your phone and display them on your watch. You can select a subset of photos by picking a specific folder. Swipe left and right during the slideshow to move images back and forth.<br><br>Take your watch off the strap and clip it everywhere to show off your photos! Wear it as a name tag, and be the star at your next party.<br><br>Note: This application will not be shown in your phone application screen. Access application settings via LiveWare&#x2122; manager, where you can also enable or disable this SmartWatch application.<br><br>LiveWare&#x2122; extension for SmartWatch<br><br>LiveWare extension for SmartWatch 2<br><br>Smart Connect extension for SmartWatch 2",
+    "histogram": {
+        "1": 105,
+        "2": 47,
+        "3": 89,
+        "4": 150,
+        "5": 398
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "2.1 and up",
+    "androidVersion": "2.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "https://lh5.ggpht.com/7hzInFrRwnKFRRtv1dOjmaGGu8bD4RbYmI1APtq3uTkguy8uqBvvz_IU4WxLArqG_sc=h310",
+        "//lh5.ggpht.com/0-gHJyfEu_A41d16w7A-v2cr0SDisvUdXDw3xFjFar5Qsv4hUtuvqlAZEqfNQz7ImQ=h310",
+        "https://lh5.ggpht.com/eUKAXlbC0ijhYun_tcDTJ-u_ss-oWBCz_ThcwOUe2sEjn5OP9uqj5rQRkPWdIvIGD44=h310"
+    ],
+    "video": "https://www.youtube.com/embed/qWpq7wzpagI",
+    "comments": [
+        "Good one mates.... and all those saying you can't access it from phone via icon : do you guys even know how to use a phone ? This app can be accessed from smartwatch 2 app, it's that easy. Suggestion : add an option to choose custom folder instead of fixed ones.",
+        "Works great, just wish it could display the time Excellent app, if they add the ability to overlay the time on top of the images it will be perfect.  Having to exit the app and relaunch it to see the time is a little awkward when its a watch.",
+        "Good apps but 1st installed didn't show the icon after uninstalled then icon appear. Installed again and there are 2 icon now in my sw 2, cant delete the 1st one.",
+        "Doesn't show on phone to be able to access it. I have reinstalled over five times and still no success.",
+        "BUT And WHY I like it but when i download it why i can't see it in my icons/app",
+        "Poorly created I try to get in but I can't open it.!!!!!!! Terrible. Really Terrible."
+    ],
+    "recentChanges": [
+        "Version 3.2.0:",
+        "Slide rotation",
+        "Version 3.1.0:",
+        "New slide transitions: Vertical Blind and Horizontal Blind.",
+        "Version 3.0.0:",
+        "Added slide transitions via in-app purchase.",
+        "Version 2.0.0:",
+        "Added shuffle and swipe options."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sqisland.smartwatch.slideshow&hl=en&gl=us",
+    "appId": "com.sqisland.smartwatch.slideshow"
+}

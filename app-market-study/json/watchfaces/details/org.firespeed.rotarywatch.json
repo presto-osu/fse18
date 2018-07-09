@@ -1,0 +1,55 @@
+{
+    "title": "Rotary watch - Watch Face",
+    "summary": "Wankel rotary engine on your arm.",
+    "icon": "//lh3.ggpht.com/v_GBxhcA5ZL9WXhWxCYKH7ae26Nb_68DySlAjcI6_PqHUTs2PfXlrw0AZTwUiKyLPLQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 14,
+    "developer": "kenz",
+    "developerId": "kenz",
+    "developerEmail": "android@firespeed.org",
+    "developerWebsite": "http://firespeed.org",
+    "developerAddress": "福岡県福岡市中央区薬院3丁目13-11　サナガリアーノビル6F",
+    "updated": "September 16, 2015",
+    "version": "1.0.1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Rotary watch displays time by rotating motion look like the Wankel engine.You can choose what you display such as Hour, Minute,Second and Digital clock.You can also use high speed mode.It is suitable to observe the complicated movement of the rotor.",
+    "descriptionHTML": "Rotary watch displays time by rotating motion look like the Wankel engine.<br>You can choose what you display such as Hour, Minute,Second and Digital clock.<br><br>You can also use high speed mode.<br>It is suitable to observe the complicated movement of the rotor.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/KEA3lgxauNt6tW3WrzRaFr5v94uvhmoVM0wRS8hDQ_pjwGVr7N-SatpRPJNYg6D1LgA=h310",
+        "//lh3.ggpht.com/owrZFAzcyGhfJG8FbQZJMtlTKls7Y9MoOED3K8ZSONGlu48-5bJiPByaeOhQZpqcDg=h310",
+        "//lh4.ggpht.com/y7gmAeP1FPH9WLj9TdLNNMPc__9SfD4G6CSJ2oYOiwB8DJWdoNFaAYUYrScHzZO0RNg=h310",
+        "//lh3.googleusercontent.com/W3h7X5eM011m5rbzxyJC3MRR7PFx4bburxDzcqp9rzvXEmY6RruVVoIhyRVAYzLdcPI=h310"
+    ],
+    "video": "https://www.youtube.com/embed/afHrFa3bmKE",
+    "comments": [
+        "Cool idea Needs work on the Moto 360. Please include an option to remove the numbers. If you could make the other rotors for hours and minutes appear \"behind\" the seconds instead of a \"ghost\" effect, that would look much better. Thank you for your hard work!",
+        "Love the idea! Could you make an Android app or widget for my phone like this?  This would be a must have! Thanks.",
+        "Galaxy I cannot get this on my galaxy gear 2 watch please help",
+        "The words on the rotors are a little too much... But pretty cool idea!",
+        "Cool idea but... Needs to be optimized for the moto 360.",
+        "Nope Just don't like the design for the Moto 360"
+    ],
+    "recentChanges": [
+        "Fix for LG G Watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.firespeed.rotarywatch&hl=en&gl=us",
+    "appId": "org.firespeed.rotarywatch"
+}

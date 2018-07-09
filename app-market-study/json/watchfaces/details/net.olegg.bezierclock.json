@@ -1,0 +1,48 @@
+{
+    "title": "Bezier Clock",
+    "summary": "Smooth and curvy live clock for your screen both on phone and watch",
+    "icon": "//lh4.ggpht.com/U7gUsPWrhTFK4Qe_a9Z3ySvl3xjVei_bn8kZg4zXVuAe5l9jf10y9boCkz0kxJySjA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 90,
+    "developer": "Oleg Godovykh",
+    "developerId": "Oleg+Godovykh",
+    "developerEmail": "olegg.lieangel@gmail.com",
+    "updated": "February 28, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Watch face for your Android Wear device based on Bézier Clock by Jack Frigaard (http://jackf.net/bezier-clock/). Also you can put it on your phone and use as live wallpaperDigital clock numbers are represented as combinations of Bezier curves with smooth transition animation.Icon for project was provided by https://www.designcontest.com",
+    "descriptionHTML": "Watch face for your Android Wear device based on B&#xE9;zier Clock by Jack Frigaard (http://jackf.net/bezier-clock/). Also you can put it on your phone and use as live wallpaper<br><br>Digital clock numbers are represented as combinations of Bezier curves with smooth transition animation.<br><br>Icon for project was provided by https://www.designcontest.com",
+    "histogram": {
+        "1": 10,
+        "2": 2,
+        "3": 6,
+        "4": 6,
+        "5": 66
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/FkzuXC6FiSU_YuQqasjsjQ1TiP0TZgMe-7aj1dEdqytGnzfts0IQDBGR87u0fPFIy8jW=h310",
+        "//lh3.ggpht.com/dwr67rdQj8pztU0YiHV8pdHX5Cfq9aLTOetJfTvsM-L50IpPa4nf3rawid2ME1el9LI=h310",
+        "//lh4.ggpht.com/yDOyZfy13xza1xrErPG-ZiWtUa_uVUN5Fa_xKRu1E8aB49UV4K-FVoeQDGiVgTA1Og=h310",
+        "//lh4.ggpht.com/tWZAq4tuDpAu6st5fkCXrG9a9lXP89Xl0KhuMTf6fPj_HFLLipexdYDjRwVz1EzljVKH=h310"
+    ],
+    "comments": [
+        "So good"
+    ],
+    "recentChanges": [
+        "Wear 2.0 standalone mode support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.olegg.bezierclock&hl=en&gl=us",
+    "appId": "net.olegg.bezierclock"
+}

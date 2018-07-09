@@ -1,0 +1,24 @@
+[
+    {
+        "author": "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041a\u043e\u0440\u0438\u0446\u044c\u043a\u0438\u0439",
+        "comment": "Altimeter starts from 425 m, no matter I'm standing in the water on the beach. When climbed to the 12th floor, it shows just 10 m higher. Calibration? How should I guess the correct value, if I'm looking for altitude using this program?",
+        "date": "May 24, 2017",
+        "permlink": "/store/apps/details?id=com.alexs.altimeterwear&reviewId=Z3A6QU9xcFRPRTFQLUJRSFRrV0NwWHNfRkVxbTl5WXZmWF9rejktdHFjcEt4WnExNDlLMzNpVFJDMVgxSFUzSmtrVnpveWpSZFdoMXU3UFAtY01KbEdmM3c",
+        "reply": null,
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Alex Chang",
+        "comment": "The altitude measurement is not accurate and the calibration is unable to accept negative value.",
+        "date": "January 7, 2017",
+        "permlink": "/store/apps/details?id=com.alexs.altimeterwear&reviewId=Z3A6QU9xcFRPSElnRW5RV1k1Mk9Kc09SdE5yNDFWMXZYdkpMLWNQcTNzNjhkTnNRLThkQVJxVTJ1ckhBVjc2Y2VVN0I0YmhLdkZWNERTM1J6aDAxNm9jY2c",
+        "reply": {
+            "author": "Alessandro Mautone",
+            "content": "The calibration accepts negative values while the accuracy may depends from the barometric sensor of the device. Have a good day :)",
+            "date": "January 7, 2017"
+        },
+        "star": 1,
+        "title": "The altitude measurement is not accurate."
+    }
+]

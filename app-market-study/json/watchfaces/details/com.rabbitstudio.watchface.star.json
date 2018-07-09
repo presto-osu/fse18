@@ -1,0 +1,57 @@
+{
+    "title": "Star Watch Face 2in1",
+    "summary": "Star Watch Face for Android Wear",
+    "icon": "//lh3.googleusercontent.com/flGhOf-MPN3SDwWJUzKCCQLRAoCjyeSzPoHk_Q19h4Tu8uGA-4azKcgQtes2cvVdzg=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 37,
+    "developer": "Rabbit Design",
+    "developerId": "7611979703967153035",
+    "developerEmail": "rab4dis@gmail.com",
+    "developerAddress": "Minsk, Cherviakova 61-1",
+    "updated": "August 14, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Pimp your watch with Star Watch Face. Clean and fast space interfase for movie fans.FEATURES:- 2in1: Two Theme Watch Faces- 12/24 auto-format- Ambient (dimmed) mode- High Resolution Design- Round and Square watches SupportINSTRUCTION:1. Install Watch Face2. Wait a minute2. Go to Android Wear Application3. Choose one of Star Watch Face4. Enjoy!The wars face has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "descriptionHTML": "Pimp your watch with Star Watch Face. Clean and fast space interfase for movie fans.<br><br>FEATURES:<br><br>- 2in1: Two Theme Watch Faces<br>- 12/24 auto-format<br>- Ambient (dimmed) mode<br>- High Resolution Design<br>- Round and Square watches Support<br><br>INSTRUCTION:<br><br>1. Install Watch Face<br>2. Wait a minute<br>2. Go to Android Wear Application<br>3. Choose one of Star Watch Face<br>4. Enjoy!<br><br>The wars face has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "histogram": {
+        "1": 5,
+        "2": 3,
+        "3": 3,
+        "4": 12,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6BUfbAv81dTp6OJMDFtJm9FWvsjCwCHsxMEY2N0dAJvHILd4Kv-lV56lLKZfABGzbQ=h310",
+        "//lh3.googleusercontent.com/SEopOtd7lzewO-5S1UUzvJSoEwJbBFRlBX2T3ViDZkxi9X7fAuRhZ0tPHv8VMlQNsLs=h310",
+        "//lh3.googleusercontent.com/LaA08TH4meT8wp37E347jPvk3idsORtTg5cw7JTM6Ma80Qsc9jDA5W0ORYyhkeS9UOw=h310",
+        "//lh3.googleusercontent.com/YKzwo0MH_gGq_xKY0UwJnjhJwcKRvR2ZLqsEe8iv-8a5pd9ZF05afh5TNf0ftbXHPRtw=h310",
+        "//lh3.googleusercontent.com/OVWgsJ1pXzxKTUG68ntd-3yPSjsAiLmQMkKdth9mj33ZXlBKY3NjrNhulKug3-BWD8M=h310"
+    ],
+    "comments": [
+        "Delay in working on Sony SmartWatch 3 Paid for this, downloaded and installed and it took 3 days for it to appear on my SW3 and the latest version of Android Gear. Both screens DO look brilliant and hope the selection will be expanded in the future - Vader? Stormtrooper? BB8?",
+        "Wont work on Moto 360 v2? **Update: On Jan. 2nd I got a message saying that this watch face has been installed. Well thats fine but it took a few weeks to show up. I even power reset phone and watch when it didn't work. Anyways, it's working... now. Changed 2 stars to 4 stars.** This watch faces doesn't seem to work on my Moto 360 v2 (2015 model). It says it's installed but doesn't show up in the watch faces menu on my watch and phone. I've reset and waited, but nothing. Noticed this watch face app hasn't been updated since August.",
+        "I couldnt imagine a better seemless rendition of the r2 droid.It looks great on my moto360 1gen. Keep up the solid work dev.",
+        "Works great and looks very cool on the original Moto 360, especially the R2D2 face with the stainless steel body & grey leather strap. Will defo buy from developer again. Highly recommended. Thanks.",
+        "Bought watch face, but cannot find it anywhere. Anyone help?",
+        "It's ok but we need Darth Vader and boba fet"
+    ],
+    "recentChanges": [
+        "+ added ambient (dimmed) mode",
+        "+ some fixes for 280x280 and 320x320 displays",
+        "+ support for API 18+ devices",
+        "+ added one more watch face"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rabbitstudio.watchface.star&hl=en&gl=us",
+    "appId": "com.rabbitstudio.watchface.star"
+}

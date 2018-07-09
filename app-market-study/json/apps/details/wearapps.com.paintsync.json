@@ -1,0 +1,48 @@
+{
+    "title": "Wear Paint App & Sync Mobile",
+    "summary": "Amazing Paint &amp; Sync App For Wear.Real time broadcasting paint to your mobile.",
+    "icon": "//lh5.ggpht.com/Z5i9P4D-NB2PFFXTAKWdVH59VuE6ds1y8xIS4YKhd8B2M84KifTqN7pr0NoEOTkAng=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 12,
+    "developer": "Wear Smart",
+    "developerId": "Wear+Smart",
+    "developerEmail": "sacredoon@gmail.com",
+    "developerAddress": "sacredoon@gmail.com",
+    "updated": "January 12, 2015",
+    "version": "1.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "*Simple Paint App For Wear.This app made with simple tools as a start.I will be happy to answer new suggestions.At this moment you can:- Paint with different colors on your wear.- Painting automatically will also display in your mobile.- Save / Share / clear and more.- Real time broadcasting paint to your phone.Please note:- In order to exit application in wear device you need to open settingsand push the exit button.- In order to share or save you must be connected to your phone.- If for any reason app wont install on your wear device / not working please let me know! I will do my best to fix it.",
+    "descriptionHTML": "*Simple Paint App For Wear.<br><br>This app made with simple tools as a start.<br>I will be happy to answer new suggestions.<br>At this moment you can:<br><br>- Paint with different colors on your wear.<br>- Painting automatically will also display in your mobile.<br>- Save / Share / clear and more.<br>- Real time broadcasting paint to your phone.<br><br>Please note:<br>- In order to exit application in wear device you need to open settings<br>and push the exit button.<br>- In order to share or save you must be connected to your phone.<br>- If for any reason app wont install on your wear device / not working please let me know! <br>I will do my best to fix it.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 2,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/mlhk6s3tM6lGfPt_KYr92r7BELSfWI8clHMYF8bAhPxWiJCUATe85EjB2pUc_7W6xucK=h310",
+        "//lh5.ggpht.com/hECVHbwgxwJFtVJNXncfkqWSF6vFnMdk3iqMFqifSFw3qfrGa9OAJBhbAQC7524eVUbQ=h310",
+        "//lh4.ggpht.com/19tp1R0cB1UzJ7nagwgWlsRQU4Q5glPzB3b6wr7cHn1-AiJTXy7YY_Y84KBgdmIR_dc=h310",
+        "//lh4.ggpht.com/tIgEog9ci7aerln_7qYtK9jzkRsuYFAPI7QaRUTjWLDOjCYm2I0S5sMHt0GkEke63ek=h310"
+    ],
+    "comments": [
+        "Problem with LG G Watch Only the first 3 settings icons are displayed, the rest are below the screen  Making exit hard!"
+    ],
+    "recentChanges": [
+        "Fixed crash on android 5.0."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wearapps.com.paintsync&hl=en&gl=us",
+    "appId": "wearapps.com.paintsync"
+}

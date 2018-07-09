@@ -1,0 +1,52 @@
+{
+    "title": "NYC Subway Watch Face",
+    "summary": "New York City Lovers Only. MTA signs look and feel to be a part of it.",
+    "icon": "//lh3.googleusercontent.com/fKc6PDlKggTAY6FOGJ4jM1MCq2bGfp-3Sj2FxYfeZ77M-fjn1eYCOTPYwthhuFWKvV4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.5,
+    "reviews": 14,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerWebsite": "http://seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "September 19, 2016",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Simple yet not simplistic. It took several hours to give the \"NY\" state of mind to this face.Displays:- Day of the week- Month, - Day of the month- Hour- Minutes- am/pm Indicator (if your phone is in 12h mode)- Battery LevelColors have been picked from official MTA website, font is standard Helvetica in Bold for DoW and standard for Month and Date..Tokens are photos of actual NYC subway tokens. Each token \"gives you\" 20% of battery life.I do Love NY.",
+    "descriptionHTML": "Simple yet not simplistic. It took several hours to give the &quot;NY&quot; state of mind to this face.<br><br>Displays:<br>- Day of the week<br>- Month, <br>- Day of the month<br>- Hour<br>- Minutes<br>- am/pm Indicator (if your phone is in 12h mode)<br>- Battery Level<br><br>Colors have been picked from official MTA website, font is standard Helvetica in Bold for DoW and standard for Month and Date..<br><br>Tokens are photos of actual NYC subway tokens. Each token &quot;gives you&quot; 20% of battery life.<br><br>I do Love NY.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Cee4EXkfQ4BxbY7zsptb-dF4mqnVZxk2BG2j7sAZvgMnocFSV1E9dZDvTMl7uM9xdx0S=h310",
+        "//lh3.googleusercontent.com/OynxNBxIWif0Oj_3qsHCCAL676ZBy4t6c9P5TfOeYSSzWOrENpEB3xse6gTvuKgyCw=h310",
+        "//lh3.googleusercontent.com/saZjrFcZTqI7FsBxXhrlEYSxwfs3Ywc8q-3JA7rmrwf6cxDyz1DR55oQuVKWeRb67QE=h310"
+    ],
+    "comments": [
+        "I love it, I'd only rather not have the battery indicator always on",
+        "Simply amazing",
+        "Great... You can see a lot of thought went to it, very nice..."
+    ],
+    "recentChanges": [
+        "v1.3 Fixed 11th,12th and 13th superscript",
+        "v1.2 Fixed shifted 1 and replaced mobile icon with proper art work",
+        "A present to NYC fanatics. If you like this face, share the love!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.nycsubway_face&hl=en&gl=us",
+    "appId": "com.seenapps.nycsubway_face"
+}

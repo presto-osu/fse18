@@ -1,0 +1,61 @@
+{
+    "title": "Wallaby® Credit Card Rewards",
+    "summary": "Wallaby is your smart spending assistant: save money &amp; earn more rewards.",
+    "icon": "//lh3.googleusercontent.com/E97j33in8pVpR6rMM-SLzOnaqhQTMmoDNJjx1RIxRcN6B4cdPm8hT-VGYoQakwzZ8lyd=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 445,
+    "developer": "Wallaby Financial LLC",
+    "developerId": "8244567459461171020",
+    "developerEmail": "help@walla.by",
+    "developerWebsite": "https://www.walla.by",
+    "developerAddress": "680 E. Colorado Blvd.\nSuite 350\nPasadena, CA 91101\nUnited States of America",
+    "updated": "June 26, 2017",
+    "version": "4.1.2",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Wallaby is your smart spending assistant. It helps you to save hundreds of dollars each year just by using the right credit card at the right time. Money Magazine thinks we're one of the best personal finance apps you can have on your phone.Wallaby will recommend the right card from your wallet to use online and offline at every store. Using the right card can earn you double, triple or even 5X rewards. Using the wrong card can cost you real money by going over your credit limit or incurring a fee. Wallaby keeps track of everything for you, so you don't have to.How does it work?You just tell Wallaby the type of Visa, MasterCard, Discover, and American Express credit cards you carry. When you shop, in a store or online, we’ll show you which card to use. It’s that simple!Wallaby is completely secure: There's no need for your credit card numbers and we are PCI Level 1 Compliant. Just relax and know that you are getting the most from every purchase.",
+    "descriptionHTML": "Wallaby is your smart spending assistant. It helps you to save hundreds of dollars each year just by using the right credit card at the right time. Money Magazine thinks we&apos;re one of the best personal finance apps you can have on your phone.<br><br>Wallaby will recommend the right card from your wallet to use online and offline at every store. Using the right card can earn you double, triple or even 5X rewards. Using the wrong card can cost you real money by going over your credit limit or incurring a fee. Wallaby keeps track of everything for you, so you don&apos;t have to.<br><br>How does it work?<br>You just tell Wallaby the type of Visa, MasterCard, Discover, and American Express credit cards you carry. When you shop, in a store or online, we&#x2019;ll show you which card to use. It&#x2019;s that simple!<br><br>Wallaby is completely secure: There&apos;s no need for your credit card numbers and we are PCI Level 1 Compliant. Just relax and know that you are getting the most from every purchase.",
+    "histogram": {
+        "1": 54,
+        "2": 45,
+        "3": 67,
+        "4": 92,
+        "5": 187
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/EwmxpIFS4Z2B2VDu1NxBrXqPK8bI88fR_TWJMKs7Lt36g9Rznp_YuBhsM8JHvIH_Q7Y=h310",
+        "//lh3.googleusercontent.com/1s_6vV0-FGe49mCg-DEY0qY_hWM1rQLD6wGyKX74vclz8jr-levtJ7Wh36Ln6VOAxg=h310",
+        "//lh3.googleusercontent.com/uFQ4rQsGz7D9Km2NzFJt-xr-aKETDLWHDfyi7JC12R-UDJUcPVMbfBO8uJMl5dQ-Kg=h310",
+        "//lh3.googleusercontent.com/ARCj2l7es-WJbpyKjvGYkEnk84ikiHVcyUHcVfHPqUH-Nybm3fD_iqJKUQmXRpMLAg=h310",
+        "//lh3.googleusercontent.com/7dA9asY0BYQaygnNc-FjrOvUZS6NlDmV_Wzi37WeckYGfbzsYFrqOU7TrThZkvpMYA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/TfPGAHuojB8",
+    "comments": [
+        "Previously I rated this app poorly (two + years ago) because of some crash issue. Those have all been resolved long ago. I find the app extremely useful, use it all the time. The support people are great and respond very quickly to any updates that are needed or any issues that you have. Contact them to get the problem resolved before rating it poorly! I definitely recommend this app. Its a great way to track the items in your wallet and the various benefits you can get. As I have many credit card to take the best advantage of rewards back programs, Wallaby allows me to find the best card suited to a particular purchase, maximizing my rewards!",
+        "Main use case: opening in a store to see which card I should use. Why do I need pin for this capability? Makes using the app quite cumbersome.",
+        "Doesn't take into account Amazon prime or Merrill preferred rewards program. I cannot override the category credit card. Great idea, bad execution.",
+        "I used to love this app. Used it religiously. Then noticed it stopped updating my transactions and balances a month or so ago. So I updated the app.   Now it doesn't work at all. It says my cards are connected to their banks, but still...no new balance and transaction details come through. The new UI is buggy as all hell, and is super ugly compared to what it used to look like.     Somebody clearly pushed this update months before it was ready.  Great product rendered useless as a result.  Edit 1/4/18: Still not working. Even with new phone. I can't edit card details, my credit limits are either 0 or some crazy huge random number. Tried unlinking cards to add them again, now getting a perpetual, \"oops, can't connect to the internet\" error message. Despite zero connectivity issue with any other app.",
+        "Really haven't seen many updates in quite a while. Definitely need the ability to use a fingerprint reader instead of a PIN number. The user interface could use an overhaul.",
+        "Unable to create an account. After entry of multiple verification codes I continue to get an error"
+    ],
+    "recentChanges": [
+        "v4.1.2 (1498168207)",
+        "There was a crash that made us sad,",
+        "But it really wasn’t so bad.",
+        "It would happen on your S8,",
+        "But now things work great.",
+        "We hope you think this update is rad."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=by.walla.wallaby&hl=en&gl=us",
+    "appId": "by.walla.wallaby"
+}

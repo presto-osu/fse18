@@ -1,0 +1,54 @@
+{
+    "title": "Primary Colors",
+    "summary": "A truly original take on displaying time.",
+    "icon": "//lh3.googleusercontent.com/hibkEL9NbPIZcFmeTzYSaUtIZaFKoCwBPcppbwj0THyirnP4hqhLa37K1sPCbqWY9lI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.2,
+    "reviews": 9,
+    "developer": "Marco van Hylckama Vlieg",
+    "developerId": "Marco+van+Hylckama+Vlieg",
+    "developerEmail": "marcovhv@gmail.com",
+    "developerWebsite": "https://plus.google.com/communities/117764868157901311082",
+    "updated": "April 10, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Primary Colors is a refreshingly different take on displaying time. Instead of using numbers and hands this watch face showcases four rotating color wheels. It includes a demonstration mode which will show you how to read the time on this watch face. Try it. Wear it. It will make a great conversation starter and it will make you look very smart. There's a full explanation of how it works at the bottom of this description.Features:- Fully configurable on your phone- Various static backgrounds- Two interactive backgrounds with lighting effects using the accelerometer- 12 and 24 hour mode- Low power ambient mode- Training mode adds numeric time to display- Demo mode shows progression of time at increased speed to show how Primary Colors works- Compatible with all Android Wear watchesHow does it work?At midnight, all four segments are blue. Between midnight and 1am the top segment will change from blue to purple. When the top segment is fully purple it will be 1am. Then the second will turn purple: 2am. At 3am the top, right and bottom segment will be purple until at 4am they will all be purple. Between 4am and 5am the top segment changes from purple to green, then the second, third and fourth until it's 8am and all segments are green. At noon all segments will be yellow, at 4pm they will all be orange, at 8pm they will all be red and then finally at midnight they will all be blue again and the cycle starts again.In 12h mode there are only 3 colors: 12o'clock all blue, 4 o'clock all yellow and 8 o'clock all red.",
+    "descriptionHTML": "Primary Colors is a refreshingly different take on displaying time. Instead of using numbers and hands this watch face showcases four rotating color wheels. It includes a demonstration mode which will show you how to read the time on this watch face. Try it. Wear it. It will make a great conversation starter and it will make you look very smart. There&apos;s a full explanation of how it works at the bottom of this description.<br><br>Features:<br><br>- Fully configurable on your phone<br>- Various static backgrounds<br>- Two interactive backgrounds with lighting effects using the accelerometer<br>- 12 and 24 hour mode<br>- Low power ambient mode<br>- Training mode adds numeric time to display<br>- Demo mode shows progression of time at increased speed to show how Primary Colors works<br>- Compatible with all Android Wear watches<br><br>How does it work?<br><br>At midnight, all four segments are blue. Between midnight and 1am the top segment will change from blue to purple. When the top segment is fully purple it will be 1am. Then the second will turn purple: 2am. At 3am the top, right and bottom segment will be purple until at 4am they will all be purple. Between 4am and 5am the top segment changes from purple to green, then the second, third and fourth until it&apos;s 8am and all segments are green. At noon all segments will be yellow, at 4pm they will all be orange, at 8pm they will all be red and then finally at midnight they will all be blue again and the cycle starts again.<br><br>In 12h mode there are only 3 colors: 12o&apos;clock all blue, 4 o&apos;clock all yellow and 8 o&apos;clock all red.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/YGn9qY7IkDdfjLXUO1358H-TEabMunYZfJzPxTgqobQLny5R6JL1ZURPCBkDyVLAiQ=h310",
+        "//lh4.ggpht.com/QYx5EhM2fCkmVMMl0WmSYaF8ATqTvIOjXxAqxutjohT9J_Q9M272IHXcJV4k1tgDmEk=h310",
+        "//lh3.ggpht.com/RHCu36avzkpFxzOzyYHGRoZoMBcsfGwD1xlhheDbQpSZZm_O_gl5X7p5grNhfuYvxEPz=h310",
+        "//lh6.ggpht.com/_QOOv4pTgAYefOUmsAzj-TFpPgPkFF3007RRiHXkVU1x3aDvOKPaO3m0lWzwjrbJyuc=h310"
+    ],
+    "comments": [
+        "Wanted to like it I wanted to like this,  but seems not easy to read. So,  I'm uninstalling",
+        "Awesome but... Would be nice to be able to choose own colors. Would even pay for it! Also love the mltion effect.",
+        "I downloaded to my phone, but.. it hasn't shown up on my watch",
+        "Not centered in Moto360",
+        "Surprisingly useful. Turned out to be a great visual representation of how much time is left until lunch break, since I start work at 8. So when all 4 segments are filled, it's lunch time! An ability to customize the watchface to a different schedule somehow could make it even more useful."
+    ],
+    "recentChanges": [
+        "- Improved carbon fiber texture",
+        "- Added perforated black texture",
+        "- Changed hint time display to match 24h/12h setting"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.marcovhv.colorclock&hl=en&gl=us",
+    "appId": "com.marcovhv.colorclock"
+}

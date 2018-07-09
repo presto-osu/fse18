@@ -1,0 +1,55 @@
+[
+    {
+        "author": "J Staffman",
+        "comment": "I like this watch face but could you make it more interactive? Like adding app shortcutsto the watchface",
+        "date": "June 20, 2017",
+        "permlink": "/store/apps/details?id=com.boost.weather&reviewId=Z3A6QU9xcFRPRnI5RV9wUS1hTDR4ODRqYVpBcF9uM2tHSDAxRTNqM3dXQ19XWUJSaUNucGVHVk9wejBJa3c3cExDQU83enVURTFQRnhEQk9nZmdTMDhoVVo0",
+        "reply": null,
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Dmitry Bruso",
+        "comment": "Works good on LG Watch Sport! THX!",
+        "date": "November 14, 2017",
+        "permlink": "/store/apps/details?id=com.boost.weather&reviewId=Z3A6QU9xcFRPRnZKREpielM5cF8yQjdzcGlaTkdJdHBsdm02RFpIaUgxYkhKMWRFRGs3c1NhbUEyMUl5UXpNSjhReDBYR2dMcmhzR0JmNWtxNWFlSXB3cDdV",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Rich Szczepanski",
+        "comment": "It's 9am in New York. My watch still thinks it's night.  I can't convince it otherwise. Its been light for 3 hours. If this were the dead of winter, it would have been light for 1.5 hours. This sounds like a petty complaint but this watch face's whole point is to display the weather graphically and it can't do night and day properly.  It's also clear skies but the watch thinks it's cloudy.",
+        "date": "May 10, 2016",
+        "permlink": "/store/apps/details?id=com.boost.weather&reviewId=Z3A6QU9xcFRPRzhyOWpVaFFnSkRLN0tDdWRhRVB3RXY5OXF1NGQ5cVlQUG1mX2lKcmhzbGF4VHJrQ29EdkhraHNnbjVWeHZCZ2FmUGpTcDBwMGJsMU1OeFlV",
+        "reply": {
+            "author": "BoostApp",
+            "content": "Hi! It is very stange... seems like it is getting the data for a wrong city. All the data displayed is got from the openweather api service. Did you entered your city manually or automatically? Probably, we have a solution for that, but could you, please, contact us via wearables@boost.solutions so we can help you and fix that? Thanks!",
+            "date": "May 10, 2016"
+        },
+        "star": 2,
+        "title": "Pretty but very imperfect"
+    },
+    {
+        "author": "Rueben Burrows-Davies",
+        "comment": "Great watch face, simple, clean and great on battery life (with animations off). Keep up the good work, future improvements maybe changing the colour scheme.",
+        "date": "May 25, 2016",
+        "permlink": "/store/apps/details?id=com.boost.weather&reviewId=Z3A6QU9xcFRPRzNJYlBEc0diaGpDbUp5MUV0M1hTRkVNa2V5aTI4QWhRemdmY2U4RnpQUzAwSWJUVmlmNXBKWG5zaWRxU19UbFJDMlN1TERqQVpxVjlrVEZ3",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Iain Johnson",
+        "comment": "Fixed. :)",
+        "date": "May 30, 2016",
+        "permlink": "/store/apps/details?id=com.boost.weather&reviewId=Z3A6QU9xcFRPR1huY190SFUyQzVWVDJieWFiZkhFTjhsX2pvT3pLOFA3cmdSZ2FZNmlwWUVqT0duNmNMNWFTQmt1aUpiLUw0WTdHS0dfOUo4UTBhUFlrMnlr",
+        "reply": {
+            "author": "BoostApp",
+            "content": "Hello! Maybe it is jut getting the wrong data from service-provider.Try to check your location in the bottom line in the settings. And if you need some more info, please, contact us on email: wearables@boost.solutions and we will provide any help you need to solve this issue. Thanks for review!",
+            "date": "May 26, 2016"
+        },
+        "star": 5,
+        "title": "Weather"
+    }
+]

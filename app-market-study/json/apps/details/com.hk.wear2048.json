@@ -1,0 +1,52 @@
+{
+    "title": "Wear 2048",
+    "summary": "Wear 2048 is a puzzle which is based on the 2048 game.",
+    "icon": "//lh3.ggpht.com/Z1GbLX5w8GgDuICq61GEOzbwPtpMpGNq930yAAvkuH8eGXYKztEutr2rBZdMXtIcnAo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.1,
+    "reviews": 34,
+    "developer": "Himanshu Kevadiya",
+    "developerId": "Himanshu+Kevadiya",
+    "developerEmail": "h.kev14@gmail.com",
+    "developerAddress": "C/O Nabajeet Barman,\nEduard spranger str. 7, 2/13, 71634, Ludwigsburg, Germany",
+    "updated": "September 1, 2014",
+    "version": "1.0",
+    "genre": "Puzzle",
+    "genreId": "GAME_PUZZLE",
+    "description": "Wear 2048 is a puzzle which is based on the 2048 game.User has to swipe to move the tiles. Whenever two tiles have same tile, they merge into a more tile. When 2048 tile is created, user will win. User can play this puzzle on his/her round wear watch.Features: - Swipes work for grid area - User can replay game - User can see current score and best score - User can see point table for puzzle",
+    "descriptionHTML": "Wear 2048 is a puzzle which is based on the 2048 game.<br><br>User has to swipe to move the tiles. Whenever two tiles have same tile, they merge into a more tile. When 2048 tile is created, user will win. User can play this puzzle on his/her round wear watch.<br><br>Features: <br>- Swipes work for grid area <br>- User can replay game <br>- User can see current score and best score <br>- User can see point table for puzzle",
+    "histogram": {
+        "1": 6,
+        "2": 7,
+        "3": 8,
+        "4": 3,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/MOD3vwjmS37ZZpkhcBu61ryIdi3Kg36FsD6IAO1ZRDjJIyNBdTWhMcVb1gc1tpIkwQ=h310",
+        "//lh3.ggpht.com/Nw43rPHnqDYNRRRNCgIHjUxlOyntiF1IotfzNThgYS27JCALCX4Fn5zk1aBWwTLSimM=h310",
+        "//lh6.ggpht.com/m9KYYavX5TSt5ALey9sTy8IK6xy-2DOxLFWm8KR5ZuiN6ckJTMNtwVyktZQZCmisLjs=h310",
+        "//lh3.ggpht.com/4Cb3A7S1ZczUiujuTdals6FMgk-Bj-j3wzPArfeCo460loEDHHJFQX6pYt0qvRUfy3B9=h310",
+        "//lh4.ggpht.com/EsZ_qsIEGVIp4wnS3ehK35p69o6sIy-WALrcCV3EwW_DlCVGKe7ZaI1uqFEkJmq9HmM=h310"
+    ],
+    "comments": [
+        "2048 This game is not good on Sony smart watch 3, very glitchy.",
+        "Too slow On moto 360, how can it be so slow……",
+        "Good Looks good. Very slow.",
+        "Awesome game really cool So much fun to play 2048 in watch.......",
+        "Perfect for my moto 360 Perfects fits in my moto 360 watch....",
+        "Nice game for moto 360 wear watch...."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.hk.wear2048&hl=en&gl=us",
+    "appId": "com.hk.wear2048"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Music Watch",
+    "summary": "Wear your favorite musical instrument: guitar, ukulele, violin, woodwinds.",
+    "icon": "//lh3.googleusercontent.com/8-5pk-t04pVhUsWAmRxaS4oFTFgL7TjVRIBQ_jUcagYXn_G75wpjOdzh5nBhbX_VH8M=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 6,
+    "developer": "Udaltsoft",
+    "developerId": "Udaltsoft",
+    "developerEmail": "sergey.udaltsov@gmail.com",
+    "developerWebsite": "https://www.facebook.com/Udaltsoft",
+    "developerAddress": "38 The Anchorage, Marina, Tralee, Co. Kerry, Ireland",
+    "updated": "April 27, 2017",
+    "version": "1.7",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "If you love the music and play some instrument - you might want to make a statement about it. So, wear this watch face with pride - and let people know!The watch supports 8 items:- 2 Ukuleles, different colours- Les Paul Guitar- Gibson Flying V Guitar- Violin (and bow)- Saxophone- ClarinetMore to be added! If you want your instrument to be displayed - just let me know.Also, the battery status is displayed - using the musical staff.Licence: BSD",
+    "descriptionHTML": "If you love the music and play some instrument - you might want to make a statement about it. So, wear this watch face with pride - and let people know!<br><br>The watch supports 8 items:<br>- 2 Ukuleles, different colours<br>- Les Paul Guitar<br>- Gibson Flying V Guitar<br>- Violin (and bow)<br>- Saxophone<br>- Clarinet<br><br>More to be added! If you want your instrument to be displayed - just let me know.<br><br>Also, the battery status is displayed - using the musical staff.<br><br>Licence: BSD",
+    "histogram": {
+        "1": 0,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jFTgsfbj4c4-rYQAGOo5Hoe3KWiukgimU_IlNLj2NoXkutFNV66nfTxf3PXmWinwZ9s=h310",
+        "//lh3.googleusercontent.com/3vCClr4XoBcEd-Jf9DMXodjFdNNRr5VEBn1dTGlvoA8NfYoc63ZiQLc1wbYBVOz3NeA=h310",
+        "//lh3.googleusercontent.com/rABuScyHHZmnSTxZ4utSZS1-CCO_dIRDmZ3EXhzKnIrnTbaP8y7X-e5UP6khjQIdNUg=h310",
+        "//lh3.googleusercontent.com/8EttxblzklPfdz4GF6UbpZInjFRDADdm9UVUSe7C2qb7qVDTC6am2N_MWrU3iaWey-U=h310",
+        "//lh3.googleusercontent.com/0Ce7KtUqJDAdV_ZwzbCVrMCiQZgJMM83vnE5sA_62_CCJ_Q50jHjY618vXbq1CUk4_0=h310",
+        "//lh3.googleusercontent.com/ehJFHX_2r6-EdjJcrMIro33Wv6NLesVNrAKDXjCCaVTCJRxdAxO6doykj6TrxOI8LWM=h310"
+    ],
+    "comments": [
+        "Weird Bluetooth issue? It's nice, but Bluetooth connected devices started behaving oddly (couldn't connect). Removed this and they work again. So will have to wait for an update to try it again.",
+        "Great potential Seemed super buggy and wouldn't let me change the instrument that was displayed."
+    ],
+    "recentChanges": [
+        "The configuration UI now allows picking instruments individually, not in pairs",
+        "NOTE: Your configuration from the previous version will be reset!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ie.udaltsoft.musicwatch&hl=en&gl=us",
+    "appId": "ie.udaltsoft.musicwatch"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Watch Presenter",
+    "summary": "Android clicker. Pass slides on Google Drive directly from your phone or watch",
+    "icon": "//lh3.googleusercontent.com/o90qboLDu8ZTtN5DU7YXLIWqbfP9-77nMRUq5fbwF8-WvxrTfZxMaMKbFUIntAZT8i4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 40,
+    "developer": "Pablo Gil",
+    "developerId": "Pablo+Gil",
+    "developerEmail": "pgilmon@gmail.com",
+    "developerWebsite": "http://watchpresenterapp.zuluindia.com/",
+    "updated": "March 13, 2016",
+    "version": "2.1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Watch Presenter lets you control your Google Drive presentations directly from your phone.Watch Presenter turns your phone into a clicker for controlling your presentations.You can go forward or backwards in your presentation by just clicking the volume buttons. It works even while the screen is off!If you have an Android Wear watch, you can also use it to control your presentation. Just tap on your watch whenever you want to pass slides.Watch Presenter gives you the freedom of moving away of your computer while presenting and controlling your slides totally hands-free!In order for the app to work you will also need the companion Chrome extension on your computer. You can install it directly from the Chrome app store. Watch Presenter is compatible with Google Drive presentations. If your presentation is not on Google Drive format, you can upload it to Google Drive and you'll be able to control it with WatchPresenter too!See http://www.zuluindia.com/ for more info.",
+    "descriptionHTML": "Watch Presenter lets you control your Google Drive presentations directly from your phone.<br><br>Watch Presenter turns your phone into a clicker for controlling your presentations.<br><br>You can go forward or backwards in your presentation by just clicking the volume buttons. <br><br>It works even while the screen is off!<br><br>If you have an Android Wear watch, you can also use it to control your presentation. Just tap on your watch whenever you want to pass slides.<br><br>Watch Presenter gives you the freedom of moving away of your computer while presenting and controlling your slides totally hands-free!<br><br>In order for the app to work you will also need the companion Chrome extension on your computer. You can install it directly from the Chrome app store. <br><br>Watch Presenter is compatible with Google Drive presentations. If your presentation is not on Google Drive format, you can upload it to Google Drive and you&apos;ll be able to control it with WatchPresenter too!<br><br>See http://www.zuluindia.com/ for more info.",
+    "histogram": {
+        "1": 3,
+        "2": 3,
+        "3": 5,
+        "4": 0,
+        "5": 29
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_ytinZ9863hgYWZ727OlsuBHOe83dz9uou8p_N88I8Lgp7Ehv6DqTwprZ0MtPCxo6bc=h310",
+        "//lh3.googleusercontent.com/s-DOIOyvmgT60NvPyxfgRpL-syJt2IHE0XUapOO_rN75EbjKC1bhYDj7mHz4gT5EbJLN=h310"
+    ],
+    "comments": [
+        "It's simple and convenient. You can change slides with your phone's volume buttons while screen's turned off. Setup is super easy, server-side app is available as chrome extension, so I'm happy as a Linux user that I don't' need to install Windows-only server (as in most other remote controllers apps). Great app!",
+        "Advancing slides with a Samsung S6 and Chrome on MacOSX worked fine. But I can't go back using the volume down button. Am I doing something wrong? Will try on Linux.",
+        "Simple, very easy to use. Requires inputting very few information to use both on the computer and in the app. Especially helpful when you are awkwardly setting up on a foreign computer and everyone is waiting for you to get started.",
+        "Previous slide (volume down) doesn't work as stated. Other than that, nice app. Fix this bug and I'll give 5stars",
+        "Previous slide was not work Set up is easy. Next slide(volume up) works fine. However,  the previous slide(volume down) does not seem to be working. Galaxy S7.",
+        "Saved my life!!!! Well I guess it didn't really, but I had the best presentation because of this app. Don't give presentations clicking your number keys like a tard, get this app! Thank you!"
+    ],
+    "recentChanges": [
+        "Option to disable vibration",
+        "Spanish translation"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.zuluindia.watchpresenter&hl=en&gl=us",
+    "appId": "com.zuluindia.watchpresenter"
+}

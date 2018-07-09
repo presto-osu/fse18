@@ -1,0 +1,49 @@
+# the reported sensor-related inefficiencies by static analysis
+# '=' means the sensor acquired is not available on LG Watch Style
+# 'p1' and 'p2' indicate the pattern of inefficiencies
+# '+' indicates that the report is verified to be true positive and finally reported to developer
+# '-' indicates that the report is false positive and discarded
+
+com.alexgalkin.android.wearable.girlclock1free.apk = not supported
+com.alexgalkin.android.wearable.orangepointfree.apk = not supported
+com.atektura.analogglowlitewatchface.apk p2 +
+com.atektura.datestampwatchface.apk p2 +
+com.blis.android.wearable.bliswatchface.apk p1 +
+com.codingforlove.wear.watchfaces.apk p2 +
+com.deglise.sensorface.apk p2 +
+com.face.watch.meo.apk p2 +
+com.jaral.watchface.scifi.apk = not supported
+com.mogoolab.androidwear.christmascounter.apk p1 p2 +
+com.newscope.bmwwatchface.apk p1 +
+com.newscope.bmwwatchface.row.apk p1 +
+com.osthoro.animatedearthwatchface.apk p2 +
+com.osthoro.beautifulstuddedwatchface.apk p2 +
+com.pandaeyes.cryptowatch.apk p2 +
+com.smartartstudio.turbo.free.interactive.watchface.apk p2 +
+com.smartartstudio.ultron.interactive.watchface.apk p2 +
+com.trackedu.pluto.aleem.classic.apk p2 - isInAmbientMode in onDraw
+com.trigonesoft.paranormal.apk p2 +
+com.virtualgs.snowwatch.apk p2 +
+com.watch.richface.neo.apk = not supported
+com.wearclan.watchface.face.apk = not supported
+com.wearclan.watchface.lightsense.apk = not supported
+com.wearclan.watchface.technomachine.apk = not supported
+com.wearclan.watchface.vividthanksgiving.apk = not supported
+com.zanyatocorp.illusionwatchface.apk p2 +
+co.smartwatch.combo.tester.apk = not supported
+co.smartwatchface.scuba.diver.watch.face.android.wear.apk p1 p2 - internal state machine
+co.smartwatchface.watch.face.speedometer.android.wear.apk p1 p2 - internal state machine
+cz.dmn.bokehwatchface.apk p1 +
+eu.stettiner.diamondwatchface.apk p2 +
+eu.stettiner.dietwatch.apk p1 p2 +
+eu.stettiner.manyiconswatchface.apk p2 +
+gold.watch.face.apk = not supported
+info.fathom.watchfaces.coubertin.apk p2 +
+net.yt1300.watchfacemodel101b.apk p1 p2 +
+net.yt1300.watchfacemodel102.apk p1 p2 +
+pl.nwg.dev.wear.rambler.apk p1 +
+ru.slobodchikov.kgbwatchface.apk p2 +
+ua.pp.kvis.simpledigital.apk = not supported
+wearable.android.breel.com.thehundreds.apk p2 +
+wear.trombettonj.trombt1pearlfree.apk p1 +
+

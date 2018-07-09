@@ -1,0 +1,56 @@
+{
+    "title": "Hold the wheel",
+    "summary": "Automatically respond to phone calls and SMSs with an SMS while you are driving.",
+    "icon": "//lh6.ggpht.com/oRXO4gRqizxTeKUrUe--OQyzTXQUBqYvOlx9Nj5DYEmBCliNfVQUVMXOBV5OtoAfIw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4,
+    "reviews": 131,
+    "developer": "Dejan Đurovski",
+    "developerId": "Dejan+%C4%90urovski",
+    "developerEmail": "holdthewheelapp+support@gmail.com",
+    "updated": "February 14, 2015",
+    "version": "1.2.2",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "\"Hold the wheel\" application for Android tries to provide heigher level of safety for smartphone users while they are driving, but at the same time the application tries to maintain the user's responsivnes to incoming phone calls and SMS messages.\"Hold the wheel\" works in that way that it allows switching to a \"drive mode\" in which the phone can automatically send a SMS message as a respond to incoming phone calls and incoming SMS messages. In that way you do not have to touch your phone when it is ringing or when you receive a new SMS message. The caller or the sender of a SMS message can be automatically informed the you are currently unable to answer the phone call or read a message.\"Hold the wheel\" has support for Android Wear, but you can use the application even if you do not have an Android wear device.Features:- Respond to phone callsThe application can be configured to automatically send users defined SMS message as a response to incoming calls while the phone is in the \"drive mode\".- Respond to SMS messagesThe application can be configured to send users defined SMS message as a response to incoming SMSs while the phone is in the \"drive mode\".- Automatic detection when the user is in a vehicleThe application has the functionality to automatically detect when the user is in a vehicle and automatically switch phone to \"drive mode\" or ask the user on his wearable if he want to switch to \"drive mode\".- Android wearIf you own an Android Wear device, you can configure the application to ask you on your Android wear device if you want to switch on \"drive mode\" when it detects that you are in a vehicle. Then application will also ask you if you would like to switch off \"drive mode\" when it detects that you are not in a vehicle anymore. You can also use your Android Wear device to configure application settings.- Automatic mode switchingIf you do not want to be asked on your Android Wear device to switch on/off \"Drive mode\" when the application detects that you are in a vehicle, you can use the functionality of automatic mode switching. As the result, the aplication will turn on \"drive mode\" automatically when it detects that you are in a vehicle, and it will turn off \"drive mode\" when it detects that you are not in a vehicle.- Manual mode switchingIf you do not want the application to automatically switch on/off the \"drive mode\" or to ask you if you want to switch mode, you can use the functionality to manualy switch on/off the \"drive mode\".- Silent modeApplication can switch your phone to silent mode when the application is in the \"drive mode\".- Limit responding by phone number prefixYou can limit automatic SMS responding only to incoming calls and SMSs from numbers that start with prefix that you define. That way you can prevent sending automatic SMS messages to foreign numbers and making higher costs.Disclaimer:THIS SOFTWARE IS PROVIDED ON AN \"AS-IS\" BASIS, WITHOUT WARRANTIES. THE AUTHOR OF THIS SOFTWARE WILL NOT BE LIABLE FOR ANY DAMAGES, LOSSES OR COSTS CAUSED AS A RESULT OF USING THIS SOFTWARE, INABILITY TO USE THIS SOFTWARE, OR ANY OTHER ACTIVITY RELATED TO THIS SOFTWARE.",
+    "descriptionHTML": "&quot;Hold the wheel&quot; application for Android tries to provide heigher level of safety for smartphone users while they are driving, but at the same time the application tries to maintain the user&apos;s responsivnes to incoming phone calls and SMS messages.<br><br><br>&quot;Hold the wheel&quot; works in that way that it allows switching to a &quot;drive mode&quot; in which the phone can automatically send a SMS message as a respond to incoming phone calls and incoming SMS messages. In that way you do not have to touch your phone when it is ringing or when you receive a new SMS message. The caller or the sender of a SMS message can be automatically informed the you are currently unable to answer the phone call or read a message.<br><br><br>&quot;Hold the wheel&quot; has support for Android Wear, but you can use the application even if you do not have an Android wear device.<br><br><br>Features:<br><br>- Respond to phone calls<br>The application can be configured to automatically send users defined SMS message as a response to incoming calls while the phone is in the &quot;drive mode&quot;.<br><br><br>- Respond to SMS messages<br>The application can be configured to send users defined SMS message as a response to incoming SMSs while the phone is in the &quot;drive mode&quot;.<br><br><br>- Automatic detection when the user is in a vehicle<br>The application has the functionality to automatically detect when the user is in a vehicle and automatically switch phone to &quot;drive mode&quot; or ask the user on his wearable if he want to switch to &quot;drive mode&quot;.<br><br><br>- Android wear<br>If you own an Android Wear device, you can configure the application to ask you on your Android wear device if you want to switch on &quot;drive mode&quot; when it detects that you are in a vehicle. Then application will also ask you if you would like to switch off &quot;drive mode&quot; when it detects that you are not in a vehicle anymore. You can also use your Android Wear device to configure application settings.<br><br><br>- Automatic mode switching<br>If you do not want to be asked on your Android Wear device to switch on/off &quot;Drive mode&quot; when the application detects that you are in a vehicle, you can use the functionality of automatic mode switching. As the result, the aplication will turn on &quot;drive mode&quot; automatically when it detects that you are in a vehicle, and it will turn off &quot;drive mode&quot; when it detects that you are not in a vehicle.<br><br><br>- Manual mode switching<br>If you do not want the application to automatically switch on/off the &quot;drive mode&quot; or to ask you if you want to switch mode, you can use the functionality to manualy switch on/off the &quot;drive mode&quot;.<br><br><br>- Silent mode<br>Application can switch your phone to silent mode when the application is in the &quot;drive mode&quot;.<br><br><br>- Limit responding by phone number prefix<br>You can limit automatic SMS responding only to incoming calls and SMSs from numbers that start with prefix that you define. That way you can prevent sending automatic SMS messages to foreign numbers and making higher costs.<br><br><br><br>Disclaimer:<br>THIS SOFTWARE IS PROVIDED ON AN &quot;AS-IS&quot; BASIS, WITHOUT WARRANTIES. THE AUTHOR OF THIS SOFTWARE WILL NOT BE LIABLE FOR ANY DAMAGES, LOSSES OR COSTS CAUSED AS A RESULT OF USING THIS SOFTWARE, INABILITY TO USE THIS SOFTWARE, OR ANY OTHER ACTIVITY RELATED TO THIS SOFTWARE.",
+    "histogram": {
+        "1": 19,
+        "2": 6,
+        "3": 10,
+        "4": 19,
+        "5": 77
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/_7AgtZbdaLci8RjKmKJbDVQU68j8Z1tuQcSsCafjE66IgXl_y8s0zGSSw1B3hSoOngcW=h310",
+        "//lh4.ggpht.com/khu8j7z4AwpsGOe6cVtS6MlR0xNi2-HF36osDybtjP0QJswcIcKXojCgDORTC1LgaQ=h310",
+        "//lh6.ggpht.com/46u0Zkq1c8EmBrfuv6H7ztwA5b4sEaZYOw5g8IdW3CjiTdwXD5agpKDyfJhDfOHPOow=h310",
+        "//lh3.ggpht.com/n7teqmyVkC9MOqusXBwaaBCtX6pxj1aeI1vYGcXPYnzwseHBHt7mwkNDlBMZbseWark=h310",
+        "//lh4.ggpht.com/xVKB8lYeTL-4oDplY9MpwxMI8gC5eNW4_LieK1rBC652uI5Qe5kU_7SDQDU9FPQbjzfG=h310",
+        "//lh4.ggpht.com/0e4Q04-PiMMLUjeda046vAn5zGwsgvBjH7Fb2YtxP7noRutVyFYfLeGysU0_rOLGuAaW=h310"
+    ],
+    "comments": [
+        "Useless Didn't send sms when I set it to drive mode. And that was the only way to test it because it would not sense that I was driving.",
+        "doesn't work on lg r won't enable",
+        "works great for me lg g flex 2 works beaut for me on my phone and doubles as a great evening or away responder",
+        "Nice. Does the work efficiently.",
+        "Great work Work great for me. Integration with other messengers would be great",
+        "Feature request: Hangouts and WhatsApp compatibility. Also, Viber. Group chats are muted anyhow, so this would be super useful."
+    ],
+    "recentChanges": [
+        "- Added vibration for notifications on wearable,",
+        "- User experience improvement on devices with older versions of Android,",
+        "- Other improvements."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.djurovski.dejan.android.holdthewheel&hl=en&gl=us",
+    "appId": "net.djurovski.dejan.android.holdthewheel"
+}

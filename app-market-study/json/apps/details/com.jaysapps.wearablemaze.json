@@ -1,0 +1,52 @@
+{
+    "title": "3D Walkable Maze Android Wear",
+    "summary": "Navigate a 3D maze on your Android Wear watch by walking around in real life.",
+    "icon": "//lh5.ggpht.com/hjS332vGQxYjp7Gsj6NdzcMOjBwHnS4_PWzXpcM42svBVeLRdV6MWNeezpRN5-TlE2AQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.7,
+    "reviews": 37,
+    "developer": "Jay Ayres",
+    "developerId": "Jay+Ayres",
+    "developerEmail": "jaysapps10@gmail.com",
+    "developerWebsite": "http://jaysapps.blogspot.com",
+    "updated": "December 21, 2014",
+    "version": "1.0.4",
+    "genre": "Adventure",
+    "genreId": "GAME_ADVENTURE",
+    "description": "-Navigate through a 3D maze on your Android Wear smartwatch.-Walk around in real life with the accelerometer/compass to move- no tapping on the screen required!-Don't forget to \"watch\" where you're going :-)Now fully updated to support Android Wear 5.0 Lollipop.",
+    "descriptionHTML": "-Navigate through a 3D maze on your Android Wear smartwatch.<br>-Walk around in real life with the accelerometer/compass to move- no tapping on the screen required!<br>-Don&apos;t forget to &quot;watch&quot; where you&apos;re going :-)<br><br>Now fully updated to support Android Wear 5.0 Lollipop.",
+    "histogram": {
+        "1": 16,
+        "2": 1,
+        "3": 6,
+        "4": 6,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/tSGEJ8JpM26l4gERuJ1ovR1st6fmvGlNU2EauNmPBkaxwwbywEwcjRyYre6vpUXx9t4=h310",
+        "//lh3.ggpht.com/UVE_wp3pziKCp3GTkjKpsFQATmIVaIA2EbJoslldos1AxQ3pqiqLY0u4z6iY5U1dMjg_=h310"
+    ],
+    "video": "https://www.youtube.com/embed/yrBxbWhmGmA",
+    "comments": [
+        "Meh It's pretty cool but I can't get it to really work at all on the Moto 360 or Sony SW3 only works on my G Watch R would be pretty great if bugs get ironed out",
+        "Aughhhh Won't work on moto 360, just looks around and does not walk. Please add support for the moto 360?",
+        "Not working on Moto 360. I walk around my house and it just looks around.",
+        "Good idea But laggy on watches",
+        "Worthless Are you kidding me with this garbage?",
+        "There is a black square in the center of the screen, but other than that it seems to be fully functional."
+    ],
+    "recentChanges": [
+        "Fixed display issue on watches running Android Wear 5.0 (Lollipop)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jaysapps.wearablemaze&hl=en&gl=us",
+    "appId": "com.jaysapps.wearablemaze"
+}

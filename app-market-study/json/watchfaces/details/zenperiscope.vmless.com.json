@@ -1,0 +1,45 @@
+{
+    "title": "Zen Periscope Watch Face",
+    "summary": "Inspired by submarine periscope",
+    "icon": "//lh4.ggpht.com/5EE9iMHNFw-ejVvMwa0Ko51ZCQk6m1PHpGpnkr66psjAkCkUGceZgv4CVEEKewCvFQo=w300",
+    "price": "$89.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 2,
+    "reviews": 3,
+    "developer": "COOLTOUCH",
+    "developerId": "COOLTOUCH",
+    "developerEmail": "qianxundeveloper@gmail.com",
+    "developerWebsite": "http://www.qianxun.net",
+    "developerAddress": "Room 1303, Shilong Road 569, Xuhui DIstrict, Shanghai",
+    "updated": "January 18, 2015",
+    "version": "2.0.0.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This watchface is inspired by submarine periscope. As a man, I always have dreamed of fly freely in the ocean, with no up and down, no left and right, just the goal in front of me and the vigor that dominate the world!This second pointer and the dial symbolize the ocean blue, which stands for a no-restrain dream.The black colors represents the deep in my heart, and three small dials symbolize the periscope, that make connections between the dream and my calm.Wear this watch, and fulfill your dream!How to Use?- First, you need to have an Android Wear watch, and download \"Android Wear\" application from Google Play, then follow instructions to pair them.- After installed on your Android Device, this watch face will be automatically synchronized to your paired Android Wear watch. - Long tap on your Android Wear watch, select \"ZenPeriscope_WatchFace\"",
+    "descriptionHTML": "This watchface is inspired by submarine periscope. As a man, I always have dreamed of fly freely in the ocean, with no up and down, no left and right, just the goal in front of me and the vigor that dominate the world!<br>This second pointer and the dial symbolize the ocean blue, which stands for a no-restrain dream.The black colors represents the deep in my heart, and three small dials symbolize the periscope, that make connections between the dream and my calm.<br>Wear this watch, and fulfill your dream!<br><br>How to Use?<br>- First, you need to have an Android Wear watch, and download &quot;Android Wear&quot; application from Google Play, then follow instructions to pair them.<br>- After installed on your Android Device, this watch face will be automatically synchronized to your paired Android Wear watch. <br>- Long tap on your Android Wear watch, select &quot;ZenPeriscope_WatchFace&quot;",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/4t26PGpkVX-PQxZzMvQFihMdVlXNtqZknTOokKShGrOAh0P_M9Um7YhxTFLk9p65BQ=h310",
+        "//lh5.ggpht.com/U94ykBMEshHFWmgjwTGe7gXYRiXRvEJZOKfzgKbFbcXu1wGT39W_o-ud7oSB5OrVsPo=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "1. Develop with new google watch SDK to meet google new watchface requirements."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=zenperiscope.vmless.com&hl=en&gl=us",
+    "appId": "zenperiscope.vmless.com"
+}

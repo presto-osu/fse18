@@ -1,0 +1,52 @@
+{
+    "title": "Finance Stock Watch",
+    "summary": "The stock market on your wrist! Enter a stock symbol and you are good to go.",
+    "icon": "//lh3.googleusercontent.com/vhvQia6O-czKUa2CrIr9acybu4ccbxU0-Ps1Z8JcTpVt53rcX-o8Qdu5ibrBQswwUA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 22,
+    "developer": "gren.at - Mateusz Gren",
+    "developerId": "6421926470091904561",
+    "developerEmail": "mathck@gmail.com",
+    "developerWebsite": "http://www.mathck.com",
+    "developerAddress": "Mateusz Gren\nLechnerstraße 1-5/23/12\n1030 Wien\nAustria",
+    "updated": "May 6, 2015",
+    "version": "1.3",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Display your favourite stock on your watch. This is not an app for your wear device. It is a watchface with your stock data on your wrist. Just look at your watch to see the current financial situation of your stock.Open the watchface configuration with the Android Wear App.This watchface is for finance and stock market informations.Feel free to fill out my Google Forms http://goo.gl/forms/7p3XKYL3je to request new features.Some symbol samples:GOOG (Google nasdaq)AAPL (Apple nasdaq)^NDX (Nasdaq-100)BMW.DE (BMW Xetra)Find more stock symbols on http://finance.yahoo.com/",
+    "descriptionHTML": "Display your favourite stock on your watch. This is not an app for your wear device. It is a watchface with your stock data on your wrist. Just look at your watch to see the current financial situation of your stock.<br><br>Open the watchface configuration with the Android Wear App.<br><br>This watchface is for finance and stock market informations.<br><br>Feel free to fill out my Google Forms http://goo.gl/forms/7p3XKYL3je to request new features.<br><br>Some symbol samples:<br>GOOG (Google nasdaq)<br>AAPL (Apple nasdaq)<br>^NDX (Nasdaq-100)<br>BMW.DE (BMW Xetra)<br><br>Find more stock symbols on http://finance.yahoo.com/",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 3,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JOh6Z4c65eL7BcEow6hmv-OimScPqSBVXsTBEG6ExsPDB2b1fyzXfYzjkglyx2ovZbo=h310",
+        "//lh3.googleusercontent.com/XSao_lZF5UqAUs1OMLc9OV1wIsxZ7QK8Yhrhbzb6wK9h480iOSIroGG01-gYy5njStY=h310"
+    ],
+    "comments": [
+        "Uninstalling I set app to update every 5 minutes. However, I cannot stop watch from vibrating after every update. Very annoying. Secondly, the app has no settings to chose from. Only stocks.  3rd, app needs to display a day, month, and year. It is a watch after all.  Ultimately I like the app and really want it to work for me. Perhaps I will check on it in the future. 5 stars when fixed.",
+        "Where's the phone app to change the preferred stock to watch?",
+        "It looks great but... Could you add the hkex market? Thanks!",
+        "Good, but struggle to install",
+        "Simply does what it claims just fine; lightweight. Thanks!",
+        "Solid Watch Face This watch face is one of the best I've seen. One of the best things is how it stays on always, instead of fading to a black version of the default face. Managing stocks is done one at a time, but is good enough for a watch. Only issue is that there should be a way to switch to 12 hour time. Otherwise a great application."
+    ],
+    "recentChanges": [
+        "Stock Data is working! Expect new weather feature soon!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mathck.android.wearable.stockmonitor&hl=en&gl=us",
+    "appId": "com.mathck.android.wearable.stockmonitor"
+}

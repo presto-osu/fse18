@@ -1,0 +1,150 @@
+Soot started on Thu Jun 21 13:04:38 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/eu.stettiner.manyiconswatchface.apk
+[INFO] MySceneTransformer: ############## eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   40
+[INFO] FlowGraph: @@@@ Total Methods: 163
+[INFO] FlowGraph: @@@@ Total Stmts:   3471
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1), (register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1), (register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1), (register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1), (register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1), (register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.manyiconswatchface.ManyIconsWatchFaceService$Engine]361,1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r3_20=[-1], $r3_27=[-1], $r3_28=[-1], $r1=[0, -16777216], $r3_25=[-1], $r3_26=[-1], $r3_29=[-1]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r3_20=[-1], $r3_27=[-1], $r3_28=[-1], $r1=[0], $r3_25=[-1], $r3_26=[-1], $r3_29=[-1]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: TOTAL TIME: 3.547000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:04:45 EDT 2018

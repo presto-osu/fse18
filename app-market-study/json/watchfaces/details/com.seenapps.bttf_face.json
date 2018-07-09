@@ -1,0 +1,55 @@
+{
+    "title": "Time Machine Watch Face",
+    "summary": "Inspired by the classic 80s movies. Your very own time travelling piece.",
+    "icon": "//lh3.googleusercontent.com/XiZQ24txFvkPVmg2poPCtA9vZ0vq4lurgEXzpLFKuoxegN9KxxRt9EgIKRwKLLGS7AU=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 124,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "January 6, 2018",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "If you believe you can actually travel in time with this app, please seek medical attention :o)You may recognize the time travel dashboard from Pr Brown DeLorean in Back to the Future.In the lower section, this watch face displays 7 bits of information about current time. Current date (in green) shows Day of the week, Day of the month, Month and Year. In yellow, you can seen current Hours, Minutes and Seconds using a slightly bigger font for legibility.This is quite different from the original display, which was showing 3 full dates and time.The layout has been altered to fit round faces, with an emphasis on current time.The second time (red) is adjustable via on-watch menu and persisted on the device so it doesn't get lost when you switch faces. You may notice the sticker labels (black and red background) are using a punch-in font to replicate the original look and feel. In ambient mode, background and labels are hidden to only display LED text.For the record, this face gave me a much harder time than the classical hand based due to a scaled-sprite based rendering as opposed to just drawing thing around.Do not hesitate to drop feature requests at support@seenapps.comIf you like our watches, don't miss the good stuff https://twitter.com/SeenApps",
+    "descriptionHTML": "If you believe you can actually travel in time with this app, please seek medical attention :o)<br><br>You may recognize the time travel dashboard from Pr Brown DeLorean in Back to the Future.<br><br>In the lower section, this watch face displays 7 bits of information about current time. Current date (in green) shows Day of the week, Day of the month, Month and Year. In yellow, you can seen current Hours, Minutes and Seconds using a slightly bigger font for legibility.<br>This is quite different from the original display, which was showing 3 full dates and time.<br>The layout has been altered to fit round faces, with an emphasis on current time.<br><br>The second time (red) is adjustable via on-watch menu and persisted on the device so it doesn&apos;t get lost when you switch faces. <br><br>You may notice the sticker labels (black and red background) are using a punch-in font to replicate the original look and feel. <br><br>In ambient mode, background and labels are hidden to only display LED text.<br><br>For the record, this face gave me a much harder time than the classical hand based due to a scaled-sprite based rendering as opposed to just drawing thing around.<br><br>Do not hesitate to drop feature requests at support@seenapps.com<br>If you like our watches, don&apos;t miss the good stuff https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 11,
+        "2": 0,
+        "3": 8,
+        "4": 20,
+        "5": 85
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/RxbmCl4lWSjA58B87aDBswOxtS8hM00K0u7NpNuPVyPZ4ds5k_ttVPlodTrgf9WLc7A=h310",
+        "//lh3.googleusercontent.com/de5Vg6bYjijxEHQZy0xOEBmYnFpLSkurdFIiKZ_ZgindgT3MflLYrzqfTRZ1z3u-KA=h310",
+        "//lh3.googleusercontent.com/GeP7GJnVvxEjuXUfOaPT_-Jn7_WqWPLkdYBLFw1oXEqrG-v8w1_hpvR5HO-kzAnl67KQ=h310",
+        "//lh3.googleusercontent.com/cpG9phqHVi-L6Z4XGrr1zFllHxQPhE-vJjA40d_SOt123o5zk09HL1LOmxRgaqcYfXk5=h310",
+        "//lh3.googleusercontent.com/efJMnqFzW62D11dAsV8eofPELJw9wffh8xWGCTsj9mxRtGUWzgjdi7vrmylv-uDtdBM=h310"
+    ],
+    "comments": [
+        "How do I connect the Time Machine watchface app to my Moto 360? I had it on my phone already even before I got the Moto 360. So does that mean I have to uninstall it and install it again?",
+        "It won't show up in Android Wear, so I'm not able to apply it to my watch.",
+        "Not showing in android wear.So can't apply it to watch.",
+        "BRILLIANT Love it, it's a great conversion starter, people straight away know exactly what the watch face is, they love it that it has two different time zones too. Really love it.  Works well on my Huawei watch, no issues. Good on battery life too!",
+        "Good app It took a while to show up on my watch, but other than that, it's looks great.",
+        "Fossil q founder Works great, haven't changed my watch face in months"
+    ],
+    "recentChanges": [
+        "Improved Support for Android Wear 2.0 and standalone devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.bttf_face&hl=en&gl=us",
+    "appId": "com.seenapps.bttf_face"
+}

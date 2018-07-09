@@ -1,0 +1,57 @@
+{
+    "title": "ThePrayer Wear - الصلاة",
+    "summary": "Islamic prayer time for Android Wear",
+    "icon": "//lh3.googleusercontent.com/5eDB6Ap8M5pxjdUbA-rzUWYAN2J9hYiixejoW4JT8FJD0RYETi0P4A5zbMcxIsHSMQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.7,
+    "reviews": 13,
+    "developer": "Naheel Azawy",
+    "developerId": "Naheel+Azawy",
+    "developerEmail": "naheelazawy@gmail.com",
+    "developerAddress": "Doha - Qatar",
+    "updated": "July 6, 2016",
+    "version": "5.7",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Islamic prayer time for Android WearThis app works only with ThePrayer app so it must be installed.You can download it from here:https://play.google.com/store/apps/details?id=com.naheel.sw2.prayer",
+    "descriptionHTML": "Islamic prayer time for Android Wear<br><br>This app works only with ThePrayer app so it must be installed.<br>You can download it from here:<br>https://play.google.com/store/apps/details?id=com.naheel.sw2.prayer",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/1MPKRA-9J0-EKc-MwoH44hPLqN1meY9HLy-Nq5F36ys7Mhifv4hTDwt_GgS19mJQvw=h310",
+        "//lh3.googleusercontent.com/N9qkATX44HRQ-1yknIPv526pLs5g1fwsP7JL-VhWDGNL6VVyVlh7wEukDZpeeScjtW02=h310",
+        "//lh3.googleusercontent.com/OhIZIhMTLgyXh1zeoGNttqke3d9a4WLFJSIp2u3xZbZerEJdGhyimcIaecYvpE_hYFE=h310",
+        "//lh3.googleusercontent.com/civmGccfxXoRXWQqoG6oq_J_XBoMiwMEeIfrnFw3nod2mQygPEod2_NiuW6wplI4EJQ=h310",
+        "//lh3.googleusercontent.com/Iu2btxB8ArqKGNj0l-xvb11AylbsTBoo1cm6YEGa6FqekQBLBv9MHT_t4uy8D4vb0g=h310",
+        "//lh3.googleusercontent.com/WYbFYfJIZn0VM2OCEs0ZLH-_tKkYEBj4HONyEhj96tnwvm9hdGf725jxjAn1RDmXsjXU=h310"
+    ],
+    "comments": [
+        "Excellent n simple",
+        "UI is good but times are off No matter what I choose for daylight savings time are off by an hour"
+    ],
+    "recentChanges": [
+        "Version 5.7:",
+        "-Fixes and improvements",
+        "-Watchface color picker",
+        "Version 5.6:",
+        "-New watchface",
+        "-Bugs fixed",
+        "-Fixed daylight saving"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.naheel.prayer.wear&hl=en&gl=us",
+    "appId": "com.naheel.prayer.wear"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Numerique",
+    "summary": "The face your watch deserves.",
+    "icon": "//lh3.googleusercontent.com/19xRBLDvyJEKK-oH59K0J2mGavfpN9fcACx3T1AjFfQvj6h8BA1x33X7MXBiIndqHkg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 8,
+    "developer": "Xlythe",
+    "developerId": "5169167096263035875",
+    "developerEmail": "support@xlythe.com",
+    "developerWebsite": "http://www.xlythe.com",
+    "developerAddress": "1 Vista Montana #4422\n95134 San Jose, California",
+    "updated": "December 23, 2016",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Numerique is a high end watchface with an elaborate assortment of dials for not only time, but date, temperature, and so much more.",
+    "descriptionHTML": "Numerique is a high end watchface with an elaborate assortment of dials for not only time, but date, temperature, and so much more.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ntivn_mU6Ikd1GElAleG2_e-i02GwqfDWxhEjThmgHy1pia9hHD79B87i3H5ujcA-zs=h310",
+        "//lh3.googleusercontent.com/11_70iXbPsswEzc0g7txZtPF1KWFeqnoHLNtjbWGc0y_vkgb7iLgSNqm8bZBZ8zoJpY=h310",
+        "//lh3.googleusercontent.com/3EjB-HMn7JcnjcOdFbYXI8xHHvVKs8qkKmVMNOal9G8TxV7f3vgMYKhHWzVhpbbRtc0=h310",
+        "//lh3.googleusercontent.com/x8TrnH-6gVU7dx7Opu--6GkMPNh5IiXXgQLjcxO__D914PSBf0bnVbJLuLa7GESMTQ=h310"
+    ],
+    "comments": [
+        "Beautiful face but... I really love the look of this face.  However whenever I have a notification, the card takes up the whole watch face unless I dismiss it.  Needs the small cards.  I have a moto 360.  Edit:  Appreciate quick response from Dev.  My issue was fixed and I now use this face as my daily.",
+        "Force close on G watch R",
+        "Doesn't work with Sony Smartwatch 3 Blank screen when lit and frozen in dim mode. Sony Smartwatch 3."
+    ],
+    "recentChanges": [
+        "v1.0.2",
+        "-bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.xlythe.clock.numerique&hl=en&gl=us",
+    "appId": "com.xlythe.clock.numerique"
+}

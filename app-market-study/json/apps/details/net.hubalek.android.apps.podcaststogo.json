@@ -1,0 +1,56 @@
+{
+    "title": "Podcasts To Go",
+    "summary": "Nice looking and easy to use podcast downloader and player.",
+    "icon": "//lh4.ggpht.com/shuc_vzZZB_2ZpAXHU0Hlf6UQuzw_HJUxxv4DWCHWchLeSwQAY8IP-KBO7NOt_cUSg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 202,
+    "developer": "Tomas Hubalek",
+    "developerId": "Tomas+Hubalek",
+    "developerEmail": "android.dev.tom@gmail.com",
+    "developerWebsite": "https://podcasts-to-go.com",
+    "developerAddress": "Tomas Hubalek\nZa Strelnici 903\n744 01 Frenstat pod Radhostem\nCzech Republic",
+    "updated": "February 9, 2017",
+    "version": "0.7.6",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "Podcasts To Go is nice looking pocket casts downloader, podcast manager and podcast player (aka podcatcher). It has neat and clean UI designed to make daily podcast listening as easy and smooth as possible.--- We want to hear feedback from you! Help us make this app even better! ---Major app features:Easy to use podcast player user interface- Moderate design focused on pocket cast daily listener tasks- no crazy colors, no useless user experience bells and whistles- fully following Android 4.x UI design guidelines- new episodes notification - you are always notified about new podcast episodesPlayback - playback controls available in notification area and lock screen too- in notification and lock screen you can see podcast name and podcast icon- podcast player can be controlled from lock screenAuto download of subscribed podcast channels- periodic download of new podcast episodes (can be turned off in options)Podcast Discovery- app allows to add podcasts either by iTunes directory search or by podcast rss feed urlAndroid Wear Support- app can be remotely controlled from your Android Wear compatible Smart Watch- please report incompatibilities and suggestions for improvementWe hope that this app will be best podcast player you ever met. Feel free to contact us with any suggestion how to make app better.",
+    "descriptionHTML": "Podcasts To Go is nice looking pocket casts downloader, podcast manager and podcast player (aka podcatcher). It has neat and clean UI designed to make daily podcast listening as easy and smooth as possible.<br><br>--- We want to hear feedback from you! Help us make this app even better! ---<br><br>Major app features:<br><br>Easy to use podcast player user interface<br>- Moderate design focused on pocket cast daily listener tasks<br>- no crazy colors, no useless user experience bells and whistles<br>- fully following Android 4.x UI design guidelines<br>- new episodes notification - you are always notified about new podcast episodes<br><br>Playback <br>- playback controls available in notification area and lock screen too<br>- in notification and lock screen you can see podcast name and podcast icon<br>- podcast player can be controlled from lock screen<br><br>Auto download of subscribed podcast channels<br>- periodic download of new podcast episodes (can be turned off in options)<br><br>Podcast Discovery<br>- app allows to add podcasts either by iTunes directory search or by podcast rss feed url<br><br>Android Wear Support<br>- app can be remotely controlled from your Android Wear compatible Smart Watch<br>- please report incompatibilities and suggestions for improvement<br><br>We hope that this app will be best podcast player you ever met. Feel free to contact us with any suggestion how to make app better.",
+    "histogram": {
+        "1": 9,
+        "2": 13,
+        "3": 27,
+        "4": 65,
+        "5": 88
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NYcq_H2xKEXJyA0VM4IfYDZ3nzSV-XFuxjHpzYGry1nC9Iz4W5xchhGPZLHDQDoSss0=h310",
+        "//lh3.googleusercontent.com/KDAgTx8YBsRhUqE612_j0KuEdzkUnvjGzN-372CEOUA4QOFmLWVFyniqNbvVhPOZkykw=h310",
+        "//lh3.googleusercontent.com/NMJe017pOcGrfFPJGvLJYpKLSQR1TwgIDG6JDCIzVwTN0Ztot-7rDV9PjDJEQiXORyc=h310",
+        "//lh3.googleusercontent.com/j0ZveS8U3y2Mem4VkEbqidN0cOeZOZMfy790UyF8UzDAY9GSB-eYlP-qlM6WkZOIMtY6=h310",
+        "//lh3.googleusercontent.com/iVrlSe1ImNYO-swi3BpYBy15FLIWXojJEQjm6FbjeDNuXn7DP1tjH6122LXffkUhJdG5=h310",
+        "//lh3.googleusercontent.com/q5-364W5WasZ2AaKSokd_y6ZO9Iu92YVpIoG4w8QKkk-X6OThM0IAYx7RWCXKghiBCk=h310"
+    ],
+    "comments": [
+        "UI hell. Mini player obstructs view of e.g. episode list, when you close it, playback stops. No times showed, elapsed, remaining, total, nothing. I didn't download any episodes but downloader keeps suggesting me or some memory cleaner deleted them.",
+        "Downloaded some podcasts at home over WiFi to listen to on my way to work. App then chewed through my mobile data allowance while listening to 'downloaded' podcasts.",
+        "Nice and simple to use, does need the option to limit the amount of downloads stored on your device though.",
+        "Best App for Podcasts This is by far my favourite podcast app.",
+        "Downloads disappear!  No good on the go.",
+        "Easy.  Great"
+    ],
+    "recentChanges": [
+        "Permissions cleanup"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.hubalek.android.apps.podcaststogo&hl=en&gl=us",
+    "appId": "net.hubalek.android.apps.podcaststogo"
+}

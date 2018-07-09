@@ -1,0 +1,73 @@
+# the reported display-related inefficiencies by static analysis
+# 'p1' and 'p2' indicate the pattern of inefficiencies
+# 'b' means that the report is verified by 90% black pixel criterion
+# 'g' means that the report is verified by GEMMA criterion
+# '*' means that the watch face is paid and after testing one from the group we regard it as been verified
+
+at.mail.textwatch.apk p1
+com.asus.facedesigner.apk p1 b g
+com.blukz.wear.watchfacegenerator.apk p1
+com.colletjb.android.animateddigitalwatchface.apk p1
+com.dgmltn.morphwatch.apk p1
+com.dylanp.navballwatchface.apk p1 b g
+com.epix.nicetimewatchface.apk p1 b g
+com.gashfara.surfwatchface.apk p1 b g
+com.goldenbrown.watches.apk p1 b g
+com.greenman.digilogue.apk p1
+com.homework.futurescale.apk p1
+com.inductiveconcepts.wearable.mandalafaces.apk p1
+com.inductiveconcepts.wearable.spacefaces.apk p1
+com.irisinnovations.watchface.apk p2
+com.jaral.watchface.scifi.apk p1
+com.kjsk.watchface.nature.apk p1
+com.kjsk.watchface.space.apk p1
+com.milesoberstadt.radialwatchface.apk p1 b
+com.multidots.watchface.apk p1 b g
+com.nickschwab.android.wear.simplefaces.apk p1 b g
+com.qmzc.timagine.watchface.earth.apk p2 b g
+com.qmzc.timagine.watchface.flat.apk p2 b g
+com.qmzc.timagine.watchface.kiwi.apk p2 b g
+com.qmzc.timagine.watchface.maze.apk p2 b g
+com.raimund.bigsimple_ger.apk p1 b g
+com.raimund.retrolcd.apk p1 b g
+com.rocas.classicfree.apk p1 b g
+com.runderbin.blackclassicwatchface.apk p1 b
+com.rvb.android.brainwatch.wearable.watchface.apk p1
+com.seenapps.ledclock_face.apk p1
+com.smartmadsoft.wear.face.everyday.apk p2 b g
+com.sparkistic.photowear.apk p1
+com.spontaniti.wear.nebula.apk p1
+com.stmp.counterface.apk p1 b g
+com.syzygy.tarvos.apk p1 b g
+com.thirtythreelabs.android.orbital.apk p1
+com.watch.richface.delta.apk p2 b g *
+com.watch.richface.guard.apk p2 b g *
+com.watch.richface.infinity.apk p1 b g *
+com.watch.richface.smartdrive.apk p2 b g *
+com.watch.richface.throttle.apk p2 b g *
+com.watchwright.christmas.apk p1 b g *
+com.watchwright.cross.apk p1 b g *
+com.watchwright.us.apk p1 b g *
+com.wearclan.watchface.face.apk p1 b g *
+com.wearclan.watchface.lightsense.apk p1 b g *
+com.wearclan.watchface.technomachine.apk p1 b g *
+com.wearclan.watchface.vividthanksgiving.apk p1 b g *
+de.uschonha.tinylaser.apk p1 b g
+eu.foxjunior.simpleandcleanwathfacefree.apk p1 b g
+eu.stettiner.dietwatch.apk p2 b g
+fi.fluid.watcherwear.apk p1 b
+fr.gaetana.aviatortimepiece.apk p1
+org.beatonma.io16.apk p1 b
+re.hofer.watchface.binary.apk p1 b
+ru.devsp.apps.customwatch.apk p1 b g
+ru.physicalcomputing.pulta.apk p1
+uk.co.rossbeazley.wear.apk p1
+watchface.lbriceno.com.binarynerd.apk p1 b g
+watch.richface.androidwear.armada2.apk p1 b g
+watch.richface.androidwear.digitalvision.apk p1 b g
+watch.richface.androidwear.fury.apk p2 b g
+watch.richface.androidwear.ntouch.apk p1 b g
+watch.richface.androidwear.timegate.apk p1 b g
+watch.richface.androidwear.valiant.apk p1 b g *
+wearable.android.ns.nl.wearabletest.apk p1 b g
+wear.android.cricking.crickingandroidwear.apk p1 b g

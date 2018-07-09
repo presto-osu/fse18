@@ -1,0 +1,57 @@
+{
+    "title": "nuVue Shared for Plex & Emby",
+    "summary": "Your media server sidekick--for Plex and Emby",
+    "icon": "//lh5.ggpht.com/w_w8RpqWXRC8b3hpIMcml6DNmSpMPoLW1z36OekO2vYLiR1S5R03XXhfx7_1Qv07Hg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 22,
+    "developer": "Immersion Design Studio",
+    "developerId": "Immersion+Design+Studio",
+    "developerEmail": "immersiondesignstudio@gmail.com",
+    "developerWebsite": "http://nuvueapp.com/",
+    "developerAddress": "11600 CR 536, Rockwall, TX 75087",
+    "updated": "February 27, 2017",
+    "version": "1.4.3",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "IMPORTANT: nuVue Shared is only for users of shared libraries that do not have their own Plex or Emby server. It also requires that the shared library owner(s) are using nuVue and have purchased the Pay-It-Forward license. Otherwise, please use the full version of nuVue. Also, TV and movie posters have been removed from the Play Store listing in compliance with Google's request. Rest assured that the actual posters and art from your media server will be displayed by the app.nuVue Shared is a companion app for Plex and Emby shared library users that displays rich notifications when new items are added. There is nothing additional to install on your servers. Just sign in with your Plexv or Emby Connect credentials and nuVue does the rest.Features:• Rich notifications for newly added media• See recently added media• See TV series and movies that are in-progress• Perfect for cord-cutters and automated downloads• Send messages to shared library users and ownersPlex Features:• Supports shared libraries from other users• Advanced filtering for servers, libraries, and TV series• Automatically handles both local and remote connections• Easy setup--just sign in to Plex.tv and goEmby Features:• Emby Connect sign in for shared libraries support• Advanced filtering for servers, libraries, and TV series• Automatically handles both local and remote connections• Easy setup--just sign into Emby Connect and go",
+    "descriptionHTML": "<b>IMPORTANT:</b> nuVue Shared is only for users of shared libraries that do not have their own Plex or Emby server. It also requires that the shared library owner(s) are using nuVue and have purchased the Pay-It-Forward license. Otherwise, please use the full version of nuVue. Also, TV and movie posters have been removed from the Play Store listing in compliance with Google&apos;s request. Rest assured that the actual posters and art from your media server will be displayed by the app.<br><br><br>nuVue Shared is a companion app for Plex and Emby shared library users that displays rich notifications when new items are added. There is nothing additional to install on your servers. Just sign in with your Plexv or Emby Connect credentials and nuVue does the rest.<br><br>Features:<br>&#x2022; Rich notifications for newly added media<br>&#x2022; See recently added media<br>&#x2022; See TV series and movies that are in-progress<br>&#x2022; Perfect for cord-cutters and automated downloads<br>&#x2022; Send messages to shared library users and owners<br><br>Plex Features:<br>&#x2022; Supports shared libraries from other users<br>&#x2022; Advanced filtering for servers, libraries, and TV series<br>&#x2022; Automatically handles both local and remote connections<br>&#x2022; Easy setup--just sign in to Plex.tv and go<br><br>Emby Features:<br>&#x2022; Emby Connect sign in for shared libraries support<br>&#x2022; Advanced filtering for servers, libraries, and TV series<br>&#x2022; Automatically handles both local and remote connections<br>&#x2022; Easy setup--just sign into Emby Connect and go",
+    "histogram": {
+        "1": 5,
+        "2": 1,
+        "3": 3,
+        "4": 3,
+        "5": 10
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/iiqQhk3df0UTSSW1ojE6lD8e-YZHDMkGsNvGm38YfwOeD7v-5ElSYpcj-Kkqh7BHs29N=h310",
+        "//lh6.ggpht.com/D7ec9LALUFcl38YicHZMy2Oe5grb9nF7hIlroWT8F-zpK_9BctwXKDmyrvb4D0emuqI=h310",
+        "//lh3.ggpht.com/69Re4U_MxSnH3f9OxbBTPnOH7WbgpFW-V0cd6UeTLqbNxxy5b0YSaM4WkwXfSK9AbbCz=h310",
+        "//lh6.ggpht.com/gC-uXao-EbqpeAi1Yj-CsbRlhe_1P-4t2I2cEsVDW4BAMMwM75ATXvd8xEEHAfiVig=h310",
+        "//lh3.ggpht.com/EJ18GTQ9spu2aZz0hxvWWv-iKNw0_WaAjHqzsnOmuArniBcnpLLiuRl-EVbqRGnPD5E=h310",
+        "//lh6.ggpht.com/zjwz6P2LMjwZMi9td8KEGOZtFQTgpmh9vxfwl3tNqWcVLVpVcCHVR8TW5Tl-Axidt9dX=h310"
+    ],
+    "comments": [
+        "Not working. I signed in with my Plex account & I see my sons Pled server but it doesn't monitored. He bought the nuvue app so I don't know why it's not working.",
+        "Stopped working months ago support doesn't answer Inquiries!",
+        "Doesn't work",
+        "Needs more controls No way to unsubscribe from emails as far as I can see. Fills up my inbox like crazy when adding new media. Needs more user controls on how to receive notifications.",
+        "How to make it work?? Does not contact my plex server. I have a fully paid plex-pass.  WHat does it mean \"Requires shared library owners to have nuVue and Pay-It-Forward license\" ?????",
+        "Ok well i been testing this app for couple of hours now, you have to set everything on the settings like refresh time and to show  your preferences as for just playing or added items, I set mine to whats playing FYI it wont sync to your phone automatically it takes between 4-6 min to send you the notification to your phone on who is playing what.  I personally used it to have more control over my plex server since I found a cheater in my friends list he shared his user name to various people so this app is perfect it tells me who is playing what and from wich system they are playing it from."
+    ],
+    "recentChanges": [
+        "1.4.3",
+        "FIX: Fixed errors with server/library names that contain single quotes (apostrophes)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.immersiondesignstudio.nuvuefree&hl=en&gl=us",
+    "appId": "com.immersiondesignstudio.nuvuefree"
+}

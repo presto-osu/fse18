@@ -1,0 +1,54 @@
+{
+    "title": "Digitalog Prime Watch Face",
+    "summary": "Minimal watch face for telling time at a glance.",
+    "icon": "//lh3.googleusercontent.com/i1CymwrYOSe6hG_ztpbqWaUhbq2IF8cBQpI_EBbV0ubyTRsk6PNwIg93yG697IWKu8U=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 5,
+    "reviews": 4,
+    "developer": "Ivan  Yu",
+    "developerId": "Ivan++Yu",
+    "developerEmail": "me@ivanyu.ca",
+    "developerWebsite": "http://www.ivanyu.ca",
+    "developerAddress": "200 University Ave W,\nWaterloo, ON\nN2L 3G1",
+    "updated": "January 11, 2016",
+    "version": "1.02",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Features:★ Hourly color shifts to aid in discerning the time.★ Multiple appearance styles to choose from.★ Tons of customization options!Customization options (See screenshots):- [12/24] hour- Hour text font style & size- Minute hand length & width- Tick enable/disable- Tick frequency & length- Custom color settings- Ambient appearance settingsNote: Displaying color in ambient mode is not supported by all watches and can potentially lead to screenburn on OLED displays. Be mindful of your hardware when configuring ambient mode!",
+    "descriptionHTML": "Features:<br>&#x2605; Hourly color shifts to aid in discerning the time.<br>&#x2605; Multiple appearance styles to choose from.<br>&#x2605; Tons of customization options!<br><br><br>Customization options (See screenshots):<br>- [12/24] hour<br>- Hour text font style &amp; size<br>- Minute hand length &amp; width<br>- Tick enable/disable<br>- Tick frequency &amp; length<br>- Custom color settings<br>- Ambient appearance settings<br><br><br>Note: Displaying color in ambient mode is not supported by all watches and can potentially lead to screenburn on OLED displays. Be mindful of your hardware when configuring ambient mode!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/f5EXucRzD1cWJptmDqjJTwI2tce57kSHYIqhASuJsX6tYLZP_viGJ4PBmvwACE5B964=h310",
+        "//lh3.googleusercontent.com/zfVpP6TQJGhMsgEVaEAuIRHjUlPDBhhlo8MrixN7clTsVKoPBA5OjulEoZma9yaDf-N9=h310",
+        "//lh3.googleusercontent.com/c1Cis8IaSecOM4Ttcc3M2nbrCmn5i8oNuyx3jkEdONNqLYEiEKQtybIDoaGc0f6JdFI=h310",
+        "//lh3.googleusercontent.com/2eSZ5O9xE8Ffjx81LmBjX7qSZMR6fXJdHGsYVobTY5UbIf4jVUjsts-WFOcGx4Qoyg=h310",
+        "//lh3.googleusercontent.com/absem1r5OYWGaMYaPcaiwJ_ewbktQvZwH3iCyTy8lkXNyuEtiDQ67nTvm8wcObkSKtjF=h310",
+        "//lh3.googleusercontent.com/PU-eeePjRR3Hse7JB5aQ32xbOdQEvORB4_J4SqKkw-R2imwm_WwdLE3aIok3azpG5cdz=h310"
+    ],
+    "comments": [
+        "Very nice watch face. May I ask for the following additions: 1. Allow numeric values. Sliders are tricky to sync between settings (e.g. minute and ticker lengths). 2. Allow HEX, RGB or any other color code where color inputs exist. Same reason as above.  3. Add width for tickers, same as there is such a setting for minute.",
+        "Exactly what I wanted Digitalog was my favorite watchface for my GWatchR, but I always resented that all the minute ticks showed up with ambient mode. This app completely fixes that and add a bunch of customization. It's truly awesome!"
+    ],
+    "recentChanges": [
+        "Minor Updates:",
+        "- Interactive watch face: Tapping watch face now brings up timer.",
+        "- Reduced size of peek card."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.yu.ivanyu.digitalogchroma&hl=en&gl=us",
+    "appId": "com.yu.ivanyu.digitalogchroma"
+}

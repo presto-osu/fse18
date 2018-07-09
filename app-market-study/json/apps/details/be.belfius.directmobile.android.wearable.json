@@ -1,0 +1,52 @@
+{
+    "title": "Belfius Direct Wear",
+    "summary": "Belfius Direct Wear",
+    "icon": "//lh4.ggpht.com/bUlCe2KQpUb9ZfXL9o4gaXQEnlJwFiX5z1UYrAweEXMaFEQhd3X6uAsYLLxQhlJVVhK2=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 179,
+    "developer": "Belfius Bank nv/sa",
+    "developerId": "Belfius+Bank+nv/sa",
+    "developerEmail": "mobile.dev.be@gmail.com",
+    "developerWebsite": "https://www.belfius.be/mobile",
+    "updated": "June 6, 2017",
+    "version": "1.5.0",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Via deze app krijgt u op uw Android smartwatch op elk moment een zicht op de status van uw rekeningsaldo. In alle veiligheid. Bovendien kunt u via uw Android smartwatch verwittigd worden wanneer uw saldo wijzigt en eveneens de laatste 5 transacties van uw rekening consulteren. Vereisten om deze Belfius Direct Wear app te kunnen gebruiken:Uw smartphone draait op Android 4.3 of hoger.- U hebt een Android Wear-toestel (zoals de Sony Smartwatch 3, de LG Watch Urbane, de Asus ZenWatch …).- U hebt de Belfius Direct Mobile app geïnstalleerd op uw smartphone.- In het aanmeldscherm van Belfius Direct Mobile hebt u de optie ‘Kaartnummer onthouden’ aangevinkt. - De app op uw Android smartwatch zal de status weergeven van de rekening die u hebt ingesteld via Belfius - Direct Mobile (Instellingen > Saldo Check beheren).- Uw smartwatch is via Bluetooth gelinkt met uw smartphone.  Na installatie zal de Belfius Direct Wear app automatisch geactiveerd worden op uw smartwatch.De app wordt niet weergegeven op het applicatie – of startscherm van uw smartphone. U kunt de instellingen van de app openen via Belfius Direct Mobile > Instellingen > Saldo Check beheren.",
+    "descriptionHTML": "Via deze app krijgt u op uw Android smartwatch op elk moment een zicht op de status van uw rekeningsaldo. In alle veiligheid. Bovendien kunt u via uw Android smartwatch verwittigd worden wanneer uw saldo wijzigt en eveneens de laatste 5 transacties van uw rekening consulteren.<br><br> <br>Vereisten om deze Belfius Direct Wear app te kunnen gebruiken:<br>Uw smartphone draait op Android 4.3 of hoger.<br>- U hebt een Android Wear-toestel (zoals de Sony Smartwatch 3, de LG Watch Urbane, de Asus ZenWatch &#x2026;).<br>- U hebt de Belfius Direct Mobile app ge&#xEF;nstalleerd op uw smartphone.<br>- In het aanmeldscherm van Belfius Direct Mobile hebt u de optie &#x2018;Kaartnummer onthouden&#x2019; aangevinkt. <br>- De app op uw Android smartwatch zal de status weergeven van de rekening die u hebt ingesteld via Belfius - Direct Mobile (Instellingen &gt; Saldo Check beheren).<br>- Uw smartwatch is via Bluetooth gelinkt met uw smartphone. <br><br> <br>Na installatie zal de Belfius Direct Wear app automatisch geactiveerd worden op uw smartwatch.<br>De app wordt niet weergegeven op het applicatie &#x2013; of startscherm van uw smartphone.<br> <br>U kunt de instellingen van de app openen via Belfius Direct Mobile &gt; Instellingen &gt; Saldo Check beheren.",
+    "histogram": {
+        "1": 42,
+        "2": 18,
+        "3": 9,
+        "4": 24,
+        "5": 86
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/hHMKWZaXXa4Wl6uZ5tjUa1XZ6u9VARMJZhflAiE789V1xOw3NwscMBDCpH7GBEdYuA=h310",
+        "//lh4.ggpht.com/FmRDVLo3yVMvSkYWbxzTuj5SR9GbcWiCKLjQfMVnFkk0wKXepZQ-31LrP618VOPm3Q=h310"
+    ],
+    "comments": [
+        "Er is nog geen Samsung smart watch ondersteunt, komt dit in de toekomst?",
+        "Werkt niet: blijft laden en verdwijnt dan zonder iets te doen.",
+        "Werkt niet Gegevens laden niet op huawei watch",
+        "Belfius direct mobile download Download",
+        "Will this come out also for Pebble watch?",
+        "Crashing since update -- FIXED Very much liked this little app. Nice 'gadget', doesn't do much, but cool to have.  Unfortunately, had to remove it as since the update I received yesterday, the app is constantly crashing  Will happily change rating if issues are adressed   Nexus 5, running Android 5.1.1 Moto360, running Android Wear 5.0.2  UPDATE: Fix seems to have solved the issues I encountered."
+    ],
+    "recentChanges": [
+        "Belfius Wear bestaat niet langer als aparte app. Deze functionaliteit is verhuisd naar de Belfius Mobile app.",
+        "We raden aan deze app te verwijderen."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=be.belfius.directmobile.android.wearable&hl=en&gl=us",
+    "appId": "be.belfius.directmobile.android.wearable"
+}

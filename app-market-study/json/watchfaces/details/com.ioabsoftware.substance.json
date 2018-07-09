@@ -1,0 +1,62 @@
+{
+    "title": "Substance",
+    "summary": "A minimal, Material-inspired watch face - shows you what you need at a glance.",
+    "icon": "//lh3.ggpht.com/5yMISOrlzH9XGTi2IaSqwYDS2fkNKUXL0WnAxSrIpmbjJ-nWr_AXf4nRWeoSfAL8Az8=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4.8,
+    "reviews": 4,
+    "developer": "Insanity On A Bun Software",
+    "developerId": "Insanity+On+A+Bun+Software",
+    "developerEmail": "contact@ioabsoftware.com",
+    "developerWebsite": "http://ioabsoftware.com/",
+    "developerAddress": "307 2nd Ave NE\nApt 16\nPuyallup, WA 98372",
+    "updated": "November 5, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Substance is a watch face designed to look clean, simple, and provide you with the essentials - the time (of course), today's date, and both the watch's and the phone's battery percentage.With an unobtrusive second indicator 'pulse' in interactive mode (which really can't be done justice in screenshots, see how it looks in person) and a background color that changes with the time, Substance doesn't have any major frills or sparkly bits. It doesn't distract you with fake screen glare, confuse you with 4 different analog clocks all going at once, or overwhelm you with more information than anyone would ever need on their wrist at a glance. Give Substance a try and you'll quickly see how simplicity and a smart, clean design can beat out an over-designed, overwhelming watch, every time.Exo and Orbitron fonts used under SIL Open Font License:http://www.google.com/fonts/specimen/Exohttp://www.google.com/fonts/specimen/OrbitronAndroid Wear Flat Device Frame used under Creative Commons License:http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/",
+    "descriptionHTML": "Substance is a watch face designed to look clean, simple, and provide you with the essentials - the time (of course), today&apos;s date, and both the watch&apos;s and the phone&apos;s battery percentage.<br><br>With an unobtrusive second indicator &apos;pulse&apos; in interactive mode (which really can&apos;t be done justice in screenshots, see how it looks in person) and a background color that changes with the time, Substance doesn&apos;t have any major frills or sparkly bits. It doesn&apos;t distract you with fake screen glare, confuse you with 4 different analog clocks all going at once, or overwhelm you with more information than anyone would ever need on their wrist at a glance. Give Substance a try and you&apos;ll quickly see how simplicity and a smart, clean design can beat out an over-designed, overwhelming watch, every time.<br><br><br><br>Exo and Orbitron fonts used under SIL Open Font License:<br>http://www.google.com/fonts/specimen/Exo<br>http://www.google.com/fonts/specimen/Orbitron<br><br>Android Wear Flat Device Frame used under Creative Commons License:<br>http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/HzWE4m0pXH9kpLtqm1x4XFP_ZQuOlSgcuwNXfWdeMh5klXzLmqucyNJ_IaK2olEP5AKR=h310",
+        "//lh4.ggpht.com/qkMerWJY25ExoF6b5xjOh_9UI4WDMI4Gynop1jKkfyyjynmUAnLXmZu3ke5DAFhwvw=h310",
+        "//lh5.ggpht.com/cG3Ayrrs_PFVoYobE7jRD4qiEtL8GdgHwWirs-RVfqR25KeRmedVh-WBcDaYymfhI6Y=h310",
+        "//lh4.ggpht.com/u3uYZMK2jOEWt6dgRnp3drb7XAE4weQqkk8Sl7GAWQr7fvJNax9HENFDz0Edhn4LMJ8=h310",
+        "//lh6.ggpht.com/5ryK3EZ8tCabWiB1UVnW9NgXzEFKEwpOZaKqXxgRVZyuMeX4zijUAgBUVf5g0LXiiw=h310",
+        "//lh3.googleusercontent.com/5FNZP6MF6niqUlvblzWmVWOh62Unkj9jCw7Jq5ZMG6q7HiGaK1po8Wl9Q4LoCs1KTwUe=h310",
+        "//lh3.googleusercontent.com/yb2S0MlqqC6zlsxt9sGjwfgAQI4G4Th-eeC8QMT5pPyQSv_D3K0TGeI4q0FRiq90cYI=h310",
+        "//lh3.googleusercontent.com/zGHBoVbVgxKKcRU22zmPWuxdfUochvxffpCcPlSIZUB9bBDk23jU37VoeH8DdLjAco3L=h310",
+        "//lh3.googleusercontent.com/NkwdqhbZDz6ZZLnTFOtQ1FX4qd7Re1UMw0F07m_h-T2jgL8KuxiPIPN2TCjpiRMimJc=h310",
+        "//lh3.googleusercontent.com/vm6gHUP8AP4fP7H54y1GtcWCg3SB_sTXN5jhe5mXnEEhSPW9Js8bmAPW94AHlOnfMw=h310"
+    ],
+    "comments": [
+        "Nice and simple Gives me everything I need to see. I would like to also see weather. Thank you!",
+        "Great I love this, the only thing I would like would to be able to set a color myself.",
+        "Looks great simple and clean"
+    ],
+    "recentChanges": [
+        "2.0",
+        "* Add Wear 2.0 Standalone Support",
+        "* Move configuration options to on-watch only",
+        "* Phone battery is not shown if the connection never gets made between watch and phone",
+        "* Phone battery may not display when paired to iPhone, I am unable to test this currently"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ioabsoftware.substance&hl=en&gl=us",
+    "appId": "com.ioabsoftware.substance"
+}

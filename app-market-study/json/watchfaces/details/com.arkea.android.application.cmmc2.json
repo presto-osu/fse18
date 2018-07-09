@@ -1,0 +1,51 @@
+{
+    "title": "Crédit Mutuel Massif Central",
+    "summary": "Simply and safely check your accounts.",
+    "icon": "//lh6.ggpht.com/TuQt--gjidSYHoCo4ztRyCR-bj4aLMeaEp1E8t7XGus6WmB7rwcxehLQAyuRHMpQ5g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 243,
+    "developer": "Credit Mutuel Massif Central",
+    "developerId": "Credit+Mutuel+Massif+Central",
+    "developerEmail": "community.manager@arkea.com",
+    "developerWebsite": "https://www.cmmc.fr/ ",
+    "updated": "February 5, 2018",
+    "version": "M6.3.4",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Download the CMMC application for free. Simply and safely check your accounts, make transfers, check the stock market, get a virtual payment card number, call the Customer Service HelpDesk... Exclusive : the application shows you the way to the closest CMMC ATM or bank branch !Bug SDK 2.2 fixed.",
+    "descriptionHTML": "Download the CMMC application for free. Simply and safely check your accounts, make transfers, check the stock market, get a virtual payment card number, call the Customer Service HelpDesk... Exclusive : the application shows you the way to the closest CMMC ATM or bank branch !<br>Bug SDK 2.2 fixed.",
+    "histogram": {
+        "1": 51,
+        "2": 17,
+        "3": 27,
+        "4": 57,
+        "5": 91
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/whwh26UVPpEHmYajxweGFfQ4tT2otjMaaPJ7RNCEg-yKOT81JNoeYHputjNjKtse-w=h310",
+        "//lh3.googleusercontent.com/HKrivtt8C3GsMaWRkx2M7pSBAqExXODt3Wszvuk7IyqVM1M3wiRUQADG82NHzP4Ckw=h310",
+        "//lh3.googleusercontent.com/yjsjFF_ul6IuLBdRIdZZULi7M2BIgxm3ohGv6YzSlwpCJtmXVVeUnVKLy3BrZCepm_Q=h310",
+        "//lh3.googleusercontent.com/BGukPJ8d8mxy2P8jyUOvfBf0vLhU87eFj9B0R8s7xCGBSGwNtj0w8WbzjyK4pXs5qxg=h310",
+        "//lh3.googleusercontent.com/kzauNwROqdTvhWGRKhNx2ZpsieGjIS_eXoVZjdDBlw4tCHds563N-2reMagMBD6Ppg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Votre application Crédit Mutuel du Massif Central s'enrichit !",
+        "Souscrivez 100% en ligne le contrat d'assurance-vie NaviG'Options.",
+        "Accessible dès 300€, NaviG'Options vous permet  de profiter d'une offre d'assurance vie pilotée par des experts pour valoriser votre capital, dans un cadre fiscal privilégié.",
+        "Comment souscrire ?",
+        "Sur votre appli CMMC, rendez-vous dans  : souscrire 100% en ligne > rubrique épargne > assurance vie NaviG'Options."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.arkea.android.application.cmmc2&hl=en&gl=us",
+    "appId": "com.arkea.android.application.cmmc2"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Fossil Q",
+    "summary": "Be more curious",
+    "icon": "//lh3.googleusercontent.com/M_vKsXSgs9bYYbF0h52aDYCXrZ5G4Hop5XDZoTIokEum3ERojxicPgDgrqTUNiJAzQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 2.9,
+    "reviews": 5914,
+    "developer": "Fossil, Inc.",
+    "developerId": "Fossil,+Inc.",
+    "developerEmail": "fossilq@fossil.com",
+    "developerWebsite": "http://www.fossil.com",
+    "updated": "January 23, 2018",
+    "version": "2.2.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "FOSSIL Q is the companion app for Fossil's line of activity trackers and hybrid smartwatches. Receive alerts from your favorite contacts and apps, compare multiple time zones and track everything from steps to sleep through the Fossil Q App. Turn your hybrid smartwatch into a remote control with customizable buttons that can control your music, check the date and more. The best part? You can customize your tracker or hybrid to perform your favorite features. Download now to stay curiously connected (your way).GET NOTIFIED  – Know who's calling or texting you TAKE A SHORTCUT  – Assign a function to your buttonsTRACK IT ALL  – Keep track of your progressGET CONNECTED  – Start tracking stats, gain access to a variety of shortcuts and receive notifications on your watch!",
+    "descriptionHTML": "FOSSIL Q is the companion app for Fossil&apos;s line of activity trackers and hybrid smartwatches. Receive alerts from your favorite contacts and apps, compare multiple time zones and track everything from steps to sleep through the Fossil Q App. Turn your hybrid smartwatch into a remote control with customizable buttons that can control your music, check the date and more. The best part? You can customize your tracker or hybrid to perform your favorite features. Download now to stay curiously connected (your way).<br><br>GET NOTIFIED  &#x2013; Know who&apos;s calling or texting you <br><br>TAKE A SHORTCUT  &#x2013; Assign a function to your buttons<br><br>TRACK IT ALL  &#x2013; Keep track of your progress<br><br>GET CONNECTED  &#x2013; Start tracking stats, gain access to a variety of shortcuts and receive notifications on your watch!",
+    "histogram": {
+        "1": 1818,
+        "2": 876,
+        "3": 922,
+        "4": 937,
+        "5": 1361
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ff6Oudfk8ZJKPPlxZ2RD-0cJl4rj-z9iuMOYh75MuD0blStzHzAgx53OGdsQtm3lKLo=h310",
+        "//lh3.googleusercontent.com/D7VW_KSfiYFa4OlcG9mRlGrx-_ufnTwTCjOdwLlsTvx78sdIPCg4pbDwO6SRcGhHdE0=h310",
+        "//lh3.googleusercontent.com/CKipIJ-LcgmMD-3TC2fWyIMzhEDTGSOXrzdb5g_xAW1rAxc_1irnMMqbgpP_GPQHYg=h310",
+        "//lh3.googleusercontent.com/HcPg1hP98YIe-vHf-GL9Mg6r2XfPzpOapNTctSvpzG8Qf9HmNzX50DVVdXeZdh9zgg=h310",
+        "//lh3.googleusercontent.com/jxLm-U9olUx2xDqiN61tJyEwR9WYto2B7Ul2F_Zd6pv3k0f-zEHp06b-CPKGbXoI2g=h310"
+    ],
+    "comments": [
+        "I gave this app originally a one star rating & uninstalled it because of a battery drain issue. However, I decided to give the app a try again and installed an updated version which seems to have fixed the battery issue. Now I'm totally studied note with the app even though I still believe the interface can be made both more simple & useful",
+        "As with other people, i too have an issue with constant refreshing of my phone when the watch is connected. Please fix because i do like the watch.  Here's an idea for the next update, make the app consider Whatsapp, Telegram, or Line calls as regular calls or make them as separate notifications. Now, when i get any calls from those apps, it thinks i just got a new message.",
+        "I love the design and the features are great for a hybrid watch. Except for the app design. The stats doesn't show anything in a well established manner. Q legacy app is much more detailed and intuitive. I wish this app shows more details about live sleep and deep sleep atleast. What is the use of a sleep tracker that is unable to show you details of your sleep. Please add this feature so that I'll be happy to recommend this over to others",
+        "I appreciate the concept of the app but the constant refreshing is beyond annoying. I read an article or a story and it keeps refreshing to the top or backing out altogether. The refreshing is every few seconds it seems. Have narrowed it down to the Q app. I have disabled Bluetooth so can no longer use the app for all the other features but once I disabled the Bluetooth for the watch everything went back to normal. Now I can only use it for time, date and the step counter. Please fix.",
+        "Had to downgrade to a 1 rating due to this app refreshing issue that this app and/or watch is causing. It causes all of my apps on my phone to randomly refresh. It's a widespread issue and fossil has not fixed it. Love the watch but looks like I'll have to go to another brand.",
+        "I was quite happy with the app till latest update, which makes the watch respect the phone's silent mode. This is EXACTLY why I hated Android Wear -- why would you want a smart watch if not to be able to keep the damn phone on silent mode?! I wish I can reverse the update. This app, and the watch, are useless now."
+    ],
+    "recentChanges": [
+        "- Notifications now respect phone’s do not disturb mode.",
+        "- Use less location service when syncing.",
+        "- Improve syncing and connectivity from the app to the watch.",
+        "- Improve stability of notifications."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fossil.wearables.fossil&hl=en&gl=us",
+    "appId": "com.fossil.wearables.fossil"
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Binary Analog WatchFace",
+    "summary": "Binary Analog WatchFace: A beautiful and clean Binary WatchFace",
+    "icon": "//lh3.googleusercontent.com/R0cIlZfRLZqu2RObhJqx0QNYzoa-oEJsR_C1IXeJIBf3gXQzRNSmc2PIVjOfQUt45OM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 1,
+    "developer": "Sebastian Ferngren",
+    "developerId": "Sebastian+Ferngren",
+    "developerEmail": "sebastian.ferngren@gmail.com",
+    "developerAddress": "Tunby vägen 40 A, 72223, Västerås, Sverige",
+    "updated": "June 11, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Binary Analog WatchFace: A beautiful and clean Binary WatchFaceThe inner ring show you the hour in 8bit binary formatThe middle ring shows you the minutesThe outer ring shows you the current minute in secondsIts a minimal and elegant watchface showing you the time in binary",
+    "descriptionHTML": "Binary Analog WatchFace: A beautiful and clean Binary WatchFace<br><br>The inner ring show you the hour in 8bit binary format<br>The middle ring shows you the minutes<br>The outer ring shows you the current minute in seconds<br><br>Its a minimal and elegant watchface showing you the time in binary",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_cNDjgw2lhB1aPAwm5tz-NH1TqOGRk95SGztn0-VOuG38prJF4WFREDJTpkR-P3BrUQ=h310",
+        "//lh3.googleusercontent.com/N09jV1_EcGJJrMHBveYUqoAA2nFH0X1ZJEYlPC-QbEePQeHiEbSbHVAnzirbMjjITrA=h310",
+        "//lh3.googleusercontent.com/qw7b20SyKaE0cRPPU0rOoMIZvHQ6Nr4BxnR2hasBAeh06PtHo-jeSYCh99trGkSlugg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=sebastian.com.binaryanalogwatchface&hl=en&gl=us",
+    "appId": "sebastian.com.binaryanalogwatchface"
+}

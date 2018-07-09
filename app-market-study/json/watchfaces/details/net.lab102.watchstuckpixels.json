@@ -1,0 +1,53 @@
+{
+    "title": "Stuck Pixel Fixer for Wear",
+    "summary": "App that attempts to fix stuck pixels on your watch",
+    "icon": "//lh5.ggpht.com/Ta0yHxkHqLpMR5R97dXhVdIpwxfmzcAS0FAC188QQtAZIrfzhmmHpMioVc1_jHRvqbQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.4,
+    "reviews": 72,
+    "developer": "Lab 102",
+    "developerId": "Lab+102",
+    "developerEmail": "android@lab102.net",
+    "developerWebsite": "http://www.lab102.net",
+    "developerAddress": "The Netherlands",
+    "updated": "October 4, 2014",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "App that attempts to fix stuck pixels on your watch.Launch the app on your Android Wear device by:1) Tapping once on the watchface2) Scroll up when the \"Speak now\" prompt shows3) Select \"Start...\"4) Select Stuck Pixel Fixer for WearUsing the phone app you can change the colours and speed WHILE THE WEAR APP IS OPENTIP: Selecting only one color can be used to diagnose the screen for dead/defective pixels.DISCLAIMERDON'T DIRECTLY LOOK AT THE FLASHING LIGHTS AS THIS MAY CAUSE SEIZURES. PLEASE PLACE SOMETHING OVER THE WATCH OR FACE THE DISPLAY DOWN WHILST FLASHINGTHE DEVELOPER IS NOT RESPONSIBLE FOR ANY HARM DONE TO YOUR DEVICE. USE AT YOUR OWN RISKPermissions used:android.permission.INTERNETandroid.permission.ACCESS_NETWORK_STATEBoth are used to display the ad in the app, that's it!Suitable for Android Wear™ devices like the Moto 360 by Motorola, LG G Watch, LG G-Watch R, Sony SmartWatch 3, ASUS ZenWatch and Samsung Galaxy Gear™ Live",
+    "descriptionHTML": "App that attempts to fix stuck pixels on your watch.<br><br>Launch the app on your Android Wear device by:<br>1) Tapping once on the watchface<br>2) Scroll up when the &quot;Speak now&quot; prompt shows<br>3) Select &quot;Start...&quot;<br>4) Select Stuck Pixel Fixer for Wear<br><br>Using the phone app you can change the colours and speed WHILE THE WEAR APP IS OPEN<br>TIP: Selecting only one color can be used to diagnose the screen for dead/defective pixels.<br><br><br>DISCLAIMER<br>DON&apos;T DIRECTLY LOOK AT THE FLASHING LIGHTS AS THIS MAY CAUSE SEIZURES. PLEASE PLACE SOMETHING OVER THE WATCH OR FACE THE DISPLAY DOWN WHILST FLASHING<br><br>THE DEVELOPER IS NOT RESPONSIBLE FOR ANY HARM DONE TO YOUR DEVICE. USE AT YOUR OWN RISK<br><br>Permissions used:<br>android.permission.INTERNET<br>android.permission.ACCESS_NETWORK_STATE<br>Both are used to display the ad in the app, that&apos;s it!<br><br>Suitable for Android Wear&#x2122; devices like the Moto 360 by Motorola, LG G Watch, LG G-Watch R, Sony SmartWatch 3, ASUS ZenWatch and Samsung Galaxy Gear&#x2122; Live",
+    "histogram": {
+        "1": 19,
+        "2": 4,
+        "3": 6,
+        "4": 15,
+        "5": 28
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/1AjxvifQ6ZWROiSJMTljq-PO8umMIe2tvtjyXWoQc61b6rRqw_SS0X_45oPvrKkJKMgI=h310",
+        "//lh3.ggpht.com/7NN1oGQEsjsEO23GnPCs2VG_COFfaf5TrxV-JvLkeiP1B5K7v3w4L3UAI-lfq5hAPSE=h310",
+        "//lh4.ggpht.com/-5KPzV1Rd765o2nAOJrG2zowo08s9mX8HgYQTQUzyzBlTYexVAvl2K3oqnn_dqX9NMQ=h310",
+        "//lh3.ggpht.com/O8lFwxBRbDmYcWg7o6bfdoUsYkz2em_Ird7jiCNXb476J0TNOqwpfQvqoJpy-cphw28=h310",
+        "//lh3.googleusercontent.com/5peykswzgzFAznkbvjh2C5IyowQXQmT1aGppNnVyOSrFLz0Xq1yYflNE9qeeW6S_82o=h310"
+    ],
+    "comments": [
+        "worked like a charm One hickup though, after letting this run for a while, my screen was all screwed up with it flickering a bunch, fixxed by resetting watch and turning it off for a while. but it did fix my dead pixels. my experience was a few black pixels in a line. now they're gone after a few hours of letting it run on (.05 seconds i think)",
+        "Works as advertised! The Moto 360 (1st Generation) is susceptible to screen burn-ins. Doing this fixed it!  Cons: No donation button?",
+        "Confirmed my suspicions When my Moto 360 would boot, I thought I saw two dead pixels on the boot logo.  Sure enough, this app confirmed it.  Time for an exchange.  Thank you for this app!",
+        "Works like a charm Managed to find a dead pixel, it didn't get unstuck though :(, so time to go for an exchange. This app is great at finding them though.",
+        "Does what it is made for! Helped me to fix two stuck pixels on my 360.",
+        "Darn I wanted the test pattern I really wanted the test pattern in the app picture. As it is it works perfectly and as advertised although I don't have any stuck pixels. Given all that I should have given 4 stars instead of one."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.lab102.watchstuckpixels&hl=en&gl=us",
+    "appId": "net.lab102.watchstuckpixels"
+}

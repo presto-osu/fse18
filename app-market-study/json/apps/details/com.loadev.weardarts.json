@@ -1,0 +1,49 @@
+{
+    "title": "WearDarts",
+    "summary": "Use your wearable for keeping score of your darts match!",
+    "icon": "//lh5.ggpht.com/YgLjWGZEUIX4_eu1gOzJDQkbBf4bgaxp1podgI3ZP2vJA_LGtCbZtqSlUMXczdVdeQM=w300",
+    "price": "$1.27",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 2,
+    "developer": "DevLoa",
+    "developerId": "DevLoa",
+    "developerEmail": "loadevelop@gmail.com",
+    "developerAddress": "Gruttolaan 3\n3704XK\nZeist\nNetherlands",
+    "updated": "November 19, 2014",
+    "version": "1.1",
+    "genre": "Sports",
+    "genreId": "GAME_SPORTS",
+    "description": "You no longer have to take out your phone when you want to keep score of a darts match. With this app for your smartwatch you can keep the score of your darts match on your wrist.Set the starting score to either 301 or 501, and GO.",
+    "descriptionHTML": "You no longer have to take out your phone when you want to keep score of a darts match. With this app for your smartwatch you can keep the score of your darts match on your wrist.<br><br>Set the starting score to either 301 or 501, and GO.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/_k0kn8tkbnZwHRR0RpeUKcYvPj7d_UK0vao7VLZqGbBeyiewzx99-U4f-PTUTLdYBw=h310",
+        "//lh3.ggpht.com/zG4nvx9o8Nbl03sfN58PFODxD72C6bZL6DT4D1UfvQvnNLLUX5XwZ-73w0tqpffig94=h310",
+        "//lh3.ggpht.com/vQgqM8hy5uG60Tyf6by6FUBmFMTO9SZUgoC7tIPdjPAoLAak6i_LbvljBFWoItuSlpY=h310",
+        "//lh3.ggpht.com/3wR88JuuWkrbUyTQatg9NhQJ8K1qmL6LETKhT-gxSA57kLl_AOW090H07iSVz5ShcI7k=h310"
+    ],
+    "comments": [
+        "Very handy Great app overall, would love to see support for cricket in the future."
+    ],
+    "recentChanges": [
+        "In this update the screen will remain on when you are currently tracking a match or entering a score.",
+        "Starting the app on your phone will now also trigger a notification with which the app can be more easily opened on your watch."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.loadev.weardarts&hl=en&gl=us",
+    "appId": "com.loadev.weardarts"
+}

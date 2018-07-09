@@ -1,0 +1,60 @@
+{
+    "title": "Calendar - a wear watch face",
+    "summary": "All appointments at a glance on your wrist watch.",
+    "icon": "//lh3.googleusercontent.com/PUCZGgF4fq6Kn_YpCO3rEZUPSxB3YZc0rdev9PYWazOkR_4tb3dLd2GgznhVDV8bM9Z1=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 50,
+    "developer": "Tino Bertram",
+    "developerId": "Tino+Bertram",
+    "developerEmail": "support@lications.de",
+    "developerWebsite": "http://www.lications.de/english/projects/calendar-watch-face-1/",
+    "developerAddress": "Westendstr. 98\n80339 München",
+    "updated": "June 2, 2017",
+    "version": "6.2",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Missed a birthday? Arrived late to an appointment. This Calendar Watch Face can help... At a glance on your wrist watch you 'll see all upcoming (up to 12 h) and already running dates from your mobile phone calendar. Dates and events are stacked up to 5 times (5 parallel dates at a time are possible). Long date titles are animated - they marquee (character scrolling) so you can read long titles even on short dates. For a better readability titles are switched vertically so no title is written upside down. You can distinguish between active and future events by different colors. To change these colors open \"Calendar Watch Face\" inside Android Wear App.Features:• customize your background with images from your gallery• customize date colors and date title colors• customize watch hands and tick color• ambient modePermissions:• calendar (for displaying the dates on the watch face)• read and write to storage (for saving own wallpapers)Unfortunately the installation of watch face apps take some time. Please be patient and wait some minutes until the app is ready for usage.Please let us know what you think about it! What features do you like to see next?",
+    "descriptionHTML": "<b>Missed a birthday? Arrived late to an appointment. This Calendar Watch Face can help...</b> At a glance on your wrist watch you &apos;ll see all upcoming (up to 12 h) and already running dates from your mobile phone calendar. Dates and events are stacked up to 5 times (5 parallel dates at a time are possible). Long date titles are animated - they marquee (character scrolling) so you can read long titles even on short dates. For a better readability titles are switched vertically so no title is written upside down. You can distinguish between active and future events by different colors. To change these colors open &quot;Calendar Watch Face&quot; inside Android Wear App.<br><br><br><b>Features:</b><br>&#x2022; customize your background with images from your gallery<br>&#x2022; customize date colors and date title colors<br>&#x2022; customize watch hands and tick color<br>&#x2022; ambient mode<br><br><b>Permissions:</b><br>&#x2022; calendar (for displaying the dates on the watch face)<br>&#x2022; read and write to storage (for saving own wallpapers)<br><br>Unfortunately the installation of watch face apps take some time. Please be patient and wait some minutes until the app is ready for usage.<br><br>Please let us know what you think about it! What features do you like to see next?",
+    "histogram": {
+        "1": 2,
+        "2": 5,
+        "3": 7,
+        "4": 15,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/cq2BlR97no6koGGm0Q9pONDiZ09hJ8qLHkCCog5SYIb8-xpjc4q_5t5DEAILvTo8_1A=h310",
+        "//lh3.googleusercontent.com/yoMTsISKCn6wAIGdbhukuVHW9tDy1cft6SO8j1bcGwFYjbGddbPqPkfK15tPdoSd-A=h310",
+        "//lh3.googleusercontent.com/WxZtU1Tfh8QkXHRB5G0OStn8hbc2rmJnLfkBLhVeu7jz0fyL4BvImB4ApAz2odhxSk0=h310",
+        "//lh3.googleusercontent.com/HAZZS8Q4-Vdiv0jBEerv-8NNaSfrILtOmRG3T5ZZH5ma8TQrxEUCIYD_4W8P_0fYO7M=h310",
+        "//lh3.googleusercontent.com/pMNRBxsrc2HNo28BXmdTx2IvFCj6mS7KIykty1r26VDe_dpBxPeNAvlSA-RaVh2FEw=h310",
+        "//lh3.googleusercontent.com/i-I-Oe5Ai2xxHKZI3aXpHsAMzPGi4jXxsEyaRe5vBhRjuvVvXWtyuss1Lo1szGNgwu0=h310",
+        "//lh3.googleusercontent.com/0LTeGJRaOPC3kpo6me4R7qqAQcMtcAPoKAGKyqYO8DNpytgyOMYgyQYjp5gn1LXK49g=h310",
+        "//lh3.googleusercontent.com/2-L0MDxbXanz4km1VaUc7YGHNNnt-TPXivbhhmjaikmXUx7gpvibqi8mcY6ef01hjtV0=h310",
+        "//lh3.googleusercontent.com/SXCI0tAR8qqS0HcCUO8rYrpBtKvSZOoGX4b6rAzjFFp-LVNH3k3qICf2TNcPTVWX374=h310",
+        "//lh3.googleusercontent.com/ZiTP9S5ImQiCvTgaNZgRE9eRYEn5hlwseqyTcnR_BNMAMEZqNSz4WLXC4lMmjsAUFGU=h310"
+    ],
+    "comments": [
+        "Thank you for the fix! 5 stars if google calendar colors could be preserved for respective calendars.",
+        "If the digital watch face didn't crash I'd happily bump up the stars (maybe 5 stars).  I'm not an analogue face user, found another similar all to this that works fine with the digital face.  Would like the option for a pitch black background.",
+        "Digital mode makes the watch face crash. Also it would be nice to have support for showing calendar appointments as their calendar colour.",
+        "Not bad I've been messing with this app for a little while and I don't know why, but the event I had in my calendar before intalling did not get added to the screen. This event was added through an online link, so I dont know if that is why it wasn't shown on the watch screen or if it was because it was in my calendar before I installed this watch face. I will have to figure that out in a couple of days. I did add some test events however and those did show up on my watch face.",
+        "Great Really good, would love more settings though. Like be able to create a circle to the left and right , to display weather and maybe battery.. Also, be able to show the date in ambient mode would be great. Maybe even show the text in the calendar events also in ambient mode. And a stopwatch feature. Than it would be perfect .",
+        "Figured it out Okay, but not spectacular."
+    ],
+    "recentChanges": [
+        "Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.lications.tnbrtrm.watchfacecalendarpaid&hl=en&gl=us",
+    "appId": "de.lications.tnbrtrm.watchfacecalendarpaid"
+}

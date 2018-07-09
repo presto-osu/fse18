@@ -1,0 +1,46 @@
+{
+    "title": "ATuner",
+    "summary": "ATuner - A Guitar Tuner for Android Wear and Android phones.",
+    "icon": "//lh5.ggpht.com/NRV4BARSrnGgLSoWwKIJUEJsRUiNGUW-3pfnfD-XHY3CAYz9_OtYP6yf08Wb0O4uZdWX=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 15,
+    "developer": "lmsierra",
+    "developerId": "lmsierra",
+    "developerEmail": "lmsierrastudios@gmail.com",
+    "updated": "January 6, 2015",
+    "version": "1.1",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "A tuner developed for Android Wear.Tune your instrument using the micro of your smartwatch wherever you are.-   It supports both English (A, B, C...) and Latin (La, Si, Do...) notation.    To change its notation just tap the grey rounded area.-   Change between flat and sharp note by hold touching the grey rounded area.Also available for Android Phone!Internet permission is only used in the mobile version for showing ads.",
+    "descriptionHTML": "A tuner developed for Android Wear.<br><br>Tune your instrument using the micro of your smartwatch wherever you are.<br><br>-   It supports both English (A, B, C...) and Latin (La, Si, Do...) notation.<br>    To change its notation just tap the grey rounded area.<br><br>-   Change between flat and sharp note by hold touching the grey rounded area.<br><br>Also available for Android Phone!<br><br>Internet permission is only used in the mobile version for showing ads.",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/QgLfMnYRmhSp5Gt0XfhiftWySElBuJRgCf7YTIT81bRum6RcDjYvMYZmBvaUwSd4V7Bz=h310",
+        "//lh4.ggpht.com/yNK6Ax-aEGxjpAexM7g7s_-Kyfq9WeaW92NvZ7gV5MmhXrClVgcz8I_Br_2M5epNuzCf=h310",
+        "//lh6.ggpht.com/AcjbvOxgiy-XqREgmMWH1Uuov_DXxGpWW6rQ6O6UN_ukZk2q-mA-PBb8-jVzBgugn80=h310",
+        "//lh5.ggpht.com/0DuOTHq0bcLLHc2-_yzRqNHER486UNlIfI-U4iIAPqS8ESnu_tBFjv4gLddqj_8bAUQ=h310",
+        "//lh4.ggpht.com/IxFqjlQMY5rpFhlX_AMDYOVQryHsXlJwjzKSrhK2PdrEELdfC3hQAmqd1_W7egNWwbc=h310"
+    ],
+    "comments": [
+        "Didn't work at all"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=lmsierra.atuner&hl=en&gl=us",
+    "appId": "lmsierra.atuner"
+}

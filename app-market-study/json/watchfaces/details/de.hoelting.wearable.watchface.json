@@ -1,0 +1,55 @@
+{
+    "title": "Pulse Heart Rate Watch Face",
+    "summary": "Watch Face with watch and BLUETOOTH 4 (Smart) heart rate monitor",
+    "icon": "//lh3.googleusercontent.com/dHyT5Nz2xTH4gJ5vgnzYzSPCSFwhOrIj3uVcaoVcJ989QlaN7GAvIsIOpMY3bjdJxPU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.6,
+    "reviews": 49,
+    "developer": "Athlete Grip",
+    "developerId": "Athlete+Grip",
+    "developerEmail": "support@athlete-gip.com",
+    "developerWebsite": "http://www.athlete-grip.com",
+    "developerAddress": "Stuttgart Vaihingen - Germany",
+    "updated": "May 13, 2015",
+    "version": "1.2.6",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Tested wird:- Sony Smartwatch 3 + BeetsBlu Bluetooth SMART (Android Wear v2)- Sony Smartwatch 3 + Arendo Brustgurt BeetsBlu Bluetooth SMART (Android Wear v2)- Sony Smartwatch 3 + Tchibo Brustgurt Bluetooth SMART (Android Wear v2)- Sony Smartwatch 3 + Polar H7 + GPS- Motorola Moto 360 + Polar H7 - LG G Watch R + Polar H7",
+    "descriptionHTML": "Tested wird:<br><br>- Sony Smartwatch 3 + BeetsBlu Bluetooth SMART (Android Wear v2)<br>- Sony Smartwatch 3 + Arendo Brustgurt BeetsBlu Bluetooth SMART (Android Wear v2)<br>- Sony Smartwatch 3 + Tchibo Brustgurt Bluetooth SMART (Android Wear v2)<br>- Sony Smartwatch 3 + Polar H7 + GPS<br>- Motorola Moto 360 + Polar H7 <br>- LG G Watch R + Polar H7",
+    "histogram": {
+        "1": 9,
+        "2": 3,
+        "3": 5,
+        "4": 13,
+        "5": 19
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jFSBFL5tS4XQqCGhs5TfYTEFpBFGr4RQekq9oo6CJFzTgNwOto4Q1cCdohtygV4p5Q=h310",
+        "//lh3.googleusercontent.com/f1pKUDvtf6ANDtxhkNfoOecklwIZ43rNG64gQmfObIO3ZG2WsMV-gTwSoMs9uhj4BeY=h310"
+    ],
+    "comments": [
+        "Latest update to Sony Smartwatch 3 This update has broken this app and my Pilar H7 no longer connects to it any more. Too bad, I really liked it.",
+        "LG Urbane 2 Does what it's made to do 👍",
+        "Good Make this what I want",
+        "Does what it says. Time visual could be better",
+        "Great thanks",
+        "5*****"
+    ],
+    "recentChanges": [
+        "- new watch face design (1.2.6)",
+        "- Puls history on ambient modus visible (1.2.6)",
+        "- Fix: Start smart wath with HeartLine watch face (1.2.6)",
+        "- Watch Face use now the smart watch heart rate sensor or bluetooth 4 heart rate monitor (1.2.5)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.hoelting.wearable.watchface&hl=en&gl=us",
+    "appId": "de.hoelting.wearable.watchface"
+}

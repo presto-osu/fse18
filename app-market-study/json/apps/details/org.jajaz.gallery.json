@@ -1,0 +1,61 @@
+{
+    "title": "Gallery (Wear)",
+    "summary": "This is gallery for watch Android Wear",
+    "icon": "//lh3.googleusercontent.com/Eh7PZ8woHb4xqOlINMOvzECtPYUYoRYlsBxkGrD5bspjL37A-7gwkf_EdxC8AQ5mDKM=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.2,
+    "reviews": 367,
+    "developer": "Jajaz.org",
+    "developerId": "Jajaz.org",
+    "developerEmail": "jajaz.org@gmail.com",
+    "developerWebsite": "http://jajaz.org",
+    "developerAddress": "Россия. 143982, Московская обл., г.Железнодорожный, ул.Смельчак, д.14 3774",
+    "updated": "February 27, 2018",
+    "version": "4.3.2",
+    "genre": "Photography",
+    "genreId": "PHOTOGRAPHY",
+    "description": "Hi! I gladly present to you the Photogallery for Android Wear watch. You can manage your photographs without direct use of your cellphone/mobile phone. If you have any suggestions or questions you may use commentary or my e-mail adress for feedback.Tested with 10.000+ images on the phone.You can use the file manager (Menu -> Send) or Google Photos (Menu -> On the device -> Share) for easy copy pictures to watch.Features:- View images from your phone to the watch- Remove images from phone over watch- Save images on the watch- Transfer images from your phone to the watch using function \"Share\"- Zoom images- Sort images by albumsManagement on the watch:- Single tap for menu- Double tap for zoom",
+    "descriptionHTML": "Hi! I gladly present to you the Photogallery for Android Wear watch. You can manage your photographs without direct use of your cellphone/mobile phone. If you have any suggestions or questions you may use commentary or my e-mail adress for feedback.<br>Tested with 10.000+ images on the phone.<br><br>You can use the file manager (Menu -&gt; Send) or Google Photos (Menu -&gt; On the device -&gt; Share) for easy copy pictures to watch.<br><br>Features:<br>- View images from your phone to the watch<br>- Remove images from phone over watch<br>- Save images on the watch<br>- Transfer images from your phone to the watch using function &quot;Share&quot;<br>- Zoom images<br>- Sort images by albums<br><br>Management on the watch:<br>- Single tap for menu<br>- Double tap for zoom",
+    "histogram": {
+        "1": 32,
+        "2": 4,
+        "3": 26,
+        "4": 87,
+        "5": 218
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/PDugzJVsJG5XnjMzxTOI4TeXtyqPlqe3kz2edQOOylaCbSWHNIjjSYLFqdpgaJB5zsA=h310",
+        "//lh3.googleusercontent.com/cOqj-QkiodflQOqbPTVJiPzpqRx9JJRqwSclA4b7vPXO90bnr08uKc_Ao3ZL3RhcLE4=h310",
+        "//lh3.googleusercontent.com/rDsjZVi9nc9I1RSFs37OzCgyhKt03f9ptNT3LrGylYwnKR2kWp-l5J21mzxaMIdzYGo=h310",
+        "//lh3.googleusercontent.com/5goNqj-0ukh1RB0Eo1V0wT7th2sWSMdRPFYZZHkWF-mtOlsYoVqoHDfNmCX38v2IUI0=h310",
+        "//lh3.googleusercontent.com/SuEJA32EsnppGi26JV4tNMarA8Rb4EKUQwy2Wk9i5lIWDQyIalTSsK_AQSz89ZAE7yo=h310",
+        "//lh3.googleusercontent.com/Xhk-MMbRoJviMdHH_Hh3xPD_AePS_ShXy8QtFFKfygRcSZglJ7it_wGfUKDaWyuNv3s=h310",
+        "//lh3.googleusercontent.com/-_ON7wnH6wVa06Ksh-jhdGL93QueLm207RypzVcLTWO34fTHyQm4H3sENUMeviTTfZPX=h310",
+        "//lh3.googleusercontent.com/QhsoOjfL09MsCCNRGGYl0Dy2NzsHc0-4g9_4WUWz8DwReapYSFsOcmWwVVob4yTrU9Y=h310",
+        "//lh3.googleusercontent.com/VO1xP6BAMzCUBqJkIjOULVJNAzWFDwKFC6pBR_xAm9ACpMnf_viLocwVtCKxVOTomzU=h310",
+        "//lh3.googleusercontent.com/hPVcwGIf1hwFIO-BhwueRyaZMLjV0x4oEUhOemFPNQmF_J16L9XJf67Lv0K1IXIegdM=h310"
+    ],
+    "comments": [
+        "Finally synced the apk on my watch. It took ~8h:/ Anyways.. Best gallery app, by far. Good zoom, fast photo sync, easy to use, it has no lag.",
+        "Doesn't work on asus zen 2 watch, it's stuck on synchronization",
+        "The app used to work fine on Marshmallow but now in nougat picture details look blurry, fix it for it to be stable again",
+        "This app does the job very good. great!",
+        "Everything is good but I get an error \"Connect is Failed\". Before the update everything was OK. Device: Nexus 5 6.0.1 and moto360",
+        "When it works it's functional The app was working fine; however, after the recent update won't connection to my watch and I keep getting \"Connect is Failed\" error message. Nexus 6 and LG Watch R."
+    ],
+    "recentChanges": [
+        "Fix some problems",
+        "Add new quality - Ultra"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.jajaz.gallery&hl=en&gl=us",
+    "appId": "org.jajaz.gallery"
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Tap Wear",
+    "summary": "Exhilarating reaction game for Android Wear. Tap balls as quickly as you can.",
+    "icon": "//lh4.ggpht.com/nXFXvT7DGiI9Jq3jaD7WEM20Cv0RMo5xjUX0-Cn3XpTfoji8DQ34u6mlr3_UGF1Fvfw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 0,
+    "reviews": 0,
+    "developer": "ArchiusComus",
+    "developerId": "4677294656237460160",
+    "developerEmail": "info@archiuscomus.com",
+    "developerWebsite": "http://www.archiuscomus.com",
+    "developerAddress": "Hämeentie 94 B 36\n00550 Helsinki\nFinland",
+    "updated": "April 19, 2015",
+    "version": "1.0.2",
+    "genre": "Casual",
+    "genreId": "GAME_CASUAL",
+    "description": "Exhilarating reaction game designed for Android Wear device. The game can also be played without a wear device. Tap the balls as quickly as you can. Estimate timelapse and tap the ball just in time.Play all three game modes available in this release:1) Tap only red balls and do it as quickly as you can. Tapping a wrong color ball ends the game.2) Tap all the balls in right order. The quicker you tap the balls the more points you will get.3) Tap a green ball to start counting time and tap red ball to stop counting when exactly right time has elapsed.Enjoy your Wear watch and show off to your friends and colleagues!",
+    "descriptionHTML": "Exhilarating reaction game designed for Android Wear device. The game can also be played without a wear device. Tap the balls as quickly as you can. Estimate timelapse and tap the ball just in time.<br><br>Play all three game modes available in this release:<br><br>1) Tap only red balls and do it as quickly as you can. Tapping a wrong color ball ends the game.<br>2) Tap all the balls in right order. The quicker you tap the balls the more points you will get.<br>3) Tap a green ball to start counting time and tap red ball to stop counting when exactly right time has elapsed.<br><br>Enjoy your Wear watch and show off to your friends and colleagues!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NGXZ4DMEPstLUiDFbrRqkKMg24fiC4_AQ7axQi4ustmqzbNuvHR_kkPzWEepQQfk8tA=h310",
+        "//lh3.googleusercontent.com/6fMQZsMPBFhRD8e-r5NO8lY6GuXbk01DA7sjQEkMCce-0XKUPBdh5EM1G-ZCU4nNDfA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "IAB fix."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.archiuscomus.tapintime&hl=en&gl=us",
+    "appId": "com.archiuscomus.tapintime"
+}

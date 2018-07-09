@@ -1,0 +1,50 @@
+{
+    "title": "Watch Face DAYSON",
+    "summary": "Watch Face for Android wear smart watch",
+    "icon": "//lh3.googleusercontent.com/8sBN55RyVDhpTdj99FxnptvqqosoaBgJJ6T1-9LA5S7fHccIpfr8eKp_uJcxRD7hRWIz=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 8,
+    "developer": "Hyper-Q Software",
+    "developerId": "Hyper-Q+Software",
+    "developerEmail": "android@hyperq.com",
+    "developerAddress": "Hyper-Q Software\nCH-8309 Nürensdorf\nSwitzerland",
+    "updated": "November 28, 2017",
+    "version": "1.19",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch Face DAYSONInteractive Watch Face for Android wear smart watchFeatures:★ Custom Ambient Mode brightness  Settings:Ambient Mode Brightness *  You can change watchface brightness for Ambient mode.  You can change ambient hour mark color.★ Choose time to go in Ambientmode★ Date indicator★ Day indicator★ Battery level indicator★ Hourly Vibrate★ LCD and AmoLED screen (burn-in protection compatible)Compatible with:★ LG G Watch★ LG G Watch R★ LG Watch Urbane★ Moto 360★ Huawai★ Sony Smartwatch 3, und viele weiter Android smart watches.* Tap the watchface icon on your PHONE to setup.After install the watch face will be available in the Android Wear app.Touch the watch face to select it and a small wheel will apear on top of the watch face. Touch it again and the configuration app will start. If it not showing on the watch run Resync app option in Android Wear appInstallationIt will be installed on your watch automatically from your phone paired with your watch after a short time and please wait. (may take a few minutes)After installation,you can choose the watch face from the setting menu.Or just long tap on the current watch face screen,so watch face selector screen will open.",
+    "descriptionHTML": "Watch Face DAYSON<br><br>Interactive Watch Face for Android wear smart watch<br><br><b>Features:</b><br><br>&#x2605; Custom Ambient Mode brightness<br>  Settings:Ambient Mode Brightness *<br>  You can change watchface brightness for Ambient mode.<br>  You can change ambient hour mark color.<br><br>&#x2605; Choose time to go in Ambientmode<br>&#x2605; Date indicator<br>&#x2605; Day indicator<br>&#x2605; Battery level indicator<br>&#x2605; Hourly Vibrate<br>&#x2605; LCD and AmoLED screen (burn-in protection compatible)<br><br>Compatible with:<br>&#x2605; LG G Watch<br>&#x2605; LG G Watch R<br>&#x2605; LG Watch Urbane<br>&#x2605; Moto 360<br>&#x2605; Huawai<br>&#x2605; Sony Smartwatch 3, und viele weiter Android smart watches.<br><br>* Tap the watchface icon on your PHONE to setup.<br><br>After install the watch face will be available in the Android Wear app.<br>Touch the watch face to select it and a small wheel will apear on top of the watch face. <br>Touch it again and the configuration app will start. <br>If it not showing on the watch run Resync app option in Android Wear app<br><br><b>Installation</b><br>It will be installed on your watch automatically from your phone paired with your watch after a short time and please wait. (may take a few minutes)<br>After installation,you can choose the watch face from the setting menu.<br>Or just long tap on the current watch face screen,so watch face selector screen will open.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/aGbszzn1esDOO4dJulkQzIx9oYmT8cEzBz7KpFvXlxg1navEk4-PFkcrkgP_VSujKNk=h310",
+        "//lh3.googleusercontent.com/rIX0hMA_0zij9Ltx-HHFVtY9jv76ky-2NwIN8-mHDP2_LVljp4UbWH1gxwP4L7QLjHI=h310",
+        "//lh3.googleusercontent.com/6Z8lUvxdttnghVHQsclELf7blAd342bcHhlGnTe7YTQRGGXCdsXwBFATYpq9msVLGUwU=h310",
+        "//lh3.googleusercontent.com/XUgJWlK3vriGoHWAnI0qxEHUabzpRQu4ePKjDNd1K3vjCAXlf0_HhGeQ0V3rGs9iWS1I=h310",
+        "//lh3.googleusercontent.com/7tCzPVdwg3XugiC4bbY8AJdum6TIo60spd5MLLKk4j6Q3s89RzHGGyxiiCnXXgHctw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "<b>NEW in version 1.19</b>",
+        "- New API",
+        "<b>NEW in version 1.02</b>",
+        "- NOW support for Round and Square watches."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.hyperq.com.wosit&hl=en&gl=us",
+    "appId": "com.hyperq.com.wosit"
+}

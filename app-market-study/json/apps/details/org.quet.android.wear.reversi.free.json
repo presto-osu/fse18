@@ -1,0 +1,56 @@
+{
+    "title": "Reversi for Wear",
+    "summary": "Reversi, the classic strategy board game at your wrist.",
+    "icon": "//lh3.ggpht.com/vV8ZnGKPAsnlkPxuAivOwtPbxWl2cby4QBklUCH3s9F_uvpIgnj_NHH_QSOBwdyi=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.3,
+    "reviews": 549,
+    "developer": "AQ",
+    "developerId": "AQ",
+    "developerEmail": "wear@quet.org",
+    "developerAddress": "Aladin Quet\n3BIS rue Henri Barbusse\n30000 Nîmes - France",
+    "updated": "November 10, 2014",
+    "version": "1.0.1",
+    "genre": "Board",
+    "genreId": "GAME_BOARD",
+    "description": "The classic strategy board game for Wear.  Square and round screens are supported.    FEATURES• One player (human vs CPU)• Two players (human vs human)• Zero player (CPU vs CPU)• Grid sizes (4x4, 6x6 and 8x8)• Variable difficulty• Naive AI (negascout)  HOW TO USE IT• At start, swipe to the right to select the desired mode (one player, two players, etc.)• In game, swipe up to view the score. Swipe up again to restart or select another mode• Simple tap to drop a disc• Double tap to zoom the board• Long press the screen to quit",
+    "descriptionHTML": "The classic strategy board game for Wear.<br>  <br>Square and round screens are supported.<br>    <br><b>FEATURES</b><br>&#x2022; One player (human vs CPU)<br>&#x2022; Two players (human vs human)<br>&#x2022; Zero player (CPU vs CPU)<br>&#x2022; Grid sizes (4x4, 6x6 and 8x8)<br>&#x2022; Variable difficulty<br>&#x2022; Naive AI (negascout)<br>  <br><b>HOW TO USE IT</b><br>&#x2022; At start, swipe to the right to select the desired mode (one player, two players, etc.)<br>&#x2022; In game, swipe up to view the score. Swipe up again to restart or select another mode<br>&#x2022; Simple tap to drop a disc<br>&#x2022; Double tap to zoom the board<br>&#x2022; Long press the screen to quit",
+    "histogram": {
+        "1": 115,
+        "2": 51,
+        "3": 98,
+        "4": 105,
+        "5": 180
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/zJFS0ToSk78Ei3GiSicHkEY8R675skMDPWZK2OWOLaB0qz-KzFtcXbJpi8MuYrGxFA1j=h310",
+        "//lh3.ggpht.com/I4sqVAveBvUeAq03eON5ahr_YG10tAG27tlHJMt2OvejClRYUaS1hUF9zoQHlwGeE-Q=h310",
+        "//lh6.ggpht.com/19XuNXWP2odmTXTdnzt_6pTl7s6DxJGjVqAdBvPAuFov5QmoxS7h5d9kLiw91JwG4jE=h310",
+        "//lh4.ggpht.com/EDuLs_ZnSa0OWihwyyonmCAGLxFqtBr2WrmvYHdesu_qKhDMQ2QDmY0qdBQnbQPyGgW2=h310",
+        "//lh4.ggpht.com/PyCDqkcp3M6viYRhsIGSZriz27oB8vpenwfV9Gb5LCS3ccAWfCXGIuOvVwaBpoS_cXw=h310",
+        "//lh6.ggpht.com/d-r72gfykCyHTo4ZjCiqOuO4mKPFQ_ryVCO1eTAcF-0Ku0ZOP8nTEJAgOttDoS1T-y4=h310",
+        "//lh5.ggpht.com/J5I8M1Rr5lqHmAy7GMP_DI0oXIZ8bCmQLnvSX1p2DRbwvm9xJujfOAc4QF7n9IEPKl99=h310"
+    ],
+    "comments": [
+        "Only Few! This game is one of the only few I personally enjoy and is Google Recommend. I can play this game for hours on end trying to test my self to next levels of difficulty. I do realize there has been complaints about it being to hard to play or not being \"smooth\" That is just my Moto 360 on how small it is. It does run smooth though. This app is a fun app, AQ. Please consider making more games for Android Wear",
+        "It's fun, but too hard to play on small screen On Moto 360, bottom row of board is cut off, but computer can still place pieces there. The pieces on the bottom are fully visible. So it seems the board is not scalled correctly for the 8x8 board. Double tap to zoom in mostly works. Cool this works on the watch but would rather play on my Note 3. ;-)",
+        "Gameplay is great, however it seems to run as a layer over the watch face, which I have shortcuts on. So trying to play the game is triggering the shortcuts instead of laying a game piece. Of course if I switch to a watchface without shortcuts it's fine. Will update review if this can be fixed to play without switching my watchface.",
+        "Like the Game Great work! Looks and runs pretty nice on my square LG watch screen. Not sure what it'd be like on a round one though. But I'm not sure if this app is causing android wear to crash or not. Been seeing that problem lately. And from time to time, I notice this app is up and running. A potential problem because it keeps the watch awake. Also when it does, it has a mostly filled in screen somehow. But I foo like it.",
+        "Too hard to play on moto 360 Selecting options is hard ...  especially setting difficulty doesn't seem to work properly. Once playing, double tap to zoom is unreliable, and it is easy to tap the wrong spot with no undo.",
+        "Moto360 Last row is cutted. Items are too small. Screen sometimes may be switched off, when I'm thinking. Seekbar doesn't work at all."
+    ],
+    "recentChanges": [
+        "Crash fix."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.quet.android.wear.reversi.free&hl=en&gl=us",
+    "appId": "org.quet.android.wear.reversi.free"
+}

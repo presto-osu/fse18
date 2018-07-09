@@ -1,0 +1,47 @@
+{
+    "title": "Draw for Android Wear",
+    "summary": "Drawing app for Android Wear. Draw on your Android Wear smartwatch.",
+    "icon": "//lh3.googleusercontent.com/91f5ld606jBL0VyISwCnr22O6aw1SpquPIWX6Tdi3kUEgHQ3--iKKxk1-i3vEDaufiZx=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.2,
+    "reviews": 4,
+    "developer": "Steven LaFever",
+    "developerId": "6269517569750560530",
+    "developerEmail": "slafest@gmail.com",
+    "updated": "March 25, 2016",
+    "version": "1.4",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Made for Android Wear smart watches.  Allows you to draw on your Android Wear Device. Save button allows you to save your own masterpieces.  Android Wear option has 7 colors and 5 brush sizes.",
+    "descriptionHTML": "Made for Android Wear smart watches.  Allows you to draw on your Android Wear Device. Save button allows you to save your own masterpieces.  Android Wear option has 7 colors and 5 brush sizes.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ItMynaxgL9qmPE1JRm6QqTVVgksJAe94_FZLw7iFyU-0N4KpasFjYl1k1ds0DzTCKnY=h310",
+        "//lh3.googleusercontent.com/NeguODmqU4WIHg2HYlialolfH31_8D6b800sQg5XW4oLoRVhykdZofJyuOkwU8NDk2g=h310",
+        "//lh3.googleusercontent.com/HbOKriAWqhlTO5Ak2lRQ5hylTWs_e_EJeTGGo3_NQe_I9c2EkBqMbMoarqEn0w9jPOU=h310"
+    ],
+    "comments": [
+        "Not saving It doesnt save it on my gallery, phone sony z1 android 5",
+        "Oky Works Oky on my Asus zen watch 2"
+    ],
+    "recentChanges": [
+        "This application fixes the problem that the app would try to close when drawing left to right."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.stlwebdevelopment.stldrawing&hl=en&gl=us",
+    "appId": "com.stlwebdevelopment.stldrawing"
+}

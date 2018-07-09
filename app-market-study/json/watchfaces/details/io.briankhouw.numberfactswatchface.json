@@ -1,0 +1,56 @@
+{
+    "title": "Number Facts Watch Face",
+    "summary": "Number Facts displays interesting facts that are linked with the current minute.",
+    "icon": "//lh3.googleusercontent.com/UB9LZqi8gMHAbOJhd-T25qVkrD0Jdq8qXspJDJ69kRrc7lsmSSajqxCos-pm8OvObg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.7,
+    "reviews": 26,
+    "developer": "K&J",
+    "developerId": "K%26J",
+    "developerEmail": "briankhouw@gmail.com",
+    "developerAddress": "Rijswijkseplein 621\n2516LV\nDen Haag",
+    "updated": "January 9, 2016",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Number Facts is a watch face that can be used on Android Wear devices. It shows facts that are linked with the number of the current minute. This makes glancing at your watch a much more interesting experience. Did you know that 40 is the highest number ever counted on Sesame Street? Or that 23 is the number of times Julius Caesar was stabbed? Or that 29 is the number of years Saturn requires to orbit the Sun? Watch out and you might learn something new!• 180 Interesting Facts• 12 or 24 Hour Mode• Battery Indicator (On/Off)• Ambient Mode",
+    "descriptionHTML": "Number Facts is a watch face that can be used on Android Wear devices. It shows facts that are linked with the number of the current minute. This makes glancing at your watch a much more interesting experience. Did you know that 40 is the highest number ever counted on Sesame Street? Or that 23 is the number of times Julius Caesar was stabbed? Or that 29 is the number of years Saturn requires to orbit the Sun? Watch out and you might learn something new!<br><br>&#x2022; 180 Interesting Facts<br>&#x2022; 12 or 24 Hour Mode<br>&#x2022; Battery Indicator (On/Off)<br>&#x2022; Ambient Mode",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 7,
+        "5": 18
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/X-wLoEcLqc4Ie8jSqWKPPIF4GueZUWNsDoqk9kprSPW9xsDcysual-p1JAxR4jOl8sEt=h310",
+        "//lh3.googleusercontent.com/zb29u8TxfAyAmb2pDCEdXo-qsEcEPYOC1eQBd662mMvzromg2p9Iy7BiYOPy4AYEl3A=h310",
+        "//lh3.googleusercontent.com/MeImanXdonUkTZx2h2qG1Y2GQC9uJzquLIGr3IiRi5Qr4rV7JEbyG9wPWwk9UcIr5A=h310",
+        "//lh3.googleusercontent.com/q5IJk5CvA6HYJIghMhoGeG2Djw8YaOl_nQNCABiT5ZlT8nJCDZg5c4_9J0ywd3ID9h0=h310",
+        "//lh3.googleusercontent.com/a8v_ct1_9zjw9lcX7am371SagySU65l4hZ3mktplhkIdf7NW0GvXUclj05ntUxCL9kA=h310",
+        "//lh3.googleusercontent.com/dE9u94-hrfmHX5_4On01v4tQFHoPBm2hIvBvct4WaOAJBrE1QyaS01rroqg9AnajfA=h310"
+    ],
+    "comments": [
+        "It's a cool concept It only took a few days to get bored of it, as in the facts kept repeating. Some of the facts are pretty cheap too, example: \"1 is the number of moons around earth.\" C'mon, really? That's not paid app worthy... It could be something more fun like \"1 is the record number of minutes someone solved a 100 piece jigsaw puzzle\" or something... You can do better :-)",
+        "Cool watch face. Probably will take some days before I read them all since I don't look at my watch every minute. But, the screen of my watch doesn't stay on long enough sometimes to read the fact, if it could be increased or configured, it would be perfect.",
+        "Fun and cheap watch face. I've been using it for a day, and because I keep my display always on, and the watchface changes every minute, I was afraid it would burn through the battery. This was not the case at all.   One criticism I have is that on a flat tire screen like the Moto 360, some of the last words on longer pieces of trivia can get clipped. I wonder if this could be fixed by allowing us to change font size, or by shifting up the text.  In general it would be nice if the face was a little more customizeable. As of now, the two things that you can configure are (1) 12 vs 24 hr display, and (2) including the watch battery by the date.  Otherwise, this is a pretty cool and different watch face. I hope that the dev's keep adding more trivia and keep up their good work.",
+        "A watch face you can learn from I have been using this watch face since a closed beta and absolutely love it on my G Watch R.  The trivia facts can spark conversation with friends and colleagues and I feel like I am learning more than just the time each time I look down at my watch.  It is helping my smart watch make me smarter.",
+        "Great watch face! Easy to read, entertaining facts ... I find myself looking forward to the minute change to see the next one.",
+        "Great Idea I'm not normally a fan of non-analogue watches, but this is a really fun idea. Great watch face with a ton of interesting bits of information."
+    ],
+    "recentChanges": [
+        "Added padding and modified facts.",
+        "Fixed bug."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=io.briankhouw.numberfactswatchface&hl=en&gl=us",
+    "appId": "io.briankhouw.numberfactswatchface"
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Specialized Bikes Watch Face",
+    "summary": "Sprinting up hills? This watch face will tell you if conditions are good to ride",
+    "icon": "//lh4.ggpht.com/If3bb42mYrbajWc-froE6pAQgPF2B0eWNqZSeMmu3XNgtcstq3HmcYxszsQ6WOGNe37k=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.7,
+    "reviews": 1405,
+    "developer": "Specialized",
+    "developerId": "Specialized",
+    "developerEmail": "greg.dolder@specialized.com",
+    "developerWebsite": "http://www.specialized.com",
+    "developerAddress": "15130 Concord Cir\nMorgan Hill, CA 95037",
+    "updated": "January 25, 2015",
+    "version": "1.0.1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Whether you’re planning to tear up some trails or sprint down some tarmac, the Specialized Watch Face is the perfect way to customize Android Wear to your style. With this watch face you’ll be able to:• Read time on the move-we’ve optimized the text for display across a wide mode of functions• Know if now is a good time to ride by seeing what the weather conditions are around you now• Plan out your rides for the day by seeing precipitation and its intensity throughout the day and times for sunrise and sunsetNote: You can change between Imperial or Metric units by launching the Android Wear app on your connected phone/tablet, tapping the settings icon shown over the top of the Specialized Bikes Watch Face preview image, and changing the Units setting.Note: This watch face will not appear in the watch face picker until your wearable device is upgraded to Android 5.0 Lollipop",
+    "descriptionHTML": "Whether you&#x2019;re planning to tear up some trails or sprint down some tarmac, the Specialized Watch Face is the perfect way to customize Android Wear to your style.<br> <br>With this watch face you&#x2019;ll be able to:<br>&#x2022; Read time on the move-we&#x2019;ve optimized the text for display across a wide mode of functions<br>&#x2022; Know if now is a good time to ride by seeing what the weather conditions are around you now<br>&#x2022; Plan out your rides for the day by seeing precipitation and its intensity throughout the day and times for sunrise and sunset<br><br>Note: You can change between Imperial or Metric units by launching the Android Wear app on your connected phone/tablet, tapping the settings icon shown over the top of the Specialized Bikes Watch Face preview image, and changing the Units setting.<br><br>Note: This watch face will not appear in the watch face picker until your wearable device is upgraded to Android 5.0 Lollipop",
+    "histogram": {
+        "1": 168,
+        "2": 146,
+        "3": 208,
+        "4": 354,
+        "5": 529
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/VWcZZoBp7lPxRz1G3aD6dslh6puEoMmjsC0Of_-hY285KpWaTuz7ux2ya7IWCri3Kls=h310",
+        "//lh4.ggpht.com/TEvcP7jcN4WHfIStDzYfdbAQwRqpR4cEXv_hs9Vs9xMvwHpYSnJp1bmBbhie59WluTCS=h310",
+        "//lh4.ggpht.com/B4KcpTYBIKCi9qtOy6IsTtoUDjrc-erY3rHkJBcc58YNxHuHGrvI5xto2mhHvTmQdww0=h310",
+        "//lh5.ggpht.com/rF_oRoW6WCw_o5oFtGAxh4lWJgWSPEQVgx8Fh-xCvsn0DK3FsB2Hn-oFxtW_jNyYi9E=h310",
+        "//lh4.ggpht.com/3C7mlLJhedJZWNPlgCwjwIU3O3efoBiKlgi01r69vMlkdkqF6QyyJzh8sVYrQ2lZZupQ=h310",
+        "//lh6.ggpht.com/pf_U1otCtllsWy-9mcdZvDe_oMLANCZsZoUC1GX2nsUYINcXm_8MxMWNW9UKKO16Xwyx=h310"
+    ],
+    "comments": [
+        "Nice but... This is a really handy watch face. My only problem with it is aesthetics. The square layout is lacking. I wish it looked better on my ZenWatch screen. Surely that empty space at the bottom can be used for something.  Put the date under the time and push the temp and wind direction to the bottom. It would balance out the watch face.",
+        "Always easy to read .. in any light, with or without sunglasses, even when dimmed - by far the easiest face to read over seen so far. Is also the only watch face with useful and readable weather info, particularly the rain graph. 4* for two reasons: no date and sometimes the rain graph goes weird",
+        "Best watch face for Sony SmartWatch 3 I just keep coming back to this watch face.  It shows all the right details and works well in ambient mode.  Notifications \"push\" the text of the face up so everything is still visible.  It's really the little things that make this face great.",
+        "Pretty good This is the first alternative watch face that I've stuck with. In a complete sucker for the sunrise/sunset times! Very helpful that they added °C in a recent update – the only thing missing now is date display.",
+        "Really like it but has major battery drain issues I never ran out of battery in a single day, now sometimes my battery is dead in half a day. Drained 40% of battery today! Going to have to stop using soon if battery drain is not addressed. 100% to 0% today in 8 hours due to this watch face.",
+        "Great watch face! Add a step counter and the date and it will have everything I want (and get 5 stars).  The weather does not seem very accurate and/or seems slow to update."
+    ],
+    "recentChanges": [
+        "Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.specialized.watchface&hl=en&gl=us",
+    "appId": "com.specialized.watchface"
+}

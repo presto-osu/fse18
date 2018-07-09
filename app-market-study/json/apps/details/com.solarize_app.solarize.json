@@ -1,0 +1,56 @@
+{
+    "title": "Solarize: Sun Tanning Timer",
+    "summary": "This free and simple tanning timer app will help you prevent sunburn.",
+    "icon": "//lh3.googleusercontent.com/PiPW1Fd0XbCeCfi1ritzFz40nzUMiEY7SshAIhZLr5VhM3994ROVls9VrJuJCtBGZQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.6,
+    "reviews": 41,
+    "developer": "Tabero",
+    "developerId": "Tabero",
+    "developerEmail": "info@tabero.it",
+    "developerWebsite": "https://www.facebook.com/app.solarize",
+    "updated": "April 2, 2015",
+    "version": "1.1.2",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "This free and simple timer app will help you prevent sunburn. For use when sunbathing or simply when out and about in the sun.Simply select your skin type from the official skin-type scale (Fitzpatrick scale) and the SPF (Sun Protection Factor) of your sun lotion, then hit the Start button. Solarize will begin the countdown, and the automatic alarm will then go off when the recommended tanning time is reached. If you’re going to take a break to dip in the water or grab a snack, you can just hit the Pause button first.The app will alert you even if you exit the app or have music playing.Completely free of Ads!Attention, please note: * The given tanning time is purely indicative, in case of doubt please ask your doctor!* The recommended time is only valid for one use per day. For multiple applications a day tanning time should be shortened!* Tanning times should be shortened on heights and on days with a high UV index.* Do not tan if sunburned!* Do not use for children!* Never tan without proper sunprotection!* People with light, sensitive skin or with a large number of moles need to be extra careful.* A sun block should be used even in the shadow.* It is advised to reapply your suncreams after bathing.",
+    "descriptionHTML": "This free and simple timer app will help you prevent sunburn. For use when sunbathing or simply when out and about in the sun.<br>Simply select your skin type from the official skin-type scale (Fitzpatrick scale) and the SPF (Sun Protection Factor) of your sun lotion, then hit the Start button. Solarize will begin the countdown, and the automatic alarm will then go off when the recommended tanning time is reached. If you&#x2019;re going to take a break to dip in the water or grab a snack, you can just hit the Pause button first.<br>The app will alert you even if you exit the app or have music playing.<br><br>Completely free of Ads!<br><br>Attention, please note: <br>* The given tanning time is purely indicative, in case of doubt please ask your doctor!<br>* The recommended time is only valid for one use per day. For multiple applications a day tanning time should be shortened!<br>* Tanning times should be shortened on heights and on days with a high UV index.<br>* Do not tan if sunburned!<br>* Do not use for children!<br>* Never tan without proper sunprotection!<br>* People with light, sensitive skin or with a large number of moles need to be extra careful.<br>* A sun block should be used even in the shadow.<br>* It is advised to reapply your suncreams after bathing.",
+    "histogram": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 3,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Cc9ivqH6LfF8jt1diI34FmURXgU8KMCLmI4ia1khL3klKkRGN9we9t2FsgKiQiQdQ4Ma=h310",
+        "//lh3.googleusercontent.com/0qv_UxZusZNfWew-sjpDzfI-xObUcMk2aYoqQ5H2UqCO7PS1aEk1N8GpgNGciUFZm_v3=h310",
+        "//lh3.googleusercontent.com/evlBl8RNuKE08YXvXT4rBP_KbO4l9J90T4LEBlcWyDIZs4FRdAcWrwdMzplgDRsNWg=h310",
+        "//lh3.googleusercontent.com/KpEB97UXrmPvACjLAlwhZ8cBWbGIJEKVrY9QAjm_Tf914axzyqLZyXpYsAGLRqTdul0=h310",
+        "//lh3.googleusercontent.com/XIDHqWMh1Xpge1l-MnbgYmsoockJHGlBT6g_OPn8yaecL-kTB4JCrGargZiKyawxng=h310",
+        "//lh3.googleusercontent.com/620kzduB6dWtDiTSX1ztgl4DqlzKg7sfNAhD5AkvC7_i31-pK3X0Gjhp5OKfqDw4d0Nr=h310",
+        "//lh3.googleusercontent.com/qGbAH2S8zcZFGbhOt2ZkzODnSqZS5YreOyipFraaC6nQkgZXZvuW0QlYjOTvd49nzIzi=h310",
+        "//lh3.googleusercontent.com/vi1xhf1mqLCX5xBRwyXRGiyghrTQ1sSBx77o8ct7QRAEm-HnhqEHO8Px3-4J7NZk0zk=h310",
+        "//lh3.googleusercontent.com/w7-Sc7Vql_e3CvfB3vc4LZeu3uv9x7Y1UZ22vgz5VWuhnXGHB1CRaiJjVlOxgsW5LQ=h310"
+    ],
+    "comments": [
+        "Pointless Just google the amount of time you should spend sunbathing before replenishing and set your own alarm. It would be better if it knew what temperature it was. Also if it sounded the alarm for turning over and then for replenishing.",
+        "Below expectations It would be easy to use location and weather information api to make this a good app. Now it is garbage",
+        "Great app"
+    ],
+    "recentChanges": [
+        "Bugfixing",
+        "Wearable Support Improved"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.solarize_app.solarize&hl=en&gl=us",
+    "appId": "com.solarize_app.solarize"
+}

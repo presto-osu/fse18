@@ -1,0 +1,62 @@
+{
+    "title": "Dash Mobile",
+    "summary": "Technology that Travels with You",
+    "icon": "//lh3.googleusercontent.com/yq75XwvW9NRO_kkmMMbTaHhvMRnws4Eg9nYb3UTTrYmjVzSkNWt-aMNyMySCMIXW_w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 83,
+    "developer": "Travel and Transport",
+    "developerId": "Travel+and+Transport",
+    "developerEmail": "dash@tandt.com",
+    "developerWebsite": "https://travelandtransport.com",
+    "developerAddress": "Travel and Transport\n2120 South 72nd Street, Suite 300\nOmaha, NE 68124",
+    "updated": "December 20, 2017",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Designed specifically for Travel and Transport’s corporate travelers, this proprietary mobile app empowers travelers with the important travel information they need, without the hassle or privacy concern of sending itinerary information to a third party.When travel plans change, Dash Mobile keeps travelers up-to-date with gate departure information as well as important travel and security alerts. Skip the long lines at the airline counter by utilizing the touch-to-call application that connects travelers with an experienced Travel and Transport travel counselor who has their specific travel information and is ready to assist 24/7.",
+    "descriptionHTML": "Designed specifically for Travel and Transport&#x2019;s corporate travelers, this proprietary mobile app empowers travelers with the important travel information they need, without the hassle or privacy concern of sending itinerary information to a third party.<br><br>When travel plans change, Dash Mobile keeps travelers up-to-date with gate departure information as well as important travel and security alerts. Skip the long lines at the airline counter by utilizing the touch-to-call application that connects travelers with an experienced Travel and Transport travel counselor who has their specific travel information and is ready to assist 24/7.",
+    "histogram": {
+        "1": 6,
+        "2": 3,
+        "3": 10,
+        "4": 27,
+        "5": 37
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JWxks4yoZsn6mPfbgMlee5erWt2czoYJgzD_LMOBeksrkN83GdxHlufc9N23SK75fh5D=h310",
+        "//lh3.googleusercontent.com/aA4EP_r9AtKhE7Ki-lp26j61t2_mrFu9Q7I6P30Du3hwE4O7X7xJaswKOBpM_fnK68M=h310",
+        "//lh3.googleusercontent.com/OLooQfjNPMmdJ1xhrSUIGW7Myt5c-1xO0yj6hPKPxJTjIQ8STrnnWRjE5mmQpJ2BZt4=h310",
+        "//lh3.googleusercontent.com/mzYsMwqVBy7hB4b2ZiACv9PZeT1KHyQRDEszWbw3miQmq0YsjhdcAlYiFwNgx6am2t16=h310",
+        "//lh3.googleusercontent.com/9szYVqCP8ZMnhjoek29wDJYSd85SW0Uy7A9yyhQ42QZgFjmDgdJlKhCTrHgqIemJmg=h310",
+        "//lh3.googleusercontent.com/Mzeyn8aq5DsfjRuS-j-_gR2gSbdasfcQU3_XHjRawfY_eH9xzTF7xcwewAMLscr-gLXZ=h310",
+        "//lh3.googleusercontent.com/sgpaxI6sBX6J50Wa_nKETu4HKdprrBGu62tMUwcZKcydYcV7ppUY1uSnjfUKPPRpKiU=h310",
+        "//lh3.googleusercontent.com/bl1FiMyffSUJLpZar-Qz5IMXZfiv97y_Ccy8o8f3b1l2Q0z0P4M4SyTHASBe5oKuJRZy=h310",
+        "//lh3.googleusercontent.com/2zVK7fSik-BHIHajWJNJZDHZEnrOtp2NwdFBbC9f10w66ZvWsy60mkj9iF1ijht-Lrc=h310",
+        "//lh3.googleusercontent.com/ICMzyJs7OlsNeN5rGzEQgZx_dNSuCotq3MlWv6AzGjxEqcz8_h1Jd9hiGhsJhsJ-09zt=h310",
+        "//lh3.googleusercontent.com/1onxU0NBQGtBWE3fdZiEwo7jDgD5m3kBOv0KhDjwsjfgsO8jyMEo2FWd7A3QYP_kbg=h310",
+        "//lh3.googleusercontent.com/g4Q02kWgMjowu-OPoeK3hHrSYEoH89IIkh8U4g2ekR1zhjJkASNqRtJBkKspyLkvfnPo=h310",
+        "//lh3.googleusercontent.com/E3txS_YwPSzteTIl43gF7D3PcADNmGDQC102LhNOwkE6WaGX830VeL46IagSoHQFQJlx=h310"
+    ],
+    "comments": [
+        "After having to register an account it never recognize s the credentials even after multiple reset attempts. Useless.",
+        "Loaded with great features. This app is flawless. Best thing available for business travel.",
+        "Good But track flight changes a little better with times instead of saying just a delay.",
+        "Trip at a glance Great for reviewing travel itineraries. All the important information in one place.",
+        "Great Resource Love that I have reservation information at my fingertips.",
+        "Great app for travel Love how it keeps me informed with changes in the schedule...."
+    ],
+    "recentChanges": [
+        "We want to make sure you have the best experience when traveling with Dash Mobile. This version includes fixes and improvements."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tandt.dash&hl=en&gl=us",
+    "appId": "com.tandt.dash"
+}

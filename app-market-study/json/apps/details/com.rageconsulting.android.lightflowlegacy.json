@@ -1,0 +1,59 @@
+{
+    "title": "Light Flow Legacy :Led Control",
+    "summary": "Best version for Samsung android 6 phones. Total LED control,sound and much more",
+    "icon": "//lh3.googleusercontent.com/K5fixWmwZotTPw-V_V2aoTwKgTaSvUqGLWF_3kMYUn4T6884IHpWr3BdNdPLYSxK-nc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.4,
+    "reviews": 1622,
+    "developer": "Reactle",
+    "developerId": "5785799054713621518",
+    "developerEmail": "support@reactle.com",
+    "developerWebsite": "http://www.reactle.com",
+    "developerAddress": "First Floor,\nTelecom House,\n125-135 Preston Road,\nBrighton,\nEngland,\nBN1 6AF",
+    "updated": "February 28, 2018",
+    "version": "3.75.00",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This version of Light Flow is for Android 6.0 users who do not wish to have a persistent notification icon.It has the same features as the standard version of Light Flow minus the following: - Android 6.0 Run-time permissions - Camera flash control - Alarm only mode notificationIf you have the standard full version installed this app will give you the features of the full version.If you don't have the full version installed, it will give you the features of the lite version.See the reason for the existence of this version here: http://www.reactle.com/2015/11/android-6-persistent-notification-icon.htmlIf after disabling the full version you still have a persistent notification try going into your phone settings, apps, select \"light flow\" (ie not light flow legacy) and press \"force stop\"",
+    "descriptionHTML": "This version of Light Flow is for Android 6.0 users who do not wish to have a persistent notification icon.<br><br>It has the same features as the standard version of Light Flow minus the following:<br><br> - Android 6.0 Run-time permissions<br> - Camera flash control<br> - Alarm only mode notification<br><br>If you have the standard full version installed this app will give you the features of the full version.<br><br>If you don&apos;t have the full version installed, it will give you the features of the lite version.<br><br>See the reason for the existence of this version here: http://www.reactle.com/2015/11/android-6-persistent-notification-icon.html<br><br><br>If after disabling the full version you still have a persistent notification try going into your phone settings, apps, select &quot;light flow&quot; (ie not light flow legacy) and press &quot;force stop&quot;",
+    "histogram": {
+        "1": 367,
+        "2": 153,
+        "3": 183,
+        "4": 256,
+        "5": 663
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/4PpMIcUB2Oajjn2RdrhdyzUyugtDKLDM1q3RISBZrWxqOllTXiGuz6_EMv7rviFHOw=h310",
+        "//lh3.googleusercontent.com/9XV2uMUnp3fd6l7bjVVA01sMS1_mq1B10roQ1P-cvdamYyQTv6yjJtCl1EzQYn5L230=h310",
+        "//lh3.googleusercontent.com/NYeRIr3qOwoMg3gtZK4Z3hIJGntNXKadDnprjRDNZlbG97PsKdzi_H47uLWmdETbyuA=h310",
+        "//lh3.googleusercontent.com/fCamDMn_0y05cdTXwG6NqaEOlWTJEbubUTgdeMjEEZvvgn45XbKoRnge2CiIex-E12M4=h310",
+        "//lh3.googleusercontent.com/UXHU7z39e27KTNKsVaOfE3JjO-4480ztriu2LamIqoDWBeg6UwAecGIkb19rRSOHFks=h310"
+    ],
+    "comments": [
+        "Works great. Can finally have a different sound for a spesific app, so I can tell SMS and it apart...  Author very helpful (had bought wrong version, got free code to the correct one)",
+        "Some time ago it used to work well. Now it doesn't. No matter the color I choose, my notification light will always be red regardless of the app. And there are too many ads, Which is annoying, even for a free version. Disappointed, because it used to be one of my favorite apps for customization.",
+        "It works well for me but I do wonder about the sheer breadth of app permissions it requires for installation. It really doesn't make sense to me. It feels like it is filled with spyware to acquire info gleaned from them to sell to data analytics firms to me. Would not recommend if you value your privacy.",
+        "I have been using LightFlow for a long time. I have a Galaxy S6 and was having issues since the Android system update.  I Finally made the switch to LightFlow Legacy and no more problems. It works just like it did before the Android system updates. Best App I have on my phone.",
+        "It works but lacks son per app type notifications (ie direct messages from X user on discord). But for some reason it uses GPS on randomly for a long time at a time (over 1m) which it has no reason to even use it!",
+        "Works surprisingly well. For some reason, the regular version didn't work, but this did. It can't change the blinking speed on my phone (OnePlus 3T), but it worked for 3 different phones I've used in the past, and considering it's consistency, it's worth it."
+    ],
+    "recentChanges": [
+        "* Added new wifi notification type",
+        "* Fixed issue with sounds sometimes cutting off or stopping after a while",
+        "* Fixed issue where in the notification picker a sound wouldn't stop",
+        "* Other bug fixes",
+        "http://www.reactle.com/p/change-log.html"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rageconsulting.android.lightflowlegacy&hl=en&gl=us",
+    "appId": "com.rageconsulting.android.lightflowlegacy"
+}

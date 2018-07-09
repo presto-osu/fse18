@@ -1,0 +1,62 @@
+{
+    "title": "Delayed Lock",
+    "summary": "Delayed Lock - secure your device the comfortable way",
+    "icon": "//lh6.ggpht.com/1HAKT6D0yK6qQonxSRTyZmpjAo7qwoNvE-I8wknHRAe6WBLH5sWAuyVSXHk2dT4Q4eQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.1,
+    "reviews": 2920,
+    "developer": "j4velin",
+    "developerId": "6602470455848506235",
+    "developerEmail": "j4velin.development+play@gmail.com",
+    "developerWebsite": "http://www.j4velin.de",
+    "developerAddress": "Thomas Hoffmann\nSchwanhäußerstr. 5\n90408 Nürnberg",
+    "updated": "August 15, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "This is a 7 days trial version! License can be bought through an in-app purchase (1.99 EUR / 2.99 USD + tax).Not using any pattern-, PIN- or password lock is a huge security problem, but reentering your PIN code a hundred times a day to unlock your lockscreen can also be annoying.Delayed Lock is a solution to this problem: After unlocking your device, it will turn the secure lock screen off for a user defined amount of time or while you're connected to a certain WiFi network or Bluetooth device - just as the \"personal unlocking\" feature from the latest Android versions! You can turn your phone off and on as often as you want without entering your password/PIN/pattern again. After the defined delay time, it will automatically reactivate your lockscreen, so no stranger can unlock your device and access your private data.---------------Main Features:• Delayes the requirement to enter pattern/PIN/password again after succesfully unlocked once• No lockscreen while connected to certain WiFi network or Bluetooth devices• Time delay since \"Screen off\" or since \"Last unlock\"• Quickly re-enable the lock through the Android notification bar or a widget• Widgets & Shortcuts: Toggle Lock, Screen off, Screen off & Lock, Enable / Disable DelayedLock• Free plugins: Disable lockscreen while at certain locations or use the Tasker app to control the lockscreen• automatically wipe the device after several failed unlocks• Android Wear integration---------------General limitations:• does not work on Android 4.x if your Exchange policy requires a PIN, if you setup a VPN in the Android settings or if you have installed any custom certificates (might work if your device is rooted though)• pattern lock & FaceUnlock require root on Android 4.x• does not work on all devices, see section Device incompatibility• requires root on Android 4.x if full device encryption is enabled - might still not work with Samsung devices• please use the \"Uninstall\" option from within the app to uninstall it• only PIN & password lockscreens are currently supported on Android 6.0---------------Device incompatibility:• some HTC devices: Pattern lock might not work• Samsung devices with Android 4.4: User reported that after 3 days, the device does not accept the PIN/password any more. That seems to be an issue in the Samsung ROM, please update your system if possible•  might not work on some Samsung devices running Android 5.0.x•  Sony devices: Disable Stamina or at least whitelist the app there---------------Legal information:I do not guarantee that your device's data is unaccessible and will not be responsible for any damage you or your company may get because of an unlocked device. Please check if the usage of the app is compatible with the security policy of your company.---------------This app uses the Device Administrator permission. It is required to disable/enable the lockscreen PIN/password and for the feature to wipe the device after a set number of failed unlock attemps (if you enable that feature).Permissions:ACCESS_SUPERUSER - for pattern lock on Android 4.0+ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE & CHANGE_WIFI_STATE - to unlock when on WiFi networksBLUETOOTH & BLUETOOTH_ADMIN - to unlock when connected to Bluetooth devicesDISABLE_KEYGUARD - fallback method to disable the lockscreenREAD_EXTERNAL_STORAGE & WRITE_EXTERNAL_STORAGE - for custom widget iconsRECEIVE_BOOT_COMPLETED - to lock after bootVIBRATE - for the \"vibrate when locking\" featureWAKE_LOCK - for the \"Wake to lock\" featureWRITE_SECURE_SETTINGS - toggle pattern lock & usb debugging on some Android versionsWRITE_SETTINGS - necessary for \"screen off\" widget in some scenarios",
+    "descriptionHTML": "This is a <b>7 days trial version!</b> License can be bought through an in-app purchase (1.99 EUR / 2.99 USD + tax).<br><br>Not using any pattern-, PIN- or password lock is a huge security problem, but reentering your PIN code a hundred times a day to unlock your lockscreen can also be annoying.<br><i><b>Delayed Lock</b></i> is a solution to this problem: After unlocking your device, it will turn the secure lock screen off for a user defined amount of time or while you&apos;re connected to a certain WiFi network or Bluetooth device - just as the &quot;personal unlocking&quot; feature from the latest Android versions! You can turn your phone off and on as often as you want without entering your password/PIN/pattern again. After the defined delay time, it will automatically reactivate your lockscreen, so no stranger can unlock your device and access your private data.<br><br><br><br>---------------<br><b>Main Features:</b><br>&#x2022; Delayes the requirement to enter pattern/PIN/password again after succesfully unlocked once<br>&#x2022; No lockscreen while connected to certain WiFi network or Bluetooth devices<br>&#x2022; Time delay since &quot;Screen off&quot; or since &quot;Last unlock&quot;<br>&#x2022; Quickly re-enable the lock through the Android notification bar or a widget<br>&#x2022; Widgets &amp; Shortcuts: Toggle Lock, Screen off, Screen off &amp; Lock, Enable / Disable DelayedLock<br>&#x2022; Free plugins: Disable lockscreen while at certain locations or use the Tasker app to control the lockscreen<br>&#x2022; automatically wipe the device after several failed unlocks<br>&#x2022; Android Wear integration<br><br>---------------<br><b>General limitations:</b><br>&#x2022; does not work on Android 4.x if your Exchange policy requires a PIN, if you setup a VPN in the Android settings or if you have installed any custom certificates (might work if your device is rooted though)<br>&#x2022; pattern lock &amp; FaceUnlock require root on Android 4.x<br>&#x2022; does not work on all devices, see section <b>Device incompatibility</b><br>&#x2022; requires root on Android 4.x if full device encryption is enabled - might still not work with Samsung devices<br>&#x2022; please use the &quot;Uninstall&quot; option from within the app to uninstall it<br>&#x2022; only PIN &amp; password lockscreens are currently supported on Android 6.0<br><br>---------------<br><b>Device incompatibility:</b><br>&#x2022; some HTC devices: Pattern lock might not work<br>&#x2022; <b>Samsung devices with Android 4.4</b>: User reported that after 3 days, the device does not accept the PIN/password any more. That seems to be an issue in the Samsung ROM, please update your system if possible<br>&#x2022;  might not work on some <b>Samsung devices running Android 5.0.x</b><br>&#x2022;  Sony devices: Disable Stamina or at least whitelist the app there<br><br>---------------<br><b>Legal information:</b><br>I do not guarantee that your device&apos;s data is unaccessible and will not be responsible for any damage you or your company may get because of an unlocked device. Please check if the usage of the app is compatible with the security policy of your company.<br><br><br>---------------<br>This app uses the Device Administrator permission. It is required to disable/enable the lockscreen PIN/password and for the feature to wipe the device after a set number of failed unlock attemps (if you enable that feature).<br><br><b>Permissions:</b><br>ACCESS_SUPERUSER - for pattern lock on Android 4.0+<br>ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE &amp; CHANGE_WIFI_STATE - to unlock when on WiFi networks<br>BLUETOOTH &amp; BLUETOOTH_ADMIN - to unlock when connected to Bluetooth devices<br>DISABLE_KEYGUARD - fallback method to disable the lockscreen<br>READ_EXTERNAL_STORAGE &amp; WRITE_EXTERNAL_STORAGE - for custom widget icons<br>RECEIVE_BOOT_COMPLETED - to lock after boot<br>VIBRATE - for the &quot;vibrate when locking&quot; feature<br>WAKE_LOCK - for the &quot;Wake to lock&quot; feature<br>WRITE_SECURE_SETTINGS - toggle pattern lock &amp; usb debugging on some Android versions<br>WRITE_SETTINGS - necessary for &quot;screen off&quot; widget in some scenarios",
+    "histogram": {
+        "1": 347,
+        "2": 135,
+        "3": 235,
+        "4": 503,
+        "5": 1700
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/huniOuMyBJORe4NEZv6WyoBx3vLOxRxoeEgu7N0D_0SNDsjvKoOsDYp3Jw57v_8KkQI=h310",
+        "//lh3.ggpht.com/opG3YRJB42xN1ty3xCwqBwlxEICgPgEl5N6ZMuG7AGISjZyisETBZrAlW7ZV6OC4kLQb=h310",
+        "//lh4.ggpht.com/Wr5M8zEmYkQDHBBuaKa46Y-vP-Vims20VgD-xpSiOM6ntq26K1_jtwl1bjCTmZILSA4=h310",
+        "//lh6.ggpht.com/3RZscLrhzKSWGx6ChREE1vpcQ2IpjMp25lqvK4yNlP-PlUeEYacLFIEEmZUr6jAnczgK=h310",
+        "//lh4.ggpht.com/ZH9Zswv7fH7i5112AYLjpSQn0UX3bM65_4MPWhv64EOPXhoniazkmhmorxui79cxCg=h310",
+        "//lh6.ggpht.com/fEW4LgmmklxlaLDhU8p79yjcjlej3wy7EtqNfGZG1BzfrAtuZ1n7csLXzZhErtlDtg=h310",
+        "//lh6.ggpht.com/Zm-UIwyhCKv9Qor4--uiK7KB_RlO67ZlmAu2FdWSfs9JnsIS_oD8oNkIco1okJ8S_LU=h310",
+        "//lh6.ggpht.com/9Nb1UmNfiF4PL8HCecnk22LYV0tVh8PwGZ_47i8Ae2o_5cbbFV6bGNOwKIrd2Agl8XU=h310",
+        "//lh3.googleusercontent.com/XWLvj2W1AMa-xw-u9Ev284DNVXDoNyOqzksSTUzxjNGWoIXxNsJ4mAUMJKUjiifKkQ=h310",
+        "//lh3.googleusercontent.com/9cI_kZ9zxu5wIxYN9EguhpslJiVvbRAd6FE9IqIKThoGzklo8h9WdzloXzRHrkoXKp4=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Jeon2OygTdE",
+    "comments": [
+        "Updated Oct 2017: No longer works with my new Samsung Note 8. Will still leave 5 stars for those who can use the app.  Hope the developers can resolve issues that make it unusable on current phone.  Best, most useful application I've ever found. Amazing design with an impressive amount of very useful functionality. Paid for license since it's worth every penny!",
+        "YEA BABY! This works. I finally figured it out. Now if my wifi is near, or my BT keyboard, or Chromebook are near my phone does not lock after the first normal unlock. If I get in my car, after a block it vibrates and 'click' its LOCKED. This works way better than Android  SMART LOCK. I bought the license.",
+        "Used this on my phone and tablet, very happy with it. Unfortunately I can't use it on my Samsung a5 anymore. Extra annoying since the phone's built in \"smart lock\" doesn't work at all.",
+        "Just what I needed, allows me to choose how long the phone will remain unlocked after the screen dims out (or since the last unlock, you choose). Many other features also. Paid for license just 2 days into trial (liked that much).",
+        "It does what it says on the package; and it does it well! Moreover; as you poke around in the settings, you find lots of nifty features :-D",
+        "Essential app! When my phone is connected to my pebble i don't have to enter my password.  It sounds simple but it's just how I want it.  The android trusted device password bypass does not work as well, you still have to swipe the lock screen which annoys me more than I could even begin to  describe.  I hope this can be ported to nougat or I will be tearing my hair out."
+    ],
+    "recentChanges": [
+        "- add even more explanation for the device admin permission"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.j4velin.delayedlock2.trial&hl=en&gl=us",
+    "appId": "de.j4velin.delayedlock2.trial"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Leprowatch",
+    "summary": "Watch face for the people, who just enjoy watching power meter.",
+    "icon": "//lh3.googleusercontent.com/DlL0ryYA3YbISDr7t40yIBy4PWPRgMQzqmdsPwxylmo_MlU-lZY9N007iOnRTgyCFEc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.8,
+    "reviews": 37,
+    "developer": "Mike Butrimov",
+    "developerId": "Mike+Butrimov",
+    "developerEmail": "mike.butrimov@gmail.com",
+    "updated": "February 9, 2017",
+    "version": "1.0.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Nice watch face that looks like round power-meter and allows you to enjoy classic view each time when you check what time is it right now.Join the beta test - https://play.google.com/apps/testing/org.unhack.leprowatchface",
+    "descriptionHTML": "Nice watch face that looks like round power-meter and allows you to enjoy classic view each time when you check what time is it right now.<br>Join the beta test - https://play.google.com/apps/testing/org.unhack.leprowatchface",
+    "histogram": {
+        "1": 6,
+        "2": 3,
+        "3": 3,
+        "4": 6,
+        "5": 19
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/efxUiHsy_lMSVe4CKcgzBiYTFYnyAPqGPe5YFzEiDsRSFzg5SFWM-w4S8La-V400GA=h310",
+        "//lh3.googleusercontent.com/qEUaBal-K3p0Y1mXyd8lLzbVkegy27f4WZFYig0mEaQ31YwO82nO-S0MMRL8lOVHLS9M=h310"
+    ],
+    "comments": [
+        "Отличный счетчик, только расскажите, как скрутить показания?",
+        "На мото360 активные элементы съезжают...",
+        "Nice ЖКХ watch",
+        "Thank you for this free watch face. I think it could really use a date indicator. Works well on wear 2"
+    ],
+    "recentChanges": [
+        "In beta desktop widget is available"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.unhack.leprowatchface&hl=en&gl=us",
+    "appId": "org.unhack.leprowatchface"
+}

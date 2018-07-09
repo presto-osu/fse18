@@ -1,0 +1,48 @@
+{
+    "title": "Dieter Watch Face",
+    "summary": "Sleek and simple watch faced inspired by the famous designer Dieter Rams.",
+    "icon": "//lh3.googleusercontent.com/9BYjpeV588wJyfjmn7MtNRuIuECuwO2iXelwj0fifFKh_eqcMh-AlbpmBYY4S_yaLQEt=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.2,
+    "reviews": 6,
+    "developer": "jh Mobile",
+    "developerId": "jh+Mobile",
+    "developerEmail": "play@jan-hadenfeldt.de",
+    "developerAddress": "Hauffstr. 22\n71732 Tamm",
+    "updated": "July 6, 2016",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "The timeless and understated design of this modern watch face takes the essence of its famous ancestor and applies it to modern smart watches.",
+    "descriptionHTML": "The timeless and understated design of this modern watch face takes the essence of its famous ancestor and applies it to modern smart watches.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/N5CDpxWjPrJvz3-Zh39LpLznujH2HcVWcMO_OOmr0_lm7VeRh1zfgtQh8s1JRrOSoMNQ=h310",
+        "//lh3.googleusercontent.com/7VfDaivBFenWIamKE4TR89FbGLnAXwEWNEbKtd1zU2To_Nar8if9y478lN8VR1tL4j4=h310",
+        "//lh3.googleusercontent.com/v-MU-QZHhmQt2wq9vm1Oa7p5i0zmp6i8rXtWDLNUvFn7bt2u2XZU4mfPQMs2leaeBHE=h310"
+    ],
+    "comments": [
+        "Great. Minimal, Black and elegante. An amazing classic watch face.",
+        "Won't work on my Moto 360 gen 1. :("
+    ],
+    "recentChanges": [
+        "- fixed installation issues on some devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jhmobile.watch.dieter&hl=en&gl=us",
+    "appId": "com.jhmobile.watch.dieter"
+}

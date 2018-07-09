@@ -1,0 +1,50 @@
+{
+    "title": "Steps Watch Face",
+    "summary": "Steps Watch Face with date, weather, steps counter and battery level indicator.",
+    "icon": "//lh3.googleusercontent.com/4zb5pod0QcV6u38kbcboPMu-TU-4AExV6MPo6VgniSD1CnVBfBGlTtGp1yeLESdEXw=w300",
+    "price": "$1.00",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.2,
+    "reviews": 8,
+    "developer": "Meron Apps",
+    "developerId": "8652489291013372640",
+    "developerEmail": "meronapps@gmail.com",
+    "developerWebsite": "https://www.facebook.com/meronappswearables",
+    "developerAddress": "Madrid - Spain",
+    "updated": "September 29, 2015",
+    "version": "2.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Steps Watch Face features:✔ Choose between colours✔ Analog clock✔ Date✔ Weather✔ Steps counter✔ Watch battery indicator✔ Phone battery indicatorCompatible with Round and Square smartwatches.Tested with LG G Watch R, LG Watch and MOTO 360.",
+    "descriptionHTML": "Steps Watch Face features:<br>&#x2714; Choose between colours<br>&#x2714; Analog clock<br>&#x2714; Date<br>&#x2714; Weather<br>&#x2714; Steps counter<br>&#x2714; Watch battery indicator<br>&#x2714; Phone battery indicator<br><br>Compatible with Round and Square smartwatches.<br>Tested with LG G Watch R, LG Watch and MOTO 360.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/EARbIThA41wPfkVOKc1vftgmlxokjD9pjNGeHP3k-wR-Gi4uVDWCR8CCWczHcDmT9g=h310",
+        "//lh3.googleusercontent.com/zjQCzvbY6Vsm7LHwgIjW9_-GP7NIffJmVm-PdMX-MVDt8r5lL4n_XtuoGpaLFv7m1Rg=h310",
+        "//lh3.googleusercontent.com/S9yoGdHqOnjjc8IX4Zdu6nD4GHV4YM7UNvmemv2rPOpumsbpMzb-XCdpHmTbz92Rf8U=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Yc529Z-o7r0",
+    "comments": [
+        "Crashes every time Crashes every time I try and set it as my watch face. Disappointing too, because according to the pics, it may have had everything I wanted. Moto 360 gen1.",
+        "wow So its having problems with showing me my phones' battery life and weather, I contacted dev and he told me its my issue. just wow"
+    ],
+    "recentChanges": [
+        "Bug fixed on Moto360"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.meronapps.stepswatchface&hl=en&gl=us",
+    "appId": "com.meronapps.stepswatchface"
+}

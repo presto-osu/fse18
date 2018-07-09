@@ -1,0 +1,51 @@
+{
+    "title": "Meeting Mode",
+    "summary": "Silence phone during appointments, or for a fixed time. Great with Android Wear!",
+    "icon": "//lh4.ggpht.com/9dsTLxjLuIVmDPGEYs8u36qpCuxVoH4vas0ZqOJCzbUKOPqTXi4QYnu2IdIfyBvaaC4=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4.7,
+    "reviews": 3,
+    "developer": "Iris Innovations",
+    "developerId": "Iris+Innovations",
+    "developerEmail": "iris.android.innovations@gmail.com",
+    "developerAddress": "IRIS Innovations\n234 Graham St., Ste 201\nSewickley, PA 15143",
+    "updated": "February 11, 2015",
+    "version": "1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Half-price introduction, price will go up with next revision!Ever silence your phone for a meeting, or a show, then forget to turn the ringer back on and miss important calls?Activate Meeting Mode from your phone or Android Wear watch, it will give you a list of possible calendar events and time intervals to choose from. Tap one and your phone is silenced, but will automatically un-mute when the appointment or time period is over!Optionally gives a short vibration to let you know when it's no longer in silent mode.Android Wear users can activate by voice command or tap and select from a watch-optimized menu of appointments and time periods. When active, a notification is shown on both the watch and phone, letting you cancel and un-mute quickly, or see details on the phone.",
+    "descriptionHTML": "Half-price introduction, price will go up with next revision!<br><br>Ever silence your phone for a meeting, or a show, then forget to turn the ringer back on and miss important calls?<br>Activate Meeting Mode from your phone or Android Wear watch, it will give you a list of possible calendar events and time intervals to choose from. Tap one and your phone is silenced, but will automatically un-mute when the appointment or time period is over!<br><br>Optionally gives a short vibration to let you know when it&apos;s no longer in silent mode.<br><br>Android Wear users can activate by voice command or tap and select from a watch-optimized menu of appointments and time periods. When active, a notification is shown on both the watch and phone, letting you cancel and un-mute quickly, or see details on the phone.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/6Jy_mSGL7Kd-GuFCUsKR9zTlrtrlHyGasCqRzErtbZuy1FCj-VUlqyN_lP3Hdta1wLM=h310",
+        "//lh3.ggpht.com/dWk0-GS8kBlfx1_VkvJFRtZe6i39pz0revPlbD9PAKClvRJjB_fVNxPitBbQoQFNoA=h310",
+        "//lh3.ggpht.com/NvBpghybToElIiCH4aMKO0SZA2SfXZrjhbSIOtRceSGk_nABApChc9Xeg_KTE6nsIyk=h310",
+        "//lh5.ggpht.com/FUs_m214xw-DeJT4B2_XKXlSo37O2q0V7BD0kKV3eNJbEbeopCzNKU3TKQlAU3sDkrU=h310",
+        "//lh6.ggpht.com/eKbeJ2JSXPiIeaXHvbA6rj4HexRlnqtfIXL8F39CEOkX46Hg3_1U8FWER4tf4yj8v89P=h310"
+    ],
+    "comments": [
+        "Great idea, works great Fixed issue",
+        "Simple, Fast, & Very Handy! Perfect function for an android watch too!"
+    ],
+    "recentChanges": [
+        "+ Improved graphics and workflow",
+        "+ Fixed bug when aborting activation from smartwatch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.irisinnovations.meetingmode&hl=en&gl=us",
+    "appId": "com.irisinnovations.meetingmode"
+}

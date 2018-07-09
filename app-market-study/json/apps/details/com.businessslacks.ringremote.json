@@ -1,0 +1,55 @@
+{
+    "title": "Ringtone Remote",
+    "summary": "Conveniently silence your phone using your Android Wear device.",
+    "icon": "//lh4.ggpht.com/BlOSPiPPdsuUMa9yRKdp4Q3slNflXxKi9cTVKucg1JzcPBSW09HdqNW6Nx_bHrHzCw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4,
+    "reviews": 542,
+    "developer": "Business Slacks",
+    "developerId": "Business+Slacks",
+    "developerEmail": "businessslacksapps@gmail.com",
+    "updated": "June 30, 2015",
+    "version": "3.0.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Going to a movie and don't want your phone ringing when someone calls? Entering an important meeting and don't want your phone chirping at every Twitter mention? Then silence it with Ringtone Remote!Ringtone Remote allows you to conveniently control the ring mode of your phone all from your paired Android Wear device. Leave your phone in your pocket! Just say \"OK Google, start Ringtone Remote\", select your ring mode of choice, and continue living your life!Not happy with the default appearance of the Ringtone Remote Android Wear application? Then open the Ringtone Remote phone application to manage it's theme! Change colors, apply a custom background image, and more!Permissions:CONTROL VIBRATION - Your phone vibrates if you select the vibrate-only ring mode via the watch.READ/WRITE EXTERNAL STORAGE - Allows the application to cache user defined custom background images.Discover any bugs or have any feature requests? Send us an email at businessslacksapps@gmail.com",
+    "descriptionHTML": "Going to a movie and don&apos;t want your phone ringing when someone calls? Entering an important meeting and don&apos;t want your phone chirping at every Twitter mention? Then silence it with Ringtone Remote!<br><br>Ringtone Remote allows you to conveniently control the ring mode of your phone all from your paired Android Wear device. Leave your phone in your pocket! Just say &quot;OK Google, start Ringtone Remote&quot;, select your ring mode of choice, and continue living your life!<br><br>Not happy with the default appearance of the Ringtone Remote Android Wear application? Then open the Ringtone Remote phone application to manage it&apos;s theme! Change colors, apply a custom background image, and more!<br><br>Permissions:<br>CONTROL VIBRATION - Your phone vibrates if you select the vibrate-only ring mode via the watch.<br>READ/WRITE EXTERNAL STORAGE - Allows the application to cache user defined custom background images.<br><br>Discover any bugs or have any feature requests? Send us an email at businessslacksapps@gmail.com",
+    "histogram": {
+        "1": 42,
+        "2": 27,
+        "3": 68,
+        "4": 137,
+        "5": 268
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JzBEZC5PDNC2JBIYe8-bKw1RV5Dek-8wmYZyv_qJiZ0zeIX05rz-CQcuXa8_XC2Dg04=h310",
+        "//lh3.googleusercontent.com/G-mi4iEBn_VwBNGZ7oMw96EbKJzPUvsI-VK4YCo0qSPlU14gzvPitjhgp6b11Mp4-S8=h310",
+        "//lh3.googleusercontent.com/kXZH37C8W_R0WA8iMqlcldXZ884JQ0dqInk6dRUf52B34R6Jm-kY1vhlVXZ4AJwQmw=h310",
+        "//lh3.googleusercontent.com/bnMZPPx17On78qBVkuafa6q1BBUKYpM2tgsVC6_-3GV22IbabHI5FcixrftjN2LYuFA=h310",
+        "//lh3.googleusercontent.com/1tItkCeM4X8Og4CNAiVw-2jkoX-ELNqw1euNKggdB-O9LiUCxAh9DFmPwaDWRijCcg=h310",
+        "//lh3.googleusercontent.com/F2mqrq-bnMfFiDp16XzK3eEconUwkA_ODkhjmty-S_40wtAq_trzWgvS9-bvgym0YtY=h310",
+        "//lh3.googleusercontent.com/iKYKBqZ8KfQYXzYHzf7f8Kekg1KtQiEB4bCFif3g2o0PLMZcEluesdFOxycDovOCYw=h310"
+    ],
+    "comments": [
+        "smpile, great app 👍 thanks for the simple great app. but it have a problem. if the phone  screen is locked it does not change  the sound mode, ex:(from normal to silent). i hope you'll fix that soon and thanks again 😊",
+        "Works exactly as described Does exactly what I want to do, which is to toggle the song mode easily from my watch. Only suggestions I have is to be able to view the current state/volume of the ringer, and to be able to control ringer volume as well from the watch.",
+        "Almost perfect I think it is almost perfect but I don't know how to close the app on the watch. I just wait for the screen to timeout",
+        "It worked great originally, but then stopped.  Probably Android version issue, but on my Samsung Galaxy Note 4 with Android 5.1.1, it doesn't seem to work unless the phone is unlocked.",
+        "Huawei Watch Works as intended. A slider for the ringtone volume (or all volumes) would make this perfect.",
+        "Works Need a setting to turn volume back to full instead of \"normal\".. then it'd be worth keeping"
+    ],
+    "recentChanges": [
+        "BUG FIX: Addressed a bug that caused the application to crash whenever the user attempts to select a custom background image that is currently stored on an external SD card."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.businessslacks.ringremote&hl=en&gl=us",
+    "appId": "com.businessslacks.ringremote"
+}

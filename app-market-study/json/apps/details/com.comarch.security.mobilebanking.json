@@ -1,0 +1,55 @@
+{
+    "title": "INGBusiness",
+    "summary": "ING BusinessMobile is a mobile banking solution for companies/corporate clients.",
+    "icon": "//lh4.ggpht.com/749w40ewMF9CoV5qtMkv_lakjH2RSMtsBOrMJBZiKpTPWbLC4hdvpqFwGoaybJ_VHijN=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.3,
+    "reviews": 204,
+    "developer": "ING Bank Slaski S.A.",
+    "developerId": "ING+Bank+Slaski+S.A.",
+    "developerEmail": "bc@ingbank.pl",
+    "developerWebsite": "http://ingbank.pl",
+    "updated": "January 25, 2018",
+    "version": "2.4.0",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "ING BusinessMobile is a mobile banking solution dedicated for companies/corporate clients.Available functions:ACCOUNTS- list view and balances- transaction history- orders management- transaction details- advanced searchingTRANSFERS- orders (signing, sending)- packages (signing, sending)- approval schemes- domestic transfers- internal transfers- templatesINFORMATIONS- ING Bank Śląski S.A. branches and ATM’s locator.- actual CurrenciesINB BusinessMobile is a completely secure solution – encrypted data transmission, built-in software token.  You must activate the app before login.  If you are not a client of ING Bank Śląski S.A. you can still get to know functionality by using a DEMO mode.www.ingbusinessmobile.pl",
+    "descriptionHTML": "ING BusinessMobile is a mobile banking solution dedicated for companies/corporate clients.<br><br>Available functions:<br><br>ACCOUNTS<br>- list view and balances<br>- transaction history<br>- orders management<br>- transaction details<br>- advanced searching<br><br>TRANSFERS<br>- orders (signing, sending)<br>- packages (signing, sending)<br>- approval schemes<br>- domestic transfers<br>- internal transfers<br>- templates<br><br>INFORMATIONS<br>- ING Bank &#x15A;l&#x105;ski S.A. branches and ATM&#x2019;s locator.<br>- actual Currencies<br><br>INB BusinessMobile is a completely secure solution &#x2013; encrypted data transmission, built-in software token.  You must activate the app before login.  If you are not a client of ING Bank &#x15A;l&#x105;ski S.A. you can still get to know functionality by using a DEMO mode.<br><br>www.ingbusinessmobile.pl",
+    "histogram": {
+        "1": 53,
+        "2": 19,
+        "3": 21,
+        "4": 27,
+        "5": 84
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.2 and up",
+    "androidVersion": "2.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/PfYm1NaZEcyAmEpuj-eMF3JIZXeL-ZTPW_s3LkK2hzUxM26qRROMnCkSa6Va3_b0-A=h310",
+        "//lh3.googleusercontent.com/CUQPETGv0YV5uSb6kj0v0_B8ZMCBSMmg-z5YuaK4G1yPnILNpwgRqvGXBPhtqr3hC24=h310",
+        "//lh3.googleusercontent.com/5GWs2vKtMXcDlmvURMac1nEaH28HYBl22NXuaNvMo82s3_k_F-9ch1B392mKoAc5TbM=h310",
+        "//lh3.googleusercontent.com/RuRNf0qCMiaJisruXBhbM3SpXpUWP4mUc-R1Gxlemi8ombuT-CtiwtDEU8-Y8vpWZng=h310",
+        "//lh3.googleusercontent.com/CKJVXZLF4_QUVYSB4hOrj1CLcmnpoE2g7mhvKkzN-SJ5Xhpv6dXFjeya5d4Wvn_G4QM=h310"
+    ],
+    "comments": [
+        "Bardzo słaba aplikacja",
+        "Creditcard aub zsm Meander amersfoort unit 1. Call your super visor.  Dank u",
+        "Kolejne ID Do zapamiętania... Dlaczego klient mobilny wymaga stworzenia kolejnego losowego ID, które trzeba pamiętać, aby obejrzeć konto na mobile? I PIN, który PIN-em nie jest (niedopuszczany 4 cyfrowy kod)... Zainstalowałem pół roku temu i pół roku nie korzystam, ponieważ nie pamiętam dodatkowego losowego ID i nie mogę ustawić swojego pinu",
+        "Brak zapamiętywania loginu Aplikacja ok do podstawowych operacji, ale zdecydowanie powinna zezwalać na zapamiętywanie pełnego loginu.",
+        "Swietna aplikacja dla zabieganych Dostep do wszystkich aspektow konta firny z telefonu - swietna rzecz w dzisiejszym swiecie! Punkty za estetyke i intuicyjnosc :)",
+        "Średni wygląd, fatalna użyteczność Jak cała bankowość korporacyjna ING, także ta aplikacja ma tragiczną użyteczność."
+    ],
+    "recentChanges": [
+        "- Possibility of logging in and authorizing the orders with fingerprint scanner on selected devices.",
+        "- Minor bug fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.comarch.security.mobilebanking&hl=en&gl=us",
+    "appId": "com.comarch.security.mobilebanking"
+}

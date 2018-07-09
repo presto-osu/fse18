@@ -1,0 +1,59 @@
+{
+    "title": "Gesture Calc for Android Wear",
+    "summary": "Use gesture to enter calculation formulas. Copy/paste, history, preset functions",
+    "icon": "//lh6.ggpht.com/D5jwMvxH5lTvfWyFgRD1eMQ-Zr4IfxbRo0a6UvqRIOEArFQlaoRvUyFhJrKQRhjTMoI=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.3,
+    "reviews": 6,
+    "developer": "NeFa Studio",
+    "developerId": "NeFa+Studio",
+    "developerEmail": "nefastudio@gmail.com",
+    "developerWebsite": "http://nefastudio.net/",
+    "developerAddress": "5410053\nJP Osaka, Osaka-city chuoku honmachi 4-8-1",
+    "updated": "January 7, 2017",
+    "version": "1.4",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Gesture Calculator for Android Wear. Tested with Moto 360, SmartWatch3.Features:- Register your own single stroke gesture and use gesture to enter formula.- Calculation history to easy compare results.- Copy / paste data between mobile and wear device. While writing SMS, you can calculate on your write, copy result (and formula), paste to message.- Presets to easily calculate often used formulas.If recognition misses a lot, try changing gesture position, size, direction. You can also use tap instead of stroke.Special Thanks to : Icons8.com for providing nice icons.",
+    "descriptionHTML": "Gesture Calculator for Android Wear. Tested with Moto 360, SmartWatch3.<br><br>Features:<br><br>- Register your own single stroke gesture and use gesture to enter formula.<br>- Calculation history to easy compare results.<br>- Copy / paste data between mobile and wear device. While writing SMS, you can calculate on your write, copy result (and formula), paste to message.<br>- Presets to easily calculate often used formulas.<br><br>If recognition misses a lot, try changing gesture position, size, direction. You can also use tap instead of stroke.<br><br>Special Thanks to : Icons8.com for providing nice icons.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/6cV8KZr0rUCcCHnEaEREiNxx3sIIH01N4sNdrmYnp_VMev0GACcHE1iSrn-AdbMGUGk=h310",
+        "//lh6.ggpht.com/yQOr2RDFlg4J5G6-5YRpS4_FcigKUC-z80hvtZlCguUlf6LtoI5V7xlzfFIL8OqPTWUV=h310",
+        "//lh6.ggpht.com/CigFfjVKBLaanqNLRUIhVWWechaMhyaNdsjy4AM8AxOCHIonzWDaaBR-AWLzlViz0qw=h310",
+        "//lh3.ggpht.com/MWltY6HmXbSL85A2StNuU_DyNESohqsmP1KZAUqghUCeuA4GyuEYN3gSi0QgJSzpVfs=h310",
+        "//lh4.ggpht.com/qcLTFAjKm1ZszHI7qn3U5SqxWpK_FI_uwfBKyD1TfViUg_444BT5Rj5fXe7pVjfVRds=h310",
+        "//lh3.ggpht.com/lZtMNbSV8309_sHJexHe1VIi7b2Re-wtHXimubzlB-XDfmoO6MhIHS95M5BkDW596wM=h310"
+    ],
+    "video": "https://www.youtube.com/embed/fOItgwstSL8",
+    "comments": [
+        "Only wrote zeros 0000000, moto 360,5.1.1 on a nexus 5, 5.1.1"
+    ],
+    "recentChanges": [
+        "v1.4 2017/1/8",
+        "Updated round / square screen detection",
+        "v1.3 2015/2/25",
+        "Fixed app fail when drawing gesture without gesture registered",
+        "v1.2 2015/2/21",
+        "Internal modification",
+        "v1.1 2015/2/20",
+        "History handling fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.nefastudio.android.nfstrokecalc_wear&hl=en&gl=us",
+    "appId": "net.nefastudio.android.nfstrokecalc_wear"
+}

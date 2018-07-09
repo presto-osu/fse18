@@ -1,0 +1,48 @@
+{
+    "title": "Wear Tip Calc",
+    "summary": "Simple tip calculator with speech recognition enabled and wear optimized UI.",
+    "icon": "//lh3.googleusercontent.com/V7eOgWNznq4iG-2b1iEcHB3MPtqDXuqmTQsqFj-RXmTSWm4xDii0h7VAZplvXJCsl_U=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.7,
+    "reviews": 3,
+    "developer": "Han Yan",
+    "developerId": "Han+Yan",
+    "developerEmail": "enthalpy.yan@gmail.com",
+    "updated": "December 12, 2015",
+    "version": "1.51",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Easy way to get tips from your wrist. No need to bring up your phone. Features:Support voice and text inputSlide to choose you rateCompletely free, no ads",
+    "descriptionHTML": "Easy way to get tips from your wrist. No need to bring up your phone. <br><br><br>Features:<br><br>Support voice and text input<br><br>Slide to choose you rate<br><br>Completely free, no ads",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jPv0x5qMch0VgCucVUmUaSvBY4T9_VeLgSq8SkS8D4FkKvgkhYRN3CWM77ZDIsfRow=h310",
+        "//lh3.googleusercontent.com/Ma3safnt3Z8VbKWH97V-ZeTzmSodzSZLb_DVYftyByPxTDr0dFVkrBaBvzQB9endiO0=h310",
+        "//lh3.googleusercontent.com/46bk4Dy60yA-ZqrYHx0zDRVjxXo4tF0akCmJ6Y2HCkTpf2i9i9lBhoxzgCO05JBaPg=h310",
+        "//lh3.googleusercontent.com/VT_UO30XlWZuM3655nUn0NK5oGTSxZ52G-AAzhWmcd7g7MDVx4JoG6E0b5t8aEvAgJA=h310",
+        "//lh3.googleusercontent.com/MvLFoB2h1XINZ2tXmdWywjapNmrMclMHKcyg-hEkSBF1istKOYzsd7OAbP9W3c8p2Zur=h310"
+    ],
+    "comments": [
+        "Thanks for the great app -/r/moto360"
+    ],
+    "recentChanges": [
+        "Fixed layout issue"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gmail.enthalpyyan.tipscalculator&hl=en&gl=us",
+    "appId": "com.gmail.enthalpyyan.tipscalculator"
+}

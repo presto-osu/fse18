@@ -1,0 +1,55 @@
+{
+    "title": "Watch Face Neon",
+    "summary": "Neon Watch Face for Android Wear Clock",
+    "icon": "//lh3.googleusercontent.com/yrvF509vqxDCDFua-HFmcD-PIhr5Kj5qdmg5cgwA6bjnVHR7FF_3aE1JsP760Eg5lkTY=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 106,
+    "developer": "Rabbit Design",
+    "developerId": "7611979703967153035",
+    "developerEmail": "rab4dis@gmail.com",
+    "developerAddress": "Minsk, Cherviakova 61-1",
+    "updated": "August 20, 2015",
+    "version": "1.6",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Pimp your watch with Neon Design Watch Face. A Vegas Neon part on your hand.FEATURES:- Phone and Watch Battery information- Date information- 12/24 auto-format- High Resolution Design- Round and Square watches SupportINSTRUCTION:1. Install Watch Face2. Wait a minute2. Go to Android Wear Application3. Choose Neon Watch Face4. Enjoy!The neon watchface has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "descriptionHTML": "Pimp your watch with Neon Design Watch Face. A Vegas Neon part on your hand.<br><br>FEATURES:<br><br>- Phone and Watch Battery information<br>- Date information<br>- 12/24 auto-format<br>- High Resolution Design<br>- Round and Square watches Support<br><br>INSTRUCTION:<br><br>1. Install Watch Face<br>2. Wait a minute<br>2. Go to Android Wear Application<br>3. Choose Neon Watch Face<br>4. Enjoy!<br><br>The neon watchface has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "histogram": {
+        "1": 6,
+        "2": 2,
+        "3": 8,
+        "4": 35,
+        "5": 55
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/aY9JK2mjsYwOJ_To7fLsZFfZ8jwn3xhwJqbxp12t3suHXomIHrqBOABdW0EKDr3JOh0=h310",
+        "//lh3.googleusercontent.com/Jz8FbeXyWa8Oii_S80jTAoE2ABGRYZbKzAP9G5ywfxwLsbOf7jcBeTxcqIOb-BbWH4I=h310",
+        "//lh3.googleusercontent.com/xV-DRYmBn8aUr0cDwI6uLECECOdcyP22dOK5c-715UpD0dRV9OfRcA0AmmOEhXvM67Y=h310",
+        "//lh3.googleusercontent.com/T7Jz1iT1gq1RWgaRjjGVpcS6EQ_FEK0h-A2Z4nx4SYGrTZL3QqZECS3_ugqcBDd3Fb4=h310"
+    ],
+    "comments": [
+        "Excellent face...needs updating... The face is perfect while active. But the ambient mode needs updating for non-LCD screens. For the OLED based screens, leave the color, and remove the unnecessary pixels (the neon wires), to save battery during ambient mode. So I guess there would have to be a watch/screen option to accomplish this. Add this option and it is perfect. But if you can live with these nitpicking, it is one of the best watch faces.",
+        "Another great face ruined by black&white ambient mode. Why make a beautiful watch face and ruin it with an awful ambient mode. Give me the option to use ambient or not. You forced me to get a refund. Fix that and I'll repurchase and promote. also, l=no response from developer on this dim issue. if they're not even willing to address yes or no just avoid this face.",
+        "Love the way it looks. Working well on my 360 Sport. Think I would like the ability to do a bit of customising, only reason it is not 5 stars.   Edit: Unfortunately this watch face causes massive disconnection with the phone. As soon as activated, starts disconnecting.",
+        "Great watch face, just need an option for simpler DIM mode (without all the extra wires, lines and arrows, only keep the essential info) and it's perfect.",
+        "Nice Love this. 5 stars if you implement an animation that resembles the flicker of neons switching on from ambient. That would be awesome!",
+        "Not good Can not change from 12hr time to 24hr time"
+    ],
+    "recentChanges": [
+        "+ adeed Phone and Watch Battery information",
+        "- added Date information",
+        "+ added ambient (dimmed) mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rabbitstudio.watchface.neon&hl=en&gl=us",
+    "appId": "com.rabbitstudio.watchface.neon"
+}

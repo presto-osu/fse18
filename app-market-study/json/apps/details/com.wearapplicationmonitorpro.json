@@ -1,0 +1,52 @@
+{
+    "title": "Wear Application Monitor Pro",
+    "summary": "Get full control on your wearable! Free up memory and save battery!",
+    "icon": "//lh3.googleusercontent.com/bXu_6_Moo4ftcrijK5tpEX5t1d_SqW8YR8KXtUJ0oNezZwHazFUGqdF5K02RCDQ_1A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.8,
+    "reviews": 6,
+    "developer": "WearPower",
+    "developerId": "WearPower",
+    "developerEmail": "emirhanpoyraz@hotmail.com",
+    "updated": "September 29, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Wear Application Monitor Pro (WAMP) is pretty handy wearable app in multiple ways! Within its neat and orderly menu interface, it displays 3 buttons, Task Manager, Apps in PieChart and Info.With the notification on the bottom of the screen, WAMP gives the instant information about the wearable's power consumption! Task ManagerWAMP displays the apps which consumes the power in your wearable most and gives users permission to kill which application they want when they click on them. It is really important for wearable to save its memory and battery.Apps in PieChart WAMP displays the apps in Pie Chart. So that users will be able to see which apps are consuming in which percentage in their wearables. It is also pretty fun to see Pie Chart's shares bigger or spinning when clicking or swiping on the screen. Also with the RESET button on this section, users can reset the accumulated data and start a new Pie Chart whenever they want.InfoWAMP gives a some detailed information about the wearable. It shows the CPU utilization, total Power Consumption from the time last you run the application and as well as the remaining time for your battery. And with the PLOT button WAMP displays the power consumption in a graphical bar chart.Important: WAMP may send your wearable's some hardware component values (accumulated current, voltage, cpu utilization, cpu frequency, bluetooth and wifi communication (in bytes), sdcard traffic (in bytes) and cpu interrupts) to a third party server for the purpose of academic research. WAMP doesn't collect/share any personal information from your wearable.",
+    "descriptionHTML": "Wear Application Monitor Pro (WAMP) is pretty handy wearable app in multiple ways! <br><br>Within its neat and orderly menu interface, it displays 3 buttons, Task Manager, Apps in PieChart and Info.<br><br>With the notification on the bottom of the screen, WAMP gives the instant information about the wearable&apos;s power consumption! <br><br><br>Task Manager<br><br>WAMP displays the apps which consumes the power in your wearable most and gives users permission to kill which application they want when they click on them. It is really important for wearable to save its memory and battery.<br><br>Apps in PieChart <br><br>WAMP displays the apps in Pie Chart. So that users will be able to see which apps are consuming in which percentage in their wearables. It is also pretty fun to see Pie Chart&apos;s shares bigger or spinning when clicking or swiping on the screen. Also with the RESET button on this section, users can reset the accumulated data and start a new Pie Chart whenever they want.<br><br>Info<br><br>WAMP gives a some detailed information about the wearable. It shows the CPU utilization, total Power Consumption from the time last you run the application and as well as the remaining time for your battery. And with the PLOT button WAMP displays the power consumption in a graphical bar chart.<br><br>Important: WAMP may send your wearable&apos;s some hardware component values (accumulated current, voltage, cpu utilization, cpu frequency, bluetooth and wifi communication (in bytes), sdcard traffic (in bytes) and cpu interrupts) to a third party server for the purpose of academic research. WAMP doesn&apos;t collect/share any personal information from your wearable.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/KwO3y_yGEnc2MXNc3g6V5qg48UNYbwY0vZJlcwU12DL3f5Si1ns7IMl92JwVuBeMZhA=h310",
+        "//lh3.googleusercontent.com/PMmMPRIrQGyAeDumUB1feLyW9xGRkWiBPmZ8UIiay9dsNWqwHQPNrzih37rtjXjW8g=h310",
+        "//lh3.googleusercontent.com/5nxsFxGdtvf-zOnBmW9Gv_2VljSs_1XRgKokNbNQpCjy1h6-XTNYmFeiCrTcJ-B6mw=h310",
+        "//lh3.googleusercontent.com/zJ09MYJVuca7G4avvqN8ug3TpO4Q8c-cAOGCYNAmpv_ONsQEE41FyQmBTk8zR3YttYQ=h310",
+        "//lh3.googleusercontent.com/Oywk1hvU1_ikuvZMDrmBVIZXTrUVDiPaF3dfDtk3eDYjno89VsZWNoJHjTiYH3g4wJg=h310",
+        "//lh3.googleusercontent.com/KG8r92rtfNW_gP1mO5C_HEEjNKaTFdW9hkwGVS8TFEzNiheNANIxBPt6LSlUn0d4p-jk=h310",
+        "//lh3.googleusercontent.com/zPC4R7DlRREVDlCoelZSIpO3qpm21Wiib4XeDo-Mt5v524PCJ46DZNw5XJbYOTbyk_Sx=h310",
+        "//lh3.googleusercontent.com/tSgb3N-KnqhSxwn7_WQK6L1aA_Qqks1Kb3rqJSVgry4gGcnubjIOWfTGT5QdqdmBYwh1=h310",
+        "//lh3.googleusercontent.com/cO7dSKjgBUY_SsVYwV3WDEWCYINRDjwjJgd_Imdij5Z8gJmmzi4nCG5ceH7nUD4rxetG=h310"
+    ],
+    "comments": [
+        "It is a really great app!  It has so many useful features that i use with my moto 360 watch!",
+        "Good app. Nice info. Graphics needs improvement. Works well on Samsung gear live.",
+        "It works great with my watch!!!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wearapplicationmonitorpro&hl=en&gl=us",
+    "appId": "com.wearapplicationmonitorpro"
+}

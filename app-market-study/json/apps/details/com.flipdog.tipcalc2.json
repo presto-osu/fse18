@@ -1,0 +1,49 @@
+{
+    "title": "TipCalculator for Android Wear",
+    "summary": "Calculate the tip, split the bill, and even store the history (IAP)!",
+    "icon": "//lh5.ggpht.com/bKyss6kEyvQzF5KQ4XAWLC54t90_2gqquWSU1FiwshTeSoTtkZ-yeNDCe9th6pCeWw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 5,
+    "reviews": 11,
+    "developer": "Flipdog Solutions, LLC",
+    "developerId": "6281451975521648233",
+    "developerEmail": "flipdogsolutions@gmail.com",
+    "developerAddress": "Flipdog Solutions\n14 Bond Street Suite 414\nGreat Neck, NY 11021",
+    "updated": "March 5, 2015",
+    "version": "1.05",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "This is a tip calculator for use with your Android Wear device. It has been tested on both round and square screens. This calculator allows you to calculate the tip % as well as the ability to split the bill for different people. Also, with an in-app purchase it allows you to store your history including your location.The tip calculator also has 2 designs options for your Android Wear Watch including a rounded design as well as a pager design. The application has been tested on both round and square watches and the styles can be used on either one.PERMISSIONS needed for InApp Purchase for history to take GeoLocation of where you are.Android is a trademark of Google Inc.",
+    "descriptionHTML": "This is a tip calculator for use with your Android Wear device. It has been tested on both round and square screens. This calculator allows you to calculate the tip % as well as the ability to split the bill for different people. Also, with an in-app purchase it allows you to store your history including your location.<br><br>The tip calculator also has 2 designs options for your Android Wear Watch including a rounded design as well as a pager design. The application has been tested on both round and square watches and the styles can be used on either one.<br><br>PERMISSIONS needed for InApp Purchase for history to take GeoLocation of where you are.<br><br>Android is a trademark of Google Inc.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 11
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/2-RRfS9k_5_4bdXZ4nAO1z61qzojrc0E6VFQ9AzpSoQv2qNDAvvaAUwcOYrI_eYFPU4=h310",
+        "//lh4.ggpht.com/lu_uTG9EWj6lScS8nlW4467tnpiut8I7On_icytdkDEhaN-n3uvo5q4jwDBbdemAh-U=h310",
+        "//lh6.ggpht.com/j7owGVqIa3lzuHQHoxRt7kCDm0jr8NF-UrxWnsPpzV39o4A-gve0cn657r6dHjrtyjs=h310",
+        "//lh6.ggpht.com/cZl7MUImY3D8gPyEuLNgFH0UgLguoIUvZHnJfCc1Pd-SSwDneOBdV96ZxoEGFjSdSA=h310"
+    ],
+    "comments": [
+        "You make the prettiest wear apps"
+    ],
+    "recentChanges": [
+        "1.05",
+        "+ License Fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.flipdog.tipcalc2&hl=en&gl=us",
+    "appId": "com.flipdog.tipcalc2"
+}

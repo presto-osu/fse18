@@ -1,0 +1,59 @@
+{
+    "title": "NextTransit York/Viva",
+    "summary": "Fast, intuitive, and smart transit app for York Region, Ontario.",
+    "icon": "//lh5.ggpht.com/2II1juvkjFLcNZv_To6RPdyxTn86m1HwNN42QU26aaTEtV3b7U_K8lBYTEgHaO99wjKE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.4,
+    "reviews": 16,
+    "developer": "Kinetiqa Labs",
+    "developerId": "Kinetiqa+Labs",
+    "developerEmail": "nexttransit@outlook.com",
+    "developerWebsite": "http://secondarytask.com/kinetiqalabs",
+    "updated": "August 25, 2014",
+    "version": "1.1",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Fast, intuitive, and smart transit app for York Region, Ontario.Search full bus schedules for any stop served by York Region Transit (YRT) by the 4-digit stop number, name, or street. Quickly look up stops based on route or on a map! Schedules include all Viva rapid transit routes.☆ Maps: Quickly view all the bus stops on a map and find the one you're looking for. Tap the map icon under the routes view to view the route on a map.☆ Notifications: Want to know when your buses arrive before you even ask? Set a recurring notification for a stop to get  arrival times automatically popup on your phone or Android Wear device. ☆ Departure times: Navigate between Weekday, Saturday, or Sunday/Holiday schedules or pick the time you want to leave a given stop by tapping on the clock icon after you've looked up a stop.☆ Route search: What buses go to York U? Search up a route number or destination to bring up a list of stops for that particular route.☆ Favorites: Tap the star icon to gain quick access to a stop or route from the home screen. Because less work is cool.☆ Nearby stops: Lost? Find nearby stops without using wifi or data! NextTransit calculates the distance to and orientation you should point your phone to get to each stop!Take NoteOnce unpacked, NextTransit will require approx. 19 MB of space on your phone memory. NextTransit may take up to a few minutes (depending on the device) on first launch to build the database on your phone. Fine PrintThis app is ad-supported. We are not affiliated with YRT. Coded with care at the UBC Vancouver campus.",
+    "descriptionHTML": "Fast, intuitive, and smart transit app for York Region, Ontario.<br>Search full bus schedules for any stop served by York Region Transit (YRT) by the 4-digit stop number, name, or street. Quickly look up stops based on route or on a map! Schedules include all Viva rapid transit routes.<br><br>&#x2606; Maps: Quickly view all the bus stops on a map and find the one you&apos;re looking for. Tap the map icon under the routes view to view the route on a map.<br><br>&#x2606; Notifications: Want to know when your buses arrive before you even ask? Set a recurring notification for a stop to get  arrival times automatically popup on your phone or Android Wear device. <br><br>&#x2606; Departure times: Navigate between Weekday, Saturday, or Sunday/Holiday schedules or pick the time you want to leave a given stop by tapping on the clock icon after you&apos;ve looked up a stop.<br><br>&#x2606; Route search: What buses go to York U? Search up a route number or destination to bring up a list of stops for that particular route.<br><br>&#x2606; Favorites: Tap the star icon to gain quick access to a stop or route from the home screen. Because less work is cool.<br><br>&#x2606; Nearby stops: Lost? Find nearby stops without using wifi or data! NextTransit calculates the distance to and orientation you should point your phone to get to each stop!<br><br>Take Note<br>Once unpacked, NextTransit will require approx. 19 MB of space on your phone memory. NextTransit may take up to a few minutes (depending on the device) on first launch to build the database on your phone. <br><br>Fine Print<br>This app is ad-supported. We are not affiliated with YRT. Coded with care at the UBC Vancouver campus.",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/SvAIikrpfPf_8u3yjUD_tedqqT59rLVmIJQExNCQp7q4Mu1pgon9HWbf9OB6_2_fSTgT=h310",
+        "//lh6.ggpht.com/hd2VQYxzOG-e-I8aSbG7ZX3tMiBLvBGGTNOm5lWcXjb3OJgIrHGymc4A7FyKhS1oWCE=h310",
+        "//lh3.ggpht.com/9eurXUL_qgEnPQtgdaO-bvwzTduL-3Z9zjvwp6_xWp9VL71WVr2Ixo-0Ee34VsVtDw=h310",
+        "//lh6.ggpht.com/uvnN1sBoeqIkZezE4ZBRr0d7VKn1JIe7671CGtYhgUAdMyMlKQ_5E1cBy28y8Yb07LB1=h310",
+        "//lh4.ggpht.com/d_BOwV6cp5Fy-yMtSCfDm11EOM5VfsT7rsxJfR0xDlXGR7TRJAACtGgKIrK7dKnhzSU=h310",
+        "//lh6.ggpht.com/lHWSblUuTMnAeneBvpL_XoWbxs-XsfWqgy09zj6aSgkiykSkMrp6faT_8mnJBCW_Bg=h310"
+    ],
+    "comments": [
+        "It is ok The app lets you know where you are but no more. You can't even normally exit from the app with the back key.",
+        "Worked fine for me, good job!",
+        "Inaccurate information A lot of inaccurate information on bus schedule, destination and route. Eg. Viva purple doesn't go to stop 5049!?!! And it would be better if we don't have to type anything but just the Route number for the ROUTE SEARCH that would be better!!",
+        "Wrong stop for stop id's Shows the wrong stop for stop ids that I use",
+        "Nothing is loading for me",
+        "Great"
+    ],
+    "recentChanges": [
+        "Version 1.1",
+        "Corrected schedules",
+        "Bug fixes related to route search and tabs",
+        "Version 1",
+        "NextTransit York/Viva Released"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kinetiqa.nexttransityorkviva&hl=en&gl=us",
+    "appId": "com.kinetiqa.nexttransityorkviva"
+}

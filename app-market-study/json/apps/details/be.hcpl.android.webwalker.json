@@ -1,0 +1,49 @@
+{
+    "title": "HTTP Remote for Wear",
+    "summary": "This utility turns your wear or handheld in a REST client for all your projects",
+    "icon": "//lh3.googleusercontent.com/G8FEcbYEUIeIh274d4RTqYVR3sEozQJvuRdeSyTlZ0OHEh0mQZv7p9iRctgMPcPvJYXd=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 10,
+    "developer": "hcpl",
+    "developerId": "hcpl",
+    "developerEmail": "android@hcpl.be",
+    "developerWebsite": "http://www.hcpl.be",
+    "updated": "April 28, 2015",
+    "version": "0.2.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "With HTTP Remote for Wear you can create controls to trigger REST calls for any project you like. Thanks to the wear support you can even trigger these calls from your wrist.On your handheld you create screens that contain several controls. Each control is linked to a single HTTP call.This is an open source project. Feel free to contribute at https://bitbucket.org/cappelleh/android-http-remoteCheck out MAC remote for wear if you want something similar using applescript commands over SSH calls. Available from https://play.google.com/store/apps/details?id=be.hcpl.android.bubble",
+    "descriptionHTML": "With HTTP Remote for Wear you can create controls to trigger REST calls for any project you like. Thanks to the wear support you can even trigger these calls from your wrist.<br><br>On your handheld you create screens that contain several controls. Each control is linked to a single HTTP call.<br><br>This is an open source project. Feel free to contribute at https://bitbucket.org/cappelleh/android-http-remote<br><br>Check out MAC remote for wear if you want something similar using applescript commands over SSH calls. Available from https://play.google.com/store/apps/details?id=be.hcpl.android.bubble",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/GR4JjYEQC2Bnssm8-VDVj_4kFn8uSVIGMJm9lCrFCcJY6hFjdAdMw1llSrcJ5cCTjg=h310",
+        "//lh3.googleusercontent.com/se1JSuk5tk3Xq7u3btNL0s4qxBM5GToDQk5vch67AidxVM67obJ5GIKKdULMe5KHNhE=h310",
+        "//lh3.googleusercontent.com/9jNYbwae1rzvBgXTWX8SzTZN9ypaPDIAK7eViikecbF8nEgn_3oJowR3MpYc4DxqMQ=h310",
+        "//lh3.googleusercontent.com/aMMfckG7ns_-9JtPaS0F8ep3cnNptBj1frUdRHUTdhF7ucC0Rra5qBu3INeXjJNOqsM=h310"
+    ],
+    "comments": [
+        "Fantastic. Been looking for something​like this for ages. Thanks for making source available too!"
+    ],
+    "recentChanges": [
+        "* added import/export using android intent system",
+        "* fixed some typo's"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=be.hcpl.android.webwalker&hl=en&gl=us",
+    "appId": "be.hcpl.android.webwalker"
+}

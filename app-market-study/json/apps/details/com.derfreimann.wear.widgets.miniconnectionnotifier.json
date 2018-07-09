@@ -1,0 +1,57 @@
+{
+    "title": "Mini Connection Notifier",
+    "summary": "Discretely notifies you if the connection status of your wearable device changes",
+    "icon": "//lh3.googleusercontent.com/z-nJL0BKzPqWJy5g11UZrpwFmzMQH7YLBGYv4P8vv_e7chdM3rSZnXI0OU7Ezd9lClU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.5,
+    "reviews": 21,
+    "developer": "derfreimann",
+    "developerId": "derfreimann",
+    "developerEmail": "fonkri@gmail.com",
+    "developerAddress": "Guglgasse 8/2/9/82, 1110 Wien, Österreich",
+    "updated": "June 8, 2015",
+    "version": "1.7",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app implements a service on your wearable that informs you when the connection status between the wearable device and your mobile phone changes.If you lose the connection, your wearable will shortly vibrate THREE times and you get a card informing you.You can then either keep the card as a reminder or just dismiss it (you'll still have the standard cloud-icon to remind you anyways!)...Once you get reconnected to your phone your wearable will vibrate TWO times and the card will automatically disappear (if not dismissed by you already).The vibrations even work in theater mode! (yay)That's all it does, simple and non-intrusive :)***************************************************Available languages (so far):Arabic*Chinese (simple)DanishDutchEnglish USEnglish UKFinnishFrenchGaelicGermanHungarianIcelandicItalianJapaneseKoreanNorwegian (Bokmål)Norwegian (Nynorsk)PolishSpanish (Castellano)SwedishPortugueseRussianSlovenianTurkish[*new]***************************************************This is just a modification of Google's sample code, to make it even simpler and less intrusive.Sample Code can be found here:http://developer.android.com/samples/FindMyPhone/index.html***************************************************Background template by 'bummer' @ http://www.officialpsds.com/Missing-Milk-Carton-PSD53543.html***************************************************ATTENTION:Since version 1.7 I implemented a launcher icon on your wearable.You now can make your phone ring from your watch (if it is in range OR if you have WiFi enabled and both devices have internet connection)!If you don't get a notification on connection loss try initiating a \"phone ring\" from your watch.Since Android Wear 5.1.1 some devices seem to be unable to use this kind of notification apps unless you open them at least once... I have yet to find out why...",
+    "descriptionHTML": "This app implements a service on your wearable that informs you when the connection status between the wearable device and your mobile phone changes.<br><br>If you lose the connection, your wearable will shortly <b>vibrate THREE times</b> and you get a card informing you.<br>You can then either <b>keep the card as a reminder or just dismiss it</b> (you&apos;ll still have the standard cloud-icon to remind you anyways!)...<br>Once you get reconnected to your phone your wearable will <b>vibrate TWO times</b> and the card will automatically disappear (if not dismissed by you already).<br><br><i>The vibrations even work in theater mode!</i> (yay)<br><br>That&apos;s all it does, simple and non-intrusive :)<br><br>***************************************************<br><br>Available languages (so far):<br>Arabic*<br>Chinese (simple)<br>Danish<br>Dutch<br>English US<br>English UK<br>Finnish<br>French<br>Gaelic<br>German<br>Hungarian<br>Icelandic<br>Italian<br>Japanese<br>Korean<br>Norwegian (Bokm&#xE5;l)<br>Norwegian (Nynorsk)<br>Polish<br>Spanish (Castellano)<br>Swedish<br>Portuguese<br>Russian<br>Slovenian<br>Turkish<br><br>[*new]<br><br>***************************************************<br>This is just a modification of Google&apos;s sample code, to make it even simpler and less intrusive.<br>Sample Code can be found here:<br><br>http://developer.android.com/samples/FindMyPhone/index.html<br><br>***************************************************<br><br>Background template by &apos;bummer&apos; @ http://www.officialpsds.com/Missing-Milk-Carton-PSD53543.html<br><br>***************************************************<br><br><b>ATTENTION:</b><br><br>Since version 1.7 I implemented a launcher icon on your wearable.<br>You now can make your phone ring from your watch (if it is in range OR if you have WiFi enabled and both devices have internet connection)!<br><br>If you don&apos;t get a notification on connection loss try initiating a &quot;phone ring&quot; from your watch.<br>Since Android Wear 5.1.1 some devices seem to be unable to use this kind of notification apps unless you open them at least <b>once</b>... I have yet to find out why...",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/HWl9J6ocFijJdc0kKInMVM_FDQl--tMOVoKh4IzPNXzuiB-GIcn-l90PnitPtqS7Z7M=h310",
+        "//lh3.googleusercontent.com/N32VQXAcivniVxJsaS1Vm0Xw1R8p9mTgl85OlHpDPL4xEiZdS6jpUW8Gi7zRhOnUgw=h310",
+        "//lh3.ggpht.com/JzqCJRBfx9Tr1o1X-ooyDezPs8UqOuihBdpLY-lK7z1y3-dSZeYdFkUEi212NVrX_gk=h310",
+        "//lh3.googleusercontent.com/cGJTqmiyk8JDGU4V4UYfalB8VXmDIJr_HZtQgvLITcmDE-7tvcSJOlcC212VzLOdh8E=h310"
+    ],
+    "video": "https://www.youtube.com/embed/yKIYgdNUk4I",
+    "comments": [
+        "Exactly what I was looking for. My phone regularly turns off in my pocket. Naturally, this has the effect of disconnecting my watch so, by using this, I know when my phone has died. Perfect!",
+        "No longer works This app use to work great on my samsung gear live, but not anymore.",
+        "Doesn't work (S8+ & Moto 360 2nd)",
+        "Useful app Means i know when I've left my phone behind. Great 😊",
+        "Perfect. Does exactly what it says and does it well",
+        "Yup Does just what it says. Great app"
+    ],
+    "recentChanges": [
+        "★ added \"find my phone\" service",
+        "[If the app doesn't seem to work for you, try opening it on the watch and ping your phone!",
+        "It just has to be done once anyways!",
+        "This seems to be needed on certain devices since 5.1.1 and I haven't figured out why yet...]"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.derfreimann.wear.widgets.miniconnectionnotifier&hl=en&gl=us",
+    "appId": "com.derfreimann.wear.widgets.miniconnectionnotifier"
+}

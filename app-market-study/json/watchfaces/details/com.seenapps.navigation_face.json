@@ -1,0 +1,49 @@
+{
+    "title": "MFD Navigation",
+    "summary": "Your very own Multi Function Display Navigation instrument",
+    "icon": "//lh3.googleusercontent.com/nd2hWdMR_FOxo4AJnfH6tqCq8fS_sAjCgt6M9vTe46gtetgY4jCVziVMrLZ4bn_mCdw=w300",
+    "price": "$1.29",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 3,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "December 18, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Here is my humble attempt at the Navigation Instrument found on Multi Function Displays.This is the kind on instrument you find in airliners. It is somewhat close Boeing 747's.This watch face displays, time, battery level, month, day of the week and day of the month.Time is displayed on top using HHMM format, replacing heading indication.Battery Level is shown next to the Ground Speed on the left.All date indicators are gathered on the right.Most of the screen is used to render plane route animation. I hope you will enjoy the simulation (heading adjustment and smooth turns) because I paid a significant hair tribute to putting this together :)I must confess it is lacking few environment icons such as Airports, VORs and NDBs. But I already secured icons design ... seems like a natural upgrade.Ambient mode is limited to time, battery and date information.Do not hesitate to reach out for questions or suggestions at support@seenapps.comIf you like out watches, don't miss the good stuff. Follow us on twitter at https://twitter.com/SeenApps",
+    "descriptionHTML": "Here is my humble attempt at the Navigation Instrument found on Multi Function Displays.<br>This is the kind on instrument you find in airliners. It is somewhat close Boeing 747&apos;s.<br><br>This watch face displays, time, battery level, month, day of the week and day of the month.<br><br>Time is displayed on top using HHMM format, replacing heading indication.<br>Battery Level is shown next to the Ground Speed on the left.<br>All date indicators are gathered on the right.<br><br>Most of the screen is used to render plane route animation. I hope you will enjoy the simulation (heading adjustment and smooth turns) because I paid a significant hair tribute to putting this together :)<br>I must confess it is lacking few environment icons such as Airports, VORs and NDBs. But I already secured icons design ... seems like a natural upgrade.<br><br>Ambient mode is limited to time, battery and date information.<br><br>Do not hesitate to reach out for questions or suggestions at support@seenapps.com<br>If you like out watches, don&apos;t miss the good stuff. Follow us on twitter at https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2pv9p_jhZoEvgwAY2ytz-IAw399RXzJWN-F_yh6pZpVUSYWqFFz_a6cNE_QhBwGpXMA=h310",
+        "//lh3.googleusercontent.com/pFAMUkDxMV9bATYE3vvQYIhN0nyckQ3NX1pJiFVNk-xRuA6HwhzCwgYbcJJh8BsnfS4=h310",
+        "//lh3.googleusercontent.com/5uZOh6uJUp9YV7p0pBGEPUHspA4QB7l-2_0ewWnRc6_uc2e6iwtXXZpholQkDrl1T8c=h310",
+        "//lh3.googleusercontent.com/ZobvWnEsQmjeFB9iKKEE91IgWX29x64PAjm8al6J3VbyGY35wCO0YT0leEPdNhs9kdo=h310",
+        "//lh3.googleusercontent.com/b9Esy7ylu6poKz3PXRBGzk550aqWmnViE7nULeWHUp_O20ZuXGCrTNaUnzR_jLQ6lQ=h310"
+    ],
+    "comments": [
+        "Looks so cool Some times the pink route overlaps and shows in the corner but that could be fixed on update. I spent longer looking at it than telling the time."
+    ],
+    "recentChanges": [
+        "v1.1 with smoother animations, enjoy."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.navigation_face&hl=en&gl=us",
+    "appId": "com.seenapps.navigation_face"
+}

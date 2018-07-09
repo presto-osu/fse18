@@ -1,0 +1,50 @@
+{
+    "title": "Words watchface",
+    "summary": "The watchface for Android wear from words.",
+    "icon": "//lh3.googleusercontent.com/lcnrSzxPHLmiTw7axaKsrJYapLRCUh6ALXySP-TfmMYs3AcfKBYBIk8qK8uotQfJeT0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 10,
+    "developer": "Dušan Jenčík",
+    "developerId": "Du%C5%A1an+Jen%C4%8D%C3%ADk",
+    "developerEmail": "dusanjencik@gmail.com",
+    "developerWebsite": "http://dusanjencik.cz/",
+    "developerAddress": "Tupolevova 713b\nPraha\n199 00",
+    "updated": "October 10, 2015",
+    "version": "1.0.0.1-2015-10-10",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Text watch face with a simple interfaceThe watch face is made up by randomly generated letters and at randomly generated positions is an actual time with an accuracy of about 5 minutes. The watch face offers a quick overview of the time.Using the configuration application you can change colors of the dial and text. This watch face can be used with booth square and round Android watch.This application is fully in English and Czech.Source codes are available from https://bitbucket.org/dusanjencik/words-watchface",
+    "descriptionHTML": "<b>Text watch face with a simple interface</b><br><br>The watch face is made up by randomly generated letters and at randomly generated positions is an actual time with an accuracy of about 5 minutes. The watch face offers a quick overview of the time.<br><br>Using the configuration application you can change colors of the dial and text. This watch face can be used with booth square and round Android watch.<br><br>This application is fully in English and Czech.<br><br>Source codes are available from https://bitbucket.org/dusanjencik/words-watchface",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 3,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/5UawzXbqzvlYUOWnKbLBYAaHjKFO7uDlkZXILHnp9yoVKaRxpYs3NkEAT3eCRdsfI4Wi=h310",
+        "//lh3.googleusercontent.com/NCj4QgqIncdFsm0Ho4Zp2dif55wnAbBg4niYz5qmJDxJ9Kl_ddSMapYcnhQVbg94H50=h310",
+        "//lh3.googleusercontent.com/FrVzppaOd0h1-jSnPp_E8_asORBVVhi6djLu0tm1KHbQMapb4MaSGpwgbwMweGDXEg=h310",
+        "//lh3.googleusercontent.com/yCZrbrIiIpLE01d6HimZ9Ep91UUGeN3asA-ysiGb9OlIJbMCRtnxJ5zZpfbxa1uwyLo=h310"
+    ],
+    "comments": [
+        "Very nice watch face Would love to see a little more customization. Would prefer the letters randomize once per wake up, not constantly. Other than that, it's perfect.",
+        "Usually, describing the time after \"half past\" the hour is rounded up to the next hour. Please update so that \"ten past half past ten\" is instead stated as \"twenty minutes to 11\".",
+        "\"It is ten past half past eleven.\"??? Who says that?? I LOVE this app beside this. Try \"It is twenty to eleven\", or something a little more normal.",
+        "Awesome."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cz.dusanjencik.wordswatchface&hl=en&gl=us",
+    "appId": "cz.dusanjencik.wordswatchface"
+}

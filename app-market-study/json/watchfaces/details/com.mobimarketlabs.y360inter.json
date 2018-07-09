@@ -1,0 +1,60 @@
+{
+    "title": "Watch Face Y360 Inter",
+    "summary": "Android Wear interactive watch face for: moto360 2gen., Sony SW3 and others",
+    "icon": "//lh3.googleusercontent.com/IbQZ5Jiox-P2wpvXI6DqheC1ptcegD67ZPHH_mbJnrANaxKtbxTKb6OCvgrPSMHFRQ0=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.1,
+    "reviews": 71,
+    "developer": "Mobi Market Labs",
+    "developerId": "5223430743382074343",
+    "developerEmail": "support@mobimarketlabs.com",
+    "developerWebsite": "https://mobimarketlabs.com",
+    "developerAddress": "proizd Voenniy 6\nKherson, Khersons'ka oblast 73000\nUkraine",
+    "updated": "March 14, 2017",
+    "version": "2.3.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch face for smartwatches with:-\"Weather\" widget: info for current day and 4 days forecast- month name and full name week day- steps counter (\"Steps \"A\")- second steps counter \"Steps \"B\"- switch steps/meters measurement- set the level of steps (goal) per day (if not using Google Fit)- built-in Calendar- \"Moon phase\" dial- \"Night mode\" (with custom start/stop time)- custom setup for Ambient mode with brightness text/icons and on/off indicators- battery level(watch/smartphone)- missed Calls and SMS counters- smartphone state indicators: Ringer (silent/vibro) and Connections (WiFi/Mobile data)- launcher smartphone apps from smartwatch- Stopwatch with Tachymeter- second time \"Time2\" (GMT timelines)- \"HelpTouch Layer\" - active areas on smart watch screen- custom background colors (gradient, 2 colors);- selectable watch hands- selectable hour and minute marks- selectable watch face labelsWorking fine on oldest and newest models on any screen (round/square).Warning: this watch face ONLY for ANDROID WEAR smartwatches.Configuration supported languages- English- Français- Deutsch- Українська- Русский- 中文 （繁體）Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.Warning: If after update watchface not work - please, reinstall watchface: uninstall previous version with \"CLEAR CACHE\" and \"CLEAR DATA\".",
+    "descriptionHTML": "Watch face for smartwatches with:<br><br>-&quot;Weather&quot; widget: info for current day and 4 days forecast<br>- month name and full name week day<br>- steps counter (&quot;Steps &quot;A&quot;)<br>- second steps counter &quot;Steps &quot;B&quot;<br>- switch steps/meters measurement<br>- set the level of steps (goal) per day (if not using Google Fit)<br>- built-in Calendar<br>- &quot;Moon phase&quot; dial<br>- &quot;Night mode&quot; (with custom start/stop time)<br>- custom setup for Ambient mode with brightness text/icons and on/off indicators<br>- battery level(watch/smartphone)<br>- missed Calls and SMS counters<br>- smartphone state indicators: Ringer (silent/vibro) and Connections (WiFi/Mobile data)<br>- launcher smartphone apps from smartwatch<br>- Stopwatch with Tachymeter<br>- second time &quot;Time2&quot; (GMT timelines)<br>- &quot;HelpTouch Layer&quot; - active areas on smart watch screen<br>- custom background colors (gradient, 2 colors);<br>- selectable watch hands<br>- selectable hour and minute marks<br>- selectable watch face labels<br><br>Working fine on oldest and newest models on any screen (round/square).<br>Warning: this watch face ONLY for ANDROID WEAR smartwatches.<br><br>Configuration supported languages<br>- English<br>- Fran&#xE7;ais<br>- Deutsch<br>- &#x423;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x441;&#x44C;&#x43A;&#x430;<br>- &#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;<br>- &#x4E2D;&#x6587; &#xFF08;&#x7E41;&#x9AD4;&#xFF09;<br><br>Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.<br><br>Warning: If after update watchface not work - please, reinstall watchface: uninstall previous version with &quot;CLEAR CACHE&quot; and &quot;CLEAR DATA&quot;.",
+    "histogram": {
+        "1": 21,
+        "2": 7,
+        "3": 11,
+        "4": 10,
+        "5": 22
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/T8gL8cRf_dpnG9u0yRZbkGXTrN0C3nwDpWzn9Rhfk14GbSXKPPhsI1GeX8YKPQITPZ4=h310",
+        "//lh3.googleusercontent.com/TbqpnbezWMA_T9WonJzTyNoe7HwgprVyN7ahCKciQT24mQ4BCz-ubKJBd83laE9QzFM=h310",
+        "//lh3.googleusercontent.com/3YTfTy1RUSINaAm9RcxCD6IhkaL3kpLGnIovAwyESdVm9VaVk0a75U8iBH46RNWFMQ=h310",
+        "//lh3.googleusercontent.com/UruCxTt7wIS_8Sw4XC-OtApiHyeV-mjnW_0ReQxWEMP47EBM5xBykufvK22lsi5uXbk=h310",
+        "//lh3.googleusercontent.com/TSaD9qo_5v1PI4vGYgjxmB2kkT_COoTboIna2llH3uneN6vYmLkOocSZws9S2q3eVlxj=h310",
+        "//lh3.googleusercontent.com/YOQT4C_zYeozZSZ9vDHECDIUxt09sVtdc-p3evdj3DBrID2WppPdcZw2w1hUqXk-e5s=h310",
+        "//lh3.googleusercontent.com/DfEn4XVrgIL4ejXy85UusYi5MPoDaYuMoJjze0QwTaSobbpLmhAjfU_VUq8ImPiTPcI=h310",
+        "//lh3.googleusercontent.com/JnU6t35JMEqaR20_MvctMfI0rEteP8V9wsBBO3lUIbrHq3p05KcPV8ZhzT_wOIPT9T8=h310"
+    ],
+    "comments": [
+        "Looks great but when I changed temperature from Celsius to Fahrenhiet the app crashed and froze. I uninstalled and reinstalled to no avail.",
+        "Brilliant app.. Very versatile!... A y chance you could have a football Oi on instead of Germany or so?",
+        "Love this watch face, only fix need I see is SMS count does not reset after reading the message. Hope the developer would fix. Please fix.",
+        "I believe you know that in ambient mode the brightness settings are relates to the text only, but there is no option to adjust marks and hands brightness. That eats up to 30% of battery a day. On my Moto 360 2nd gen 46mm your ambient mode looks ugly, not as it looks on your preview on the google play or at the settings page. The whatch face is perfect, but  not the ambient mode. And yes, antialiasing enabled.",
+        "Nice visual design but poor implementation Sluggish UI. The app is very slow to react. Unpleasant experience",
+        "Beautiful.  However, it is not recognizing wrist gestures on NB RunIQ.  Other than that, the best WF I have."
+    ],
+    "recentChanges": [
+        "- new \"Weather\" widget: info for current day and 4 days forecast (check permissions and enable Location service)",
+        "- updated Goal steps metrics and calculations (to meter, feet)",
+        "- fix small bugs"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mobimarketlabs.y360inter&hl=en&gl=us",
+    "appId": "com.mobimarketlabs.y360inter"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Kyoto Gion Float Locator",
+    "summary": "Make your smartwatch a guide to the floats of the Kyoto Gion festival.",
+    "icon": "//lh3.googleusercontent.com/9uXXJOtBOpnw7GZpvxOnb_ObCBzU3c1CFkBcyWm4h3jVl77-NXXS5GA_CObvI9py1A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 0,
+    "reviews": 0,
+    "developer": "YUMEMI INC.",
+    "developerId": "YUMEMI+INC.",
+    "developerEmail": "kgffl@yumemi.jp",
+    "developerWebsite": "http://www.yumemi.co.jp/-/gionmatsuri-yamahoko-locator/",
+    "updated": "July 5, 2016",
+    "version": "1.1.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Kyoto Gion Float Locator for Android Wear shows the direction to a given float as one of the eight principal points (for example \"N\"). This app is designed to be used when the floats are not moving.",
+    "descriptionHTML": "Kyoto Gion Float Locator for Android Wear shows the direction to a given float as one of the eight principal points (for example &quot;N&quot;). This app is designed to be used when the floats are not moving.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/WRZZTfqmKkCvqCtKKRLjmmN8Iqye2cdBvCUeCfk_AZw6USdtwPtYSOrmTHmlZgWHDK8=h310",
+        "//lh3.googleusercontent.com/Ukqq-1qLFZhfivXmFfeUgOeU0xizWzfqXUC4unzx_kjSXxZ67Z3aF7B-rpsUwuI8I8w=h310",
+        "//lh3.googleusercontent.com/jX-X4uYV12Tgta52PGLaG-kOL-lyShseOFPic1pygDPLRgRY0FPHcca57ibgXyXwntE=h310",
+        "//lh3.googleusercontent.com/KnsIkLkqf30uPyu1KufG-qBuJ7uwUXfaDIcSTZg8Kkgm2aCeAp08nGlR90g8-2RKhQ=h310",
+        "//lh3.googleusercontent.com/KmJujAK0xiJIjdvFTaHPpAyTp_gFFC3wpImP-yieEEox2-VCh0bJe_bhToODoGqGq--N=h310",
+        "//lh3.googleusercontent.com/ZBkXdNVIIRGOklegcmb7HmBlnGa-YAs3Y0myyZwrqbKyD-PY9SyV5J0EjSqyv2S1Sg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Added a compass that shows the direction to a given float if all necessary sensors are available."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yumemi.kyotogionfestivalfloatlocator&hl=en&gl=us",
+    "appId": "jp.co.yumemi.kyotogionfestivalfloatlocator"
+}

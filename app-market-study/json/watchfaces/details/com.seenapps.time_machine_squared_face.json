@@ -1,0 +1,45 @@
+{
+    "title": "Squared Time Machine",
+    "summary": "Back to the Future Time Machine with 3 timezones, optimized for squared devices.",
+    "icon": "//lh3.googleusercontent.com/-Isr98St6NRFnCLWabhkoUZoQv3UccgshLOKI23x91z2o572Yz7ftJRTkWYU199g-qE8=w300",
+    "price": "$1.29",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.8,
+    "reviews": 6,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "October 28, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "If you enjoyed our previous Time Machine (should be listed below) and wished for a watch face designed for your squared device, this is for you.Warning: This face will be truncated  on round devices.The look and feel is closer to the original time machine instrumentation in the Back to the Future series.I decided to jettison dates to reduce redundancy and improve for legibilityAs always with our faces, all configuration is in-watch. You can configure \"Destination\" and \"Departure\" time as you wish. Present time will be synchronized with your host device.Ambient mode is achieved by removing all decoration, only keep led texts.For questions and/or features request, please contact support@seenapps.comIf you like our faces, we publish updates and previews at https://twitter.com/SeenApps",
+    "descriptionHTML": "If you enjoyed our previous Time Machine (should be listed below) and wished for a watch face designed for your squared device, this is for you.<br>Warning: This face will be truncated  on round devices.<br><br>The look and feel is closer to the original time machine instrumentation in the Back to the Future series.<br>I decided to jettison dates to reduce redundancy and improve for legibility<br><br>As always with our faces, all configuration is in-watch. You can configure &quot;Destination&quot; and &quot;Departure&quot; time as you wish. Present time will be synchronized with your host device.<br><br>Ambient mode is achieved by removing all decoration, only keep led texts.<br><br>For questions and/or features request, please contact support@seenapps.com<br>If you like our faces, we publish updates and previews at https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Dw6Xs7-2jW2COnPKbHy_1uMFlunCjDRIk2L79T0m5Yc0a0wOuY6BE2NYOkMOS6LBdQ=h310",
+        "//lh3.googleusercontent.com/DHZUpRBR_SDaX54a2-SbDMIYyZELP9qcu2VM_9HVza8nYiZAbTBLp6LII13ZAVzAbOfH=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "v1.1 Forcing seconds to 00 in ambient mode",
+        "Please see detailed description for list of features."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.time_machine_squared_face&hl=en&gl=us",
+    "appId": "com.seenapps.time_machine_squared_face"
+}

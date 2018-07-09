@@ -1,0 +1,57 @@
+{
+    "title": "Poweramp Remote 4 Android Wear",
+    "summary": "Control your Poweramp from Android Wear! Play, skip, track, album, playlist, etc",
+    "icon": "//lh6.ggpht.com/gQvIjWDmiga--2LPX6tqDz0jTXOL-uhiyfROHrzzotOijb2hecrwZN2rRWk2pBJK92Y=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.2,
+    "reviews": 437,
+    "developer": "NeFa Studio",
+    "developerId": "NeFa+Studio",
+    "developerEmail": "nefastudio@gmail.com",
+    "developerWebsite": "http://nefastudio.net/",
+    "developerAddress": "5410053\nJP Osaka, Osaka-city chuoku honmachi 4-8-1",
+    "updated": "February 13, 2018",
+    "version": "1.37",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "You need Android Wear watch device to use this software.Tested and runs with LG G Watch, LG G Watch R, Moto 360, SmartWatch3You also need Poweramp app since this app is only a remote controller and does not include Poweramp itself.*If app is not getting installed on android wear, wait for while or try \"resync app\" on android wear management app.**Put Poweramp, Android Wear, and this app to exclude from battery optimization (or battery saving or similar) app. Else, app will not run when Android device is in sleep mode.Control Poweramp from your wrist!Voice search to quick find favorite music!In control page, swipe up/down from center to switch control. swipe left/right to change tabs.-Play, Pause-Next/prev track-Next/prev album-Select track-Select album-Select artist-Select Playlist-Select EQ-Change repeat mode-Change shuffle mode-Adjust sound volume-Search with voiceTips - Use launcher, such as Wear Mini Launch for quick access to app.Known bugs/limitations - Selecting track while playing playlist not working correctly (Poweramp side problem? investigating)About permissions: read external storage : used to get audio data from file wake lock : used to improve response during control record audio : used for speech recognitionFeel free to report any bugs, comments, requests.Thanks for using!",
+    "descriptionHTML": "You need Android Wear watch device to use this software.<br>Tested and runs with LG G Watch, LG G Watch R, Moto 360, SmartWatch3<br><br>You also need Poweramp app since this app is only a remote controller and does not include Poweramp itself.<br><br>*If app is not getting installed on android wear, wait for while or try &quot;resync app&quot; on android wear management app.<br>**Put Poweramp, Android Wear, and this app to exclude from battery optimization (or battery saving or similar) app. Else, app will not run when Android device is in sleep mode.<br><br>Control Poweramp from your wrist!<br>Voice search to quick find favorite music!<br><br>In control page, swipe up/down from center to switch control. swipe left/right to change tabs.<br><br>-Play, Pause<br>-Next/prev track<br>-Next/prev album<br>-Select track<br>-Select album<br>-Select artist<br>-Select Playlist<br>-Select EQ<br>-Change repeat mode<br>-Change shuffle mode<br>-Adjust sound volume<br>-Search with voice<br><br>Tips<br> - Use launcher, such as Wear Mini Launch for quick access to app.<br><br>Known bugs/limitations<br> - Selecting track while playing playlist not working correctly (Poweramp side problem? investigating)<br><br>About permissions:<br> read external storage : used to get audio data from file<br> wake lock : used to improve response during control<br> record audio : used for speech recognition<br><br>Feel free to report any bugs, comments, requests.<br>Thanks for using!",
+    "histogram": {
+        "1": 27,
+        "2": 18,
+        "3": 48,
+        "4": 111,
+        "5": 233
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/CS9aZmJ9PmiOBDUugvJgaVYGYhUhdW_guxmQIW3RSvU1-NGRcsfH0VpLHHdWdjQISboU=h310",
+        "//lh5.ggpht.com/Xm5jk_aYOIsO7G53agqseXUWT_kiUCrS5BolvXiI2GtEyrnpkwcO3ii50MXbS8hz3w=h310",
+        "//lh6.ggpht.com/yQxgcFXScbBrcb10--nHatXjTJs_cI9WdJ6k8sRpnOfNWfcrO2PmdIIm_AIUJ3DHMTKH=h310",
+        "//lh6.ggpht.com/KFSrv8trMOOOsZ-Rsf-Iy8kCSwX1LHWUtqJsdDq8ZBaeYzQ6iXsBHk7IIFlnfjBOs4w=h310",
+        "//lh5.ggpht.com/abhhciqM9PSMjoBxaPJ2qt8MvuUujOvCAT9vIQ6U-K8LHsiAnHQ_YjHV0syZWjZ_z90=h310",
+        "//lh6.ggpht.com/hk4KdB16YbRgKjKmzTZZGflXGrtn7NtD8WvuJcyNnQluwXi3c41eKwvrqLzSeaZsr8qG=h310"
+    ],
+    "video": "https://www.youtube.com/embed/AHcIkFA44yw",
+    "comments": [
+        "Great app & support.",
+        "Worked now since bluetooth is rarely used  and connects when it wants to (bluetooth is so ifie) and wifi have become the main connection between phone and watch since Android 2.0, this needs to be upgrade to also use wifi to connect the 2 together.",
+        "No longer working after switching to huawei P10 on my Huawei watch",
+        "Thank you",
+        "I use Poweramp all the time and this app is perhaps the single most useful thing I could have on a smartwatch.  There is ONE thing I wish I were be able to do though, and I really hope you add it soon:   I want to able to select from a list of albums by a single artist. Right now, the album list simply shows ALL the albums by ALL the artists in my library. And selecting an artist from the artist list takes me to a list of ALL that artist's tracks. I want to be able to select an artist and be taken to a list of that artist's albums. This would make it much faster to navigate to a specific track, since I don't want to scroll through every single album in my library, and I don't really want to search by talking into the microphone either. Please consider allowing the user to browse through albums by a single artist; this would make it a five-star app for me. Thank you.  PS: If somehow there actually is a way to do what I described without talking into the microphone, please let me know, but as it is I don't think there is a way to do it yet.",
+        "Not working on Huawei at all since recent Android Wear updates. Used to work most of the time before, although the stock player controls were always fighting Power Amp Remote.  I prefer this app to the stock controls. Hopefully it will get fixed."
+    ],
+    "recentChanges": [
+        "Changed data listing method to handle large amount of items."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.nefastudio.android.nfpoweramp_wear&hl=en&gl=us",
+    "appId": "net.nefastudio.android.nfpoweramp_wear"
+}

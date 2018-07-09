@@ -1,0 +1,52 @@
+{
+    "title": "Wear Expenses",
+    "summary": "Track all your expenses and stay on your budget using Android Wear devices!",
+    "icon": "//lh4.ggpht.com/8G0QA58S5A6332Zkk7MuJ0w_NcDvvmdQF1CpqLSXIWZMqrSDqFugWTau9UwD6bnlacE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 65,
+    "developer": "bestan",
+    "developerId": "bestan",
+    "developerEmail": "bestan93@gmail.com",
+    "updated": "June 25, 2016",
+    "version": "0.4.0",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Wear Expenses allows you to track all your expenses using either voice and number pad on your Android Wear or easy-to-use interface on your phone. Use your watch to quickly find out how much money you spent or open the app on your phone to view full history.Set your budget and the app will help you stay on the target by changing background colour to orange and then red when you're approaching the limit!How to add an expense (3 different methods):- From the home screen on your watch just say \"OK Google, start expenses\" and once prompted say the number (e.g. twenty three point four six). Alternatively, open the wear app and click on microphone icon.- Open the wear app from the menu (or Wear Mini Launcher), click on Number pad icon and enter the value- Go to the app on your phone, click \"Add expense\" and follow instructionsThe app is in its early stages - more features and improvements are coming, but I would definitely like to hear what you think is missing and could be improvement. Feel free to provide any feedback by rating the app or sending me an email.It's open source - contributions are very welcome!https://github.com/bestan/android-wear-expense-trackerCredits:Stanislavs Beguns - developmentAmmaar Reshi - UI/UX",
+    "descriptionHTML": "Wear Expenses allows you to track all your expenses using either voice and number pad on your Android Wear or easy-to-use interface on your phone. Use your watch to quickly find out how much money you spent or open the app on your phone to view full history.<br><br><br>Set your budget and the app will help you stay on the target by changing background colour to orange and then red when you&apos;re approaching the limit!<br><br><br>How to add an expense (3 different methods):<br>- From the home screen on your watch just say &quot;OK Google, start expenses&quot; and once prompted say the number (e.g. twenty three point four six). Alternatively, open the wear app and click on microphone icon.<br>- Open the wear app from the menu (or Wear Mini Launcher), click on Number pad icon and enter the value<br>- Go to the app on your phone, click &quot;Add expense&quot; and follow instructions<br><br><br>The app is in its early stages - more features and improvements are coming, but I would definitely like to hear what you think is missing and could be improvement. Feel free to provide any feedback by rating the app or sending me an email.<br><br>It&apos;s open source - contributions are very welcome!<br>https://github.com/bestan/android-wear-expense-tracker<br><br>Credits:<br>Stanislavs Beguns - development<br>Ammaar Reshi - UI/UX",
+    "histogram": {
+        "1": 4,
+        "2": 12,
+        "3": 10,
+        "4": 18,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/5Vo76j8Xzb5N_hIB6SGggxehsD5cM9KBmtvT0z4NQFOlEYnfZ0L_TonDagaAHs9nR0YS=h310",
+        "//lh3.ggpht.com/gHMdb0aeHJF3KBOFesw4uIMijq3fffSxaz2cQ5gvJVKQoTmKUI3PwTkqOuDC5_Mi2rw=h310",
+        "//lh5.ggpht.com/JYa_hsJZgG14NoYH-dJQPTyxYXQUuv5C-vBKLICfgfZYtIZ31NVjhw_nay1RflfgwQ=h310",
+        "//lh5.ggpht.com/G6IRD1JtX9SxhtMiPM-F-YXcJjk2fp-MBob990m2jrnaAq3hQMqq_z5mPIKPxOf-CA=h310"
+    ],
+    "comments": [
+        "I would give it five stars if it offered any way at all to record a tiny description of what the expense is for and automatically saved the location and time the transaction was made at. Without these crucial bits of data, it's practically useless as an expense tracker. I can never remember what the money was spent for when I look at a contextually deficient list of amounts and dates a few days later.",
+        "Useful but can be improved Neat UI and pretty straightforward functionality. I'll give five stars if I can modify the currency and seperator.",
+        "Best simple budget app EVER!!! I need a daily sales tracker on my wear and this does the trick. Voice activated a MAJOR WIN. Few suggestions: 1. change colors (yuck green) 2. Delete history option on wear itself. 3. Allow budgets for day, week, etc...",
+        "Good, but can be better If there can be an option to have notification alerts at specified usage levels (like 90%), the app would be a lot more useful. Also, if there's a persistent notification that can be accessed to bring up the expense calculator, it would make the logging task simpler and would improve its relevance. In addition, the UI seems too simple; might lead users to believe that its functionality/utility is limited",
+        "Additional features Would also like to choose weekly or biweekly budgets.  App does not look good when watch is in enlarged text mode. Will rate 5 stars if changed",
+        "Simple interface but lacking in detail Not being able to at the least put in a description of what you spent the money on makes it impossible to be able to figure out what you're spending money on. If all you want to know is how much you have spent then it's okay."
+    ],
+    "recentChanges": [
+        "Fixed round layout"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=lv.bestan.android.wear.expensestracker&hl=en&gl=us",
+    "appId": "lv.bestan.android.wear.expensestracker"
+}

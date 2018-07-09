@@ -1,0 +1,46 @@
+{
+    "title": "Easy Watch face",
+    "summary": "Clean and simple watch face for saving battery life.",
+    "icon": "//lh3.googleusercontent.com/IKQ4SWAGjhjtP1Lqiq4DBnn5h_syRio5W-EJJSJPE3Egie9xfXq-hm0n3BCm1dfqJInl=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.8,
+    "reviews": 4,
+    "developer": "Taklamka",
+    "developerId": "Taklamka",
+    "developerEmail": "taklamka@gmail.com",
+    "updated": "February 19, 2016",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Made for Android Wear smart watch.",
+    "descriptionHTML": "Made for Android Wear smart watch.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6vZRAEhrpDHwdYBvFPfqp3112mj3jHaHkCskSoS3WL9pR89PeXMrkTwR_vimHdy47OY2=h310",
+        "//lh3.googleusercontent.com/AB3dXWV3E78TR26ee_gWVO1p2a2PIbP-sNJogcuGi1aj89TTorVh2rCpvbyZyGagmCxt=h310"
+    ],
+    "comments": [
+        "Very beautiful watch face but the card preview kinda ruin it, hope u make an option to disable the card preview in the next update. EDIT: thanks for the quick reply and update, one of my favorite watchface",
+        "Clean and simple A very nice face that isn't complicated.  Unfortunately, card previews cover up the face."
+    ],
+    "recentChanges": [
+        "*Fix card previews cover up the watch face"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.watchface.taklamka.easywatch&hl=en&gl=us",
+    "appId": "com.watchface.taklamka.easywatch"
+}

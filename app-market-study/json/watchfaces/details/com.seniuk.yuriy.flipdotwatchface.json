@@ -1,0 +1,42 @@
+{
+    "title": "Flipdot Watch Face",
+    "summary": "The Watch Face with a Flipdot display style.",
+    "icon": "//lh3.googleusercontent.com/FbrK0ziuyfzBC4jsSY5DfA6IhqpLdUkyh5QSFGdJDZmHm0HNWiV1vgSC48iuXQz0JZE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 6,
+    "developer": "Yuriy Seniuk",
+    "developerId": "Yuriy+Seniuk",
+    "developerEmail": "yoursen.dev@gmail.com",
+    "updated": "April 14, 2017",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Design of this watch face was inspired by flipdot information boards typically in airports and railway stations. It has smooth flip animation every minute in interactive mode, and two dim modes - normal dim and screen burn-in protection dim mode. It works fine on round an square devices.",
+    "descriptionHTML": "Design of this watch face was inspired by flipdot information boards typically in airports and railway stations. It has smooth flip animation every minute in interactive mode, and two dim modes - normal dim and screen burn-in protection dim mode. It works fine on round an square devices.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/i-Dv497hay0b6tQLoMBUK4PHT56w-WnuoABOO5jn8bTARsp_DG3QnP3qgrj3x3BxmNI=h310",
+        "//lh3.googleusercontent.com/ME8TdgiuC_z_Gjed8DFTpa6EP5TqScvSoCFLe_jL56PK_ItgKi-9nV8i-Y2hAYJQKEA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "-added support of android wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seniuk.yuriy.flipdotwatchface&hl=en&gl=us",
+    "appId": "com.seniuk.yuriy.flipdotwatchface"
+}

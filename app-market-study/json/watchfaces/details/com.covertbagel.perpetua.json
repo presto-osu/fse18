@@ -1,0 +1,49 @@
+{
+    "title": "Perpetua Watch Face",
+    "summary": "A simple, clean analog watch face.",
+    "icon": "//lh3.googleusercontent.com/5Nd5pplDbgDArl3mSTzt1AL7Av9CGhHPVW4oUKSzROnhmdnkmgrGsN8MbtverCsPBxk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 14,
+    "developer": "Christopher Blay",
+    "developerId": "Christopher+Blay",
+    "developerEmail": "chris.b.blay@gmail.com",
+    "updated": "June 20, 2015",
+    "version": "2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A simple, clean analog watch face. I made it for my own use but, hey, sharing is caring.- Displays day of week and day of month- Shows 12, 3, 6, 9 when AM and 0, 15, 18, 21 when PM- All hands are \"sweeping\"- Runs at 10 frames per second- Supports insets at top, left, bottom, and/or right",
+    "descriptionHTML": "A simple, clean analog watch face. I made it for my own use but, hey, sharing is caring.<br><br>- Displays day of week and day of month<br>- Shows 12, 3, 6, 9 when AM and 0, 15, 18, 21 when PM<br>- All hands are &quot;sweeping&quot;<br>- Runs at 10 frames per second<br>- Supports insets at top, left, bottom, and/or right",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qpf0Ej9o3kJV6b6i8NJTo_IfY0zYCJu5qgl2Hyz9LfclVqUIDXFxyGZMu_l76sLbros=h310",
+        "//lh3.googleusercontent.com/yrKzlgHdOT9i6dxaBPuhV9Y3lrC9Hhie1h2Hyl4jNyeJv678UaxFW28ZrM9a6RfTPfo=h310"
+    ],
+    "comments": [
+        "Really like the look of this watch, I just wish I could always display 12,3,6, and 9",
+        "Awesome. Love the 24 hour support",
+        "Looks amazing ;) Absolutely love it &lt;3"
+    ],
+    "recentChanges": [
+        "- Fixed insets",
+        "- Optimized drawing tick marks a bit",
+        "- Improved positioning of digits"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.covertbagel.perpetua&hl=en&gl=us",
+    "appId": "com.covertbagel.perpetua"
+}

@@ -1,0 +1,54 @@
+[
+    {
+        "author": "Steve Owen",
+        "comment": "...some not so good, daylight saving time problem is fixed.",
+        "date": "July 27, 2014",
+        "permlink": "/store/apps/details?id=ganachoco.wear.clockface.cairoclock&reviewId=Z3A6QU9xcFRPR3ZUVjJWdDhabDQ0b3FzUGp6SFVBWnFCcmhmZHI0UG9KVm02MEttVWdXRmRyUDBrREZrUURpZ2tnSU9RV1FTREdJbThjVnc2RTlXRFpwMmc",
+        "reply": {
+            "author": "YoungHo Cha",
+            "content": "Thanks for your reporting. I find another issue related DST. \n\nIt will be fixed on next release (1.0.11)\n\nThank you again.",
+            "date": "July 17, 2014"
+        },
+        "star": 4,
+        "title": "Some good faces...."
+    },
+    {
+        "author": "Jim T",
+        "comment": "Not quite polished enough. The circular faces extend beyond the watch screen on my Samsung live, making them look odd. This is worse in low power mode when the face is shifted to avoid burn in. All the faces look terrible in the low power background modes.",
+        "date": "July 16, 2014",
+        "permlink": "/store/apps/details?id=ganachoco.wear.clockface.cairoclock&reviewId=Z3A6QU9xcFRPRVhFWVhpd2pnQzd4eWkxbG1kMVA5Q2ZoaldKd012ZTJfVm80SUt4SjVubkVWZUw0WENoWTVzd3FyQVI3Q1g4V0lhU3B6bVF2ZFRoX1dIS2c",
+        "reply": {
+            "author": "YoungHo Cha",
+            "content": "How it looks like? Can you tell me detail?\nAnd I test cpu assumtion on my G Watch. It used cpu power about 6-7% when drawing second hand, and it used under 1% in dim mode.",
+            "date": "July 17, 2014"
+        },
+        "star": 3,
+        "title": "Nice idea"
+    },
+    {
+        "author": "Matt Wilkinson",
+        "comment": "I like the faces but they all seem to show one hour behind the actual time.  Any suggestions on what I can do to fix this?",
+        "date": "July 15, 2014",
+        "permlink": "/store/apps/details?id=ganachoco.wear.clockface.cairoclock&reviewId=Z3A6QU9xcFRPRWpSY3ZCcEdxQ3JSdzZVZnlBcGptSng2aDdqLVB1aDhtSTJ2aGdkTVlQLUxSaTllWjNEeURCQ0tyWmJYcmFDWUlZRUV3OHVKcEczekR3Qmc",
+        "reply": {
+            "author": "YoungHo Cha",
+            "content": "Thanks for your reporting.\nI find there is some miscalculation about Daylight Time.\nIt will be fixed on next release.\n\nThank you again. :D",
+            "date": "July 16, 2014"
+        },
+        "star": 2,
+        "title": "Nice but..."
+    },
+    {
+        "author": "Steve Svetkoff",
+        "comment": "Very nice",
+        "date": "July 14, 2014",
+        "permlink": "/store/apps/details?id=ganachoco.wear.clockface.cairoclock&reviewId=Z3A6QU9xcFRPR2gwY3Nxb2swWV96TVNPVG1xYzBUcG1kb0liLWwwTnVCZS1UU3VzaDBTZnp6ZFJiUWFWcFZKcVJPbkxCaDVpd2VJcXhtVVVnT1ZLRUx0Y2c",
+        "reply": {
+            "author": "YoungHo Cha",
+            "content": "Thank you for your suggestion.\nClock sizes are filled on your watch in next release (1.0.8)",
+            "date": "July 14, 2014"
+        },
+        "star": 4,
+        "title": null
+    }
+]

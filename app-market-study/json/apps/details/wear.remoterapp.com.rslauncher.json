@@ -1,0 +1,49 @@
+{
+    "title": "Wear RSLauncher",
+    "summary": "App launcher for Android Wear with floating icon launcher",
+    "icon": "//lh3.ggpht.com/akrRQh6SAqQPMeUsVa0SHligqIi25vs1SXrQ7Bbup9SEMqfZLRaJkICGFEsJ6h7Y=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.1,
+    "reviews": 11,
+    "developer": "Meetcha At Ltd",
+    "developerId": "Meetcha+At+Ltd",
+    "developerEmail": "robslama@gmail.com",
+    "developerWebsite": "http://www.spiritline.org",
+    "updated": "September 1, 2014",
+    "version": "1.0.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "App launcher for Android Wear with floating icon launcher",
+    "descriptionHTML": "App launcher for Android Wear with floating icon launcher",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/Vg-J-AbCYrAmrpH0gwOcMgSjQdLhbYh8D-UXVvhJ-MSU6yo09ZTg_8yDvIfEFGChEJg7=h310",
+        "//lh3.ggpht.com/koOyJK4va-ZPheABVypg9gKg34PvElVmWaJDJAMtGS7eU1FiuIi2ymXokiVMyG41-Wk=h310"
+    ],
+    "comments": [
+        "Crashes Can't get it to work on Moto 360, 5.01. \"Unfortunately RS launcher has stopped.\"",
+        "working very well with samsung gear live I love this.  Makes things much better because access it gained ... settings stuff is easier.",
+        "Its ok, needs work Samsung gear live. Really like the idea of a button that is on the screen at all times for the launcher, but when I opened the launcher some of the apps are cut off at the bottom, and also there is a app sized gap between the first line of apps and the rest of the apps."
+    ],
+    "recentChanges": [
+        "- bug fixes",
+        "- apps start improvement"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wear.remoterapp.com.rslauncher&hl=en&gl=us",
+    "appId": "wear.remoterapp.com.rslauncher"
+}

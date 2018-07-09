@@ -1,0 +1,56 @@
+{
+    "title": "Retro Game Watch",
+    "summary": "A retro game watch based on some old video games displaying fonts as &quot;pixelated&quot;",
+    "icon": "//lh3.googleusercontent.com/xRKuNF-Fbk5EW7zg_gJsFX8wEGrRqmYDcLNbnZR6sYs2szoQDj5sLu0UULtnT8IqsLyp=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 3,
+    "reviews": 2,
+    "developer": "Suplardo",
+    "developerId": "Suplardo",
+    "developerEmail": "suplardo@gmail.com",
+    "developerAddress": "3200 S Litzler Dr APT 2-207",
+    "updated": "August 7, 2015",
+    "version": "1.0.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A retro game watchface based on old video games. The font on the watchface is showed as pixel-style. The weather icon changes depending on what the weather is like outside.Tags: watchface, watch face, nintendo, video games, sega, gameboy, mario, luigi, coin, android, wear, Moto 360, LG G Watch, Motorola, wrist, cloud, weather, time, calendar, pixel, style, icon, retro, gaming, game",
+    "descriptionHTML": "A retro game watchface based on old video games. The font on the watchface is showed as pixel-style. The weather icon changes depending on what the weather is like outside.<br><br><br><br>Tags: watchface, watch face, nintendo, video games, sega, gameboy, mario, luigi, coin, android, wear, Moto 360, LG G Watch, Motorola, wrist, cloud, weather, time, calendar, pixel, style, icon, retro, gaming, game",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_TmVo5CqSpjdSGRRM81MvEPM7bHkxsbUyJeHmwj_vIacdfc8-l2l1-tHPBpYMj6DZ58=h310",
+        "//lh3.googleusercontent.com/7F65sFaTGN7L1C5LxOniNbAGq6vuntyFkOosjb4AAcDk7Wnr04Gh598gcX5L7Aq7LsdC=h310",
+        "//lh3.googleusercontent.com/kC_br0thuFKEetEj9bsYbqdGhg3x0d0BSwUztrWkTO8iE52hhHECDCdXrS5B-NhIowaP=h310",
+        "//lh3.googleusercontent.com/cYjM1d_da5B6vvuaCVN_aaxoV3oVbZmivSJ43i_8i_Gzq0lA8sIvz6uFp9JrRaW-gTA=h310",
+        "//lh3.googleusercontent.com/okArdk9NyofR71WZaZEq6gM0iV9Z25jcQIu_tBwak6Kxl1tsGdXhefZxTfMq310e_g=h310",
+        "//lh3.googleusercontent.com/GEFVmc6z7u2nfSLiWefbvr1d_5Q-DNBITn4P2EjfxJyFcvWic96DGCiLWVtuAUIMTG4=h310",
+        "//lh3.googleusercontent.com/4RiYkVuMjSWn_e-WpqiqcTvF0uotQR1qEGLMV2djJIUAtcdR5eLmMnc1BfDN7skTpDo=h310",
+        "//lh3.googleusercontent.com/_0zbiakb5sszuy67bouC1T6i1h9URfUWj5xXCrT30K6yhxn_Do5nCtzeWYuYh3czyvo=h310",
+        "//lh3.googleusercontent.com/mnA-f5FAAWU79L3TWzPl9G6rVAFjKgkKE-1yH5CvhJ6eY1asvufh3Gm_VFobbAbPcM0=h310",
+        "//lh3.googleusercontent.com/cdQqZVOiJiy4DsUUOeiSwZUOUu3N8oUJ0XFqeQfnjB2hK1ilt8MvJaTzZfh4Drg97VI=h310",
+        "//lh3.googleusercontent.com/B6AdSADwLeNV_edxbO-5I-wN2iS0DGmb1JTr2YusBAq5EyF59cSdcoRkHxzHg74yn00=h310",
+        "//lh3.googleusercontent.com/-DZo2GujdU8eJrPFYs2u7LtIa-MJRgR0qyHxfcqM9Az57PHG-89LWMY20WXDLSdp3g=h310"
+    ],
+    "comments": [
+        "weather do not work at all."
+    ],
+    "recentChanges": [
+        "Battery percentage rendering is done better and more power efficient."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=suplardo.com.retrogamewatch&hl=en&gl=us",
+    "appId": "suplardo.com.retrogamewatch"
+}

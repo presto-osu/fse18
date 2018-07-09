@@ -1,0 +1,47 @@
+{
+    "title": "Wear - Device Settings",
+    "summary": "View and toggle device settings on and off from your wearable!",
+    "icon": "//lh5.ggpht.com/j4jJ44AkmPwHfMMO_1hMpckLfOirWmZ6HY35WK1nr-lH-_eje4va54dbGKbxLgaV63wt=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 2,
+    "reviews": 4,
+    "developer": "Augmented Technologies Ltd",
+    "developerId": "Augmented+Technologies+Ltd",
+    "developerEmail": "support@aug-tech.co.uk",
+    "developerWebsite": "http://www.aug-tech.co.uk",
+    "developerAddress": "29 Thistle Close\nLyde Green\nBristol",
+    "updated": "March 1, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "View important phone/ tablet states such as WiFi, Mute, Location, Mobile data etc and toggle them on and off from your wearable.The display of each state and general options can be managed through the companion device app.Additional options include;- Notify when device/ wearable is disconnected- \"Ring my phone\" (Great for escaping from a meeting to take an 'urgent call')Note: Due to Android security settings the following states can only be changed on your device, although the correct settings page can be opened by tapping the option on the wearable;- Airplane mode- NFC- Roaming- LocationIcon legend;Green = On, Red = Off, Blue = App optionCircle = Can toggle settingSquare = Open (settings page) on Device.Please feel free to comment / email suggestions for additional options you would like.",
+    "descriptionHTML": "View important phone/ tablet states such as WiFi, Mute, Location, Mobile data etc and toggle them on and off from your wearable.<br><br>The display of each state and general options can be managed through the companion device app.<br>Additional options include;<br>- Notify when device/ wearable is disconnected<br>- &quot;Ring my phone&quot; (Great for escaping from a meeting to take an &apos;urgent call&apos;)<br><br>Note: Due to Android security settings the following states can only be changed on your device, although the correct settings page can be opened by tapping the option on the wearable;<br>- Airplane mode<br>- NFC<br>- Roaming<br>- Location<br><br>Icon legend;<br>Green = On, Red = Off, Blue = App option<br>Circle = Can toggle setting<br>Square = Open (settings page) on Device.<br><br>Please feel free to comment / email suggestions for additional options you would like.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/urErmGcDbQ4OkVdXjMtwHqtgZa9VIMnnEU51ln3V-Sx-tdUJmz8SdRxV5BoUdNzIJbM=h310",
+        "//lh6.ggpht.com/ateX1LNDAgjYd7T6h5BrghwEgaIgWr7dNsRstzBgF0g1wW92LDvIAB3uaydm1w6-6Y47=h310",
+        "//lh6.ggpht.com/rgsqH-LvEPVXSOhpc7sZNZdGe_b1WDh5XgXIts-NdRxNi0dZJFqS2GpZk36xVzGPydMU=h310",
+        "//lh4.ggpht.com/VYlJTxQfRjeWZhjyS-7gYTXL8utAEORmIbIrq7WjSk42fBmrlu8x5hFNF0eo2BlVGGGe=h310"
+    ],
+    "comments": [
+        "Not functioning on New Moto 360 pairing with One Plus One"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.augtech.devicesettings&hl=en&gl=us",
+    "appId": "com.augtech.devicesettings"
+}

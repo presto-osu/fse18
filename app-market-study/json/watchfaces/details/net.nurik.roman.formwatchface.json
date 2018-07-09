@@ -1,0 +1,60 @@
+{
+    "title": "FORM Watch Face",
+    "summary": "A watch face for Android Wear based on the FORM event typeface.",
+    "icon": "//lh3.googleusercontent.com/bwfbUqJLT5FSBgQTWIJUF82eHy-YRxW920S1vyqLo7I6hY-NrOQVuRRLArIEn6F00-Y=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.4,
+    "reviews": 1763,
+    "developer": "Roman Nurik and Ian Lake",
+    "developerId": "8342585124646920177",
+    "developerEmail": "support@muzei.co",
+    "developerWebsite": "http://roman.nurik.net",
+    "updated": "June 1, 2015",
+    "version": "1.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This is an Android Wear watch face based on the typeface used for FORM, Google's first design conference. For more on FORM, see google.com/design/form and check out the #FORMSF14 hashtag on Twitter on Google+.FORM typeface and animations thanks to the great work of the UXA team at Google.The source code for the watch face can be found at https://github.com/romannurik/FORMWatchFace.",
+    "descriptionHTML": "This is an Android Wear watch face based on the typeface used for FORM, Google&apos;s first design conference. For more on FORM, see google.com/design/form and check out the #FORMSF14 hashtag on Twitter on Google+.<br><br>FORM typeface and animations thanks to the great work of the UXA team at Google.<br><br>The source code for the watch face can be found at https://github.com/romannurik/FORMWatchFace.",
+    "histogram": {
+        "1": 54,
+        "2": 44,
+        "3": 132,
+        "4": 374,
+        "5": 1159
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/iQ1kxPfGYX6C8qvK-e25PXeMbeNqUcvELDrIGZSjCcb9UtalEGyk6kx-P4f9I5ex1zs=h310",
+        "//lh3.googleusercontent.com/40by0zLe3li9_QnYMk-sWMrCQt_E0Qbuovo3GWeju3oS3Uf61FPCuvjfvBt1e4xIwOM=h310",
+        "//lh3.googleusercontent.com/nlL2vLCPg-KK-sXRuUQUbLDjnUVe1RMEFQYPRgynCyAhTKkh-WH7yQGIdlfoZBTSVcPj=h310",
+        "//lh3.googleusercontent.com/V0aesCSUq-uwhOOYHkzi4_rI0YaDBxh0MAl6aNT4eh_CmQckmcPnRzHiqkhbOLjSrw=h310",
+        "//lh3.googleusercontent.com/C9oEh74TPfrd73RRPB-hsNy4UsPu_evg1bTDgbiYtuPtL5Ab5aITHj_jlWbdvZcJPQ=h310",
+        "//lh3.googleusercontent.com/LJ5NAlQtclsPlvRJtrPOgKYtYrcgLoTbMcjAlzOxe82S3o2m2W5cvZ4tDOxYIf-PFNw=h310"
+    ],
+    "comments": [
+        "Amazing! This watchface is my new go to on my moto 360. I would describe it as magical.  Only thing missing is a colour picker this girl would love more colours.  Also Muzei option is hit and miss. Often just shows a black background.  Add more colors and this 4 stars will IMMEDIATLY be 5 stars.  Thank devs for your awesome work, btw i would pay for extra features to ensure your continued awesomeness!",
+        "Best Face on the Play Store Clean and done right. This is the only face I have used that adapts to the cards and it displays the largest notifications of any face I have used while still keeping the info you need visible. I only wish there was a battery indicator for watch/phone and the date was bigger. Small things and not enough to keep me from giving a 5 star rating!",
+        "Simple and elegant. I have just two tiny complaints. The next minute should get updated on 00 seconds, but it gets updated on 58th second, which is a bit awkward. Secondly please add more colors. Otherwise very nice design and animation, simple yet sophisticated, love it. Please update the app and I will give all the 5 stars you deserve. For Huawei watch.",
+        "Maker of Muzei strikes again! The is a really good watch face the way the seconds change and animate the integration of muzei is really nice I absolutely love the way the time moves out of the way when you bring up your notification cards it's a great little face and one of my favorites to rock on my west device hands down",
+        "Absolutely Gorgeous The design is amazing. It makes me just want to sot and stare at my watch and see the seconds count. The accommodation for Muzei just makes the whole thing even better: I get to see a lovely picture done by one of the most talented people ever, and see the incredible design of the numbers.",
+        "Great but... It's my favorite watch face by far but it would be nice to have the short card option. The cards taking up half the screen and fading at the end is a real put off. But other than that everything is peachy keen!"
+    ],
+    "recentChanges": [
+        "1.0.2",
+        "- Fix date not updating",
+        "1.0.1",
+        "- Fix extra top black bar on the Moto 360 when using the Muzei theme",
+        "1.0",
+        "- First public release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.nurik.roman.formwatchface&hl=en&gl=us",
+    "appId": "net.nurik.roman.formwatchface"
+}

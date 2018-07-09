@@ -1,0 +1,53 @@
+{
+    "title": "DronesWear",
+    "summary": "Control some of the Parrot drones with your Android wear device",
+    "icon": "//lh3.googleusercontent.com/C6u1Tos15Y0B7oBh38YAo0MkOTBOEcmq8ei-ODkasOFPThwPM20vIBHiHyjAVuk9atfB=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 6,
+    "developer": "Sousoum Prod.",
+    "developerId": "Sousoum+Prod.",
+    "developerEmail": "sousoum.prod@gmail.com",
+    "developerWebsite": "https://github.com/Parrot-Developers/DronesWear/blob/master/privacyPolicy.md",
+    "developerAddress": "25 rue du Département\napt 32\n75018 Paris",
+    "updated": "September 5, 2017",
+    "version": "Varies with device",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "size": "Varies with device",
+    "description": "With this app you can control some Parrot drones and pilot them with your Android wear device.Usage1. Connect your phone to the drone's Wifi.     If an Android notification asks you if you want to stay connected even if there is no internet connection, please answer yes.2. Open the app on your phone and on your watch (no precise order required).3. Wait for the app to connect to your drone (a message will inform you about the status)4. Now that you're connected, the action button is displayed on the watch.5. Just move your wrist gently and see how the drone moves :)6. For the flying drones, you can change the orientation and altitude with a joystick (up and down for altitude, right and left for orientation)If disconnections appear to often, be sure that your drone is on a 5ghz Wifi (if your country laws authorize it). You can change the Wifi band of your drone with the official Parrot app FreeFlight3.Please also note that connection on BLE drones might take up to 30 seconds.You can control these Parrot drones:- Bebop- Bebop 2- Jumping Sumo- Jumping Race- Jumping Night- RollingSpider- Airborne Cargo- Airborne NightWith the flying drones, you can take off and land, and also control the drone on pitch and roll (make them fly forward, backward, on left and right). You have also a joystick on the second page (on your watch). With this joystick, you can control the altitude and orientation of the drone.On the handheld device, you can at any time stop the propellers in case of emergency.You can pilot the jumping drones with the watch. You can also make them jump.SecurityAt any time, you can stop piloting the drone with the *pilot from wear* switch button on your phone. Switching it off will make the flying drones hover and the jumping ones stop moving.The code of this app is fully open sourced. You can found it here: https://github.com/Parrot-Developers/DronesWearThis app uses the Parrot Drone SDK (version 3.8.1). Documentation of this SDK is available here: http://developer.parrot.com/",
+    "descriptionHTML": "With this app you can control some Parrot drones and pilot them with your Android wear device.<br><br><br><b>Usage</b><br>1. Connect your phone to the drone&apos;s Wifi. <br><br>    <b>If an Android notification asks you if you want to stay connected even <br>if there is no internet connection, please answer yes</b>.<br>2. Open the app on your phone and on your watch (no precise order required).<br>3. Wait for the app to connect to your drone (a message will inform you about the status)<br>4. Now that you&apos;re connected, the action button is displayed on the watch.<br>5. Just move your wrist gently and see how the drone moves :)<br>6. For the flying drones, you can change the orientation and altitude with a joystick (up and down for altitude, right and left for orientation)<br><br><b>If disconnections appear to often, be sure that your drone is on a 5ghz Wifi</b> (if your country laws authorize it). You can change the Wifi band of your drone with the official Parrot app FreeFlight3.<br><br>Please also note that connection on BLE drones might take up to 30 seconds.<br><br>You can control these Parrot drones:<br><br>- Bebop<br>- Bebop 2<br>- Jumping Sumo<br>- Jumping Race<br>- Jumping Night<br>- RollingSpider<br>- Airborne Cargo<br>- Airborne Night<br><br>With the flying drones, you can take off and land, <br>and also control the drone on pitch and roll <br>(make them fly forward, backward, on left and right). You have also a joystick on the second page (on your watch). With this joystick, you can control the altitude and orientation of the drone.<br>On the handheld device, you can at any time stop the propellers <br>in case of emergency.<br><br>You can pilot the jumping drones with the watch. You can also make them jump.<br><br><b>Security</b><br>At any time, you can stop piloting the drone with the *pilot from wear* switch button <br>on your phone. Switching it off will make the flying drones hover <br>and the jumping ones stop moving.<br><br>The code of this app is fully open sourced. You can found it here: https://github.com/Parrot-Developers/DronesWear<br><br>This app uses the Parrot Drone SDK (version 3.8.1). <br>Documentation of this SDK is available here: http://developer.parrot.com/",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LN7rKjCBriU7fWqwPkbZSD7xBMB4IJnnVRu3LEYzPKbDW8pK7zQTUXR1AS5UeyEFeCA=h310",
+        "//lh3.googleusercontent.com/qTTTyaZRi3L0AifdLCTvVU4FunncDOl7ntC-o4rpXM0urGt2lHDmuW7fbkURZms0-rYy=h310",
+        "//lh3.googleusercontent.com/IqUwoVChj0xhmKbJaKgQJFjtrwS3htaGa3_XBZThj4smf2WkEfIvSmkYtQMd3Ydxew=h310",
+        "//lh3.googleusercontent.com/ekiCikkVuIfS0hLOa-GTabg7E3cGOTMZXp-2YY_nRGNVFaOapthw6kyNcTkl1Ysr4Q=h310",
+        "//lh3.googleusercontent.com/NbFOSyC55bXFVx2zsB0_Uo762TIGv1OBQHQFzcXiN6YUJ9jYQcggcnZ0mff9NyNvZp9u=h310",
+        "//lh3.googleusercontent.com/Llur6440P7P6cfvJL5ofYd3mng7BXRHCUIbYCEQNJ0ytU8ij442YqnIl2mWGAPnHtJFY=h310",
+        "//lh3.googleusercontent.com/elvFH5ky8nvA-64Y1u27303jo5FOxqnzt4U9D0ZRQH1QWXqaYItnkazJ1gIoyBlSw9w=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Updated dependencies",
+        "Fixed the bug where piloting from the wear was not working",
+        "Fixed display bug where the connection screen and the connected screen were displayed at the same time"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sousoum.droneswear&hl=en&gl=us",
+    "appId": "com.sousoum.droneswear"
+}

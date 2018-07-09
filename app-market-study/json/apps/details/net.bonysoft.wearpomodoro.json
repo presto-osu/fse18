@@ -1,0 +1,55 @@
+{
+    "title": "Wear Tomato",
+    "summary": "A pomodoro timer for your Wear watch",
+    "icon": "//lh4.ggpht.com/DYJWBZl7l8j-K-ESldJG6doTfmsWeeH_GvNMttdEaTUdbRm8YjMrrJYhFH4F-OWRdCCT=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.9,
+    "reviews": 69,
+    "developer": "BonySoft",
+    "developerId": "BonySoft",
+    "developerEmail": "bonysoft.dev@gmail.com",
+    "developerAddress": "Unit 20, The Ivories, 6/18 Northampton Street, London N1 2HY",
+    "updated": "December 17, 2014",
+    "version": "1.1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "To know more about Pomodoro Technique:http://en.wikipedia.org/wiki/Pomodoro_TechniqueThe app is FOSS, released under the Apache 2.0 license. You can found the sources at https://github.com/danybony/wear-pomodoroInstructions-Pair your device with watch.-Install the application-Run the app from your watch with OK Google... start TomatoNote: you will NOT find an icon on your smartphone launcher. The app is installed directly on the watch once it is paired with the phone.",
+    "descriptionHTML": "To know more about Pomodoro Technique:<br>http://en.wikipedia.org/wiki/Pomodoro_Technique<br><br>The app is FOSS, released under the Apache 2.0 license. You can found the sources at https://github.com/danybony/wear-pomodoro<br><br><b>Instructions</b><br>-Pair your device with watch.<br>-Install the application<br>-Run the app from your watch with <b>OK Google... start Tomato</b><br><br><b>Note:</b> you will NOT find an icon on your smartphone launcher. The app is installed directly on the watch once it is paired with the phone.",
+    "histogram": {
+        "1": 8,
+        "2": 3,
+        "3": 5,
+        "4": 24,
+        "5": 29
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/1W5V6qVKxBhK1gT7Qb-UZeNe84a7EgJnjDgTN6m3BYDVaofXCif-hG0kqgtyOH8UZyi1=h310",
+        "//lh3.googleusercontent.com/ekqKW7iBq_SKSQ8DZi3eEDwElLBB9zwNA4TzLuJC-yEZvMGVKQMMCS1-c2O8nmZ9Vl1B=h310",
+        "//lh3.googleusercontent.com/RVmVG6G4uC-5ikfq84HDSbA8JzxX2c11vlqmJYDI_rgxF-lA4AoyX6YoLihwjprJVbo=h310",
+        "//lh3.googleusercontent.com/OvKVfPt7g1XNo84-5Tpp3fP_44Noh0zAkQDaBcH_uLoYw5jz97X5m_QZhSvxNuc1pVWl=h310",
+        "//lh3.googleusercontent.com/ZEVCdDwqGifK6ktdcwSP7KSoD1E3c9T6lk3VlYExxihlHgByxr9B4fn9Fm2kPauuyA=h310",
+        "//lh3.googleusercontent.com/bu8gNwknDXlMPJYGbXt_kk7r1CnmFozFEd8a69-_nbyKK2V7pYEv7rrY65q9EaLVFlC6=h310"
+    ],
+    "comments": [
+        "Works well Edit: time remaining now fits on the screen. Great work. Original review follows: On my moto360, the text doesn't fit in on the card preview, so I don't see the last digit of the minutes remaining. And when the vibration occurs, the card still says \"one minute remaining\" for another minute or so. But other than that, works as advertised.",
+        "Good functionality, interface could be better. The vibrate function in this app is too long for my taste.  It would be nice if there was a settings portion where I could change the vibrate to one short burst like other apps, instead of the 3 long loud vibrates it does now.",
+        "THIS IS THE BEST! I would gladly pay for more features though.  Not only it it works flawlessly.  This tiny app sets the long and the short breaks automatically and continually.  My favorite thing is that there's no need to keep tapping Start like most Pomodoro apps and even PC apps. That is super useful to hopeless procrastinators because I can't extend my 5 minute break. I have to rush to keep working on my Pomodoro, which is already running. Genius!    It could have more features though. Like a PC/phone companion to log the pomodoros, customization to set the Pomodoro blocks, data export/import, Dropbox/Drive compatibility, etc.  Great job!",
+        "Want to be able to change pomo duration I've tested a few pomo apps for Wear and this is by far the most convenient one. However now I realize that the standard 25/5 timing is too short for me so I want to change it. If there is a settings menu in this app it's too well hidden. Looks like until it's there I'll have to switch to another app :( Other feature that would make this a 5+ app would be automatic start/stop on schedule. But, regardless of anything, thanks for this awesome app!",
+        "On my moto 360 2nd gen its been sat on 20 minutes for about 10 minutes now... Also it crashed the watch when initially installed",
+        "works well Would give it 5 stars if there was a way of configuring the duration of the pomodoros."
+    ],
+    "recentChanges": [
+        "Improved round layout"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.bonysoft.wearpomodoro&hl=en&gl=us",
+    "appId": "net.bonysoft.wearpomodoro"
+}

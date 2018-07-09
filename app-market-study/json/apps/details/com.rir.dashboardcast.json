@@ -1,0 +1,58 @@
+{
+    "title": "Dashboard Cast",
+    "summary": "Personalized Chromecast homescreen. Create widgets and display them on your TV.",
+    "icon": "//lh3.ggpht.com/lVWRDK5cBR7Yf0iUIPbiBx6Njjkr6j7ow9nMw3O5_kd5kDemejCLckE1YVu29RsgkA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.9,
+    "reviews": 2169,
+    "developer": "RiR",
+    "developerId": "RiR",
+    "developerEmail": "rircomments@gmail.com",
+    "developerWebsite": "http://www.dashcastapp.com/privacy-policy/",
+    "developerAddress": "4266 rue Brébeuf\nMontreal, Qc H2J 3K7",
+    "updated": "March 6, 2017",
+    "version": "1.3.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Dashboard Cast is a personalized homescreen for Chromecast. Create and organise widgets to your liking and display them on your TV. This app requires a Chromecast or a Cast enabled device to work. ----  This app is developed on my free time, I do what I can to make this app work and bring new features. To help support the development of Dashboard Cast, you can make a donation from the app  ----You can now create alarms to automatically trigger casting of your dashboard to your TV. Widgets available : - Clock and date- Weather: get current and future weather forecasts- RSS: view RSS or ATOM feeds on your TV- Calendar: read your phone's calendar and display it on your TV- Stock: select from a list of stock quotes- Audio : play audio streams or podcasts (beta). Select a podcast from the app, or enter a url to an audio file or stream or playlist and listen to it on your chromecast. Supported audio file and playlist formats : mpeg (mp3, mp4, etc), .ogg, .pls, .xpsf, .m3u. - Map: Weather layer or traffic map with directions informationFeatures available : - Choose your own backgrounds to display behind your widgets (beta)- Customize the look of your widgetsMore widgets and more personalization options coming in future versions. Upcoming widgets and features : - Note widget- Picture slideshow widget- Facebook and other social media integration- Email widget- Integration with other audio services (Google Music and others)- Device notifications widget- Better widget position, options and size control- Additional interaction with widgets on Chromecast from your device Want to suggest features to add to Dashboard Cast? Select the contact option in the app or send an email to rircomments@gmail.com Some Dashboard Cast widgets are still considered experimental. If there are any problems or issues, use the in-app contact button or send an email to rircomments@gmail.com.If you wish to help translate the app, send an email to rircomments@gmail.com with the language you wish to translate into. Permissions : - Read phone state : Needed to display advertisement. - Approximate location : the weather widget has an option to use your current location to get weather data. The permission is needed to access the city you are in to display proper weather data. - Read calendar events : the calendar widget needs this permission to send your upcoming events to Chromecast. If you do not have a calendar widget set up, the application does not look at your calendar data. - Google Play billing service : necessary to make in-app donations to remove ads. - Prevent phone from sleeping : if the phone sleeps while connected to the Chromecast, the connection is interrupted. Therefore the application needs to prevent the CPU from going to sleep in order to keep the connection open.- Receive device boot completed : needed to schedule alarms when the device is powered on. - Access and change wifi state : allows Dashboard Cast to automatically turn on wifi without going into the device settings.",
+    "descriptionHTML": "Dashboard Cast is a personalized homescreen for Chromecast. Create and organise widgets to your liking and display them on your TV. This app requires a Chromecast or a Cast enabled device to work. <br><br>----  This app is developed on my free time, I do what I can to make this app work and bring new features. To help support the development of Dashboard Cast, you can make a donation from the app  ----<br><br>You can now create alarms to automatically trigger casting of your dashboard to your TV. <br><br>Widgets available : <br>- Clock and date<br>- Weather: get current and future weather forecasts<br>- RSS: view RSS or ATOM feeds on your TV<br>- Calendar: read your phone&apos;s calendar and display it on your TV<br>- Stock: select from a list of stock quotes<br>- Audio : play audio streams or podcasts (beta). Select a podcast from the app, or enter a url to an audio file or stream or playlist and listen to it on your chromecast. Supported audio file and playlist formats : mpeg (mp3, mp4, etc), .ogg, .pls, .xpsf, .m3u. <br>- Map: Weather layer or traffic map with directions information<br><br>Features available : <br>- Choose your own backgrounds to display behind your widgets (beta)<br>- Customize the look of your widgets<br><br>More widgets and more personalization options coming in future versions. <br>Upcoming widgets and features : <br>- Note widget<br>- Picture slideshow widget<br>- Facebook and other social media integration<br>- Email widget<br>- Integration with other audio services (Google Music and others)<br>- Device notifications widget<br>- Better widget position, options and size control<br>- Additional interaction with widgets on Chromecast from your device<br> <br>Want to suggest features to add to Dashboard Cast? Select the contact option in the app or send an email to rircomments@gmail.com <br><br>Some Dashboard Cast widgets are still considered experimental. If there are any problems or issues, use the in-app contact button or send an email to rircomments@gmail.com.<br><br>If you wish to help translate the app, send an email to rircomments@gmail.com with the language you wish to translate into. <br><br>Permissions : <br>- Read phone state : Needed to display advertisement. <br>- Approximate location : the weather widget has an option to use your current location to get weather data. The permission is needed to access the city you are in to display proper weather data. <br>- Read calendar events : the calendar widget needs this permission to send your upcoming events to Chromecast. If you do not have a calendar widget set up, the application does not look at your calendar data. <br>- Google Play billing service : necessary to make in-app donations to remove ads. <br>- Prevent phone from sleeping : if the phone sleeps while connected to the Chromecast, the connection is interrupted. Therefore the application needs to prevent the CPU from going to sleep in order to keep the connection open.<br>- Receive device boot completed : needed to schedule alarms when the device is powered on. <br>- Access and change wifi state : allows Dashboard Cast to automatically turn on wifi without going into the device settings.",
+    "histogram": {
+        "1": 152,
+        "2": 131,
+        "3": 327,
+        "4": 719,
+        "5": 840
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/y0CigGwVQqM41kxV-c_V73pwTv6iljo_QbutRPHPoAuofvXAm4jwIlO05IO1ez5VHq4=h310",
+        "//lh4.ggpht.com/eoebK4YVDynSb9CD8CPjqwU0aujSB_HPTrwyP2sl1nOGK0bEMifZhaqnSxIIBEZD_w=h310",
+        "//lh4.ggpht.com/JgzIayVvRULpNNd1q-TT1eqvizHfR90V40-b5y9Dx0rR445csQar-sdTZ6j29wKd13U=h310",
+        "//lh3.googleusercontent.com/ielwfdfPJfUT5uQLGUWDHM665iT3bxP6lelMDxqFNJcUr_RlehHNiSA4tWV8sCUDMl8=h310",
+        "//lh6.ggpht.com/-bttHfOnN_6c6Y1_PWvuNGdyD1kTI6eCnDTJ3lu8iJkAwufW39s7Ripua4u26Cat9A=h310",
+        "//lh4.ggpht.com/8_boLLu42l9gmIswOA4UBYsMmCsRtF4Z4vo4PqVhezGJtV7QadOwDOP529pYoG9uh38=h310",
+        "//lh4.ggpht.com/xe55--YhCPBNZSi8sVxuWrLetCKEOR_uAAEdes0X6oqHJA8FJCFdnvI2OIl1I9431Ntt=h310"
+    ],
+    "comments": [
+        "I am using this for weather and maps (love the live update on the map as you edit). I think it is a great effort. Yes there are glitches but it deserves a better rating so giving it 5 stars. Also donated $5 to remove ads. Please keep working on this developer. It's good to see something more than the usual video casting apps!",
+        "First impressions are mixed. There are some glitches with the bottom advert, that needs to be sorted urgently. Looking at comments below, I agree, we need a preview built into the app. Also, it would be good to see some developer responses to the comments left here. Feedback man!!! Talk to the people who want to use your app.",
+        "Works really well, love the auto connect option.   Wish there was a preview mode in the app, but that's not super important.   Tip: use with HDMI-CEC and your TVs built in scheduled off command to turn on and off your TV without any action if your own",
+        "A lot of good potential here with a few major issues: 1. Calendar doesn't refresh. If you don't re-cast every day, you'll have events being shown that are long past displaying. 2. The notes section is terribly broken. In order to get the white font to show up on the cast screen, I have to write text that is invisible (white) on the phone.",
+        "This is the Chromecast app I've been waiting for. A little rough around the edges but still exactly what I've wanted for a Chromecast dashboard. Would love to see support for a Google Play Music or Spotify widget...that would make this app near perfect in my eyes.",
+        "Was doing great. Only had a few options to decide from and when it kept saying 7 below when it was 23 above, I knew there was no use for this app with no other decent choices."
+    ],
+    "recentChanges": [
+        "- Visual refresh to many components in the app",
+        "- Lots technical improvements under the hood"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rir.dashboardcast&hl=en&gl=us",
+    "appId": "com.rir.dashboardcast"
+}

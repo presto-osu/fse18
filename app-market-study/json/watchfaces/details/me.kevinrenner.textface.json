@@ -1,0 +1,49 @@
+{
+    "title": "Text Face",
+    "summary": "Simple Android Wear watch face that displays the current time in words.",
+    "icon": "//lh3.googleusercontent.com/ctlCyWPjYZYtqlWT2Wa0L9wHODJceLNKy8IgLhh-gZxJIeuKoUeViSsHtl-elxRy_Xo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.2,
+    "reviews": 9,
+    "developer": "Kevin Renner",
+    "developerId": "Kevin+Renner",
+    "developerEmail": "krenner529@gmail.com",
+    "updated": "July 5, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A watch face for Android Wear that displays the time formatted as text. Both the text color and background color are customizable, as well as the font used.Planned Features:Use any image as a background",
+    "descriptionHTML": "A watch face for Android Wear that displays the time formatted as text. Both the text color and background color are customizable, as well as the font used.<br><br>Planned Features:<br>Use any image as a background",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Wz4yWQaIhf2Nv-BUJ5geFrZL1U55ny2dqp0qy-BRmfw23s-6OegcTaERDXvL7JFLMrJA=h310",
+        "//lh3.googleusercontent.com/91bQezjdRBgrcxEFqZPD1eN4EhizKvTkySnbz3hcA0vwvwQ6mH7oSY-hPuDB43Iv6Y4=h310",
+        "//lh3.googleusercontent.com/hvOfZ_h3wwh68qCTwfu0SZDfKYEWMF0f-X5CKimcFZ8X3OMrBhg0z-Nsr1dU_b3b9qY=h310"
+    ],
+    "comments": [
+        "Seems to be a problem with the date format in this face. It puts it in a weird month/day/year, which is quite unusable.",
+        "Need improvements Overall good. Please increase line spacing a bit. Have option to change font and size",
+        "Nice So far it's the only watch face I like.",
+        "Very nice looking human readable face"
+    ],
+    "recentChanges": [
+        "Added option to show date on watchface"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=me.kevinrenner.textface&hl=en&gl=us",
+    "appId": "me.kevinrenner.textface"
+}

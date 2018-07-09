@@ -1,0 +1,50 @@
+{
+    "title": "Watch Face - Chuen",
+    "summary": "Round Watch Face with weather and theme options",
+    "icon": "//lh3.googleusercontent.com/PMvBBXaOQ6mqHjDF5kMOpxVdCxMOzItWwuDs1yL4OUF1pDYJ0dVPM3auzPBQkABsaYI=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 3.5,
+    "reviews": 2,
+    "developer": "FrontGateDev",
+    "developerId": "FrontGateDev",
+    "developerEmail": "raspgate@gmail.com",
+    "developerAddress": "Kopli 36-3, Tallinn, Estonia",
+    "updated": "October 14, 2015",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "★ 12 or 24 hour watch display★ C and F temperature options★ Choose between 6 accent colors★ Aqua and Grey theme options★ Black & White ambient modeChuen Watch Face works with square and round watches!All settings are configurable from the watch",
+    "descriptionHTML": "&#x2605; 12 or 24 hour watch display<br>&#x2605; C and F temperature options<br>&#x2605; Choose between 6 accent colors<br>&#x2605; Aqua and Grey theme options<br>&#x2605; Black &amp; White ambient mode<br><br>Chuen Watch Face works with square and round watches!<br><br>All settings are configurable from the watch",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/G5u7bzVqgpkVHCQPz-ufswUoaykESBFkSySu9pzD1Hi0N6I0Br3T9HX6SiFpe0-AbQ=h310",
+        "//lh3.googleusercontent.com/MmHxBJvK3s5y-IsT5Y8OtIKVIeBDjzK9AKcd1w9WO1AlGQNYRb4nliFaxM445D1DyA8=h310",
+        "//lh3.googleusercontent.com/U18BIy6Z588Z2LbQVjyharDI2FsR3AfqJtgwkJRa-bC43uh7MPoae--gRQ3aQ4t-g6U=h310",
+        "//lh3.googleusercontent.com/kHNj1yEGCFqseLov4F13BZe4b6gNffVJMhIpwmYe0ZBkzVue1Sx4o_MakWryigJN55c=h310"
+    ],
+    "comments": [
+        "Good details and depth Would be a 5 star watch face if it were not for this NN.800000000000000001°F Fahrenheit bug.",
+        "Im loving this! A little dark but I like dark and minimal stuff!"
+    ],
+    "recentChanges": [
+        "Fixed last known location for weather.",
+        "Temperature information now retrieved faster!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.frontgatedev.chuen&hl=en&gl=us",
+    "appId": "com.frontgatedev.chuen"
+}

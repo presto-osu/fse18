@@ -1,0 +1,55 @@
+{
+    "title": "QuoteFace v2",
+    "summary": "QuoteFace is the financial stock ticker for your smartwatch!",
+    "icon": "//lh3.googleusercontent.com/MhRGOtJcEbQEalGKYW90hSkwuQ8QqKhHjAOGFdjBy_tXtUGIhwjvhmjD1I67ygyd_NSU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 24,
+    "developer": "Pascal Peeters",
+    "developerId": "Pascal+Peeters",
+    "developerEmail": "pascal.peeters.0513@gmail.com",
+    "developerAddress": "Polderstraat 2A\n9150 Kruibeke\nBelgium",
+    "updated": "October 20, 2016",
+    "version": "2.05",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "QuoteFace for Android WearStay informed about your most important stocks. QuoteFace is your stock ticker for your smartwatch! Quotes are updated multiple times a minute. The outer ring provides you with aninstant view regarding your portfolio.- Stay informed on the latest market news; with the integrated RSS Reader- Additionally, this watch face also shows your watch & phone battery status- Pre/Post market quotes shown for selected stock quotesPlease do email pascal.peeters.0513@gmail.com for any issues or feature requests!Tested on LG Watch R, but should be compatible with all Android Wear devices.After installation, select the Watch face “QuoteFace” in the Android Wear App or on your smartwatch. Open the corresponding QuoteFace application on your mobile to update selected stocks and portfolio details.Please note : It may be required to restart your phone one time after installation for the application to be fully functional.This watch face uses Google services and uses symbols as shown on finance.google.com.A few examples : NASDAQ:AAPL (Apple), NASDAQ:TSLA (Tesla), NYSE:GM (General Motors),CURRENCY:GBPUSD (GBPUSD Forex).Contact me @ pascal.peeters.0513@gmail.com",
+    "descriptionHTML": "<strong>QuoteFace for Android Wear</strong><br>Stay informed about your most important stocks. QuoteFace is your stock ticker for your smartwatch! Quotes are updated multiple times a minute. The outer ring provides you with an<br>instant view regarding your portfolio.<br><br>- Stay informed on the latest market news; with the integrated RSS Reader<br>- Additionally, this watch face also shows your watch &amp; phone battery status<br>- Pre/Post market quotes shown for selected stock quotes<br><br>Please do email pascal.peeters.0513@gmail.com for any issues or feature requests!<br>Tested on LG Watch R, but should be compatible with all Android Wear devices.<br><br>After installation, select the Watch face &#x201C;QuoteFace&#x201D; in the Android Wear App or on your smartwatch. Open the corresponding QuoteFace application on your mobile to update selected stocks and portfolio details.<br>Please note : It may be required to restart your phone one time after installation for the application to be fully functional.<br><br>This watch face uses Google services and uses symbols as shown on finance.google.com.<br>A few examples : NASDAQ:AAPL (Apple), NASDAQ:TSLA (Tesla), NYSE:GM (General Motors),<br>CURRENCY:GBPUSD (GBPUSD Forex).<br><br>Contact me @ pascal.peeters.0513@gmail.com",
+    "histogram": {
+        "1": 4,
+        "2": 2,
+        "3": 1,
+        "4": 1,
+        "5": 16
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/3tTDXPuVWYYczXuZhC88c950w0L-4cvJMUn2JspgDdTaz1LXhPGL2qUFAIMQQcJfnrc=h310",
+        "//lh3.googleusercontent.com/IQpE7WIzfRpvfVL4kKZG2tnYhNIHrXIUwUCjRP8hM03xPxTPeE8mM_hAOMTAJ1IDjXo=h310",
+        "//lh3.googleusercontent.com/7VIecCI0GCjl0BKkRZ7KIa64_GTz3LShpVuH4d3oNSF6pdxaw-SbmM6b5iL2QyPG_XZC=h310",
+        "//lh3.googleusercontent.com/J7OOtwwLeW-QlmDIQ8VItTbtS3GU66BiKMdADAE-qDJVZHTHZbp2ZbDc_3xzmA5s9xGY=h310",
+        "//lh3.googleusercontent.com/7l9Jc2IDhNYczxjP_ErM4LglbRj8Zx0eK0SiHVaipxhc8sfg_dUOprJPMp1l7T8ZGw=h310",
+        "//lh3.googleusercontent.com/WxfELBkWOzza608q0Fglv-Df4sVudfxpPFcohXPLQYzLfoErCg87NzOkHPEL5njdRtaT=h310"
+    ],
+    "comments": [
+        "Attempted to contact developer directly.  No response.  Needs the following updates to be good:  * do not vibrate on whatever update constantly.  Have an option to turn off vibrate notification. * doesn't update to the stocks I type in and click ok * should be a drop down menu for currency, not hand typed.   * go from portrait orientation to landscape orientation, back to portrait the fonts get all jacked up. *  took 3-4 days for the app to pop up on my watch to install.",
+        "Like the design layout on the watch, but phone app lacks in field labels and some indication that confirms communication.  A simple FAQ would be good about proper field entry, etc.  Bummer..this app does not work on the latest smartwatch Fossil Q Explorist GEN3 which runs AW natively.  Have gone through reviews, tried suggested methods to resolve, but still no updates to initial entries.  Also, when searching for this Wear in Store, it doesn't show (perhaps needs to be marked as compatible)  Would really like to see this work.",
+        "Love the look Gave a 5 star but had a question, is it possible to select different symbols? *update* they answered my question. I'm an IT guy at a financial firm, and this watch app is very well designed and functional. Great job guys!",
+        "Layout is good but I can't seem to switch the ticker symbols to different companies. And yes I am using Google finance format  Update. All good now. It takes the app a little while to update tickers once changed.",
+        "Dont waste your time with this app, Whatever I do restart both phone and watch or reinstall on both multiple times it does not work. It shows default quotes that app provided and not showing my own even after updating in google finance quote format.",
+        "Great Work Does exactly what it's supposed to do. Supports foreign exchanges etc. My ONLY suggestion would be to enable more than 4 stocks via pages. But still a great app!"
+    ],
+    "recentChanges": [
+        "Bug Fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.quoteface.pascalpeeters.quotefacev2&hl=en&gl=us",
+    "appId": "com.quoteface.pascalpeeters.quotefacev2"
+}

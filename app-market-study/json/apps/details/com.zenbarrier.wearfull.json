@@ -1,0 +1,62 @@
+{
+    "title": "Wear Battery Full",
+    "summary": "Get notified when watch is fully charged. Complication for phone battery level.",
+    "icon": "//lh3.googleusercontent.com/hlruHwtvUNhms0Tk2MIBG4vEZNPg5lO1umjYNXUusxgbbXD03-SBK_RBwMjTkZ4kbg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.6,
+    "reviews": 78,
+    "developer": "Zen Barrier",
+    "developerId": "Zen+Barrier",
+    "developerEmail": "dev@anthonybarrera.com",
+    "developerWebsite": "http://www.anthonybarrera.com/",
+    "updated": "April 26, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "This app will tell you when your watch is fully charged. You will also be alerted when the watch is unplugged from it's charging base before it has reached completion.You can customize the LED color, sound, and if it vibrates for the notification.You can also see the watch's current charge level on the notification dock while it is charging.To allow this app to work properly, please make sure that the app has installed on both the watch and the phone. Then run the app on the phone for the first time to activate the app on the watch.For Wear 2 devices, use a complication to keep track of your phone's battery level on your watch face.",
+    "descriptionHTML": "This app will tell you when your watch is fully charged. <br><br>You will also be alerted when the watch is unplugged from it&apos;s charging base before it has reached completion.<br><br>You can customize the LED color, sound, and if it vibrates for the notification.<br><br>You can also see the watch&apos;s current charge level on the notification dock while it is charging.<br><br>To allow this app to work properly, please make sure that the app has installed on both the watch and the phone. Then run the app on the phone for the first time to activate the app on the watch.<br><br>For Wear 2 devices, use a complication to keep track of your phone&apos;s battery level on your watch face.",
+    "histogram": {
+        "1": 5,
+        "2": 0,
+        "3": 2,
+        "4": 8,
+        "5": 63
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/VIux_hfM9EiRoENVAu0wylijOYOy8vZ2PQSq9qalLttVEBMuDNrdyp5iR0Gl1t1org=h310",
+        "//lh3.googleusercontent.com/Z83xkybaLg9RWKIbv8t1bzDFXog9pF23H3qwN2QG2cjZo8Tq9Ss8nLqq8etwffCI2w=h310",
+        "//lh3.googleusercontent.com/Md5561FUXH_YFeObK26U1WlSumz6LB8Nqxa2hMkLK7bnLxp4FQO3d23tr7szMheqs08T=h310",
+        "//lh3.googleusercontent.com/cC4nDfj8r28PzD1GheDtk-dOWZ_DPzsbp4pSe7vmfX03ImeGxfX8ybQV4Oneg7ZVuA=h310",
+        "//lh3.googleusercontent.com/6jE5osmWhcA2fpN8VyrkX0OR5qdvxu3n-68tqc8Mps-kcL5gN2SbnC5S3sJwrxv39ww=h310",
+        "//lh3.googleusercontent.com/ZEaGlm2JSjalNjqPbLMg1JA4Pc3cBOb6z2LiUcXYjoRPSN04xhTxOUI2In7Op-mzutU=h310",
+        "//lh3.googleusercontent.com/i8Mu0F9uzN4W8eko_qkGVe4mnDc30LlrkJrBbYMXyfuFbLuCFVWoUzls4hhaq5BNMlA=h310",
+        "//lh3.googleusercontent.com/Inj5Ywo192qh_veYr5-Cj0VP3EFWVkXAWjdTSAuequI2QHPZqhRmck7MRdggHuXMUU0=h310",
+        "//lh3.googleusercontent.com/-ZUXGd8Ghdbg7EOJWVjgh32yWEsc9WfIiNu8YknWwURtWhIX5kR8Tuydhw8v9xrSQJU=h310"
+    ],
+    "comments": [
+        "Great idea. Just what I was looking for! I only use the phone battery complication on the watch and it works perfect. Any way to disable the charging notifications? Thanks. Great work!  EDIT: Great idea, hadnt thought of just disabling the notifications from the app. I use adb on the watch for development so I was constantly receiving the notification. Great app. Functions perfectly",
+        "App works as expected, notifications and the complications. Fixed earlier problem, if complication initially doesn't work, restart watch. Thanks to the developer for quick response. No further problems, app is great!",
+        "This is an excellent app. Kudos to the developer. Works every time to notify me that the battery has charged to a level of my choosing (80% is my current choice although I'd prefer to use 70% if it was included in the settings). I will happily give this 5 stars if the developer adds this and also a setting to notify at a discharged level of my choosing. (20% or 30% would suit me). Great work so far though.",
+        "Good app, but to improve it, I think the watch app should mirror what the phone app does: Alert me on my watch when charging my phone and the phone battery is charged to a certain level (80% or other). Do this and I'll give it 5 stars.",
+        "I don't often leave reviews for apps but this app is just purely awesome.",
+        "I wonder why this feature was not built in the Android Wear app. Quite useful especially when you want to wear your watch all the time. This notifies me when watch is 100% charged."
+    ],
+    "recentChanges": [
+        "Mobile Battery Level Complication for Android Wear 2 devices!",
+        "The new complication will show the phone's current battery level on your watch face.",
+        "You can click the complication to update the level, or it will update every 20 minutes automatically.",
+        "Will show a disconnect icon if the phone is disconnected or if the Phone version of the app is not installed. Currently only supports Android phones."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.zenbarrier.wearfull&hl=en&gl=us",
+    "appId": "com.zenbarrier.wearfull"
+}

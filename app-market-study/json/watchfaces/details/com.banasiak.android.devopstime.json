@@ -1,0 +1,53 @@
+{
+    "title": "DevOps Time (Wear Watch Face)",
+    "summary": "ISO 8601 timestamps on your Android Wear device!",
+    "icon": "//lh3.googleusercontent.com/OUkOSg52-ewuFZ05oqy7JK6kkSXlU4W7ArqpZnxhuURSmdAKqWiqd8WCrsU_LCzcLA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.5,
+    "reviews": 31,
+    "developer": "Richard Banasiak",
+    "developerId": "Richard+Banasiak",
+    "developerEmail": "richard@banasiak.com",
+    "developerWebsite": "https://github.com/banasiak/DevOpsTime",
+    "developerAddress": "BANASIAK.COM\nCUSTOMER 124633413\n96 MOWAT AVE\nTORONTO ON  M4K 3K1\nCANADA",
+    "updated": "December 31, 2015",
+    "version": "3.1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Are you a DevOps ninja? Do you inhale debug logs with ISO 8601 timestamps and exhale elegant code that makes the customer happy?  In that case, you probably make a bunch of money and it would be cool if you gave me a dollar for this sweet Android Wear watch face.*  This new version is completely rewritten to use the official Android Wear Watch Face API introduced in Android Wear 5.0.1.  Settings are now accessible via the watch face settings in the Android Wear app on your mobile device.  Font sizes, notification card style and ambient display parameters can be configured there. (Hint: set an item's font size to 0 to hide it.)*Wow, people are actually giving me their dollar?  Thanks, everyone - you rock!  Version 3.0 is still open source. Since you're a DevOps ninja, just get the code from https://github.com/banasiak/DevOpsTime and compile it yourself.  You can also download the APK from there if you rather just sideload it.=== Version History ===v3.1.1: Added the ability to disable the interactive timezone change and leave it set to either your local timezone or UTC.v3.1: Tap watch face to toggle UTC timestamp.v3.0.4: Fixed bug which reverted the timestamp to the current time zone even if \"always show timestamp in UTC\" was selected.v3.0.3: Indicators are now displayed on the upper-right when using 24 hour time.v3.0.2: Enabled ambient display of the timestamp and seconds-since-epoch.v.3.0.1: Completely rewritten to use the official Android Wear Watch Face API.  Now supports both square and round devices!v.2.1: Added option to always display the timestamp in UTC.v.2.0: Added companion app which allows you to customize font sizes and choose which items will be available when the screen is dimmed.v.1.3: Custom icon for display on mobile device. (No changes to watch face.)v.1.2: Made the time a lighter shade of gray when dimmed.v1.1: Now respects 24-hour format time as configured on your phone via Settings -> Date & time.",
+    "descriptionHTML": "Are you a DevOps ninja? Do you inhale debug logs with ISO 8601 timestamps and exhale elegant code that makes the customer happy?  In that case, you probably make a bunch of money and it would be cool if you gave me a dollar for this sweet Android Wear watch face.*  <br><br><br>This new version is completely rewritten to use the official Android Wear Watch Face API introduced in Android Wear 5.0.1.  Settings are now accessible via the watch face settings in the Android Wear app on your mobile device.  Font sizes, notification card style and ambient display parameters can be configured there. (Hint: set an item&apos;s font size to 0 to hide it.)<br><br><br>*Wow, people are actually giving me their dollar?  Thanks, everyone - you rock!  Version 3.0 is still open source. Since you&apos;re a DevOps ninja, just get the code from https://github.com/banasiak/DevOpsTime and compile it yourself.  You can also download the APK from there if you rather just sideload it.<br><br><br>=== Version History ===<br><br>v3.1.1: Added the ability to disable the interactive timezone change and leave it set to either your local timezone or UTC.<br><br>v3.1: Tap watch face to toggle UTC timestamp.<br><br>v3.0.4: Fixed bug which reverted the timestamp to the current time zone even if &quot;always show timestamp in UTC&quot; was selected.<br><br>v3.0.3: Indicators are now displayed on the upper-right when using 24 hour time.<br><br>v3.0.2: Enabled ambient display of the timestamp and seconds-since-epoch.<br><br>v.3.0.1: Completely rewritten to use the official Android Wear Watch Face API.  Now supports both square and round devices!<br><br>v.2.1: Added option to always display the timestamp in UTC.<br><br>v.2.0: Added companion app which allows you to customize font sizes and choose which items will be available when the screen is dimmed.<br><br>v.1.3: Custom icon for display on mobile device. (No changes to watch face.)<br><br>v.1.2: Made the time a lighter shade of gray when dimmed.<br><br>v1.1: Now respects 24-hour format time as configured on your phone via Settings -&gt; Date &amp; time.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 10,
+        "5": 18
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/h9FrQLj5j8vezic5kgYVDMq2JqYDh0DsAuGhwCWrYR4_yHBUb01dss9uGilkqfmP0g=h310",
+        "//lh3.googleusercontent.com/jFgA9OnQ0vzo4piBE_I4bynGexnty4AhxrReSR-XXkee3zagirhwde_PR2k0al8JDfpN=h310",
+        "//lh3.googleusercontent.com/DSRt6NlMj4mj91P1VVztvfbFAZHPE8QfJ4Q5_bEff4vTLLZxfEM3yW0Tp29KnyZ3scqL=h310"
+    ],
+    "comments": [
+        "Very neat design: minimalist and geeky. Exactly what I was looking for.",
+        "Love it so far After having many Google searches I finally understand what the two bottom lines mean. I like the inclusion of epox time though the only time I would use it is for very precise time measurements such as when something happened noteworthy. And utc time I use with all my friends all over the world so we can easily coordinate Skype calls and online gaming sessions",
+        "Great I'm not really a fan of the watch face but I do love your github link!  The sample watch face from google is kinda complicated in some parts but your github link cleared it all up for me, now I finally understand how to correctly implement settings in my own watchfaces :D  So I've bought it as a thank you for the source code which helped me a lot ^^",
+        "Wonderful watch face, has actually helped me at work. I regularly maintain a system that solely deals in UTC. Logs, requests, everything is utc. Being able to tell at a glance what time it is both in localtime and UTC is a huge time-saver. Plus since the background is dark it gets pretty great battery life!",
+        "No dice I work in computer forensics and I would love to have this face. I cannot get it to show as an option in the wear app or on my watch.",
+        "Background The only thing missing for me is the ability to customize the background pattern and color.  I would not be opposed to being able to load a custom background image either."
+    ],
+    "recentChanges": [
+        "v3.1.1: Added the ability to disable the interactive timezone change and leave it set to either your local timezone or UTC."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.banasiak.android.devopstime&hl=en&gl=us",
+    "appId": "com.banasiak.android.devopstime"
+}

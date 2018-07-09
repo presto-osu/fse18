@@ -1,0 +1,315 @@
+Soot started on Thu Jun 21 13:04:27 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: eu.stettiner.dietwatch.DietWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/eu.stettiner.dietwatch.apk
+[INFO] MySceneTransformer: ############## eu.stettiner.dietwatch.DietWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   65
+[INFO] FlowGraph: @@@@ Total Methods: 334
+[INFO] FlowGraph: @@@@ Total Stmts:   10236
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1), (register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-789515,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12825758,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1), (register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-789515,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12825758,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-789515,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12825758,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1), (register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-789515,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12825758,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-789515,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-12825758,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1), (register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1), (register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new eu.stettiner.dietwatch.DietWatchFaceService$Engine$6]3472,18)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-1)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== cannot resolve <android.graphics.Paint: void setColor(int)>
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-789515)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-12825758)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16114909,-1,-14972984,-823264,-13253930,-16640,-12314236,-16719258,-9989721,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-855310,-16777216])
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-1,-2236963,-16777216])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,This[eu.stettiner.dietwatch.DietWatchFaceService$Engine]2762,1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r2_143=[-1], $r2_56=[-1], $r2_55=[-16777216], $r2_114=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_115=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_142=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_44=[-16777216], $r2_46=[-1], $r2_146=[-1, -5351143], $r2_171=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_136=[-16777216], $r2_139=[-1], $r2_137=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_134=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_168=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_116=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_140=[-1], $r2_141=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_167=[-16777216], $r2_170=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_144=[-16777216], $r2_97=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_169=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_52=[-1], $r2_40=[-16777216], $r2_45=[-1], $r2_138=[-1], $r1=[-16777216, 0, -1, -12314236, -9989721, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_173=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_118=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_113=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_88=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_119=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_41=[-16777216], $r2_87=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_54=[-16777216], $r2_42=[-16777216], $r2_53=[-1], $r2_112=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_51=[-1], $r2_89=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_48=[-1], $r2_50=[-1], $r2_47=[-1], $r2_145=[-1], $r2_49=[-1], $r2_135=[-1], $r2_43=[-1], $r2_172=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_57=[-1], $r2_117=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_96=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r2_143=[-13799555], $r2_69=[1157627903], $r2_78=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_114=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_115=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_79=[-1], $r2_142=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_65=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_77=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_82=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_66=[-1813722, -16730798, -16754788, -16672858], $r2_71=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_76=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_146=[-1, -5351143], $r2_81=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_171=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_136=[-16777216], $r2_72=[-1813722, -16730798, -16754788, -16672858], $r2_139=[-1, -16777216, -12825758], $r2_137=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_134=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_70=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_75=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_168=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_67=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_116=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_140=[-11758718], $r2_141=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_167=[-7498343, -16777216], $r2_170=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_144=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_97=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_169=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_138=[-11758718], $r2_68=[-855310], $r1=[-1, 0, -12314236, -9989721, -16777216, -855310, -2236963, -13253930, -789515, -16719258, -16114909, -14972984, -823264, -12825758, -16640], $r2_173=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_118=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_74=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_113=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_88=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_119=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_87=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_73=[-1813722, -16730798, -16754788, -16672858], $r2_64=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_80=[-1], $r2_112=[-1, -12314236, -9989721, -16777216, -14972984, -823264, -13253930, -16719258, -16114909, -16640], $r2_89=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_145=[-13799555], $r2_135=[-1003179], $r2_172=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_117=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538], $r2_96=[-1, -9962857, -16777216, -588732, -1239975, -417508, -10080879, -14075504, -34538]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ffdddddd, ff0a1b23, ffffbf00, ff67fa97, fff70444, ff2d6f7d, fff37020, ffae5919, ffe45326, ff1b87c8, fff2f2f2, fff3f3f5, ff00b552, ff662d91, fff0b155, ff35c2d6, ff6791a7, ff00579c, ff8d9599, ff3c4b62, ff0197a6, ffff7916, ff4c9382]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: colors not equal, flows to ambient: [ff662d91, ff00e266, ffed1459, fff9a11c, ff293990, ff441984, ff0a1b23, ffffbf00, ff67fa97, fff70444, fff37020, ff35c2d6, ffae5919, ff6791a7, ff1b87c8, ffff7916]
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [18] [[<null::SELECT::interactive>, <interactive::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [18, 1] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [18, 1] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 3: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [18] [[<null::SELECT::interactive>, <interactive::SWIPE_LEFT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.swipe_left()
+[INFO] MySceneTransformer: LEAK TESTCASE 4: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [18] [[<null::SELECT::interactive>, <interactive::SWIPE_RIGHT::invisible_wfpicker>, <invisible_wfpicker::DESELECT::null>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.swipe_right()
+[INFO] MySceneTransformer: LEAK TESTCASE 5: wearable.deselect_on_handheld(HANDHELD_SERIALNO)
+[INFO] MySceneTransformer: TOTAL TIME: 6.372000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:04:37 EDT 2018

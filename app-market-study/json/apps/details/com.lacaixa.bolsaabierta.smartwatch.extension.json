@@ -1,0 +1,45 @@
+{
+    "title": "Bolsa Abierta para Smartwatch",
+    "summary": "See the evolution of rates / values ​​or Android Wear your Sony SmartWatch 2",
+    "icon": "//lh3.ggpht.com/pnC_XwanV7b0BytECbaNA8Q--mwzC2ACW9X6CMFn06u42as4eA8fsk8oQ7JjskHXfeo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.3,
+    "reviews": 44,
+    "developer": "CaixaBank",
+    "developerId": "CaixaBank",
+    "developerEmail": "caixamovil@elacaixa.es",
+    "developerWebsite": "http://www.lacaixa.es/",
+    "updated": "October 8, 2015",
+    "version": "1.2",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Si dispone de un Android Wear o un Sony Smartwatch 2, ahora puede consultar en él la evolución de sus valores e índices favoritos. En su reloj los podrá consultar en un listado, en formato carrusel, y se le mostrará una ficha reducida de cada uno de ellos. Al seleccionar uno verá su ficha ampliada, con más detalle y gráficos evolutivos, en la pantalla del smartphone Android vinculado a su smartwatch. Smart Connect extension for SmartWatch 2 Smart Connect extension for SmartWatch 2",
+    "descriptionHTML": "Si dispone de un Android Wear o un Sony Smartwatch 2, ahora puede consultar en &#xE9;l la evoluci&#xF3;n de sus valores e &#xED;ndices favoritos.<br><br> <br><br>En su reloj los podr&#xE1; consultar en un listado, en formato carrusel, y se le mostrar&#xE1; una ficha reducida de cada uno de ellos.<br><br> <br><br>Al seleccionar uno ver&#xE1; su ficha ampliada, con m&#xE1;s detalle y gr&#xE1;ficos evolutivos, en la pantalla del smartphone Android vinculado a su smartwatch.<br><br> <br><br>Smart Connect extension for SmartWatch 2<br><br> <br><br>Smart Connect extension for SmartWatch 2",
+    "histogram": {
+        "1": 15,
+        "2": 1,
+        "3": 4,
+        "4": 5,
+        "5": 19
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/pkVhNEEXlJjDPHBsvZSKwII5QXTZnPPzMAsfEY_FQg4m60ldr50iQUqiNdN7Pk5FHDM=h310",
+        "//lh5.ggpht.com/heeV2fHjLZxx7JcKlnIhZ44bhTWh_ycftn9h7WhjwDpiER1Q-l1axkrJcEvCulR8bV2w=h310",
+        "//lh4.ggpht.com/mLWWj4ct43R4X7R72cpdaDiG-Y6xzBtTtWc6MHbg5k9VoYDlF4P_REBTAD7A2oATZg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Compatibilidad con los smartwatch Android Wear"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.lacaixa.bolsaabierta.smartwatch.extension&hl=en&gl=us",
+    "appId": "com.lacaixa.bolsaabierta.smartwatch.extension"
+}

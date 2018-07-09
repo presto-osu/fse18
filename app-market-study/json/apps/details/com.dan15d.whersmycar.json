@@ -1,0 +1,45 @@
+{
+    "title": "Wear Where's my car",
+    "summary": "Simple application to locate your car from Android wear",
+    "icon": "//lh3.googleusercontent.com/GtElDLw5eDCKGdZ5L5mBsy9q9LQpTbFLl9gIW3NvuWV5wH3mV0RoMUHpg9U0wVpW9j8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 89,
+    "developer": "dan15d",
+    "developerId": "dan15d",
+    "developerEmail": "feiperapp@gmail.com",
+    "updated": "April 19, 2016",
+    "version": "1.06",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "With this application you can locate your car from anywhere with your android wear .By locating the position of the mobile you can register your car and then see where it is from the screen of your watch .",
+    "descriptionHTML": "With this application you can locate your car from anywhere with your android wear .<br><br>By locating the position of the mobile you can register your car and then see where it is from the screen of your watch .",
+    "histogram": {
+        "1": 6,
+        "2": 4,
+        "3": 11,
+        "4": 19,
+        "5": 49
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/yLBAzG2BKZ1GeH5x94m3rQx2gypjR55EdGE34G-MEzNByex7Y7upvy1ka3DbDCgjclg=h310",
+        "//lh3.googleusercontent.com/Y3CKPuC6QbOxQtmdoEZGHafA-nHvZthADmNTE3fAlBivJ7H87quDK7QpMA58wm0L1_8=h310"
+    ],
+    "comments": [
+        "Not accurate The idea is to help you find it in a large parking lot.  This keeps is at city level.",
+        "It's OK Overall it should be great, but it doesn't link to Google maps to navigate to the car, it's just two dots on the screen which isn't overtly helpful. Good idea though.",
+        "Hanif"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dan15d.whersmycar&hl=en&gl=us",
+    "appId": "com.dan15d.whersmycar"
+}

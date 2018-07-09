@@ -1,0 +1,60 @@
+{
+    "title": "Pear",
+    "summary": "Your watch and phone are friends. Don&#39;t let them lose track of each other.",
+    "icon": "//lh3.ggpht.com/_vzPmCftaHBeAOkAhPrDb6VxsLWaqpuPZCeHojeb4qhy606k66jyBhkbS6zlzXTX-g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.9,
+    "reviews": 760,
+    "developer": "dConstructing",
+    "developerId": "dConstructing",
+    "developerEmail": "losttime.shuffle@gmail.com",
+    "developerWebsite": "http://dconstructing.com",
+    "developerAddress": "4684 W 9980 N\nCedar Hills, UT 84062",
+    "updated": "June 7, 2015",
+    "version": "1.6.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Remember to take your phone with you when you get up to leave.This app installs on your Android Wear device and alerts you when it loses contact with your phone. Now you'll remember to go get your phone before you have a chance to really lose it.You can also choose to have your phone notified when it loses contact with your watch. Wouldn't want to leave it stuck at home while you're out, would you?Alert delay option minimizes the alerts you'll receive due to random disconnect/reconnects (they happen to everyone). They delay can be as short or long as you choose.Join the Google+ Community:https://plus.google.com/u/0/communities/101373311933427519453If you'd like to become a beta tester, follow the instructions posted in the Google+ Community.",
+    "descriptionHTML": "Remember to take your phone with you when you get up to leave.<br><br>This app installs on your Android Wear device and alerts you when it loses contact with your phone. Now you&apos;ll remember to go get your phone before you have a chance to really lose it.<br><br>You can also choose to have your phone notified when it loses contact with your watch. Wouldn&apos;t want to leave it stuck at home while you&apos;re out, would you?<br><br>Alert delay option minimizes the alerts you&apos;ll receive due to random disconnect/reconnects (they happen to everyone). They delay can be as short or long as you choose.<br><br>Join the Google+ Community:<br>https://plus.google.com/u/0/communities/101373311933427519453<br><br>If you&apos;d like to become a beta tester, follow the instructions posted in the Google+ Community.",
+    "histogram": {
+        "1": 60,
+        "2": 51,
+        "3": 96,
+        "4": 221,
+        "5": 332
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/mjL-cRrRxTbnCR2-_P2N5i941TtCw0z1P_OQAZtLtDzqke3FmhjyxbTCWMMMefz50g=h310",
+        "//lh6.ggpht.com/ahdB91VWB7RvkGudvSJxVsTBLu0eEiLzyuo4k-hjzkiIYlPu2QXCFfJtD1mQjy5BOjw=h310",
+        "//lh4.ggpht.com/LPC4CABefwJhJb_keflzgj1Gk5XqBNdGp5UjHrwtHEYW6_8k5_-Zm33EXTquHjciQBar=h310",
+        "//lh6.ggpht.com/14CqEpCyXqHFhrUvwPf1CDIf3RYrFVVrOqfw2saa-8VnsDmFbxNhDNzQjdkcmDEc1g=h310",
+        "//lh3.ggpht.com/AmRUoSqdnCP04vCFOMMXtcM_-alFmMnI0Rt0gWpvj-_4FsiEfGG2VEXbZRaBdPPYHfc=h310"
+    ],
+    "comments": [
+        "Worked great until last update... Now it's alerting me that my phone's disconnected when it isn't, and getting into loops between the two notifications. I'm going to uninstall it for a while.",
+        "Used to work well At first it worked fine, but now it will suddenly think it's lost connection when my phone is in my hand and will do that at least 3 times in a row sometimes while I'm just sitting there with the phone or if I've come off of or connected to my WiFi. Uninstalling.",
+        "Randomly thinks it's lost contact Ten to twelve times a day it decided that it's lost and then regained contact with my phone.  The constant buzzing is annoying.  Uninstalled.",
+        "Loses Connection All The time This used to work really great but now this loses connection all the time.",
+        "No control over vibration level etc Would be too easy to miss",
+        "I deleted the app after it kept waking me up by disconnecting all night."
+    ],
+    "recentChanges": [
+        "1.6.0",
+        "- Introducing donations to help spur development",
+        "1.6.2",
+        "- bugfixes",
+        "1.6.3",
+        "- resolve \"Ring my phone\" crashes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.dconstructing.android.pear&hl=en&gl=us",
+    "appId": "com.dconstructing.android.pear"
+}

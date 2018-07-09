@@ -1,0 +1,52 @@
+{
+    "title": "Wearable News Reader",
+    "summary": "Read the latest news on your wearable device.",
+    "icon": "//lh4.ggpht.com/MulEc8kG31SryPg7NhTQPvwNRoN3VYKSMd1T8d748LD-URuTSLXO-j092XX84BpMpZ7z=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 8,
+    "developer": "SoftIce apps",
+    "developerId": "SoftIce+apps",
+    "developerEmail": "steven.vanbinst@gmail.com",
+    "updated": "December 18, 2014",
+    "version": "2.1",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "Read latest news on your wearable device.This app will fetch news in a background service, without draining your battery.Different categories and articles will be sent to your wearable when the watch is connected.You can open the app on your watch by saying \"ok google, open wear newsreader\".* The app can also be used without any wearable to quickly get up to date with the latest news.Next update will include more news sources and watch designs.",
+    "descriptionHTML": "Read latest news on your wearable device.<br><br>This app will fetch news in a background service, without draining your battery.<br>Different categories and articles will be sent to your wearable when the watch is connected.<br><br>You can open the app on your watch by saying &quot;ok google, open wear newsreader&quot;.<br><br>* The app can also be used without any wearable to quickly get up to date with the latest news.<br><br>Next update will include more news sources and watch designs.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/RWBv38yjMoctgaNdwjppzLr7HiEOep10zfzxkdKwCmj4kcuScLofDmgheT9plPidBKaY=h310",
+        "//lh6.ggpht.com/xWboeL1Y2MazBuprB5qjC_wS-5un-fon4W9mYSyKgVagMJha4AbcCUZpiQAXP4Wdog=h310",
+        "//lh5.ggpht.com/6DbdxY6-95JbCng69YqTTLors2wVO9-uD0GrMJLjHRC0KX4KDELFBDb3XIibQPxbrA=h310",
+        "//lh3.ggpht.com/a-_gGzeqg8Nb5NydtdLUQ4CqvoMCNNKFC3wge7QpU50fO5m_3i8e5W4qqQSnDt48BZg0=h310",
+        "//lh6.ggpht.com/GrDJCIEiUPmkuQptnm6nK3phzHDuHsrknuDyOl1N94CrpnDw7gpX5lefCLmlHoZ2-1s=h310",
+        "//lh4.ggpht.com/0fbEUC7aY0Q1bfgng7hOeSFa-CzA4x4JY4jcgCj0QDiHPx_84ZGQ1VLXE09TV4IHhGQ=h310",
+        "//lh3.ggpht.com/xuXHvbhQ7sQfqi7C7hhFfMxv7ClWkTmKM-3NTz727g6shQOs0GwS-WutZNuc7MT-ez7m=h310",
+        "//lh6.ggpht.com/7-pzzi6EgPNVmDhfPnnlurYyk4ynGjEj38as9UwcLP9x101yrOHZFEq6Ri_pRtWbYaY=h310"
+    ],
+    "comments": [
+        "Looks good but crashes I love the idea. The app crashed a few seconds after it was opened.",
+        "Great"
+    ],
+    "recentChanges": [
+        "bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.proximity.de.wearabletest&hl=en&gl=us",
+    "appId": "com.proximity.de.wearabletest"
+}

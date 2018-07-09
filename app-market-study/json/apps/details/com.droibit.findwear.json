@@ -1,0 +1,42 @@
+{
+    "title": "Find Wear",
+    "summary": "App that will help of misplaced your Android Wear.",
+    "icon": "//lh3.googleusercontent.com/074NXgqwt79TjkdXPY-Jm7WtjRzGU2cPBu6w7qEJU8Vo5Z1oEZrO3fPDxjxF6q5TQfM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "Shinya Kumagai",
+    "developerId": "Shinya+Kumagai",
+    "developerEmail": "droibit.dev@gmail.com",
+    "developerWebsite": "http://droibit.github.io/",
+    "updated": "October 13, 2015",
+    "version": "1.0.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app is for the prevention of misplaced Android Wear, will warn you.When the smartphone and Android Wear has been disconnected, this app will inform in vibration to you.(At that time, it is also possible to play the sound)Android 5.0 or higherWhen I specify \"no interrupt\" in the notification setting, may not vibrate.In that case, please re-check your settings.It is possible to confirm the vibration when you tap the clock in the app.",
+    "descriptionHTML": "This app is for the prevention of misplaced Android Wear, will warn you.<br><br>When the smartphone and Android Wear has been disconnected, this app will inform in vibration to you.<br>(At that time, it is also possible to play the sound)<br><br>Android 5.0 or higher<br>When I specify &quot;no interrupt&quot; in the notification setting, may not vibrate.<br>In that case, please re-check your settings.<br><br>It is possible to confirm the vibration when you tap the clock in the app.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/9JtWaLV_AfPMV2ZBvXj9Mn8dINkgsUbFACNRRgETva71w-Xd5CUqt6ThpED6rfGCmjs=h310",
+        "//lh3.googleusercontent.com/qp8Qg687oktMfnCPa3yrTMS8YLrSUdHlulxnzCreonVMwfbCyG3U07LRIi8QCQPL5g=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.droibit.findwear&hl=en&gl=us",
+    "appId": "com.droibit.findwear"
+}

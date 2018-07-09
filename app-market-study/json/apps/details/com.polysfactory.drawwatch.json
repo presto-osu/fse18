@@ -1,0 +1,51 @@
+{
+    "title": "Draw Watch for Android Wear",
+    "summary": "You can draw anything on your android wear and share it!",
+    "icon": "//lh4.ggpht.com/MqAVsGHF-M10T6LW7GFcZkdEdKUGbpwSMkokh2EvQ48sBo4pF9mPyIYIsC-RDl7fOA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.3,
+    "reviews": 99,
+    "developer": "Poly's Factory",
+    "developerId": "Poly's+Factory",
+    "developerEmail": "horikawa.takahiro@gmail.com",
+    "developerWebsite": "http://polysfactory.com/",
+    "updated": "January 22, 2015",
+    "version": "1.1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Very simple drawing app running on android wear device. You can draw anything on your watch and share it!To use it, install the app into the android phone which is paired with your android wear device. The app for wear will be automatically installed into wear device automatically.",
+    "descriptionHTML": "Very simple drawing app running on android wear device. You can draw anything on your watch and share it!<br><br>To use it, install the app into the android phone which is paired with your android wear device. The app for wear will be automatically installed into wear device automatically.",
+    "histogram": {
+        "1": 15,
+        "2": 14,
+        "3": 19,
+        "4": 24,
+        "5": 27
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/NT6n2y0qsT5AePItxnCmLGur1igyMmjlmVnWnDa-Ct2cQqUaa2tp77-3lGIpuu3B5KY=h310",
+        "//lh6.ggpht.com/iYzEjT9B5eEQU7udJt1WBI-eg_-druBSelGjDLHZEKR7od5Zu9Q3ZKTsF8PnW9X_3TZ4=h310"
+    ],
+    "comments": [
+        "Good Not sure if I'm missing something, but changing pen color using the spanner button seems to clear the screen on my Sony Smart watch 3... Which makes it impossible to draw in more than one color.",
+        "Drawn a blank Changing colour wipes the screen. The same happens when sending an image to the phone. The app is thus perfect for recreating Ceal Floyer's 'Monochrome Till Receipt (White)'. Otherwise useless.",
+        "Can't do anything with the drawing As soon as you bring up the menu in the app, it clears the drawing you have done. So you can't change colours, and can't send the image to your phone, so it's basically worthless.",
+        "Not able to send the drawing Wen am sending it to my phone, my phone asks of how to view the file. So please reply",
+        "Love this nice little app! Here's some ideas for future updates: eraser.   background colors. Shapes. and text. Continue making this app very cool and useful!!!",
+        "Alright But when you change colour it clears your previous drawing"
+    ],
+    "recentChanges": [
+        "Compatible with round screen devices!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.polysfactory.drawwatch&hl=en&gl=us",
+    "appId": "com.polysfactory.drawwatch"
+}

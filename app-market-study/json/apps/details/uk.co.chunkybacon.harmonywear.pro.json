@@ -1,0 +1,58 @@
+{
+    "title": "Harmony Wear Pro",
+    "summary": "Control your Harmony Hub from your watch",
+    "icon": "//lh3.googleusercontent.com/280oszDXzyQ-Wo52RDggYupvCeGw-6Gf7Sl1Dlu-vAPAjHuWL9ZL6QhE57UrXYojjSk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.8,
+    "reviews": 33,
+    "developer": "Tim Forsyth",
+    "developerId": "Tim+Forsyth",
+    "developerEmail": "tim.j.forsyth@googlemail.com",
+    "developerWebsite": "http://www.chunkybacon.co.uk",
+    "developerAddress": "119 Ringwood Road,\nSouthampton.\nSO40 8DX",
+    "updated": "February 9, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Harmony Wear Pro lets you control your Harmony Hub from your Android Watch.Fully customisable, the Pro version of the Harmony Wear app allows you to::: Add up to six unique control surfaces per Activity:: Choice of 10 different control surfaces:: Support for multiple hubs:: TV logos and custom images:: Integrated support for Kodi and Roku:: Device browser gives you quick access to commands for all devices on your hub.Please note, due to the limitations of the Hub protocol, Home Control devices cannot be controlled by this app.== IMPORTANT NOTE ABOUT BATTERY OPTIMIZATION ==If you are running Android 6+ you might find that this app fails to send commands after a period of time.This may be due to App Standby mode or Doze mode kicking in.In order to fix this issue, go to:Settings| Battery| Battery Optimisation (from the dropdown menu)| Choose \"All Apps\"| Find this plugin| Select \"Not Optimized\"",
+    "descriptionHTML": "Harmony Wear Pro lets you control your Harmony Hub from your Android Watch.<br><br>Fully customisable, the Pro version of the Harmony Wear app allows you to:<br><br>:: Add up to six unique control surfaces per Activity<br>:: Choice of 10 different control surfaces<br>:: Support for multiple hubs<br>:: TV logos and custom images<br>:: Integrated support for Kodi and Roku<br>:: Device browser gives you quick access to commands for all devices on your hub.<br><br>Please note, due to the limitations of the Hub protocol, Home Control devices cannot be controlled by this app.<br><br><br>== IMPORTANT NOTE ABOUT BATTERY OPTIMIZATION ==<br><br>If you are running Android 6+ you might find that this app fails to send commands after a period of time.<br><br>This may be due to App Standby mode or Doze mode kicking in.<br><br>In order to fix this issue, go to:<br><br>Settings<br>| Battery<br>| Battery Optimisation (from the dropdown menu)<br>| Choose &quot;All Apps&quot;<br>| Find this plugin<br>| Select &quot;Not Optimized&quot;",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 3,
+        "5": 28
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/zqSQGjQH4fVz--ww_B9ynqMPyiAlLNdiDNU-ShKG0Vl6vqqQHsBT5crjtt-r9qOrbDiI=h310",
+        "//lh3.googleusercontent.com/dOBl0J9vAycvL_N5-lHRZJlJC8fycA9uCdLbMa_FD--JOM-4w5uCwqsmIvyUpksCgw=h310",
+        "//lh3.googleusercontent.com/TAUhA6RO6_nWS32TCM-A_cIglKkl5EZoNrfefN4T09O7A8Qi9JgW6JVc3unF8SCfwasm=h310",
+        "//lh3.googleusercontent.com/6waUjTavQXMr9gVGcW_oNHD4q2RxksVF6mRpdNrHp7GxGkn_EBvpErjb6hUelJEUJPvf=h310",
+        "//lh3.googleusercontent.com/H4snYntaeN7hzllyLpSStWTKi1rlmfQ_CNxMcMa0lAbk0rMJDgNibzLc6E1412t3kA=h310",
+        "//lh3.googleusercontent.com/Z5Ad69y63B8zS5ZNl3lrb_M-AAy9Twg9luULMYay2cVSqd-zTzHB8lLYwoqvKHLTo-To=h310",
+        "//lh3.googleusercontent.com/kbCG6DPY3ockizXHrPtGu_12_58S0Yt0KvAPrOOJtHJnQSsiNc0Rq_SEnO8QOzhtcJ1C=h310"
+    ],
+    "comments": [
+        "Integrates perfectly with my harmony elite remote hub, and gives me control with my Huawei Watch 2. There aren't many useful apps for a watch, but this is one of them. It finds all your pre-existing activities, and even gives them default control template. I wish the app could run in the background, but that's a very minor complaint. Great app!",
+        "Works perfectly for me so far. Not some clunky itty bitty remote like I've come to expect. Very handy, very well thought out an all around nice app. I'm extremely pleased.",
+        "Great app! And for free?! Perfectly integrates my watch with home system (Logitech hub). Remote always on my wrist. Completely customizable interface, programmable buttons and screens. But also pretty good (default) templates, takes over setup of existing hub seamlessly. Rare!",
+        "Constantly force closing when I attempt to edit button configuration. App is currently non functional. Please fix.",
+        "This is my favorite and most useful Android Wear app.  Pro version worth every penny.",
+        "Very easy to set up and more responsive than trying to access commands through IFTTT."
+    ],
+    "recentChanges": [
+        "Compatibility changes for Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.chunkybacon.harmonywear.pro&hl=en&gl=us",
+    "appId": "uk.co.chunkybacon.harmonywear.pro"
+}

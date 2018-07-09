@@ -1,0 +1,45 @@
+{
+    "title": "Red vs Green - Watch Face",
+    "summary": "A simple Watch Face for Android Wear devices",
+    "icon": "//lh3.googleusercontent.com/_lGdvXbjooVbdnOhrKb2PWHYg5xBR7ijFFQ7gU1LDfO0lyW9mQYeebVwhksgE7nS8Xt1=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 7,
+    "developer": "EfestoArts",
+    "developerId": "EfestoArts",
+    "developerEmail": "polita.marco@gmail.com",
+    "updated": "August 21, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A simple Watch Face for Android Wear devicesFeatures:* Growing bubbles design* Clear and Crystal colors* Battery Indicator bubble - We know how important is that little thing* Low Energy ModeScreenshot based on templates created by Daniele Bonaldo (danielebonaldo.com) and Cyril Mottier (cyrilmottier.com)Licensed under Creative Common License 3.0",
+    "descriptionHTML": "A simple Watch Face for Android Wear devices<br><br>Features:<br><br>* Growing bubbles design<br>* Clear and Crystal colors<br>* Battery Indicator bubble - We know how important is that little thing<br>* Low Energy Mode<br><br>Screenshot based on templates created by Daniele Bonaldo (danielebonaldo.com) and Cyril Mottier (cyrilmottier.com)<br><br>Licensed under Creative Common License 3.0",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/8p_ofskMo971SPihZmZka4OF0hcoEVQmh2QY4QEcFzhtQCentZxPk8ExiuL1rL2Cag=h310",
+        "//lh3.googleusercontent.com/GzpSq6RwFwVBDdjqmrYNGbdaSr7KtyJYtKvGtRDzJfAIq4oHh_kqy07V7reT9qxlp5uu=h310",
+        "//lh3.googleusercontent.com/mrbx5YLKArBzszRUNVuuzobY4XUfpjZH4_7ggow4Bi1Jdup9z2JI00UKDM63anjABQ=h310",
+        "//lh3.googleusercontent.com/dItOSt6diVZoLD8Nbncp79dRETZJQpH2UfqSr-VHXbkoNKqlLLs-RJdvG3xrcI3eBJg=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Fixed the missing refresh bug that occurs when the watch is set in no keep up screen mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=efestoarts.wearfaces&hl=en&gl=us",
+    "appId": "efestoarts.wearfaces"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "ARoglyph Watch Faces",
+    "summary": "The refined watch faces with world time for your Wear smartwatch.",
+    "icon": "//lh3.googleusercontent.com/egAL-Ot2t2z8kmItP0KnzXIpng2RWLgHrIRoVSL0BWMYZwinCBK6Tf7N1-nDc3WbCQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 8,
+    "developer": "Allied Bits Ltd.",
+    "developerId": "Allied+Bits+Ltd.",
+    "developerEmail": "support@aroglyph.com",
+    "developerWebsite": "https://aroglyph.com/en/aroglyph-watch-faces/",
+    "developerAddress": "20-22 Wenlock Road\nLondon, N1 7GU, UK",
+    "updated": "November 13, 2016",
+    "version": "1.9",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "ARoglyph Watch Faces is the watch face, carefully designed for easy reading of information. It's the watchface, that you don't need to customize - it looks great out of the box. Features:- Digital or analog display- Round and square designs- Second time with customizable time zone (home time, world time)- The number of missed calls- The number of missed messages- The number of unread ARoglyph notifications and alertsAfter installing the App please give your watch a couple of minutes to install the watch face before trying to choose it for use.  Some UI settings are available on the watch, while most of options is configurable via the smartphone app. Compatible with:- Asus ZenWatch- Huawei Watch- LG Urbane (not LTE)- LG G Watch R- Motorola Moto 360- Samsung Gear Live- Sony Smartwatch 3Not compatible with:- LG Urbane LTE- Samsung Gear- Samsung Gear 2- Samsung Gear Neo 2- Samsung S- Sony Smartwatch 2",
+    "descriptionHTML": "ARoglyph Watch Faces is the watch face, carefully designed for easy reading of information. It&apos;s the watchface, that you don&apos;t need to customize - it looks great out of the box. <br><br>Features:<br><br>- Digital or analog display<br>- Round and square designs<br>- Second time with customizable time zone (home time, world time)<br><br>- The number of missed calls<br>- The number of missed messages<br>- The number of unread ARoglyph notifications and alerts<br><br>After installing the App please give your watch a couple of minutes to install the watch face before trying to choose it for use.  <br><br>Some UI settings are available on the watch, while most of options is configurable via the smartphone app. <br><br>Compatible with:<br>- Asus ZenWatch<br>- Huawei Watch<br>- LG Urbane (not LTE)<br>- LG G Watch R<br>- Motorola Moto 360<br>- Samsung Gear Live<br>- Sony Smartwatch 3<br><br>Not compatible with:<br>- LG Urbane LTE<br>- Samsung Gear<br>- Samsung Gear 2<br>- Samsung Gear Neo 2<br>- Samsung S<br>- Sony Smartwatch 2",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Tm5Vj6hlUPN9QpDcQOaf0kHoWn37XFgz-t4F68oisTFvpd_-9-3Rm40eRR6vto_nPug=h310",
+        "//lh3.googleusercontent.com/Q9oks38sTQm9HnITtv78Jmj11UvUaTcVo_rblcSObvkcaKCOwI7uC36H81QowNFNn80=h310",
+        "//lh3.googleusercontent.com/VNCHsi5qCrSvJCjlj8CvgA_5ygWcfYLXqPCmTpu8LfXCVftkUVFleaWBVWV9hTQ-aQ=h310",
+        "//lh3.googleusercontent.com/CwnaqhVvCZngjZ8gmG_3a1Vb4-6HFyYDr33x29lmPtncqiANqs3wMOj4a0dplRnbTwc=h310",
+        "//lh3.googleusercontent.com/F8t4gAA3EPe7uIlmQBxrLtAMFZkaqwl7d7bY8jRuFtngEssbcfPFvEOx1yG-B42PojU=h310",
+        "//lh3.googleusercontent.com/I6PDR-DWpEIC9OqC5v8d2RuG67_XJG4FlkRZ4-1S8HSvQz4qJj3NkwiYEYdcQL0exAcU=h310"
+    ],
+    "comments": [
+        "Keep getting this error ”watch face is not ready\". I select a watchface and it still doesn't work. Looks like a nice watchface but without the app to make selections....It just sucks.",
+        "Exactly what I need Just install and use - no need for excessive customizations."
+    ],
+    "recentChanges": [
+        "* Hi-res screen support (all elements are drawn correctly)",
+        "* Drawing speed improved",
+        "* Added tap tips for watch and phone battery levels",
+        "* On Android 6 and later permissions are now requested dynamically by the phone module",
+        "* call and SMS number are indicated as # if the permission is not given on the phone",
+        "* Improved hands in analog mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aroglyph.watchfaces&hl=en&gl=us",
+    "appId": "com.aroglyph.watchfaces"
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Weather for Bokeh Watch Face",
+    "summary": "Weather widget for Bokeh Watch Face. Displays current weather and forecast.",
+    "icon": "//lh3.ggpht.com/qK0Ie7Gpg_G6-4hJsp2khduAiFj2y953gD4A82ntunDPWdiQxQFw9Q9nFFpSlhWHYtY=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 78,
+    "developer": "Tomáš Kletzander",
+    "developerId": "Tom%C3%A1%C5%A1+Kletzander",
+    "developerEmail": "android@dmn.com",
+    "developerWebsite": "http://android.dmn.cz/weather-widget-for-bokeh-watch-face/",
+    "developerAddress": "Tomáš Kletzander\nDlouhá 93\nLomnice\n67923\nCzech Republic",
+    "updated": "April 14, 2015",
+    "version": "1.0.4",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "Weather widget for Bokeh Watch Face.Displays the most of current weather information for your location:- Weather icon- Current temperature- Atmospheric pressure calculated for sea level- Humidity- Wind speed and direction- Rain/snow amount for last 3 hoursForecast can be displayed for more than 15 hours to the future.Configurable display:- Current weather / forecast- Fahrenheit / CelsiusUpdates every 30 minutes for fresh weather information.Fits perfectly to the design of Bokeh Watch Face.Installation instructions1. Requires Bokeh Watch Face installed on your watchThis widget is displayed in Bokeh Watch Face. In order to use it, please, install Bokeh Watch Face first.2. Activate the widgetAfter you install the widget, open Bokeh Watch Face application on your phone, navigate to Menu -> Widgets (use overflow menu in action bar), find the Weather widget within the list and click ACTIVATE button.Explanation of required permissionsLocation accessWe need this permission to access your current location so we can download precise forecast right for the place you're at.Internet accessThis permission is needed to be able to connect to weather forecast server and download information.Access network stateThis permission is needed to check available network connection before attempting to get your location and downloading weather data. This helps save battery power in your watch as well as in your phone.Weather information sourceThe source for weather information in this application is www.openweathermap.org. The accuracy of weather information or forecast may vary in different locations around the world and can't be guaranteed, however it's the only free source as of now. Other sources are either expensive or unofficial (thus may stop working at any time).",
+    "descriptionHTML": "Weather widget for Bokeh Watch Face.<br><br>Displays the most of current weather information for your location:<br>- Weather icon<br>- Current temperature<br>- Atmospheric pressure calculated for sea level<br>- Humidity<br>- Wind speed and direction<br>- Rain/snow amount for last 3 hours<br><br>Forecast can be displayed for more than 15 hours to the future.<br><br>Configurable display:<br>- Current weather / forecast<br>- Fahrenheit / Celsius<br><br>Updates every 30 minutes for fresh weather information.<br><br>Fits perfectly to the design of Bokeh Watch Face.<br><br><b>Installation instructions</b><br><br><u>1. Requires Bokeh Watch Face installed on your watch</u><br>This widget is displayed in Bokeh Watch Face. In order to use it, please, install <a href=\"http://play.google.com/store/apps/details?id=cz.dmn.bokehwatchface\">Bokeh Watch Face</a> first.<br><br><u>2. Activate the widget</u><br>After you install the widget, open Bokeh Watch Face application on your phone, navigate to Menu -&gt; Widgets (use overflow menu in action bar), find the Weather widget within the list and click ACTIVATE button.<br><br><b>Explanation of required permissions</b><br><br><u>Location access</u><br>We need this permission to access your current location so we can download precise forecast right for the place you&apos;re at.<br><br><u>Internet access</u><br>This permission is needed to be able to connect to weather forecast server and download information.<br><br><u>Access network state</u><br>This permission is needed to check available network connection before attempting to get your location and downloading weather data. This helps save battery power in your watch as well as in your phone.<br><br><b>Weather information source</b><br>The source for weather information in this application is www.openweathermap.org. The accuracy of weather information or forecast may vary in different locations around the world and can&apos;t be guaranteed, however it&apos;s the only free source as of now. Other sources are either expensive or unofficial (thus may stop working at any time).",
+    "histogram": {
+        "1": 11,
+        "2": 8,
+        "3": 12,
+        "4": 16,
+        "5": 31
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/nZHfxjSnR0Oi-JLw3BGfnWns6Lf9yrvcl6i9CvTIHhc_f-iPlAm26uAQrSGnF2VPyHl6=h310",
+        "//lh3.ggpht.com/lieSMbEQx6347hXVYZ-vi2q3BNwQ5CgfXwD5QsKCz5g9fCyGmgKNWJ6xm_BhrXsd1do=h310",
+        "//lh4.ggpht.com/LuiTbMgWJVtPZiLFH_e0WrxBHVQRjDPViu6fzSqlJK2IyoeXU_FWEfVTXgUJIvIFiw=h310",
+        "//lh6.ggpht.com/VZgp2uYBDNeIFK57b1PS0wRakSAOqH1dUI_cOj1_buvYR7Z8OhNXTSfaR-uAjCLMhQ=h310"
+    ],
+    "comments": [
+        "It looks nice - the location is often a good bit off (could be location services, not the widget), but my main complaint is that the options for 9/12/15 hours don't work.  You only get the 6hr forecast.  Also, sometimes, it just says \"waiting for location\" for hours on end...  EDIT: Updated to 5 stars.  I swapped out watch faces, brought this one back, and now I have the full 15 hours of weather.  On top of that, I appreciate the dev's personal reply.  This is by far the nicest looking watchface with weather in my opinion.",
+        "I really like it but... But maybe give us a chance to pick the weather provider? Mine is off by 10+ degrees :/ makes the widget unusable. Please update for fifth star.",
+        "Awful Not only does it not work, but it made my NOTE 5 sluggish and drained my battery. Can't believe I spent money on this. Removed and all back to normal.",
+        "I like but... I really want a 3 day forecast with high/low and symbol. 6, 12, 15 hours really does nothing for me. 3 days would be awesome. Thanks.",
+        "Waste of time & money. Costs money, does nothing. Can't get more useless than that",
+        "Very hard to get working - Moto 360 Took forever to finally work (kind of...) Had to adjust settings, activate/reactivate, reboot watch many times. Then it just stayed at waiting for data. Now keeps force closing. Will only work on specific settings for a while. Really wanted this to work too :/. Fix bugs and add a battery icon and this would definitely be 5 stars."
+    ],
+    "recentChanges": [
+        "* Handling bugs caused by Google Play Services issue. Caused some crashes during refreshing of weather data."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cz.dmn.bwfeweather&hl=en&gl=us",
+    "appId": "cz.dmn.bwfeweather"
+}

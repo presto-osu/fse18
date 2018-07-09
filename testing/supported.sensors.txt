@@ -1,0 +1,23 @@
+[1] LSM6DS3 Accelerometer
+[1] LSM6DS3 Accelerometer -Wakeup Secondary
+[4] LSM6DS3 Gyroscope
+[4] LSM6DS3 Gyroscope -Wakeup Secondary
+[5] APDS-9306 Light
+[5] APDS-9306 Light -Wakeup Secondary
+[9] Gravity
+[9] Gravity -Wakeup Secondary
+[10] Linear Acceleration
+[10] Linear Acceleration -Wakeup Secondary
+[15] Game Rotation Vector
+[15] Game Rotation Vector -Wakeup Secondary
+[16] LSM6DS3 Gyroscope Uncalibrated
+[16] LSM6DS3 Gyroscope Uncalibrated -Wakeup Secondary
+[17] Significant Motion Detector
+[18] Step Detector
+[18] Step Detector -Wakeup Secondary
+[19] Step Counter
+[19] Step Counter -Wakeup Secondary
+[26] Wrist Tilt Gesture
+[33171006] AMD
+[33171030] Gaze Gesture
+[33171031] Ungaze Gesture

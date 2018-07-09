@@ -1,0 +1,50 @@
+{
+    "title": "Night Mic for Wear",
+    "summary": "Record audio on the go with this handy app for Android Wear",
+    "icon": "//lh3.googleusercontent.com/yCl68-ljZ9fDXDGSBGMJKj-ropr60ous3UNzoffDmdgsFZHOzolLLsiMJk4DFvz1Xg6-=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3.2,
+    "reviews": 5,
+    "developer": "Jacoh",
+    "developerId": "Jacoh",
+    "developerEmail": "support@jacoh.com",
+    "developerWebsite": "http://jacoh.com",
+    "developerAddress": "955 Massachusetts Ave #141\nCambridge, MA 02139",
+    "updated": "April 4, 2015",
+    "version": "1.0.1",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Record and remember the night around you with this audio capturing app for Android Wearables. Simply tap to record, and tap again to stop. Export recordings to your mobile device to play, email, and save anywhere!★ Features include ★   ✓ Auto recording timeout so you don't have to remember turning it off at the end of the night.   ✓ Long recording times (hours, not minutes)   ✓ Easily attach to email from your phone to take your audio anywhere   ✓ Background recording so you can use your watch while not missing a beat!",
+    "descriptionHTML": "Record and remember the night around you with this audio capturing app for Android Wearables. Simply tap to record, and tap again to stop. Export recordings to your mobile device to play, email, and save anywhere!<br><br>&#x2605; Features include &#x2605;<br>   &#x2713; Auto recording timeout so you don&apos;t have to remember turning it off at the end of the night.<br>   &#x2713; Long recording times (hours, not minutes)<br>   &#x2713; Easily attach to email from your phone to take your audio anywhere<br>   &#x2713; Background recording so you can use your watch while not missing a beat!",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/MUCcZrop_-cP-klsM80KlsagHWxXe3PC_ePVyXRHoqvtkKqfnqNxJGpz8yYOsidQog=h310",
+        "//lh3.googleusercontent.com/eICl-DXiO762azK6L_w29h163OFtj70sqH7PnWt6GLarQIXLRB3N3yWL_R0UP_c9YVo0=h310",
+        "//lh3.googleusercontent.com/6oBD-af_4O1H_IngockG-pERV9lLyaQRrfUzVRj64PIq6SEfuj5pF_NsMR2ODs50XjA=h310",
+        "//lh3.googleusercontent.com/SzqOx6fHHjXkkln9mKmF7Od6tHIXi4O7e5MMsWiJzFfDr0OHKXImr1QoTllkbwGxHT8=h310"
+    ],
+    "comments": [
+        "Cool app I like that it runs entirely in the background with no ongoing notifications. Would be nice if you added the feature to start the watch's recording from the phone. Also I think maybe changing the name from \"NightMic for Wear\" to \"Night Mic for Wear\" with the space might improve store search results.  Keep up the good work!",
+        "Works Great Good for recording karaoke on late nights."
+    ],
+    "recentChanges": [
+        "Updated recording times."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jacoh.nightmic&hl=en&gl=us",
+    "appId": "com.jacoh.nightmic"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Calendar Watch Face",
+    "summary": "Calendar Watch Face for your smart watch.",
+    "icon": "//lh3.googleusercontent.com/Sy03BV7LMT0ufRVPbXKCzM2TnfAW_g4EB-9urfdJmZU6PexOnWwFz3BspgOrFDGjL-w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3,
+    "reviews": 67,
+    "developer": "KN Studio",
+    "developerId": "KN+Studio",
+    "developerEmail": "Kotaro.Nakashima@gmail.com",
+    "developerAddress": "東京都秋葉原",
+    "updated": "April 29, 2015",
+    "version": "1.0.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Calendar Watch Face for your smart watch.Features:- Calendar events- Remaining time to the next calendar events- Battery level- Today's date and day of weekAndroid wear smart watch required!!!Compatible with:- Moto 360",
+    "descriptionHTML": "Calendar Watch Face for your smart watch.<br><br>Features:<br>- Calendar events<br>- Remaining time to the next calendar events<br>- Battery level<br>- Today&apos;s date and day of week<br><br>Android wear smart watch required!!!<br>Compatible with:<br>- Moto 360",
+    "histogram": {
+        "1": 19,
+        "2": 7,
+        "3": 13,
+        "4": 8,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/SgxLAUrpqsP4KY01c_uRDiaHHe3nWosRiSWvCqGrPr88XIpCjNLloxUrWqmVj9SN28H-=h310",
+        "//lh3.googleusercontent.com/zSLbFEZqXxHJMMwKIV-WJ4ff_nyTAzzlkCtxiWiu3NLBPPwDDmhUBbCcj2BdK8AKaRI=h310"
+    ],
+    "comments": [
+        "It would be awesome to have the weather, phone battery, and steps on it. But it is a good app. I only get one of my scheduled things when I have like three or four at different times. It would be helpful if it could show them. Needs a update",
+        "My go-to This is my go-to WatchFace; it's really nicely designed and I really like the way appointments appear around the side.  However, there are a lot of problems with it too - it crashes. A lot. I'd say I have it working on 4 days of 7 a week. It doesn't show all day events. I wish it did. And you can't customise it at all - settings is a blank page. That aside there's still so much to recommend here, but make sure you have a 2nd choice face in mind too. You'll need it.",
+        "Great but needs more options. It works well, but I would like a dark theme and the ability to choose different hands",
+        "Does what it claims. You can select which calendars show up. Wish it would allow a toggle to filter full day events or/and those longer than 6/8 hours",
+        "The watch face configuration screen does not work. Has been broken for months now. Apparently no developer support at all on this one.",
+        "Does not work Setting via android wear app are blank."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.gr.java_conf.kotaro_nakashima.android.wearable.calendarwatchface&hl=en&gl=us",
+    "appId": "jp.gr.java_conf.kotaro_nakashima.android.wearable.calendarwatchface"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Number Waterfall",
+    "summary": "Simulate a waterfall using numbers, sum and subtract. Sharpen up your mind.",
+    "icon": "//lh3.googleusercontent.com/1EsiFZDrHOda_vsV96TiSm7ReUbys5GzpF9zzVc5HcZciaQlfzaxjNrJNqcSS34QmBc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 19,
+    "developer": "tocapp.com",
+    "developerId": "tocapp.com",
+    "developerEmail": "tocappcom@gmail.com",
+    "developerWebsite": "http://www.tocapp.com",
+    "updated": "February 20, 2018",
+    "version": "Varies with device",
+    "genre": "Puzzle",
+    "genreId": "GAME_PUZZLE",
+    "size": "Varies with device",
+    "description": "The aim of this game is to simulate a waterfall using numbers. The waterfall is considered well-formed only if:- The sum of the numbers that form the waterfall is equal to the goal.- The marked numbers should be adjacent horizontal, vertical and diagonally. That is, there is no empty line union.- There are 2 numbers marked on each row.Also available a challenges section, where different challenges and variations of the game appear. In both cases, there are two levels: normal and difficult. In the normal level, the sum of the waterfall numbers is shown, however, in the difficult level, you will have to sum them mentally because it disappears.Challenges:- 15s countdown- 30s countdown- 6 hidden cells- Random numbers- Negative numbers- Pair numbers- Odd numbers- Multiples of 10Sum and subtract. Sharpen up your mind.This game is compatible with Android Wear",
+    "descriptionHTML": "The aim of this game is to simulate a waterfall using numbers. The waterfall is considered well-formed only if:<br><br>- The sum of the numbers that form the waterfall is equal to the goal.<br>- The marked numbers should be adjacent horizontal, vertical and diagonally. That is, there is no empty line union.<br>- There are 2 numbers marked on each row.<br><br>Also available a challenges section, where different challenges and variations of the game appear. In both cases, there are two levels: normal and difficult. In the normal level, the sum of the waterfall numbers is shown, however, in the difficult level, you will have to sum them mentally because it disappears.<br><br>Challenges:<br>- 15s countdown<br>- 30s countdown<br>- 6 hidden cells<br>- Random numbers<br>- Negative numbers<br>- Pair numbers<br>- Odd numbers<br>- Multiples of 10<br><br>Sum and subtract. Sharpen up your mind.<br><br>This game is compatible with Android Wear",
+    "histogram": {
+        "1": 1,
+        "2": 4,
+        "3": 2,
+        "4": 1,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Xc5Hk2nbdo0JSi55F4iPOCkftciLl1HQMklsr8eTpkaAtJqUdodVhAoNxhH1MobuPA=h310",
+        "//lh3.googleusercontent.com/DQMgaD2emV3GOviFSRD7PAfEj61NXT67GF7AnSk5-EYMVLESKN4-GIZ6ggbQtX6iM3Q=h310",
+        "//lh3.googleusercontent.com/S65dVXdyPxy_DWgtOv14DjfCrWNAI94VKzSec0zbGJwiTlP-aTX7F78jqBZicqyArA=h310",
+        "//lh3.googleusercontent.com/uMwSC7UCOxl3QJw_Lw3_QbpLQ259kgPE7dxstZtUHH3r-PlVdFuxe3cXqhyNiIqHiCs=h310",
+        "//lh3.googleusercontent.com/2a12pghKyQdYDN3tIvaQWmpNh487sHzkovIWFul2aEyMx9akX9kI0H3y3CJ26itNMt-k=h310"
+    ],
+    "comments": [
+        "Is a good time killer, but kind of boring.",
+        "Nice concept but seen everything it has to offer in under a minute. No punishment for randomly picking numbers and no reward for completion. Nothing really to keep me playing.",
+        "best app I ever had"
+    ],
+    "recentChanges": [
+        "Perfect circle for numbers."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tocapp.numberwaterfall&hl=en&gl=us",
+    "appId": "com.tocapp.numberwaterfall"
+}

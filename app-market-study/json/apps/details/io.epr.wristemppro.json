@@ -1,0 +1,57 @@
+{
+    "title": "WrisTemp Pro works with Nest",
+    "summary": "Control your Nest thermostat from your wrist!",
+    "icon": "//lh5.ggpht.com/nR1-SiZGAVH4m2TgSeh8sItJNVOXeYDZjB5x8_UVZxLa4K9C9rCNL9GHJNZEDcVjOSc=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 19,
+    "developer": "{epr}.io",
+    "developerId": "%7Bepr%7D.io",
+    "developerEmail": "support@epr.io",
+    "developerWebsite": "http://epr.io",
+    "developerAddress": "Iain Parkes\nUnit 5955\nPO Box 15113\nBirmingham\nB2 2NJ",
+    "updated": "March 11, 2016",
+    "version": "1.6",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "WrisTemp Pro enhances the convenience of owning a Nest Learning Thermostat by allowing you to easily and quickly make adjustments using your Android Wear watch without having to get your phone out.Features you can control from your wrist:- Choose from any thermostat connected to your Nest account- See the current thermostat temperature- See and set the current target thermostat temperature- See and set your away status from home or away- Background status indicates away/off, heating, cooling or at temperature.- Works with Heat, Cool and Heat-Cool models- See and set target temperatures for all thermostats using voice control 'Start Thermostat Control...Set Living Room to 23 degrees' or 'Start Thermostat Control....Set temperature to 22 degrees'Setting up the app is easy. Simply download and install the app, launch the phone companion app and login with your nest account. From then on you can control everything via your Android Wear watch.Super Support:Got a problem, email us and we'll help you or fix any issues found. Many of our new features come from our users.PLEASE NOTE: This application will currently only work with Android Wear devices therefore it does not currently work with Samsung Gear smartwatches.Legal disclaimerNest®, Nest Learning Thermostat®, Nest Leaf Logo®, Auto-Away®, and the Works with Nest logos are trademarks licensed by Nest Labs, Inc.",
+    "descriptionHTML": "WrisTemp Pro enhances the convenience of owning a Nest Learning Thermostat by allowing you to easily and quickly make adjustments using your Android Wear watch without having to get your phone out.<br><br>Features you can control from your wrist:<br>- Choose from any thermostat connected to your Nest account<br>- See the current thermostat temperature<br>- See and set the current target thermostat temperature<br>- See and set your away status from home or away<br>- Background status indicates away/off, heating, cooling or at temperature.<br>- Works with Heat, Cool and Heat-Cool models<br>- See and set target temperatures for all thermostats using voice control &apos;Start Thermostat Control...Set Living Room to 23 degrees&apos; or &apos;Start Thermostat Control....Set temperature to 22 degrees&apos;<br><br>Setting up the app is easy. Simply download and install the app, launch the phone companion app and login with your nest account. From then on you can control everything via your Android Wear watch.<br><br>Super Support:<br>Got a problem, email us and we&apos;ll help you or fix any issues found. Many of our new features come from our users.<br><br><br>PLEASE NOTE: This application will currently only work with Android Wear devices therefore it does not currently work with Samsung Gear smartwatches.<br><br>Legal disclaimer<br>Nest&#xAE;, Nest Learning Thermostat&#xAE;, Nest Leaf Logo&#xAE;, Auto-Away&#xAE;, and the Works with Nest logos are trademarks licensed by Nest Labs, Inc.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 5,
+        "4": 3,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/hlvrAvLJW6wA5zfdGvKwm-HzH9VCj5C3Fn5_H_F7cAqIKn7DKiZQa7jhVp-F3uhm-NA=h310",
+        "//lh5.ggpht.com/NoxoedwvEh62tYgT3APYonRAb0Kfgle4cv_gVT0NP6gHOrAHekGC8vc_zvyRKKn4q2k=h310",
+        "//lh5.ggpht.com/AfwkzTctvmUuTvLYekc8mN4Kc-SjbOJJi-Jlnrl2Vj3bKNxRt2_PV42ibpxYJafw9yqg=h310",
+        "//lh5.ggpht.com/QVjoSSl09etEh5eYq-gTBKh1B4egLfT7BvIHmdkRuVl1CvZ09z4jxJqP-aZ7PWu1ENJW=h310"
+    ],
+    "comments": [
+        "When I say start or open \"thermostat control\", the watch takes me to the web and does not open the app.",
+        "The Nests missing feature Very handy. I like that I can preheat my home on my drive from work",
+        "Working well with LG Urbane, very nice looking interface. Way better than the Android Wear apps that come with Calida",
+        "Works as described And does it well!  Which is more than I can say for most of the other Wear implementations of Nest controls.",
+        "Works as described",
+        "As far as I’m aware, there are only a couple of apps available for controlling the Nest thermostat on Android Wear devices and this one is by far the best by quite some margin. The design is visually top class, and the voice control works perfectly. Also the ability to set the Thermostat into ‘Home’ & ‘Away’ mode directly from the watch is extremely useful!  Excellent communication from the developer when I had some queries after first installing.   All in all, just what I’ve been looking for to control the Nest from my Moto 360."
+    ],
+    "recentChanges": [
+        "- Stability improvements",
+        "- Nest connection improvements",
+        "- Improved error messages",
+        "- Temperature adjustment improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=io.epr.wristemppro&hl=en&gl=us",
+    "appId": "io.epr.wristemppro"
+}

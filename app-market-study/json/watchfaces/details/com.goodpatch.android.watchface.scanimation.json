@@ -1,0 +1,49 @@
+{
+    "title": "Scanimation Watch Face",
+    "summary": "Using an acceleration sensor of Android Wear, it is watch face moving .",
+    "icon": "//lh5.ggpht.com/liS-sClxPCIh_1Kv2l8ZYl7Bfw8d4pYSiIirb2F1MQVTxEAmAVzGUTRaqXGpuEEoQ-4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 17,
+    "developer": "Goodpatch Inc.",
+    "developerId": "8724307623457699242",
+    "developerEmail": "goodpatch.android@gmail.com",
+    "developerWebsite": "http://goodpatch.com/",
+    "developerAddress": "150-0032\n東京都 渋谷区鶯谷町3-3\nVORT渋谷south2階（旧サウスゲート渋谷ビル）\n日本",
+    "updated": "June 28, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A Scannimation WatchFace for Android Wear.Using an acceleration sensor of Android Wear, it is watch face moving .Animation is started by tilting the arm(tilting the device) .3 patterns for WatchFaces to choose from.How to set your WatchFace:・Install via Google Play・Open the \"Android Wear\" Android Wear app on your mobile device・Tap the screen of your Wear device and hold to enter WatchFace selection screen, choose \"Scanimation\"Supported devices:・Motorola Moto360・LG G Watch R・LG G Watch・Samsung Gear LIVE・SONY Smart Watch 3Not yet tested on:・ASUS ZenWatch",
+    "descriptionHTML": "A Scannimation WatchFace for Android Wear.<br><br>Using an acceleration sensor of Android Wear, it is watch face moving .<br>Animation is started by tilting the arm(tilting the device) .<br><br>3 patterns for WatchFaces to choose from.<br><br>How to set your WatchFace:<br>&#x30FB;Install via Google Play<br>&#x30FB;Open the &quot;Android Wear&quot; Android Wear app on your mobile device<br>&#x30FB;Tap the screen of your Wear device and hold to enter WatchFace selection screen, choose &quot;Scanimation&quot;<br><br>Supported devices:<br>&#x30FB;Motorola Moto360<br>&#x30FB;LG G Watch R<br>&#x30FB;LG G Watch<br>&#x30FB;Samsung Gear LIVE<br>&#x30FB;SONY Smart Watch 3<br><br>Not yet tested on:<br>&#x30FB;ASUS ZenWatch",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 4,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/FxaDRxGpHrkOd3tH8bK2r2zKTS5AUI6PgDfEYAt4QUb0_2bs73xkdU6JQ3CBTdCICA=h310",
+        "//lh3.googleusercontent.com/7AKJXHxjIQLHq0zGKOpfEo3OHmq-QMcr7LuCF3EZUJgs1ef-Fj4f4QWdrBCTzeTRHrQ=h310",
+        "//lh3.googleusercontent.com/rQQTcrPtAylmP29EPQ2JRhL9egKGi_LyUciUXwkvvRGfVNzREGzWpqpmwSOmYSFDwA=h310"
+    ],
+    "comments": [
+        "Cool watchface! Please try to remove the icon from the app drawer. A great looking and functional watchface. It is just a little bit annoying to have the icon in the app drawer just for some minor settings, try to place them inside the android wear app. Thanks! Keep up the good work!",
+        "It's OK Definitely needs some options like how long it stays at full brightness. Right now it's now on long enough to get from one side of the screen to the other. Also date and time options."
+    ],
+    "recentChanges": [
+        "Bug Fix."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.goodpatch.android.watchface.scanimation&hl=en&gl=us",
+    "appId": "com.goodpatch.android.watchface.scanimation"
+}

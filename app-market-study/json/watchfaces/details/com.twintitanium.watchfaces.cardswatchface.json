@@ -1,0 +1,56 @@
+{
+    "title": "Cards Watch Face",
+    "summary": "A stream of cards pop to life on your watch face.",
+    "icon": "//lh3.googleusercontent.com/MKUobDsVRYj--q591wrgJ6tX-7JsNi7hM-vd24dr1RFMjLRoso0SBrlCBGOQLkGAA1w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.6,
+    "reviews": 8,
+    "developer": "Twin Titanium",
+    "developerId": "Twin+Titanium",
+    "developerEmail": "twintitaniumteam@gmail.com",
+    "developerWebsite": "https://plus.google.com/communities/110183827745114227097",
+    "developerAddress": "151 Calderon Ave #43\nMountain View, CA\n94041",
+    "updated": "October 30, 2015",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Cards Watch Face is a simple, beautiful, and battery-efficient Android Wear watch face that features key, glanceable information on cards atop a bold background. Every interaction was carefully considered with Material Design guidelines in mind to ensure you have an optimal experience as you customize your watch face and save personal themes.Join our Google+ community! https://plus.google.com/communities/110183827745114227097Key features:- 3 configurable colors: background color, card color, and text color- Top and bottom cards can show the date or battery (more options coming soon!)- Fluid animations and delightful experiences throughout the app- Looks great on both round and square screens- 7 default themes which you can set from your phone or watch- Saving additional themes requires in-app purchase, but you can customize freely without savingContact us with feedback or suggestions at twintitaniumteam@gmail.com.",
+    "descriptionHTML": "Cards Watch Face is a simple, beautiful, and battery-efficient Android Wear watch face that features key, glanceable information on cards atop a bold background. Every interaction was carefully considered with Material Design guidelines in mind to ensure you have an optimal experience as you customize your watch face and save personal themes.<br><br>Join our Google+ community! https://plus.google.com/communities/110183827745114227097<br><br>Key features:<br>- 3 configurable colors: background color, card color, and text color<br>- Top and bottom cards can show the date or battery (more options coming soon!)<br>- Fluid animations and delightful experiences throughout the app<br>- Looks great on both round and square screens<br>- 7 default themes which you can set from your phone or watch<br>- Saving additional themes requires in-app purchase, but you can customize freely without saving<br><br>Contact us with feedback or suggestions at twintitaniumteam@gmail.com.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 5
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Y_b9ZjFXSZBwPeuPPx3rsQAFFx2etjjCP7T_iZtCB0lmji11zxmpKd-JldT8AJfOr4NC=h310",
+        "//lh3.googleusercontent.com/3OSEYvEtYGcS5zJCpZuQgRMr5r3d6pLal8FaHw4fK8OXcjkpaW0o7bGqQAkXml7guCR9=h310",
+        "//lh3.googleusercontent.com/1TGotSHWehf5Y3VZtpcLBoJDRGnecMXSAVl5Bw2qKx93kP1_c1S_UZLYmi_W84FeGvkJ=h310",
+        "//lh3.googleusercontent.com/WeCYb7vHThkJ966TnrvdbM7tqP5SngvJ1zc6XZPTA3JajSuELBoHISp__Jes4e2Y3A=h310",
+        "//lh3.googleusercontent.com/VjY0-BZL65os1B2Mvm1MOQOmDzq-DNVumXNbbXpcMD324CzDuCH7gu9zCgVRuNuXMqMc=h310",
+        "//lh3.googleusercontent.com/Ir_RSe5JowgxcTjuLeDrlLaKGKv-MPXDUNKw-8FD4XiDvaDKa1KBUloUJDDjmkfiFHM=h310",
+        "//lh3.googleusercontent.com/hD-NKvN2R6MDeypMTeHBy6TQ_z9AG5PLWfoLWQPDXDJbnpLwR7YH23ZMjVmoiSajjg=h310",
+        "//lh3.googleusercontent.com/FmWbcp_liU-_mqNCmJX2_fMRey2FTEjbTHtUcpciFDUqp_0iREsvEu-vRPNyqVepB4ku=h310",
+        "//lh3.googleusercontent.com/mF5orZvI3r0EJuU0l51VhXwJOd81lYjhAZ3goWk_CO-i7PV2ZS9ZKjyJM4QfA9Bng6s=h310",
+        "//lh3.googleusercontent.com/LivKN4jXcIr2viKCj-3lHAxqkPhVVJXBEw3LFpS_jn0HRQaVVXxKiLdp9234SiYA2w=h310",
+        "//lh3.googleusercontent.com/aD55Sn38Soq0rMM6Fs_FIqMAh9jrhHx_rENiyWInRqsWhF3XyLzZ47wTA2gkz_C2gw=h310"
+    ],
+    "comments": [
+        "No bottom card on Moto 360 Ambient mode shows watch battery percent but when lit up does not show anything on bottom."
+    ],
+    "recentChanges": [
+        "Initial release."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.twintitanium.watchfaces.cardswatchface&hl=en&gl=us",
+    "appId": "com.twintitanium.watchfaces.cardswatchface"
+}

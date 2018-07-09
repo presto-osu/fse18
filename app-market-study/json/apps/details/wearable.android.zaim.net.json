@@ -1,0 +1,48 @@
+{
+    "title": "WearZaim",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh3.ggpht.com/6Z17qsommifyV-gEkeLJfUK7Ig9E8Uw3c0N_xsar3frktHjB38QdvYOtw7AOAAlmwE8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3.3,
+    "reviews": 3,
+    "developer": "Shintaro Katafuchi",
+    "developerId": "Shintaro+Katafuchi",
+    "developerEmail": "hot.chemistry21@gmail.com",
+    "developerWebsite": "https://twitter.com/hotchemi",
+    "developerAddress": "東京都練馬区田柄",
+    "updated": "July 14, 2014",
+    "version": "1.2",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "ZaimのAndroid Wearクライアント(非公式)です。Android Wearから支出を登録する事ができます。※アプリインストール後は，端末側で認証を実施しないとWearから扱えません。ご注意ください。wearzaimはオープンソースソフトウェアとしてコードを公開しています。https://github.com/hotchemi/wearzaim",
+    "descriptionHTML": "Zaim&#x306E;Android Wear&#x30AF;&#x30E9;&#x30A4;&#x30A2;&#x30F3;&#x30C8;(&#x975E;&#x516C;&#x5F0F;)&#x3067;&#x3059;&#x3002;<br>Android Wear&#x304B;&#x3089;&#x652F;&#x51FA;&#x3092;&#x767B;&#x9332;&#x3059;&#x308B;&#x4E8B;&#x304C;&#x3067;&#x304D;&#x307E;&#x3059;&#x3002;<br><br>&#x203B;&#x30A2;&#x30D7;&#x30EA;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;&#x5F8C;&#x306F;&#xFF0C;&#x7AEF;&#x672B;&#x5074;&#x3067;&#x8A8D;&#x8A3C;&#x3092;&#x5B9F;&#x65BD;&#x3057;&#x306A;&#x3044;&#x3068;Wear&#x304B;&#x3089;&#x6271;&#x3048;&#x307E;&#x305B;&#x3093;&#x3002;&#x3054;&#x6CE8;&#x610F;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br><br>wearzaim&#x306F;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;&#x3068;&#x3057;&#x3066;&#x30B3;&#x30FC;&#x30C9;&#x3092;&#x516C;&#x958B;&#x3057;&#x3066;&#x3044;&#x307E;&#x3059;&#x3002;<br>https://github.com/hotchemi/wearzaim",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/Wc9MV58zzudiuHzfCLYGp3rDB9IjyMti4hgGRNVPrD9ZFL79gzBwqc9F_KrfKqEgt44=h310",
+        "//lh6.ggpht.com/QFUAOVxTDP--oty6yosqGzG_wM51xqiWjkUCKjb1keyqPep07mjvOMbbBsITzfsIids=h310",
+        "//lh6.ggpht.com/pR6QnLdG6yRym4vd5YBrXSkQ7p1qzaTnEf8zWewgSOSSIZH-c_kNa25ZWiw2vAwkNEoU=h310",
+        "//lh5.ggpht.com/r-ZQzaWL0mQVanRlCsrNfvIqj2pEAd4YZHuDBqlQq2ujkkyUit7oP7zHiSO2qi-XnSoq=h310",
+        "//lh6.ggpht.com/M6HtfizTQPUgnnBjF3szBybr-HkjwQSCvdxMyishvGnItFIBtdRU133cD2enzCrZW4f8=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "ログインできないバグを修正。"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wearable.android.zaim.net&hl=en&gl=us",
+    "appId": "wearable.android.zaim.net"
+}

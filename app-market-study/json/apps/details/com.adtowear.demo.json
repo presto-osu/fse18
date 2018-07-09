@@ -1,0 +1,49 @@
+{
+    "title": "AdToWear Publisher Demo",
+    "summary": "Test ads on Android Wear smartwatch served by AdToWear Network",
+    "icon": "//lh3.googleusercontent.com/ej1CGj2sh7E6Zjygvha-4XXBL4Krir2slLD70j46sUPZa8wCkvAcyJYsaVWBhJ20wDc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 2,
+    "reviews": 8,
+    "developer": "AdToWear Inc.",
+    "developerId": "AdToWear+Inc.",
+    "developerEmail": "info@adtowear.com",
+    "developerWebsite": "http://adtowear.com",
+    "updated": "September 1, 2015",
+    "version": "1.5",
+    "genre": "Libraries & Demo",
+    "genreId": "LIBRARIES_AND_DEMO",
+    "description": "THIS IS NOT A CONSUMER APP. THE APP IS DESIGNED TO DEMONSTRATE TECHNICAL CAPABILITIES OF ADTOWEAR ADVERTISING NETWORK. PLEASE CONSIDER THIS BEFORE RATING/COMMENTING.Monetizing Android Wear apps has become a reality. With AdToWear SDK you can serve ads on Android Wear watches and generate up to 1000% more revenue than with traditional in-app model. Our app shows how ads are displayed on the watch. You can use both round and square watches. Install the app. Go to the app on the phone and click \"START DEMO\". 60 seconds later ads will start showing up on the android wear watch. You can click the ad or dismiss it. If you click the add, it will open a web browser on the phone. If you dismiss it,  a new add will show up in 60 seconds. This is demo only.  Actual timing of ads is determined by you - the publisher.",
+    "descriptionHTML": "THIS IS NOT A CONSUMER APP. THE APP IS DESIGNED TO DEMONSTRATE TECHNICAL CAPABILITIES OF ADTOWEAR ADVERTISING NETWORK. PLEASE CONSIDER THIS BEFORE RATING/COMMENTING.<br><br>Monetizing Android Wear apps has become a reality. With AdToWear SDK you can serve ads on Android Wear watches and generate up to 1000% more revenue than with traditional in-app model. Our app shows how ads are displayed on the watch. You can use both round and square watches. <br><br>Install the app. Go to the app on the phone and click &quot;START DEMO&quot;. 60 seconds later ads will start showing up on the android wear watch. You can click the ad or dismiss it. If you click the add, it will open a web browser on the phone. If you dismiss it,  a new add will show up in 60 seconds. This is demo only.  Actual timing of ads is determined by you - the publisher.",
+    "histogram": {
+        "1": 6,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nRY8xjKg-Pt_dro5Z1fZChjnkIp-XVm9uUcp9oPb47ZddSPNKEGE3CplsKc6f0-0nioX=h310",
+        "//lh3.googleusercontent.com/_BgcBvvuR1MsqyB7Aacf2CmU-OkT8Vk62nADX49YlhCze0t2rLJWZJbuYbOGl2PHew=h310"
+    ],
+    "comments": [
+        "Awful, This \"functionality\" drains battery life and ruins user attention on a device that needs to preserve both of these resources. I will be sure to remove any app that puts an ad on android wear, There is no screen real-estate, time, attention, or battery life for this.  Also the demo is broken completely on Moto360.",
+        "Tried licking the ads and nothing happened. Just drained my battery and left a horrible taste on my tongue.",
+        "Disgusting The last thing I need are ads clogging up my one device that's supposed to be free of them.  The point of Android Wear is to get notified of something important, do something, and be done.  Or to prompt the watch with a request for an app or voice search.  None of these things involve an ad breaking the flow.  Just like Google banned apps with notification ads, I will not be surprised when Google bans apps with wearable ads.",
+        "Why would you do this No one wants ads on their watch! Don't make terrible apps like this that only hurt the awesome experience of having a smart watch!"
+    ],
+    "recentChanges": [
+        "Update AdToWear SDK"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.adtowear.demo&hl=en&gl=us",
+    "appId": "com.adtowear.demo"
+}

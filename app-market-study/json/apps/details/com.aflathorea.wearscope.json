@@ -1,0 +1,49 @@
+{
+    "title": "Wearscope",
+    "summary": "Display on the watch videos captured by the mobile&#39;s camera.",
+    "icon": "//lh5.ggpht.com/NEnACVSY2rPdJPx78ZQSEedLKojPe2hDUBh0gXaz_4LNub787wBlqOKIn4UrGrD1nQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 1.8,
+    "reviews": 5,
+    "developer": "Horea",
+    "developerId": "Horea",
+    "developerEmail": "aflathorea@gmail.com",
+    "developerWebsite": "http://www.linkedin.com/pub/horea-aflat/70/406/a5a",
+    "developerAddress": "5264 Rue Parthenais, Montreal, QC, Canada, H2H-2H3",
+    "updated": "August 17, 2014",
+    "version": "1.0",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "description": "Wearscope connects the wear with the mobile camera. It means that you can view on the wear what is on the mobile camera.You can take pictures and browse on the wear the photos gallery.If you want to find your mobile you can call it direct from the wear and the mobile will ring.You do not need to have the mobile open or you do not need to have application open on mobile in order to use it on wear.The first screen on mobile is pretty explanatory and you will learn to use the application in one minute.Features:-Get real-time preview of camera on wear.-Switch on/off the mobile light.-Take photos.-Browse photos gallery on the wear.-Ring the mobile from the wear.Note-You need on mobile minimum Android 4.3 version.-You need to have installed on mobile Android Wear application.-Tested with Nexus S mobile and Samsung Gear watch.Keywords: wearscope, wear, remote camera",
+    "descriptionHTML": "Wearscope connects the wear with the mobile camera. It means that you can view on the wear what is on the mobile camera.<br>You can take pictures and browse on the wear the photos gallery.<br>If you want to find your mobile you can call it direct from the wear and the mobile will ring.<br>You do not need to have the mobile open or you do not need to have application open on mobile in order to use it on wear.<br>The first screen on mobile is pretty explanatory and you will learn to use the application in one minute.<br><b>Features:</b><br>-Get real-time preview of camera on wear.<br>-Switch on/off the mobile light.<br>-Take photos.<br>-Browse photos gallery on the wear.<br>-Ring the mobile from the wear.<br><b>Note</b><br>-You need on mobile minimum Android 4.3 version.<br>-You need to have installed on mobile Android Wear application.<br>-Tested with Nexus S mobile and Samsung Gear watch.<br><br>Keywords: wearscope, wear, remote camera",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/98GPdQkCrLg1xdFIOoli7ew-LTXLmE9fnJQbPefOB1enBRc_NcZxstMW2ehWGlBMSEN3=h310",
+        "//lh3.ggpht.com/ic2rAW5_87XaMsQRkJd1tNSSPxkhu90T8AYOFcu5gi4nEfAZK0hLVPy2zgqu2dsY3yS5=h310",
+        "//lh6.ggpht.com/XqJRojvV_M2D2U9qfr1jWntisCUPXUyvsNW48RmLhpwgKxecf17MmvZmyX1BRFDRJw=h310"
+    ],
+    "comments": [
+        "Please wake up google! Does not work on android wear",
+        "Not for android wear. In the wrong section. This is for tizen",
+        "Doesn't work for tizen Says wear in app.",
+        "Not, repeat, NOT for Android Wear. It's not totally obvious, and this app comes up in the Android Wear store app. That lead me here, and caused time waste before realizing it's the wrong OS."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aflathorea.wearscope&hl=en&gl=us",
+    "appId": "com.aflathorea.wearscope"
+}

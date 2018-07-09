@@ -1,0 +1,57 @@
+{
+    "title": "Bermuda Wear Watch Face",
+    "summary": "Bermuda is an elegant, minimalist watch face for your Android Wear device.",
+    "icon": "//lh6.ggpht.com/BW02nGUUb_3ZXbWnfrCBY_VQbRemOlVFAh0Ygng4wqihnqt8iLjsDWwgCXo2iRLhchA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 25,
+    "developer": "Airsource Ltd.",
+    "developerId": "Airsource+Ltd.",
+    "developerEmail": "airsource.play@airsource.co.uk",
+    "developerWebsite": "http://www.airsource.co.uk/",
+    "developerAddress": "Airsource Ltd.\n25 City Road\nCambridge\nCambridgeshire\nCB1 1DP\nUnited Kingdom",
+    "updated": "January 21, 2015",
+    "version": "2.0.91",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Bermuda is a minimalist watch face carefully crafted for your Android Wear device.Designed to show you the time at a glance, the Bermuda Wear Watch Face displays the time as a constantly changing triangle. A relaxing, sophisticated and simple watch face designed to complement your timepiece. The watch has a animated movement that still retains the 'tick' of a traditional clock.The companion app allows you to customise the appearance of the watch face. Choose from Bermuda's 10 pre-defined colour-ways or set your own custom colours.To make use of this watch face you will need to have an Android Wear device as well as an Android phone that can install Android Wear applications.If you have just installed this, the watch face should appear on your Wear™ device shortly (up to 60 seconds).",
+    "descriptionHTML": "Bermuda is a minimalist watch face carefully crafted for your Android Wear device.<br><br>Designed to show you the time at a glance, the Bermuda Wear Watch Face displays the time as a constantly changing triangle. A relaxing, sophisticated and simple watch face designed to complement your timepiece. The watch has a animated movement that still retains the &apos;tick&apos; of a traditional clock.<br><br>The companion app allows you to customise the appearance of the watch face. Choose from Bermuda&apos;s 10 pre-defined colour-ways or set your own custom colours.<br><br>To make use of this watch face you will need to have an Android Wear device as well as an Android phone that can install Android Wear applications.<br><br>If you have just installed this, the watch face should appear on your Wear&#x2122; device shortly (up to 60 seconds).",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 5,
+        "4": 8,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/dg65S1MvgFtoYnJBRlTa8GSJPTwKnEuwMDTTv-H6PbqcjeNB6hTFnCdxb8M1ydtOKA=h310",
+        "//lh3.ggpht.com/2Xm5rnKuuCN2gbW171hSDM51i6f15nLef0sverKthmXtvBHoK-0ZI_u4hlX5igVnTio=h310",
+        "//lh4.ggpht.com/KLs_2PAIyWSrLxAf5xpKSgj_wXVNytD_Vllg3fiYLfGWXt4Y6beHrONOU9V-T7en1iQ=h310",
+        "//lh4.ggpht.com/6QOuu_ZTw5t3jtkWz0sk99L-U8sVmVwJM0TSaKtTFcJnUBUO49uVTZxq-lkQdyqMoq4a=h310",
+        "//lh4.ggpht.com/ctp1mcD6hi6NJzf9RimrdbLpesU-z0x68LQGRVdfBKZJKIzCiGP3erjN2uPoCEtVBZs=h310"
+    ],
+    "comments": [
+        "Still my go to watch face",
+        "Nice unique design I've been wondering why anyone would download a analog watch face to a smart watch, this is a good alternative, still showing the seconds (which is the triangle increasing in size) with digital numbers, the text of which is big enough to glance at. I only wish there was an option to add the date. Cool design though, feels very modern while still holding on to elements of a classic watch face so it doesn't scream smart watch. I really like the color combinations as well.",
+        "Beautiful graphics but need some customisation! Personalised colours would take this to a 5/5",
+        "Beautiful idea just some hiccups. It would be nice to put some editing options in this app. Maybe even changing the font. I just expect more for a buck. Also one major problem with this watch face is the time isn't synced properly. Every other item says the correct time but this watch face. Always two mins behind. I change watch face and it catches up. Can that be fixed?",
+        "Super sleek and lots of options Lovely animations between seconds and as the app wakes and a lot of really nice colour-ways too. Currently using the 'Hardware' option.  One nice touch is the way the numbers slide out of each-others way as they approach so you can always read the time with the 'hour' to the left of the 'minute'",
+        "Notifications cover screen It looks good, but cant properly test it as long as it uses the big notifications which take up half the screen. Please make this a setting or change it to small notifications."
+    ],
+    "recentChanges": [
+        "- Bermuda now uses the official Watchface API including low-bit ambient mode",
+        "- Design your own Bermuda! Pick your own colours from the phone app",
+        "- Access the mobile app directly from the Android Wear app"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.airsource.android.bermuda&hl=en&gl=us",
+    "appId": "uk.co.airsource.android.bermuda"
+}

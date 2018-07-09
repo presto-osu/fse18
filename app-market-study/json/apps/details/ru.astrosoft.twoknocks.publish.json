@@ -1,0 +1,51 @@
+{
+    "title": "2Knock",
+    "summary": "App reads list of new calls/SMS on your phone just by knocking your wristwatch!",
+    "icon": "//lh3.googleusercontent.com/swFOuiOqiXzUdRsHqEBFpoDtGrnB_oPYYuEMFI0YGwnO2m2AnQAMuk2ilmF2trHJRA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 9,
+    "developer": "AstroSoft Development",
+    "developerId": "AstroSoft+Development",
+    "developerEmail": "astrosoft.development@gmail.com",
+    "developerWebsite": "http://astrosoft-development.com/",
+    "developerAddress": "Akademgorodok 50C19\nKrasnoyarsk\nRussian Federation",
+    "updated": "May 23, 2016",
+    "version": "0.2.17",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "2knock is an application that expands the capabilities of managing your phone with your Android Wear watch. You can perform various actions with your phone even without touching it: hear a list of missed calls and unread text messages, listen to texts and make calls to senders. Do it with just your watch! You can perform basic phone operations even if you are not able to use smartphone. If your hands are busy or if using your phone is inconvenient, then this application is for you!Our application provides phone management capabilities with your watch in a very simple way: you only need to knock your watch with a finger. You can set knock patterns for the actions you can select from a predefined list. By default, the following knocks are assigned to the actions:• Two quick knocks will make a phone read aloud a list of missed calls and texts• While missed calls and SMS lists are being read:o Two short knocks– go to next itemo Three short knocks – call sendero Three short and one long knock – stop speakingYou can also use our application 2Touch for smartphone; it works on a phone by itself and on a watch and a smartphone combination. We appreciate your issue reports and feedback! We shall appreciate getting your issue reports and feedback!",
+    "descriptionHTML": "2knock is an application that expands the capabilities of managing your phone with your Android Wear watch. You can perform various actions with your phone even without touching it: hear a list of missed calls and unread text messages, listen to texts and make calls to senders. Do it with just your watch! <br>You can perform basic phone operations even if you are not able to use smartphone. If your hands are busy or if using your phone is inconvenient, then this application is for you!<br>Our application provides phone management capabilities with your watch in a very simple way: you only need to knock your watch with a finger. You can set knock patterns for the actions you can select from a predefined list. By default, the following knocks are assigned to the actions:<br>&#x2022; Two quick knocks will make a phone read aloud a list of missed calls and texts<br>&#x2022; While missed calls and SMS lists are being read:<br>o Two short knocks&#x2013; go to next item<br>o Three short knocks &#x2013; call sender<br>o Three short and one long knock &#x2013; stop speaking<br><br>You can also use our application 2Touch for smartphone; it works on a phone by itself and on a watch and a smartphone combination. <br><br>We appreciate your issue reports and feedback!<br><br><br><br> We shall appreciate getting your issue reports and feedback!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/UmJnUxOTarQouBONJ0vaCjrrw10GOieRf0ZtP6qnA48sT3mbhXOjNOwbU0T-6huo41s=h310",
+        "//lh3.googleusercontent.com/1YzJZEE5UpHxlDlH8EeteNKQAkwtc8UEaXf2vK9Wip-p_zPS709IdBLb8QOtZ-c2zKKN=h310",
+        "//lh3.googleusercontent.com/_bGs2iHchhviConVfOuQw7i91H8vwJp6W5toupUS3MNrJhjs8cFs5EiUJP-kRVr7_w=h310",
+        "//lh3.googleusercontent.com/yilMRFaAno3uxa5yykRHyJQHeDn1jaQAVVY3TU_L9EspDphtrd5vlCQez0_dWothLg=h310",
+        "//lh3.googleusercontent.com/aTAlfKIwg8uNDxzkbBIoqkropw9cTZo41Yl6-NXfCLRP89MZ9EEN-ZFtp_qwEJyTNd0=h310",
+        "//lh3.googleusercontent.com/d700HrCGmm2dtgxkKLKkF6T-Y8948osLsym4tlVhaP0eJUBxEb4a2aPjBgyd4X26I0g=h310"
+    ],
+    "comments": [
+        "Battery hog Normal battery usage on my Huawei watch is 3% per hour.   Once this app was Installed usage became 12%.  I installed."
+    ],
+    "recentChanges": [
+        "Bugfixing"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ru.astrosoft.twoknocks.publish&hl=en&gl=us",
+    "appId": "ru.astrosoft.twoknocks.publish"
+}

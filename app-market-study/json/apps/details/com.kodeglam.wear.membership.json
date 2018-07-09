@@ -1,0 +1,56 @@
+{
+    "title": "Watch Membership Android Wear",
+    "summary": "This is one app to store your advantage, club and loyalty cards on smartwatch.",
+    "icon": "//lh5.ggpht.com/qrCWbRJM104rQTQ5mWttBBBQtdTS6H_qWfd2GttegKZOyhVPKK-i42z3wyCu03VAwSc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4,
+    "reviews": 345,
+    "developer": "Kodeglam Mobile",
+    "developerId": "Kodeglam+Mobile",
+    "developerEmail": "kodeglam@gmail.com",
+    "developerWebsite": "http://kodeglam.com",
+    "developerAddress": "서울특별시 강동구 진황도로 72, 202호",
+    "updated": "October 22, 2014",
+    "version": "1.001.20141022",
+    "genre": "Shopping",
+    "genreId": "SHOPPING",
+    "description": "This is Membership,Loyalty cards manager application.Gather all loyalty cards, membership cards and discounts on your Android Wear or mobile.*keywordsmartwatch, barcode, android wear.",
+    "descriptionHTML": "This is Membership,Loyalty cards manager application.<br>Gather all loyalty cards, membership cards and discounts on your Android Wear or mobile.<br><br>*keyword<br>smartwatch, barcode, android wear.",
+    "histogram": {
+        "1": 22,
+        "2": 18,
+        "3": 48,
+        "4": 96,
+        "5": 161
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/nm3TGudTpmcehzXb2vNgUlMn5vylSbh2h3QImw4I4k2s7V0tx_ykaVEa1Mrv_rUXLjk=h310",
+        "//lh5.ggpht.com/w2k_0VFw_EYpCWSP4UFXbt96AC0Id1SOnUtHWys3VLlJVvydqhF5L8Ys2NEQMQUhj7NV=h310",
+        "//lh6.ggpht.com/plkDNnudZTp_kmlCcZ0v6vf7jSUSXVV9VPD54MLbnPJIILujzjftps-StcWhlv1Q8Cc9=h310"
+    ],
+    "comments": [
+        "So far works nicely. Using on Huawei stainless steel watch. Display automatically turns bright for scanner and returns back to normal - great feature! I also use Quickbar app but this one loads and operates much smoother. For new cards, having to enter the barcode number rather than loading photo or scanning is not that much of a big deal.",
+        "Wish you could save your input with sign-in, other than that, this is awesome! I love using it with my LG Cellwatch. Put your code number in and scan anywhere you normally scan. Great for going to the gym especially. I used to carry my smartphone in to the gym so I could scan in. Now I can just scan with my watch, listen to my Bluetooth music, and get phone calls leaving my phone behind. People usually balk their eyes in amazement just because I scan things with the watch. Mostly because they can't believe it's not an Apple Watch. For the millionth time... nooo... it's not an Apple Watch!  🍏⌚😎",
+        "Ok app No backup solution, and not possible to scan and detect both the card number and code type. It should also be possible to add a note, or add photos of the original card 💳 Some of my cards have different barcode numbers and membership number. And in some situations I need both.",
+        "Very good but  needs more polish I agree with another user:  location support would be the best addon for this.  It would be nice if it could scan codes in but I don't have a ton of cards so it doesn't kill me to type them in once.  That said, a backup/restore feature couldn't hurt either.",
+        "Works great Puts a bar code on my watch, whenever I need it. The app does exactly what it's supposed to. Sometimes the bar code is a little slow to load, but it's only a couple seconds. Overall this app is exactly what I need, and works great.",
+        "Pretty good. The watch interface is nice but adding new cards is a pain.  Should be able to just scan them with the phones camera. Also bit more polish on the phone interface would be nice."
+    ],
+    "recentChanges": [
+        "1.001",
+        "- added card 'sort' menu",
+        "- updated zxing library.",
+        "- added keep screen on, max brightness.(Android Wear)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kodeglam.wear.membership&hl=en&gl=us",
+    "appId": "com.kodeglam.wear.membership"
+}

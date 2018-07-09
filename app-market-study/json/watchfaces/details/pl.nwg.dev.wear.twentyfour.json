@@ -1,0 +1,56 @@
+{
+    "title": "24h Watch Faces Android Wear",
+    "summary": "See what your time really looks like on 24h watch faces for Android Wear",
+    "icon": "//lh3.ggpht.com/EmyeqxBjP4gFXAV3IX-UE9nnAbSPtX-QfuWzcG-t-RxGiorB6jzfyEPnxGmHkhW7sDk=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 9,
+    "developer": "nwg",
+    "developerId": "nwg",
+    "developerEmail": "nwg.piotr@gmail.com",
+    "developerWebsite": "http://dev.nwg.pl/24h-watch-face",
+    "developerAddress": "ul. Klonowa 2a, Nowa Wieś, 08-300 Sokołów Podlaski, Polska",
+    "updated": "August 3, 2016",
+    "version": "1.5.8",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "The application is a set of three Android Wear watch faces, suitable for both round and square display. By default it shows graphical display of day and night, and textual sunrise / sunset hours (not included in the 'Simple' watch face). This option may be turned off in the companion configuration settings. However, it's really nice to watch the day elongates while spring is upcoming.The day and night display is the internet connection independent. It bases on your location and the timezone settings, therefore it's not expected to work when you turn location services off. The sunrise and sunset time calculation depends on the SunriseSunsetLib library by Mike Reedell. CAUTION: Sunrise / sunset calculation may not work properly in all possible locations. If it happens to you, you may always turn it off. You have been warned. ;)In the 'Clear' watch face you can replace the seconds display with the last position and time, based on which the sunrise / sunset circle was drown (in the companion configuration app). It's not really useful on the daily base, but might come in handy when you suppose that the calculation is incorrect in your location / time zone.After installing the application wait about 30 seconds, and select the watch face either on your watch or in the companion application. You will not see the app in the app drawer.CAUTION: Please make sure whether you have Android Wear 5.0.1 installed on your watch. This application is not supposed to work on older OS versions.This application utilizes The Android Open Source Project code, (C) 2014 The Android Open Source Project, licensed under the Apache License, Version 2.0. Sunrise/sunset calculation is being performed with SunriseSunsetLib by Mike Reedell, licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.The original concept of the 24 hours scaled analog watch face comes from Clark Wilson - many thanks!Ideas, suggestions and bug reports please leave at http://dev.nwg.pl/24h-watch-facesAndroid Wear watch face",
+    "descriptionHTML": "The application is a set of three Android Wear watch faces, suitable for both round and square display. By default it shows graphical display of day and night, and textual sunrise / sunset hours (not included in the &apos;Simple&apos; watch face). This option may be turned off in the companion configuration settings. However, it&apos;s really nice to watch the day elongates while spring is upcoming.<br><br>The day and night display is the internet connection independent. It bases on your location and the timezone settings, therefore it&apos;s not expected to work when you turn location services off. The sunrise and sunset time calculation depends on the SunriseSunsetLib library by Mike Reedell. CAUTION: Sunrise / sunset calculation may not work properly in all possible locations. If it happens to you, you may always turn it off. You have been warned. ;)<br><br>In the &apos;Clear&apos; watch face you can replace the seconds display with the last position and time, based on which the sunrise / sunset circle was drown (in the companion configuration app). It&apos;s not really useful on the daily base, but might come in handy when you suppose that the calculation is incorrect in your location / time zone.<br><br>After installing the application wait about 30 seconds, and select the watch face either on your watch or in the companion application. You will not see the app in the app drawer.<br><br>CAUTION: Please make sure whether you have Android Wear 5.0.1 installed on your watch. This application is not supposed to work on older OS versions.<br><br>This application utilizes The Android Open Source Project code, (C) 2014 The Android Open Source Project, licensed under the Apache License, Version 2.0. Sunrise/sunset calculation is being performed with SunriseSunsetLib by Mike Reedell, licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.<br><br>The original concept of the 24 hours scaled analog watch face comes from Clark Wilson - many thanks!<br><br>Ideas, suggestions and bug reports please leave at http://dev.nwg.pl/24h-watch-faces<br><br>Android Wear watch face",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 3,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/_ak-h8w4SMgzVWTf5Dr5JlKQZygJdQQBzzzrWI5k4VVtjjxzvjYzkYaa4CQEnC8HOg=h310",
+        "//lh4.ggpht.com/sfPvrupP7VC58G6mvmWVEpB0MQd6vAUlgTGpXiRfs1F2xS7Qa2RKP2yFcH-jvkRGGgDO=h310",
+        "//lh5.ggpht.com/XsaQnsiM8UfNtIfUJgshORuFJlZCbaVzpwhw_85_ONCrTO1NzUQfh2BhJgu7SMvEZt1-=h310",
+        "//lh6.ggpht.com/HRuxEejU2UcP58_aXy7qPPwolqQuZCG8oVub2e-nYlkXI2e9vB81E19i4Eb1fjKBpMVg=h310",
+        "//lh3.ggpht.com/mmw5rczvugBw2V9p-OhsFQRCzIXF2Wts-ELL3EKdvXdlTKodF4ZsRfCAEei3zTI6iGU=h310",
+        "//lh5.ggpht.com/Gz25NMLyu1VPFn6AXIt_QP3LWjbsem2r1Ht5FPhAfXBKRswFYdoYqliC9RYN2nl8a7Sf=h310"
+    ],
+    "comments": [
+        "At last I've found a 24 hr visual day night display! Not perfect, I'd like the current time indicator more prominent, but I'm grateful to have this! Odd how hard it was to find this, that there aren't more with this feature."
+    ],
+    "recentChanges": [
+        "\"24h Clear\" watch face:",
+        "- After setting the watch face, initial data will be acquired immediately;",
+        "- Notification area in ambient mode given black background;",
+        "- Status bar and the hotword area in active mode given black, semitransparent background;",
+        "- Battery level info added: replaces useless last location update info; turned off by default, see settings on the phone to turn it on;",
+        "- some minor layout improvements;"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.nwg.dev.wear.twentyfour&hl=en&gl=us",
+    "appId": "pl.nwg.dev.wear.twentyfour"
+}

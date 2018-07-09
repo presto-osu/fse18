@@ -1,0 +1,51 @@
+{
+    "title": "Book of Mormon Wear",
+    "summary": "Book of Mormon for Android Wear Smart Watches",
+    "icon": "//lh3.googleusercontent.com/49D50BOZYEQDou4pSaQRxyQNzBtE0ZKLDk6BL0UPTUOxrZcOUEDURA5_O7tq_jpMM_E=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 5,
+    "developer": "Chad Banks",
+    "developerId": "Chad+Banks",
+    "developerEmail": "bestldsapps@gmail.com",
+    "developerWebsite": "http://ldsscripturesapps.blogspot.com/",
+    "developerAddress": "4709 N Horseshoe Dr\nEnoch, UT 84721",
+    "updated": "August 4, 2016",
+    "version": "1.12",
+    "genre": "Books & Reference",
+    "genreId": "BOOKS_AND_REFERENCE",
+    "description": "Now you can read the Book of Mormon on your watch. If you have Android Wear, you can read the Book of Mormon from the LDS scriptures.",
+    "descriptionHTML": "Now you can read the Book of Mormon on your watch. If you have Android Wear, you can read the Book of Mormon from the LDS scriptures.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/EQOEntlho4FbBrmSaLCFkncWdF8WVTsp0yyqnE6y6m0x_19lPdRRjbtOoVUbxrqLkqo=h310",
+        "//lh3.googleusercontent.com/dckboAZPxiCMxZwM9-LrEE-cL0omaUU8hRDnt1_bltPtge7lS5Q2mennmZuD8-iPwlI=h310",
+        "//lh3.googleusercontent.com/JN0CuZWPd8-wSosdd_2T-WOPChSVHmVs75N0yicazUvZqb9DK07REklNuSZ3nyc9Wsc=h310"
+    ],
+    "comments": [
+        "Perfect and simple app. Wish there was something like this for any book.  Although this really is the only book anyone needs to read! 😁",
+        "Very handy way to have and read the Book of Mormon anytime. Simple, clean, easy to use interface. The best Wear app ever!",
+        "Well done. Nice app"
+    ],
+    "recentChanges": [
+        "Bug fixes.",
+        "Swipe left to go back to chapter or book view."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=barxdroid.wearable_app&hl=en&gl=us",
+    "appId": "barxdroid.wearable_app"
+}

@@ -1,0 +1,55 @@
+Soot started on Thu Jun 21 13:05:32 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: fr.gaetana.aviatortimepiece.AviatorTimePieceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/fr.gaetana.aviatortimepiece.apk
+[INFO] MySceneTransformer: ############## fr.gaetana.aviatortimepiece.AviatorTimePieceService$Engine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   30
+[INFO] FlowGraph: @@@@ Total Methods: 111
+[INFO] FlowGraph: @@@@ Total Stmts:   7421
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r5_11=[-256], $r5_4=[-256], $r5_1=[-256], $r5_2=[-256], $r5_7=[-256], $r4_41=[-1], $r5_3=[-256], $r5_6=[-256], $r5_8=[-256], $r5_10=[-256], $r5=[-256], $r5_9=[-256], $r5_5=[-256]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r5_11=[-256], $r5_4=[-256], $r5_1=[-256], $r5_2=[-256], $r5_7=[-256], $r4_41=[-1], $r5_3=[-256], $r5_6=[-256], $r5_8=[-256], $r5_10=[-256], $r5=[-256], $r5_9=[-256], $r5_5=[-256]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [yellow]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [yellow]
+[INFO] MySceneTransformer: colors equal=true
+[INFO] MySceneTransformer: TOTAL TIME: 14.352000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:05:50 EDT 2018

@@ -1,0 +1,57 @@
+{
+    "title": "Calendar for Android Wear",
+    "summary": "You can view the calendar in Android Wear",
+    "icon": "//lh3.ggpht.com/RdZshck82d7vcIUiOM9AlTsAOmWcVQyjNuuwT-zoYUQmIZcatqiMl_LwAjP-d5IfYHw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.7,
+    "reviews": 2605,
+    "developer": "Kodeglam Mobile",
+    "developerId": "Kodeglam+Mobile",
+    "developerEmail": "kodeglam@gmail.com",
+    "developerWebsite": "http://kodeglam.com",
+    "developerAddress": "서울특별시 강동구 진황도로 72, 202호",
+    "updated": "March 2, 2018",
+    "version": "1.007.20180301",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This application is only available Android Wear Device.You can view your calendar on your watch.Features:* Monthly(free), Daily(premium), Detail view(premium).* Setting color, first day of week(free)* Displaying calendar of events(premium).KeywordSmartwatch, kodeglam, calendar, event, android wear",
+    "descriptionHTML": "This application is only available Android Wear Device.<br>You can view your calendar on your watch.<br><br>Features:<br>* Monthly(free), Daily(premium), Detail view(premium).<br>* Setting color, first day of week(free)<br>* Displaying calendar of events(premium).<br><br>Keyword<br>Smartwatch, kodeglam, calendar, event, android wear",
+    "histogram": {
+        "1": 367,
+        "2": 185,
+        "3": 345,
+        "4": 699,
+        "5": 1009
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/IQ4rU-tgR5mIC3eDFLXLgeVaAvBqgaIYHhakguSiD4A-dUeTIHsR9Uz-Koog9vXNqg=h310",
+        "//lh5.ggpht.com/gECGtV_w8_6OCCH-mWsXPe3iB_fX-xRZbe1dfcHPG80-tf6P6XYFpWbiokqbNriX4A=h310",
+        "//lh3.ggpht.com/9BF0BZPr3PzpNrAfx8kb9KHRTV0Y1i7kl9-Pj1ikwzLhE0p5KvIpexXgM2Kmrz5R-Q8=h310",
+        "//lh3.ggpht.com/8Jk4K5LDLcfcg1IBzW_X49BrvsbczKJrRGrjY3HldudxRV2HjhsAy579fMxj_lrnBw=h310"
+    ],
+    "comments": [
+        "Loving this app so far. Date picker disable feature is a welcome addition.",
+        "This should have been a native wear app built into wear, but oh well, I appreciate the developers effort.",
+        "Good but needs some formatting, better demo A very nice calendar app that has the right Material-design feel for wear. However, it does need more left margin when viewing daily event listings and event details, as part of the text gets cut off on the Moto 360's round display. Also, it would have been nice to at least have a sample event to see what the event and event details screens look like before buying.",
+        "Very intuitive interface, best calendar app so far Very easy to use on my Moto 360. Let's you scan your schedule very easily and quite a few features. I paid for the premium version because really that's the only way to get to see each entry,  but I am so glad I did.  Only thing is the left margin slightly cuts off the text due to the circular screen.",
+        "Calendar on your smartwatch It works great on my Moto 360.  Totally worth it. I like being able to briefly pull up my agenda for a given day. Can you make it so if you swipe right from the watch face, the calendar appears? Kind of like mini launcher allows you to swipe from the left...",
+        "Not Functioning Correctly Purchased the premium, and found that the detail view shows two days instead of just the correct one. For example when I open Jan 3rd. I get details for the 3rd and 4th.  I guess I'm just out $1.99. At least now I know not to purchase anything else from this developer."
+    ],
+    "recentChanges": [
+        "Updated to Android Wear 2.0",
+        "Changed detail view",
+        "Changed mobile application name to 'Calendar W'",
+        "Added function to disable date picker"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kodeglam.calendarwear&hl=en&gl=us",
+    "appId": "com.kodeglam.calendarwear"
+}

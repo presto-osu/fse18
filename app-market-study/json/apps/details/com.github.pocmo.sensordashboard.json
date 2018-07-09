@@ -1,0 +1,55 @@
+{
+    "title": "Sensor Dashboard",
+    "summary": "NOTE: This is a development tool!",
+    "icon": "//lh3.ggpht.com/7ibiCr58ZRF54U84KajoP-PT-myrWUs_2TkTVoeOwMGTUOijJOiVhKm2uhSErS9nPjTX=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.6,
+    "reviews": 28,
+    "developer": "Juhani Lehtimaeki",
+    "developerId": "Juhani+Lehtimaeki",
+    "developerEmail": "Juhani.Lehtimaki@iki.fi",
+    "developerWebsite": "https://github.com/pocmo/SensorDashboard",
+    "developerAddress": "WERK1 München\nGrafinger Str. 6\n81671 München",
+    "updated": "June 21, 2015",
+    "version": "1.1.1",
+    "genre": "Libraries & Demo",
+    "genreId": "LIBRARIES_AND_DEMO",
+    "description": "A development tool for visually inspecting all sensor data from an Android Wear device.Only works with Android Wear for now!Get the source code from: https://github.com/pocmo/SensorDashboard",
+    "descriptionHTML": "A development tool for visually inspecting all sensor data from an Android Wear device.<br><br>Only works with Android Wear for now!<br><br>Get the source code from: https://github.com/pocmo/SensorDashboard",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 4,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/GTFG_UQkffBhkipUcdsgCHO2nrwnCn-gDnAZ5Wxl3k785RKJxmgPtNYLA2KFPQzZTbU=h310",
+        "//lh3.ggpht.com/ZEl2CgOtJdaSu9rOA_j1YwDh1zzq0nTjGoO5IfWcoFtza-0Noz7n6qP09sRWk8tx8Q=h310",
+        "//lh4.ggpht.com/1VST4SgCTofScXzOI-pnakSseKmSVyJsceFw7Bv8sBoqYInb1dAH4XCIDnVwZum_pw=h310"
+    ],
+    "video": "https://www.youtube.com/embed/r9IPTx_ScfA",
+    "comments": [
+        "@developers How to get values for a sensor (e.g. accelerometer) on mobile? I am developing an app that has to access accelerometer data once it is received from wear",
+        "Excellent application! We need to install the application separately on phone and wearable when running from the android studio. I faced this issue as a beginner with wearable app development.",
+        "How do i collect the sensor from the wearable? I have sync my android app to wearable but nothing is showing up on the app.",
+        "Exactly what I am looking for. A good logging device for watch sensor activities.",
+        "Hope to sèe logging into a file Very good and apt feature.i hope to see more xyz parameters corelated to the sensor name."
+    ],
+    "recentChanges": [
+        "Updated from Munich Wearable Datahack",
+        "Added data tagging",
+        "DAta export"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.github.pocmo.sensordashboard&hl=en&gl=us",
+    "appId": "com.github.pocmo.sensordashboard"
+}

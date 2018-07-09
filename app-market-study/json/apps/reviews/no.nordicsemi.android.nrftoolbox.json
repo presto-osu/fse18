@@ -1,0 +1,302 @@
+[
+    {
+        "author": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0411\u0443\u0440\u0430\u0432\u043a\u043e\u0432",
+        "comment": "DFU characteristics not found!!!",
+        "date": "March 1, 2018",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRzBhcXZkZjFsZ0owRUJOM3RTY0FTR3pEd1MzTmNoZnJldjlsTGFUWG9tWGRJbUdSMEF0ZmU5WXFVemNnN3A2MTlOVGhramJJSFc2eExi",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Hi, it's a cashing issue. Easiest way to fix it is using nRF Connect: connect, select Refresh services. Disconnect, go back to nRF Toolbox and try again.",
+            "date": "March 1, 2018"
+        },
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "MAKUZA Albert",
+        "comment": "The best BLE base app for Android ever.",
+        "date": "January 18, 2018",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSGxua09sMnVjQkRyZVFOVHQySVB5NGRIZWtiU0lZMFYzT25qOHpELURLWXNNVE1pU0lwSEYxdlpsNk5MdHk0TWZGeUFXVWg1eko2WEFr",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Vikrant More",
+        "comment": "Very useful",
+        "date": "January 7, 2018",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRkxNYWRDTWlhMGNQallmTE90QUpMOXVtTTlXcFJVTjdFdXE2amRJcnV6bGN4dGZtdkpvQmJPNXdXSkdzcW5YZUVLbHZPZkVqTURhbWZo",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "vignesh c",
+        "comment": "Helpfull",
+        "date": "November 21, 2017",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRmtpMGYxanAxdEw3NGR4N09qWVFuSmVrTW1hWURtMVVmaUc0eVdtVHNLdmVveFNlWlNsSTcxNkVNY3NrYWREU2xKYTZ0UllrbVVhelBh",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Tore Forsgren",
+        "comment": "Great app for nRF developers. The UART app is a bit slow on the key respons. Would also be great to have sliders with configurable min, max values to generate UART data composed of a string with slider position inserted. A great way to put some stress on the bluetooth link.",
+        "date": "August 1, 2017",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRmdtVDlQVkVIRlRuMlh4d2FtYV83ajVoNVdPUUh5M2xYSVZIc0tOdERCbU9yMll0Y2JVYlQ2aEdZeUc3RnFfbVZ2a2dLSEE1UFNtOXVk",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Zona Techno",
+        "comment": "Please fix the running speed and cadence feature on android, i'll give you 5 stars then",
+        "date": "August 30, 2017",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSERYMFpoMl9CM1o1UTJKQzV5SlduajhEMnBidHZsVkt1enhyeGFsMUg1dTJjOVRRNnVscDF4R0pkTk51emFJOXRmSkhwd1NTRFljZzF0",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Hi, could you please elaborate on this issue?",
+            "date": "November 3, 2017"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Adharsh Sankuri",
+        "comment": "For proximity it is not able to scan the devices",
+        "date": "October 10, 2017",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRk5STHRsLTJEbEZRMGUxWHk1ODVDY0FkWkZwa2lLS3VHTkxrZExYb2Z2ckhkMWJfeEh2ZS1vMTlFcE1tbHhlaUxGWUNncm1MQU9vMndf",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Are your Proximity tags advertising with Link loss service uuid?",
+            "date": "November 3, 2017"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Harald Kubota",
+        "comment": "Works extremely well with Puck.js and is great to confirm the Bluetooth LE profiles and advertised data you can program to be sent by the Puck.",
+        "date": "March 18, 2017",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSG02Z0d4TS1IVmZZQTN6TnhOLTYzZW5QNHpfQ3Q1WnVVTkJ3Q2lIN195dk1pNDhEbVpTQUpCeDEyZzFQbGhZZVVmVmxuRmttTXRnUHU4",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Todd Scott",
+        "comment": "Thank you for your assistance. I used a different file explorer as you suggested and was able to load my ZIP. However, the selected file gets cleared if the firmware update fails. You must start over, browsing to the file again. Selected file should stay cued and ready.   Looking forward to that fix in a future update. Thank you for acknowledging the issue.",
+        "date": "January 13, 2017",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRnFsWHdtUVJwaGRSRXVoTWtRUTUtaGJhOVc2dU9oOUxkV2hOS1pUX3Zhb0FyaVpvdWhOcWtvZW5wdjFuQXVwQmE3Vjcxa21WYTNNWnNm",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Yes, you are right. I have it in my backlog but I'm busy with another project right now. Sorry for the inconvenience!",
+            "date": "January 13, 2017"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Deep Panwala",
+        "comment": "Can I use  nrf toolbox app for bingo m2 fitness tracker? For uplode firmware on bingo m2?",
+        "date": "February 4, 2017",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSFZCQV9MY25sbURDQnZhQU9lYnBRRm01Zk93OU5ycnB2ZzJ6N3NiWVJpRGtNTlV0elE3clJPbU14dHR1b0FZcXBFQUxxSWtwSExLQ0h5",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Syunsei Suu",
+        "comment": "Very helpful in my daily work",
+        "date": "September 1, 2016",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSHZaa2Q2WHY4R3ZDeVhfYnhkNUtxQTRBR3NjTXJiNnpNYy12ODducmM0WjZ5dHZpUE13V2luckg1dEZaX3dzUWpJRExWMksxX2JlbzBM",
+        "reply": null,
+        "star": 5,
+        "title": "Great work"
+    },
+    {
+        "author": "Felicia Lau",
+        "comment": "I'm using a moto g3 running on Android 6.0. The device - i5 band was bonded but then disconnect when tried to connect numerous times. There isn't a manual on how to solve this problem.",
+        "date": "March 16, 2016",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRU9POUJ2MHdqQ29WZ2V3REdyN0VfSWpyaEhPc3NhNTRQdjdKSmNEbWl2a201OVZVRG9VaC1Pc0FscC10XzJKNF9nRmQ5Y2k3cWdiVkNL",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Hi, could you please create a case on DevZone.nordicsemi.com? Our support will try to help you. Or write us an email. Thanks!",
+            "date": "March 23, 2016"
+        },
+        "star": 1,
+        "title": "Can't connect with Bluetooth device"
+    },
+    {
+        "author": "Akash Patil",
+        "comment": "I am using this app for communicating with nrf51 DK and not able to communicate over uart with sample code ble_app_uart.I am using moto x play phone.Sometimes I am able to send some text but most of the time GATT error occurs with code 0x85 and then gets disconnected saying connection timed out",
+        "date": "February 1, 2016",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSFpyY3BkbC1ZM21CWmdtTE1XOHl1T2M2aGJwV0FsU2xRSkFsNnRGVG5jdmlLMEwwT2hXR1dlWWZiYzBmc1VDZTFmQ3ZpUE10LVhYSGN4",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Hi, the error 133 (0x85) usually means that the device is not reachable and read or write operation fails. It also may happen when device, or the phone, does not follow BLE spec. A lot in BLE stability on Android depends on the chip manufacturer and chip low level firmware. Did you try with a different phone? Could you report your issue on DevZone?",
+            "date": "February 5, 2016"
+        },
+        "star": 3,
+        "title": "Got GATT error 0x85"
+    },
+    {
+        "author": "Domantas Cibas",
+        "comment": "I used this app since last year to develop programs on the nRF51822 mkit. It worked wonderfully. But just now, I got a Nexus 5X and the app is not working at all - it can't find any bluetooth devices. The phone shows a list of devices nearby in the Bluetooth Settings menu, but not in the app. Otherwise, it is a great app. Could you please have a look into this, as I would love to continue using your app. Thanks.",
+        "date": "December 16, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRkxjckZ5Z2s2Q0E5cXo5SmRRN1dRbExEY1QtaTJZTkJZUWFsTEwwbXBkNHJTRWIwbUtVT2gtSE5ocTViM1JMYXZscWhGVG85OHZOZlFq",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Hi, On Android 6+ you have to enable the Location service (drag the notifications down and click the Location there). Location permission and service enabled are required to scan for Bluetooth Smart devices, as in theory beacons may be used to track the user&amp;#39;s location.",
+            "date": "January 14, 2016"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "United Mobile Oshawa",
+        "comment": "These guys build stuff that works - a rare breed of dev",
+        "date": "December 22, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRzZPWnN0d1ZDZHE3VGhKaG5vcVkxWTRGYkpRdUNWeThpcFRqbjJQWm9OMHFNYTVJZTJOVDZscjBmMjJCWWd0cVFjQzJlYWNIVlVrMGh5",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Steve Parker",
+        "comment": "A brilliant, just-what-I-needed app that let's you send arbitrary UART data with a GUI. Awesome work :)",
+        "date": "October 5, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRTRLMUtDMEZPVDAxOGEySk5DVkxYLW1sLXAzQVgxNDNhb09OQmVvaTRvTWhVSjhjNkJHMnV5UnM3VldIZm5aVmFuU3Z3T3ltM1QwNE5K",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Thanks!",
+            "date": "October 13, 2015"
+        },
+        "star": 5,
+        "title": "Excellent for protoyping"
+    },
+    {
+        "author": "ValuesALot HisPrivacy",
+        "comment": "It just works. Unlike dedicated programs from manufacturers like Suunto, which do not :(",
+        "date": "July 25, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSDlUYldvZlc0R09DUUk4dTRnMkl6aF80UXlJR2xibVd0aFhXaXJUWkUyckZZc3l4YUhONS0yalpXUzN6V2g4UFpCaVhSOFRUZkNFTkFB",
+        "reply": null,
+        "star": 5,
+        "title": "Excellent program"
+    },
+    {
+        "author": "\u0141ukasz Czaplicki",
+        "comment": "Handsome developer alert!",
+        "date": "June 27, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSFgwbkVUSlVXTmtwTGFnNk45SF93eV9YUVZhVXVBVDhDc1ZTb0xYS2NuaW83YXBwYnh3Zl9mSFRRRzZscHdlaC14VkItRlZvYUxteFRs",
+        "reply": null,
+        "star": 5,
+        "title": "Awesome!"
+    },
+    {
+        "author": "Noah Koeppel",
+        "comment": "Using this with tasker makes it easy to send UART commands over ble, a feature I'd like to see though is an automatic reconnect function as it seems to time out and disconnect when the android device is idle and I'd like to be able to trigger tasker with notifications which would require a consistent connection. Thanks!",
+        "date": "May 18, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRTNOWEVsUWlxUTU4RjdWcTBhZDNIVG9GZlFMbjRhNDZ4eWtTWENkeVRtcE43b2N3U1RVOHhUMnRKTU1xeUNodkFHSzV4N3YtWDF6T2lU",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Hi, the UART profile should now (v1.4) reconnect to the UART device automatically. I've changed the autoConnect flag to true. This, however, works badly on Nexus devices while really good on Samsung (at least on those we are testing with). We hope it will match your expectations.",
+            "date": "June 9, 2015"
+        },
+        "star": 5,
+        "title": "Very handy!"
+    },
+    {
+        "author": "Tim Ehrhart",
+        "comment": "Super tool for Bluetooth LE devices",
+        "date": "May 1, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRmplMW41VUwzaFVhM3RieG1sdzRaR09zRGMtdi1FV0JyLXlnSFEya05sejlraXFXSG1WemI2MXJqa2xub3o0alMwY3lVVmJkdzYzNlFy",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "David LaFosse",
+        "comment": "Aol news",
+        "date": "January 29, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRWZWajh5bVprSGszZXprTF9mNWk1MV9MZkt3bUdOTnZuaW9XU0VhNVR4UEY1a3dickdvSmtJcVN2QWFoTEViWnpFOGhFVG40ODltN3JH",
+        "reply": null,
+        "star": 5,
+        "title": "Bonjur it"
+    },
+    {
+        "author": "Matthew Barr",
+        "comment": "Extremely useful for Bluetooth Smart product development, great work Nordic!",
+        "date": "December 2, 2014",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRkdxT2htTkU3LXhvWDRNd3E4b3N6eUE4MHR3MGMxR24tV2ZOeVhLV2JqeWhQT3RweWMxdmRJZXRnb25QZXlfMzZUckdVQ1hjM1pQRW1D",
+        "reply": null,
+        "star": 5,
+        "title": "nRF Toolkit"
+    },
+    {
+        "author": "Pratyush Dave",
+        "comment": "",
+        "date": "March 24, 2014",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSEdYNUNHV1p4bkVUcTlnSlZEcUEwSTJKNFZTaXFwdlBKZzBBUjN6bllKdWVrR2M2eHowcVdNWkVIWi1qbko4M3YxRk9GbWwwdjg5ZDl1",
+        "reply": null,
+        "star": 5,
+        "title": "Excellent BLE app with support for several public profiles"
+    },
+    {
+        "author": "Simon Anthony",
+        "comment": "Error -505 on Android 5.0",
+        "date": "November 9, 2014",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPRWNNUlc5OWs4ZGZEOTdzcm5EMC1INFM5eEV0Q1dvVnBIUWhKcnZwN3BDUmFiN1BTV2p1OUhwLVVjODVkLW5odjZURWNyZnBjN1BXSzh5",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Hi, does the application work now? Did you have any more issues?",
+            "date": "August 28, 2015"
+        },
+        "star": 3,
+        "title": "Looks great but installation error"
+    },
+    {
+        "author": "Peter zbetnoff",
+        "comment": "Crap",
+        "date": "December 25, 2015",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSEdEYVpBdmM3c3h0WW4zSlR2U29kQmg4LV93c1daQ0JucFJTLTdCdGtfX1hoSDFvOVBpcWllN09rd3FkNW9PV00tNXFtUFRrNjFhYXZI",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "Hi Peter, what instruction would you be interested in? Which profile are you talking about? The app is very simple... it just connects to your Bluetooth Smart device and displays the data.",
+            "date": "January 5, 2016"
+        },
+        "star": 1,
+        "title": "No instructions  in the dam thing usless to a newbie"
+    },
+    {
+        "author": "Akira Matsuo",
+        "comment": "Tried a uninstall and reinstall, but no luck.",
+        "date": "December 2, 2014",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSEE3WThabjBLRGhqMUpUNkRIWmVYc19vVHlhSHh6QUk0Tk5UVEhNV2FXWmhDMnlfN203ZWNYTVY4R0IxbUZkQ2tzWjJGZ2otTkFaR2kx",
+        "reply": {
+            "author": "Nordic Semiconductor ASA",
+            "content": "We have just published a fixed version 1.11.1. Please wait until it will be available and try again. This version should install without this error.",
+            "date": "December 2, 2014"
+        },
+        "star": 2,
+        "title": "Getting 505 error whe trying to update"
+    },
+    {
+        "author": "Filip Nowakowski",
+        "comment": "Very good app that works with nRF51 SDK apps. Simple and clear.",
+        "date": "August 9, 2014",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPR29wZGNWRWNOamdpX3lyYWlmd3laRFF4NFA2MUtyanlEeWVnOVdBdXVvaV9jelBsMEVOeEFvT1JYYm9HVkZpY0NucTJzMFlWSDROdWVr",
+        "reply": null,
+        "star": 5,
+        "title": "Works well with Nordic's apps"
+    },
+    {
+        "author": "Thaw Dar",
+        "comment": "Good",
+        "date": "May 15, 2017",
+        "permlink": "/store/apps/details?id=no.nordicsemi.android.nrftoolbox&reviewId=Z3A6QU9xcFRPSFhOcGFWVGdYZ3BIQWxlUEdxS0NNWmxCYWgtSUFTVHpfbXZ2MU1YVGZ5LUwwRGd1QjdVTndiTXEzcGprUW1oazZxZS1qTV8xOWFEWFda",
+        "reply": null,
+        "star": 5,
+        "title": null
+    }
+]

@@ -1,0 +1,53 @@
+{
+    "title": "Custom GPS Location Timer",
+    "summary": "Time laps or route points on your phone or wearable by setting GPS locations.",
+    "icon": "//lh4.ggpht.com/7yXVlMFqF9S14ckH1OZQHLnjdD8OuC-d1rIuP4xmQbF3o7Ir1dE0ilm-wbmMx5ftrq4=w300",
+    "price": "$2.99",
+    "free": false,
+    "minInstalls": 1,
+    "maxInstalls": 5,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Elliot Noma",
+    "developerId": "Elliot+Noma",
+    "developerEmail": "e_noma@yahoo.com",
+    "developerWebsite": "http://garrettassetmanagement.com",
+    "developerAddress": "Garrett Asset Management, LLC.\n800 Third Avenue, 22nd floor\nNew York, New York 10022",
+    "updated": "October 24, 2014",
+    "version": "1.7",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Customize way points for your next trip running, walking, biking or driving. Times to points  you have set are displayed on your phone and as notifications on your watch or wearable. Compatible with the Samsung Gear Live and other smart devices.Place markers at any location on the map with a single tap on Google maps. Label and save groups of markers for future trips. Lap times are automatically displayed when a location is reached a second time.\n'Custom GPS Location Timer' automatically texts your friends when you have arrived at these points or when you have traveled a specified distance or time. Audible messages to yourself are an option.\nThe timer shows your time, distance and pace. See your progress on the map. Distance and pace are reported in either kilometers or miles.\nSample way points are included for the Boston and New York Marathon courses\n",
+    "descriptionHTML": "Customize <u>way points</u> for your next trip running, walking, biking or driving. Times to points  you have set are displayed on your phone and as notifications on your <b>watch</b> or <b>wearable</b>. Compatible with the Samsung Gear Live and other smart devices.<br><br><p>Place markers at any location on the map with a single tap on Google maps. Label and save groups of markers for future trips. Lap times are automatically displayed when a location is reached a second time.<br></p><p><br>&apos;Custom GPS Location Timer&apos; automatically texts your friends when you have arrived at these points or when you have traveled a specified distance or time. Audible messages to yourself are an option.<br></p><p><br>The timer shows your time, distance and pace. See your progress on the map. Distance and pace are reported in either kilometers or miles.<br></p><p><br>Sample way points are included for the Boston and New York Marathon courses<br></p>",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/_k_XILYKNK12yPVuQQdJwipS1HLePDppgnApz5kk9ffwgfqhRDkoJkHUACHIL96Lmg=h310",
+        "//lh6.ggpht.com/G_3cSc5xTWoLYDzX4e_GWGiMmgEOv1VY9jDFRt8ic12nDXDiHTX9bD---cPqaxYp5fU=h310",
+        "//lh5.ggpht.com/BeEW2h8mdpE8AzuiuxzgTgi29rI37XNx7tLCAfK15XGlzx4LdIu6CvBEHfUwEP58ddo=h310",
+        "//lh3.ggpht.com/d1m2xh7aZb-wFXLItHWkHzdhEjMjiv3KzfMsCwXkCIaDBuilh80qSUhYzRkxkLM5Ui0=h310",
+        "//lh4.ggpht.com/DgRRWDQNpMpwMLmWwKah4Tx1zL_WYb_zVpx-VSqOHq6x52cZu35j_K7PsB4avX7qAXRx=h310",
+        "//lh3.ggpht.com/inGeApeeYGYzl293VwpszBwpH9LTVXxYIBBeQDEm9iwhHVX2NmVug_yJ8dcQDE9nLu8=h310",
+        "//lh6.ggpht.com/JOnRfDuAEjfYplHyoaQPzuj70CbEyQXTYZOR1xz6R7uXI_9FMzMihy7J0HbFd1Etbg=h310",
+        "//lh4.ggpht.com/6X2sAwSN2Wd0UUqzkzv63qXCxoxZMUdn4KSC2CujeQahGcJSvIz_xvfRp-ECU-8dnMI=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "toggle to select either metric and English distance measures",
+        "timer can be either paused or stopped and then restarted",
+        "notifications can be sent to a watch or wearable"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.garrett.GPSWaypointTimer&hl=en&gl=us",
+    "appId": "com.garrett.GPSWaypointTimer"
+}

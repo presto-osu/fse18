@@ -1,0 +1,50 @@
+{
+    "title": "Chinese Watch",
+    "summary": "A watch face showing the time in elegant Chinese  characters.",
+    "icon": "//lh6.ggpht.com/z_HUsRaj2HFHVIUuC9R6fK-aIQyqgmP9N-6sG9Y7a4JCeI76SAja-4N29SF3Gq_rzQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 8,
+    "developer": "Creative Science",
+    "developerId": "Creative+Science",
+    "developerEmail": "bjslimited@gmail.com",
+    "developerWebsite": "http://creative-sciences.com",
+    "developerAddress": "12 Hurst Way\nCR2 7AP\nUK",
+    "updated": "February 8, 2015",
+    "version": "1.0.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Simply shows the time in Chinese.  There are two modes:-- Ordinary, readable text-- A decorative mode that uses financial numerals to show a seal-like patternYou can configure mode and color settings on the watch itself.",
+    "descriptionHTML": "Simply shows the time in Chinese.  There are two modes:<br><br>-- Ordinary, readable text<br>-- A decorative mode that uses financial numerals to show a seal-like pattern<br><br>You can configure mode and color settings on the watch itself.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/ulXkLW-vEe4Dk-guIyVKosEXzkv8f3XvZeR6gDyeyXI89XflhOSGKNe7ju5KgQ2nwUs=h310",
+        "//lh5.ggpht.com/5fEt6jxfM_bdmjwUPYMBbtnnvf0ebkCfrqNAFeIgkKL_7bPted2b945CsHwb70A4KiE=h310",
+        "//lh6.ggpht.com/ZAqFIqatzw1bNBE3z0mpC-rB6riDwFHOeaTE8vLqvEanOqbWU1AeSJYy5a5l3fybjDg=h310",
+        "//lh5.ggpht.com/Bk8wmrRYLRqlOXGjDl_8e0AL5-V0ctKeInCVH4JJELHUepnaJnt59t0Bsf00e9T_SN8=h310",
+        "//lh5.ggpht.com/X9SeP4DMgUgkTz4yv7-H4xDnceq-1V57Kn0SSE6I9a_yLtSen0ZwGLF-M4z_xGFuXQ=h310"
+    ],
+    "comments": [
+        "Very nice Does what it says on the tin -- clear, good looking and configurable.  Would be nice to have more backgrounds and things.",
+        "Not working on moto 360 5.1.1 Incorrect display",
+        "它的岩石，它推出，它告诉时间"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.creativesciences.paintface&hl=en&gl=us",
+    "appId": "com.creativesciences.paintface"
+}

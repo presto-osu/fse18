@@ -1,0 +1,58 @@
+{
+    "title": "eFatura",
+    "summary": "With eFatura can manage your account portal e-invoice and Invoice luck",
+    "icon": "//lh4.ggpht.com/FXW2VSgk3YNQdE6P20tiVM6FHpVAI2jgbwBtg9cMsngPfOSUSQoZgwtbAjLSQYN97f1h=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.4,
+    "reviews": 19684,
+    "developer": "Paulo Fernandes",
+    "developerId": "Paulo+Fernandes",
+    "developerEmail": "efaturamobile@gmail.com",
+    "developerWebsite": "https://www.facebook.com/efaturamobile",
+    "developerAddress": "2400 Leiria, Portugal",
+    "updated": "February 13, 2018",
+    "version": "2.18",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "Com o eFatura pode gerir a sua conta do portal e-fatura (https://faturas.portaldasfinancas.gov.pt). *** NOTA: Esta app, apesar de não ser oficial e não ter qualquer certificação legal por parte da AT, permite aos seus utilizadores gerir faturas e efetuar outras ações da plataforma e-fatura. Não temos qualquer acesso aos dados dos utilizadores, nem tão pouco interesse nos mesmos.******Para além de listar, adicionar, editar e apagar faturas, o eFatura apresenta informação sobre a distribuição de gastos e do beneficio acumulado. Com o eFatura pode também fazer backup das suas faturas de uma maneira organizada, guardando fotos das faturas localmente no seu dispositivo ou na sua conta pessoal de Dropbox.Agora pode testar o eFatura sem inserir informação da sua conta de acesso, usando o modo de demonstração!.",
+    "descriptionHTML": "Com o eFatura pode gerir a sua conta do portal e-fatura (https://faturas.portaldasfinancas.gov.pt). <br><br>*** <br>NOTA: Esta app, apesar de n&#xE3;o ser oficial e n&#xE3;o ter qualquer certifica&#xE7;&#xE3;o legal por parte da AT, permite aos seus utilizadores gerir faturas e efetuar outras a&#xE7;&#xF5;es da plataforma e-fatura. N&#xE3;o temos qualquer acesso aos dados dos utilizadores, nem t&#xE3;o pouco interesse nos mesmos.<br><br>******<br><br>Para al&#xE9;m de listar, adicionar, editar e apagar faturas, o eFatura apresenta informa&#xE7;&#xE3;o sobre a distribui&#xE7;&#xE3;o de gastos e do beneficio acumulado. <br><br>Com o eFatura pode tamb&#xE9;m fazer backup das suas faturas de uma maneira organizada, guardando fotos das faturas localmente no seu dispositivo ou na sua conta pessoal de Dropbox.<br><br>Agora pode testar o eFatura sem inserir informa&#xE7;&#xE3;o da sua conta de acesso, usando o modo de demonstra&#xE7;&#xE3;o!<br><br>.",
+    "histogram": {
+        "1": 370,
+        "2": 253,
+        "3": 1072,
+        "4": 6490,
+        "5": 11499
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/9hybE9MIRpOxu_GNGtF2HQCRI7fwaUi6lhhO55wwqvNu3F65moL--frqheYybfwzJg=h310",
+        "//lh5.ggpht.com/XCKiyE6iOnPV0EogWQ4fAugIzyKwDWkHSpFmdoWrLJCqWxLsk4o7IFrmHZ96RSUApQ=h310",
+        "//lh4.ggpht.com/82XeBtJcgPwc0vFtK6Yo2AnzGSr-o_zKokYKJaEi2gFeKEUYkBk8QTxXHl6vhUtGRA=h310",
+        "//lh6.ggpht.com/41c8CSydBTROhdQTXPt9AeCkD5hpAgK7lWk1X9JBINmQ7u85_gvjcIvi28S2BcLBybg=h310",
+        "//lh6.ggpht.com/HpbVr9fKxZPIR8AZbtUAsab8lYuMOJ0DtPZQxjBOWaWjdX5pxa9ke6wan-Msw53aKmQ=h310",
+        "//lh3.ggpht.com/QuhIUlXWH3DX_aoBITYYGfsk727lCJfj5D7t9tgiNni-EXMoekWM2eAD22WORQQhn0_2=h310",
+        "//lh6.ggpht.com/tlOzyvrYSNUNfwZ86Pn3fF4c28gZqmUJcnmz1fHb4DAMB-3GHxKKSyJiu4V2vaFrEA=h310"
+    ],
+    "comments": [
+        "A que correspondem as categorias? Gostava de ver os totais por sector de actividade. Nas categorias aparece-me uma factura de restaurantes em outros. Posso mudar a categoria? Obrigada.",
+        "Está app é top! Não oficial mas excelente no trabalho que faz e que poupa (aos contribuintes). Parabéns ao(s) programador(es)!!!",
+        "A pesquisa no mapa continua a não funcionar.",
+        "Não é oficial, daí é uma app menos segura? AT, paga o que deves!!!",
+        "Muito prático e objetivo!!",
+        "Excelente aplicação."
+    ],
+    "recentChanges": [
+        "Correção de erros",
+        "Clarificação quanto á origem da app"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.pauloslf.efatura&hl=en&gl=us",
+    "appId": "com.pauloslf.efatura"
+}

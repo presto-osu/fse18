@@ -1,0 +1,46 @@
+{
+    "title": "Beer O'Clock Wear Watch Face",
+    "summary": "Never miss a beer again",
+    "icon": "//lh5.ggpht.com/1TcByAj_5r7EQhqI4GdgMiHITwi9H1TZhrtk1phvzHZH3BFrOJIZ4JG_7C64-It9DOU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.5,
+    "reviews": 17,
+    "developer": "Boldsie AB",
+    "developerId": "Boldsie+AB",
+    "developerEmail": "team@boldsie.com",
+    "developerWebsite": "http://labs.boldsie.com/post/109385058475/beer-oclock-never-miss-a-beer-again",
+    "updated": "January 28, 2015",
+    "version": "1.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Beer O’Clock is a watch face for Android Wear. With this simple application you can easily keep track of the most important thing in the world - when can I have my first beer of the day?Beer O’Clock has a beautiful interface with fluid animations while still maintaining the battery-life of your wearable. When the clock starts to get closer to 5 o’clock the amount of “beer” in the watch face will increase until, at 5 pm, it’s completely full. The current time is also included, whatever, who cares.\"Android Wear Flat Device Frame\" (http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/) by Cyril Mottier is licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)\"LGE G Watch R Device Frame\" (https://github.com/danybony/wear-device-frames) by Daniele Bonaldo is licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)Created by Boldsie http://boldsie.com",
+    "descriptionHTML": "Beer O&#x2019;Clock is a watch face for Android Wear. With this simple application you can easily keep track of the most important thing in the world - when can I have my first beer of the day?<br><br>Beer O&#x2019;Clock has a beautiful interface with fluid animations while still maintaining the battery-life of your wearable. When the clock starts to get closer to 5 o&#x2019;clock the amount of &#x201C;beer&#x201D; in the watch face will increase until, at 5 pm, it&#x2019;s completely full. The current time is also included, whatever, who cares.<br><br>&quot;Android Wear Flat Device Frame&quot; (http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/) by Cyril Mottier is licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)<br><br>&quot;LGE G Watch R Device Frame&quot; (https://github.com/danybony/wear-device-frames) by Daniele Bonaldo is licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)<br><br>Created by Boldsie http://boldsie.com",
+    "histogram": {
+        "1": 0,
+        "2": 7,
+        "3": 1,
+        "4": 3,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.ggpht.com/8H3oIb4qgWc-wwQRtcQ6cuRCZxx0CQp8FzZ4Y9w5zq11vXewd5NDBSesctK38IQIm24=h310",
+        "//lh6.ggpht.com/1mQE9Te1_up-fyU8EHrYgo82zvp1IyLQEHLM6N5Eje2OYXRgaK2qkAdzQ7obJ0eLjQ=h310",
+        "//lh3.googleusercontent.com/kyDJtICsLvleMmSQDbx8KZuKS2HDoRmeVEXmtXbULGfgapfYjDX8SOZuotmbzF85L5M=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Tsu-JtzR3kA",
+    "comments": [
+        "Yes"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.boldsie.beerwatchface&hl=en&gl=us",
+    "appId": "com.boldsie.beerwatchface"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "TunePiece Wear Tuner Metronome",
+    "summary": "A tuner and metronome for your timepiece.Designed for Android and Android Wear.",
+    "icon": "//lh6.ggpht.com/sXWR5Ai4NDG8Mj9ytSKt_TlmuKzA-B6sgrDlv1MLvQ4rMJwIf_djYutwHSI3AFLexY0=w300",
+    "price": "$5.00",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "dandroid-dev",
+    "developerId": "dandroid-dev",
+    "developerEmail": "tunepieceapp@gmail.com",
+    "developerAddress": "4140 Cesar Chavez",
+    "updated": "January 6, 2015",
+    "version": "1.0.4",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Tune Piece turns your timepiece into a tuner or metronome on your wrist. It works with your mobile and standalone with your Android Wear Device.Launch it with 'Ok google, start Tune Piece', from the applications menu on the watch, or from your phone/tablet.The tuner allows you to change the transposition key as well as adjust the reference pitch.The metronome lets you adjust the tempo and enable/disable screen flash and vibrate.Works with round and rectangular watches.Detailed Instructions:Select the metronome or tuner from the menu.Tuner:    Tap anywhere on the tuner to get to the options menu.    By default, the tuner uses A440 as its reference pitch and Transposes to C (no transposition)Metronome:    Tap on the gear in the metronome to get to the options menu.     By default, the metronome uses vibration and flash to show the tempo.     Simply rotate the wheel to adjust the tempo - you can touch anywhere on the wheel to rotate, not just the dot.Use cases:While playing you can discreetly check your pitch.You can familiarize yourself with transposition while playing by changing the 'transpose to' key.You can practice conducting at a tempo silently.You can silently feel the pulse while practicing etudes and passages as not to disrupt what you or someone else might be listening to.Tested on my Sony Smartwatch 3.  If you have any problems/suggestions I am all ears and willing to fix.  Just shoot me an email or post a review!",
+    "descriptionHTML": "Tune Piece turns your timepiece into a tuner or metronome on your wrist. It works with your mobile and standalone with your Android Wear Device.<br><br>Launch it with &apos;Ok google, start Tune Piece&apos;, from the applications menu on the watch, or from your phone/tablet.<br>The tuner allows you to change the transposition key as well as adjust the reference pitch.<br>The metronome lets you adjust the tempo and enable/disable screen flash and vibrate.<br><br>Works with round and rectangular watches.<br><br>Detailed Instructions:<br>Select the metronome or tuner from the menu.<br>Tuner:<br>    Tap anywhere on the tuner to get to the options menu.<br>    By default, the tuner uses A440 as its reference pitch and Transposes to C (no transposition)<br>Metronome:<br>    Tap on the gear in the metronome to get to the options menu.<br>     By default, the metronome uses vibration and flash to show the tempo.<br>     Simply rotate the wheel to adjust the tempo - you can touch anywhere on the wheel to rotate, not just the dot.<br><br>Use cases:<br>While playing you can discreetly check your pitch.<br>You can familiarize yourself with transposition while playing by changing the &apos;transpose to&apos; key.<br>You can practice conducting at a tempo silently.<br>You can silently feel the pulse while practicing etudes and passages as not to disrupt what you or someone else might be listening to.<br><br>Tested on my Sony Smartwatch 3.  If you have any problems/suggestions I am all ears and willing to fix.  Just shoot me an email or post a review!",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/AitTCykXh_06TZpATUVpwSJKbeNfTlFC2XeBQUz86ztNzuLA2obh7LG3dly0V-tsD70=h310",
+        "//lh3.ggpht.com/_J6HkxoZTPa_xrio-YyeeLTAxI9GewarWaBaACdai2w_EFkW43sje99P0CkfINHcb-ov=h310",
+        "//lh5.ggpht.com/3vcuN3drmAAGtzrygvL0Q2yUh-YohMlzra0h9jMyFdJRYwEGjtVLd6cFUU0zfEdi6o4=h310",
+        "//lh5.ggpht.com/ijs8goFXpPw85nu98nXaJdgZZ6I7EiwlpmvTU6izvValDybQmqyG6oUTP-xE3m3tpyU=h310",
+        "//lh6.ggpht.com/ZHXdzIuhOglb59pQcLad-hNXDQz0GXhDO8z0v7K21FV4T0afQK47aLPOU-RKBBpJCxMg=h310",
+        "//lh3.ggpht.com/7clmplm_v4s_1JDH36B3L2tRz2B9jl1ddZAR8Znjj55lp-6Z2tLfEZgCbQKRYVqtnQ=h310",
+        "//lh5.ggpht.com/WTPRlGaPBpmM7YRRmPUzYHgYS96z6rFco-6yJZJnMikuKjOJd0Gwwfc-GNrQm4rGdjuC=h310",
+        "//lh5.ggpht.com/9ZPoIeKp1JxOIOry6nxpUnI-_JtZTiZ_JUN7rsQ6LGOInyZmm6yG0WwB7cVtL_WUqA=h310"
+    ],
+    "comments": [
+        "Fun tool for practicing Good for practicing my instrument and conducting.  A cool feature would be letting you leave the metronome running while showing the tuner."
+    ],
+    "recentChanges": [
+        "Added a metronome!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=piece.tune.tunepiece&hl=en&gl=us",
+    "appId": "piece.tune.tunepiece"
+}

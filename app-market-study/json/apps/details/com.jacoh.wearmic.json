@@ -1,0 +1,54 @@
+{
+    "title": "WearMic",
+    "summary": "Transform your Wear into a mic! Transmits audio to your phone.",
+    "icon": "//lh6.ggpht.com/Ei3MyA5y6MYX7_2avkDVrY0u9_SjpoA7l7onLIqSdhcNuDaS5I30JidFak7o7QhsjjA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.6,
+    "reviews": 75,
+    "developer": "Jacoh",
+    "developerId": "Jacoh",
+    "developerEmail": "support@jacoh.com",
+    "developerWebsite": "http://jacoh.com",
+    "developerAddress": "955 Massachusetts Ave #141\nCambridge, MA 02139",
+    "updated": "April 22, 2015",
+    "version": "1.0.1",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "WearMic is a microphone for your Android wear device. Simply open up the app on your wrist, and audio will be transmitted over your phone's speaker.Want something louder than your phone's speakerphone? Hook up a bluetooth speaker or 3.5mm audio cable to your phone and transmit to a louder speaker!***Note: approximately 1 second delay due to bluetooth transfer latency***",
+    "descriptionHTML": "WearMic is a microphone for your Android wear device. Simply open up the app on your wrist, and audio will be transmitted over your phone&apos;s speaker.<br><br>Want something louder than your phone&apos;s speakerphone? Hook up a bluetooth speaker or 3.5mm audio cable to your phone and transmit to a louder speaker!<br><br>***Note: approximately 1 second delay due to bluetooth transfer latency***",
+    "histogram": {
+        "1": 11,
+        "2": 4,
+        "3": 15,
+        "4": 21,
+        "5": 24
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/nLxUF-KJu4oww8y6trr0xbBylnCkPJnP552fGMxhELWUmNoyjIL0W9vtopbuD-q7qjed=h310",
+        "//lh5.ggpht.com/zQj2QqSXEOdUraNQzIuHHBAl0lU33b-R4bHfb_g0-Q5BllAVnhWHIs4nIO7Uqd9_rQ4=h310",
+        "//lh3.ggpht.com/PjJ1dNkqxT-57mR7NJ4jPfREN_PocNIT6Apl4kQ3fgtxhhL3dJz8D-SdujivEsP4cg=h310",
+        "//lh4.ggpht.com/Hj3in981V7-RqgOGRnzUYPFQWyqYIfFh48m7n3dZlmLp8Hxqtur2d7k-zvOR8QYGYyKR=h310"
+    ],
+    "comments": [
+        "How about tweaking this app so watch mic can be used for phone call.that way I can keep phone in pocket",
+        "It works but... After I start and quit the app, my phone won't play music",
+        "Good start Why is the quality so low?",
+        "Low volume Nice little app. But I think the volume is to low of the sound coming out of my phone (galaxy s4). Think it could do with going up a bit. As it's to low to make the app useful. Plus if the app is left running in the background it lowers the volume of other apps.",
+        "Great start! Great start! When watches like the Moto 360 get speakers (hopefully in the next iteration) you will have absolute must have app.",
+        "Wassup A cool way to use your smartwatch! I loved the way where it doesn't keep catching the sound that's not important."
+    ],
+    "recentChanges": [
+        "Fixed back button behavior."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jacoh.wearmic&hl=en&gl=us",
+    "appId": "com.jacoh.wearmic"
+}

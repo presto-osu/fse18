@@ -1,0 +1,52 @@
+{
+    "title": "Daily Horoscope Watch Face",
+    "summary": "Your personalized daily horoscope is ready waiting for you on your smart watch.",
+    "icon": "//lh6.ggpht.com/rpsekTOnpoDXWECEeQ0ZWBkcvhZTZryab3DV5YvVZZKE7f4V0b6oNzZDT1apHbzYWYo=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.5,
+    "reviews": 8,
+    "developer": "STETTINER",
+    "developerId": "5397900325655258360",
+    "developerEmail": "sayhello@stettiner.eu",
+    "developerWebsite": "http://stettiner.eu",
+    "developerAddress": "STETTINER GAMES&MORE\nCyfrowa street 6\n71-441 Szczecin\nPoland",
+    "updated": "May 7, 2015",
+    "version": "1.0.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "No matter how many life ostacles you had to overcome in recent months, one thing is certain - your future is bright. Take a coffee break, your personalized daily horoscope is ready waiting for you on your smart watch. Start making plans and living your confident life.Multiple customization options:- analog and digital watch,- 2 background colors,- battery life indicator.Designed for Android Wear.Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.",
+    "descriptionHTML": "No matter how many life ostacles you had to overcome in recent months, one thing is certain - your future is bright. Take a coffee break, your personalized daily horoscope is ready waiting for you on your smart watch. Start making plans and living your confident life.<br><br>Multiple customization options:<br>- analog and digital watch,<br>- 2 background colors,<br>- battery life indicator.<br><br>Designed for Android Wear.<br>Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/EZfC7xn8hs8VVRfchQqHmJWAa4qBhjRuUhctmWixQIMMxQzxuB3MP4quqkh-2nlEwPnL=h310",
+        "//lh4.ggpht.com/s10QTVrG8h99PaC_FJ_VZewzRJx0zNMIS_i3Q8zbo6zIEtpSBTgFYFg6Y7-0PxUNxoE=h310",
+        "//lh3.ggpht.com/WqmenhYyDujznzn9d0tzuepkF76DLLcIFfAkMK1pvDkpk8ku4Z-qzofaqSspohciqYQ=h310",
+        "//lh6.ggpht.com/TAtnkfgUWl1EATRUOHw9_LjVQkfTuR6-Nor0kH9SUlbxXDPu2DwUTjv9SSRaaOZ2pAA=h310"
+    ],
+    "comments": [
+        "Not working on Moto 360 No option to save birthday and other settings.  Cannot select watchface on Moto360",
+        "Excellent support from developer.",
+        "It never worked on my note 5."
+    ],
+    "recentChanges": [
+        "1.0.2",
+        "- performance improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eu.stettiner.horoscopewatchface&hl=en&gl=us",
+    "appId": "eu.stettiner.horoscopewatchface"
+}

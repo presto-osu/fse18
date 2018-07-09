@@ -1,0 +1,59 @@
+{
+    "title": "Remote for Philips TV",
+    "summary": "This cool app is a smart remote for Philips TV",
+    "icon": "//lh5.ggpht.com/KWRjxcM79XdwBoprQ96TyrePKVo4BfIVOr1Ha6jvYoRiudBhGqc1jqwWI_YuJA7jzcQ_=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000,
+    "maxInstalls": 5000000,
+    "score": 3.5,
+    "reviews": 13315,
+    "developer": "FreeAppsTV",
+    "developerId": "FreeAppsTV",
+    "developerEmail": "appstv.free@gmail.com",
+    "developerAddress": "4 bis, avenue notre dames\n94370 Sucy en brie",
+    "updated": "November 26, 2017",
+    "version": "Varies with device",
+    "genre": "Video Players & Editors",
+    "genreId": "VIDEO_PLAYERS",
+    "size": "Varies with device",
+    "description": "\"Remote for Philips TV\" is a virtual remote control that allows you to connect your TV from your smartphone . The application is completely free and can replace your standard remote control of your TV .To use the remote control, you must have your mobile / tablet is on the same wifi network as your TV . Detection of your TV will automatically and according to the model of your TV, you have to accept the message that appears on your TV. As the application runs on your home network, it is not necessary to be near to the TV .In addition to a careful representation of the remote control , you can use all the functionality of the remote real easily.Here is the list of features :- Increase / decrease the volume- Changing Channels- Use the navigation pad- Use the media player functions- Smart TV function , info , guide, return- And more ...\"Remote for Philips TV\" works with the free Smart TV 2k11 ( xxPFL5xx6 to xxPFL9xx6 ) model.DISCLAIMER This app is neither an official Philips product, nor are we affiliated with the Philips company.",
+    "descriptionHTML": "&quot;Remote for Philips TV&quot; is a virtual remote control that allows you to connect your TV from your smartphone . The application is completely free and can replace your standard remote control of your TV .<br><br><br>To use the remote control, you must have your mobile / tablet is on the same wifi network as your TV . Detection of your TV will automatically and according to the model of your TV, you have to accept the message that appears on your TV. As the application runs on your home network, it is not necessary to be near to the TV .<br><br><br>In addition to a careful representation of the remote control , you can use all the functionality of the remote real easily.<br><br><br>Here is the list of features :<br>- Increase / decrease the volume<br>- Changing Channels<br>- Use the navigation pad<br>- Use the media player functions<br>- Smart TV function , info , guide, return<br>- And more ...<br><br><br>&quot;Remote for Philips TV&quot; works with the free Smart TV 2k11 ( xxPFL5xx6 to xxPFL9xx6 ) model.<br><br>DISCLAIMER <br>This app is neither an official Philips product, nor are we affiliated with the Philips company.",
+    "histogram": {
+        "1": 3807,
+        "2": 587,
+        "3": 931,
+        "4": 1690,
+        "5": 6300
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/94QtydS6tn6qRZk3Gxg5g5rFF_Ht6t8HXojgzQr62UnmKiQ1OlB9Q1OG_Thofmqtc6w=h310",
+        "//lh6.ggpht.com/5vgkZbEGEc8mLH_OkYaTy_Pw5RxbHi3947NpF-oxQ6RZWNx42wkC5OfCj-Juy4ccKg=h310",
+        "//lh5.ggpht.com/tDhUYlH95Dng1xLq-0ObMjkR4aknj7svJBdj7SX8x09Yc1ArVppblwOT-cz3hYTIjg=h310",
+        "//lh4.ggpht.com/NO1992ExW0uOsmTAQgNPsXDHZZ2mnfYVne8dkVcyq73KAcdncqvzPm063BxKPhEL7aw=h310",
+        "//lh5.ggpht.com/D12lx7tMWaXCfNvrxQjwYf6uFD_ZHhYzZ65PJyMBVJpCXr_D9iBKScbjMdR5auQiyg=h310",
+        "//lh4.ggpht.com/Bi-40FG6M5jT_xUuC_cVoma8P2uaoZmcrpb0_xx0jAfy4_woxZg2hRwwNPP4BmFMXIc=h310",
+        "//lh4.ggpht.com/s3GJls7YMkyKFYBFzPdtbZ34MBLV01vJlggZC7b2XtbebvkQB-qnV_gT0QF41Rk7Jw=h310",
+        "//lh3.googleusercontent.com/lhXpREzBKM-fKRhzx8j8ceFlsu41PixpDr0-CviB4OcYJl_LMVRd4L03X2FQ2mHUvA=h310"
+    ],
+    "comments": [
+        "Connection is a gamble at best. Even if my TV is found and displayed as connected, pressing a button will give me a not connected error. But then occasionally it decides to work again. Too unreliable to want to keep using.",
+        "Utter garbage, first thing you see when you open the app is an advertisement. Didn't detect my TV and when it did the buttons did not work.",
+        "Doesn't work as all other comments state. Won't connect to TV even with manual IP address entry. Developer should maybe read comments, contact users and try to remedy issues.",
+        "This app doesn't detects my TV , and I put manually the IP and it supposedly detected it but when I tried to press any button, it appeared a message saying that my TV and my mobile should be connected to the same wi-fi and they are connected to the same one.",
+        "It doesn't work except for the volume buttons. And this TV wont work with my PC which is one of the reasons I spent so much on a \"art\" TV",
+        "Doesn't work! Even typed in my opinion manually. Says TV detected, when I press button, says connect to the same network. I am on the same network too. Horrible app"
+    ],
+    "recentChanges": [
+        "- Bug fixes and performance improvements",
+        "- Improve the user experience"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.phil.tv.view&hl=en&gl=us",
+    "appId": "com.phil.tv.view"
+}

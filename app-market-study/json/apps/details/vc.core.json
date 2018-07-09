@@ -1,0 +1,59 @@
+{
+    "title": "VeloComputer",
+    "summary": "VeloComputer delivers precision - the rest is in your power!",
+    "icon": "https://lh5.ggpht.com/-B1Vc5XRpAmmk3NxRGun8gePJD4o3StTISn68mF89anFhCHScKG6RniCHqUKXcBd3xU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.4,
+    "reviews": 92,
+    "developer": "SoundOfMotion",
+    "developerId": "SoundOfMotion",
+    "developerEmail": "support@velocomputer.com",
+    "developerWebsite": "http://velocomputer.com",
+    "updated": "January 5, 2016",
+    "version": "9.2.124",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Transform your phone into an advanced cycling computer with VeloComputer Magnet-less Bluetooth Smart Sensors www.velocomputer.com. Measure your performance data: speed, distance, acceleration, cadence, heart rate and calculate power.The innovative magnet-less VeloComputer Bluetooth Smart sensors blend seamlessly with your bike. The HUB sensor is installed on the hub of your wheel and measures speed and distance. The CRANK sensor is installed on the crank of your bike and measures cadence. The VeloComputer app calculates spot speed, instant acceleration and power. - Get VeloComputer Smart Sensor at www.velocomputer.com- Connect VeloComputer App to the Bluetooth Smart sensors and stow your phone in a seat bag- Connect ANT+ display to your phone with VeloComputer ANT+ Virtual Sensors - Monitor your data with Android Wear- Listen to your performance with VeloTones- Let your coach monitor your data with VeloCoach- Upload your workouts to VeloComputer.com and share with your friends via Twitter, Facebook or e-mail- Upload your workouts to Training Peaks, Strava or Google Fit.NOTE: The app requires VeloComputer Bluetooth Smart Sensor available at www.velocomputer.com",
+    "descriptionHTML": "Transform your phone into an advanced cycling computer with VeloComputer Magnet-less Bluetooth Smart Sensors www.velocomputer.com. Measure your performance data: speed, distance, acceleration, cadence, heart rate and calculate power.<br><br>The innovative magnet-less VeloComputer Bluetooth Smart sensors blend seamlessly with your bike. The HUB sensor is installed on the hub of your wheel and measures speed and distance. The CRANK sensor is installed on the crank of your bike and measures cadence. The VeloComputer app calculates spot speed, instant acceleration and power. <br><br>- Get VeloComputer Smart Sensor at www.velocomputer.com<br>- Connect VeloComputer App to the Bluetooth Smart sensors and stow your phone in a seat bag<br>- Connect ANT+ display to your phone with VeloComputer ANT+ Virtual Sensors <br>- Monitor your data with Android Wear<br>- Listen to your performance with VeloTones<br>- Let your coach monitor your data with VeloCoach<br>- Upload your workouts to VeloComputer.com and share with your friends via Twitter, Facebook or e-mail<br>- Upload your workouts to Training Peaks, Strava or Google Fit.<br><br>NOTE: The app requires VeloComputer Bluetooth Smart Sensor available at www.velocomputer.com",
+    "histogram": {
+        "1": 24,
+        "2": 5,
+        "3": 13,
+        "4": 12,
+        "5": 38
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/pntF57KLne6FN-By-habpMVNVZGEV266PIkgDLP7txPsx_q_s_lCbISvnYHyVclARw=h310",
+        "//lh3.googleusercontent.com/EHqWZ_Ptfen5HGJnLG9p0Ur6_0KtFE4mvRqhqCJeN9Wm4h5ojtJ8G9mCATZ550iiLQ=h310",
+        "//lh3.googleusercontent.com/lkbT6vSI0WnsU0nYaG0wkdgi5U_LlYRL2_KbeNSYwGhItEuI9ucuPS59rRAX3NLdIQVq=h310",
+        "//lh3.googleusercontent.com/0gSSCWDDnyQ-E5nndjoY0c7-GScdr1IrSfJxv_7J2OfIfqCOyqKbxsLqpe-ko8nanQ=h310",
+        "//lh4.ggpht.com/sR7XvuJGT1U2NkVBUkjV1c43NBf5q0bJv11ut8z6ldpdlYbmZkBdthvmi6jq1w1Xlg=h310",
+        "//lh6.ggpht.com/QHP_fR2bQgOpUx52RScv3fJluI-e8Vq8W71lrq2I4dmynlYBEBABvQ3vD_8ODBDanjg=h310",
+        "//lh3.googleusercontent.com/AM4zAbbubxH11OBQqt9EbeRljsSgjHuSvPhcVqejQpAmdSWADzQ5HC1uJa80-zYVrww=h310",
+        "//lh6.ggpht.com/ceT8Xrc9snJYQEhl2bG5vHEBeRzkDd2kB1Qm4SjNAf7l2jVhwSRay18cnqL8Skr3Lqw=h310"
+    ],
+    "comments": [
+        "Lame App that mostly crashes Have the matching sensor and it's rubish too. Won't connect to any computer I've tried, sometimes connects via this App.  The App just crashed over and over, totally unusable. I'm going back to Garmin.",
+        "Should allow ant+ connectivity. Some phones have ant+. Like my Samsung galaxy note 3. Ant+ should be used to connect to the sensors as it would use less power and be more reliable. The smart sensors allow for ant+ connectivity. Why doesn't the app?",
+        "Terrible. Doesn't keep the screen on during a ride, none of the export options actually work. Website is crap. No response from support.",
+        "I went for a 15 minute ride to see how it worked and it had already stopped. Way too short of a demo to see if the app is any good.",
+        "Smart usage of accelerometer for cadence. Sounds is a good feature too. i was surprised to hear how often my speed and cadence dross below my normal",
+        "Some nice ideas but I could not get it to track runs properly. Gp s tracking dies as soon as you go under a bridge and does not pick up again."
+    ],
+    "recentChanges": [
+        "Requires VeloComputer Bluetooth Smart Sensor from www.velocomputer.com and any Bluetooth Smart hear rate monitors.",
+        "Requires Android 4.3+ .",
+        "Android Wear is optional"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=vc.core&hl=en&gl=us",
+    "appId": "vc.core"
+}

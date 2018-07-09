@@ -1,0 +1,54 @@
+{
+    "title": "Nicole Miller Watch Face",
+    "summary": "Stay on track and in style with the pop art watch face by Nicole Miller.",
+    "icon": "//lh3.googleusercontent.com/ToBnehlBwt4adICD6FC1U_eBihIgokclOndUos2iCuMYh7wdXIyiMGI_bf3ahkgiNK0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.1,
+    "reviews": 17,
+    "developer": "Nicole Miller",
+    "developerId": "Nicole+Miller",
+    "developerEmail": "nicolemiller525@gmail.com",
+    "developerWebsite": "http://www.nicolemiller.com",
+    "updated": "March 8, 2016",
+    "version": "1.0.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Nicole Miller’s playful design aesthetic is captured in this animated design for Android Wear. Watch the colorful word bubbles for upcoming agenda, weather updates, and fun pop art messages.",
+    "descriptionHTML": "Nicole Miller&#x2019;s playful design aesthetic is captured in this animated design for Android Wear. Watch the colorful word bubbles for upcoming agenda, weather updates, and fun pop art messages.",
+    "histogram": {
+        "1": 4,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/s_SxeS1WtqTPQ0pXVVVvOJDNPWvYhXU6N2QrsYW2K1ygwAggMxDvWfuiOfJJIPhlf4E=h310",
+        "//lh3.googleusercontent.com/z7r8kvMPfCLbbcgigRuF6yqYxp2SS7eUy09NPjNs_VEq4VUUbGtnAUZ15kMdYSXL1Rm4=h310",
+        "//lh3.googleusercontent.com/1DbyujQJ4zyJx8V7_rMdtK-Bl_QlHgt8nmj3XqF40A1MlUIcl5JueemdDdX5s7iB-IFO=h310",
+        "//lh3.googleusercontent.com/js5ON_VlxNWt_cpx7dPqrPBj8x9VtH2Iv_fdul3ST-tyVFbfxeQlx7P_QKXgf8MiGA=h310"
+    ],
+    "comments": [
+        "Average at best Looks nice but the calendar never updates to newer appointments and the watch hands are difficult to read.",
+        "No Watch Face to Rate I wish the watch face would show up with the others, so that I can activate it on my 1st gen. Moto 360! It doesn't show up anywhere to set it as my \"face\". All this app does is direct you to set the watch face in Android Wear, but it isn't available as an option within the Android Wear app. Once I'm actually able to try out the \"face\" and it's features, then I'll return and update my review.",
+        "It's cute and looks nice on my moto 360 (1st gen) but the weather doesn't fit in the bubble properly. The different colour schemes look lovely. Also a digital version would be really nice!",
+        "Not working (After a long period of time, I got it to work. Just wait) Rating altered after a long period of waiting until the watch face worked and appeared in  Android Wear",
+        "Nothing to show No watchface show in Android wear app"
+    ],
+    "recentChanges": [
+        "Update:",
+        "- Agenda items will now stop showing after they're passed and will than update with next item on the agenda.",
+        "- The designs had an update so the weather always fits the text-balloon."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mediamonks.watchface.nicolemiller&hl=en&gl=us",
+    "appId": "com.mediamonks.watchface.nicolemiller"
+}

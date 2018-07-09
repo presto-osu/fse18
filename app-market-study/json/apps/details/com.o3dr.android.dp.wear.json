@@ -1,0 +1,55 @@
+{
+    "title": "Tower Wear",
+    "summary": "Wear companion app for 3DR Tower.",
+    "icon": "//lh5.ggpht.com/8QedcF8g5boPkiq5SB23weUfBtKexIFz28KEvesWPIIIalszbHTLzu-4d7Ey-sbO_Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 42,
+    "developer": "DroidPlanner Labs",
+    "developerId": "DroidPlanner+Labs",
+    "developerEmail": "droidplannerlabs@gmail.com",
+    "updated": "April 30, 2015",
+    "version": "2.2.2",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Tower-Wear is a wear companion app for 3DR Tower.NOTE: This app requires the Android Wear app to be installed on the device.",
+    "descriptionHTML": "Tower-Wear is a wear companion app for 3DR Tower.<br><br>NOTE: This app requires the Android Wear app to be installed on the device.",
+    "histogram": {
+        "1": 7,
+        "2": 0,
+        "3": 7,
+        "4": 5,
+        "5": 23
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JSIF5WniMHIvJlHvhWSuKfioJBJN5rCxQ_KxjDf-aM7F373w-L4pWrwfJo9tTCRdE20=h310",
+        "//lh5.ggpht.com/1IfwJqu_uMK2wRnNjE0McbnpvXgt_5W170Ygktbs5Cz2lsp43ukjUt-RrfxLYozF7hQ=h310",
+        "//lh4.ggpht.com/FLgBuWpEthB4tgk0O1UGMUWNxiWOxG0xykdD2hvIZMHsizQW-Q8MzeWoF9J_ckBG_MT_=h310",
+        "//lh5.ggpht.com/wRG68ISK1260cQV7vODordUB4Ko3vHftWasOhNlSa198YC1AZdYfaIdragEnxEmgD5e_=h310",
+        "//lh4.ggpht.com/YPpycgeJgR9muTA-ProzFpTR5_xJt2Tfil8YRfKAGxbMDeVHvTnB00BRWYyAGetp0XQ=h310"
+    ],
+    "comments": [
+        "Works well, needs small fix Works well for me (G Watch R). Only thing a bit annoying is that the notifications keep on displaying o  the watch even if tower on the phone is not active. Would be great to have this suppressed when Tower is not running on the phone.",
+        "App is not working with my LG Urbane 2 with a Samsung Note 4. My watch says the app is installed, but there is no option to launch it anywhere. The companion on the phone seems to work. Please fix this.",
+        "Constantly notifying Great app but always on my watch even when not running on my phone. Lg g watch r",
+        "Can you change it from meters per second to MPH on Tower?",
+        "Works on my note 4 But will it work with moto 360?",
+        "Works great on the moto 360 Love it! Keep it up 3D Robotics!"
+    ],
+    "recentChanges": [
+        "Version 2.2.2 changelog:",
+        "* Added support for 'Look-At-Me' follow mode.",
+        "* Bug fixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.o3dr.android.dp.wear&hl=en&gl=us",
+    "appId": "com.o3dr.android.dp.wear"
+}

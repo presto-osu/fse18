@@ -1,0 +1,58 @@
+{
+    "title": "Healthy Watch Face",
+    "summary": "See your daily burned calories, activities, heart rates and steps on your watch",
+    "icon": "//lh3.googleusercontent.com/wpYOuMpb6yFMGIPQvQakIQAnNqelkzan1pvRQJbeeY7_Oj9zZI4QUekPCVy85t9idro=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.6,
+    "reviews": 9,
+    "developer": "WearPower",
+    "developerId": "WearPower",
+    "developerEmail": "emirhan.poyraz13@gmail.com",
+    "updated": "June 29, 2017",
+    "version": "Varies with device",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "size": "Varies with device",
+    "description": "In your Healthy Face you will see digital time, and 3 circles for:Calories burned TodayToday’s Heart Rates Today’s Steps Calories are calculated by your age, sex, weight and current activity information. So to be able to calculate your calories you should fill \"Personal Info” section from your phone’s Healthy Face application under Android Wear application.For calorie calculations I have used multiple online formulas. Its accuracy was tested on multiple scenarios. Heart Rates are calculated from your watch’s heart rate sensor, which placed on its back. Its as accurate as your watch brand's accuracy. Please press and hold the Healthy Face screen in first usage to grand body sensor acess. Steps  are calculated from your watch’s motion sensor. Its as accurate as your watch brand's accuracy.Also from phone, you can see your activities throughout the day. They are:- Still- Walking- Running- Cycling- Driving- TiltingCUSTOMIZE:From phone’s Healthy Face application under Android Wear you can customize your watch face. - You can add Date on screen- Change time, calorie, heart rate, step places on screen- Change background color (You can also change it from your Healthy Face)Compatible to Android Wear 2.0New updates are on the way!Don’t hesitate to contact for any suggestions, errors or critics: emirhanpoyraz@hotmail.com",
+    "descriptionHTML": "In your Healthy Face you will see digital time, and 3 circles for:<br><br>Calories burned Today<br>Today&#x2019;s Heart Rates <br>Today&#x2019;s Steps <br><br>Calories are calculated by your age, sex, weight and current activity information. So to be able to calculate your calories you should fill &quot;Personal Info&#x201D; section from your phone&#x2019;s Healthy Face application under Android Wear application.<br><br>For calorie calculations I have used multiple online formulas. Its accuracy was tested on multiple scenarios. <br><br>Heart Rates are calculated from your watch&#x2019;s heart rate sensor, which placed on its back. Its as accurate as your watch brand&apos;s accuracy. Please press and hold the Healthy Face screen in first usage to grand body sensor acess. <br><br>Steps  are calculated from your watch&#x2019;s motion sensor. Its as accurate as your watch brand&apos;s accuracy.<br><br>Also from phone, you can see your activities throughout the day. They are:<br>- Still<br>- Walking<br>- Running<br>- Cycling<br>- Driving<br>- Tilting<br><br><br>CUSTOMIZE:<br><br>From phone&#x2019;s Healthy Face application under Android Wear you can customize your watch face. <br><br>- You can add Date on screen<br>- Change time, calorie, heart rate, step places on screen<br>- Change background color (You can also change it from your Healthy Face)<br><br><br>Compatible to Android Wear 2.0<br><br><br>New updates are on the way!<br><br><br><br><br>Don&#x2019;t hesitate to contact for any suggestions, errors or critics: <br>emirhanpoyraz@hotmail.com",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/DrkBmr7SSh29rIFZfIkKbuKWKRi3bBosAIyg6o_i_S_IWj7yh73haEuM8c64SegvMmSc=h310",
+        "//lh3.googleusercontent.com/7ODk9T7sNNhC9NAAf93g1jfgFGuDrLuKQItT0qpmvXoiOS9mvubAtKWHqk_Sb0dFScg=h310",
+        "//lh3.googleusercontent.com/yuy_1jQGUkug8zuEnLu-ai0MAcrNGq05mgjU9uFM9Wn8wmhxs7q1TOXad_A7jrGr9g64=h310",
+        "//lh3.googleusercontent.com/8veJlL3HbmHJB7pLD4Dkl3gcH1I83cUBpgutNEJ5L2pP9iNrjK4Y_Y8JulvGvgVvu34=h310",
+        "//lh3.googleusercontent.com/xTFiYE12D1rLk5QV1P6foAfIf-k_Gcy2L6l0Mro7eGq4hk8v1aqL6Gz9apTP7Ril6x8=h310",
+        "//lh3.googleusercontent.com/ld-Tm-6Z6tGML1itGyiL2dnLCK71OkDlbfBlFMxJgqKcJ9kd3jNjjKueEcGKfTgYMVI=h310",
+        "//lh3.googleusercontent.com/nzD6gPIU_JnOFSeFTKyz7fuN_7Eo4YwEry5YQJGN2hsqhWSgRngDe74cZdF2_qd5gjY=h310",
+        "//lh3.googleusercontent.com/iYFZ3Dk5rQbWuYADKwiihzkqT602yDSUujQPMrB9s7ZcH4WSZcHZDTL7t-nTanSTfNw=h310",
+        "//lh3.googleusercontent.com/sKmOQIh4WEHsqXtG3Wn7XzBcquBAKDRPOHBUV2Ys_M142PoCKiErOnELTBU1wRexNN1u=h310",
+        "//lh3.googleusercontent.com/TkHzJLfQ-nJPYp9H8l1g7XcsboFXf2-COF4nvF_Ty0BUYRlbzl0dVCmNEzFY1qlUrw=h310",
+        "//lh3.googleusercontent.com/2fSdEqTx-KIEHn2cIKdQaOMNRhG6ZQJWed-V3QbaaDme2-Om_DO95D5g-SAN59SCUEQ=h310",
+        "//lh3.googleusercontent.com/LTNwxuRKVvdO7POTJ0OBam7gFvFfbTE7RieE_e-BjwSjetcLtTdR-sb8Xu9XrGQIvfA=h310",
+        "//lh3.googleusercontent.com/dqplb3jtupLWfj2xajWpn_chO0J6GZqUol9Ldn-1mzHlT9ZoEElTlcCk00GXyKN6aD0=h310"
+    ],
+    "comments": [
+        "As I have not used so far when I actually use this app then only I can say something about it but I think this app will be much useful it seems",
+        "I installed it on my Pixel 2XL and can NOT find it on my phone. It does NOT show up."
+    ],
+    "recentChanges": [
+        "Healthy Face watchface application for phone and smartwatch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.healthyface.android.wearable.watchface&hl=en&gl=us",
+    "appId": "com.healthyface.android.wearable.watchface"
+}

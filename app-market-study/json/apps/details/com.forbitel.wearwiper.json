@@ -1,0 +1,49 @@
+{
+    "title": "Wiper (for Wear)",
+    "summary": "Uninstall apps and wipe running processes directly on your Wear Device.",
+    "icon": "//lh6.ggpht.com/J2KcPWm25LV-t6hBisbxHyyShSsFIkXzZdC-FYZCiWxXXtIqFoJkvnzIKfk44PqewR8=w300",
+    "price": "$1.43",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 3,
+    "developer": "Forbitel",
+    "developerId": "Forbitel",
+    "developerEmail": "forbitel+developer@gmail.com",
+    "developerAddress": "28101 Cedar Park Blvd.\nPerrysburg, OH 43551",
+    "updated": "November 19, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Wiper is a Storage and Memory Cleaner for Android(TM) Wear:Wiper allows you to monitor the Storage and Memory Usage of your android wear device directly on the watch. It also shows a list of installed application and their storage consumption. Additionally, Wiper will show you what applications are running in the background and their memory utilization and will allow you to wipe your memory with a single click on the wiper broom icon. After installation, allow few minutes for the app to be automatically pushed to the wear device.Note: Android OS will enforce what applications are allowed to be closed and in some cases the closed applications will be re-started if the OS needs them.Tags: Wear, Memory, RAM, Storage, Space, Uninstall, Cleaner",
+    "descriptionHTML": "Wiper is a Storage and Memory Cleaner for Android(TM) Wear:<br><br>Wiper allows you to monitor the Storage and Memory Usage of your android wear device directly on the watch. It also shows a list of installed application and their storage consumption. Additionally, Wiper will show you what applications are running in the background and their memory utilization and will allow you to wipe your memory with a single click on the wiper broom icon. <br><br>After installation, allow few minutes for the app to be automatically pushed to the wear device.<br><br>Note: Android OS will enforce what applications are allowed to be closed and in some cases the closed applications will be re-started if the OS needs them.<br><br><br><br>Tags: Wear, Memory, RAM, Storage, Space, Uninstall, Cleaner",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/R9zNAx1uwFfRbISzhV0izWshpei_1z9xqLN6f5L15HxU9pf6hTih6t7N0PgKL8aHaHk=h310",
+        "//lh5.ggpht.com/PCWdoZXqayPjgrS7slrrT47LcpTsLBeKmkekUTkN544mIKFmvEKsCU2x0AWvgpPTWNY=h310",
+        "//lh3.ggpht.com/Xm8v0iUiiEYdkjyWgR-oZsoD2pXp1IV8hwDV1PFBcbJg4rhn2L70NcHTgSzU1tnyV4o=h310",
+        "//lh5.ggpht.com/XuICT3S0R2IZRAi_aPey-ILebUOQGTcdTFqkA76usU-FHjJCZ7DOpvR3ZJYAjsNnyA=h310",
+        "//lh5.ggpht.com/TO0kDCCVrImzfpbfXFLHIFjAylLH92PCfkvzkqD129v_-b9MQ6jOU-1FHlaOCp2vKUY=h310",
+        "//lh3.ggpht.com/nMr65tSA_El1BtMbLFW6992zlnukJZ6OyEiW_mp_Bz8msMvKQdl855OaoQ_BlK86VG0=h310"
+    ],
+    "comments": [
+        "Nice app but... It lags my watch sometimes and it would be nice if it had options to set an auto wipe for the ram at customisable amounts of time.",
+        "Perfect You won't regret"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.forbitel.wearwiper&hl=en&gl=us",
+    "appId": "com.forbitel.wearwiper"
+}

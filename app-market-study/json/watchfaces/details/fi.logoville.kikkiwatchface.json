@@ -1,0 +1,44 @@
+{
+    "title": "Kikki Watch Face",
+    "summary": "The famous cartoon rodent in your smartwatch.",
+    "icon": "//lh3.googleusercontent.com/8wX87VkVMWSkb8khvrNNl6Nky5ZMyfUFkOz4p1hc7qE2ucYSvCrlrZj0NSaak9CsasY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.8,
+    "reviews": 4,
+    "developer": "Null Mode",
+    "developerId": "Null+Mode",
+    "developerEmail": "0nullmode@gmail.com",
+    "updated": "February 28, 2017",
+    "version": "1.0",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "The famous cartoon rodent Kikki, not to be confused with that other famous cartoon rodent, is finally here in your smartwatch to tell you the time in a whimsical and hipsteriously ironic way. He has pants over his head. Now thats impulsive!Features:Kikki is pointing you the current hour with his index finger, while flipping you off the minute. In case that it's slightly too complicated to follow, you can always tap the watch face to see the time briefly in digital format. To save your precious battery life, ambient mode is drawn in white outline over black background, and time is updated only once a minute.",
+    "descriptionHTML": "The famous cartoon rodent Kikki, not to be confused with that other famous cartoon rodent, is finally here in your smartwatch to tell you the time in a whimsical and hipsteriously ironic way. He has pants over his head. Now thats impulsive!<br><br>Features:<br>Kikki is pointing you the current hour with his index finger, while flipping you off the minute. In case that it&apos;s slightly too complicated to follow, you can always tap the watch face to see the time briefly in digital format. To save your precious battery life, ambient mode is drawn in white outline over black background, and time is updated only once a minute.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jYHV9p8lGUr-Nmu5cIwOXtk0iRfuzMyT5lw6_jRPJAKCikq9RIlJYuzjWxJ3uSa7CfU=h310",
+        "//lh3.googleusercontent.com/3n42TNLc_5pXQI5hXRrZ4nO5VKvCmzzbuQNYI3_-2m6fe3w9d6qt5er1vgK53RP1cw=h310",
+        "//lh3.googleusercontent.com/rJDQbUmP7apC_TbCRviIFRmhnr0J_ycnVjoivel1KXIuaVtwDU0yEs_Fqqm-g6vWFA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Initial release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fi.logoville.kikkiwatchface&hl=en&gl=us",
+    "appId": "fi.logoville.kikkiwatchface"
+}

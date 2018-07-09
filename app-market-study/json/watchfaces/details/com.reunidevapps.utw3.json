@@ -1,0 +1,46 @@
+{
+    "title": "UTW Spatial Wars - Watch Face",
+    "summary": "An interactive watch face game : a Spatial Wars to save the galaxy and the stars",
+    "icon": "//lh3.googleusercontent.com/nhHSru0GQWOy8dtxvvaOmhuQKcKtikxfnTup5RadaKqMH5lJeSkRbE5NCjoPU-jgF9k0=w300",
+    "price": "$1.00",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 5,
+    "reviews": 3,
+    "developer": "Reunidev Apps",
+    "developerId": "Reunidev+Apps",
+    "developerEmail": "support@reunidev.com",
+    "developerAddress": "4 Ruelle floricourt\n97400 Saint Denis Reunion\nFrance",
+    "updated": "December 26, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "IMPORTANT: Before tap interactions are enabled, your needs the latest version of Android Wear (v1.3) Features:- Animated starfield- Time Digital and Analogic- Date- Battery- 3D Parallax background- Interactive watch face game: Tap on the screen to kill ennemiesConfiguration:- Configure Battery refresh interval- Increase interactive mode duration- More stars or ships- Activate borderWarning: animation may use a lot of battery powerTo install:After install run 'resync app' on android wear if not availlableLong press your watch and choose UltrawatchTested with LG Watch RYour comments are welcome in French or English at the following address: support@reunidev.com",
+    "descriptionHTML": "IMPORTANT: Before tap interactions are enabled, your needs the latest version of Android Wear (v1.3) <br><br>Features:<br>- Animated starfield<br>- Time Digital and Analogic<br>- Date<br>- Battery<br>- 3D Parallax background<br>- Interactive watch face game: Tap on the screen to kill ennemies<br><br>Configuration:<br>- Configure Battery refresh interval<br>- Increase interactive mode duration<br>- More stars or ships<br>- Activate border<br><br>Warning: animation may use a lot of battery power<br><br>To install:<br>After install run &apos;resync app&apos; on android wear if not availlable<br>Long press your watch and choose Ultrawatch<br><br>Tested with LG Watch R<br><br>Your comments are welcome in French or English at the following address: support@reunidev.com",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/74_fxfQb7cAHnZr8qMajVSuPedJj72MDoXnAMjC1Yk7nHAfq_-1aJLHBoL0lsTyiSQ=h310",
+        "//lh3.googleusercontent.com/K-foMQLwfx4jbTDJjrVHW7Xfu0cPOxE1t1-tD-nGBO0mF3K59vq04O2DX__A-wLKJg=h310",
+        "//lh3.googleusercontent.com/Q2TROMHvrWDgl5ab7jMOUiOrgmkSKiAF1-aTWqIp_CrBBlIVFtmJWE7Gee8xmk3c4aU=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "switch between clock and game mode",
+        "allow display/hide clock or date"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.reunidevapps.utw3&hl=en&gl=us",
+    "appId": "com.reunidevapps.utw3"
+}

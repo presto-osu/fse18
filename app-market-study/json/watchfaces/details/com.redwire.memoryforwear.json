@@ -1,0 +1,55 @@
+{
+    "title": "Memory game for Android Wear",
+    "summary": "One of the first Android Wear Games. Classics are back. Most played memory game.",
+    "icon": "//lh3.ggpht.com/EC8Hrp9r308N7f7xNQR-xKDH2m9pQ9mDfuAkIPIf_EHFP9NruTstVV3rKaoFuQCpW4A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.8,
+    "reviews": 243,
+    "developer": "Red Wire",
+    "developerId": "Red+Wire",
+    "developerEmail": "redwiresoftware@gmail.com",
+    "developerWebsite": "http://goo.gl/4E1KhM",
+    "developerAddress": "Sant Jaume, 33",
+    "updated": "January 16, 2017",
+    "version": "Varies with device",
+    "genre": "Puzzle",
+    "genreId": "GAME_PUZZLE",
+    "size": "Varies with device",
+    "description": "One of the classics has returned. Android Wear is appearing to our lives. This game will fit perfectly in your wrist.The simple but addictive memory game. Pay attention to the lights and repeat them afterwards. Even if you don't have an Android Wear, it doesn't mean you can't play this game; from Android 2.3, you'll be able to play it, completely for free.",
+    "descriptionHTML": "One of the classics has returned. Android Wear is appearing to our lives. This game will fit perfectly in your wrist.<br><br>The simple but addictive memory game. <br>Pay attention to the lights and repeat them afterwards. <br><br>Even if you don&apos;t have an Android Wear, it doesn&apos;t mean you can&apos;t play this game; from Android 2.3, you&apos;ll be able to play it, completely for free.",
+    "histogram": {
+        "1": 23,
+        "2": 22,
+        "3": 45,
+        "4": 41,
+        "5": 112
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/e6K1JFONsfCzUbgwlKMPRveJqPyz8IyuFR_z3-_9HUFwCRA_H4PCIrukFoG3Chv8yjE=h310",
+        "//lh5.ggpht.com/0maRavdmhyGf_2Bk9fszzw_eibUpvpPmrfbRinWk3z9ScHm7LBG52cr3EAXzzt3ouqny=h310",
+        "//lh5.ggpht.com/k7mGnkBJEqhyjDSx6qOpG4b7YLhpqcRTGpDYJrZRmC0jXYJaFOoNfrj0CPpw-LODZQ=h310"
+    ],
+    "comments": [
+        "Love the game, but wish the colors were a bit more vibrant as they look a little dull. Also wish it had sound like the original game.",
+        "No sound",
+        "Most Popular game I have ever played fantastically​, funniest app yay",
+        "Barebones neatly designed Simon! Clean-cut, simply works, embodies the original.   --Only thing: Would be nice to have 'Confirm Exit' (or similar) on back key press; lost a high score by accidentally backing out- and app session restarted :/",
+        "This game on Sony Smartwatch 3 (square screen)  is broken. The buttons are all weirdly placed on the screen. Too bad :c Also the game shows unnecessary notifications. Can you please write me once you fix the issue with square devices? Thank you.",
+        "Works on phone, but not Zenwatch2 The colors or overlapping on the watch making it useless as of now. Please fix."
+    ],
+    "recentChanges": [
+        "Removed Notifications as you asked!",
+        "Fixed layout issues!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.redwire.memoryforwear&hl=en&gl=us",
+    "appId": "com.redwire.memoryforwear"
+}

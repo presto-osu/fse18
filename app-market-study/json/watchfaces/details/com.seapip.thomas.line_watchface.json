@@ -1,0 +1,62 @@
+{
+    "title": "Line Watch Face",
+    "summary": "Line, a watch face that has a minimal design and is both analog and digital.",
+    "icon": "//lh3.googleusercontent.com/6zBRP1P_kW6y0r1_-rP235EXG2VIPP7OfvC9a4BiUN6STcmBucKDVgaU2PJ0WLGEH1y_=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.6,
+    "reviews": 134,
+    "developer": "Seahorsepip",
+    "developerId": "4901015553877356102",
+    "developerEmail": "seahorsepip@outlook.com",
+    "developerWebsite": "http://seapip.com",
+    "developerAddress": "Netherlands, Eindhoven",
+    "updated": "April 18, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Line, a watch face that has a minimal design and is both analog and digital.It supports all android wear watches, round and square.There are many options that can be changed from your watch itself:★ Show up to 4 android wear 2.0 complications.★ Change the color to suit your style.★ Change background, you can even set the now playing music as background!★ The notification indicator option can be enabled for unread or all notifications.★ Looks great on square watches too!★ And many many more options! Don't see the option you're looking for? Send a message and I'll look into it.--------Version History--------v2.8:-Fixed notification indicator bugs.v2.7:-Added additional ambient mode options for complications.v2.6:-Added digital style.-Added more background and color options.-Added more background effects.-Fixed bugs in settings.v2.5:-Re-analysed burn in protection(pixel shift) coverage and based on those results made burn in protection ambient mode more detailed. Burn in protection coverage is still 100%, keep in mind that 3rd party complications were not included in the test and can still cause a burn in if they do not provide a proper burn in protected icon.v2.4:-Fixed donation button, all features will always be free but donations are always welcome.v2.3:-Added bottom complication (supports long text complication providers).-Added color picker.-Added background color.-Added ambient grayscale/color toggle.-Added donation button.-Fixed time format.-Fixed some performance related bugs.v2.2:-Added top complication.-Added support for background images.-Added filter effects for background images.-Fixed all complication related bugs.v2.1:-Added support for square watches, there are no square watches in the android wear beta but rather add support sooner then later.-Added a notification indicator option.-Improved burn in protection, lines are now less thick on oled screens in ambient mode.-Fixed bugs in settings.v2.0:-Complete rewrite for android wear 2, now supports complications.-Proper ambient handling, watch face ambient mode has been made with support for burn in protection.-Some previous options have been lost and will be re-implemented in the next few days. -Some bugs might be encountered, if you run into a bug feel free to send me a message (contact info is at the bottom).-Some complications might not show properly.v1.4:-Got rid of bitmaps, drawing everything on canvas now without bitmaps-Removed \"Date\" and added \"Widget\" in settings-Moved options from \"Date\" to \"Widget\"-Added battery option to \"Widget\"v1.3:-Redrawn backgrounds with smoother lines-Added day mode-New iconv1.2: Fixed bug that caused the watch face to crash when ambient mode was toggled.v1.1: Fixed app iconv1.0: First release",
+    "descriptionHTML": "<b>Line, a watch face that has a minimal design and is both analog and digital.</b><br><br>It supports all android wear watches, round and square.<br><br>There are many options that can be changed from your watch itself:<br><br>&#x2605; Show up to 4 android wear 2.0 complications.<br>&#x2605; Change the color to suit your style.<br>&#x2605; Change background, you can even set the now playing music as background!<br>&#x2605; The notification indicator option can be enabled for unread or all notifications.<br>&#x2605; Looks great on square watches too!<br>&#x2605; And many many more options! Don&apos;t see the option you&apos;re looking for? Send a message and I&apos;ll look into it.<br><br><br><b>--------Version History--------</b><br>v2.8:<br>-Fixed notification indicator bugs.<br><br>v2.7:<br>-Added additional ambient mode options for complications.<br><br>v2.6:<br>-Added digital style.<br>-Added more background and color options.<br>-Added more background effects.<br>-Fixed bugs in settings.<br><br>v2.5:<br>-Re-analysed burn in protection(pixel shift) coverage and based on those results made burn in protection ambient mode more detailed. <br><br>Burn in protection coverage is still 100%, keep in mind that 3rd party complications were not included in the test and can still cause a burn in if they do not provide a proper burn in protected icon.<br><br>v2.4:<br>-Fixed donation button, all features will always be free but donations are always welcome.<br><br>v2.3:<br>-Added bottom complication (supports long text complication providers).<br>-Added color picker.<br>-Added background color.<br>-Added ambient grayscale/color toggle.<br>-Added donation button.<br>-Fixed time format.<br>-Fixed some performance related bugs.<br><br>v2.2:<br>-Added top complication.<br>-Added support for background images.<br>-Added filter effects for background images.<br>-Fixed all complication related bugs.<br><br>v2.1:<br>-Added support for square watches, there are no square watches in the android wear beta but rather add support sooner then later.<br>-Added a notification indicator option.<br>-Improved burn in protection, lines are now less thick on oled screens in ambient mode.<br>-Fixed bugs in settings.<br><br>v2.0:<br>-Complete rewrite for android wear 2, now supports complications.<br>-Proper ambient handling, watch face ambient mode has been made with support for burn in protection.<br>-Some previous options have been lost and will be re-implemented in the next few days.<br> -Some bugs might be encountered, if you run into a bug feel free to send me a message (contact info is at the bottom).<br>-Some complications might not show properly.<br><br>v1.4:<br>-Got rid of bitmaps, drawing everything on canvas now without bitmaps<br>-Removed &quot;Date&quot; and added &quot;Widget&quot; in settings<br>-Moved options from &quot;Date&quot; to &quot;Widget&quot;<br>-Added battery option to &quot;Widget&quot;<br><br>v1.3:<br>-Redrawn backgrounds with smoother lines<br>-Added day mode<br>-New icon<br><br>v1.2: Fixed bug that caused the watch face to crash when ambient mode was toggled.<br><br>v1.1: Fixed app icon<br><br>v1.0: First release",
+    "histogram": {
+        "1": 4,
+        "2": 4,
+        "3": 5,
+        "4": 17,
+        "5": 104
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/HhWSwNWyAQ2pmQd4jScX43mHP04vS4_0zALv6aL6rbpeTYHF_Wyaa20unUwVJnnMcKY=h310",
+        "//lh3.googleusercontent.com/11peNgnPXX9_en1IW4ynSLNDzQFyvQucykoB39CPx34VYPB3lwknuKobqwBgQQynAjE=h310",
+        "//lh3.googleusercontent.com/_ROAqAqM3woUgOH33CWra81S8MFQUOhEdhFngTNxuHfjn4yKqDOp1ciLoZmi74M-EyA=h310",
+        "//lh3.googleusercontent.com/awCvBlJAXRKmAn_wa4x2bMOEz0w5B2mLR6Ehe4dl7OFHqL31umse1AuG2uBdt7_xCf7f=h310",
+        "//lh3.googleusercontent.com/7ptyKMeKvIYXwUVb1Uayh7teztdFiXsMNvuKdrSc5T7VisElW6U2uqr5CmBA63P4XQ=h310",
+        "//lh3.googleusercontent.com/OhPmF2Q714z9v4qY9wNRPLntk65H_LZQ5pmnZaJvZTwJejhJ38mk_M1nmdG9HRLlSC4=h310",
+        "//lh3.googleusercontent.com/BYTBb65EQ64ogzD0AuqKeX48B9RmtALpBtNuQ661r98c_m_5T1eZW-TSi7Rz4DWZXGw=h310",
+        "//lh3.googleusercontent.com/90CrzajBv63v7PmH_rXMzS0wy-1BTPgby5e_lW_Y7C-KscUHYeUJ9MYlM2vTqv31FAM=h310",
+        "//lh3.googleusercontent.com/BQfQ5K15QeqVbBCE1HslB3zq8a21ImFBdFLVOy3K6Sn_LBLgxfM5CV9j4tie5Cf3UJQ=h310",
+        "//lh3.googleusercontent.com/OfGe_ZtXpmF7ak8Vhyo5QLGn2mW5YQn0UFupfHEbrZ50CNXEyWc382-R2z4cEch5MQ=h310"
+    ],
+    "comments": [
+        "Stumbled upon this yesterday and love it so far!  Has a nice simple design but has all of the features I like.  Has lots of customization!   the notification mode in ambient mode is brilliant.  Great work!  A+ The only thing I would love to have would be some kind of animated background.. but I am NOT gonna get picky!  :)",
+        "Really like the watch face. But I have been noticing some pixel burn-in on my LG Watch Urbane so if you could add a feature so that the elements of the watch face (clock, complications etc) move around every so often to prevent pixel burn-in I will rate the app 5 stars! Thank you in advance and keep up the good work!  UPDATE: a reboot fixed it. I will rate the app 5 stars because it was not your fault and for the fast response! Keep up the good work! I might donate as well :)",
+        "Fantastic watch face. After hours of digging through the garbage in the Store, I was delighted to find this gem.  I usually prefer digital clocks to the analog ones, but this Digilog thing is quite unique and actually easy to read while saving the minute marks engraved on the bezel of my watch from being redundant. Moreover, it remains mostly unchanged in the ambient mode, which is something many other watch faces can't brag about.  It also offers personalization using the standard watch face tools and without all the overly-custom nonsense.",
+        "It works the way my mind works.  I initially want to know the hour, and it gives me that without thinking.  Then I get to engage my brain a little bit a \"figure out\" the minutes.   Many times I only want to know roughly what hour it is during the day.  This allows me to know the general time at a quick glance, but also the minutes if I so choose to look and think a little more.  The complication are good if you want them.  Personally I just like the date.   Wishes? 1.) I wish the app complication would not be in color on the main screen but just greyscale (like the date)  2.) Options to change the size and font of the middle digit.  (neither of these is worth giving it less than 5 stars though, excellent job Seahorsepip !!!!!)",
+        "Would like the possibility to have two \"large\" complications.  Right now only the bottom area supports large complications.  Glad to have found a watch face supporting 2.0 complications though :)",
+        "This is a daily driver for me. However, I do have my own set of complaints. The ambient is kinda dim, with no way to make just the ambient brighter( and I know this can be done, as I have seen some crappy watch faces include this feature), and also I haven't found a way to make the battery complication look big like it does in the play store screenshots. However, apart from these things, this is one of the absolute best free watch faces, and one I would pay a premium for. Great work!!"
+    ],
+    "recentChanges": [
+        "v2.8:",
+        "-Fixed notification indicator bugs."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seapip.thomas.line_watchface&hl=en&gl=us",
+    "appId": "com.seapip.thomas.line_watchface"
+}

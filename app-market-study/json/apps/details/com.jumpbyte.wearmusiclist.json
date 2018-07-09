@@ -1,0 +1,59 @@
+{
+    "title": "Music Playlists for Wear",
+    "summary": "Play Spotify, Rhapsody &amp; Play Music playlists from Android Wear &amp; Pebble",
+    "icon": "//lh4.ggpht.com/HwzaS0rNM-nAdn19PvzaHAS5uH-1bfXFtHzFwLtiIGsnE44QU1qvwk7FtWtpppFypKjQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 2.9,
+    "reviews": 139,
+    "developer": "JumpByte",
+    "developerId": "5181520695800805723",
+    "developerEmail": "admin@jumpbyte.com",
+    "developerWebsite": "http://jumpbyte.com",
+    "developerAddress": "403-B, Bhatar Trade Center, Bhatar Cross Roads, Bhatar, Surat, Gujarat, India - 395017.",
+    "updated": "July 11, 2015",
+    "version": "5.7",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "***Because of changes in Spotify App/APIs this app may or may not be able to start playing playlist. We request you to check this app with you device using 24hrs trial feature, before purchasing.***This app allows you to start playing your Play Music, Spotify & Rhapsody playlists from Android Wear & Pebble Watch.Android Wear app can be started with voice input \"Start music list\". Currently works with:* Google Play Music* Spotify (works only with Spotify Premium subscription)* RhapsodyFeatures:* Ordering of playlists * Favorite playlists and get a quick access on Wear & Pebble Watch* Preferences \t- Select your favorite music service for quick access on Android Wear & Pebble Watch\t- Enable / disable favorites screen on Android Wear & Pebble Watch        - Enable / disable Playlist Voice Search on Android WearOther music apps support will come in future updates.We are evaluating SoundCloud, last.fm, rdio for integration.",
+    "descriptionHTML": "***Because of changes in Spotify App/APIs this app may or may not be able to start playing playlist. We request you to check this app with you device using 24hrs trial feature, before purchasing.***<br><br>This app allows you to start playing your Play Music, Spotify &amp; Rhapsody playlists from Android Wear &amp; Pebble Watch.<br>Android Wear app can be started with voice input &quot;Start music list&quot;. <br><br>Currently works with:<br>* Google Play Music<br>* Spotify (works only with Spotify Premium subscription)<br>* Rhapsody<br><br>Features:<br>* Ordering of playlists <br>* Favorite playlists and get a quick access on Wear &amp; Pebble Watch<br>* Preferences <br>\t- Select your favorite music service for quick access on Android Wear &amp; Pebble Watch<br>\t- Enable / disable favorites screen on Android Wear &amp; Pebble Watch<br>        - Enable / disable Playlist Voice Search on Android Wear<br><br>Other music apps support will come in future updates.<br>We are evaluating SoundCloud, last.fm, rdio for integration.",
+    "histogram": {
+        "1": 45,
+        "2": 21,
+        "3": 16,
+        "4": 22,
+        "5": 35
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/0YklNGEC4gI9j6vjfkdMNllgSgC45gGdYBwiekruPH9vPro6i200gVyvsDyLUDyEfQ=h310",
+        "//lh6.ggpht.com/YqZ5HoDuDBs42IKJT_6KXKFoHSKfhezJ0MubYiasGMxDhyOhz-Rb37D0a1LL4krYCko=h310",
+        "//lh3.ggpht.com/GC8x8BaQTkELzTCrnWZTZTrpj0Qjm4_Hp4shUNORmfJhKE9OnaJuLwywMzgO0HGMIfk=h310",
+        "//lh4.ggpht.com/DL_2sClEn5VD9cO_gMsPHJthrKz0THe5xJxtx2rSLzY5MhDl1EfDtHJtBJJTvjkk9E4=h310",
+        "//lh3.ggpht.com/qBCdlGCKWF1RPpNOieAFyVvTRYwPEF2BY2gBZbgq6JvBLfPS8C-_MyyNq9VosK9i1uk=h310",
+        "//lh3.ggpht.com/2LGLwE8pnv87u2Jg2UUPDHv4y0SMkFchh-q-cZyjg35U2DyGmdGt0rSeH9J9UN7oot0=h310",
+        "//lh4.ggpht.com/CLL2fmmjkjhK2hQ7kKJEnYhnWthvnYz3FeoGWdfl9DOkhAozmQFm56lvA75G12h_G3Y=h310",
+        "//lh5.ggpht.com/HtQq8zt0jTpz3LrdiRqHK8KGsmlVHUt6J8769lEBbSqhUhpvV9EyHi7RMlntpW30wv4=h310"
+    ],
+    "comments": [
+        "Potential Almost there, but the overlay window on the phone indicating the playlist is being played doesn't go away. Also, when music is initiated thru this app and played via Bluetooth it interferes with signal and goes in and out. One Plus 2 Oxygen 2.2.1 Android 5.1.1",
+        "Not worth buying! The entire point of using your watch to start a playlist is so you don't have to pull out your phone. This app opens Spotify, and opens the playlist! So close! But then you have to manually hit play. Which defeats the entire purpose. Not worth anything it wants you to pay until it adds that one simple feature.",
+        "Works fine. One problem is that it doesn't launch Spotify and start playing music when it isn't already running in the background and screen is locked. I always have to unlock the home screen and then it begins to play instantly. That kind of defeats the purpose, because you have to use your phone to play music... Is that something I can fix in the settings?",
+        "When using voice command from Android Wear, aways get an Error message saying \"Playlist not found\". When I select the playlist manually on Android Wear, a random playlist with a similar name from Google Music is played. So disappointed. I really wanted this to work.",
+        "Crashes whenever I try and open a Google Music playlists So I haven't really gotten to test it. But looks good.. Please fix this, I would REALLY like for this to work :-)",
+        "Works pretty well After initially not working due to a quirk of some of my spotify playlists (which the dev worked with me to fix), the app seems to be able to start most of my playlists from my watch."
+    ],
+    "recentChanges": [
+        "1) Rhapsody Integration",
+        "2) Pebble Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jumpbyte.wearmusiclist&hl=en&gl=us",
+    "appId": "com.jumpbyte.wearmusiclist"
+}

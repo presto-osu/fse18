@@ -1,0 +1,53 @@
+{
+    "title": "TRIWA Watch Face",
+    "summary": "A classic contemporary watch face that changes styles every day.",
+    "icon": "//lh3.googleusercontent.com/1feK90YwNBTGkUvfxD3Phrn-mHn5j6u4ZBF6drdXYXRyIDfQaHfZtBzyuMFJPFXluKQQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 205,
+    "developer": "Triwa",
+    "developerId": "Triwa",
+    "developerEmail": "oskar.tornmarck@triwa.com",
+    "developerWebsite": "http://www.triwa.com",
+    "updated": "June 24, 2015",
+    "version": "1.0.3",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "The TRIWA watch face features a metallic finish fitted with an animated digital hourglass. Each day comes with a fresh look — from Blue Monday to White Sunday. Designed in Stockholm, Sweden, TRIWA’s pretty looks are bound to make you look pretty good.",
+    "descriptionHTML": "The TRIWA watch face features a metallic finish fitted with an animated digital hourglass. Each day comes with a fresh look &#x2014; from Blue Monday to White Sunday. Designed in Stockholm, Sweden, TRIWA&#x2019;s pretty looks are bound to make you look pretty good.",
+    "histogram": {
+        "1": 27,
+        "2": 20,
+        "3": 46,
+        "4": 48,
+        "5": 64
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Py029JvA_dJ5vzV1yYdx7NQqZ2Ejye1W9XtHi5D-COEU5n8VivZVPoNcnnISyIPqoxrK=h310",
+        "//lh3.googleusercontent.com/mVkboZGMePKR9dzaauscpT_JbGwV2TQ1ME9q8PXck0nY4ZOtkP2MW05ea_rnHwlpjYA=h310",
+        "//lh3.googleusercontent.com/4tndl8CJHcWLF8hwm91PD4SAba4gPzv-v7sxmL_HDAKnrbqma0FpR6tI-D9tWFGzSQ=h310",
+        "//lh3.googleusercontent.com/SZV7sfN1UvKhfwi6UCyoGZnWfvfpgVeCOHVpv5VDnFp_9gvtza9hxy7r8l8VE7G1aVcN=h310"
+    ],
+    "comments": [
+        "Beautiful watch face. Looks beautiful on my Moto 360. I like that it changes face themes each day. The only minor complaint I have is that on some of the face themes, the contrast between the background and the hands is low which can make it hard to tell where the hands are.",
+        "Not too shabby. Stylish, simple, elegant. Good color combos, and fun that it changes daily. Would be nice to have the ability to pick which one I wanted to use, though. There are some that I like more than others, and would enjoy sticking with them more. Otherwise, not a bad face at all!",
+        "Looks Good Wish there was an option to make the watch hands dark though, or to pick a darker background - it's not too easy to see in the sun sometimes.",
+        "Please make it so we can chose watch face. The green one does not fit my watch, but i absolutely love this app. Seriously, get it.",
+        "Nice watch face But the fact that I can't change/customize the face and dials kind of sucks. I don't want pink, so I'll change my whole watch face until the next day basically. Allow users to change features",
+        "Won't let me change the colors Stuck on golden face"
+    ],
+    "recentChanges": [
+        "- Stability improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=triwa.watchface&hl=en&gl=us",
+    "appId": "triwa.watchface"
+}

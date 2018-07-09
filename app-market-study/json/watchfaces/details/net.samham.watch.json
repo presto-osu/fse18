@@ -1,0 +1,57 @@
+{
+    "title": "Ball O'Clock - Wear Watch Face",
+    "summary": "Animated rolling ball watchface for android wear",
+    "icon": "//lh5.ggpht.com/4FebjUGYL5FSeO3tBiUqOREEOA4vdwIV2Kp5MYA1jsUSWP8Yv5Pv4Kbohogyk0GQ7Q=w300",
+    "price": "$1.42",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 6,
+    "developer": "samham",
+    "developerId": "samham",
+    "developerEmail": "support@balloclock.com",
+    "developerWebsite": "http://www.balloclock.com",
+    "developerAddress": "11th floor, Kantari Corner Center,\nFakhreddine street, Kantari sector\nBeirut , Lebanon",
+    "updated": "February 8, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Ball O'Clock is the rolling ball watch face for android wear (smartwatches only). It's the first animated watchface that's fun to watch. It will keep you staring at your watch waiting for the balls to roll.How it works:Time is indicated by the balls locations, be it seconds, minutes or hours. All time transitions are animated as real physics.See it in action in this video: https://www.youtube.com/watch?v=6qRxvuUxUyk Telling time:To tell time you read the highlighted number below each slide.The bottom bar tells the current hour, as for the minutes, add up the numbers of the two minutes slides.Customizations:- The watchface accent color is customizable- Battery indicator can be hidden- More customizations soon..Ball O'Clock supports both round watches: Moto360 and LG G Watch RAnd square watches: Sony Smartwatch 3, Asus ZenWatch, Samsung Gear and LG G WatchAnimations are disabled and colors are grey scaled in ambient mode (dimmed mode) to preserve battery life.After installation give it a minute before it becomes ready to be selected on your watch.To select it long press on your watch and select it.To access the settings page, open the android wear app on your phone and select Ball O'ClockFor any issues, suggestions, comments please contact us on support@balloclock.com",
+    "descriptionHTML": "Ball O&apos;Clock is the rolling ball watch face for android wear (smartwatches only). It&apos;s the first animated watchface that&apos;s fun to watch. It will keep you staring at your watch waiting for the balls to roll.<br><br>How it works:<br>Time is indicated by the balls locations, be it seconds, minutes or hours. All time transitions are animated as real physics.<br>See it in action in this video: https://www.youtube.com/watch?v=6qRxvuUxUyk <br><br>Telling time:<br>To tell time you read the highlighted number below each slide.<br>The bottom bar tells the current hour, as for the minutes, add up the numbers of the two minutes slides.<br><br>Customizations:<br>- The watchface accent color is customizable<br>- Battery indicator can be hidden<br>- More customizations soon..<br><br>Ball O&apos;Clock supports both round watches: Moto360 and LG G Watch R<br>And square watches: Sony Smartwatch 3, Asus ZenWatch, Samsung Gear and LG G Watch<br><br>Animations are disabled and colors are grey scaled in ambient mode (dimmed mode) to preserve battery life.<br><br>After installation give it a minute before it becomes ready to be selected on your watch.<br>To select it long press on your watch and select it.<br>To access the settings page, open the android wear app on your phone and select Ball O&apos;Clock<br><br>For any issues, suggestions, comments please contact us on support@balloclock.com",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/CNfb_-RLo6JitSy79VpmpgmShX2W4VdP16D1sCJ26SMzbk55O44HDyM7pzVjmVl1IMk=h310",
+        "//lh5.ggpht.com/jFSrkI39P2l0cHvMRtXaztqLkYX4IR-AWaCXEdCi6lKVpxxcyo4qWqaeGZOQlvNFdTVR=h310",
+        "//lh3.ggpht.com/icvPbhBVts-oY2bAerLyz-L2L1D9TiNyKAOHRS1fGTqcQD95CSYgRv8qyoAzN4vgcA=h310",
+        "//lh4.ggpht.com/5poiEbspgQBq1n_zyaXV2mbvxLGepsij_aTvKxa8YtkHCIZ8UW4fOnu9ENEvVjVvvc0=h310",
+        "//lh4.ggpht.com/iqVxFYz_OUbCH_j4ZOkDN1gslHtVYiTcHMVa6ukkYzV0WPP6ekprUzR3e2fCYncR7g=h310"
+    ],
+    "video": "https://www.youtube.com/embed/HrX0ErMV4II",
+    "comments": [
+        "Needs more realistic animation Make the ball appear to roll??",
+        "Great fun watchface! One of a kind watchface, liked the animations inside, I am checking the time more often just to see the balls sliding"
+    ],
+    "recentChanges": [
+        "v1.2",
+        "- new square layout for square watches",
+        "v1.1",
+        "- Performance enhancements",
+        "- Hide battery indicator in ambient mode in case there are notifications",
+        "- Adding support for error reporting in case of issues"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.samham.watch&hl=en&gl=us",
+    "appId": "net.samham.watch"
+}

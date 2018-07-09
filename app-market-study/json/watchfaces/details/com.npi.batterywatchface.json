@@ -1,0 +1,58 @@
+{
+    "title": "Battery Watch Face",
+    "summary": "Always keep an eye on your watch battery",
+    "icon": "//lh3.ggpht.com/s2vZjOkBn-ad_b70gTe3RSLRqBtc2T44eVK-cKy4DJOpmZo1P05J8e9bMZHBQqfrmmA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 64,
+    "developer": "Nicolas POMEPUY",
+    "developerId": "Nicolas+POMEPUY",
+    "developerEmail": "nicolas.pomepuy@gmail.com",
+    "developerWebsite": "http://nicolaspomepuy.fr/",
+    "developerAddress": "5 rue des Mariniers\n82600 Verdun sur Garonne",
+    "updated": "May 14, 2015",
+    "version": "2.2.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Battery Watch Face is the perfect app if you want to keep an eye on your Android Wear watch battery level.This fully customizable Watch Face will display the remaining time before you have to charge your watch.Make it looks like you! With many customization options, it looks exactly as you want it to.Even if not mandatory, it is recommended that you install Wear Battery Stats to get the full potential of this app. By buying this app you will get the full version of Wear Battery Stats for free!This app is compatible with all Android Wear devices running Lollipop. You won't be able to use it before you get this version.",
+    "descriptionHTML": "<b>Battery Watch Face</b> is the perfect app if you want to keep an eye on your <em>Android Wear</em> watch battery level.<br>This fully customizable Watch Face will display the remaining time before you have to charge your watch.<br><br>Make it looks like you! With many customization options, it looks exactly as you want it to.<br><br><b>Even if not mandatory, it is recommended that you install Wear Battery Stats to get the full potential of this app.</b> By buying this app you will get the full version of Wear Battery Stats for free!<br><br>This app is compatible with all Android Wear devices running Lollipop. You won&apos;t be able to use it before you get this version.",
+    "histogram": {
+        "1": 5,
+        "2": 7,
+        "3": 6,
+        "4": 19,
+        "5": 27
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/fVkvxnDUESdQbXf3byell3OB8PiqXiWllSO59orQ0GmkqtO-EB26jFSAH3dOjW8cTA=h310",
+        "//lh6.ggpht.com/29pGIbKyE3EGtvISBvQ4IhqncFn1YNtX_VakZBmeRYuJ53rV8BlyivJ99FuqK4Ra2NgV=h310",
+        "//lh4.ggpht.com/uRbVKffo6k1bjdViSlfGdakMvvmp6P66z2S_MXqsCgwvMbAjmI9P-6s9H9_QGNwrn4I=h310",
+        "//lh3.ggpht.com/MK4s9TpJj1D24cHzS4luNhfilhuNoZao6mfvWfrmP1exDwoEKTpZC1Q4YVcLhCV_XAI=h310",
+        "//lh4.ggpht.com/8oru61HDn5NsS58SIH6bApLmCzYmc3GjTjgKJVAhayXtRlpw64fDVRNxAbOEn7dG6r9V=h310",
+        "//lh6.ggpht.com/HCBfSe8F4VOIEq-ErtmVMVD1b9qpiCIpBfm5vk3WiEnodfYS_tdJvbWpd3kcHMLGU5s=h310"
+    ],
+    "comments": [
+        "Thanks for the 12hr clock option. Love everything about this watch face besides the fact that I can't chose a 12hr clock. That's a very important option which I don't understand why it has been left out. I'd love to give it 5 stars when the feature is added. [[EDIT]]] The 12hr clock option has been added! 5 stars! Love this clock!",
+        "Love the look of the watch face, but the fact that the date does not change, and it is incredibly slow to update the phone battery percentage makes it hard to rate higher than a 2. If these items get fixed, I would easily give it a 5.",
+        "The refresh rate really sucks The refresh rate does not work properly. Today is 20 and the watch was still showing 19. This does not happens with others skins. The app becomes useless.",
+        "24 hr time only? I love this app but it only gives 24 hr time. For example instead of saying 8:30, it says 20:30.. Id appreciate if you'd fix thanks!",
+        "Has bugs Very good app, however issues with phone battery stats not being updated properly so gets stuck at a percentage and doesn't update the phone battery stat. The watch battery stat works fine. If fixed would get 5 stars. Using with a G Watch (square) UPDATE: Getting issues with the Date also being stuck on 1st Jan please fix!",
+        "Love it but I'm currently experiencing the date constantly being out of sync with my LG G Watch. Other than that the UI is beautiful and doesn't eat much into the battrey"
+    ],
+    "recentChanges": [
+        "Major battery use improvement",
+        "Display in white in ambient",
+        "Now respect hour format (12 hours / 24 hours)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.npi.batterywatchface&hl=en&gl=us",
+    "appId": "com.npi.batterywatchface"
+}

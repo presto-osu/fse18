@@ -1,0 +1,48 @@
+{
+    "title": "C64 Tribute Watch Face",
+    "summary": "A C64-style watch face for Android Wear devices",
+    "icon": "//lh3.ggpht.com/tXDfgYyIq4fTBjaMg2ggKl5MD2FLgXpqAZ-85DyuEeNQkXF2y8edXM6C0OPo6trCWE0n=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 29,
+    "developer": "Thomas Kuenneth",
+    "developerId": "Thomas+Kuenneth",
+    "developerEmail": "thomas@thomaskuenneth.com",
+    "developerWebsite": "http://www.thomaskuenneth.com/",
+    "updated": "February 25, 2017",
+    "version": "Varies with device",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "size": "Varies with device",
+    "description": "This is a watch face for Android Wear devices. It shows the famous C64 screen colors and displays the time with a traditional C64-like font. The watch face shows a 12 or 24 hour clock based on the settings of your device. Following design guidelines, in ambient mode the watch face is painted in black and white. On the settings pane you can choose to display seconds and weekday with day of month. Uppercase only converts small letters to capital letters. If in your locale weekday name are written using capitals by default, this setting has no effect.",
+    "descriptionHTML": "This is a watch face for Android Wear devices. It shows the famous C64 screen colors and displays the time with a traditional C64-like font. The watch face shows a 12 or 24 hour clock based on the settings of your device. Following design guidelines, in ambient mode the watch face is painted in black and white. On the settings pane you can choose to display seconds and weekday with day of month. Uppercase only converts small letters to capital letters. If in your locale weekday name are written using capitals by default, this setting has no effect.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 6,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/nM_kLiZH52LogynqY4FSoN96b3l101Eni5M4zXZ7E6-5arTTmdRTj7FzO8BlUEtRDQx8=h310",
+        "//lh3.googleusercontent.com/U6Wh0h6CJy5_vAE0b6b9XFH2LdvCAYL4eR5wjn2FnJN_tG7n5EFZk_GzHETvo6p6Ww=h310",
+        "//lh3.googleusercontent.com/bv_H5eHXylzR_swVc3TTTvUUwVTOUNnZh43iF_aqtZEFKoA7P4qdeoMHXTi0WH9m68c=h310"
+    ],
+    "comments": [
+        "Simple but great."
+    ],
+    "recentChanges": [
+        "- fixed a small locale-specific issue"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.thomaskuenneth.c64watchface&hl=en&gl=us",
+    "appId": "com.thomaskuenneth.c64watchface"
+}

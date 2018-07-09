@@ -1,0 +1,54 @@
+{
+    "title": "TimeWear Capsule Watch Face",
+    "summary": "Watch face - interactive, digital, with an interval timer and a stopwatch.",
+    "icon": "//lh3.googleusercontent.com/7_28v6FYUrWyJfqirlwybrcYY0uuT3tKXJSb5iFxRxhj5-FkQLTdMJZZKMyPCf58Qw=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "AYRatio",
+    "developerId": "AYRatio",
+    "developerEmail": "info@ayratio.com",
+    "developerWebsite": "http://www.ayratio.com",
+    "developerAddress": "Kanata, Ontario",
+    "updated": "October 14, 2016",
+    "version": "1.0.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "INTERACTIVE DIGITAL WATCH FACE with these features: - Time- Date- Month- Year- Watch battery indicator- Heart Rate monitor- Stopwatch (1 second resolution)- Interval timer (hours and minutes with 1 second resolution)- Interval timer notifications - watch vibrates and/or beeps at half way / 1 minute before the end / end of interval (to hear sound notifications, a bluetooth headphones paired up with the watch are required)- Watch face configurable colors Watch settings - FROM A HANDHELD:- Battery indicator on/off- Heart Rate monitor on/off- Include Year in Date on/off- 24 Hours Format on/off- Watch face color- Interval timer notifications Watch settings - ON THE WATCH:- Watch face color selection from a list- Start / pause / cancel both timers simultaneously or separately- Select timer's interval in hours and minutes- Select one time / repeat interval timer option HOW TO USE:- double-tap on the stopwatch capsule to start / pause / cancel the stopwatch- double-tap on the interval timer capsule to start / pause / cancel the timer, plus select the timer interval and \"one time / repeat\" option- double-tap on the clock capsule to start / pause / cancel both timers simultaneously. When timers are in different states (e.g. one is running, the other is paused), only Cancel function is available. Swipe to the left to configure the one shot timer by time of day- double-tap anywhere on the screen outside of capsules to select a watch face color from a list. HEART RATE MONITOR:Starting from release 1.0.5, heart rate monitor, if enabled, will use the heart rate sensor only once every 5 minutes, turning it on for about 30 seconds or less. The heart rate sensor will be off at all other times. AMBIENT MODE AND INTERVAL TIMER NOTIFICATIONS:Improving battery life was one of the design goals during development of this watch face. When a watch has ambient mode disabled, Moto 360 watch's battery will last with this watch face for over 24 hours with both timers running and timers will run at 1 second resolution. However, ambient mode is much harder on battery. To increase battery life in ambient mode, this watch face's interval timer notifications switch to 1 minute resolution. This means that timer notifications (half way, 1 minute and interval end notifications) will happen between 0 to 59 seconds after a notification point, depending on the moment when the timer was started. COMPATIBILITY:This app works on any device running Android Wear. It was thoroughly tested on the Moto360 and Samsung Gear Live watches paired up with Samsung Galaxy and Moto G phones and Nexus 10 tablet. CONTACTS:Contact us via email: info@ayratio.com. We will make every effort to address your concerns or suggestions.",
+    "descriptionHTML": "INTERACTIVE DIGITAL WATCH FACE with these features:<br> <br>- Time<br>- Date<br>- Month<br>- Year<br>- Watch battery indicator<br>- Heart Rate monitor<br>- Stopwatch (1 second resolution)<br>- Interval timer (hours and minutes with 1 second resolution)<br>- Interval timer notifications - watch vibrates and/or beeps at half way / 1 minute before the end / end of interval (to hear sound notifications, a bluetooth headphones paired up with the watch are required)<br>- Watch face configurable colors<br> <br>Watch settings - FROM A HANDHELD:<br>- Battery indicator on/off<br>- Heart Rate monitor on/off<br>- Include Year in Date on/off<br>- 24 Hours Format on/off<br>- Watch face color<br>- Interval timer notifications<br> <br>Watch settings - ON THE WATCH:<br>- Watch face color selection from a list<br>- Start / pause / cancel both timers simultaneously or separately<br>- Select timer&apos;s interval in hours and minutes<br>- Select one time / repeat interval timer option<br> <br>HOW TO USE:<br>- double-tap on the stopwatch capsule to start / pause / cancel the stopwatch<br>- double-tap on the interval timer capsule to start / pause / cancel the timer, plus select the timer interval and &quot;one time / repeat&quot; option<br>- double-tap on the clock capsule to start / pause / cancel both timers simultaneously. When timers are in different states (e.g. one is running, the other is paused), only Cancel function is available. Swipe to the left to configure the one shot timer by time of day<br>- double-tap anywhere on the screen outside of capsules to select a watch face color from a list.<br> <br>HEART RATE MONITOR:<br>Starting from release 1.0.5, heart rate monitor, if enabled, will use the heart rate sensor only once every 5 minutes, turning it on for about 30 seconds or less. The heart rate sensor will be off at all other times.<br> <br>AMBIENT MODE AND INTERVAL TIMER NOTIFICATIONS:<br>Improving battery life was one of the design goals during development of this watch face. When a watch has ambient mode disabled, Moto 360 watch&apos;s battery will last with this watch face for over 24 hours with both timers running and timers will run at 1 second resolution. However, ambient mode is much harder on battery. To increase battery life in ambient mode, this watch face&apos;s interval timer notifications switch to 1 minute resolution. This means that timer notifications (half way, 1 minute and interval end notifications) will happen between 0 to 59 seconds after a notification point, depending on the moment when the timer was started.<br> <br>COMPATIBILITY:<br>This app works on any device running Android Wear. It was thoroughly tested on the Moto360 and Samsung Gear Live watches paired up with Samsung Galaxy and Moto G phones and Nexus 10 tablet.<br> <br>CONTACTS:<br>Contact us via email: info@ayratio.com. We will make every effort to address your concerns or suggestions.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Kn4XPcsM7Tgbowd89WPNHUDWUc-81sE9_lEJveBxLWPo5VpC4GcX3BJ5439LYdg4zWY=h310",
+        "//lh3.googleusercontent.com/3Wmx_U859lahYj3NF_NWeff25_xYNzQguV1_tDNtvNAKQRypVAiWmopFUAkgMFQnXQ=h310",
+        "//lh3.googleusercontent.com/_e8CGoyQBuHrA4gTAaZBYj0AZLTRMpaHT9rdgyiFkzdfuY1fy2qEsG4qfyq6JD8tQvQ0=h310",
+        "//lh3.googleusercontent.com/oK24JxTOiNPdDxob2XiyCIRke-l71Efvpsg50Dz1LfZ6jXCt3kNcXYtgvvv_NA4fE7g=h310",
+        "//lh3.googleusercontent.com/302-zoos4RkyPGSyU0VFGtNdiZBw591iBhvtZSEKf1mNOkIKfiecXRoodwxLgTWh6yI=h310",
+        "//lh3.googleusercontent.com/rJkEa4ytkRP9Ut4ihgPbeOZR6BkCoE2om6dZbeVXNBvHqw8ERsZqqMJcByBKKZPKSc-0=h310",
+        "//lh3.googleusercontent.com/dAg7ciG0rFbNSilQLHccleq2bXCJCc5qP29tpVMbbn3o_L1YMYsaG8U_Y4CFye_8MOQ=h310"
+    ],
+    "comments": [
+        "This is the greatest watch face I've ever used. After trying many faces I was left dissapointed, until I found timewear capsule. It is the only watch face I could find showing the year which was a great addition. I am also very impressed with the color selection options of the watch. All in all a great purchase and app.",
+        "I love this watch face. It gives me time and full date, plus a couple of timers that I can use without losing my clock function. Easy to change intervals for the interval timer. I use timers when I play poker to keep track of my time at the table and blinds, if I'm in a tournament. A battery status and heart rate monitor are just a bonus. I find heart rate monitor not very accurate on my Moto 360, but I understand that it is not the watch face software issue, it is the hardware that it is running on. Hopefully, on the Moto 360 Gen 2 this will work better."
+    ],
+    "recentChanges": [
+        "1. Heart rate sensor is turned on only once every 5 minutes for up to 30 seconds",
+        "2. Timer's interval starts from 1"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ayratio.android.wearable.timewearcapsule&hl=en&gl=us",
+    "appId": "com.ayratio.android.wearable.timewearcapsule"
+}

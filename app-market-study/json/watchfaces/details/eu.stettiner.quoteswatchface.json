@@ -1,0 +1,53 @@
+{
+    "title": "Time for a quote! Watch Face",
+    "summary": "The watch for those who want to be inspired by the greatest people in history!",
+    "icon": "//lh4.ggpht.com/w89vNwyKwmuh28M70DzvzX8jxxLDkZKrIlrxBKqou8yt77rxna9osgOWDNzOpFPUsw=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.2,
+    "reviews": 13,
+    "developer": "STETTINER",
+    "developerId": "5397900325655258360",
+    "developerEmail": "sayhello@stettiner.eu",
+    "developerWebsite": "http://stettiner.eu",
+    "developerAddress": "STETTINER GAMES&MORE\nCyfrowa street 6\n71-441 Szczecin\nPoland",
+    "updated": "February 9, 2015",
+    "version": "1.1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This watch presents not only the current time and date, but also randomly chosen quotes (of the most famous and inspiring people of the world).Get inspired each time you check the time!Time for a quote!Multiple customization options:- analog and digital watch,- 5 background colors,- date (on / off),- battery life indicator.Designed for Android Wear.Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.",
+    "descriptionHTML": "This watch presents not only the current time and date, but also randomly chosen quotes (of the most famous and inspiring people of the world).<br><br>Get inspired each time you check the time!<br>Time for a quote!<br><br>Multiple customization options:<br>- analog and digital watch,<br>- 5 background colors,<br>- date (on / off),<br>- battery life indicator.<br><br>Designed for Android Wear.<br>Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 6,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/fK1gGwn6h9xKuLHKfo3WGN8Yn-YXmzbvjotuDzXOOw6Mf1EVw-Tnim8jjc1cQO832Q=h310",
+        "//lh5.ggpht.com/S1iBPErL7JTIGVQ1BugEV9fC-HtOXHREvMLo_MBGNjDrC-7gyfsgHXgOIXPe66g0Ue5n=h310",
+        "//lh6.ggpht.com/lxGC-D6X_1DJy3r-SWV-lOTtoWK5oolgI4wjtUMGq73UqIi2iKMoBTMNTmWdtWHewrE=h310"
+    ],
+    "comments": [
+        "It's okay The quote changes each time I tap my watch. I would love it if the quote can stay on the watch face a little longer so we read it. Maybe add or change the quote every hour. Like it but it need little work.",
+        "Very nice, but needs a little work Lovely clean look and I love the concept, unfortunately though the digital face positions the time so that it's unreadable if there's a notification on screen (making it useless when music is playing!)It would be nice to be able to configure the quote refresh time in settings too. Will keep an eye on this face though as I do really like the design :)",
+        "It doesn't have the date, although the description says it has date on/off customization.",
+        "It needs a bit of tweaking which includes the date",
+        "Does as advertised Perfect.  Many of the quotes are favorites of mine.  Thanks devs!"
+    ],
+    "recentChanges": [
+        "Improved time rendering for digital clock.",
+        "Fixed background for square devices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eu.stettiner.quoteswatchface&hl=en&gl=us",
+    "appId": "eu.stettiner.quoteswatchface"
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Img2Wear Wearable Prototyping",
+    "summary": "Send images from your phone to be viewed on your Android Wear device",
+    "icon": "//lh5.ggpht.com/TwiYmUXAlkn5zlNCnL2OnhElUFgJb_iLTzunjg_1Tc_xeOHiPIBkbBG2kGoX_RgSJ56R=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.2,
+    "reviews": 4,
+    "developer": "A Walking City",
+    "developerId": "A+Walking+City",
+    "developerEmail": "awalkingcity@gmail.com",
+    "developerAddress": "1475 Folsom St.\nSan Francisco, CA 94103",
+    "updated": "December 28, 2014",
+    "version": "1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Quickly push images from any source on your phone to your Android Wear device.Useful for prototyping interfaces before coding!Vertical scroll through long interfaces to test things like text size color and readability as well as image clarity.Draft up Watch Faces and test readability live on your device or emulator!Or just push your favorite image to your watch to show your friends!Uses Android image picker to select images from any app included in your work flow like DropBox and Adobe CloudStep 1Pick image on phoneStep 2on your Android Wear device launch Image2Wear appAndroid Wear App will also load image as it is selected on phone in real time.beware: app has trouble with large images, attempts to scale down to wear screen but still may have a few bugs.",
+    "descriptionHTML": "Quickly push images from any source on your phone to your Android Wear device.<br><br>Useful for prototyping interfaces before coding!<br><br>Vertical scroll through long interfaces to test things like text size color and readability as well as image clarity.<br><br>Draft up Watch Faces and test readability live on your device or emulator!<br><br>Or just push your favorite image to your watch to show your friends!<br><br>Uses Android image picker to select images from any app included in your work flow like DropBox and Adobe Cloud<br><br>Step 1<br>Pick image on phone<br><br>Step 2<br>on your Android Wear device launch Image2Wear app<br><br>Android Wear App will also load image as it is selected on phone in real time.<br><br>beware: app has trouble with large images, attempts to scale down to wear screen but still may have a few bugs.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/9IOKaApoVlNWAYgvX_nJq-FPaIa_838eHmp1uKKL7ib7kTpHvc_uE0aAturgbI2Kveo=h310",
+        "//lh3.ggpht.com/uxuwmhCP7YiQzSUjd9uZmvoEqjsPh_csrNCvAzERitzYTUSFcAq6bQ3tu1MdPoMTqA=h310",
+        "//lh5.ggpht.com/dnba3YD9TFWHp72uVRCI_AeCqOw69hozE_RSoVuVhVBqnqUmF8Hv0FG7j3pPzJ0DSw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=awalkingcity.com.brototype&hl=en&gl=us",
+    "appId": "awalkingcity.com.brototype"
+}

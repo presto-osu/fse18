@@ -1,0 +1,43 @@
+{
+    "title": "Sensor sample app for Wear",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh4.ggpht.com/ODITthPaKPQKJT3yzw52GWBvXeg6aTSWJGb93W3NlBhgQ3w9rM3XdvRjAdlZoJ4oWJs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 4,
+    "developer": "myamamic",
+    "developerId": "myamamic",
+    "developerEmail": "karikariq10-googleplay@yahoo.co.jp",
+    "updated": "July 6, 2014",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Test orientation sensor in Android Wear device.Depending on the slope of the device, the appearance of the cube on the screen only change.",
+    "descriptionHTML": "Test orientation sensor in Android Wear device.<br>Depending on the slope of the device, the appearance of the cube on the screen only change.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/-zExcmmgrAiKg1ez8elqDkYOPF7PHCAdbIfXdbt9fy9tjZ_p08cIU-91FWz1-eaQQ0g=h310",
+        "//lh3.ggpht.com/5s6q23OzLfdYScoG954Pq22jO9qy9n2yU4gYIoMbEnUTiL4sqiyggC8buNQjuTclOAk=h310"
+    ],
+    "comments": [
+        "Works perfectly. I needed to test the Gryoscope on my Moto360 to see if it was working properly, and this app did a great job. The cube wasn't turning around at all which meant that the Gryoscope wasn't working properly, as I feared, and when testing on a new device, I used this to confirm the results and found the cube to turn as it should on a working Gyroscope. Very useful tool."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.myamamic.myamagraphicsdemoforwear&hl=en&gl=us",
+    "appId": "com.myamamic.myamagraphicsdemoforwear"
+}

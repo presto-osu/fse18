@@ -1,0 +1,59 @@
+{
+    "title": "ABCZ for Android Wear",
+    "summary": "A + A = B B + B = C C + C = D .... Y + Y = Z Can you get to the Z ?",
+    "icon": "//lh4.ggpht.com/JczLVsAixMEB_2aDgzUkZqGQ2rTjzjLnky3OfGhMYHC-xHIdQH1l7NTV13z7wiYz77Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.6,
+    "reviews": 14,
+    "developer": "Spooky House Studios UG(haftungsbeschraenkt)",
+    "developerId": "Spooky+House+Studios+UG(haftungsbeschraenkt)",
+    "developerEmail": "support@spookyhousestudios.com",
+    "developerWebsite": "http://spookyhousestudios.com",
+    "developerAddress": "Spooky House Studios UG (haftungsbeschränkt)\nOtto-Schmidt-Str. 9\n04425 Taucha, Germany",
+    "updated": "April 21, 2015",
+    "version": "1.1.7",
+    "genre": "Puzzle",
+    "genreId": "GAME_PUZZLE",
+    "description": "Connect similar tiles to form new tiles. For example: A + A = B B + B = C C + C = D .... Y + Y = Z",
+    "descriptionHTML": "Connect similar tiles to form new tiles. <br><br>For example: <br>A + A = B <br>B + B = C <br>C + C = D <br>.... <br>Y + Y = Z",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 9
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/Rp4hukxScQo4G4_GGb-POxR9aVAX1di3fsfsD3zlCW8UB2b3mlq8mm5qK4Ny8ayalVU=h310",
+        "//lh5.ggpht.com/sl4DbnS6onhMXVC7vei4L2VpHp09w7qn3t4_iNSuwzFn9aojfomnG3D7iup-ZvX0yBOu=h310",
+        "//lh5.ggpht.com/9GlRNiLRPDNK1taNeypiIMdJAoJhEf8xJJtMocsRnCaZfxEFrK1P2Wx0b-emN7IAgEuJ=h310",
+        "//lh3.ggpht.com/lbirOJ_EdrV28kJJg4-CCi_VbuaSUQxZX6m2I1rDescmOuN_3KLOgjLUAQW_kcFZsPk=h310",
+        "//lh3.ggpht.com/7x2Z6E9tS0t9FzcDyfq2HzGDTY57UTHIaesNgdmBg7YYfz-AgW6ilRQ0TqB5hZ4-TaY=h310",
+        "//lh5.ggpht.com/6hJT64SBXyQrDvAivAlur1UH8uWGtFRQzETbejEFcaUPIt3iv6H3U8CuuzfxVDmFCik=h310",
+        "//lh3.ggpht.com/K6Tk0B1Z-s-rezjVmZTk6aGUEGtoyKSCGbvt4qBVxWHjBNJiM86jM68UDUHoonmNkRE=h310",
+        "//lh6.ggpht.com/KDCOq0OXvdCroYVqvgrj4dLG_SI5PG1N5rKFq0s0D2Ymg_cDIkkegBhwTkgdCZIfFQ=h310",
+        "//lh6.ggpht.com/1dS72XT9K8Xq9uyBWCWwsFXkvHx1EIQFh-A0_eej8O-os8aSLEcPON-FuwO11juC3qU=h310",
+        "//lh3.ggpht.com/R9zP6NX2VMc4KSG1_CPPmefCwo2t3qfzxp-k9VLx_A9X9_zguvU9lt9nKEQIsY3qGns=h310",
+        "//lh3.ggpht.com/UESEfYmMGRYZ6WGVbZVTqW1Wjxr0rY6jBpNabLuctIsP90rgwgVhKhwefWQyTc7RGgck=h310",
+        "//lh3.ggpht.com/jUSyPot5deenoocNBt3hTMCL6QDgqxiThxLso_0xLOFaU8wO1MjguL9dpEO_pc492Eiw=h310"
+    ],
+    "video": "https://www.youtube.com/embed/J6GWzrEgHMk",
+    "comments": [
+        "Try ...."
+    ],
+    "recentChanges": [
+        "- Support for Moto 360",
+        "- Support for more Android phones"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.spookyhousestudios.abcz.watch&hl=en&gl=us",
+    "appId": "com.spookyhousestudios.abcz.watch"
+}

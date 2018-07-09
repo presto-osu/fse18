@@ -1,0 +1,57 @@
+{
+    "title": "Gears Watchface",
+    "summary": "Gears watchface is an awesome watchface with animated gears inside.",
+    "icon": "//lh3.ggpht.com/lpB9bpWdNCf5HIMAU-OgVMpEUSlzy-ef5vMJt6SimNx0QGxke3vihEijFn70pyfd4bM=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.6,
+    "reviews": 57,
+    "developer": "Desarrollo Droide",
+    "developerId": "Desarrollo+Droide",
+    "developerEmail": "desarrollodroide@gmail.com",
+    "developerWebsite": "http://desarrollodroide.com/",
+    "developerAddress": "C/Río guadalquivir 6, 4ºC\n28913 Leganés - Madrid (España)",
+    "updated": "September 18, 2017",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Gears watchface is an awesome watchface with animated gears inside.  •  Android phone requires 4.3 and up, Android Wear requires 5.0 update. •  Works for round and squared watches •  Options to disable animations and change gears colors.Supported devices:Motorola Moto360, LG G Watch, LG G Watch R, Samsung Gear LIVE, not compatible with tizen (Samsung Gear or Gear 2, Gear S).NOTE: Please make sure that your watch is running Android Wear 5.0+. **Watch face will show up on your watch automatically. If it doesn't show up please go to the android wear app > Settings and Resync all apps**How to install:•  Download the app on Google Play (It will not install any app on the phone) • Tap & hold on the watch face on the Android Wear device or select from the companion app on your phone.",
+    "descriptionHTML": "<b>Gears watchface is an awesome watchface with animated gears inside.  </b><br><br>&#x2022;  Android phone requires 4.3 and up, Android Wear requires 5.0 update. <br>&#x2022;  Works for round and squared watches <br>&#x2022;  Options to disable animations and change gears colors.<br><br><b>Supported devices:</b><br>Motorola Moto360, LG G Watch, LG G Watch R, Samsung Gear LIVE, not compatible with tizen (Samsung Gear or Gear 2, Gear S).<br><br>NOTE: Please make sure that your watch is running Android Wear 5.0+. <br><br><b>**Watch face will show up on your watch automatically. If it doesn&apos;t show up please go to the android wear app &gt; Settings and Resync all apps**</b><br><br><b>How to install:</b><br>&#x2022;  Download the app on Google Play (It will not install any app on the phone) <br>&#x2022; Tap &amp; hold on the watch face on the Android Wear device or select from the companion app on your phone.",
+    "histogram": {
+        "1": 7,
+        "2": 4,
+        "3": 11,
+        "4": 15,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/gfKJlmFizooTinb94h2Pib6Ttb5pujD4H3lQeF944ycDxOO_K6P5tqKD4ycwTPe0pQ=h310",
+        "//lh5.ggpht.com/u9hj7OhFufzKSA0Y3VXRfAfddKrq3qJ4s9XQS9WqKeL0CztXUwOjs0nq3fDicBWSxiU=h310",
+        "//lh5.ggpht.com/uhtB_xUyM8QXr0HC3NvWQqpamv7rS8vRGJ6WDE7i0g_US5YLey5NkhVuCFRcfKSPx4E9=h310",
+        "//lh5.ggpht.com/xH7V-cVGytledbHAG875FLZsEXl9bPBhUDy_Q04rZccWzy6D0nI-6qC_9N8jBCmJ2FQ=h310",
+        "//lh3.googleusercontent.com/KoMB44c-CXzvat87KyIlQkkOZqd6pdZJFEkKxg6JKnsDNl4GdDTsDceBknlE2tWkwsE=h310",
+        "//lh3.googleusercontent.com/O6rHPldUft11B3IbgipeItHPPei1Bco-ufNd0YeXkBOt-PDiuJHg-dRfXetOsoy-ckAC=h310"
+    ],
+    "video": "https://www.youtube.com/embed/JOEKRqUuQr0",
+    "comments": [
+        "Good Great colors on the black/grey, the rainbow looks childish. However it doesn't seem sharp or crisp looking on the moto 360. Also, the gears take a while sometimes to pop-up after coming out of ambient mode, otherwise great watch face.",
+        "Good one. Came here from Libraries for Developers. The watch face is very good. Any chance of square layout?",
+        "Looks like in pics!",
+        "numbers look blurry I love this concept and the colors, but it looks unpolished and blurry.",
+        "Great potential but like a few other comments I saw needs more detail and color choices.",
+        "Doesn't work with the LG Urbane - no sleep mode or notifications. It looks great but could use some tweaking, or ability to change colors."
+    ],
+    "recentChanges": [
+        "Updated to Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.desarrollodroide.gearswatchface&hl=en&gl=us",
+    "appId": "com.desarrollodroide.gearswatchface"
+}

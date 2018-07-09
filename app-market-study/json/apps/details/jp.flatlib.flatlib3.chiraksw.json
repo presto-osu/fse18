@@ -1,0 +1,61 @@
+{
+    "title": "ChiRaKS for Android Wear",
+    "summary": "2D scrolling shooter game that uses 3D polygon to draw.30fps",
+    "icon": "//lh5.ggpht.com/lJRn4CZYestqwiZaT1j3IZaoW3HypZo0jNCxI44ZZncy41LXXmDD9zlqZ57QCknJG04=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 45,
+    "developer": "flatlib.jp",
+    "developerId": "flatlib.jp",
+    "developerEmail": "developer@flatlib.jp",
+    "developerWebsite": "http://dench.flatlib.jp/app/chiraksw",
+    "updated": "December 27, 2014",
+    "version": "1.0.6",
+    "genre": "Action",
+    "genreId": "GAME_ACTION",
+    "description": "This is a 2D scrolling shooter game that uses 3D polygon to draw.· 6 stages in totalAnd drawing speed 30fpsChiRaKS for Android https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.chiraks",
+    "descriptionHTML": "This is a 2D scrolling shooter game that uses 3D polygon to draw.<br>&#xB7; 6 stages in total<br>And drawing speed 30fps<br><br><br>ChiRaKS for Android <a href=\"https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.chiraks\">https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.chiraks</a>",
+    "histogram": {
+        "1": 2,
+        "2": 7,
+        "3": 7,
+        "4": 11,
+        "5": 18
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/zvL6dXi5QQzDyA3xRJ21IvaxKf5leXl73uUjisUOLRiCfZmbc1uCkWHQVAYQUpkWF6c0=h310",
+        "//lh4.ggpht.com/MUdj8yM4l2d6bCfBkQGm8y6TodOwSZjqIgkHLEIdnRBzJqOEh_kP2rvR7_mi4IH5DxU-=h310",
+        "//lh3.ggpht.com/92cBZ6CqyepGQi0Vf9c_2UsxPdmFcZBng4HSWS2fLhLtxv7nbSeyi0e_gL9RVL0wnYRU=h310",
+        "//lh4.ggpht.com/6iazBFF2s75a2X90Unkq1PgbIwV7VCeMBnT5D3BJk6vKw_4a6x9LW5-dxw591xhzCcg=h310",
+        "//lh3.ggpht.com/D3i04ewf3vQTE-AgL-tAicBFwI1fTdBbNGrZfiaLCS4x0ZvhVriGGxUIB6WUu5wI8K8=h310",
+        "//lh3.ggpht.com/qc-KOwo9TuoixmyoyR0jwT6yhcI8wDZY_s2bOb1tCu0_EZIX4BB9WnsauRTuMny01y8=h310",
+        "//lh6.ggpht.com/wQA5zSihu_hjf_SbEZP_oun5DW0WeYERuO_Q5191RPp1uW3MeaBRtXI7gLBN9ZNHew=h310",
+        "//lh5.ggpht.com/Q5PsMYaOz73XTKRxMnkuwcBGkRbi2YnHTnCA2-MIpFIhVgTHUFIGWnSs-0mmnCfKHg=h310",
+        "//lh6.ggpht.com/F0YXdSRhZlhLJx5Q9GJvvvAJroRYLiWQfLk492KC8dcR7U6iSlQCJzogKrrhpZFLFZA=h310"
+    ],
+    "comments": [
+        "Sweet Awesome shooter for wear. At times it can move a little too fast (for a game that requires you to cover the screen with your finger to control).  Graphics are simple polys, but with some imagination they are great.  I wish it went a little slower. Galaxy s5 with Moto360.",
+        "Frantic and furious This is the type of game id like to see on wear. Needs powerups",
+        "No way!  I remember this game from my old windows ce pocket pc!  Awesome to play it again, but on my watch now!!",
+        "Impressive",
+        "Moto 360 It isn't the right orientation on my moto 360 watch. Can't play without uncomfortable twisting. :-/",
+        "Doesn't work well on moto 360 The game orientation on the moto 360 is wrong. The game rotates your screen 90 degrees counter clockwise so the the bottom of the screen is where your home button is. Also it has an odd black bar on the right side of the screen.  If that gets fixed it will be a decent game!"
+    ],
+    "recentChanges": [
+        "v1.0.6  bug fix for Windows Wear 5.0",
+        "v1.0.5  bug fix for moto 360",
+        "v1.0.4  added Continue button",
+        "v1.0.3  added Pause button"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.chiraksw&hl=en&gl=us",
+    "appId": "jp.flatlib.flatlib3.chiraksw"
+}

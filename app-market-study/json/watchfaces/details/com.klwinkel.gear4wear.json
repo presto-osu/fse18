@@ -1,0 +1,50 @@
+{
+    "title": "Gear4Wear Watchface",
+    "summary": "Load Gear Watchfaces onto your Android Wear watch.",
+    "icon": "//lh3.googleusercontent.com/8g5b1u3h6OUVpe2s2VGX_md3cQCjNHVtz2nZojyuytjFlcZa1yTme98eUOSASGjwnVK-=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2,
+    "reviews": 4,
+    "developer": "Klwinkel.com",
+    "developerId": "Klwinkel.com",
+    "developerEmail": "androidwear@klwinkel.com",
+    "developerWebsite": "http://www.klwinkel.com",
+    "developerAddress": "Vliegendijk 6\n7205 CJ Zutphen\nNetherlands",
+    "updated": "June 19, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "With this app you can load all (WS/MW) Gear watchfaces from Gearfaces.com onto your Android Wear Watch.Hundreds of watchfaces available!Try it for free, if you like it, buy the license for unlimited usage.How does it work:=============1. Start the Android-Wear app on your mobile device and activate the Gear4Wear watchface and open the configuration screen to configure the watch.2. Use the browser in the configuration screen to select a watchface from GearFaces.com and install it directly on your Android Wear watch. Or select a previously downloaded watchface from your download folder.3. You can also select your own watch background image (Gallery or Camera), independent from the installed watchface.Currently this is only tested on a 320x320 Android Wear watch, it might not behave correctly on Android Wear watches with other resolutions.Please contact me if you have any remarks or suggestions for improvements.",
+    "descriptionHTML": "With this app you can load all (WS/MW) Gear watchfaces from Gearfaces.com onto your Android Wear Watch.<br><br>Hundreds of watchfaces available!<br><br>Try it for free, if you like it, buy the license for unlimited usage.<br><br>How does it work:<br>=============<br><br>1. Start the Android-Wear app on your mobile device and activate the Gear4Wear watchface and open the configuration screen to configure the watch.<br><br>2. Use the browser in the configuration screen to select a watchface from GearFaces.com and install it directly on your Android Wear watch. Or select a previously downloaded watchface from your download folder.<br><br>3. You can also select your own watch background image (Gallery or Camera), independent from the installed watchface.<br><br>Currently this is only tested on a 320x320 Android Wear watch, it might not behave correctly on Android Wear watches with other resolutions.<br><br>Please contact me if you have any remarks or suggestions for improvements.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/50mff09CtwCH2evNIOA6HGZP4Sr-Wyo8EkVaWpFvMrGjHxZkDkeJVkGkLZ3FcyRCOhU=h310",
+        "//lh3.googleusercontent.com/pGa0Ld2K_AfDi5B7pxVQVRzbFVNOs7i3pGmGdVdy7N3Cf5EvMPv7jj0ZgcHkv12Ht9c=h310",
+        "//lh3.googleusercontent.com/ZF-343K8RPW_-JIrvdXVcCxYt3aXnP0GQyh6mjn1fSERI_KsLevzDCLO4yx71rms=h310",
+        "//lh3.googleusercontent.com/h8B3cD_3UaO3LXOWvQyJkx8Pj-Kp95DlhAXLQaoAsLOdx0HdbImYHwoPjsIbpb4xfmvl=h310",
+        "//lh3.googleusercontent.com/SFopMBkgD4VTmsG4L-ypL_KOOVD1LJZXw95nvJlJOx_vCMc1VtUIk0xPD7Vo_ayBKW8=h310",
+        "//lh3.googleusercontent.com/WwQ9mjA6lIzAwCSnI2kfHpzSHfPRH150TFxRwW22OyUZ-1fc4T00-6Z0TX2pKthqsA=h310",
+        "//lh3.googleusercontent.com/8AwHQxVV9hm7r-R97jRuT4msHZilNgIAiylzlbohyZAH8UJs8iOQedshgV61TR70Qfs=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- first version"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.klwinkel.gear4wear&hl=en&gl=us",
+    "appId": "com.klwinkel.gear4wear"
+}

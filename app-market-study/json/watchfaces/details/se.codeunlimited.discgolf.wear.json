@@ -1,0 +1,54 @@
+{
+    "title": "DiscGolf Wear",
+    "summary": "DiscGolf Scorekeeper for Android Wear (an extension for DiscGolf Lite/Pro)",
+    "icon": "//lh5.ggpht.com/iR_BNJ7Rh6Dt-xLooo90joF8LsFHpqDjqloQMQscs6HYDQzpZrsdTZNSPWXeGOgpUz0w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.9,
+    "reviews": 27,
+    "developer": "CodeUnlimited",
+    "developerId": "CodeUnlimited",
+    "developerEmail": "contact.codeunlimited@gmail.com",
+    "developerWebsite": "http://discgolf.codeunlimited.se",
+    "developerAddress": "Stockholm, Sweden",
+    "updated": "September 23, 2017",
+    "version": "Varies with device",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "size": "Varies with device",
+    "description": "DiscGolf Wear is an app for Android Wearables. It allows you to manage a DiscGolf Lite/Pro game directly from you Wearable device. DiscGolf Wear is not a scorekeeper in itself, but connects to DiscGolf Lite/Pro on your phone to access games, players and score. This way you can use DiscGolf Wear to manage your scorecard directly from your Wearable device.NOTE! Tizen is not supported. Samsung Gear S3 among other watches are based on Tizen which is not the same as Android WearREQUIREMENTSDiscGolf Wear requires that either DiscGolf Lite or Pro is installed and updated on your phone for it to work. You may Not have both Lite and Pro installed at the same time. It also requires you to have an Android Wear device connected to your phone.DiscGolf Lite:http://play.google.com/store/apps/details?id=se.codeunlimited.discgolf.liteDiscGolf Pro:http://play.google.com/store/apps/details?id=se.codeunlimited.discgolf.pro",
+    "descriptionHTML": "DiscGolf Wear is an app for Android Wearables. It allows you to manage a DiscGolf Lite/Pro game directly from you Wearable device. DiscGolf Wear is not a scorekeeper in itself, but connects to DiscGolf Lite/Pro on your phone to access games, players and score. This way you can use DiscGolf Wear to manage your scorecard directly from your Wearable device.<br><br>NOTE! Tizen is not supported. Samsung Gear S3 among other watches are based on Tizen which is not the same as Android Wear<br><br>REQUIREMENTS<br>DiscGolf Wear requires that either DiscGolf Lite or Pro is installed and updated on your phone for it to work. You may Not have both Lite and Pro installed at the same time. It also requires you to have an Android Wear device connected to your phone.<br><br>DiscGolf Lite:<br>http://play.google.com/store/apps/details?id=se.codeunlimited.discgolf.lite<br><br>DiscGolf Pro:<br>http://play.google.com/store/apps/details?id=se.codeunlimited.discgolf.pro",
+    "histogram": {
+        "1": 7,
+        "2": 5,
+        "3": 4,
+        "4": 5,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/2p2Icz5EKHBULe8xx7-Gptk8UHyZWGWQB0fRDH8xkcNmbzgtFOcf17lAvzNO5xoEtJ1n=h310",
+        "//lh5.ggpht.com/WRObeNfwYPLKS2rQefumRljURxRWUe3j-G1WHoMNN-x1WdIcLkNacz6qEuAJLTFn468=h310",
+        "//lh3.googleusercontent.com/cwlzIpMysUCJOYNS9RUkGAxf8BJyeEqa0yBiZBrtuw1glUASLXInmnYRcPqPezlaZ5A=h310"
+    ],
+    "comments": [
+        "Not working on Sony smart watch 3 anymore",
+        "Huawei watch with Android wear 2.0 and the light version installed on OP3 not working. Watch saying just \"loading games\" without anything happening. Please fix.",
+        "Huawei Watch with Android Wear 2.0 and the pro version installed on a OnePlus 3T. The Android Wear 2.0 version only says \"loading games...\" without anything happens.",
+        "Doesn't sync with phone",
+        "Won't sync score with phone I've installed disc golf lite, upgraded it to pro, on my phone and installed the wear version for my Urbane 2. I'm able to set up a game on my phone and bring it up on my watch. I'm then able to put scores in. But at the end, when I lock the game, nothing further happens. My phone shows an empty score card while my phone shows a locked game. Nor sure if I'm missing a step or if there is a problem.",
+        "Nice update It is pretty awesome that I suggest being able to switch players from the top of the screen and the app gets updated with that functionality a couple of weeks later.  And thanks for the ambient mode support also. You guys rock!"
+    ],
+    "recentChanges": [
+        "Downgrading library versions to try and fix a problem with Sony Smartwatch 3 where the app is missing in the watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.codeunlimited.discgolf.wear&hl=en&gl=us",
+    "appId": "se.codeunlimited.discgolf.wear"
+}

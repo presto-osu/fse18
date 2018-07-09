@@ -1,0 +1,57 @@
+{
+    "title": "PC Quick Commands",
+    "summary": "PC Quick Commands is a simple app to send important commands to your PC.",
+    "icon": "//lh3.ggpht.com/la9_SBgm-2dOJuS9WclE5lGcaCt8_-0lN5je_xUN7f0ASK-nhsmy4epp7B8hJdbKhw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.4,
+    "reviews": 176,
+    "developer": "Suyash Srijan",
+    "developerId": "Suyash+Srijan",
+    "developerEmail": "suyashsrijan@outlook.com",
+    "developerWebsite": "http://www.suyashsrijan.com",
+    "developerAddress": "Dorset House,\nLondon Road, Headington\nOxford, OX3 7FT,\nUnited Kingdom",
+    "updated": "September 10, 2014",
+    "version": "1.4",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "PC Quick Commands is a simple app to send important commands to your PC. You can control your PC (or laptop) using this app! It's not a keyboard/mouse replacement, but a really straightforward and easy to use app to lock/ shutdown your PC or even run an app. It only requires a working network connection (unlike other apps that require Bluetooth or connection to the same WiFi network) so you can remotely control your PC from anywhere. It's beautifully designed, supports Android 4.0+ (2.3 support soon) and is completely free (NO ADS). Featured on many sites like XDA and Virtuaniz: http://www.xda-developers.com/android/use-your-android-device-as-a-remote-controller-for-your-pc, http://www.virtuaniz.com/2014/04/control-pc-remotely-using-pc-quick-commands/Commands supported as of now:- Restart- Shutdown- Log off- Suspend/Sleep- Hibernate- Run command (like, ping www.google.com)- Run application command (like, chrome.exe)- Custom commandOperating system support: Windows (XP/Vista/7/8/8.1)More commands will be supported soon!IMPORTANT NOTE: Requires client app to be installed on your PC/Laptop to function properly: You can download it from here: http://goo.gl/d0IXe6In case you are having connectivity issues, please make sure you add the application to the Windows Firewall exception listThis is a BETA app so things are not guaranteed to function properly every time. I am working hard to add more commands and iron out the bugs.",
+    "descriptionHTML": "PC Quick Commands is a simple app to send important commands to your PC. You can control your PC (or laptop) using this app! It&apos;s not a keyboard/mouse replacement, but a really straightforward and easy to use app to lock/ shutdown your PC or even run an app. It only requires a working network connection (unlike other apps that require Bluetooth or connection to the same WiFi network) so you can remotely control your PC from anywhere. It&apos;s beautifully designed, supports Android 4.0+ (2.3 support soon) and is completely free (NO ADS). <br><br>Featured on many sites like XDA and Virtuaniz: http://www.xda-developers.com/android/use-your-android-device-as-a-remote-controller-for-your-pc, http://www.virtuaniz.com/2014/04/control-pc-remotely-using-pc-quick-commands/<br><br>Commands supported as of now:<br><br>- Restart<br>- Shutdown<br>- Log off<br>- Suspend/Sleep<br>- Hibernate<br>- Run command (like, ping www.google.com)<br>- Run application command (like, chrome.exe)<br>- Custom command<br><br>Operating system support: Windows (XP/Vista/7/8/8.1)<br><br>More commands will be supported soon!<br><br>IMPORTANT NOTE: Requires client app to be installed on your PC/Laptop to function properly: You can download it from here: http://goo.gl/d0IXe6<br><br>In case you are having connectivity issues, please make sure you add the application to the Windows Firewall exception list<br><br>This is a BETA app so things are not guaranteed to function properly every time. I am working hard to add more commands and iron out the bugs.",
+    "histogram": {
+        "1": 40,
+        "2": 18,
+        "3": 24,
+        "4": 28,
+        "5": 66
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/Icjw88NYAE802wRDEs6lBG6MCfE-pWFbw5qbi4lKHyi8psiT8wsi0ZwGizCMiDE0mA=h310",
+        "//lh6.ggpht.com/qbXm3FyIsrVtr4ukp3j7wio8JltsquNVlapS1IkkmyiJQ0cUSd9MRKAZ7Zl1VI8wRig=h310",
+        "//lh3.ggpht.com/nR9JMTm73e42ZMDGF-hSvFpYZte84DtaK3x85F30CO34eZuCvEFP2KmgrcFvAYwt5BQV=h310",
+        "//lh6.ggpht.com/KCzRFWOTBwHK1JIkkywgFKzRLR604opxgMxZDvZnzsoAumK0gH2iyUyxcCsh5S6uYg=h310",
+        "//lh4.ggpht.com/BQiD4KMzanmpFBaLnMEaAlN4VUlvjXTLO53w0n9l9xNAR1qtlsJ60TyeYvali-UcKl0=h310",
+        "//lh5.ggpht.com/fT7aWn-tHaVLV_jJRxhwcCa9kC1HDitVn22sFy34gQGPmnLaQ-02nKmuaS04Qh_d-vs=h310",
+        "//lh5.ggpht.com/Q4Kk9PGlXAP41yw89LsSfUOepmMyRkqvtIYKZSEUBUZtaZxqyl7f3akdBhzbQUG1rg=h310"
+    ],
+    "comments": [
+        "404 exception on server app Does not work, as soon as I run Android app with server running, I get .NET exception window opening one after the other with error 404 cannot be found.",
+        "Actually, the idea of creating an account to be able to connect is not that good. I do not trust this. The idea of using it only in LAN is way better....",
+        "Such an awesome idea.. But the app stops working at the 'enter unique username' screen. :-( please fix!",
+        "Created exception pop-ups and crashed computer App doesn't work and sent my computer into an error loop. After about a minute my computer turned off. Not sure I would trust this application.",
+        "No computer app Download link for computer side app is broken and seems to have been for some time. Does not work.",
+        "I.. can't trust this enough to install the PC side, because the lack of any network settings doesn't make sense. Maybe your using multicast, but how about advanced settings for those us who need to see the magic? Feedback on the UI: the first screens buttons disappear when in landscape & when you enter a name the text should be white like the prompt, the black is hard to read. A single updated URL for the PC side would make things easier & less ominous. Would &lt;3 see refine, perhap you take donation?"
+    ],
+    "recentChanges": [
+        "- More bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ssrij.pcqc.pcquickcommands&hl=en&gl=us",
+    "appId": "ssrij.pcqc.pcquickcommands"
+}

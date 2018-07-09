@@ -1,0 +1,52 @@
+{
+    "title": "3D Blueprint Watch Face",
+    "summary": "Technically drawn 3D watch face for Android Wear.",
+    "icon": "//lh3.googleusercontent.com/ydAc1O5jDBFAO6guNJMZQPiy2_9l0Iew0ZUjPWeRhqQDQZZkONMYo_CFKwXH5EPoEeZd=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3,
+    "reviews": 2,
+    "developer": "ATEKTURA/",
+    "developerId": "5566278677903777243",
+    "developerEmail": "contact@atektura.watch",
+    "developerWebsite": "http://atektura.pl",
+    "developerAddress": "Monte Cassino 25/2\n70-467 Szczecin, Polska",
+    "updated": "March 21, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Feel the depth of this 3D blueprint-style watch face.Enjoy synchronously floating layers with every wrist move.Read time with either analog or digital time representation.Battery status included.Designed for Android Wear.Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.ATEKTURA Watch Faces on Google+https://plus.google.com/u/0/b/106084399129186124597/106084399129186124597/posts",
+    "descriptionHTML": "Feel the depth of this 3D blueprint-style watch face.<br><br>Enjoy synchronously floating layers with every wrist move.<br><br>Read time with either analog or digital time representation.<br>Battery status included.<br><br>Designed for Android Wear.<br>Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.<br><br>ATEKTURA Watch Faces on Google+<br>https://plus.google.com/u/0/b/106084399129186124597/106084399129186124597/posts",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/48zP6gKADnHQJ32JXfKnJlDnwEAyk_9LQ56iXps5qNbhqP_y0oKAYaVEey9Lnf5_VrQ=h310",
+        "//lh6.ggpht.com/RObKiaMaVicLrP2he-EzTu2XOe0PazNle6BCi4meE3X_YhxaBoDwpejGWiOvsDKqyA=h310",
+        "//lh6.ggpht.com/BcLj54LbtFOlwEpaJ4ItM3rDx7a8knZGIhQ5xiNoXseE6LgOcoS2S552HGPWhVTTfKoH=h310",
+        "//lh3.googleusercontent.com/C_iMWc3dgK1pRBsjVDHkRhkQMQ7wP4Wn6kM5L6yeug9ACmFQMp4qGSO7bQCxT6Cwn3gY=h310",
+        "//lh3.googleusercontent.com/R2-rCEinzOkS2DSb4zlkfBFoYJf1DXi8qh6lSu97T88PT8eKEFut3y_r5TFpkGFzCgA=h310"
+    ],
+    "comments": [
+        "Not good on Moto 360 Too much movement sadly knocking a lot of the display off the bottom. No settings to be able to make changes."
+    ],
+    "recentChanges": [
+        "1.0.1",
+        "- Rendering fixes,",
+        "- Improved accelerometer and 3D smoothness."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.atektura.blueprintwatchface&hl=en&gl=us",
+    "appId": "com.atektura.blueprintwatchface"
+}

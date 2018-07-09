@@ -1,0 +1,60 @@
+{
+    "title": "Textual Watch Face Lite",
+    "summary": "A text-based watch face with crisp designs.",
+    "icon": "//lh4.ggpht.com/URO8GUXjCml5M6w9ZaAdXloV3tcKVDQOKFG2lieu_hnDLx_ZAwcP9TrCSVa1qmadBxM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 463,
+    "developer": "Andreas Schosser",
+    "developerId": "Andreas+Schosser",
+    "developerEmail": "support@timefaces.com",
+    "developerWebsite": "http://www.timefaces.com/textual",
+    "developerAddress": "Timefaces\nDanziger Platz 4\n60314 Frankfurt am Main\nGermany",
+    "updated": "February 6, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Instead of traditional watch hands and digits, this watch face comes with a text-based time representation. Looking at the clock shows up ‘quarter to seven’ instead of ‘6:45’.Textual Watch Face Lite includes:- a watch face for smart watches (Android Wear)- a homescreen widget for smart phones",
+    "descriptionHTML": "Instead of traditional watch hands and digits, this watch face comes with a text-based time representation. Looking at the clock shows up &#x2018;quarter to seven&#x2019; instead of &#x2018;6:45&#x2019;.<br><br>Textual Watch Face Lite includes:<br>- a watch face for smart watches (Android Wear)<br>- a homescreen widget for smart phones",
+    "histogram": {
+        "1": 27,
+        "2": 14,
+        "3": 45,
+        "4": 85,
+        "5": 292
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Hu1UqPpDKUEu0rB6GRX5Ei_wgPkHjWFpkSEHr3kIdO2QsjRl08vloZa_x4GGgEdwp78=h310",
+        "//lh3.googleusercontent.com/HpPn-QjgXRn8Ed3qTtNek3ulsVrwgRFFsZHqUTdjixy0ZC77zDxOriBOx_9j8K2QQfWY=h310",
+        "//lh3.googleusercontent.com/M-4O6e2AmXF_3d4KB22ELNkLAFKGto7pu1B-Ukz9Y7wywJH7w3pYhb-jgEh5zJtNlg=h310",
+        "//lh3.googleusercontent.com/_KEqoHTn3XZQuS_8rAI2P6D5yQA944HGztFencV8A4olbMv8NoG1fl_E6RfR4YcwZg=h310",
+        "//lh3.googleusercontent.com/k8w6mwbWM9MpiwBbNru7-yDLuqv1kVtj3MPXPlYPE9S4EmtScMViWo_I4yQZCW0Gbudg=h310",
+        "//lh3.googleusercontent.com/Z-FgPPKbu1n2s_78fBZ32TAY7XDqFz9xG8MKGSgs1j3HkiPyJ8ChzrPy5mPAH0sb0q2B=h310",
+        "//lh3.googleusercontent.com/KIqxIVFAIYiufOsACHs5hl48oWSH2teUJeuvSrK_mjZQ2fQsz1281PRoZ4jnw9DmvA=h310"
+    ],
+    "comments": [
+        "It won't appear on watch or Android wear app unless you install it using watche's app center. Probably a fault with Android Wear 2.",
+        "Very cool and clean watch face! Needs some work on wording in greek. Let me know how I can help remedy that.",
+        "Watch faces with the time read in a literal fashion.",
+        "Very nice if had few more choices such as colours",
+        "Doesn't show up on the watch or the app.",
+        "Super clever idea, and looks amazing"
+    ],
+    "recentChanges": [
+        "- added language pack for Catalan (thanks to Javi)",
+        "- improved language pack for Italian (thanks to Andrea)",
+        "- fixed issues with 2,7\" smart phone displays"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.timefaces.textual.lite&hl=en&gl=us",
+    "appId": "com.timefaces.textual.lite"
+}

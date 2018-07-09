@@ -1,0 +1,58 @@
+{
+    "title": "Valencia Valenbisi",
+    "summary": "Valencia Valenbisi, bikes in Valencia",
+    "icon": "//lh4.ggpht.com/12hCKz0moOBXcMv3H2jEi9puEE-p_Gy9Tbq8s9USERw5Z4ZP1_VPFNWra9hygHHaPzw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.6,
+    "reviews": 221,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.valenbici@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Valencia Valenbisi is a tool allowing you to view the status of bike stations Valenbisi networks, of Valencia. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or nameYou can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Valencia Valenbisi is a tool allowing you to view the status of bike stations Valenbisi networks, of Valencia. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 7,
+        "4": 60,
+        "5": 152
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6IP-MlfNGx_8Wg-8jVoCdchur5ECgj5CQhMMOCkM2kIAgxYEyEDqflx69MWlJk-gdS4=h310",
+        "//lh3.googleusercontent.com/sPNgE724QA9Ysj4Z5XMoQ0aMMo5Q8lau9n6a0QkRJ75j590mnoQY76pCzmNlvm_bVdPi=h310",
+        "//lh3.googleusercontent.com/xAmPuw-lIK2BrXMH4MAgGwX2_-ZlCD5JEKu3g8_RMIUzlgEAr0q-BLfUdPiOPDG-2Ek=h310",
+        "//lh3.googleusercontent.com/Y0sH0VQUcI2BRcR3IDNQjnlsD2boXmzOWkYYaM0MUbT6phQjK8iJlPHjK9tzfU8S1X0=h310",
+        "//lh3.googleusercontent.com/6kzYDh4Lb9eUu7BzwVeqT3nEPckegYLqD5QMDtoJnc0XRTT04mhJvHUpaEXSR4ZDsA=h310",
+        "//lh3.googleusercontent.com/21utYE7qzyiYKy_HtfGI6OhX_864cudHDzWOK4b9a19YnI3OwZHNTDGubo_rAsh4B4U=h310",
+        "//lh3.googleusercontent.com/PUvP28I_5lAngoKzqQswoYsR_1YyUcUave58pTjwIoyG7dbsRidsgQA8FmhT6-A0rsg=h310",
+        "//lh3.googleusercontent.com/0t39LfiR4HhxLYULcfoagAefUp82pl2FJ8QNLWu6ed2tyFEcnOCaMrOaScKDQAkSkA=h310"
+    ],
+    "comments": [
+        "Very useful, accurate and simple. Love it",
+        "Needs ux improvements but otherwise it's great.",
+        "Accurate and easy to use!",
+        "It is not correct but more or less. I will not underestimate work of somebody so I give half points",
+        "Useful! Pretty good. I really loke it. But it should have a shortcut to enable/disable the location in despite of asking everytime",
+        "Very accurate."
+    ],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.valenbici.view&hl=en&gl=us",
+    "appId": "com.michgauz.valenbici.view"
+}

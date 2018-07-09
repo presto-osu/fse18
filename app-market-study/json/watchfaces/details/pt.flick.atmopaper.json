@@ -1,0 +1,53 @@
+{
+    "title": "atmo Paper Watchface",
+    "summary": "A classic and timeless watch experience, straight into your smartwatch.",
+    "icon": "//lh3.googleusercontent.com/3HAG_jw1Kyr8-jxhAZNksnp9mcAjVrAlbDUxsemF2PRV_QuwDKqQQULgUjGzJmhB=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4,
+    "reviews": 16,
+    "developer": "flick",
+    "developerId": "flick",
+    "developerEmail": "support@flick.pt",
+    "developerWebsite": "https://plus.google.com/u/0/+Jo%C3%A3odeLouren%C3%A7o/",
+    "developerAddress": "Rua Baluarte do Socorro, 2900-262 Setúbal, Portugal",
+    "updated": "May 25, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "The atmo Paper watchface brings a classic and timeless watch experience straight into your Android Wear watch.Detail oriented and pixel perfect - it's an atmo.Black and White Version, for both square and round devices, with custom coloring of the seconds pointer.Support me on Patreon: https://www.patreon.com/siniux",
+    "descriptionHTML": "The atmo Paper watchface brings a classic and timeless watch experience straight into your Android Wear watch.<br>Detail oriented and pixel perfect - it&apos;s an atmo.<br><br>Black and White Version, for both square and round devices, with custom coloring of the seconds pointer.<br><br>Support me on Patreon: https://www.patreon.com/siniux",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 4,
+        "4": 4,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/L-yc8qaQwjEPUelhHg8uZPrPOeSrplHrXbrnSK7dwfNpipQLe-QvCpO1AjQQ9IPHdQ=h310",
+        "//lh4.ggpht.com/BtCX8q1akZAFQsArQBzigKC83yOjHNcsNjCj2wg8w83yABqyNjzfxhV70JJaxpOEu98=h310",
+        "//lh5.ggpht.com/MbWqLAP3gptqQEUfGeGed9gpal3l7JwYoKHqZWE1LTiNESZNMkBfIAximg8-l8ZJlqM=h310"
+    ],
+    "comments": [
+        "Love the clean design. However, recently I am unable to pull up day of month. It only shows name of month, with the day of month so small you can't read it. Please bring back the option to have just the day of month -- as shown in your Google Play description examples.",
+        "Well designed The atmo faces look nice and are well designed.  Support for card previews in ambient mode would be nice.",
+        "Good, graphical issue The center square covers the atmos logo. Other than that, great face!",
+        "Something that makes my watch looks like a watch",
+        "5 sstars if the logo is not covered The atom logo is covered, plz fix it."
+    ],
+    "recentChanges": [
+        "Added support for 3rd party Complications."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pt.flick.atmopaper&hl=en&gl=us",
+    "appId": "pt.flick.atmopaper"
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Hexawatch - Watch Face",
+    "summary": "An artistic way to read the time, easy when you know how",
+    "icon": "//lh3.googleusercontent.com/im-i3hCKfeyyFVL5z0uSR76N7sraWtUWRZNhs7e2NYdpsTx2dslk8kqG0G3R9SaDeQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.8,
+    "reviews": 4,
+    "developer": "Nilhcem",
+    "developerId": "6143838994791133307",
+    "developerEmail": "nilhcem@gmail.com",
+    "developerWebsite": "http://www.nilhcem.com",
+    "updated": "April 9, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "How to tell the time?• The 12 triangles around the outside of the clock indicate hours (from 1 to 12) in the same position as in a conventional clock• The 6 large triangles at each side of the inner hexagon indicate the first digit of the minutes (0X, 1X, 2X, 3X, 4X, 5X)• The digit displayed at the center of the hexagon is the last digit of the minutes (0 to 9)How to change the theme colors?Select Hexawatch from the Android Wear app on your phone and click on the cog-wheel to launch the settings screenAbout Hexawatch:• Free• No ads• Battery friendly• Respect your privacy (no permissions, no trackings)• Preserve your watch screen (prevent burn-in, ambient & low-bit support)• Circular & square layouts• Source code available on github",
+    "descriptionHTML": "How to tell the time?<br><br>&#x2022; The 12 triangles around the outside of the clock indicate hours (from 1 to 12) in the same position as in a conventional clock<br>&#x2022; The 6 large triangles at each side of the inner hexagon indicate the first digit of the minutes (0X, 1X, 2X, 3X, 4X, 5X)<br>&#x2022; The digit displayed at the center of the hexagon is the last digit of the minutes (0 to 9)<br><br><br>How to change the theme colors?<br><br>Select Hexawatch from the Android Wear app on your phone and click on the cog-wheel to launch the settings screen<br><br><br>About Hexawatch:<br><br>&#x2022; Free<br>&#x2022; No ads<br>&#x2022; Battery friendly<br>&#x2022; Respect your privacy (no permissions, no trackings)<br>&#x2022; Preserve your watch screen (prevent burn-in, ambient &amp; low-bit support)<br>&#x2022; Circular &amp; square layouts<br>&#x2022; Source code available on github",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/kWlsD2QyUZ440gZDdBxaObQT10vuZYMDfuSMjNtbkNpdu6iDAf4-rRofzqgXCc3CxKg=h310",
+        "//lh3.googleusercontent.com/VEuv45W3GKFPC6FM6YxajrvlITvQZ--WcTGCHCGuAhCThDFuo0FC5y__6UhXLaErJXY=h310",
+        "//lh3.googleusercontent.com/n1byV4EdkBY8gHqi9XK-DCCPjekOLxeZWZfgNdr7cPxlQ7TIYrrgD0-QShPw6Bl4Sp0=h310",
+        "//lh3.googleusercontent.com/_1yCDD71_g-JCb1det6qTESeoq13Ku2wFMdPYNta4hQRlZzovoID5Dz2ftwd5hg5YEU=h310",
+        "//lh3.googleusercontent.com/KyK59dhoPeyxSFpCDCdp19hl-TzBdfc8NobxpwVEOp5iISPHylowPffreC87L7mhugjw=h310"
+    ],
+    "comments": [
+        "Very cool I think you should throw some credit to Kisai though.",
+        "Cool color picker"
+    ],
+    "recentChanges": [
+        "Add compatibility + standalone app for Android Wear 2"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nilhcem.hexawatch&hl=en&gl=us",
+    "appId": "com.nilhcem.hexawatch"
+}

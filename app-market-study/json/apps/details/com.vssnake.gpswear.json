@@ -1,0 +1,53 @@
+{
+    "title": "Wear Maps Gps Info",
+    "summary": "Check Position Data and Map Location with your android Wear.",
+    "icon": "//lh4.ggpht.com/28D4FiNFX2yj-_30bJywuelc_dYlsYQn9itSPxjDb5kXw6r9IaKUifwOo6Mn0pUqYzmS=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.1,
+    "reviews": 72,
+    "developer": "Unai correa cruz",
+    "developerId": "Unai+correa+cruz",
+    "developerEmail": "unaicorreacruz@gmail.com",
+    "updated": "January 30, 2015",
+    "version": "1.1",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Check your gps data and satellite info (If you don´t have a smartwatch with gps the satellite data don´t show).*****Announces*****I have been reported an error with multitouch on ZenWatch. Some features might don't work well.*****Features*****-Show Location-Move, zoom in, zoom out the map.-Navigate in 7 diferents maps.*****Instructions*****+In Gps Data View:  -Window swipe left to change to Map View+In Map View:  -Move in the Map with Fling  -Double Tap to Zoom  -Zoom out : One tap with two Fingers.  -Show Menu: Long Tap with Two Fingers.  -Return Gps Info: In Menu swipe right.  -Exit app: Long tap---------------------------------------------------------------+Upcomming features:  -Tutorial in smartWatch  -Arrow Navigation.The implementation of maps is made with a custom modification of android MapBox sdkThis is a concept app don't expect a full map app.Source Code https://github.com/vssnake/GpsWear",
+    "descriptionHTML": "Check your gps data and satellite info (If you don&#xB4;t have a smartwatch with gps the satellite data don&#xB4;t show).<br><br><b>*****Announces*****</b><br><br><b>I have been reported an error with multitouch on ZenWatch. Some features might don&apos;t work well.</b><br><br><b>*****Features*****</b><br><br>-Show Location<br>-Move, zoom in, zoom out the map.<br>-Navigate in 7 diferents maps.<br><br><b>*****Instructions*****</b><br><br>+In Gps Data View:<br>  -Window swipe left to change to Map View<br><br>+In Map View:<br>  -Move in the Map with Fling<br>  -Double Tap to Zoom<br>  -Zoom out : One tap with two Fingers.<br>  -Show Menu: Long Tap with Two Fingers.<br>  -Return Gps Info: In Menu swipe right.<br>  -Exit app: Long tap<br><br><br>---------------------------------------------------------------<br><br>+<b>Upcomming features</b>:<br><br>  -Tutorial in smartWatch<br>  -Arrow Navigation.<br><br>The implementation of maps is made with a custom modification of android MapBox sdk<br><br><b>This is a concept app don&apos;t expect a full map app.</b><br><br><b>Source Code </b><br>https://github.com/vssnake/GpsWear",
+    "histogram": {
+        "1": 7,
+        "2": 4,
+        "3": 6,
+        "4": 16,
+        "5": 39
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/2GktCSpwX9A-c_vcWx9v0S7GNabVE4lKL8wSc7GhehH1Ka0h4ejQzN9lBf-JV7tVMQ=h310",
+        "//lh3.ggpht.com/I9LNtodfrFw25j2giHG2nPOqhyWR9LcE08VbR5qf3Ui4MLChMwugWuWPDhIO4DRlCuY=h310",
+        "//lh3.ggpht.com/2kU1WzVqBMsmmOfPlHtdTRlA6BzvjjuIe1y5nbWs-fOSX32t4A_6L0cfW3-Sby2zehZG=h310"
+    ],
+    "comments": [
+        "Pretty cool I like it, and I understand it's a concept app, I just have one suggestion, it'd be great if the map started already zoomed in on my location to an usable level rather to having to tap repeatedly every time, that's all. Apart from that, it's all good",
+        "danny schiffelers it don`t  works on my moto 360 every time i try android wear crasches",
+        "Good app but could do with telling you location data in other formats I.e. British Grid",
+        "Works well with sony SmartWatch 3",
+        "Just what I was looking for!",
+        "Love it Please add option for miles per hour."
+    ],
+    "recentChanges": [
+        "-New menu for non multitouch SmartWatches",
+        "-Optimize apk size",
+        "-Performance Improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.vssnake.gpswear&hl=en&gl=us",
+    "appId": "com.vssnake.gpswear"
+}

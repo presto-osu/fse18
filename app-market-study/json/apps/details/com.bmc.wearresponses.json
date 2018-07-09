@@ -1,0 +1,63 @@
+{
+    "title": "WearResponses",
+    "summary": "Reply to SMS messages in a new way on your Android Wear device!",
+    "icon": "//lh4.ggpht.com/F9YgxAiajGUgbzw9JdOQo1XGdm81pV0N2n-aEowMd5jwzYQAmbB_e-HxFRqu6PIr--s=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.4,
+    "reviews": 140,
+    "developer": "Brandon McAnsh",
+    "developerId": "Brandon+McAnsh",
+    "developerEmail": "support@brandonmcansh.com",
+    "developerWebsite": "http://brandonmcansh.com/wearresponses",
+    "developerAddress": "11151 Manchester\nWashington, MI 48094",
+    "updated": "July 15, 2015",
+    "version": "2.3.2",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "WearResponses allows you to respond to SMS messages on your Android Wear device, with the responses of your choice. No longer be limited to the few responses that your SMS applications provide you; reply with whatever you do on a regular basis, thus allowing you to get back to your life and enjoy every minute of it.Translate WearResponses to your native language: https://wearresponses.oneskyapp.comReport bugs (NOT crashes, I get reports for that automatically) and request features on the issue tracker [https://bitbucket.org/bmcansh/wearresponses/issues?status=new&status=open].** Free version is limited to three (3) canned responses **With the purchase of the Unlocker, you gain access to the following:* Ad-free experience* Unlimited canned responses* Create a new canned response directly from your Android Wear device* Send an SMS to any contact on phone, with any of your canned responses; all without saying a word!* Call any contact on phone directly from your Android Wear device",
+    "descriptionHTML": "WearResponses allows you to respond to SMS messages on your Android Wear device, with the responses of your choice. No longer be limited to the few responses that your SMS applications provide you; reply with whatever you do on a regular basis, thus allowing you to get back to your life and enjoy every minute of it.<br><br>Translate WearResponses to your native language: https://wearresponses.oneskyapp.com<br><br>Report bugs (NOT crashes, I get reports for that automatically) and request features on the issue tracker [https://bitbucket.org/bmcansh/wearresponses/issues?status=new&amp;status=open].<br><br>** Free version is limited to three (3) canned responses **<br><br>With the purchase of the Unlocker, you gain access to the following:<br><br>* Ad-free experience<br>* Unlimited canned responses<br>* Create a new canned response directly from your Android Wear device<br>* Send an SMS to any contact on phone, with any of your canned responses; all without saying a word!<br>* Call any contact on phone directly from your Android Wear device",
+    "histogram": {
+        "1": 23,
+        "2": 24,
+        "3": 17,
+        "4": 29,
+        "5": 47
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LHy48MN7mpm4vpD6TGyl2rGDfv3DGQZk-0jOJby7I77m0X3LBNv8t-V-BSAzPFRiSgg=h310",
+        "//lh3.googleusercontent.com/mlCNqJJaEtDwzS2AC9DJYmzt7Zsad_z6caY1mzV360FpvZ-Y9LU1dClixbuW0GiH8kQ=h310",
+        "//lh3.googleusercontent.com/S2pLIJyxDmgbRU91B3mNMEeCpst_YgXEOScdyO3w9J-w7WdoOHdNvHB3jMKqz3uuczA=h310",
+        "//lh3.googleusercontent.com/v3O6a8j0GrjbTEEaPLSISeFNFCESWi6nq_xMVxt5RkRJ_YAbqUtFPRkpAoShcVL1O4AD=h310",
+        "//lh3.googleusercontent.com/HWE0IrKzMkMX3TLplFAw5SnXLeJuBFUYwJ02j7qyY95OjtDdy70rprFilzOcOEutJSY=h310",
+        "//lh3.googleusercontent.com/kpL64WDPj_dS9dEWXjGIOLmsWv6bjlsGVRNAVlqPjvAfP3mBWkJyJrlfF9GJwJqX3HM-=h310",
+        "//lh3.googleusercontent.com/V6cRjlNJc7EA5tJeFxiIc-MZdbWW5uuBGZRzix4fxEoPshtzybZxzpZsSPPcsUJN3A=h310"
+    ],
+    "comments": [
+        "Nice Android Wear Addition,  But. . . The functionality this app provides should have been available in OEM Android Wear to begin with.  This is a welcomed app.  However,  it still has problems. Even with the paid app,  I can only see my canned phrases during replys only. These are not visible or available for new text messaging. Fix this & would be worth 5 stars.",
+        "Looks good and functions OK at first... Would be great if everything worked all of the time. Works for first time on my Zenwatch 2 but then responses fail to show up on the watch. Tried uninstalling and reinstalling and again, worked the first time but then canned responses dropped off.",
+        "Pay walls so high I can't even try the app Nice idea, but with other similar and cheaper apps out there, you just want to wait for coffee, talkey or Android to implement the \"add frequently used replies\" function. I've noticed this trend of making wearable apps more expensive than the smartphone ones. Maybe people think that if you are going to shell out 300bucks for a watch, it means you're rich (and stupid) enough to buy every app that adds a basic function to it so you don't have to wait 2 months for an update. It needs a 2weeks trial version.",
+        "Does not work at all. This isn't my first rodeo so I know how to use the app. Plain and simple, it doesn't work. Might be an Android Wear 2.0 thing. Please fix or give me a refund.",
+        "Broken This app does not work at all on my Huawei Watch and Nexus 5 phone (both running marshmallow). I ran the app on my phone, setup some canned responses, made sure the app was enabled in the settings, but when I get a text message (through Hangouts via Google Voice) it never shows the notification on the Watch, just shows the stock text card with stock canned responses like before.",
+        "Good but Whenever I have 2 convos going on the watch will only send messages to one person not the other please fix asap"
+    ],
+    "recentChanges": [
+        "* Bug fixes",
+        "* Performance improvements",
+        "* Feature! Initial backup & restore functionality",
+        "* Feature! new theme, material design elements, and color palette",
+        "* Improvement! Analytics v4",
+        "* Bugfix! Update LVL to possibly reduce verification errors",
+        "NOTE: The purchase of the WearResponses Unlocker now also removes ads."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bmc.wearresponses&hl=en&gl=us",
+    "appId": "com.bmc.wearresponses"
+}

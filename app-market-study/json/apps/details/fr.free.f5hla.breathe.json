@@ -1,0 +1,57 @@
+{
+    "title": "Breathe for Wear",
+    "summary": "Breathe helps improving your well being by advising you on how to breathe.",
+    "icon": "//lh3.googleusercontent.com/qLnHeAvkaOSSiZ0VA1tyh7fy5ejt2nKIUocQ78W83MH_oV0WnxGrPsu4R_wtp92oibU=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3.5,
+    "reviews": 6,
+    "developer": "f5hla",
+    "developerId": "f5hla",
+    "developerEmail": "f4hla@free.fr",
+    "developerWebsite": "http://f5hla.free.fr",
+    "developerAddress": "5 rue d'Assas, Paris",
+    "updated": "July 19, 2016",
+    "version": "1.0",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Breathe is a mindfulness app that will help you feeling better and more relaxed. Just launch it on your Android Wear smartwatch and synchronise your breath with the picture: for better concentration, a gentle vibration will also let you know when to inflate and when to blow.Try practicing 1 minute to get the boost of a cup of coffee.WARNING: this is an Android Wear ONLY application - it does nothing on your phone.",
+    "descriptionHTML": "Breathe is a mindfulness app that will help you feeling better and more relaxed. <br>Just launch it on your Android Wear smartwatch and synchronise your breath with the picture: for better concentration, a gentle vibration will also let you know when to inflate and when to blow.<br>Try practicing 1 minute to get the boost of a cup of coffee.<br><br>WARNING: this is an Android Wear ONLY application - it does nothing on your phone.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/tYRwl5SItafgrqPcCq_gBe8cWEUQW5KxmiHcDjrvpSPySX2k_gn43kIhSM6eBso7eZ9Y=h310",
+        "//lh3.googleusercontent.com/7DnxmLJOwocod0DnMktJfUk5qfowOARqZPn5bPeHsB0iPCei4Xem6ekryTgsPIT1R5E8=h310",
+        "//lh3.googleusercontent.com/p6mXMW5giKe4cufsWHF23L1ffuNuVGIZ9C9UrmDjPszjc-0G1-YEJ8snrT5rbsNXQQ=h310",
+        "//lh3.googleusercontent.com/iFnyOZViQQe8sVARhdsnSi-yfnEkNnmDno34-j83OtvdVOX2hGYqXqv8qCQigEJIPQ=h310",
+        "//lh3.googleusercontent.com/I5tgt1MI7ytEHlULhtsOh7ARV5GodppkPa_4PLfK7cGorC4fGqc0L_CHnwBNXTF1pT8=h310"
+    ],
+    "comments": [
+        "Great but not optimised well Perfect in principle and very similar to Apples version. However, it isn't optimised for round watches, and android just displays a off centre square around it. Some of the animations are not smooth either. I love it but needs some improvement. Should also have some sort of a time limit like others have said, and could deliver notifications when heartbeat was high.",
+        "please make it breathe for just 1 minute instead of indefinitely. then it tells me my BPM at the end. also my BPM is too high it says i'm riding high at 110 but in reality my BPM is around 70 according to other apps - cool as a cucumber. please fix.",
+        "Great little app Simple and effective"
+    ],
+    "recentChanges": [
+        "vc5",
+        "* improved user interface",
+        "* now provide choice for picture to be used as breath coach -- send me yours, I can include them!",
+        "vc4",
+        "* minor patch for square watch - especially low res displays",
+        "* packaging for Android Wear distribution"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fr.free.f5hla.breathe&hl=en&gl=us",
+    "appId": "fr.free.f5hla.breathe"
+}

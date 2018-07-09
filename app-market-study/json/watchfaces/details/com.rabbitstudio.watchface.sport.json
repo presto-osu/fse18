@@ -1,0 +1,47 @@
+{
+    "title": "Watch Face Sport",
+    "summary": "Sport Digital Design Watch Face for Android Wear clock",
+    "icon": "//lh3.googleusercontent.com/YgdQoides3-JkntEd91i7FXUjdrbqBh0E27XwxxX9kl8A5wuSaWTeJUCjvVktzjCRg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 11,
+    "developer": "Rabbit Design",
+    "developerId": "7611979703967153035",
+    "developerEmail": "rab4dis@gmail.com",
+    "developerAddress": "Minsk, Cherviakova 61-1",
+    "updated": "August 8, 2015",
+    "version": "1.4",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "Pimp your watch with Sport Flat Design Watch Face. Big electronic numbers. Clean and fast digital interface for everyday use.INSTRUCTION:1. Install Sport Watch Face2. Go to Android Wear Application3. Choose Sport Rabbit Design Watch Face4. Enjoy!The Sport watchface has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "descriptionHTML": "Pimp your watch with Sport Flat Design Watch Face. Big electronic numbers. Clean and fast digital interface for everyday use.<br><br>INSTRUCTION:<br><br>1. Install Sport Watch Face<br>2. Go to Android Wear Application<br>3. Choose Sport Rabbit Design Watch Face<br>4. Enjoy!<br><br>The Sport watchface has been tested on Moto 360, LG G Watch R, ASUS ZenWatch, Sony SmartWatch and other.",
+    "histogram": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 2,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NxNRx-1fpHG1YiqtEFpc24Gudgt8vW7H98Kh-qNQY00JRzbwTBDneWETjHz3BgwQQCs=h310",
+        "//lh3.googleusercontent.com/GRoBpdNaeAXMJtlGF8sof0ElxKrSYMSmjF6bXWkGxhDWaJ5Z0PnQyQhFS8w-AbQSIg=h310",
+        "//lh3.googleusercontent.com/P1OT6f9BmwlmBBOc2CPkgPkBOQNxVox1SzNW9eYLOKYzjlA8vAlHKki25b8uZsXqqiY=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "+ added ambient (dimmed) mode",
+        "+ some fixes for 280x280 and 320x320 displays",
+        "+ support for API 18+ devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rabbitstudio.watchface.sport&hl=en&gl=us",
+    "appId": "com.rabbitstudio.watchface.sport"
+}

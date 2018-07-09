@@ -1,0 +1,53 @@
+{
+    "title": "Daily Sequential Watch Face",
+    "summary": "Information all-arounder for daily routine.",
+    "icon": "//lh3.googleusercontent.com/KcUfiaG128eIv613VOijJTPCnopK4uNofqTcAE7Y29bxS9-CgHp6ZGsVbIyAF3qgbTM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.8,
+    "reviews": 4,
+    "developer": "Евгений Суворов",
+    "developerId": "%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2",
+    "developerEmail": "twssupp0rt@gmail.com",
+    "developerWebsite": "https://groups.google.com/d/msg/weardialer/xzhKcdy_6KI/Sc8qAx4mBwAJ",
+    "developerAddress": "119049, Москва, Ленинский проспект 2А",
+    "updated": "February 10, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "This watch face is designed as a dedicated information hub. It gathers all of the actual information in one convenient view: weather, battery values, step counter, pending notifications including unread messages and missed calls, even time left to the next calendar event with inbuilt activity that allows for a quick glance at next 10 events for the nearest month. When data item becomes obsolete (e.g. counter reaches zero or notification is dismissed) it is removed from view, since there is only finite amount of widgets that could be displayed simultaneously.Inspired by MCT Sequential luxury watch line, actual time display is surounding this data array: minutes are presented on an open ring, where gap serves to show off hour of the day. Minute \"horseshoe\" rotates counterclockwise every hour while minute arrow moves clockwise at 3/4 of normal speed, thus always being at the necessary place at relevant time. Minute ring allows to set besel-like under hour \"fire and forget\" timers just by tapping inner area of the minute ring, those will warn you with vibration when time is elapsed.Please note, that we are still looking for a design solution that will adopt round screens with \"chin\" while not hurting looks and functionality. Meanwhile, Moto 360 users are advised to set a fixed position for minute ring to avoid hours indicator being half-obscured at the six-o-clock position.Inner circle contains all of the information grouped in uniform gear widgets. Besides showing relevant data items they also provide several utility shortcuts: watch battery - to watch settings, step counter - to default running activity (can be changed in Android Wear settings on the phone), phone battery - to our another trinket weaRDialer if it is installed on your watch. To open inbuilt activity, that shows nearest calendar events, tap on the upper quarter of the inner circle (day - month and time left to next event area). To read notifications it's necessary to enable notification listener service.An inbuilt activity is started by tap on any notification related widget, which allows to view list and details (swipe left or tap list item) and dismiss notifications from watch (tap list item icon). Also there are details for weather view (forecast) and calendar events (location and description). In any of the detailed view, if there's a phone number found within text, it will be highlighted and becomes clickable, clicking the phone number will invoke either native system dialer or weaRDialer if it is installed on your watch. If there's a location set for a calendar event, then clicking on it will start google maps in a walking navigation mode.Settings can be configured at the dedicated companion activity on the phone, which also features interactive watch face preview (excluding watch specific shortcuts). Application is created in such way, that turning off most of the interface elements either disables relevant block in data aquisition service, or lowers screen update frequency, providing better battery consumption on watch, thus it is recommended to experiment with settings to find appropriate combination of battery life, informativity and looks for your specific device. Default settings are optimized for Sony SmartWatch 3 always-on usage scenario.Application is presented as a full-functional trial version, test period is 7 days long. After that you may either thank developer using in-app purchase to get trial-free application associated with your Google account, or feel free to reinstall application as many times as you like to continue testing.",
+    "descriptionHTML": "This watch face is designed as a dedicated information hub. It gathers all of the actual information in one convenient view: weather, battery values, step counter, pending notifications including unread messages and missed calls, even time left to the next calendar event with inbuilt activity that allows for a quick glance at next 10 events for the nearest month. When data item becomes obsolete (e.g. counter reaches zero or notification is dismissed) it is removed from view, since there is only finite amount of widgets that could be displayed simultaneously.<br><br>Inspired by MCT Sequential luxury watch line, actual time display is surounding this data array: minutes are presented on an open ring, where gap serves to show off hour of the day. Minute &quot;horseshoe&quot; rotates counterclockwise every hour while minute arrow moves clockwise at 3/4 of normal speed, thus always being at the necessary place at relevant time. Minute ring allows to set besel-like under hour &quot;fire and forget&quot; timers just by tapping inner area of the minute ring, those will warn you with vibration when time is elapsed.<br><br>Please note, that we are still looking for a design solution that will adopt round screens with &quot;chin&quot; while not hurting looks and functionality. Meanwhile, Moto 360 users are advised to set a fixed position for minute ring to avoid hours indicator being half-obscured at the six-o-clock position.<br><br>Inner circle contains all of the information grouped in uniform gear widgets. Besides showing relevant data items they also provide several utility shortcuts: watch battery - to watch settings, step counter - to default running activity (can be changed in Android Wear settings on the phone), phone battery - to our another trinket weaRDialer if it is installed on your watch. To open inbuilt activity, that shows nearest calendar events, tap on the upper quarter of the inner circle (day - month and time left to next event area). To read notifications it&apos;s necessary to enable notification listener service.<br><br>An inbuilt activity is started by tap on any notification related widget, which allows to view list and details (swipe left or tap list item) and dismiss notifications from watch (tap list item icon). Also there are details for weather view (forecast) and calendar events (location and description). In any of the detailed view, if there&apos;s a phone number found within text, it will be highlighted and becomes clickable, clicking the phone number will invoke either native system dialer or weaRDialer if it is installed on your watch. If there&apos;s a location set for a calendar event, then clicking on it will start google maps in a walking navigation mode.<br><br>Settings can be configured at the dedicated companion activity on the phone, which also features interactive watch face preview (excluding watch specific shortcuts). Application is created in such way, that turning off most of the interface elements either disables relevant block in data aquisition service, or lowers screen update frequency, providing better battery consumption on watch, thus it is recommended to experiment with settings to find appropriate combination of battery life, informativity and looks for your specific device. Default settings are optimized for Sony SmartWatch 3 always-on usage scenario.<br><br>Application is presented as a full-functional trial version, test period is 7 days long. After that you may either thank developer using in-app purchase to get trial-free application associated with your Google account, or feel free to reinstall application as many times as you like to continue testing.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/btoTlMfmGJerpv0RyAhebv8fIwxS4qZCscvmMcMuxL7KLIm3pw3-4s3p6cNWmXmh2Zg=h310",
+        "//lh3.googleusercontent.com/fuiPbZunddfMa_Kg5W_gADgihPrs2KDgNjKwX-JRlt6qIslMSrtX7dByu1JDWppE=h310",
+        "//lh3.googleusercontent.com/QEly_1g3UJtXXRj9MDVVKDAGZTeEvChWnJYyM46x7rNDu-3OkocW37xGRXSbIbk1UoWD=h310",
+        "//lh3.googleusercontent.com/fBnZxvs6a0hEjNK8L5kYCA3JokvJs8uIHK2XjEJx2-vJSOVAaD5-Ba4JWXIYIQGs-jI=h310"
+    ],
+    "comments": [
+        "Like the design The watch face keeps crashing on me every 10 sec. I finally had to delete the face and reinstall but it is doing the same thing.",
+        "Verygoo Yhankyou"
+    ],
+    "recentChanges": [
+        "- added Android Wear 2.0 compatibility;",
+        "- improved phone number parsing expression;",
+        "- fixes and optimizations."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.trinketworkshop.dailysequential&hl=en&gl=us",
+    "appId": "com.trinketworkshop.dailysequential"
+}

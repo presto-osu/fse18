@@ -1,0 +1,50 @@
+{
+    "title": "Chronoview Watch Face",
+    "summary": "Chronoview Watchface for Android Wear with Step Count and Weather Information",
+    "icon": "//lh3.googleusercontent.com/buMThO4uP7LpXd_ZE1WnJngIWVQIfbv7Ou3A2sOndo9Lu8dIzKHFPO33AtLXoxwwFg=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4.5,
+    "reviews": 2,
+    "developer": "Wearable Designs",
+    "developerId": "5117509099958351335",
+    "developerEmail": "support@wearabledesigns.co.uk",
+    "developerWebsite": "http://www.wearabledesigns.co.uk",
+    "developerAddress": "AdminExcellence Limited trading as Wearable Designs\nThe Castle House\nNewnham\nGloucestershire\nGL14 1AE",
+    "updated": "April 14, 2016",
+    "version": "1.0.8",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "Chronoview Analogue Watchface for Android Wear.  An analogue style watchface for Android Wear.Dials can be configured to display: Seconds,Day,Day of Week,Step Count,Wind Speed,Wind DirectionPressure,Temperature,Watch Battery,Phone Battery,Forecast,Humidity.Configuration options can be accessed through Android Wear on your phone and click on the Gear Icon.Weather Information is Supplied by OpenWeatherMap.",
+    "descriptionHTML": "Chronoview Analogue Watchface for Android Wear.  <br><br>An analogue style watchface for Android Wear.<br><br>Dials can be configured to display: <br><br>Seconds,<br>Day,<br>Day of Week,<br>Step Count,<br>Wind Speed,<br>Wind Direction<br>Pressure,<br>Temperature,<br>Watch Battery,<br>Phone Battery,<br>Forecast,<br>Humidity.<br><br>Configuration options can be accessed through Android Wear on your phone and click on the Gear Icon.<br><br>Weather Information is Supplied by OpenWeatherMap.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/8WP7mon6i1cWnyBwINV2pl1MXioncm98fFEOMcHlTkVKGvQFI2r9bcEUgPP1ABdXIOs=h310",
+        "//lh3.googleusercontent.com/LDxVliE4ROwbQ869tmnTeDnVbof39MFgc73vy3TgxOztyb-kZ9xYhYEUgBma-0F5Zb97=h310",
+        "//lh3.googleusercontent.com/95OqfdbDvMR-RFWmqeZG46HoQ4ho2D7hop9ZpRs0ktqdahr5t0zDX6ZXB2S1yZKyMk13=h310",
+        "//lh3.googleusercontent.com/Tz8VqhaTOH218Iy7iFbj6xlp8Iwv2z_r9nbDbtNjjAnXfdPBGrV_i3s2Byl_MzdxImM=h310",
+        "//lh3.googleusercontent.com/uD1F9Hf022W3bZj_X59oyORCaQVdwWjoYXElMNsonwjNmkR_Z7pzT7y6ItkZIQEzj__H=h310",
+        "//lh3.googleusercontent.com/5-X0k-VfwpTaherpSiv4vAfbsw5XupNioZBBrdEkHDTA-zqxnLXrCDGkCZzpYB6uPdL8=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "v1.0.8",
+        "Improved Stability"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.wearabledesigns.dials&hl=en&gl=us",
+    "appId": "uk.co.wearabledesigns.dials"
+}

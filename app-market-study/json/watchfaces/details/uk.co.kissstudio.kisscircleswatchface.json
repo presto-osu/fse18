@@ -1,0 +1,48 @@
+{
+    "title": "Rainbow Watch Face",
+    "summary": "A beautiful, simple and colourful watch face for android wear.",
+    "icon": "//lh6.ggpht.com/L0Ff06TE2JawpIpBoDIlWFCtNWZ_to5qhKo4LLubNuNith1HfT7gA8Foph6tD31UBA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3,
+    "reviews": 5,
+    "developer": "Peter Macgregor",
+    "developerId": "Peter+Macgregor",
+    "developerEmail": "macgregor.pr@gmail.com",
+    "developerAddress": "3A Strathearn Rd.\nEdinburgh\nUK\nEH9 2AH",
+    "updated": "January 14, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A beautiful, simple and colourful watch face for android wear. The time is represented by colourful circles around the screen.They represent, from outside to inside:- seconds  (red)- minutes   (orange)- hours       (yellow)- days in week     (green)- days in month   (light blue)- days in year      (dark blue)In ambient mode, the circles show up in white, and the second 'hand' is not visible.This is a unique and attractive watch face which demonstrates how the digital screen allows creative representations of time.Suitable for both round and square devices. For Moto360 users: the 'flat tire' at the bottom of the display doesn't hinder your ability to read the time. I developed this face using a Moto360 :)",
+    "descriptionHTML": "A beautiful, simple and colourful watch face for android wear. The time is represented by colourful circles around the screen.<br><br>They represent, from outside to inside:<br><br>- seconds  (red)<br>- minutes   (orange)<br>- hours       (yellow)<br>- days in week     (green)<br>- days in month   (light blue)<br>- days in year      (dark blue)<br><br>In ambient mode, the circles show up in white, and the second &apos;hand&apos; is not visible.<br><br>This is a unique and attractive watch face which demonstrates how the digital screen allows creative representations of time.<br><br>Suitable for both round and square devices. For Moto360 users: the &apos;flat tire&apos; at the bottom of the display doesn&apos;t hinder your ability to read the time. I developed this face using a Moto360 :)",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/iwZgEbkFY1FbubQhxU5CZrgd4spTpjP6lQf3Dy5310SrVr99zJ5FFr7Ve26OZ8-hLds=h310",
+        "//lh3.ggpht.com/MVFxYhYWWw5w2xxd2iORNZfXE1E8s3W7R_03W_rzl-qrpBkoee4C3VgdqMtFxfTMHRE=h310",
+        "//lh6.ggpht.com/LRdUq5osjkTdbGuVBmRjAqWHKT2DdaRNkPwi7HCE8G-vEjdnvuld7LFH6O3YWfmWW_EQ=h310",
+        "//lh4.ggpht.com/oWhMSahVq87GzLOmtRBwJyW3UDN5nfC9dk7dxoXMEclNouf4mOxqYc6FiJJw13khMw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Improved the look of the rainbow:",
+        "- Adjusted the thickness of the lines",
+        "- Fixed the sizes of the gaps between colours"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.kissstudio.kisscircleswatchface&hl=en&gl=us",
+    "appId": "uk.co.kissstudio.kisscircleswatchface"
+}

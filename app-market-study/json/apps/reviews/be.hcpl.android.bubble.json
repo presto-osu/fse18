@@ -1,0 +1,121 @@
+[
+    {
+        "author": "Peter Poliwoda",
+        "comment": "Wanted a quick working app that runs on my Android Wear watch before a presentation at work, so after it didn't do anything I promptly uninstalled it. Once I got home I tried it again and after some research it's got it to work!  I got confused at the beginning, because I didn't know that it uses Apple Script. It would be worth mentioning that and that you can get a dictionary for any app on a Mac (Google 'Spotify AppleScript dictionary'  for more details). Still trying to figure out how to display a toast after clicking the info question mark. Any thoughts?   It would be great if you could add support for the most commonly used apps like Spotify, Keynote, Powerpoint in the app out of the box (tweakable to change the default settings).  The direct Bluetooth connection would be handy too.   In general it's a great idea. Love the app! Keep up the good work! We, the people, are out there wanting more!",
+        "date": "November 20, 2015",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPR3hCVjBLVV8xeUtJb1dHX2JoN0MxQ2xKb1FNaTVULWI4aElLWlpoMUpnXzZNSzRXZXBaOWNxMDRsYkQ2QmxLcXNaTUd0bW1sdnFjeFJ2Y2c",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Glenn Mosdall",
+        "comment": "Great app and because it uses AppleScript commands it's very versatile and powerful. Only thing is, it doesn't work on Android Wear 2.0 (anymore).",
+        "date": "November 30, 2017",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPR1pZVGhuVXFnZjZaNm9WaDR6V29QTXhvZmU3SDgtanRVRG1XZVpSZUJhc0Z5b3FPYy0xUXU0NzhDeUo2al9QN1RiVVdFQmJvQko2QlhGQVE",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Shanthoshkanna Yohalingam",
+        "comment": "Please someone tell me what's that username and password and IP address?",
+        "date": "May 24, 2015",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPRXRpU3hBNXhVcnI0RmlFY0Z4WDFVekVRN1lwV1VGNFBNdFAtQmRVZlZQeXd0MkM1RUpLWnBLV2M1dzZMMUJWMzY4THVnemVtSW54d285VHc",
+        "reply": {
+            "author": "hcpl",
+            "content": "Hi this is part of the settings of your mac system. When yo go into preferences and into sharing you'll be able to enable remote login. You can then log in with the users from that system.",
+            "date": "August 29, 2015"
+        },
+        "star": 4,
+        "title": "I don't know how to connect"
+    },
+    {
+        "author": "Kevin Cheung",
+        "comment": "Just keeps force closing!",
+        "date": "December 3, 2017",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPRTdXLTJZSHhjcXAxc25abVI5UUE3TGstZW9oclRpOXpfekNZTHFyaUpzYnU2anFKQXE1YnR1N1Z0elZSRGtYbGxNbmpQa09COGx2NnlmUHc",
+        "reply": null,
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Huy Ly",
+        "comment": "Make sure Remote Login is checked in the Sharing section of System Preferences.  Description should specify this or at least have it in a guide upon initial setup, I was about to give it a low rating when I thought to check my sharing settings, lucky I did because the app actually works rather well.",
+        "date": "March 23, 2015",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPRWE4TWxiUXlWTE01QlAtbVdiaDc5akJDVnppRVZNZ25YdFhQam1XRVd5aHhWdmxBcmJ2Qmowc2RxMG1rUnFoOHZtb3hCMWd5WGRMVUpMU2c",
+        "reply": null,
+        "star": 5,
+        "title": "If it doesn't work turn on Remote Login under Sharing in System Preferences"
+    },
+    {
+        "author": "Nisan Dan\u0131\u015fman",
+        "comment": "I had to find out about AppleScript commands to be able to use it PowerPoint. I had not dabbled in this before so, it took some looking up, but then I got it to work. Now it's great, but I wish it had bluetooth support for \"no wifi\" situations, like presentations at clients' offices (with no network connection).",
+        "date": "March 24, 2015",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPSExheTlwTGVxVWxRa1U1YS02UDJyM01Za3B2T2hzcHJjQWc1RGUtakdKNFlaa2V5VjZrS2w1MzJKWUVGaE91MU5oX2dRTExWdjg1VDJIYmc",
+        "reply": {
+            "author": "hcpl",
+            "content": "Hi thank you for your feedback. The bluetooth suggestion is a good one. However technically I rely on an ssh connection so my implementation requires a true network connection.",
+            "date": "August 30, 2015"
+        },
+        "star": 4,
+        "title": "Good and flexible."
+    },
+    {
+        "author": "Rehan Jhaveri",
+        "comment": "Thanks a lot!! Got it to work",
+        "date": "August 31, 2015",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPRUFqT1NVbk5BRWhqcUVSY0xVcnVRSTR1ZG4tRWZCTjJrQm9xRHZFcUZ6Z19vUl90a0tQWFM1RjBmRjdyS2xoc083dnY5c1JHVl9yVzhLX3c",
+        "reply": {
+            "author": "hcpl",
+            "content": "the username and password are those you use for your mac system. Also make sure to have the sharing option enabled in the preferences from your mac system.",
+            "date": "August 30, 2015"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Norbert",
+        "comment": "I cant enter the ip address only numbers can i enter, galaxy s5, if it fixed i give 5 stars, now the app useless",
+        "date": "February 18, 2015",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPRXBSNzhHYTFkWFk4Ql95ZzdJcjJxNU8tRlA4aEVtcDFrY1UwYWhiRlAyYjJxdWV4M1lYcURRZE91cUFzWS1NYTdjQnV5WEVELTFnUTNwb2c",
+        "reply": {
+            "author": "hcpl",
+            "content": "You do have a valid point there that a host name would be sufficient. I'll look into this for a future release.",
+            "date": "August 30, 2015"
+        },
+        "star": 1,
+        "title": "Ip address field bug :/"
+    },
+    {
+        "author": "Phillip Hodges",
+        "comment": "One word..AWESOME... works great for me and developer responds back and everything!  Thank you for all you do!!",
+        "date": "December 27, 2014",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=Z3A6QU9xcFRPRjMycGoyYm02T0VvbkhJTXVUd2tia3BLS2hCVU9QMXVvNUxyVWVPRXZsUHprWWxGUDdrOWRkX2RWanR0RVhyYlVlM2ZSSFkxZ0trblNFaVE",
+        "reply": {
+            "author": "hcpl",
+            "content": "I've contacted you by e-mail.",
+            "date": "December 27, 2014"
+        },
+        "star": 5,
+        "title": "Works great for me.."
+    },
+    {
+        "author": "A Google User",
+        "comment": "Okay, but lamee.",
+        "date": "July 8, 2010",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=bGc6QU9xcFRPRlVQdk1UcnQ3U0hWYWR3N19TYlFFcUtfUlZvaVdSWUZ5UG5VT3ZPcjktYnNONG5wLU1Cem42RkFPVWpXYnpoTXZUb1RYaENRYWoxSXRPalE",
+        "reply": null,
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "A Google User",
+        "comment": "Gay",
+        "date": "June 28, 2010",
+        "permlink": "/store/apps/details?id=be.hcpl.android.bubble&reviewId=bGc6QU9xcFRPSHBVS3ZFWDhDRG1ScWdaandXYXppbHg1VHliMGhVZGwydk5xcU41dEstLTBmRmtSaEhzUll2NThGQjFLSy1TVFh0NDBXZTlua2ZTOFkwV2c",
+        "reply": null,
+        "star": 1,
+        "title": null
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "author": "Mike Amy",
+        "comment": "Simple, easy to use, useful as the use cases are well thought out. TIP: to calibrate most android magnetometer chips (compass chips) in android: rotate the watch slowly, 3 times, for each of 3 axis planes (N-S, E-W, Up-Down). If you don't understand, search for 'calibrate compass using GPS essentials'). It's the same technique and worked for me.",
+        "date": "March 7, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRlRKUFJDS0tKZnVyZHhqa1VkWlhXVFNBbFFvOVAxcktlODFKbmVZbTYtM0tFZFM4Yk5XUkx6UlY4V3E0bXJQS0ZjTFZTbUUzRmJvelJmUWc",
+        "reply": null,
+        "star": 5,
+        "title": "Perfect (read below for tips on calibration)"
+    },
+    {
+        "author": "Kevin Sjogreen",
+        "comment": "This app is great and has great user interface. But when in Pointer mode, why does my LG G Watch vibrate nonstop close to the  right edge of the green pointer pointing north? And in degrees near that edge, it just pulsates in vibration. Is that a glitch?",
+        "date": "June 25, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSFB4TC1vOXcweXpnZ1ZnbWRkZHM3bmZKcW42X0hHaGx2d0taelpYNDRibUozZkVSdHNqVHdMOFUzTmN6d3NjMDhIOG9DOHhFYXBBVHA1MXc",
+        "reply": {
+            "author": "RunaR",
+            "content": "It is a feature. That way you van detect North without looking at your screen. First there are pulses, when you point directly North it is continuous. It also works when you set a waypoint or a bearing.",
+            "date": "June 28, 2015"
+        },
+        "star": 3,
+        "title": "Ehh..."
+    },
+    {
+        "author": "Janis Froehlig",
+        "comment": "But it's been uninstalling on its own, and then reinstalling, randomly, which has rendered a big-enough watch-battery suck at inopportune times, plus a notification I don't need, especially given how often I use it.",
+        "date": "January 13, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSGRKRk1pRnpBVHlPYTJ1eHB1emRRWGNiSkFra004RmNGNnhuRm5VNVNXVFk5VkFtWDNva291NmtTZnJOZE1XeXRYSFphZl9FSmxJQmZfS1E",
+        "reply": null,
+        "star": 3,
+        "title": "Realy cool, and works well"
+    },
+    {
+        "author": "Ian Rawlings",
+        "comment": "This would be great if the compass in my SW3 would work, as it is the watch pointer wanders a lot while I'm standing still and even doing the calibration dance doesn't improve it significantly.",
+        "date": "January 26, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSGtIMHdsSmxPc3Rlb1hmRzdnY25CR19yNHB1d3pESEt4NEd2UDZwYkN2OEdUQ1lQOHB6MElhMUdKWkZyUk1TcnNHQVhlcnM2S1ZTWTd6R0E",
+        "reply": null,
+        "star": 4,
+        "title": "Nice idea let down by dreadful hardware."
+    },
+    {
+        "author": "Simon Hobbs",
+        "comment": "Brilliant app on the galaxy note 4, best compass so far.  Looks good on the moto 360 watch, but seems to be exactly 90 degrees out (seems to be a common problem with this watch)",
+        "date": "October 5, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSFBrZVo2U2RWOEdNUVFLVHRjaUR2RXlHZmRFRklPUUNpQzJ3SVZpcF9qWGEtSjJVS3NaSUdCekcyeVEzQXQzVm9ab05qRHctLUROanhVY0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Joe Parsons",
+        "comment": "after that not much luck..  app disappears from the wear device (LG G Watch) and then the phone app compass stops working (Map section only seems to work with a data connection).",
+        "date": "February 24, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRWt6VjNuZWVraTBuRF9WSEdyNkxyWXc4dktGR0JGMFNsaTZFQ1pQeTZNSnE5MVVMMVZIOU5HSDBWRUtWRGthVTEzbWU0NGV1czNlZzRjS0E",
+        "reply": {
+            "author": "RunaR",
+            "content": "Could you check if the phone installation destination is the sd-card. if so move it back to the phone's internal memory. You can find this in your main device settings under 'Apps' or 'Applications'. You might have to reinstall the app. Let me know if this worked.",
+            "date": "February 24, 2015"
+        },
+        "star": 3,
+        "title": "worked the first time"
+    },
+    {
+        "author": "Brian Drew",
+        "comment": "The app looks great. I have it on my phone and it is accurate. Interestingly on my brand new Asus Zenwatch 2 the bearings are exactly opposite the correct bearing. For example when pointing North the app says South and East is West etc.  I think this is probably an issue with my hardware and not the software, but wanted the developers and users of this model of watch to be aware.",
+        "date": "October 14, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSE9OVnRlUXpVSXQ2ckNKeXROTGJxei1mWEhRTEh0U0pUM1FTSnhsSFZVMmx2X2UtcDZkMC0xRksteEN0Y1Y4OVhpTkFDSkZaQXo5SW15VUE",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "The compass is calibrated, but only points north for like 5 seconds then slowly turns even though i am stationary. (SW3)",
+        "date": "November 1, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRWhoQWg0VXBKRVo0SFFuVnM3SkJmc2F0LVg0UjYtNkdPVlJoeW5UeTFZbG1FQzFoR2dsSWplN1NFNWdTUGgzWk9QX3g1VUh0SFJGQTB1VkE",
+        "reply": null,
+        "star": 2,
+        "title": "Unusable"
+    },
+    {
+        "author": "Cameron Kilgore",
+        "comment": "Great compass app. Too bad Motorola didn't bother to show up with the 360.",
+        "date": "February 7, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRlVwNUtkZGdnYXozU3lxcm9IdmhSdGFTaHoyREZDUnRaSHlxRndUc2plZ0RxS3dsSktpakJjVFdQdE9tYzFtdDAxektFU1pSUE1RU011bXc",
+        "reply": null,
+        "star": 4,
+        "title": "My problems with this remain with Motorola"
+    },
+    {
+        "author": "Jeanbon P",
+        "comment": "No longer on LG GWR and cannot sync to watch no matter what I do. Loved it before. Now very  disappointed.",
+        "date": "May 19, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR2Y4TGNSZ203NWRnODFsa1E3VWZONzhfWFdBTUlZY0NzMWFwaDB4Q015bHdLMmZGWFgwenZ2VmZMZDV5TXRHd2lEMWtYRXd5N3ZtZW9SVGc",
+        "reply": {
+            "author": "RunaR",
+            "content": "Make sure you have the most recent versions of the Android Wear App an Google Play Services. In the Android Wear App there is an option to sync the apps with the watch.",
+            "date": "May 19, 2015"
+        },
+        "star": 2,
+        "title": "Not appearing on watch so not much use."
+    },
+    {
+        "author": "Morry Zelcovitch",
+        "comment": "This app kicks!!! Is setting a bearing the same thing as setting a waypoint? If not, then how do you set a waypoint? Thanks in advance ;)",
+        "date": "October 20, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSEJYVDFVS2VvRExaVmlxSkZnQmpNZjVWSEM0X1VWbm95a3A0SnBaOTQ0Sm94dTdURFFUbTRuTVQyM2lWSWpaXzl2RkQwU2R2c25fTGpjWVE",
+        "reply": null,
+        "star": 5,
+        "title": "I will never get lost (without my phone;) again!"
+    },
+    {
+        "author": "Ricky Raccoon",
+        "comment": "Running on an HTC One M8. Word of caution. Do not install or move to SD card. Love the map function too. 5 stars. One of the precious few Android Wear apps that actually hit the nail on the head.",
+        "date": "March 4, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSDQ5YVFQQktHT3M3QXBwZ0ZkcWw0WW9CWEUtVWU5bmZmOXZyN0dwN2FpemRSenc1d0ctWW5NbEhGVlBZSUloOTk4RG9kTWlUVng2MjhIM0E",
+        "reply": null,
+        "star": 5,
+        "title": "Fantastic app."
+    },
+    {
+        "author": "Walcha Lu",
+        "comment": "Great app - nice haptic feedback to find north. Innovative and shows potential of wrist mounted haptic interfaces for situational awareness. App dev is super fast with updates too!",
+        "date": "January 26, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRm5tUi1DMFNlazFOZHFfT2FkSEhpcVVROE5WSk1EYUlFRHlqUWN4V2NDVktiMFlLRnZWRVdHcVRuWndGam5NRnJKXzZJcEFiYVRHenV5S3c",
+        "reply": {
+            "author": "RunaR",
+            "content": "Thanks for the feed back. The detection routines do not work as intended. I'll upload an update soon.",
+            "date": "January 25, 2015"
+        },
+        "star": 5,
+        "title": "Nice!"
+    },
+    {
+        "author": "Bagus Arya Wirapati",
+        "comment": "This is an excellent app. But I find the pointer mode setting not working as I have set it to right hand yet the pointer in my Smartwatch 3 stays at left hand mode. Please fix this and 5 stars for sure!",
+        "date": "July 10, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR2QxUEhOODF0WXNwSVBDRDRidHRvNHlpR2RXbk5UUHNxZm8yeENsdjQxZnQ1RFVBQ0FyT1ZZVGxYalUtanZURm5RWXNBekhwRnNOQW02RXc",
+        "reply": null,
+        "star": 4,
+        "title": "Pointer Mode on Right Hand not Working"
+    },
+    {
+        "author": "Charles Kirby",
+        "comment": "this seems to work on my moto 360 if I offset it 180 deg, please give an option to remove the warning when starting the app on the moto screen. works perfectly on my htc phone",
+        "date": "February 17, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRUtZejVaanVFVmE3UUIzUUFCampqaVBiR1RGdGdpS1FfcGs3SGFiMnBTRU1GX1BnR1hqbHpXNnNTNlhXWldXT3JZS1FPVUo3cDYtUnR1VEE",
+        "reply": {
+            "author": "RunaR",
+            "content": "The working of the app is not predictable on the moto 360. Start the app and see where north is. Now swipe the app away, rotate yourself 90 degrees and start the app again. You will notice that north is suddenly in a different direction. The Moto 360 does not have the magnetic sensors to detect the real north.",
+            "date": "February 17, 2015"
+        },
+        "star": 5,
+        "title": "moto360 user"
+    },
+    {
+        "author": "Simon Marshall",
+        "comment": "It doesn't actually show up in my apps on the watch anymore. It did for several months... So I am currently using a different compass. G watch r",
+        "date": "August 9, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRlViSUhSQ1FTT1ZINWRueU5KQ1VnM1FISlRPaE9pZ3ZXZ3NCTGZlbXVzNXo3bVh3OTlJVnhvdzBtSWVPVmFUT2lIWXpPNVhoV2FKYXdlOWc",
+        "reply": {
+            "author": "RunaR",
+            "content": "Make sure you have the most recent version of Google Play Services. Kind regards, RunaR",
+            "date": "August 9, 2015"
+        },
+        "star": 4,
+        "title": "Best compass but..."
+    },
+    {
+        "author": "Rebekah Fletcher",
+        "comment": "I don't have a smart watch, but would like to use pointer mode to have my phone buzz when I am facing North. Please add this feature.",
+        "date": "June 19, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRmhaVXp5NEloR01FLW02eWlXbVREWmxyeDVkWi0xZTV4Sm16WmZacnhqNDF1TWJ6Sjl5WWg3R0R6cllmajFnNTE0Smpad1ZkSEgxVzduWmc",
+        "reply": null,
+        "star": 3,
+        "title": "Add pointer mode to phone, please"
+    },
+    {
+        "author": "Jonathan Simon",
+        "comment": "Works great with my SW50. Appears accurate and performs smoothly. The only app I am aware of that serves this purpose.",
+        "date": "March 2, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRXN6QzA2anloMWVRdmtOWk9yQVc5OXlxcDZmN0ttTEpOaEJwRXlmbkdmSnZ5MGtDeXFxb3g3Z1RXc1dmX05EZzNnS1JVRFpCTEw5WFJIZlE",
+        "reply": null,
+        "star": 4,
+        "title": "Sony Smartwatch 3"
+    },
+    {
+        "author": "Ahmed Jan",
+        "comment": "Works really well and has a great UI on my phone bit disappointed to find out that Motorola didn't include a magnetometer in the 360 but that doesn't really matter",
+        "date": "March 4, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR0x0emtHMDZWU0ktS2lmM2V4Q3J5Tk52X1dvYy10SkYzRUU5R3V5OVctanpSbUs5MlNmelFpSzdtV25LNXhyZ0JrcXU3NG9pNjdCX0ZueXc",
+        "reply": null,
+        "star": 5,
+        "title": "Works well"
+    },
+    {
+        "author": "Frederic Bulochnik",
+        "comment": "Install it, works. But after a while it disappears from my LG g R.",
+        "date": "February 19, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR2pYNlB6akdHZWVrMFNQUHFwM0RVLUhRZVQ4LVZHR0N0SlQwQzVnMlc2cVRkWFRLZFBPdUxrZ0xJQXV1WUVTM000b2ZTUlMwLXNUVE5ERVE",
+        "reply": {
+            "author": "RunaR",
+            "content": "This might be due to the install location. Check the main device settings and look for 'Apps' or 'Applications'. Make sure that Bearing is installed on the internal memory instead of the SD card.",
+            "date": "February 20, 2015"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "J G",
+        "comment": "This app works perfectly and looks great on my LG Watch Urbane. It's simple but adequate. It has a nice vibrating feature at the North point. The UI on the phone is nice too.",
+        "date": "August 2, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR0JDTHhwRlRzVS10M3lzZDNuM0FtZ3pCLWpwX01xZWgzUEFQWHM0X1dVaThIa1d6ZU56VFBqUDI5VWtlYnotcF9VSy1yQm40VVVESXBsZWc",
+        "reply": null,
+        "star": 5,
+        "title": "Works GREAT with Android wear."
+    },
+    {
+        "author": "Jason Tokarz",
+        "comment": "What a shame, great functionality but unusable as it kills my watch battery in about 30mins \ud83d\ude35",
+        "date": "June 2, 2017",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRmRYak00eU5TWmNBYWRqQWhlU1BLOHd0LWxQMkcxNlFJNEhMWFFJOFNJWDhJSnZiZGc1VlowbjBfMVNKY1pZb1pxS0ZHWkRKRnVtMmhfX2c",
+        "reply": null,
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "",
+        "comment": "Installed on Gear Live.  Shows on phone, but is missing on watch. Where is it?",
+        "date": "June 9, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSHZndy1nNVNFSTZXbVpla2x2UG1rUjBSZ2pCNDBOUy0yNHdIUFpWbGRLamltTDJBY0hKbkY2d0xsRWk5TXdyOUxqelg1UG9YcXRNS2VKREE",
+        "reply": null,
+        "star": 2,
+        "title": "Went missing"
+    },
+    {
+        "author": "Dee Bernath",
+        "comment": "Nice but inaccurate. North keeps changing even when holding it still and completely level.",
+        "date": "July 24, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR3BlS0NENU1fZ010NlFvelY2TFhCb1FNV2ROX2FLVDJNSXdtWVA5Smtja2xXR2I1U3JiejJ6dXlZT3B5d3pqRkNCZ3owc1FKQmluNEplR0E",
+        "reply": null,
+        "star": 2,
+        "title": null
+    },
+    {
+        "author": "Nick Pardo",
+        "comment": "The moto 360 *does* have a built in magnetometer. Other compass apps work properly on this device so please don't be deterred if you are a Moto 360 user.",
+        "date": "May 18, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR2hJcDVWVm9sQ2x3b0tlXzQ2WF93aVhDTzM2WmxZTU1ZUlBad19OLVV6Q3lqbTdQSWVOcjVYNFpzcXo3UGJfZmJYaHNLNlo3dkpVS0NkeWc",
+        "reply": null,
+        "star": 3,
+        "title": "Moto 360"
+    },
+    {
+        "author": "Robert Thomas",
+        "comment": "App disappeared from LG watch",
+        "date": "April 5, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRjgwUTVlWmE1NmRSSHdHSGdNQjdlUUhMa3Bpd3EzY2ZoaEFQREdXU0FIdWs1RGdYOE15R0pmVmRGQVM4dXZQa25ESDEwWExNazBjRmFMN3c",
+        "reply": null,
+        "star": 3,
+        "title": "The hidden app"
+    },
+    {
+        "author": "Jamie Spruce",
+        "comment": "Excellent app. Too good to be free - the dev should've charged for it! :)",
+        "date": "February 23, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSHRUMDlvWmJlSk95UVhobFVlVmExMGVVTThTVDBsS0FaMmZDTWJKOHlLd243WUQtcFFvUlU4YUh3X09vdnF2aHg5YU95STBMcXJ3bDVuREE",
+        "reply": null,
+        "star": 5,
+        "title": "Best Compass works great on G Watch R"
+    },
+    {
+        "author": "Michael Oberle",
+        "comment": "North registers 350 degrees. Could be calibration on my watch. Did not find an option to calibrate the app.",
+        "date": "July 11, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRlFQZVJ3VE9kb24yb19zUjBRZUtNUXh1YXZ6N0htLS1XbXNJU3VYYkdmUTN2aHY2bFZEbTVGSVBGNDREQXVXVm5EdVdVVGEzRWR4UFJIWEE",
+        "reply": {
+            "author": "RunaR",
+            "content": "You can calibrate the compass by waving the device in a figure-8 a couple times.",
+            "date": "July 12, 2016"
+        },
+        "star": 3,
+        "title": "10 degrees off Sony SmartWatch 3"
+    },
+    {
+        "author": "Nicholas Herring",
+        "comment": "Great wear app, works perfectly on LG G watch R. A great addition would be an option to display back azimuth.",
+        "date": "February 14, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSDEwSVhFVEJ5TEVaZEEyNDI5bnE2Njk2bnQwWWlPUDBzTE5uSGR1WHRncWp6RG5wYWpuSHdYTjhURmY0Q0VGNE9nb3VQcVlhaFNjaU1nY0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Bogdan Gherman",
+        "comment": "It works great on my Huawei Watch! Thank you for making it!",
+        "date": "February 23, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRjBIeXJnWmlQdEJ0TTVsQWMxd3NrQm5oUnRLY2N1bk9WTzREemZSbXI2ai1aRUFUUk1ieUprX0poX3NDSEM2OHdrU20xUmgxUFg1RzJmWnc",
+        "reply": null,
+        "star": 5,
+        "title": "Great looking compass!"
+    },
+    {
+        "author": "Dan Raines",
+        "comment": "Does not work with gear 2",
+        "date": "September 30, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR0J1cHJjYjZpMkF1dW94bUlzRG9sSVhZeE5pRTBpYzg3NFRmdXZLV1lKd2JnZU1lZ3NROFlDb0Q4ekJKUE0tZXlici1PTUlQUXpzX0RVN2c",
+        "reply": null,
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Hussain Akram \u3070\u3057",
+        "comment": "Works perfectly on LG G Watch, accuracy is spot on and the voice activated bearings is great",
+        "date": "January 30, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRzBYbVpqNV9TMWRjSUlveDZqc2s1UWJxNE1ESG9pNWJFdFVmZDlwMGFVRzlEZEdjbGVHbFJFelNOcEZDNjZSQWhBNnJBbWwyTE5BMW5NbXc",
+        "reply": null,
+        "star": 5,
+        "title": "Absolutely fantastic"
+    },
+    {
+        "author": "Eugene Capeder",
+        "comment": "Although limited support for Moto 360, will work when synchronized with host device.",
+        "date": "June 17, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRmNwRk1BWG1PcmRSb0dsM043WXZHVUtzY2txVjE1c1ZhUDJ3OS00aWFfSmc4TENMMW5oeGVNemRob3h4REZhZWVmNjg1UnZZeTg2Nlp4T0E",
+        "reply": null,
+        "star": 5,
+        "title": "Awesome Application"
+    },
+    {
+        "author": "Michael Arnold",
+        "comment": "On both the Note 4 app and the Gear Live app",
+        "date": "May 28, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSGhqNG1Da1p6elRrZjFDQlhsWTFqRVNaLTlwSkxIcWZEN2pTRjRsRV84ZjdUbWY3MXhnQW1WOHBwV3paaXFtY3QyZkszODZfMV9Tem5waGc",
+        "reply": null,
+        "star": 3,
+        "title": "Readings were off"
+    },
+    {
+        "author": "0til Lee",
+        "comment": "So far so good.",
+        "date": "May 20, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRUI5c1RjUEFSM295VTNkQmtCemJmbXNESlREeHpXR1Awa3FlU3pKTXk4Tk1tX051ZHoydGtjeFI3MXVsMGdPMHF0V3BfNmdWbkZxdUxhM2c",
+        "reply": null,
+        "star": 5,
+        "title": "Like it!"
+    },
+    {
+        "author": "Akshay Mistry",
+        "comment": "Excellent design, works perfectly.",
+        "date": "January 14, 2016",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR1ctTXdNeFB5N3RBTzZFa3lTVEJENUNsUUxYRFJTWjVuSVJlTHpHaTI4TGFRN19vakFOODA0dUZEZU5aTHE1Yjhidzg1UnpmdTlVaUV2cUE",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Hisham Fine Builder Construction",
+        "comment": "Wonderful for asus zenwatch 2",
+        "date": "February 2, 2017",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPR0dXeHp2UlVMUV9XdjVaWUptdC1OZExLU3ZNbmFKT2cydWVibXN0YzVBMW84b1lfU05ZdGVXd21YbkNSUUUyUEtkNTE1TjVEU3BMYUE5X0E",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Robert Briones",
+        "comment": "Great for the confused",
+        "date": "September 26, 2015",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPSEtDS3gxbGRfWlJBSXBjcnAxRkVXTXZjcndIREhmam5oc0FKZkQ3WDNUQWNMLVNJQmJvV0tZamlWUlVGb3ZyNFdaWFZWR0V5QlQ5SWtjbnc",
+        "reply": null,
+        "star": 5,
+        "title": "Great"
+    },
+    {
+        "author": "Nicholas Roberts",
+        "comment": "My phone and moto 360 are several degrees off, as other reviewers have noted, moving around a little bit will change the bearing, offset by several degrees. A manual way to calibrate would probably be useful. This is however, the best and sleekest compass app I've seen for android wear.",
+        "date": "November 9, 2014",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRjBJdmsxQjE2TmUyU2d5Wmw2ZEd2N0RkMWNXYW5KSXhzWUkwOXFqdXpUaV9ZTlVNUWdJaTFVMEVNTlY5cWJYSGNVUHcwcTY5Y2lRSmZhRVE",
+        "reply": {
+            "author": "RunaR",
+            "content": "Hello, Wave the device around in a figure-8 a couple of times to calibrate it. The same goes for the phone. I will do some internal check in a future version of the app to warn when the calibration of the device is inaccurate. Kind regards, RunaR",
+            "date": "November 17, 2014"
+        },
+        "star": 3,
+        "title": "Not super accurate"
+    },
+    {
+        "author": "Maddy Muscari",
+        "comment": "Calibrating the hardware compass doesn't seem to do anything as it might just be a very inaccurate chipset in the Moto360. It would be good if there was a way to calibrate the bearing by comparing against the phone's bearing.",
+        "date": "November 17, 2014",
+        "permlink": "/store/apps/details?id=com.runar.wearcompass&reviewId=Z3A6QU9xcFRPRTNZdjE4UFlnR3dOMWVONnRlUktxNDZFcWE1bGNBSzd2VlRGRDZsUVRIa1JxRWpfQnh3XzNpM1VoYkt5SlYxcUhXcDZEd2NmOVJfRklaaWc",
+        "reply": null,
+        "star": 4,
+        "title": "Wear device compass inaccuracy makes it hard to use"
+    }
+]

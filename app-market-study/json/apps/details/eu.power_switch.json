@@ -1,0 +1,60 @@
+{
+    "title": "PowerSwitch",
+    "summary": "PowerSwitch - Power Plugs On Your Smartphone",
+    "icon": "//lh3.googleusercontent.com/HFKBNAerY2gYKaH6oEF3a6jT13jLBROWN6LNWFMGrYgWPlZujzBNxfetU90N1t2btms=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.4,
+    "reviews": 216,
+    "developer": "Markus Ressel & Max Rosin",
+    "developerId": "Markus+Ressel+%26+Max+Rosin",
+    "developerEmail": "contact@power-switch.eu",
+    "developerWebsite": "http://power-switch.eu",
+    "developerAddress": "Lankwitzer Straße 48\n12107 Berlin\nGermany",
+    "updated": "April 16, 2016",
+    "version": "1.6.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "PowerSwitch can control your 433MHz power plugs using your smartphone.NOTE:Current smartphones are not able to send or receive signals in the 433MHz range. To be able to control 433MHz power plugs with PowerSwitch one of the supported gateways is required.Features:+ Support for various Brands and Models+ Group Receivers in Rooms and Apartments+ Switch Rooms with one tap+ Scenes+ Automatic Gateway detection+ Multiple gateways+ Remote control via internet (using dyndns and port forwarding)+ Automation using Timers+ Geofences for Position based automation+ Stock Alarm Clock Support+ Sleep As Android Support+ Widgets+ NFC Support+ Android Wear App+ Tasker & Llama Support (API & Plugin)+ Backup & Restore+ Material DesignTested Models:BAT:+ RC 3500-A IP44 DE+ RC AAA1000-A IP44 OutdoorBrennenstuhl:+ RCS 1000 N Comfort+ RCS 1044 N ComfortIntertechno:+ CMR 1000+ CMR 300+ CMR 500+ IT 1500+ ITL 500+ ITR 1500+ ITLR 300+ ITLR 3500+ PA3 1000+ YCR 1000Elro:+ AB440D 200W+ AB440D 300W+ AB440ID+ AB440IS+ AB440IL+ AB440S+ AB440SCMumbi:+ m-FS300Pollin Electronic:+ Set 2605Rev+ Ritter+ TelecontrolVivanco:+ FSS 31000W+ FSS 33600WNot supported models:- Home EasyAll Home Easy models use encrypted communication so unfortunately we are not able to connect to them.More informations at: http://power-switch.euForum: http://forum.power-switch.eu/G+ Community: https://plus.google.com/communities/101925642491277812164",
+    "descriptionHTML": "PowerSwitch can control your 433MHz power plugs using your smartphone.<br><br>NOTE:<br>Current smartphones are not able to send or receive signals in the 433MHz range. To be able to control 433MHz power plugs with PowerSwitch one of the supported gateways is required.<br><br>Features:<br>+ Support for various Brands and Models<br>+ Group Receivers in Rooms and Apartments<br>+ Switch Rooms with one tap<br>+ Scenes<br>+ Automatic Gateway detection<br>+ Multiple gateways<br>+ Remote control via internet (using dyndns and port forwarding)<br>+ Automation using Timers<br>+ Geofences for Position based automation<br>+ Stock Alarm Clock Support<br>+ Sleep As Android Support<br>+ Widgets<br>+ NFC Support<br>+ Android Wear App<br>+ Tasker &amp; Llama Support (API &amp; Plugin)<br>+ Backup &amp; Restore<br>+ Material Design<br><br>Tested Models:<br><br>BAT:<br>+ RC 3500-A IP44 DE<br>+ RC AAA1000-A IP44 Outdoor<br><br>Brennenstuhl:<br>+ RCS 1000 N Comfort<br>+ RCS 1044 N Comfort<br><br>Intertechno:<br>+ CMR 1000<br>+ CMR 300<br>+ CMR 500<br>+ IT 1500<br>+ ITL 500<br>+ ITR 1500<br>+ ITLR 300<br>+ ITLR 3500<br>+ PA3 1000<br>+ YCR 1000<br><br>Elro:<br>+ AB440D 200W<br>+ AB440D 300W<br>+ AB440ID<br>+ AB440IS<br>+ AB440IL<br>+ AB440S<br>+ AB440SC<br><br>Mumbi:<br>+ m-FS300<br><br>Pollin Electronic:<br>+ Set 2605<br><br>Rev<br>+ Ritter<br>+ Telecontrol<br><br>Vivanco:<br>+ FSS 31000W<br>+ FSS 33600W<br><br><br>Not supported models:<br>- Home Easy<br>All Home Easy models use encrypted communication so unfortunately we are not able to connect to them.<br><br><br>More informations at: http://power-switch.eu<br>Forum: http://forum.power-switch.eu/<br>G+ Community: https://plus.google.com/communities/101925642491277812164",
+    "histogram": {
+        "1": 17,
+        "2": 5,
+        "3": 8,
+        "4": 26,
+        "5": 160
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/zWciKhgbmQWbtLJTGZTN2ERvldjSb9bZO_XBAySDtcrgSK8kZrfmgBoxVBMrtRyNSYk=h310",
+        "//lh3.googleusercontent.com/x-TWutAoShVJyC-MEoMtmXtq5FNkHiw6tNFVDeTDssxrMoptZ19tVvx_u0InQZsSFME=h310",
+        "//lh3.googleusercontent.com/yq4nsI3SDmsBP5S94gIQjl9leb1Tlj7hVzgegMO8JssH0IjsPMkoiZbImQuFLuTL4VI=h310",
+        "//lh3.googleusercontent.com/1-x69AvEeTuoeyuJdJmfCCKcz6ETOGGWBOXYzGrqZSWVv8f6jdu9S35oDrpfr4P6VWM=h310",
+        "//lh3.googleusercontent.com/NkuDso2V5y_AScsYFmybLt0zHpcNHbewijY9CLNF15BlYh8mkC-rd60-fyNxGe2aS2fv=h310",
+        "//lh3.googleusercontent.com/yy0R6ThWinA3ZVaTq_bLZE6R7i9Xc73nlksCbKo6DP_AIY2FaL8gpQdannvQBh06xxv0=h310",
+        "//lh3.googleusercontent.com/HUft4LHy_PBrB6b4Ly6gJYlnS0s-0Rwek9XcGQkR9m7QVrQXqzKB77x9-8No7_qdqQ0g=h310",
+        "//lh3.googleusercontent.com/5gpHDEpLnmq-h9UsWX-xqxCtdm6M9lcR4T_NFT1U6X6LJdxqn2qmR7BVPb1V3BFAltH3=h310",
+        "//lh3.googleusercontent.com/QN76lbyHD24hq0xb_6eS9Q4MNTGmTikca4WSh2KSkpb1F-1FfXgTpJSTo6sbm7n-twwT=h310",
+        "//lh3.googleusercontent.com/CzwP6yCySIHxwZTpmP8g-2vYFqM6fAY0c2eGS8d2C9tGGtbvIBT2BPihf5wltcYvcg=h310",
+        "//lh3.googleusercontent.com/RM0brMcyblzH6VgbGHTbOqBEv1NsvFETbXubx9BA5Cc4G3oxuVbkp3xxeYrgyuk-1fc=h310",
+        "//lh3.googleusercontent.com/I_XnlUVHXuf53nI4I6gOFwh10VH7bEY0IbcVQKE9C1OxRb3fNk7snvlK5ZtgAQYzWrc=h310",
+        "//lh3.googleusercontent.com/mgXaP1AtxmvJeVCzgkAUrm3Bqu_qJVPvUEPwpkukDoRZJdH9q7Bzb23N1ypiXqmA82H5=h310",
+        "//lh3.googleusercontent.com/kdzmBiPPC2EXu36vFX-6CSJmKigQOpinCxLuHbFWhiS82CBsytvT5VCcKWTlk0an3po=h310",
+        "//lh3.googleusercontent.com/538IXCVd3gjxqW1X7xKnJcVZXkmELgC8JQnLh3VYO7K2txIGP0MmxYtAfi-fZspCwOzT=h310"
+    ],
+    "comments": [
+        "Super App. Besser als das von Brennestuhl empf. Donation on the way 😀"
+    ],
+    "recentChanges": [
+        "Version History at: http://power-switch.eu/download/"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eu.power_switch&hl=en&gl=us",
+    "appId": "eu.power_switch"
+}

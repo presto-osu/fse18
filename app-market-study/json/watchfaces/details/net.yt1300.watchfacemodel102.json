@@ -1,0 +1,62 @@
+{
+    "title": "Watch Face model 102",
+    "summary": "This watch face is chronograph type.This app requires Android Wear.",
+    "icon": "//lh6.ggpht.com/VNdang400MWvoTybIbR25QwL6_Uix3Av9FT0laTzH898adYJSko1dHSkwptCk4kvoDg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 17,
+    "developer": "YT1300",
+    "developerId": "YT1300",
+    "developerEmail": "yt1300@m7.dion.ne.jp",
+    "developerWebsite": "http://yt1300s.blogspot.jp/",
+    "developerAddress": "2041-1, Ueda\nUeda-City,\nNagano-Pref.\n386-0001\nJapan",
+    "updated": "July 2, 2015",
+    "version": "1.0.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "The main dial you can see the current time.Today's date, the current time and battery level has been displayed as surround that.And say \"Ok Google\", \"start stopwatch\", will be allowed to start the stopwatch.It appears to supplant the date.The following Android Wear is required.ASUS ZenWatch,LG G Watch, LG G Watch R,Samsung Gear Live,Motorola Moto 360and so on.",
+    "descriptionHTML": "The main dial you can see the current time.<br>Today&apos;s date, the current time and battery level has been displayed as surround that.<br>And say &quot;Ok Google&quot;, &quot;start stopwatch&quot;, will be allowed to start the stopwatch.<br>It appears to supplant the date.<br><br>The following Android Wear is required.<br>ASUS ZenWatch,<br>LG G Watch, <br>LG G Watch R,<br>Samsung Gear Live,<br>Motorola Moto 360<br>and so on.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 3,
+        "4": 4,
+        "5": 6
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/acrz6MbLlZo-pBkJNO8H7HERaR2YL8wCkmHZ12rrWU5De_f1Qtt8qPZzWVBFKCobaB4=h310",
+        "//lh3.ggpht.com/DZnmXOpaBiWuAyVf7IeC8PVJWp-d0wa-gPZu2zUU9QZcT2-4tClBCORfSR8NZzMqqGE=h310",
+        "//lh6.ggpht.com/ZDK0-60GWCuDxRz_nNhUMSafmfbzvAQCSJpV8nuyBPWdDUA5ffVLT62iJ_4a9M5Otw=h310",
+        "//lh3.ggpht.com/vVakcoSdIb8QopkC4vW8fkbKpZ9aybHQZg_2BkSgjQ8Gop1SyKUPQ7w1G2s6jz_FNpo=h310",
+        "//lh4.ggpht.com/j9vRfxm0c_7FKU6q5jINLPIuUvsSqbAwtnj--qAoMuAK-O3bl0loZbFloEOjMunRM0G2=h310",
+        "//lh3.ggpht.com/I-W8I6h2FN0VbLpMMSSW97Hk2yL5yJ7_bJ3-QJuwnD8E86ggR4MISdf5MgzZoV16zPk=h310"
+    ],
+    "comments": [
+        "This app does nothing. No widget... Has settings you can set, though. Edit: OK I see now that I need to buy a device to wear on my wrist and that's what this is all about."
+    ],
+    "recentChanges": [
+        "Jul. 2, 2015 Ver.1.0.5",
+        "[New feature] Swap the large second hand and small second hand with stopwatch mode.",
+        "[Bug fix] Moto360 of Android OS 5.1.1 support",
+        "[Improvement] The newly established non-reaction area around the stopwatch button.",
+        "Apr. 16, 2015 Ver.1.0.4",
+        "[New feature] Lap time vibration striking.",
+        "[New feature] Double action reset button.",
+        "Apr. 7, 2015 Ver.1.0.3",
+        "[New feature] Notification (vibration) of every minute in Lap.",
+        "Bug fixes of Lap.",
+        "Feb. 19, 2015 Ver.1.0.2",
+        "Bug fixes of Lap"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.yt1300.watchfacemodel102&hl=en&gl=us",
+    "appId": "net.yt1300.watchfacemodel102"
+}

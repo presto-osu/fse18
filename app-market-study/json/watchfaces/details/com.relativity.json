@@ -1,0 +1,50 @@
+{
+    "title": "Relativity Watch Face",
+    "summary": "A simple yet elegant week-based watch face.",
+    "icon": "//lh4.ggpht.com/bb2fChSbfXYFEbtro2FWM1aM_xmC9d3OGsdgQdRnaNJL0inUvuhAejqPYYxwTR6W69w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 87,
+    "developer": "Elliott Chenger",
+    "developerId": "Elliott+Chenger",
+    "developerEmail": "relativity.watch@gmail.com",
+    "updated": "January 5, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Relativity is a simple yet precise way to see your relative progress through the week. It's a completely new way to see and think about time. And although it is fundamentally new in concept, it still looks and feels at home on your wrist.• Progress Through the DayThe longest marks represent midnight of each day, while the other marks represent 3am, 6am, 9am, noon, 3pm, 6pm, and 9pm throughout the day. • Progress Through the WeekAs the hand passes around the face it passes through each day, starting with Sunday at the top, and conveniently passing through Wednesday at the halfway point: halfway through the week.• Time and Date at a GlanceAlthough the progression of the hand around the face is a unique and interesting way to read the time and day, we included glanceable read-outs as well—in formats you're used to—so you can find that information in a second.",
+    "descriptionHTML": "Relativity is a simple yet precise way to see your relative progress through the week. It&apos;s a completely new way to see and think about time. And although it is fundamentally new in concept, it still looks and feels at home on your wrist.<br><br>&#x2022; Progress Through the Day<br>The longest marks represent midnight of each day, while the other marks represent 3am, 6am, 9am, noon, 3pm, 6pm, and 9pm throughout the day. <br><br>&#x2022; Progress Through the Week<br>As the hand passes around the face it passes through each day, starting with Sunday at the top, and conveniently passing through Wednesday at the halfway point: halfway through the week.<br><br>&#x2022; Time and Date at a Glance<br>Although the progression of the hand around the face is a unique and interesting way to read the time and day, we included glanceable read-outs as well&#x2014;in formats you&apos;re used to&#x2014;so you can find that information in a second.",
+    "histogram": {
+        "1": 7,
+        "2": 7,
+        "3": 12,
+        "4": 23,
+        "5": 38
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/EW0rJU__Drk0aGUSmBMo5pD9VlZDd9pGgvzTdlhP1yplJz7CG4lEAW4palmVBSwOEu0=h310",
+        "//lh3.ggpht.com/hLgI6bpoR2tp3_qOarYwvTFtKTGs5b5PlzQCCCNHPNkRpugyiMBOR3NasYr_owTy92-K=h310",
+        "//lh6.ggpht.com/EuHmgWZcnjrCKxmKVnqTEyjnmdWFdGqAXuN1WpcE2xpPYFOzY7olw_HRif-QjAkFpQ=h310",
+        "//lh3.ggpht.com/deflKkqlm4d-Ku0r4VWqzNc9XM13j40I0J3F4EjH6nAjcffCJnN4yzQXGlf5lUMvc4Y=h310"
+    ],
+    "comments": [
+        "Missing some settings on G Watch? From what I'm gathering there's supposed to be configurable settings for this watch face? I'm unable to see them on my G Watch through the watch or android wear app. Otherwise it's a beautiful face that's the perfect balance of digital and analog.",
+        "Nice! I love this concept. More cusomization would be nice.   * 24Hr support (digital) * color changes * black background * Bold text?   Apart from that - Great! also on the square G watch! :)",
+        "Not as described. Only shows 1 face. Where are the others displayed in the photos.",
+        "Great Only thing missing is the ability to change the arrow color, show the battery %, and a full black and white ambient mode. Other than that its amazing! Battery life is awesome too!",
+        "Good idea In the UK, Monday is the first day of the week. Not being able to change that is a deal breaker for me",
+        "Brilliant Excellent watch face, people always ask why only one hand. Unfortunately I am ex military and 24 hour is a must! So even though I think it is fun and gets people talking I don't use it as much as I would like."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.relativity&hl=en&gl=us",
+    "appId": "com.relativity"
+}

@@ -1,0 +1,50 @@
+{
+    "title": "High Wheel for Android Wear",
+    "summary": "High Wheel funny animated watch face for bicycle lovers and Android Wear",
+    "icon": "//lh6.ggpht.com/x6c0cito2DJCOWSy0UuMLjDQfeUprzwQ9jPbKQ-lUPZCFGMYe7ppFYnU-c32pplmhQ0T=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 5,
+    "developer": "nwg",
+    "developerId": "nwg",
+    "developerEmail": "nwg.piotr@gmail.com",
+    "developerWebsite": "http://dev.nwg.pl",
+    "developerAddress": "ul. Klonowa 2a, Nowa Wieś, 08-300 Sokołów Podlaski, Polska",
+    "updated": "January 6, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Can't imagine your life without cycling? Express what you feel on your wrist with the stylish, old-fashioned, animated watch face.This Android Wear watch face is suitable for both round and square displays. Though the high refresh rate is being used in interactive mode to animate the bicycle and the landscape, the application shouldn't increase the battery consumption significantly. Attached battery stats screenshot was taken on Sony Smartwatch 3 with always-on screen.After installing the application wait about 30 seconds (or choose 'Resync apps\"), and select the watch face either on your watch or in the companion application. You will not see the app in the app drawer.CAUTION: Please make sure whether you have Android Wear 5.0.1 installed on your watch. This application is not supposed to work with older OS versions.Based on the code copyrighted (C) 2014 to The Android Open Source Project, licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.Ideas, suggestions and bug reports please leave at http://dev.nwg.pl/high-wheel-watch-face-android-wearAndroid Wear watch face",
+    "descriptionHTML": "Can&apos;t imagine your life without cycling? Express what you feel on your wrist with the stylish, old-fashioned, animated watch face.<br><br>This Android Wear watch face is suitable for both round and square displays. Though the high refresh rate is being used in interactive mode to animate the bicycle and the landscape, the application shouldn&apos;t increase the battery consumption significantly. Attached battery stats screenshot was taken on Sony Smartwatch 3 with always-on screen.<br><br>After installing the application wait about 30 seconds (or choose &apos;Resync apps&quot;), and select the watch face either on your watch or in the companion application. You will not see the app in the app drawer.<br><br>CAUTION: Please make sure whether you have Android Wear 5.0.1 installed on your watch. This application is not supposed to work with older OS versions.<br><br>Based on the code copyrighted (C) 2014 to The Android Open Source Project, licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.<br><br>Ideas, suggestions and bug reports please leave at http://dev.nwg.pl/high-wheel-watch-face-android-wear<br><br>Android Wear watch face",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/DxLncffEintviHHNlEDU4ifUtMpSBykwV_g-_l7UKhlo6UKTPzngnfbOnx6hl6029Q=h310",
+        "//lh5.ggpht.com/984F2_AjBBMhfpWvdOsFMbPEg_M-wUMSNqMYazZfrgn29qzxRKhO1tPxhs7LI70DwOM=h310",
+        "//lh4.ggpht.com/okXBLXpN6y5oD0guXbBvI0_b0Xd2AO9wjWFdhKv7M55tG-liPj5pgeZYAB4NRGqZu30=h310"
+    ],
+    "video": "https://www.youtube.com/embed/AdTU0ITmj20",
+    "comments": [
+        "Simple, clever Many watch faces look like the cockpit of a 747. They jangle my nerves. Simple watch faces can be boring or blingy. This one strikes nice balances, which is hard to do."
+    ],
+    "recentChanges": [
+        "- code optimization to improve the battery life",
+        "- contrast decreased and animation slowed down in mute mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.nwg.dev.wear.highwheelwf&hl=en&gl=us",
+    "appId": "pl.nwg.dev.wear.highwheelwf"
+}

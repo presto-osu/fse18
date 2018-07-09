@@ -1,0 +1,59 @@
+{
+    "title": "AlarmClock Extended for Wear",
+    "summary": "Functional alarm clock for your gadget on Android Wear.",
+    "icon": "//lh3.ggpht.com/OI8meKsgbqjvSuXLtkgy7E9VjiawR-IOENyaVAGkMZjuIgEy070DYkbCfV2WuxkQdT5W=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 148,
+    "developer": "JokerXT",
+    "developerId": "JokerXT",
+    "developerEmail": "jokerextended@gmail.com",
+    "developerWebsite": "http://droidphone.ru",
+    "developerAddress": "г. Челябинск, 454014",
+    "updated": "December 12, 2014",
+    "version": "1.41",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "For those who built the alarm is not enough, \"AlarmClock Extended\" come to the rescue!The ability to manually set an alarm for any time.And it is also possible to set the alarm by default, and use voice commands to view all alarm clocks and set the alarm for a predetermined time",
+    "descriptionHTML": "For those who built the alarm is not enough, &quot;AlarmClock Extended&quot; come to the rescue!<br>The ability to manually set an alarm for any time.<br>And it is also possible to set the alarm by default, and use voice commands to view all alarm clocks and set the alarm for a predetermined time",
+    "histogram": {
+        "1": 35,
+        "2": 8,
+        "3": 20,
+        "4": 24,
+        "5": 61
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/kfNukbLPzktoLDFko1C3RRF3nQUaKcy-F5TdnvT8Krh2s0cv3nUaBwMyc_ip1ThbFRE=h310",
+        "//lh3.ggpht.com/tllKG3crqbnskGAmv3WPOtn8PIosFz3A8mUwTGQMLqu7ij-mTNFT0PYfzUkP7ECOMbA=h310",
+        "//lh3.ggpht.com/qmcRvkVxincXKB8JHqxx04A1o95L4GEInkHm_2by5S-N-kW-YJNPL4BhL5BxVbl1VeCC=h310",
+        "//lh6.ggpht.com/ZGIkdsQGbYQv6TkD1NMZZoxySCU93-sv2tDvTpe9OzRKk74HN5jSi62YjS4ohQnEXA=h310",
+        "//lh6.ggpht.com/YtICktBMbBq1RTUnp_vHFJnMLbulcxOTzUEZnVeV0C2HK6luahOGMUpLl7kjCjAJMXMo=h310",
+        "//lh5.ggpht.com/Oqu8VoGsLWuDKkRisCYvLNoyC9wEAVXAdgmgT0hzf38FbuzwI4mJ3QCWY6iZjteqmGE=h310",
+        "//lh3.ggpht.com/XPgi2yW0dl3N5X7-Gok7mmI_79erQvR2N4C2DVlyTkCgCIyoBUIm-hDNTskFbJRuhY4=h310",
+        "//lh4.ggpht.com/UAx6-aEgHHYQ95Or4_jVeXirjo-VedvQRQ778m_8JBxJkrHmZNgvvurPVr2bOBfbQJE=h310"
+    ],
+    "comments": [
+        "Excellent workaround of Google's stupid design decisions Thanks for the app Eugene! Does exactly what is advertised - can easily set up an exact time alarm, no stupid 15 minute intervals... :) Could use a slight improvement - when you are in alarms list, it is very easy to accidentally delete set alarm by swiping left-to-right (a generic dismiss gesture). The app should either ask if it's ok to delete alarm by swipping or provide a way of undoing the deletion (by a timed widget for example, like the rest of the wear interface does).",
+        "One of the best apps! Hi, I wanted to say that this app stopped working on my lg g watch after an 5.1.1 update. I didn't want to give you a bad rating because of this bug. I think it deserves 5 stars anyway. Please fix this bug. Spasibo ;)",
+        "Can't find the app on the watch I've installed and un installed twice and I still can't find the app on my LG g watch R,  it just doesn't appear on the app drawer.  has it happened to anyone? Sorry for the 2 stars,  will update the rating as soon  as problem fixed,  thx",
+        "Crashes in 5.1.1 This app was so useful. However After upgrading to 5.1.1 the app simply crashes. I'm wondering why did I upgrade to 5.1.1. Please fix.",
+        "Failed I fire up the app on my Note 3 and get a black screen with a circle containing a plus sign. I press that and the app crashes. Complete waste of time.",
+        "Can't turn off Vibration is ignoring sleep or wake. Uninstalling to see if that stops it. Using LG g watch with LG g5 phone, Android Wear 5.0"
+    ],
+    "recentChanges": [
+        "- Fix for android wear 5.0.1",
+        "- Cosmetics"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jxt.alarmclockextended&hl=en&gl=us",
+    "appId": "com.jxt.alarmclockextended"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Material Watch Face",
+    "summary": "Material watch face - Simple, elegant and useful.",
+    "icon": "//lh3.googleusercontent.com/fq86Ss30c1A1ICK_XqVQnI6MQq32Zfx3PhEIoIKk_qPbFqGA6UVpmnryWIVDSXbfpA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 398,
+    "developer": "Alessandro Borelli",
+    "developerId": "Alessandro+Borelli",
+    "developerEmail": "alessandroxborelli@gmail.com",
+    "developerWebsite": "https://www.linkedin.com/in/alessandroborelli",
+    "developerAddress": "alessandroxborelli@gmail.com",
+    "updated": "February 26, 2017",
+    "version": "1.1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Material Watch Face  is a watch face for Android wear devices.With its elegant and minimal design, it shows you the hour in digital format, the battery level, the date and weather in your location.You can choose between two different themes: default, white.More updates coming soon with more settings available.",
+    "descriptionHTML": "Material Watch Face &#xA0;is a watch face for Android wear devices.<br><br>With its elegant and minimal design, it shows you the hour in digital format, the battery level, the date and weather in your location.<br><br>You can choose between two different themes: default, white.<br><br>More updates coming soon with more settings available.",
+    "histogram": {
+        "1": 36,
+        "2": 41,
+        "3": 63,
+        "4": 120,
+        "5": 138
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/OeWhzUA260B3TAu_lgNQu0Z60FEnyMPTZcHrkpTOc9ZsqoiK_BPh3tt_y6vb3OiBPEQ=h310",
+        "//lh3.googleusercontent.com/-USWBmb6HR1wCWrB_VI1II2Y5jdQgIrXYsxmh-f8Pz1L0QkwF58clTclGU4LQWsC4g=h310",
+        "//lh3.googleusercontent.com/1KsIgs39z3-XK9j2BeJs-kx34Duxg24NTV3ytGuYYLKLvno6071mNZ4yqDv5dpbmYT0=h310",
+        "//lh3.googleusercontent.com/m4LYsYVrCjhNNA4xX7T9qKPxxXK54kwrxPy42btiH5azPPmS-bie33xFMmiv4KqFFw=h310"
+    ],
+    "comments": [
+        "Why can't I find this app on my LG watch urbane 1st Gen on Android Wear 2.0?   Update : ok no prob now, i was just stupid",
+        "I really liked this on my LG G Watch. Too bad it's not compatible with the LG Watch  Style.",
+        "I really like it, would be nice to be able to chance the top color part with something at your won choice and weather to be updated without phone needing to be paired. But otherwise it;s nice.",
+        "Refuses to apply changes unless GPS is enabled",
+        "Battery Indicator Is Pointless I love this watchface, but there is a bug with the weather when it comes out of ambient mode, the temperature jumps to billions of degrees. One thing I would love is if the battery could reflect my phone's battery and not my watch's battery, I don't care what my watch is at. That one change and I'll give 5 stars, thanks!",
+        "I like the design, the simplicity and yet the amount of information it displays. But, I've seen a bug on multiple occasions where the ambient display is stuck with seconds, battery and date info displayed. It does resolve in time, but it is strange."
+    ],
+    "recentChanges": [
+        "- added option - 24 hours / 12 hours",
+        "- added option - Celsius / Fahrenheit",
+        "- added option - show / hide seconds, date, battery",
+        "- performance improvement",
+        "- bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.alessandroborelli.materialwatchface&hl=en&gl=us",
+    "appId": "com.alessandroborelli.materialwatchface"
+}

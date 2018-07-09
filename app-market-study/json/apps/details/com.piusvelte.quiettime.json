@@ -1,0 +1,49 @@
+{
+    "title": "Quiet Time",
+    "summary": "Control silencing your phone by muting and unmuting the connected watch.",
+    "icon": "//lh5.ggpht.com/IcBmDbUBFinL5kSTbuiApnzrgHJ3lz9D5kVVRHg-E5Aqv-4jLontQXfTNnKKdFwD2w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.3,
+    "reviews": 22,
+    "developer": "Piusvelte",
+    "developerId": "Piusvelte",
+    "developerEmail": "piusvelte@gmail.com",
+    "developerWebsite": "http://www.piusvelte.com",
+    "updated": "December 16, 2014",
+    "version": "2.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Control silencing your phone by muting and unmuting the connected watch. Whenever you mute or unmute your watch, your phone will also be silenced or the ringer returned to normal.This is currently tested with the stock launcher on the LG G Watch, Samsung Gear Live, and Moto 360.",
+    "descriptionHTML": "Control silencing your phone by muting and unmuting the connected watch. Whenever you mute or unmute your watch, your phone will also be silenced or the ringer returned to normal.<br><br>This is currently tested with the stock launcher on the LG G Watch, Samsung Gear Live, and Moto 360.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 15
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/_QNjOXrOEwewQakjTYJhwDyZj0WF_B7_8FhKiSZnAhJJvoKrBg4ms_tGnVfsjqGOh98=h310",
+        "//lh3.ggpht.com/w7SC45pLh1dGB1bOpFPoayB7O_zF4qTQjhGFTZFaPkY_ErAIuYmyJyVozYX7aSm1Utw=h310"
+    ],
+    "comments": [
+        "Great app Unitil the latest update of Moto360, it is out of function.",
+        "Response time long It takes quite a while for the phone to response.",
+        "Logic at its Best This is a simple, logical way to mute your phone. Perfect!",
+        "Easy, effective, and great name"
+    ],
+    "recentChanges": [
+        "Fix for Android Wear 5.0.1 new settings"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.piusvelte.quiettime&hl=en&gl=us",
+    "appId": "com.piusvelte.quiettime"
+}

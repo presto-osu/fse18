@@ -1,0 +1,55 @@
+{
+    "title": "Wear Music",
+    "summary": "Android Wear Control for Music",
+    "icon": "//lh4.ggpht.com/M1yhuncAgVay9DucctmqHDl9YAXTxgbih6T7fX0K5Avw5972Sij1ZnDK2riGh3PsvpE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 218,
+    "developer": "ShakeJ",
+    "developerId": "8055535155397101438",
+    "developerEmail": "shakejj@gmail.com",
+    "developerWebsite": "http://shakej.com",
+    "developerAddress": "서울시 강남구 신사동 534",
+    "updated": "January 12, 2017",
+    "version": "2.0.6",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "It is compatible with Android Wear.  Wear Music Maybe Hear the music of the day that most of do with smartphones. This app support more easily control your music with Wear. With 'play', 'stop', 'pause', 'next track', 'prev track' control music and 'Volume up',  'Volume down' Select the app you are running 'Start' - 'Wear Music' in Wear. (Or Wear music start voice command) This application feature is - control Music Play, Stop, Pause, Next, Previous To Any Music player!- control Volume up&downAnd all free!Version new 2.0.0 updated, Support Lollipop(Above 5.0) :0 (But first-time you do allow notification-listener, because control music player!)Happy music!",
+    "descriptionHTML": "It is compatible with Android Wear.  <br>Wear Music <br><br>Maybe Hear the music of the day that most of do with smartphones. <br>This app support more easily control your music with Wear. <br><br>With &apos;play&apos;, &apos;stop&apos;, &apos;pause&apos;, &apos;next track&apos;, &apos;prev track&apos; control music and <br>&apos;Volume up&apos;,  &apos;Volume down&apos; <br><br>Select the app you are running &apos;Start&apos; - &apos;Wear Music&apos; in Wear. <br>(Or Wear music start voice command) <br><br>This application feature is <br>- control Music Play, Stop, Pause, Next, Previous To Any Music player!<br>- control Volume up&amp;down<br>And all free!<br><br>Version new 2.0.0 updated, <br>Support Lollipop(Above 5.0) :0 <br>(But first-time you do allow notification-listener, because control music player!)<br><br>Happy music!",
+    "histogram": {
+        "1": 22,
+        "2": 19,
+        "3": 40,
+        "4": 50,
+        "5": 87
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jXaK_lu324Xx3tv5pa0yJQg_C4IXVFf4ilMzYl9cqi2n0I14GtWTCgKrXxziguqZC7w=h310",
+        "//lh3.googleusercontent.com/yHsJKgbqo96tyUsyoE0pYzLM1Xo--g-rYA3fUPn95OmMPXjgDkOtCRHAIRH5vY6suQ=h310"
+    ],
+    "video": "https://www.youtube.com/embed/xmd-1K_WBhU",
+    "comments": [
+        "Doesn't work for music reliably. You have to tap 10 times the button and maybe it'll recognize one if those 10 times. Most probably it won't",
+        "Used to be a good app for the Moto 360 The new update has the top and bottom buttons half off the screen due to the shape of the moto 360. Pressing play opens the music player but doesn't actually play the music. There's no chance people will pay £2.50 for a theme for this app.",
+        "Almost didn't install Based on the rating I almost didn't even install it... Seriously people? It works well for me, I'm on Lollipop 5.1.1 its also free what is wrong with you people?? Should lower the donation 5$ is a bit much, I'd donate $1 if I could.",
+        "It does what it's supposed to. Only drawback is, you have to open the music on your phone first.  Edit...  As I write this, I noticed that pressing play button on watch while music plays, causes the song to start over again rather than pick up from where it was stopped.",
+        "Works Fine Open the app on your watch. Just try it. It works. Faster than Wear Music Controller, though not sure if the WiFi button works, however this is an added feature anyway, the main functionality is fine.",
+        "A start. Worked for awhile then stopped. Had to reinstall over and over. A start.."
+    ],
+    "recentChanges": [
+        "New 2.0.4",
+        "- Music always play!",
+        "- Open Theme Shop"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.shakej.wear.music&hl=en&gl=us",
+    "appId": "com.shakej.wear.music"
+}

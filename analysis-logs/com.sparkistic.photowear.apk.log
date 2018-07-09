@@ -1,0 +1,56 @@
+[INFO] ApkUtil: Run cmd: /export/raid/Android/Sdk/tools/bin/apkanalyzer manifest print ./apks/wear/com.sparkistic.photowear.apk
+Soot started on Thu Jun 21 12:11:21 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.sparkistic.photowear.JustAMinuteFace
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.sparkistic.photowear.apk
+[INFO] MySceneTransformer: ############## com.sparkistic.photowear.JustAMinuteFace$a ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   781
+[INFO] FlowGraph: @@@@ Total Methods: 4973
+[INFO] FlowGraph: @@@@ Total Stmts:   69969
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r3_6=[-1], $r5_5=[-1], $r2_13=[-1], $r2_7=[-2130706433], $r6_3=[-1], $r5=[-1], $r8_14=[-1], $r12_2=[-1], $r6_8=[-1], $r2_11=[-1], $r6=[-1], $r8_2=[-65536], $r2_3=[-1], $r2_6=[-1], $r2_1=[-1], $r3_3=[-16777216], $r2_9=[-1056964609], $r1_4=[-1], $r12_1=[-1], $r3=[-1], $r2_8=[-1056964609], $r8_17=[-1], $r5_4=[-65536], $r8_11=[-65536], $r3=[-1], $r8_19=[-1], $r2_4=[-1], $r8=[-1], $r1_3=[-1], $r2_2=[-1], $r1=[-1], $r1_1=[-1], $r2_12=[-1], $r6_1=[-14774529], $r2_10=[-1], $r6_2=[-1], $r6_4=[-1], $r1_5=[-1056964609], $r6_7=[-1], $r5=[-1], $r2_5=[-1], $r12=[-1], $r6_5=[-1], $r1_6=[-1056964609], $r5_31=[-1]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r3_6=[-1], $r5_5=[-1], $r2_13=[-1], $r2_7=[-2130706433], $r6_3=[-1], $r5=[-1], $r8_14=[-1], $r12_2=[-1], $r6_8=[-1], $r2_11=[-1], $r6=[-1], $r8_2=[-65536], $r2_3=[-1], $r2_6=[-1], $r2_1=[-1], $r3_3=[-16777216], $r2_9=[-1056964609], $r1_4=[-1], $r12_1=[-1], $r3=[-1], $r2_8=[-1056964609], $r8_17=[-1], $r5_4=[-65536], $r8_11=[-65536], $r3=[-1], $r8_19=[-1], $r2_4=[-1], $r8=[-1], $r1_3=[-1], $r2_2=[-1], $r1=[-1], $r1_1=[-1], $r2_12=[-1], $r6_1=[-14774529], $r2_10=[-1], $r6_2=[-1], $r6_4=[-1], $r1_5=[-1056964609], $r6_7=[-1], $r5=[-1], $r2_5=[-1], $r12=[-1], $r6_5=[-1], $r1_6=[-1056964609], $r5_31=[-1]}]
+[INFO] MySceneTransformer: setColor equal=true
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [red, ff1e8eff]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [red, ff1e8eff]
+[INFO] MySceneTransformer: colors equal=true
+[INFO] MySceneTransformer: TOTAL TIME: 23.098000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 12:11:48 EDT 2018

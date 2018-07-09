@@ -1,0 +1,46 @@
+{
+    "title": "Matrix Calculator - wear",
+    "summary": "FREE Android Wear matrix calculator: determinant, eigenvalues, rank, inverse.",
+    "icon": "//lh3.googleusercontent.com/nFa1Xi1e598mIlDyYEjmpNq35aVYLNgHPWkXx8q9TpOUoaZCngpId9j0XBwiG1R3XE4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 8,
+    "developer": "Mirko Mantovani",
+    "developerId": "Mirko+Mantovani",
+    "developerEmail": "mirkomantovani23@gmail.com",
+    "updated": "April 16, 2016",
+    "version": "1.2",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "Matrix calculator for Android Wear is a powerful tool which allows you to calculate determinant, rank, eigenvalues and inverse of a 2X2 or 3X3 matrix even on your tiny smartwatch.Now you can know if you are doing your calculations right real-time, just type 9 digits and press Calculate and the App will give you immediate comparison of your result, even if you're in a test :DMatrices are extremely useful in engineering, they found applications mostly in Linear Algebra, but can also be found in most scientific fields. In every branch of physics, including classical mechanics, optics, electromagnetism, quantum mechanics, and quantum electrodynamics, they are used to study physical phenomena. And remember, the App is completely FREE.This is the first version of the App, soon new features will be released, such as the possibility to calculate Eigenvectors. It will be possible to calculate bigger matrices on the phone.",
+    "descriptionHTML": "Matrix calculator for Android Wear is a powerful tool which allows you to calculate determinant, rank, eigenvalues and inverse of a 2X2 or 3X3 matrix even on your tiny smartwatch.<br><br>Now you can know if you are doing your calculations right real-time, just type 9 digits and press Calculate and the App will give you immediate comparison of your result, even if you&apos;re in a test :D<br><br>Matrices are extremely useful in engineering, they found applications mostly in Linear Algebra, but can also be found in most scientific fields. In every branch of physics, including classical mechanics, optics, electromagnetism, quantum mechanics, and quantum electrodynamics, they are used to study physical phenomena.<br><br> And remember, the App is completely FREE.<br><br>This is the first version of the App, soon new features will be released, such as the possibility to calculate Eigenvectors. It will be possible to calculate bigger matrices on the phone.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/y1qHLKRtSeEW7A4XIfW8iL1DHL1_LG6OpDPp3CwzX35F1NS4ZD3CsBen7wfwK4f9UYs=h310",
+        "//lh3.googleusercontent.com/pmwOpWGc5iHA8HJzRXi7Njfic0JZgnXwo0YEBfhC3f9K-XcLc3OaM9kbn6L955cturE=h310",
+        "//lh3.googleusercontent.com/xykoP9DAFBsoQLCcOHKOfQxczM7vq8uHTVj6tCsMLYTmQtBihPolt9WKZoR2AN6WAVQ=h310",
+        "//lh3.googleusercontent.com/zUlA7lk53KB00TK5uME5p6RAekwZqY0asWiC46V9a5aYSRUTPEqdrqiiCIpsyEqnTg=h310",
+        "//lh3.googleusercontent.com/SV5cuM7Np7Qh3Htt6u9UUjn8EoTnpLRaXnFYQpARfcIIGEDj2KUhj4WzZLAZR2_rxGA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "With this update it's finally be possible to calculate Matrices even on your smartphone"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mirkomantovani.matrixcalculatorwear&hl=en&gl=us",
+    "appId": "com.mirkomantovani.matrixcalculatorwear"
+}

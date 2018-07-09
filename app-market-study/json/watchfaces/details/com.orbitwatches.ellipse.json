@@ -1,0 +1,54 @@
+{
+    "title": "Ellipse 3D Watch Face",
+    "summary": "Get our simple yet elegant 3D watch-face and explore a new dimension of time.",
+    "icon": "//lh3.ggpht.com/4bBS8XedwiyzqSSMpPcigkkybQlwwP1LEj6g11Yf7Ch_RsLWlMtp3cyOoSr8hDmFyg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 50,
+    "developer": "Orbit Watches",
+    "developerId": "Orbit+Watches",
+    "developerEmail": "orbitwatchfaces@gmail.com",
+    "developerWebsite": "http://www.facebook.com/pages/Orbit-Watches/323126967882040",
+    "developerAddress": "1909 Tindaro Dr.\nApopka, FL. 32703",
+    "updated": "January 27, 2015",
+    "version": "1.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Beautifully designed with dynamic light and shadow, this 3D watch face exudes both depth and style. The Ellipse with it's simple yet elegant design and clean lines make this watch not only great to look at but easy to read. With this watch face the beauty is in the details, from the sweeping motion of the second hand to the intricate design of the hour and minute hands. Give your modern smart watch the classic look of a high-end timepiece with our minimal yet elegant three dimensional watch face. Upgrade your digital timepiece today and explore a new dimension of time.",
+    "descriptionHTML": "Beautifully designed with dynamic light and shadow, this 3D watch face exudes both depth and style. The Ellipse with it&apos;s simple yet elegant design and clean lines make this watch not only great to look at but easy to read. With this watch face the beauty is in the details, from the sweeping motion of the second hand to the intricate design of the hour and minute hands. Give your modern smart watch the classic look of a high-end timepiece with our minimal yet elegant three dimensional watch face. Upgrade your digital timepiece today and explore a new dimension of time.",
+    "histogram": {
+        "1": 6,
+        "2": 6,
+        "3": 7,
+        "4": 20,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/DTQp5E9KFlG_Mp36kl6E7qPpSQETP-bOlYw2g8K4npn5JbyGmLYp_JlY1POHdggVv8fJ=h310",
+        "//lh3.ggpht.com/d38hlz8NtQIw2MAv4KcoUvONA-kWi6x64DwIL9NXMVvo8WsvTDxsDW304fjE2ZhpBJE=h310",
+        "//lh5.ggpht.com/LP-W3fLcUiVO6zeUypm_tVLTbIWdgO5blktIKozvdNKl40LBGHBx3eM9-Ge0415Jdks=h310"
+    ],
+    "video": "https://www.youtube.com/embed/FXtS5kzhI-o",
+    "comments": [
+        "One of the slickest watch faces Until an update screwed the alignment up on Moto 360. Three months later and still not fixed. Poor show.",
+        "Has potential, Unfortunately on Moto 360 Gen 1, it seems to align with the bottom of the screen, not the top, which leaves a gap the same size as the amient light sensor at the top of the face. Not usable, but fixable guys...",
+        "Beautiful This is probably the best looking analog face I've found for my G Watch. Only request I have for it is a day/date display. Otherwise it's almost perfect.",
+        "Fix it! It's dropped off centre on Moto 360, is it so hard to fix?!",
+        "Not round This watch face looks like a triangle in my moto 360. Please refund my money. Four days just pass, and I still didn't get a refund. I want my money back now please.",
+        "Love it I really like this watch face - the 3D effect with the highlight and shadows looks terrific."
+    ],
+    "recentChanges": [
+        "Fixed a bug that caused hangs and crashing occasionally while in ambient mode."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.orbitwatches.ellipse&hl=en&gl=us",
+    "appId": "com.orbitwatches.ellipse"
+}

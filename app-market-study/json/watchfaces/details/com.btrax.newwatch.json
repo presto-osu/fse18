@@ -1,0 +1,47 @@
+{
+    "title": "dog watch face",
+    "summary": "Cute dogs is changed every minute.",
+    "icon": "//lh6.ggpht.com/pRc2K63ok_RR-FuAtbL729wxJ4mw6HnGhC2j0bTM0XVbqDpLknN5lLHffNGpRBrS3H0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 1,
+    "reviews": 2,
+    "developer": "btrax, Inc.",
+    "developerId": "btrax,+Inc.",
+    "developerEmail": "developer@btrax.com",
+    "developerWebsite": "http://btrax.com/",
+    "updated": "December 17, 2014",
+    "version": "1.0.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "This is sample app of android wear watch face apps.source codehttps://github.com/btrax/sample-watch-face-official-api",
+    "descriptionHTML": "This is sample app of android wear watch face apps.<br><br>source code<br>https://github.com/btrax/sample-watch-face-official-api",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/Etm7CYXNWu9OQggrHhqkCwOx-HNeEd9kg37pkBN8oZm2HM8wfFIofDb1J07Hhknk2-s=h310",
+        "//lh3.ggpht.com/BoYbwH2xZ4q88EmbjIhbrBgrL0ja2d0Y98K4OZAANBvrLP7zlUlXIbcuA5hU1bIp3i6y=h310",
+        "//lh4.ggpht.com/AX3MZA51l-KNfUGdnYb7wPuG7xU1ieylxA87dncEB0gUTj3EieVPEt2Y_Ih_s85S2jE=h310"
+    ],
+    "comments": [
+        "Don't like it Wrong Language, Dosn't Work"
+    ],
+    "recentChanges": [
+        "bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.btrax.newwatch&hl=en&gl=us",
+    "appId": "com.btrax.newwatch"
+}

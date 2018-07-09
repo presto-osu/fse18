@@ -1,0 +1,55 @@
+{
+    "title": "Aviator Timepiece",
+    "summary": "Android Wear watch face inspired by the vintage pilot watches",
+    "icon": "//lh3.googleusercontent.com/55BQslUV0iMMCUd26jIgq_WhH8Q_lehcr9fNwzTLZMMdwLRlOSYxbikjlZ87OgpHag=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 414,
+    "developer": "Gaëtan",
+    "developerId": "Ga%C3%ABtan",
+    "developerEmail": "studio@gaetana.fr",
+    "developerWebsite": "http://aviatortimepiece.gaetana.fr",
+    "updated": "October 23, 2015",
+    "version": "1.2.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch face design and inspirationThe watch face design is highly influenced from the 1940’s automatic pilot watches. Similar to cockpit instruments it shows a simplistic design, reduced to the essential and with a clear objective: the readability.The projectAviator Timepiece was initially a personal project for my self-instruction. I am a hobbyist programmer. I was satisfied with the final result and so I decided to publish the app for free via the Play Store. I hope you will find it cool! Please take this into consideration if you want to give a rate to the app.Features✈ Sweeping second, minutes & hour hands✈ Adaptative design for watches with a chin (like Moto 360). Ticks and hands length adjust if a chin is detected. ✈ Power reserve indicator (battery level indicator).✈ Day of week, day of month✈ High contrast ambient mode✈ Android Wear app companion. Change the watch frequency, colour and more.Future ImprovementsI will try to continuously improve the watch face but with no guarantee. The improvement that are currently under evaluation are:✈ Code refactoring and performance improvement✈ More settings✈ Improved design for square screen devices✈ Add a Android Wear setting activity.✈ I’m open to suggestion if you have any idea...I'm looking for beta tester to try new versions before they are released. Please contact me if you are interested in joining the beta program: studio@gaetana.frCompatibilityThe watch face is made to function with Android Wear devices with a minimum version of 5.0.The application is not compatible with smartwatches running other operating system like Samsung Galaxy Gear.",
+    "descriptionHTML": "<b>Watch face design and inspiration</b><br>The watch face design is highly influenced from the 1940&#x2019;s automatic pilot watches. Similar to cockpit instruments it shows a simplistic design, reduced to the essential and with a clear objective: the readability.<br><br><b>The project</b><br>Aviator Timepiece was initially a personal project for my self-instruction. I am a hobbyist programmer. I was satisfied with the final result and so I decided to publish the app for free via the Play Store. I hope you will find it cool! Please take this into consideration if you want to give a rate to the app.<br><br><b>Features</b><br>&#x2708; Sweeping second, minutes &amp; hour hands<br>&#x2708; Adaptative design for watches with a chin (like Moto 360). Ticks and hands length adjust if a chin is detected. <br>&#x2708; Power reserve indicator (battery level indicator).<br>&#x2708; Day of week, day of month<br>&#x2708; High contrast ambient mode<br>&#x2708; Android Wear app companion. Change the watch frequency, colour and more.<br><br><b>Future Improvements</b><br>I will try to continuously improve the watch face but with no guarantee. The improvement that are currently under evaluation are:<br>&#x2708; Code refactoring and performance improvement<br>&#x2708; More settings<br>&#x2708; Improved design for square screen devices<br>&#x2708; Add a Android Wear setting activity.<br>&#x2708; I&#x2019;m open to suggestion if you have any idea...<br><br>I&apos;m looking for beta tester to try new versions before they are released. Please contact me if you are interested in joining the beta program: studio@gaetana.fr<br><br><b>Compatibility</b><br>The watch face is made to function with Android Wear devices with a minimum version of 5.0.<br>The application is not compatible with smartwatches running other operating system like Samsung Galaxy Gear.",
+    "histogram": {
+        "1": 12,
+        "2": 5,
+        "3": 20,
+        "4": 85,
+        "5": 292
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/K_QyvVwfqxSrYG-4o92PvqnO7MmnC5XnuPwfJLjO61dOCTqhmcYqqMUFnWySODW_rQ=h310",
+        "//lh3.googleusercontent.com/QmXgcfYFUXPRX-z5GzbQ63t6d-IDC-soWNR_ztXauDYF1W5nVOtttSd5Zm8-QMtI3gk=h310",
+        "//lh3.googleusercontent.com/A95vZMHfyD54zDM3JTfaYmExNGLtkL7fi3Os_ItyWlviQMAvyjdFVY2t3Q1JXsWz1Yk=h310",
+        "//lh3.googleusercontent.com/nbDZGzbRMjJaSuwM7sU_2gGtcFOTBVP5x77xVpEbupka-KSOAwVMNhi79JVmUCZtdJwR=h310"
+    ],
+    "comments": [
+        "I hardly ever write reviews, but after trying every \"aviation\" style watchface on the Play Store, including several purchased ones, I've found this to be the best.  It's the clearest and most readable, both in full mode and in ambient mode; displays exactly what I want; doesn't have much customizability but why mess with perfection.    Thank you Gaetan!",
+        "Perfect. I do not usually write reviews but I am very impressed with this watch face. It is very good looking, awesome ambient mode, day and date are there, and the battery meter is nice to have and doesn't take up much room at all. Can't beat the price either. Well done.",
+        "It's a very beautiful, functional watch face.  Very well laid out.  To me, the only thing that would make it perfect was if there was the ability for the user to set how long the second hand sweeps/ticks before going into sleep mode.  Thanks for making this face public!!",
+        "Finally !! I tried many faces but this one finally delivers.  It's easy to read in both modes.  I would suggest maybe to drop the useless beats per second function and give us the function to choose the delay for ambient mode",
+        "Would give 5 stars if a square option were available, and had a little more customization options. But, it does what its supposed to do. Can't complain much.",
+        "Almost got myself to develop a flat tire compatible watch face till I stumble on this. A marvellously created watch face that is zero nonsense. Loving it with Fossil Q Marshal"
+    ],
+    "recentChanges": [
+        "✈ Update background bitmap for higher resolution to support Moto 360 2015 & Huawei Watch.",
+        "✈ Improve performances drawing watch hands.",
+        "✈ Remove all references to Time & getDrawable functions, deprecated in API 22."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fr.gaetana.aviatortimepiece&hl=en&gl=us",
+    "appId": "fr.gaetana.aviatortimepiece"
+}

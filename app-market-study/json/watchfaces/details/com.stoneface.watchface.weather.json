@@ -1,0 +1,57 @@
+{
+    "title": "Weather Watch Face Interactive",
+    "summary": "Animated Interactive Weather Watch Face for Android Wear",
+    "icon": "//lh3.googleusercontent.com/NmGMorZbFGAOL6wvCI034peYjEbfnDTo3y1dqqVTidIw4Gy9WwMPWnQ0GFH_kotks6c=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.1,
+    "reviews": 49,
+    "developer": "Stoneface",
+    "developerId": "Stoneface",
+    "developerEmail": "stonefaceapps@gmail.com",
+    "developerAddress": "220140, Minsk, Belarus\n91 Pritytskogo str., 345",
+    "updated": "February 8, 2016",
+    "version": "1.5",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "Interactive animated weather watch face for round and square Android Wear watches.FEATURES:★ Animated weather backgrounds★ Weather Forecast for more than 74.000 locations★ Auto-detection of current location★ Date and Day information★ Phone Battery information★ Watch Battery indicator★ 12/24 format★ High Resolution Design★ Ambient (dimmed) mode★ Support for Round and Square watchesINSTRUCTION:1. Install Weather Watch Face2. Wait a minute2. Go to Android Wear Application3. Choose Weather Watch Face4. Enjoy!The weather watchface has been tested on Moto® 360, LG® G Watch R, ASUS® ZenWatch, Sony® SmartWatch and other. Any problems? Please email me and I'll try my best to fix any issues you have!",
+    "descriptionHTML": "Interactive animated weather watch face for round and square Android Wear watches.<br><br>FEATURES:<br><br>&#x2605; Animated weather backgrounds<br>&#x2605; Weather Forecast for more than 74.000 locations<br>&#x2605; Auto-detection of current location<br>&#x2605; Date and Day information<br>&#x2605; Phone Battery information<br>&#x2605; Watch Battery indicator<br>&#x2605; 12/24 format<br>&#x2605; High Resolution Design<br>&#x2605; Ambient (dimmed) mode<br>&#x2605; Support for Round and Square watches<br><br>INSTRUCTION:<br><br>1. Install Weather Watch Face<br>2. Wait a minute<br>2. Go to Android Wear Application<br>3. Choose Weather Watch Face<br>4. Enjoy!<br><br>The weather watchface has been tested on Moto&#xAE; 360, LG&#xAE; G Watch R, ASUS&#xAE; ZenWatch, Sony&#xAE; SmartWatch and other. Any problems? Please email me and I&apos;ll try my best to fix any issues you have!",
+    "histogram": {
+        "1": 3,
+        "2": 6,
+        "3": 5,
+        "4": 6,
+        "5": 29
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/HKj1xDfs4CsvEehDDa5YHJbzWyttc7r8yRu9jczqjNnemmtP4BebrZ4_PhMRJnOmkw=h310",
+        "//lh3.googleusercontent.com/7PYv2XZXSmWHSiWVnubrfjLHYWx9Fkfh5ladYdvGLU9mRoUQm9EXiOZyZrk96X0SulY=h310",
+        "//lh3.googleusercontent.com/8F6_hkEgwiRfTO9ZFAklzcYcJwVBN2Nyq3nxG4ZBb6SmtmUs0dlET5NA6ERVwBsIvQ=h310",
+        "//lh3.googleusercontent.com/-pVNKhyB9Dk7hzUulfAoBsuS6O6Pgnz4Gzvn7uUBDmSVKJXcCWFsVIu8WMAlDx-dRf8=h310"
+    ],
+    "comments": [
+        "Can't use. Moto 360 1st gen When the battery hits zero it will actually cause the watch to boot loop as it gets just enough power to boot and goes to the watch face, yet the face will cause the battery to drain faster than the charger can charge the battery. A cycle hard to get out of.",
+        "Not a bad idea, has some potential but it's too basic for me. No options is a no-no for me",
+        "Awesome watch face Awesome watch face love the look and everything works great just a little heavy on the watch battery for my taste!",
+        "Very beautiful watch face. I like it.",
+        "watch face very very nice watch face.",
+        "Nice Very nice design"
+    ],
+    "recentChanges": [
+        "Please, don't forget to mark ★★★★★",
+        "v1.5",
+        "+Weather Watch Face bacame Interactive - touch the sxreen to see wear & phone battery data",
+        "- Improved performance",
+        "- Reduced power consuming"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.stoneface.watchface.weather&hl=en&gl=us",
+    "appId": "com.stoneface.watchface.weather"
+}

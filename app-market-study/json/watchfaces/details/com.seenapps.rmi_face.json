@@ -1,0 +1,48 @@
+{
+    "title": "RMI Avionics Watch Face",
+    "summary": "A watchface borrowing Radio Magnetic Indicator look and feel.",
+    "icon": "//lh6.ggpht.com/zReH0SDr5Bgr5DBeJFU0KogfzmYk9LNtj_2nTvisgUanjzMctFcPiRkXwLFO7pkkF7c=w300",
+    "price": "$1.29",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 5,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "April 9, 2015",
+    "version": "3.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "For Avionics / Flying enthusiasts.This is not a functional Radio Magnetic Indicator but a watch face reusing the look and feel.The dial represents Cardinal Points along with 8 major directions.Hours and minutes are indicated by the two big hands. You can see through the yellow minute hand which reveal hours hand when overlapped.Seconds are represented by an orange tick.Date is displayed using a VOR from/to look and feel. Day of the week is displayed vertically (black on red) while day of the month is white on black background.Navigation lights (Port and Starboard) blink every other second on the central plane.New in V3.0: Battery level is indicated by the blue tick which circles from North (top) at 100% to West at 75%, South at 50% and so on.Ambient mode is managed by removing most of the dial, the plane and switching color to a glow like green. This mode is heavily geared towards reeduced battery usage.Originally created for my Moto 360, it can run 24h with this faceDo not hesitate to drop feature requests at support@seenapps.comIf you like our watches, don't miss the good stuff https://twitter.com/SeenApps",
+    "descriptionHTML": "For Avionics / Flying enthusiasts.<br>This is not a functional Radio Magnetic Indicator but a watch face reusing the look and feel.<br>The dial represents Cardinal Points along with 8 major directions.<br>Hours and minutes are indicated by the two big hands. You can see through the yellow minute hand which reveal hours hand when overlapped.<br>Seconds are represented by an orange tick.<br>Date is displayed using a VOR from/to look and feel. Day of the week is displayed vertically (black on red) while day of the month is white on black background.<br>Navigation lights (Port and Starboard) blink every other second on the central plane.<br><br>New in V3.0: Battery level is indicated by the blue tick which circles from North (top) at 100% to West at 75%, South at 50% and so on.<br><br>Ambient mode is managed by removing most of the dial, the plane and switching color to a glow like green. This mode is heavily geared towards reeduced battery usage.<br><br>Originally created for my Moto 360, it can run 24h with this face<br><br>Do not hesitate to drop feature requests at support@seenapps.com<br>If you like our watches, don&apos;t miss the good stuff https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/8VqUdrVSBBB7qG4Ude3s3i--7m0-_XMw3CUG7Kf-tbP0LGjJYbn61J51x1sFrpZuprtP=h310",
+        "//lh5.ggpht.com/-Klyr0UHSfPVWt0OotVOtuoKiGP-JhAp2kg7WhGVvKoNTe2sCMzLbkRIsn1YhdywrA=h310",
+        "//lh6.ggpht.com/SZeSrmQP3Nh58DMgm3FhddH_2CDYxfm5rxoTvLjfTwpaeRRC0e3tA-9MAo9t05CBxvcY=h310",
+        "//lh4.ggpht.com/NTtWOkunKREZyic0gCNAsIn4Q-6vZl1XSWyLqu79ANqMFtH36YK78faFJPlQTFJjRg=h310"
+    ],
+    "comments": [
+        "Wicked Love the watch face, great job!"
+    ],
+    "recentChanges": [
+        "Scaled rendering to best fit smaller devices (LG watch G) and upcoming high def screens (Huawei @ 400x400)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.rmi_face&hl=en&gl=us",
+    "appId": "com.seenapps.rmi_face"
+}

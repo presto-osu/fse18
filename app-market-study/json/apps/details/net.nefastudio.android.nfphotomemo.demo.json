@@ -1,0 +1,60 @@
+{
+    "title": "Photo Memo widget (DEMO) +SW2",
+    "summary": "Simple Widget to hold 5 quick shot and view photo for easy memo / sharing! +SW2",
+    "icon": "//lh4.ggpht.com/gzRoOM7A61Crl54-udDCuLChlqedXE4s7U-ydDQpUTCC4g2rJ8k175xdDZa57SmWYAU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.8,
+    "reviews": 36,
+    "developer": "NeFa Studio",
+    "developerId": "NeFa+Studio",
+    "developerEmail": "nefastudio@gmail.com",
+    "developerWebsite": "http://nefastudio.net/",
+    "developerAddress": "5410053\nJP Osaka, Osaka-city chuoku honmachi 4-8-1",
+    "updated": "September 20, 2014",
+    "version": "2.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "DEMO Version : photo taken with this app will have \"DEMO VERSION\" text. Ads are shown in app.Nice designed quick access to 5 Photo Memo widget.2x3 and 4x1 size widget available (only single widget at a time is supported)V2.0 supports viewing memo from Sony SmartWatch2!Android Wear support version also available (find app from same developer)Simple usage, take and view photo memo in simple steps.-5 photo memo for quick access-Supports GPS if available (launches Google Map)-Filter effects to match your home design (Original image is not modified)-Share, send via email in simple steps. When sending email, date/time and location where photo taken is automatically attached in mail text.-Silent mode camera-Photo is saved under /sdcard/DCIM/PhotoMemo/ (May vary depending on device you use)For Android 2.2 and later, uncheck \"Portrait Oldsystem\" for better performance.Silent mode might not work well for some devices. Camera can be used from other applications (If application supports calling external camera app. Image size can be changed after launching camera for first time).When GPS is available, GPS info is embedded to image, and you can refer where you took memo afterward.5 photo memos are overwritten when you take new photo, so if you want to keep copy, press Save or enable make copy at taking photo in preference.Smart Connect extension for SmartWatch 2",
+    "descriptionHTML": "DEMO Version : photo taken with this app will have &quot;DEMO VERSION&quot; text. Ads are shown in app.<br><br>Nice designed quick access to 5 Photo Memo widget.<br>2x3 and 4x1 size widget available (only single widget at a time is supported)<br><br>V2.0 supports viewing memo from Sony SmartWatch2!<br>Android Wear support version also available (find app from same developer)<br><br>Simple usage, take and view photo memo in simple steps.<br><br>-5 photo memo for quick access<br>-Supports GPS if available (launches Google Map)<br>-Filter effects to match your home design (Original image is not modified)<br>-Share, send via email in simple steps. When sending email, date/time and location where photo taken is automatically attached in mail text.<br>-Silent mode camera<br>-Photo is saved under /sdcard/DCIM/PhotoMemo/ (May vary depending on device you use)<br><br>For Android 2.2 and later, uncheck &quot;Portrait Oldsystem&quot; for better performance.<br><br>Silent mode might not work well for some devices. Camera can be used from other applications (If application supports calling external camera app. Image size can be changed after launching camera for first time).<br><br>When GPS is available, GPS info is embedded to image, and you can refer where you took memo afterward.<br><br>5 photo memos are overwritten when you take new photo, so if you want to keep copy, press Save or enable make copy at taking photo in preference.<br><br>Smart Connect extension for SmartWatch 2",
+    "histogram": {
+        "1": 5,
+        "2": 4,
+        "3": 3,
+        "4": 6,
+        "5": 18
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.1 and up",
+    "androidVersion": "2.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/-JUpxOZmXcpGH0n-fp867yXymzQ-iFhnBTGnYF595_pvO0pPNuUfK1VsSdBCYE0yNw=h310",
+        "//lh3.ggpht.com/3PwkTLon_m2-Bljy93Od5DgDPuLdbKj83Cf7fcgke9BGXzOuHIsWaMtfY7Aic7RDyT8=h310",
+        "//lh6.ggpht.com/9NcgNBlB5U1r8XAN1M-OrWjnqyRxha4wm888Aa4OyEnOcc3V__cxvQt-z1N27XvRyd0=h310",
+        "//lh3.ggpht.com/mny6Di_YedELjNaK--xxi8oYWByTDv_-5OpYPqOY07LfCGCWbvhwLrITvHQSLHSmqJU=h310",
+        "//lh3.ggpht.com/p6NEmZDnfB4PhHWd9kW35Np1YnngtBytm08AObEx_m9Nh1i10652Zo4xiXbwatRzhA=h310",
+        "//lh3.ggpht.com/REacMEzM8Ez7hi_PxeArNlPepCl9URJFrtnk5NIt53kEWgNVZW2u4_JygK2LaAgaEjeW=h310",
+        "//lh6.ggpht.com/sMMZ17G1tJZ_y_md5mXjrwVbPVGKlH0ZUeWibWLZLlOR-f6Br6MIk7aN0ZUWKmK0jZTU=h310"
+    ],
+    "video": "https://www.youtube.com/embed/w9e-qcLmHwo",
+    "comments": [
+        "Something ive been looking for. Ive been looking for a photo widget, mainly to display pictures of my girlfriend on my phone but once I realized how helpful this can be besides my original intentions, im excited for a non demo version. So heres the actual stuff, keeping in mind its a demo... the picture quality is a tad shotty and a demo version band appears over the pictures. Not a problem since it only shows when full size. The one thing I really can complain about is the lack of being able to select gallery photos. Excited for the full"
+    ],
+    "recentChanges": [
+        "Ver 2.0 2014/9/20",
+        "Support viewing from SmartWatch2",
+        "Ver 1.4 2014/9/11",
+        "Layout adjustment",
+        "Added option to change resolution",
+        "Added option to change flash mode",
+        "Ver 1.3",
+        "Fixed to work with Android 4.0 (may not work on all devices)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.nefastudio.android.nfphotomemo.demo&hl=en&gl=us",
+    "appId": "net.nefastudio.android.nfphotomemo.demo"
+}

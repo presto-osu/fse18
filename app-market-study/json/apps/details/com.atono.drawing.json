@@ -1,0 +1,52 @@
+{
+    "title": "Ciao Express Yourself",
+    "summary": "Free your creativity. Start messaging your friends by drawing!",
+    "icon": "//lh3.ggpht.com/lsIXTOgKbK2_tCYdrcC73W8wHliIR8dQ1iOj4kDhIgCehWxPy6w2RuIsW6X96M810go=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 272,
+    "developer": "A-Digital Mind",
+    "developerId": "A-Digital+Mind",
+    "developerEmail": "support@ciaoexpressyourself.com",
+    "developerWebsite": "http://www.ciaoexpressyourself.com/en/",
+    "developerAddress": "Corso Buenos Aires, 77\n20124 - Milano\nItaly",
+    "updated": "January 31, 2017",
+    "version": "1.5.1",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Do you want to be original? Unleash your creativity.Start messaging your friends by drawing! Customize your messages with a scribble, a doodle or a masterpiece.Free your imagination and draw with colors and animations.Share the message to whoever you want! The animation will show your friends how you created the sketch, step by step.Think outside the box and start the unconventional messaging.Have fun and Express Yourself!",
+    "descriptionHTML": "Do you want to be original? Unleash your creativity.<br>Start messaging your friends by drawing! Customize your messages with a scribble, a doodle or a masterpiece.<br><br>Free your imagination and draw with colors and animations.<br><br>Share the message to whoever you want! The animation will show your friends how you created the sketch, step by step.<br><br>Think outside the box and start the unconventional messaging.<br><br>Have fun and Express Yourself!",
+    "histogram": {
+        "1": 18,
+        "2": 6,
+        "3": 18,
+        "4": 64,
+        "5": 166
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/whpQ840-7nbtFfhxaFXEyHYoURCIw8Ug0bfk2VP4f0jRm4Cc87Q3u1kAu6BaNqkYvA=h310",
+        "//lh3.googleusercontent.com/_4l89taW2lU95FK0tzWKGe_oEQqYnorLpsiTrlYGcGnzSIYWj3EEuE4_9bquMPdBnHKe=h310",
+        "//lh3.googleusercontent.com/cNOn2qZxmIpuGAmX2AGGjgqrXs3HdU8hhZn0qzFHNn-J-Zagi-dICxVW14IAy08Q-QU=h310",
+        "//lh3.googleusercontent.com/n_AgnE5dYI5db2vP2pDKjSmJvBNqjwRJH3EbaB5mvS7CfIoctIQRMeRU0sVQyHq39MWD=h310",
+        "//lh3.googleusercontent.com/P_M3sTU0ktKCUZHl1Idp9Wwmz7LPFXNK-5d4ho6ml_xxJCttqsxlrReJJatmf6fBkTI6=h310",
+        "//lh3.googleusercontent.com/xOF-H3DSNJhLtD9WKLPiVT-tHLAcMBaRPq6X5-HV5P-D_CJLrxaOXK9-1uQza9Df9z4=h310",
+        "//lh3.googleusercontent.com/cMUcBPSjx9UxFGImUaH2L3e5k6LriiGejonilRclg76572pI-42BgneBsByBT5M1tA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Version 1.5.1",
+        "-----------------",
+        "- Fixing connection problem"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.atono.drawing&hl=en&gl=us",
+    "appId": "com.atono.drawing"
+}

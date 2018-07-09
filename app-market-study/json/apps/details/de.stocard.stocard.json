@@ -1,0 +1,55 @@
+{
+    "title": "Stocard - Rewards Cards Wallet",
+    "summary": "All your rewards cards in one free app!",
+    "icon": "//lh3.googleusercontent.com/pwkKXDthz1rZwbjIyrUdsZDowEPOGmD6p4jBRRy2wKBb-ustqaDwxkUZm7neh6n8nYw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000000,
+    "maxInstalls": 50000000,
+    "score": 4.6,
+    "reviews": 248974,
+    "developer": "Stocard GmbH",
+    "developerId": "Stocard+GmbH",
+    "developerEmail": "support@stocardapp.com",
+    "developerWebsite": "http://www.stocardapp.com",
+    "developerAddress": "Stocard GmbH\nHafenstrasse 25 - 27\n68159 Mannheim\nGermany",
+    "updated": "November 27, 2017",
+    "version": "6.10.4",
+    "genre": "Shopping",
+    "genreId": "SHOPPING",
+    "description": "Join 20 million Stocard users and store all your rewards cards in one free app.DIGITIZE YOUR REWARDS CARDSUnclutter your wallet by scanning the code on your plastic cards within seconds.COLLECT REWARDS POINTS IN STOCARDWhenever you're shopping, just pop-up your loyalty cards barcode on your phone and have it scanned by the cashier to receive your points.DISCOVER EXCLUSIVE OFFERSBrowse coupons, discounts, flyers and circulars in Stocard – all related to your favourite stores!USE ADVANCED FEATURESYou can even save Passbook/Apple Wallet passes, airline-tickets and gift cards in Stocard.",
+    "descriptionHTML": "Join 20 million Stocard users and store all your rewards cards in one free app.<br><br>DIGITIZE YOUR REWARDS CARDS<br>Unclutter your wallet by scanning the code on your plastic cards within seconds.<br><br>COLLECT REWARDS POINTS IN STOCARD<br>Whenever you&apos;re shopping, just pop-up your loyalty cards barcode on your phone and have it scanned by the cashier to receive your points.<br><br>DISCOVER EXCLUSIVE OFFERS<br>Browse coupons, discounts, flyers and circulars in Stocard &#x2013; all related to your favourite stores!<br><br>USE ADVANCED FEATURES<br>You can even save Passbook/Apple Wallet passes, airline-tickets and gift cards in Stocard.",
+    "histogram": {
+        "1": 4108,
+        "2": 2890,
+        "3": 8323,
+        "4": 51936,
+        "5": 181717
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/I3oNmP6Va0pfIIflT39x_qXqKUzkM_Dyg7pgis_Bch-4_XVM_AGpsLHgNBdkJUgqEg=h310",
+        "//lh3.googleusercontent.com/G6SIwvKCBYLDfbW6UyO09BFHgi4VS33vjA2c1rOyMZHdmcDxx-XeCvs3ulPFihlWdw=h310",
+        "//lh3.googleusercontent.com/gIy2eWb3XYxaMMkai-5FVrCQoeLR3v6aNkQeXfBuYUUyrD9ptB0zGZ95vhXHB4trNDw=h310",
+        "//lh3.googleusercontent.com/kFlymz26UW_M95UwQisWFdZuyUf8JyfyqhDytFn27p6vVrWeyp-X2B4yLYgr58aanBI=h310",
+        "//lh3.googleusercontent.com/WEPow9fYbv1pGrHprwUiPySZOlxJoNuQTr_G0oHA55ohPICFp9UX4ORZkdUqZcfBRYI=h310"
+    ],
+    "comments": [
+        "This is an easy app to use. It sure beats carrying around a pocket full of lolaty cards. It works well with the finger print scanner so a quick touch to unlock the phone followed by one touch to open the app and another to select the card. The only way to improve it is if it could tell you how many points you have earned on each card.",
+        "Brilliant. No longer do I need to carry a bulky wallet with me when I've got all my cards at the push of a button on my mobile. Works flawlessly providing the store has the right scanner to read the barcode. Otherwise it's a case of the till operator having to input the number manually. No big shakes though.",
+        "Perfect app! Wallets always get so full of cards and this was an amazing solution! When you choose a card, the screen automatically maxes brightness so it scans well! Has a page for store flyers! And I haven't had any problems so far! To be fair it's my first card holder app but nothing to complain about! 👌",
+        "Great app for people who don't like carrying around a wallet just for membership cards (me). I have had literally zero issues in the last 12 months of use across multiple devices and versions of android. Keep up the great work!",
+        "Great app! Only issue is that the geolocation feature needs the ability for the user to be able to reduce the distances before it says \"there's a store near you that uses this card\". You can be quite far from a store and it still kicks in. Invariably I turn the feature off for this reason.",
+        "Love it! Wish I could also see points for all these cards, but overall, I love this app as it lightens my wallet very much!  Changed the rating from 5stars to 3 stars. I used to see the offers and folders from the stores that I have cards for. However, it's been a while that I don't see the offers from my stores anymore. :( please fix the issue!"
+    ],
+    "recentChanges": [
+        "We improved the stability and performance of the app for you."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.stocard.stocard&hl=en&gl=us",
+    "appId": "de.stocard.stocard"
+}

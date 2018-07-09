@@ -1,0 +1,58 @@
+{
+    "title": "Tetromino Wear - Watch Face",
+    "summary": "Android Wear watch face that builds the time out of falling Tetrominoes.",
+    "icon": "//lh3.googleusercontent.com/Iox4zhpD0HARh5dc2PsxZJvgggwkPaB6HAJ6lCWMeYLECLiJpurkeVGHtYsrEipEvppJ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 67,
+    "developer": "birdy",
+    "developerId": "birdy",
+    "developerEmail": "jamie06bird@gmail.com",
+    "developerWebsite": "http://jamie-bird.com/tetromino-wear/",
+    "developerAddress": "D30 InfoLab21\nLancaster University\nLancaster,\nLA1 4WA\nUnited Kingdom",
+    "updated": "May 15, 2017",
+    "version": "Varies with device",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "size": "Varies with device",
+    "description": "Customisation options:- Choice of Tetromino styles from Classic, Modern and Minimal.- Choice of animation speed.- 24 and 12 hour time formats.- Show date below the time in retro text with many formats available.- AM/PM indicator.- Watch battery indicator.",
+    "descriptionHTML": "Customisation options:<br>- Choice of Tetromino styles from Classic, Modern and Minimal.<br>- Choice of animation speed.<br>- 24 and 12 hour time formats.<br>- Show date below the time in retro text with many formats available.<br>- AM/PM indicator.<br>- Watch battery indicator.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 4,
+        "4": 17,
+        "5": 44
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_D-YfUSgBT66b2T2umroQe0XRxLqgKpSQWFXEX5GvR-WjrL9V8C9SQ8PjFRY0T368w=h310",
+        "//lh3.googleusercontent.com/BDpvJDaLsdOa6wd2rYdDZfKqDXJmZKBs36D_8bBFtNC_gDBggqLtuqCnWp3D_iBO7OQ=h310",
+        "//lh3.googleusercontent.com/8ZFGOJrnINU36alyVKSeF3J06NfvW2oQklri5t4w7sjAbu2594XzbmyQTD-D0Vj0tGM=h310",
+        "//lh3.googleusercontent.com/ptHY1pGJ9bhTurKYAL-iwUk3zegmBAs_8fwZw_gE4qgyQP3v2TxvPRhzf1y8jTG8zmM=h310",
+        "//lh3.googleusercontent.com/TdAHjpzJh-X39tYJn-rd_wWPdZMg4KCbJ09vOKG8mgDsz2vJ3SsvvntRcGYJyA9AHw=h310"
+    ],
+    "comments": [
+        "Like the watchface, but Avast Antivirus identifies it as a serious threat.",
+        "My Antivirus (not Avast, like a previous reviewer stated) also indicated that this well done and whimsical watch-face contained known Malicious Code.",
+        "Like this a lot but would love the option to add a background, watch feels a bit empty with all the black",
+        "I like it, but the time in 12hr isn't showing am/pm correctly",
+        "All fixed. Still getting used to that Wear 2.0 works.",
+        "I installed and instantly gained a 6 pack. 10/10 would install again."
+    ],
+    "recentChanges": [
+        "- Android 2.0 preparation – watch face can be installed as a standalone application from the watch Play Store (with reduced customisation). Including watched paired with iPhones.",
+        "- Removed colour and solid blocks in ambient mode to prevent screen burn in.",
+        "- Fixed the low bit ambient mode bug (present on the Asus Zen Watches and Sony Watches)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jamie_bird.tetriswear&hl=en&gl=us",
+    "appId": "com.jamie_bird.tetriswear"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Glance Tweet",
+    "summary": "Catch up your tweets on the go when you have only a second to spare.",
+    "icon": "//lh4.ggpht.com/1Kym9dZUbO-2dq7fGRRkKFTKcGOR-UVbCuD_fSUq8Bqjg_bTdFErQ6SPyJZqmmlfMmg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 17,
+    "developer": "Lin Jiao",
+    "developerId": "Lin+Jiao",
+    "developerEmail": "lin@glanceable.org",
+    "developerWebsite": "http://www.glanceable.org",
+    "updated": "January 17, 2015",
+    "version": "1.05",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "description": "We all have those tiny moments which we want to make use of but too short to pull out our phone, unlock and find the right app. This app allow you to do something meaningful with those tiny moments, e.g. catch up a few tweets while stuck in traffic. And it's not distracting, it notifies you gently only when there are more than a few unread tweets.For developers:See a tutorial of how this app is created: http://blog.glanceable.org/category/developer-resource  If there is enough demand I will open source the whole project.",
+    "descriptionHTML": "We all have those tiny moments which we want to make use of but too short to pull out our phone, unlock and find the right app. This app allow you to do something meaningful with those tiny moments, e.g. catch up a few tweets while stuck in traffic. And it&apos;s not distracting, it notifies you gently only when there are more than a few unread tweets.<br><br>For developers:<br>See a tutorial of how this app is created: http://blog.glanceable.org/category/developer-resource  If there is enough demand I will open source the whole project.",
+    "histogram": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/ADdqYPhTGxCA6HpzfS7KH8l_MADR4X8WJAtxx5G0p21voLhtOak6WP9dG9WHMBPmAG0=h310",
+        "//lh5.ggpht.com/Iznh_M9f_nGsdtICdllVI5SnF6Edh8D1JNQDi0yaUbchD8O1814N0PAkN3pIssJX7w=h310",
+        "//lh6.ggpht.com/KxT332z0idv2ySN6wHj-Gm2cRR-NtV1NnprunXFd4UShAPXtkdrt8KwUZ0Be9_98DA=h310",
+        "//lh3.ggpht.com/fsINa6nulKzTK20sZUT2GielGoGxswtrv6Fy2Qj4t_xc0Hc8iSps7tAkJ75Omzy2SD8=h310",
+        "//lh6.ggpht.com/ew0i57dgMyv09BcpC2tMamEGUeTeBiZ375BQv1juGUfAMpGaxNvAVd4ZJc98UrULvhs=h310"
+    ],
+    "comments": [
+        "pretty good! so far I'm liking it, but a \"mark all as read\" option from the watch app itself would be great.  And a \"show only the most recent 20/40/50/etc tweets\" function would be cool as well.   when I see \"246 unread tweets\" I just dismiss it since I know there's no way I'm scrolling through all that.",
+        "Keep going! The icon really needs to be different and I'd like the app icon to hide from the drawer since it doesn't have any options. And maybe consider using profile pictures for the backgrounds when swiping through. But really those are just small tweaks, you've got a really good app here overall!",
+        "Great app! Can you add a \"Mark all tweets read\" button in the notification next to \"Open\"? Also dates and times on the tweets would be great. Great work Dev!",
+        "One of the Better Android Wear Apps This. This does exactly what I want my watch to do, display tweets. Works great!",
+        "Like it!! See your unread tweets complete with pictures on your Android Wear device - fantastic. Using with LG Gwatch R, works wonderfully - can't wait to see what the developer adds next. :-)",
+        "Tweets on the go are great If I had one suggestion it would be a option to open a tweet on the phone so that you can follow links. If it were possible to zoom and pan pictures that'd be nice."
+    ],
+    "recentChanges": [
+        "Better Pocket integration. Now it works when your phone is offline or not connected to the watch. And we now save both the tweet and the associated web page in Pocket.",
+        "Also you no longer need to authorize Pocket separately, it works as long as you have the Pocket app installed."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.glanceable.tweet&hl=en&gl=us",
+    "appId": "org.glanceable.tweet"
+}

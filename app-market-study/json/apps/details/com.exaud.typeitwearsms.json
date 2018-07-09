@@ -1,0 +1,61 @@
+{
+    "title": "TypeIt Wear Sms",
+    "summary": "TypeIt Wear Sms is an innovative messaging app for Android Wear devices.",
+    "icon": "//lh3.googleusercontent.com/Fp784AfYZOzKujVxIqrZrQgmTJCWPEFczd4KW6TGW0zu5z8J6Y2oaRuhlmJfdytLQ-Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 130,
+    "developer": "Exaud, Lda",
+    "developerId": "Exaud,+Lda",
+    "developerEmail": "feedback@exaud.com",
+    "developerWebsite": "http://www.exaud.com",
+    "updated": "April 6, 2017",
+    "version": "1.7.7",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "What do you do when you have to discretely type a message, but you can’t talk to your smartwatch or whip out and unlock your phone? TypeIt Wear is a new messaging app for Android Wear that gives you the ability to type out messages T-9 style, as well as choose preset phrases that you can customize. There is dictation built in too. TypeIt Wear Sms makes messaging from your wrist something you might actually enjoy. It’s like having your smartphone on your wrist. TypeIt Wear Sms lets you:- Create new and customised messages using a traditional T9 keyboard which features the letters of the alphabet, numbers and most common symbols- Select or customize pre-set responses or dictate replies with your voice- Reply directly to group messages without using the phone- Ability to view any on going conversation and chat history from your messages, including MMS’s as you would do on your phone- Add a new sender from the contact list, directly from your smartwatch- Compatible with all Android Wear Devices",
+    "descriptionHTML": "What do you do when you have to discretely type a message, but you can&#x2019;t talk to your smartwatch or whip out and unlock your phone? <br><br>TypeIt Wear is a new messaging app for Android Wear that gives you the ability to type out messages T-9 style, as well as choose preset phrases that you can customize. There is dictation built in too. <br><br>TypeIt Wear Sms makes messaging from your wrist something you might actually enjoy. It&#x2019;s like having your smartphone on your wrist. <br><br><br>TypeIt Wear Sms lets you:<br><br>- Create new and customised messages using a traditional T9 keyboard which features the letters of the alphabet, numbers and most common symbols<br>- Select or customize pre-set responses or dictate replies with your voice<br>- Reply directly to group messages without using the phone<br>- Ability to view any on going conversation and chat history from your messages, including MMS&#x2019;s as you would do on your phone<br>- Add a new sender from the contact list, directly from your smartwatch<br>- Compatible with all Android Wear Devices",
+    "histogram": {
+        "1": 13,
+        "2": 9,
+        "3": 18,
+        "4": 25,
+        "5": 65
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/gM40HKxK2FgyTnPW4bHmdwBOszkaAPsbnxdRdzVb7KvKEnp-Nr6fwgp4CPGV524TLg=h310",
+        "//lh3.googleusercontent.com/HyjR1TGIZEU_YLJACqHjLfMJ07xcM-5YqGFVnfU3nmOL9XCiHqTS83HESBTcwkeetg=h310",
+        "//lh3.googleusercontent.com/PVJmnAJtD-l0kpSI-ZyUUdElOEq2IbTbGh5sND_S8bCa_in-9WC6LBfyqPbZI6ajiuQR=h310",
+        "//lh3.googleusercontent.com/xtk6_bSQMNb2KxGzjS_WrfA-MA29DAdGk5UcA-k1NRnliwCtcvcxm0PhJUo0XIrCvg=h310",
+        "//lh3.googleusercontent.com/BDv6vmdarA1rHAhZ1uNHJGBhQjMUkAMsv_iAsqeiPNedgGPsV3-shAdH848BnJtmX0Y=h310"
+    ],
+    "comments": [
+        "Just what I was looking for - a basic sms app for my watch with customisable message templates. 4 stars for that. If there was a way to select favourite contacts and have them stay at the top of the contact s list, I would award it 5 stars. The keyboard input is a bit limited as it's restricted to phone key layout only and there's no predictive text, but I probably won't use that anyway.",
+        "I like the ui, looks clean. Recipients never received my messages.",
+        "Doesn't work.",
+        "Better and faster then stock...how do I use T9 mode??? Need to add ability to adjust font size...",
+        "I wish I could input a phone number instead of having to create a contact first before sending an sms",
+        "Nice idea but fails too often When it works, it's really good. Unfortunately it often crashes whilst loading and makes it longer to load than getting your phone out of your pocket."
+    ],
+    "recentChanges": [
+        "v1.7.7",
+        "- Improved stability by fixing the notifications related crashes",
+        "v1.7.6",
+        "- Added option to disable sms notifications on smartwatch",
+        "- Added option to disable vibration on smartwatch keyboard",
+        "- Improved performance for Notifications with Images",
+        "- Added Privacy Policy on Settings",
+        "- Improved stability by fixing major crashes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.exaud.typeitwearsms&hl=en&gl=us",
+    "appId": "com.exaud.typeitwearsms"
+}

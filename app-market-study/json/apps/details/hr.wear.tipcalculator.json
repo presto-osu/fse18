@@ -1,0 +1,53 @@
+{
+    "title": "Wear: Tip Calculator",
+    "summary": "If you are going to tip, do it in style!",
+    "icon": "//lh5.ggpht.com/zwT0c1sYsIVhxX_T857L4UIefIZLPfZhcLBoB0by7tx6mBEQ-Q_wrMgxEyU1ei08LP8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.7,
+    "reviews": 161,
+    "developer": "Naive Code",
+    "developerId": "Naive+Code",
+    "developerEmail": "naivecode@gmail.com",
+    "developerAddress": "9020 Dixon Ave, Richmond, BC, Canada.",
+    "updated": "October 18, 2014",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Enter total amount on your bill, pick a percentage to tip, and then split it among all people. It's that simple.Completely free, no ads, no locked features, no in-app purchases.Supports both rectangular and round watches running Android Wear.",
+    "descriptionHTML": "Enter total amount on your bill, pick a percentage to tip, and then split it among all people. It&apos;s that simple.<br><br>Completely free, no ads, no locked features, no in-app purchases.<br><br>Supports both rectangular and round watches running Android Wear.",
+    "histogram": {
+        "1": 18,
+        "2": 12,
+        "3": 35,
+        "4": 38,
+        "5": 58
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/OZhzi81U_jJFfhVGHWWN__qhv42f0J4JabtfesO5qBUdCIe31HVZijtpyJZ8uXjRrrTz=h310",
+        "//lh5.ggpht.com/zRhcc61N1d9M__28D3OLwlm-L-wMTWU-TyO-KYe9B2cDmC9Gr4BwcpElQKCuNW--Ug=h310",
+        "//lh5.ggpht.com/WsxqG9LdbKubwSURlo9_NtQnMGjXnYFCHt7VaXcgQ3I6xlr6vKI9Hi_YS9luS25A4jtm=h310",
+        "//lh4.ggpht.com/LlLGt0DUM5gElSLdkPPfClgaiV99WM-J57Er19WJ5GoOD73MYxhnM1AE_F2h2e63jDs=h310",
+        "//lh4.ggpht.com/mVIVA9Xall3ekJtWYWgRHCDGb8HwOStxjMG3UN34_j1doM4Pcke337zgLMFQWGI7k8s=h310",
+        "//lh5.ggpht.com/wrBIFNMeaBjI-RBnkT9oqHQgyYEz2aTHHVEV-wOMDqzNVBtM15RX4QrtJWvfVVqzMuw=h310"
+    ],
+    "comments": [
+        "Actually very useful! I installed this thinking it would be fun to play with for a day. But it has proven very practical. You can rapidly dial in costs and split the bill. Handy to show other people the calculation too! And no need to drag out your phone... Update: unlike Ben and others I have had zero crashes, and it scrolls across the screens perfectly on moto360. Assume these reviews are for older versions.  In the \"must install\" category",
+        "It looks very nice but it has trouble scrolling back on moto 360 This would be a great tool but it has a lot of trouble when attempting to go back one step: swiping across the screen from left to right doesn't do anything most of the time. You have to swipe down from the top a few times before it will recognize a left to right swipe. Also you can swipe slightly to the left and then back right to go backwards. Definitely looking forward to this app once it gets fixed!",
+        "Good but not great I like the app but think there should be some kind of summary screen to show the end data including the tip amount.",
+        "Has potential. This app looks great on the Moto 360 but I'm having a hard time flipping through the app. Easy 5 star if this was fixed. Keep up the great work",
+        "Ok not the easiest app to use Doesn't tell you how much the tip is",
+        "Really? Is this actually needed? Man... People are getting dumber and dumber"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=hr.wear.tipcalculator&hl=en&gl=us",
+    "appId": "hr.wear.tipcalculator"
+}

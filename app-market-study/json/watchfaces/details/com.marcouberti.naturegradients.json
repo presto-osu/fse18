@@ -1,0 +1,59 @@
+{
+    "title": "Nature Gradients Watch Face",
+    "summary": "A colorful and interactive watch face with more than 25 gradients selection.",
+    "icon": "//lh3.googleusercontent.com/GZgYH6kdX8SZfhW3JKwSMCGcm4Cv9wrsDymNjEVSGp-bTZgisrbXwsaDYVk1fswU2zxE=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.2,
+    "reviews": 145,
+    "developer": "Marco Uberti",
+    "developerId": "8672854508885444367",
+    "developerEmail": "ube.labs@gmail.com",
+    "developerAddress": "via Casarola 13, Torre de' Busi, Lecco (LC) 23806",
+    "updated": "January 12, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Customize your watch with more than 25 gradients selection inspired by nature. This watch face has a clean and simple design to focus on the fantastic gradients.Interactive: touch the screen to switch between day week mode and full date mode.12/24 hours format.Ambient mode: hours and minutes only, battery saving.Configuration: from watch and from smartphone.",
+    "descriptionHTML": "Customize your watch with more than 25 gradients selection inspired by nature. <br>This watch face has a clean and simple design to focus on the fantastic gradients.<br>Interactive: touch the screen to switch between day week mode and full date mode.<br><br>12/24 hours format.<br>Ambient mode: hours and minutes only, battery saving.<br>Configuration: from watch and from smartphone.",
+    "histogram": {
+        "1": 7,
+        "2": 6,
+        "3": 15,
+        "4": 37,
+        "5": 80
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Z_dhbW2jvmq5tC6jbdZkYLwPluKXG1lsDZZKL1yaMG3bkakYFiO6nhGDdcf_TPNQiw=h310",
+        "//lh3.googleusercontent.com/aTagXyjf-gyf0wpvrfV0Yu9KqCWIrvzXh3WOJzSfu3944bjlCtFHinerJYEoXS9WRg=h310",
+        "//lh3.googleusercontent.com/n_OSwFM90ix7HVe7kOZn4P5XCwnA9LqP6VOCAHVJMgSSHA3-klMgD7BkI9elCZcYbp2V=h310",
+        "//lh3.googleusercontent.com/RPgrYivDSykHhAVIfsG1BqncckMC4Ihd0jgvTPobClAXD4eNGe06AkPc3sMa0Th6ZRU=h310",
+        "//lh3.googleusercontent.com/tDTAPvGxbSr1uDzmkCXBuHlOeLtUlWtd17Shuzu5lCGzS1V5Iz_12IqBnMbpKf6ktkU=h310",
+        "//lh3.googleusercontent.com/6EBB6KGLs7wFzC6it0gjVOdAA1ETSFz_1TA7DM3_bDgZUxvQBganCy9FK0jDDZLwzrk=h310",
+        "//lh3.googleusercontent.com/vB-XRvrHkjuO084ATgCN_Tc9KtQtp3KnNcW-If6vTZI0NMwFrJTJZf1aCgz6Ul30wzM=h310",
+        "//lh3.googleusercontent.com/b6-JMPi7hxs5voiC-f8suvYIoWhqzh5kSPMfXqzpfKf4j3lLFDP9EJgsIDRQ66qVUA=h310",
+        "//lh3.googleusercontent.com/CBAiwcBmDOh9oDtksf_vX9NE4_ngcPNXl87ph-31KLYEzjlE_hNm-TjaatZKd2QqU_U=h310"
+    ],
+    "comments": [
+        "I love the concept and the app itself, when it works. However, even with the last update, syncing between phone and watch is not very good. And on my watch(maybe yours too) changing colors is not incredibly consistent. All in all its still fun to use but could use improvement.",
+        "O I love it",
+        "Very nice color selection, but it doesn't always work when you try to select a new color from e watch. If I access the app from my phone it's instantaneous. I have the ASUS Zenwatch 2, which occasionally freezes up, so not really sure if it's the watch or the app. Other faces seem to work fine, though.",
+        "Nice colors, but it would be nice to have options to change how long the screen stays active. The beautiful gradient colors only stay on a few seconds.      EDITED TO ADD : I guess the limited time the screen stays active is a fair trade off since the battery life is phenomenal with this watch face. I easily get 2-3 days between charges instead of less than a day",
+        "The gradients are beautiful and a lot of choices. On the other side, changing gradients in the watch doesn't work (it only works in the phone app). Anyway, a great watch face!",
+        "Very colorful! This is a very simple, colorful watchface. The gradients are good quality. Would love it if it had option to show weather and disable the animated seconds dot."
+    ],
+    "recentChanges": [
+        "* Add support for standalone app on Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.marcouberti.naturegradients&hl=en&gl=us",
+    "appId": "com.marcouberti.naturegradients"
+}

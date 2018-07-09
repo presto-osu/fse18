@@ -1,0 +1,46 @@
+{
+    "title": "DecisionWear",
+    "summary": "Decision maker for Android Wear",
+    "icon": "//lh5.ggpht.com/CF4H-SSbY0l9OI27Hhc73h7Oq28CBT-bN2Ex8JtJueqkderhN0DuHiPslI-4RdUp2RY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 10,
+    "developer": "Reductio Ad Absurdum",
+    "developerId": "Reductio+Ad+Absurdum",
+    "developerEmail": "googleplay@timmjati.de",
+    "developerWebsite": "http://www.dzitrone.de",
+    "updated": "August 10, 2014",
+    "version": "1.01",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This app helps you to make simple decisions with the help of your Android Wear device.Say \"Okay Google, start DecisionWear\" to start the app. You can then start with a new decision via speech input. Say e.g. \"Berlin or London or Paris\" to choose between those three. You can also save your lists for later reuse.Say \"Okay Google, start fast decision\" to directly start the app with speech recognition for a new decision.",
+    "descriptionHTML": "This app helps you to make simple decisions with the help of your Android Wear device.<br>Say &quot;Okay Google, start DecisionWear&quot; to start the app. You can then start with a new decision via speech input. Say e.g. &quot;Berlin or London or Paris&quot; to choose between those three. You can also save your lists for later reuse.<br>Say &quot;Okay Google, start fast decision&quot; to directly start the app with speech recognition for a new decision.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/a_xbC9CWh8qLjdEGYWCr0zr7QeGLFZd65kWgUM-UmdkC0m80ToSIrg-o0AEnoIrV27mJ=h310",
+        "//lh3.ggpht.com/lum2JV7PixlvogKeYyOStOKYgoqwZ6DVUkNuTC7P0L45H94wIhKSydBwfK9Ro2aRXDw=h310",
+        "//lh6.ggpht.com/D4af467NT2mPZ-0TEqvcT0poLG4QcffOzINJldwcYQtfiJbfgGyNSdApUQLCroxdwRw=h310",
+        "//lh5.ggpht.com/I2HsT_p6ALtt9TwZOE_TpP-iYxsqTcZQqMfMFYKWifRY__aATRxx4wA7mFZDvOz_0g=h310"
+    ],
+    "comments": [
+        "Doesn't work on moto360 Thought it was a cute idea so I downloaded it, but on my watch all i ever get when starting the app is the \"unfortunately decisionwear has stopped\" message."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.dzitrone.decisionhelper&hl=en&gl=us",
+    "appId": "de.dzitrone.decisionhelper"
+}

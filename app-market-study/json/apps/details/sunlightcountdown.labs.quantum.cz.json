@@ -1,0 +1,52 @@
+{
+    "title": "Sunlight Countdown",
+    "summary": "Sunlight Countdown is beautiful app for true sunlight lovers.",
+    "icon": "//lh4.ggpht.com/lnF2N_iLgtkk5cKPx9tNcL6CDBRQ55U72H6iWD0pCCap_LbXhwbwieJHgogQRIjB-A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 35,
+    "developer": "Quantum Labs",
+    "developerId": "Quantum+Labs",
+    "developerEmail": "semanticer@gmail.com",
+    "developerWebsite": "http://quantum-labs.cz/",
+    "developerAddress": "Prague\nKotorská 1576/28\n140 00",
+    "updated": "November 9, 2014",
+    "version": "1.3",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "Sunlight Countdown is a beautiful app for true sunlight lovers. It shows you how much time you've got left till sunset or - if you're more of a vampire type - you can check how much night life remains till sunrise. Sunlight Countdown features dynamic UI specific for current state of the day. You can also take the advange of customizable widget to have all relevant information right on your desktop or set notifications to remind you every upcoming sunset. If you use awesome Roman Nurik's Dashclock(http://goo.gl/7Z59bJ) app you can use Sunlight Countdown extension as well.coming soon:android wear improvementsmoon phasessolar eventstablet support",
+    "descriptionHTML": "Sunlight Countdown is a beautiful app for true sunlight lovers. It shows you how much time you&apos;ve got left till sunset or - if you&apos;re more of a vampire type - you can check how much night life remains till sunrise. <br><br>Sunlight Countdown features dynamic UI specific for current state of the day. You can also take the advange of customizable widget to have all relevant information right on your desktop or set notifications to remind you every upcoming sunset. <br><br>If you use awesome Roman Nurik&apos;s Dashclock(http://goo.gl/7Z59bJ) app you can use Sunlight Countdown extension as well.<br><br>coming soon:<br>android wear improvements<br>moon phases<br>solar events<br>tablet support",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 4,
+        "4": 7,
+        "5": 19
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/0A0bI_a8iV-h31jNtxO9A0MK1av1rnvAv1AcymMJMn52kwh9Vk-AmoVsbRARXYwb_28=h310",
+        "//lh5.ggpht.com/dwIjbCgOPFoT2K_N_MvIGgX7kBJ-7O60m3ZviZr7UidRfcqcnuR2t9N2YikHveQBCFc=h310",
+        "//lh5.ggpht.com/E2nn626adwn1uO-msiIT82vJPIeQdLDK0lR9XPAqhqAif-nKUVtlP2oc5wSFG2mX_So=h310",
+        "//lh3.ggpht.com/8cJJwfp0qhnvOBRuUHZEqCHZKqn0NOccagB9KLdowjptIiag07HaQlcNrco4JqnAjw=h310"
+    ],
+    "comments": [
+        "Almost Perfect Would give it 5 stars if it also had a countdown to local solar noon and an option to set user defined locations rather than using the devices location. Other than that it's a great app.",
+        "Super Sache. Gefällt mir wirklich gut. Aber hab ein Problem mit den Widget das friert immer ein und bleibt stehen... bitte beheben",
+        "Top notch Excellent simple UI, nice looking widget with some options (better than none). Please fix widget refresh, or add interval option.",
+        "Needs more customization. I don't need to be alerted a full 45-60 minutes before the sun sets",
+        "Great app This app is so cool and the UI and UX is amazing with flat material colors",
+        "The widget doesn't refresh"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=sunlightcountdown.labs.quantum.cz&hl=en&gl=us",
+    "appId": "sunlightcountdown.labs.quantum.cz"
+}

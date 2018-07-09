@@ -1,0 +1,48 @@
+{
+    "title": "score for Android Wear",
+    "summary": "Your scoreboard in android wear.",
+    "icon": "//lh3.googleusercontent.com/J5NalLXLeSU5Sbm3VGcxyozrntvc1XFF5mxoBYmhEX9ulGWLGE4tXveVfL17GQm5xfw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.2,
+    "reviews": 6,
+    "developer": "task",
+    "developerId": "task",
+    "developerEmail": "support@mxxiv.net",
+    "updated": "February 11, 2017",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "Your scoreboard in android wear.- Just tap to keep the score- In-play mode and edit mode",
+    "descriptionHTML": "<b>Your scoreboard in android wear.</b><br>- Just tap to keep the score<br>- In-play mode and edit mode",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/H646cZIMR0mhWMn49VHFfdlkz78g8NyLNw0f8Xs5HAQyAh7oR9QfeapvU-_svIh6Sw=h310",
+        "//lh3.googleusercontent.com/D59mvo_k0eH0qEvX2HtkCTATsRJRfUipJ2FVkuKp1DD7mKfSlACWxXyMy6HQQZp4bE4=h310",
+        "//lh3.googleusercontent.com/D-_oW3PAXcDYbD5Q0didLgEuVDJG9iQskKa36cDFOp5NUat1E6WlsieiMIYQIX1dtBI=h310",
+        "//lh3.googleusercontent.com/m_jG0kj-3-Zh_UbKEbiVY0CJ_n1S9EmYm0XteguhVxFNx6gSBAphZBYX0Sk4E_55MRw=h310"
+    ],
+    "comments": [
+        "This app does exactly what I need. Adding points, subtracting points, and resetting the score are all simple and straightforward.",
+        "Color Options I will be using this for cornhole so it would be amazing if you had the option to change colors so it's not just red/blue",
+        "Simple and easy to use Perfect. Nice, simple and clear score keeping."
+    ],
+    "recentChanges": [
+        "available for Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.mxxiv.score&hl=en&gl=us",
+    "appId": "net.mxxiv.score"
+}

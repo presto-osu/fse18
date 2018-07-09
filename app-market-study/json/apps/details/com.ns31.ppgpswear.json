@@ -1,0 +1,59 @@
+{
+    "title": "PPGpS Wear",
+    "summary": "PPGpS Wear is the PPGpS companion application for your Android Wear SmartWatch",
+    "icon": "//lh3.googleusercontent.com/9ipwuwAFHu_3OhadL15cLNxwyugt2zCy0u8syfKRhZuJmw1RyhKDge9vS8ZMZtlFJQ=w300",
+    "price": "$2.49",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.2,
+    "reviews": 13,
+    "developer": "NS31 Software",
+    "developerId": "NS31+Software",
+    "developerEmail": "stephane.nicole31@gmail.com",
+    "developerWebsite": "http://www.ppgps.info",
+    "developerAddress": "31280 MONS",
+    "updated": "April 19, 2015",
+    "version": "1.1",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "Warning: PPGpS Wear works ONLY on Android Wear smartwatches.With PPGpS Wear you can get the flight information you want conveniently on your wrist.It displays the flight parameters coming from PPGpS on your smartwach:altimeter, variometer, ground speed, bearing, distance, elapsed time and waypoint information.How does it works ?You need PPGpS classic running on your smartphone or tablet.PPGpS is sharing flight data with PPGpS Wear and PPGpS Wear transmits the data to your smartwatch.How to configure the system ?1) To configure PPGpS to share data in real time:Use the PPGpS classic Settings/Smartwatch menu to enable the communication. You may also select the desired update frequency.This has to be done only once, the communication will be activated automatically each time your start PPGpS.2) Launch PPGpS on your smartphone as you always do before your flights.PPGpS Wear will be automatically launched on your smartwatch.Visit http://www.ppgps.infoFind us on Facebook : https://www.facebook.com/ppgpsand Twitter : https://twitter.com/PPGpSAndroidEnjoy your flights with PPGpS and thank you for your feedback.Don't hesitate to send me your kml flight logs by mail : stephane.nicole31@gmail.com",
+    "descriptionHTML": "Warning: PPGpS Wear works ONLY on Android Wear smartwatches.<br><br>With PPGpS Wear you can get the flight information you want conveniently on your wrist.<br><br>It displays the flight parameters coming from PPGpS on your smartwach:<br>altimeter, variometer, ground speed, bearing, distance, elapsed time and waypoint information.<br><br>How does it works ?<br>You need PPGpS classic running on your smartphone or tablet.<br>PPGpS is sharing flight data with PPGpS Wear and PPGpS Wear transmits the data to your smartwatch.<br><br>How to configure the system ?<br>1) To configure PPGpS to share data in real time:<br>Use the PPGpS classic Settings/Smartwatch menu to enable the communication. You may also select the desired update frequency.<br>This has to be done only once, the communication will be activated automatically each time your start PPGpS.<br><br>2) Launch PPGpS on your smartphone as you always do before your flights.<br>PPGpS Wear will be automatically launched on your smartwatch.<br><br><br>Visit http://www.ppgps.info<br>Find us on Facebook : https://www.facebook.com/ppgps<br>and Twitter : https://twitter.com/PPGpSAndroid<br><br>Enjoy your flights with PPGpS and thank you for your feedback.<br>Don&apos;t hesitate to send me your kml flight logs by mail : stephane.nicole31@gmail.com",
+    "histogram": {
+        "1": 3,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/9WkV21bQvqjFbSq9_XRuZCeMsABSJhL82RH6C3aC3RUOXIr7ZaedbSeFPRWGPHFU0qw=h310",
+        "//lh3.googleusercontent.com/UdKka0MEBRAYIpuutkIzdhBg1hEMNcsP7HPo7NTY3gT6NoQ4fjvjPWHzfzqGMqSn_w=h310",
+        "//lh3.googleusercontent.com/uEoqPVnWmtZDhuS-fAsPASa0MwY0-M0VpllW7wmwUcuYyIC9F4MzuICJbABmeqb0jA=h310",
+        "//lh3.googleusercontent.com/R4-ah3F39QdB2_50ihAVmSqRBE0eMwbPQleUXzodIqaJVTDuNCkbvYRmx7oDFnEhhhM=h310",
+        "//lh3.googleusercontent.com/exzmoThB9CyC92SZnjfF2ohmdtzvsdbm7-_I3KuI8NI0Pheax1tuG2uYEckWX1rNMQ=h310",
+        "//lh3.googleusercontent.com/omSQVbNclyCLCzdWDtHSdQRGL5lRhS_eVp6JoJ7qtUGz2Om_1yVe7edz5_2Fx3TFjzAt=h310",
+        "//lh3.googleusercontent.com/2ut979f4lbNTjEPMUz2FO1z9oWGCYQtX1H2M_a1meKPjczMqIXEqUAtnSi67EJC0B88=h310"
+    ],
+    "comments": [
+        "Launches Randomly Random launches app on LG Urbane or maybe all smartwatches . At least on mine it opens all the time . Hate when I'm not flying and love when I'm in the air. Unfortunately it opens randomly more than I fly.... every time I look at my smart watch the app is open and nothing is open on my phone...",
+        "Love it. Works good but... Use it all the time. It does turn off on its own though and that is annoying. Running on lg g watch r",
+        "What time are you planning to release it for android wear 2.0 as well? I'm running wear 2 on my huawei watch but this version is not working with it?! thanks very much",
+        "Doesn't work with Samsung Gear I bought this thinking it would work with Samsung Gear watch. I want my money back.",
+        "I can't seems to get it to work on my gear s3 smart watch any help",
+        "Does not wok with Samsung Gear2 Neo"
+    ],
+    "recentChanges": [
+        "1.1 04/2015",
+        "PPGpS Wear starts automatically on your smartwatch when PPGpS classic is launched. (Don't forget to configure PPGpS classic).",
+        "New graphical instrument on the watch with bearing, wind, waypoint and takeoff directions"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ns31.ppgpswear&hl=en&gl=us",
+    "appId": "com.ns31.ppgpswear"
+}

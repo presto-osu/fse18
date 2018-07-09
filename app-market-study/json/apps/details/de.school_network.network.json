@@ -1,0 +1,60 @@
+{
+    "title": "School-Organizer - Timetable, Tasks and Grades",
+    "summary": "School-Organizer to master your schoolday. Timetable, Grades, Tasks and more.",
+    "icon": "//lh3.googleusercontent.com/aD8i0_Hgha-7kpR48ZI68HXI6HzBGhDs2xNvAncU84UrmlkUDUr4iFZ3JFcwDFYKtQlB=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 262,
+    "developer": "Julian Wagner",
+    "developerId": "Julian+Wagner",
+    "developerEmail": "julian.wagner0611@gmail.com",
+    "developerAddress": "Julian Wagner\nIm Weidenbusch 1\n56414 Steinefrenz\nGermany",
+    "updated": "January 6, 2018",
+    "version": "0.9.9U.5",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "Scor-your organizer for school, university or everyday life. Create your own timetable or connect to your WebUntis account to stay informed and up-to-date e.g. about changes concerning your daily schedule. This app enables you to add new tasks, events and grades and let yourself be reminded of important appointments. This app not only helps you to get an overview of your scholary achievements but also calculates your final grade of a certain subject. Whether it’s your timetable, an appointment or an activity-this app gives you all the neccessary information concerning your everyday life and aids you with its coordination.Functions:• Timetable with a weekly overview• Overview of appointments, activities and classes• Notifications on an hourly basis• Reminder of appointments and activitiesWebunits:• Automatic synchronization• Notifications concerning changes in your timetables• Customized timetable• Ability to hide certain subjects• Vacations and holidays",
+    "descriptionHTML": "Scor-your organizer for school, university or everyday life. Create your own timetable or connect to your WebUntis account to stay informed and up-to-date e.g. about changes concerning your daily schedule. <br>This app enables you to add new tasks, events and grades and let yourself be reminded of important appointments. This app not only helps you to get an overview of your scholary achievements but also calculates your final grade of a certain subject. Whether it&#x2019;s your timetable, an appointment or an activity-this app gives you all the neccessary <br>information concerning your everyday life and aids you with its coordination.<br><br><strong>Functions:</strong><br>&#x2022; Timetable with a weekly overview<br>&#x2022; Overview of appointments, activities and classes<br>&#x2022; Notifications on an hourly basis<br>&#x2022; Reminder of appointments and activities<br><br><strong>Webunits:</strong><br>&#x2022; Automatic synchronization<br>&#x2022; Notifications concerning changes in your timetables<br>&#x2022; Customized timetable<br>&#x2022; Ability to hide certain subjects<br>&#x2022; Vacations and holidays",
+    "histogram": {
+        "1": 20,
+        "2": 11,
+        "3": 21,
+        "4": 60,
+        "5": 150
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/tJCbUsGrUBQMcN0yXhDaYaRo1fqxQTtWTSFA1zG3qmix8-ozY-BMftdAYeNEJDt-WtY=h310",
+        "//lh3.googleusercontent.com/JhUIOjmn7zCGSz5V1GoRRWe_RyS7gNJsRbR79HSNl8V7aSzPnMiVJr9K8iFR40tjC5YH=h310",
+        "//lh3.googleusercontent.com/FGR9LqhfDO_jGCfcTQyiLvQRZRjRXnz5awm5RNj0XC5Vr4pkXPvrh0dHPAKXKoRqQcg=h310",
+        "//lh3.googleusercontent.com/VAbSR4Cu6anSy_Mly9PHUTKEpkt8qZdGc1ukwcdAn0iwkDy2sgAepwye_AfBbfzR5GEe=h310",
+        "//lh3.googleusercontent.com/_PfUtwwvyS1ev3BkuEDqbaRltpnzZgRkqZCcDBmEyZExoV53kVrt0PjjTFjH1Rm6lw=h310",
+        "//lh3.googleusercontent.com/x_E_VqkGTpynljw4iFTF1JeeF8FzLBBpUcMWbhEWh9ZzqlvSIm3DqKxDJkClC8fn0g=h310",
+        "//lh3.googleusercontent.com/AKNJsZTvwLtaoMsKyKjmseo_hUCB39nuvOgWvVWGGQYtcufSwyd11smn9XFhrxyd3ep-=h310"
+    ],
+    "comments": [
+        "Very Functional Exactly what I was looking for! However there are many bugs, especially with the layout.",
+        "Awesome Really useful. I love the calendar feature.  Would be cooler if it had a tasks widget as well. And a feature that lets you select a lesson from your timetable to select a due date as you create a new task.",
+        "NEEDS STUDENTVUE SUPPORT. I would love this app if it supported StudentVue, you should look into it!",
+        "Untis connected, won't sync I have connected this app to the Untis webservice of my school yet it won't synchronize with my system. Can you look into this please?",
+        "Lots of potential Definitely on the right track to being a 5 star worthy app.",
+        "Should be able to sync to all platfoms"
+    ],
+    "recentChanges": [
+        "-Refreshed timetable design and added customizations",
+        "-Merged notes and tasks",
+        "-Refreshed dashboard",
+        "-Refreshed timetable creation",
+        "-Bugfixes and performance improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.school_network.network&hl=en&gl=us",
+    "appId": "de.school_network.network"
+}

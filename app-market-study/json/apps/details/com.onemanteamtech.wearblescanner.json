@@ -1,0 +1,52 @@
+{
+    "title": "Free Ble scanner for wear",
+    "summary": "Scan ibeacons, ble tags, other wearables, eddystone using android wear FREE V.",
+    "icon": "//lh3.googleusercontent.com/dwRcT3PfoO1jmCBWk2OfGJL7jOqVrL4BsqFD-t73RGzOhkKFX0r_PwBn850f6YwCMw8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.2,
+    "reviews": 11,
+    "developer": "Joseph O. De Guzman",
+    "developerId": "Joseph+O.+De+Guzman",
+    "developerEmail": "hepizoj@gmail.com",
+    "developerWebsite": "http://josephdeguzman.info",
+    "developerAddress": "#201 Pearls hill terrace 04-223 168977",
+    "updated": "May 26, 2015",
+    "version": "1.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Find all Bluetooth Low Energy (Bluetooth 4.0 or Bluetooth Smart) devices around you. It displays detailed information that Bluetooth Low Energy devices advertisement content, device name, signal strength (RSSI), This is through the convenience of your android wear watch.*This is designed for Developers, People who want to find their BLE devices like Fitbit, Mi wearable, BLE speakers,Oppo o-click and smart watches and for the curious.This will work with ibeacons as well. You can even put an ibeacon on your pet.You will be surprise how many BLE devices around you in publicnote: This is only a watch app. if you want to connect to BLE services, you can purchase the pro version. This is ideal for BLE developers",
+    "descriptionHTML": "Find all Bluetooth Low Energy (Bluetooth 4.0 or Bluetooth Smart) devices around you. <br>It displays detailed information that Bluetooth Low Energy devices advertisement content, device name, signal strength (RSSI), This is through the convenience of your android wear watch.<br><br>*This is designed for Developers, People who want to find their BLE devices like Fitbit, Mi wearable, BLE speakers,Oppo o-click and smart watches and for the curious.<br><br>This will work with ibeacons as well. You can even put an ibeacon on your pet.<br><br>You will be surprise how many BLE devices around you in public<br><br>note: This is only a watch app. <br>if you want to connect to BLE services, you can purchase the pro version. This is ideal for BLE developers",
+    "histogram": {
+        "1": 5,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/mLpfBGhEGpcnF-0R15_FOxyvb0MAFvi7_pVCRQ-H8pnfaMV7bkhUotwWdsIggcYJu30=h310",
+        "//lh3.googleusercontent.com/F3BzZtXEZDQjiXAxCJrg5-SLBaYKi_E7KqBbs7ElJNO9hYeL5BKiKJXCgBAFC1HMFcID=h310",
+        "//lh3.googleusercontent.com/rEYI30fw6uLOixdZr2pHseIyhEBX2Uxr4PjIA9TBk_TmiO7EFcGlcQoUpp9vHs2ZhQ=h310"
+    ],
+    "comments": [
+        "Great potential... Since a lot of people dont get it, this app is basically a Bluetooth device scanner. You can buy special little tags that transmit a BLE or similar signal, which you can place on a pet, child, luggage etc. and can keep a proximity tab on them. It's also a great diagnostic tool to check make sure your other BLE and like devices are transmitting. I really like the simplicity of this app.",
+        "Never got past first screen that says contact me in case of problems.",
+        "Basically just pop up ads...",
+        "Don't get this!!!! Don't get this"
+    ],
+    "recentChanges": [
+        "watchapp sync fix",
+        "ads for free version"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.onemanteamtech.wearblescanner&hl=en&gl=us",
+    "appId": "com.onemanteamtech.wearblescanner"
+}

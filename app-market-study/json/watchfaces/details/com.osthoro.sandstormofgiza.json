@@ -1,0 +1,51 @@
+{
+    "title": "Sandstorm of Giza Watch Face",
+    "summary": "Experience the mysteries of the desert with this torrential watch face.",
+    "icon": "//lh3.googleusercontent.com/gnt2XMyuVNKfB-uc_MxMmMvC_y2ToUnX_m8xbhPsn50TmAGRQjEnnjVVJjrqx_ocg9w=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4,
+    "reviews": 1,
+    "developer": "osthoro",
+    "developerId": "osthoro",
+    "developerEmail": "osthoro.services@outlook.com",
+    "developerWebsite": "http://osthoro.wix.com/osthoro",
+    "developerAddress": "osthoro.services@outlook.com",
+    "updated": "October 30, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Witness the storms of the desert from the safety of your LCD screen!  The pyramids of Giza sit in plain view under a red sunset sky.  You are able to view this wonder a midst a flurry of sand and dust.  Large collections of sand flow in the distance with visible grains of sand in the foreground.  This creates a parallax effect of a sandstorm right on your smart watch!You can toggle 12 hour and 24 hour modes.You can choose between a sandstorm or clear skies for your watch face to your liking.This watch face displays a verbose date including day of the week, date, month and year.  It also displays the current battery level of the smartwatch.This watch face was developed using the Moto 360 but will work with most android watch faces.If your watchface does not appear in Android wear, you can attempt to reload your watch faces using the Settings > ResyncApps command.  You can also check to see if the watch face has already been installed on your smart watch.",
+    "descriptionHTML": "Witness the storms of the desert from the safety of your LCD screen!  The pyramids of Giza sit in plain view under a red sunset sky.  You are able to view this wonder a midst a flurry of sand and dust.  Large collections of sand flow in the distance with visible grains of sand in the foreground.  This creates a parallax effect of a sandstorm right on your smart watch!<br><br>You can toggle 12 hour and 24 hour modes.<br>You can choose between a sandstorm or clear skies for your watch face to your liking.<br><br>This watch face displays a verbose date including day of the week, date, month and year.  It also displays the current battery level of the smartwatch.<br><br>This watch face was developed using the Moto 360 but will work with most android watch faces.<br><br>If your watchface does not appear in Android wear, you can attempt to reload your watch faces using the Settings &gt; ResyncApps command.  You can also check to see if the watch face has already been installed on your smart watch.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/rRURjVCbTD-Pyjcvw5Tl4GX7sjmcLV0mis5qrlBgX1006vgt2IxIyZf8ETiozeyQ0A=h310",
+        "//lh3.googleusercontent.com/8Gtzh5zh3O60XY9oqRy8S9R1rSfkJoH-prc6X07v3Q0rDIhJfTCwdjDmJD8YsL-_9kXu=h310",
+        "//lh3.googleusercontent.com/urwe6HYWv0jckCFV_PtqsYkm2WfFA9yr5SUEf1Ilaf_oXdEm3lPzpFyO8fFG6brAvQ=h310",
+        "//lh3.googleusercontent.com/YY9xgsbUccKcxf94aKeKzymfWe87AldntPgN9UA1F4tYvnOnDOnaIvqQ37jSA-lyF20=h310",
+        "//lh3.googleusercontent.com/7EJxoak-w0qLjFnl-H1zWmWoVyDdykwnqsZWz0InVS87rnqhPwMgijdxjIDMc3M58A=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- fixed a crash",
+        "- stablized the 24 hour toggle button",
+        "- improved sand color",
+        "- app now starts in sandstorm mode when downloaded"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.osthoro.sandstormofgiza&hl=en&gl=us",
+    "appId": "com.osthoro.sandstormofgiza"
+}

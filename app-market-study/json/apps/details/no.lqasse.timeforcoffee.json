@@ -1,0 +1,49 @@
+{
+    "title": "Time for Coffee - Wear",
+    "summary": "Coffee Timer for Android Wear",
+    "icon": "//lh3.googleusercontent.com/fAMRcsIwP_T6D3ciQZRxKix6YXwMxovJBI_DBpU3KxwawzUo6PTBDI9pPrWbejqEWu4b=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 5,
+    "developer": "Lasse Drevland",
+    "developerId": "Lasse+Drevland",
+    "developerEmail": "ladrev2@gmail.com",
+    "updated": "January 9, 2016",
+    "version": "2.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Add several timers in sequence to time your brews perfectly every time.Use with Aeropress, Chemex, French Press or any device that requires pinpoint precision while beeing free to focus on the task at hand!Create timers on phone, then run them on your wearable!Timer only runs on Android Wear device",
+    "descriptionHTML": "Add several timers in sequence to time your brews perfectly every time.<br><br>Use with Aeropress, Chemex, French Press or any device that requires pinpoint precision while beeing free to focus on the task at hand!<br><br>Create timers on phone, then run them on your wearable!<br><br>Timer only runs on Android Wear device",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XgBUMgN2KiwCNiy3pG1la-UiUBvd2wH9MactIoYPwGY3kn12n-nNT9H8plu4rmDzaEU=h310",
+        "//lh3.googleusercontent.com/4rOfe3SVrmrnMwL9I85jdm-yenKiJiKIGDuHqfA7uq-NDy8KlfbfNzsYxbrKDMNCFQ=h310",
+        "//lh3.googleusercontent.com/-RojncrlPCNRtUVIPgYzfE5uXzCELRq8cuc6kqSSc1qu73ezkYW232k_QQc8JGVCDQ=h310",
+        "//lh3.googleusercontent.com/nmsvMvFSFMvXkaimghg35npJoqret6pMGeu0ALzXxmO9zpImXPpiQ1xfhxVV9i_aoA=h310"
+    ],
+    "comments": [
+        "Broken on Android 7 When I set the focus to the seconds field when defining a timer it immediately moves the focus to the description field",
+        "Great app, nice simple and customisable. Only missing part would be to have it vibrate at the end of each time segment so I dont need to keep my eyes on it while AeroPressing. Then would be an easy 5 star and recommend to mates.",
+        "Just what I needed Well done. Simple, useful tool. Works as advertised."
+    ],
+    "recentChanges": [
+        "- Vibration can now be enabled by swiping left on the watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=no.lqasse.timeforcoffee&hl=en&gl=us",
+    "appId": "no.lqasse.timeforcoffee"
+}

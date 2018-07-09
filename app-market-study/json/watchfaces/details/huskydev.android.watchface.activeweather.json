@@ -1,0 +1,60 @@
+{
+    "title": "HuskyDEV Active Weather Watch",
+    "summary": "Interactive Watch Face with detailed weather, fit and battery informations.",
+    "icon": "//lh3.googleusercontent.com/PSeoswsTJarV8IDIOt0IO8uSj3BVDJz8lInDTJQzjMFXQrcULgi3jMFf1-keDJ4T3Q=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 143,
+    "developer": "HuskyDev",
+    "developerId": "8016075941590810026",
+    "developerEmail": "huskydevcz@gmail.com",
+    "developerWebsite": "http://www.huskydev.com",
+    "developerAddress": "Weberova 14\nDecin 6\n40502",
+    "updated": "June 6, 2016",
+    "version": "1.24",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "HuskyDEV Active Weather Watch Face for Android Wear 5+.Cute and nice looking animations, Custom background for every weather.HuskyDEV Active Weather Watch Face includes:★ Background color is changing according to current weather★ Animations of clouds, boat and hot air balloon★ Daily weather including sunset, sunrise time, wind speed, highest and lowest day temperature★ Weather forecast for next days★ Indicator for watch battery with detailed info★ Indicator for weather with detailed info★ Indicator for steps, with detailed Google Fit data for current day★ Day and night mode changing by sunrise and sunset according to local weather forecastConfiguration contains:★ Multiple colors for time text★ Time and date format according to phone settings (12/24)★ Enable animations in interactive mode★ Keep watch screen awake interval★ Ability to  have grayscale background in ambient mode for OLED displays★ Weather update interval★ Customizable temperature units★ Customizable wind speed units★ Information about last weather updateThe HuskyDEV Active Weather Watch works great with squared and round watches.Make sure your watch has the Android Wear System 5.0 or higher version.Compatible with:✔ Moto 360✔ LG G Watch R✔ LG G Watch✔ Sony Smartwatch 3✔ Samsung Gear Live✔ Asus ZenWatch ✔ LG Watch Urbane✔ Huawei Watch W1✔ TAG Heuer ConnectedFor using Google Fit data in Active Weather Watch Face, you must confirm dialog on start, that application can read data from your phone.Common synchronization problem solution:If the Application does not appear on your watch please do the following:- uninstall the face application from phone- disconnect watch from phone- restart watch- connect watch and phone again- install Active Weather Watch Face once againApplication using- weather data from http://openweathermap.org/ or http://www.yr.no/",
+    "descriptionHTML": "HuskyDEV Active Weather Watch Face for Android Wear 5+.<br><br>Cute and nice looking animations, Custom background for every weather.<br><br>HuskyDEV Active Weather Watch Face includes:<br>&#x2605; Background color is changing according to current weather<br>&#x2605; Animations of clouds, boat and hot air balloon<br>&#x2605; Daily weather including sunset, sunrise time, wind speed, highest and lowest day temperature<br>&#x2605; Weather forecast for next days<br>&#x2605; Indicator for watch battery with detailed info<br>&#x2605; Indicator for weather with detailed info<br>&#x2605; Indicator for steps, with detailed Google Fit data for current day<br>&#x2605; Day and night mode changing by sunrise and sunset according to local weather forecast<br><br>Configuration contains:<br>&#x2605; Multiple colors for time text<br>&#x2605; Time and date format according to phone settings (12/24)<br>&#x2605; Enable animations in interactive mode<br>&#x2605; Keep watch screen awake interval<br>&#x2605; Ability to  have grayscale background in ambient mode for OLED displays<br>&#x2605; Weather update interval<br>&#x2605; Customizable temperature units<br>&#x2605; Customizable wind speed units<br>&#x2605; Information about last weather update<br><br>The HuskyDEV Active Weather Watch works great with squared and round watches.<br><br>Make sure your watch has the Android Wear System 5.0 or higher version.<br><br>Compatible with:<br>&#x2714; Moto 360<br>&#x2714; LG G Watch R<br>&#x2714; LG G Watch<br>&#x2714; Sony Smartwatch 3<br>&#x2714; Samsung Gear Live<br>&#x2714; Asus ZenWatch <br>&#x2714; LG Watch Urbane<br>&#x2714; Huawei Watch W1<br>&#x2714; TAG Heuer Connected<br><br>For using Google Fit data in Active Weather Watch Face, you must confirm dialog on start, that application can read data from your phone.<br><br>Common synchronization problem solution:<br><br>If the Application does not appear on your watch please do the following:<br>- uninstall the face application from phone<br>- disconnect watch from phone<br>- restart watch<br>- connect watch and phone again<br>- install Active Weather Watch Face once again<br><br>Application using<br>- weather data from http://openweathermap.org/ or http://www.yr.no/",
+    "histogram": {
+        "1": 5,
+        "2": 6,
+        "3": 10,
+        "4": 42,
+        "5": 80
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/OlAPEgOOWnKlFKHq6EoLy4rVYqSFeX_l_lwye9CQvy4N23-6a8487gorza5cz2Lpx-M=h310",
+        "//lh3.googleusercontent.com/rHKbPN51GCKqWE95R_dZE4N6uQ3kdiv827n57h5OQFpZPoGCN5FgnVlG2zgaLf6QLVs=h310",
+        "//lh3.googleusercontent.com/P0jINKArZR-fc00qCFj5l_8VeMg7aipsAo0xCrdGmZAGSTqOfoewk3gQOB3vEPegnw=h310",
+        "//lh3.googleusercontent.com/6khJHHgICCdveWG4y3QdulIh3AM1HSFkRFKaaJxmMFrnwHjzGrlcx-OXQ5VwVX3bbQ=h310",
+        "//lh3.googleusercontent.com/Kh1UDfJhKHW0VOXnRsaXPP1_knUyTa04zZlu0ygIy-z2ASzo7X8-US5cfUuLd83mxCI=h310",
+        "//lh3.googleusercontent.com/0-rUBT3I5ug6qcm_Cu6Vcb66bp3TCldiFQpg2IVsdDU6ZwwgiJopQpH8IoHZoeQ7=h310",
+        "//lh3.googleusercontent.com/-eIn_16IkwmiUyzAYe8G1Zvz1Gt4L6Ga3GVhtP2L-QajrdyKV9bHD7VNgmfYQkymeyo=h310",
+        "//lh3.googleusercontent.com/Fs0ZHrNLDNFJYSZPjCaZdE02i_g5H-d4vG9JbfBlNBjcCK4myWvqNC9JpjPMg2v8hlk=h310"
+    ],
+    "video": "https://www.youtube.com/embed/_G1dJZUesHU",
+    "comments": [
+        "Nice animations etc. However, it sets my phone on fire when using it. It keeps the device awake and drains my battery in few hours. If I stop using it the phone behaves fine.",
+        "I really love this watch face. It's informative, fun to look at, and very configurable (battery on my LG G Watch is not abused by it thanks to some clearly defined config settings).  My only complaint is that the step counter does not appear to be tied to Google Fit, but rather, is it's own independent thing. I went for a walk with the dog for over an hour and took nearly 10k steps by the watch face's count, but Google Fit did not show the same count at all (substantially less), which means that the watch and phone were not using the same pedometer API.  Other than that, it's still a great watch face and I'll be keeping it :)  EDIT: User error! The watch pedometer is using Google Fit when available! I had to refresh the Google Fit App and web page in order for the steps to match up. Step for step they are the same, so yes, this watch face gets zero complaints from me :)",
+        "Would really like the option to set my own complications. Extra star if this function ever gets added",
+        "I like it. Very useful and cool looking",
+        "Neato",
+        "Fairly Nice The animations and colours are nice, but the small widgets need to auto align and space themselves out. For example, if I removed the Google Fit function, the other 2 will not shift inwards to utilise the space. Ohh.. Google Fit didn't work for me anyway (even after giving permission).."
+    ],
+    "recentChanges": [
+        "Fixed:",
+        "- Api version for calling sun and moon data is increased to 1.1, without this upgrade  data are not available."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=huskydev.android.watchface.activeweather&hl=en&gl=us",
+    "appId": "huskydev.android.watchface.activeweather"
+}

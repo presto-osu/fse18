@@ -1,0 +1,51 @@
+{
+    "title": "Watchfacer",
+    "summary": "Highly customizable watchface with analog or digital clock",
+    "icon": "//lh3.googleusercontent.com/_QOlbgkeLHX5HfYoaWD5l6i0i49_Ha1QKm0toDogGvTcZcy5QlR1S_zgt8HIdcLU_8ca=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "Philipp Fahlteich",
+    "developerId": "Philipp+Fahlteich",
+    "developerEmail": "philipp.fahlteich@gmail.com",
+    "developerAddress": "Lena-Christ-Str. 7\n83024 Rosenheim\nDeutschland",
+    "updated": "August 2, 2016",
+    "version": "1.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watchfacer is a watchface that can be customized to your own needs: analog or digital, seconds hand, date display or battery meter. Every element can be turned on and off as well as adjusted in color.Automatic colorization via color pickerJust changed clothes but your watchface does not fit? Take a picture and colorize your watchface according to your outfit - with the help of the color picker.Configuration via watch oder mobile phoneTired of taking out a mobile phone just to edit your watchface? Watchfacer can either be configured directly on your watch or on your mobile phone via a companion app.Features:- Analog or digital watchface- Color chooser- Color picker- Fonts- Seconds hand- Date display- Battery meter- Companion app",
+    "descriptionHTML": "Watchfacer is a watchface that can be customized to your own needs: analog or digital, seconds hand, date display or battery meter. Every element can be turned on and off as well as adjusted in color.<br><br><br><b>Automatic colorization via color picker</b><br>Just changed clothes but your watchface does not fit? Take a picture and colorize your watchface according to your outfit - with the help of the color picker.<br><br><b>Configuration via watch oder mobile phone</b><br>Tired of taking out a mobile phone just to edit your watchface? Watchfacer can either be configured directly on your watch or on your mobile phone via a companion app.<br><br><b>Features:</b><br>- Analog or digital watchface<br>- Color chooser<br>- Color picker<br>- Fonts<br>- Seconds hand<br>- Date display<br>- Battery meter<br>- Companion app",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/H_5PqhrNOrTrxOkIJpI9Ioat4uu_u8P3OUQqwQdOvcfWSuSNuNvau4uxrZ8KZLAkN8y2=h310",
+        "//lh3.googleusercontent.com/KXpEHE2PITbxqYVYeAyicHlS41mBcKM0LwYOtWQDzzkzVeo-OCCUt2uQXDf8CwQZalk=h310",
+        "//lh3.googleusercontent.com/1Yat3ii5g-U2Re0eQKWPS65oNQpzwmPDdsjytUAK_tH03a0YS3C2x6OMMwikOKPOnZk=h310",
+        "//lh3.googleusercontent.com/pm-FGKrb5JzZN3HeFCNHXf6GnLBaNIHFmn6TUjixj2ldHznBumU-PX4ja3zO_OLiC7g=h310",
+        "//lh3.googleusercontent.com/K1t4T9qiu3tPkyQrgw1NBqeOX_FlYRSlHonxLTE7iJMHx2_P8-2rCo-M4GvWgnY-H_td=h310",
+        "//lh3.googleusercontent.com/MnD_d14xF_FgqQc0jww2i0iwCtQveHi9Qlc9trAZHg-bJJDwGHQzIBQOV8sZrE_z5NHH=h310",
+        "//lh3.googleusercontent.com/tJ6fr32GGECvFX445l_PEc9HyhsMNjJ06EsLVNAr45v0NyczAoCrlnmr4RwhuysAf-4=h310"
+    ],
+    "comments": [
+        "Not working properly"
+    ],
+    "recentChanges": [
+        "- Shape-aware configuration screen"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.faltenreich.watchcraft&hl=en&gl=us",
+    "appId": "com.faltenreich.watchcraft"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "LCD Watch face with Steps",
+    "summary": "LCD style watchface to display number of steps today",
+    "icon": "//lh3.googleusercontent.com/R91q9YEhkkQ2dS0ZZVb3UZxg86BX_-boRgZynDVf5MvpWQp_f6tHbUH83_stz0i4VVc=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 26,
+    "developer": "Wearable Designs",
+    "developerId": "5117509099958351335",
+    "developerEmail": "support@wearabledesigns.co.uk",
+    "developerWebsite": "http://www.wearabledesigns.co.uk",
+    "developerAddress": "AdminExcellence Limited trading as Wearable Designs\nThe Castle House\nNewnham\nGloucestershire\nGL14 1AE",
+    "updated": "March 18, 2016",
+    "version": "2.0.6",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "LCD Style watch face for Android Wear to display the number of steps taken today.  Also displays an estimate on the number of Calories burnt and the distance walked.The number of Calories and Distance walked is based upon your average stride when walking.  Calories are adjusted by either walking pace (approx 2MPH) or a fast pace (3MPH). This can be adjusted on the Settings Page on your phone.Time format can be set to either 12 hour format or 24 hour format.  Date formatting can be altered to a variety of different formats using the Settings tool installed on your phone.This Watchface used to require Google Fit to be installed, but this is no longer the case and is completely standalone.",
+    "descriptionHTML": "LCD Style watch face for Android Wear to display the number of steps taken today.  Also displays an estimate on the number of Calories burnt and the distance walked.<br><br>The number of Calories and Distance walked is based upon your average stride when walking.  Calories are adjusted by either walking pace (approx 2MPH) or a fast pace (3MPH). This can be adjusted on the Settings Page on your phone.<br><br>Time format can be set to either 12 hour format or 24 hour format.  Date formatting can be altered to a variety of different formats using the Settings tool installed on your phone.<br><br>This Watchface used to require Google Fit to be installed, but this is no longer the case and is completely standalone.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 3,
+        "4": 8,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/uj70VrG4bggi5xk-eGKfRnvpuHWbofKt7rfMMydM3ZYlIa_wiArPDta8ucJcp0fGq08=h310",
+        "//lh3.googleusercontent.com/jjNG0KOXd_ITN2aLmTcv3bXTkQStgyiITZGubcXH90boI8sT4E2eQhjTHUpwgpdnUUBh=h310",
+        "//lh3.googleusercontent.com/s4--QJ5BxWCSQFPRWQEMSGTFniFzJ7JibXvauog_28hL1X3oSZiTEVDIFXaIULLj1_Y=h310",
+        "//lh3.googleusercontent.com/wVpl07z3SyFD0XOd5vFcwug9DMmiC4A6EL0cKQtA8Bg4RheHDqHwVQyE3SJJ8b-pRr_7=h310",
+        "//lh3.googleusercontent.com/6MiXtkPwr2ktzlnCSeIajE8EhvgE5qETu1pP7nCUXJb1YM5jy0u8_dpmsqm_4OxLHcs=h310",
+        "//lh3.googleusercontent.com/V4Wwai0ai_eu2JJRr5gEZ6lpMRRJUpS47rMcrcQC0ziy6QEe2aJiS_ZMW4CvLCM-WzOq=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Q_Rpfeds4Tk",
+    "comments": [
+        "Bought this watchface, but I cant seem to use it on my Moto 360, is there a step im missing?",
+        "Ots my style"
+    ],
+    "recentChanges": [
+        "Added Google Fit as a step count source.",
+        "Improved German Translation",
+        "Updated to latest build tools"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.wearabledesigns.lcdwithfit&hl=en&gl=us",
+    "appId": "uk.co.wearabledesigns.lcdwithfit"
+}

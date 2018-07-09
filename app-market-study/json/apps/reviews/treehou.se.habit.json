@@ -1,0 +1,254 @@
+[
+    {
+        "author": "Chris Oryschak",
+        "comment": "Feb 21: finally no longer crashing. super happy to have this app back  Update Jan27: Still crashing on load. running Galaxy S7 on Android 7.0  Update jan 13 2018: the latest update released has caused the app to no longer work. every time i start it.. it crashes.   Old review: works really well. I have a problem where it won't connect to my server if I'm over 3G. the moment i'm on WiFi the connection is established...",
+        "date": "February 21, 2018",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPR2dRSWRsak9iM1IxNm1vd2FDNm9QWkw5cGtaWWNMSkhqRENvZUF0ckZLc0Q3WUxuWDZFT1FXb3gyLTNyNktCbjRYa3hZMmU2VUc2NnU2SFE",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Paul Janssens",
+        "comment": "Moto G5 with Android 7.0 now likes the app again. Thanks for the fix",
+        "date": "February 22, 2018",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRW5jV1VUbmNuak01NXpzeHo1VlZkWkF1Z0ZBeEFwZWV1NlA4QzFxbFdwT3NWZVhCYWw3Wm1fUFVybE4xdFFFMXRtYXFPQXF4VzdZVE5sWnc",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Sorry problem and for the delay of the bugfix.",
+            "date": "February 22, 2018"
+        },
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "Dmitry Jerusalimsky",
+        "comment": "It crashes every time on launch with latest Android 8.1.0",
+        "date": "December 27, 2017",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRTB5SmVxLVVlMXBMYm5lS29MUHV3Z2Q5QVJ5UkFJUlVYQnpFX1lGSEV3cUdYVHpxRXF1NEh0ZWYtQVdTZHdHZUVuVEtFcFFSalR1VW03Rnc",
+        "reply": null,
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Mihir Patil",
+        "comment": "The controller does not work with more than 2 rows",
+        "date": "June 16, 2017",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRmN2SmNOMXFWU21iYnhrMVJmXzBJWnk2MlJfNGQwOTJ5dXNYMkVHeVhscFd4UVZMTmVFYlpYQW1WUG9tQjBpc1RrR0d6ZG9lcEUxVjk4a1E",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Thanks for notifying me. Will take a look at it ASAP",
+            "date": "June 16, 2017"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Giles Spungin",
+        "comment": "Android version 6.0.1. Used to work perfectly fine, now crashes after any action (for example switch selection). please fix. UDPATE: no longer crashes on switch selection. Back to 5 stars",
+        "date": "October 7, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPR3N5ZUVmMEt2LUpoaE5xcW1ZRVhycVlFQmVaNHJ1b2l5OUpyVXZKc0hsSGZDRjlPRmpVNzlHU1Fxam5zeHhsWnBNNDlLTE5OZEFmYU8tcFE",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Glad that the latest set of patches fixed the problem",
+            "date": "October 8, 2016"
+        },
+        "star": 5,
+        "title": "constantly crashes after last update"
+    },
+    {
+        "author": "nurettin alp",
+        "comment": "When click a switch program shutdown.",
+        "date": "September 20, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPR09ON0Qzd2tKTnJVWG1STEEzZThSeXdTU0NrNzJOcFRteXdlYl9SNTFObGtzZkdtdDhZYTVLSnNLRmF2bV9FWTh4UGpLcHZwZlQ3aTlaM2c",
+        "reply": null,
+        "star": 5,
+        "title": "Crash android 6"
+    },
+    {
+        "author": "Chris B",
+        "comment": "Was looking forward to this working,  but it can't find the server. Bit of a waste of time.  Hopefully it gets fixed.",
+        "date": "July 10, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRnl6LWFwM0hYY1FTUm1XYWFGTmZ5d3BtT1hCV2x2c1VsMTVwODV0dTVuNzRUWTYzOTJBOGZkQlJJT251b1NBcUF3aE1SazZWRzd6QjhBT3c",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Can't you find it with the scanner? It might be that zeroconf isn't working correctly on the pi",
+            "date": "August 4, 2016"
+        },
+        "star": 1,
+        "title": "Cannot find local raspberry server"
+    },
+    {
+        "author": "Mike O",
+        "comment": "Was a great app for more custom setups. I realize you broke the database with the 5.* release and I can get past that but when I send a volume change request for my squeezebox it sends the console into a tailspin. I can email you the error on request. The web interface and official app work as intended.",
+        "date": "June 30, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPSFRFb3l3RVpEY3ZlQW1YVG92d05IcnhYdVc3M1VoWUF1U3lUMDNQNzN0eGFpbzV5cjFPc3BvNzhsZ0Jlc1lqdG5hY1R5SmRBc3EzcWlLOHc",
+        "reply": null,
+        "star": 1,
+        "title": null
+    },
+    {
+        "author": "Sam Turner",
+        "comment": "Better documentation is needed, or more descriptive text on what things do. It seems there is quite a lot this app can do and the controllers look particularly useful. But each time I try to set it up I have limited success and end up uninstalling the app either in frustration, or because there is a rogue widget or notification that I can't remove any other way.",
+        "date": "July 24, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRU1sR3FtSU44T3JTZjVJNlFIQnppTjJaWG5rQkc2clowOWZNWlBnbFYzVWpVR25kYS0wTlByZnBkb0x4SkNMZE9CZGZXZ3RkTlViOGE2bUE",
+        "reply": null,
+        "star": 3,
+        "title": "Needs better documentation"
+    },
+    {
+        "author": "Timo Aho",
+        "comment": "This one is a hundredfold more responsive than the offical one. Plus I dont need Tasker anymore for widgets.",
+        "date": "May 24, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRmNIczZLTUxUbWx0aXc1WmMwZ25xODRKTXo1Mkw1bXROd3ZTT0NHMVFQMmRraTdmYl8zRHFFZU5vaEQybTQ4SUU5aFBVQkYzNkZnNVdsN0E",
+        "reply": null,
+        "star": 5,
+        "title": "Excellent"
+    },
+    {
+        "author": "Chad Dybdahl",
+        "comment": "This looks really interesting, but I can't get the app to find my server, which is running on a nonstandard port. Is this supported?",
+        "date": "June 20, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPSDhjZTktWkRReTBkVG5sYzZWTFBqSXFTRVczYm1YbkRWeTdNTFpNb2tsQlVfd3c4ODBOVUVwclpkMWhZWEZGMFZ2Ujh2UEtyZUZPWVRnNkE",
+        "reply": null,
+        "star": 2,
+        "title": null
+    },
+    {
+        "author": "Verger Alle-sur-semois",
+        "comment": "Crashes since the last update, used to work fine on my moto g1.",
+        "date": "July 7, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRzV6RkdpekxnY19QRThSOWtKRm9kWWQzenJSTzgzOHN1bG1FMHJHWjFwR3hFZlByOEgzVE1GYVBJT0VjNTVlazdfbHFNVHJheDYxZkVNekE",
+        "reply": null,
+        "star": 2,
+        "title": null
+    },
+    {
+        "author": "Brenda Wallace",
+        "comment": "Doesn't do valuecolor or labelcolor. Otherwise flawless.",
+        "date": "February 27, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRWo3bWs2YWwwdEtOUk1tNEdGLTFnUzJndkNiWDdvUGhFSjB4bHNoRXVmNm5uMlZ0RGxxeXhuSlU2aU9xODVlbWZhWUdoN09HclZnRUZIc0E",
+        "reply": null,
+        "star": 4,
+        "title": null
+    },
+    {
+        "author": "kyawlin aung",
+        "comment": "Good application.Faster than openhab original app and can control multipel openhab server.Love it",
+        "date": "May 29, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPR3RfN2NFZWxpMjhoOVZTeU53VGhIaFdJQnR6NGlYV1oyZ2NmbDFWRVJSUGxha2xtc0ljb0owNHFZVmk5OWQzeVREcHZPMTBUWjBmWmh5MGc",
+        "reply": null,
+        "star": 5,
+        "title": "Home automation"
+    },
+    {
+        "author": "William Garrido",
+        "comment": "Love it but seems like I can't connect over SSL. Works fine at home over http. Other app works fine.",
+        "date": "December 1, 2015",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPR3ZKSXRhOGdrTG96djFiMkdYYzVtNEhwXzVJQ1NjZ0psNW9vTmRTcTR1X1dLUGJfUEs2N2hHSEZZZFhXQmRSOGtBZl9JYzRDQ1JGaVgtRFE",
+        "reply": null,
+        "star": 4,
+        "title": "Looks great"
+    },
+    {
+        "author": "Benedict Smith",
+        "comment": "But especially great for making button widgets :) thanks Mattias",
+        "date": "October 20, 2015",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRXhUWVJVQm9qN1dwMXNQTVpxTWcwa2dEUmdiRW5Na19WSEtJSHZiUWE0bWRacVlhdUQwdFB2eHl4dzFzeXJMMmZZQXNBUXpHYUNHTEhWUmc",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Thanks Ben :)",
+            "date": "August 17, 2015"
+        },
+        "star": 4,
+        "title": "Much goodness"
+    },
+    {
+        "author": "Stephen Howell",
+        "comment": "Looks good in these screenshots but crashes on load on tablet & phone",
+        "date": "August 11, 2015",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRTl4aldnRWhIUHd6UnJpSVFmMnVSdDA3ZU1wajhoMFlFV1BTcC1DMm9hQ2g4Tzd0N2ItWWdZTVh0d2NGTVU1aFItdGhkNV9aTnpLLW9SdFE",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Uploaded a fix a couple of minutes (Downloadable in a day or so). \nIt should probably solve the problem.",
+            "date": "August 12, 2015"
+        },
+        "star": 3,
+        "title": null
+    },
+    {
+        "author": "Mr F",
+        "comment": "Selain dari versi original, ini kedua terbaik! Suis-suis rumahku kini automatik, terima kasih tak terhingga!",
+        "date": "June 6, 2015",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRVdEQnh4R3ladGZUa3gxQVpKWE5kMDlDTDBVUUYyUTk0cV9fUkMxVnhleUdyVUVqZTVrVFBCcUs4bEdFcTB0RU5lal9WTzhHVUdtd1p5SXc",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Thanks :)",
+            "date": "June 11, 2015"
+        },
+        "star": 5,
+        "title": "Terbaik!"
+    },
+    {
+        "author": "Kyle Haefner",
+        "comment": "Better than the openhab app!",
+        "date": "April 20, 2015",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRmtvQkxXaW5aaS13blRsUkhjMjFoWmNxTkZuOGZWelpXbHhJRWRmSUdsTlRmbzBZc2dQcWV5RElYRm1taXlYSmhNNnR4cTV5NndJaFVQZGc",
+        "reply": null,
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Aaron Sutton",
+        "comment": "I am totally unable to connect to my openHAB server. Is this because I'm using https? openHAB app connects without issue, so I know my server is fine.",
+        "date": "March 24, 2015",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPSEZ4cUZmTW1WVkF5T0R4WUdEMmlKRXptVTBtbUZtWHBvRUNZVnRMTTh1TkNBakx0N1plQ0JvMVotUUNRRlNVTWdpRUFUU3Y5eldvd1R3T1E",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Hi Aaron. The app now supports self signed certificates. You should be golden.",
+            "date": "August 17, 2015"
+        },
+        "star": 1,
+        "title": "Doesn't seem to work at all"
+    },
+    {
+        "author": "Paul Muldoon",
+        "comment": "Great app and love the ability to add multiple servers.  But had to give 4 stars only as was unable to access via https when HabDroid can.",
+        "date": "March 25, 2015",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRi1kek45ZjU3RWoxMlIySGFtWE9pX2NKUGxaOVFyM3hocUxpSjUxci1SM0pYcW5wTDdMcV8wYmhBRlN6cHpUOXdMLWRfT3c0YzZVRmpLTEE",
+        "reply": null,
+        "star": 4,
+        "title": "https not working"
+    },
+    {
+        "author": "Steven Daglish",
+        "comment": "Update seems to fix connection issues. Overall looks good and numbers and switched seem to be working well.   Charts not showing yet. Frame and sitemap titles are shown on the same line causing some of the text to be off the screen.   So far looking better than the official app! Keep up the good work.",
+        "date": "March 7, 2015",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPR09hOGVCeXBvRW9HT2lRV08xNEF5bnh4dkRjRm5rZXJLT1VIQk9iZnUtZWptVHFxRzMyMGNnMUpSSVBPRnpCLVh6ZVE1eTdGdHVlQlpIY3c",
+        "reply": {
+            "author": "3hou.se",
+            "content": "Hi. Yeah it seems like a couple of users have received this error.\nWill have a path out in 3-4 days.",
+            "date": "March 6, 2015"
+        },
+        "star": 4,
+        "title": "Looking good"
+    },
+    {
+        "author": "Romales Harrison",
+        "comment": "Thank you.Good job team",
+        "date": "January 15, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPRnNYUklHdlU2Q0VHTWR3bjRpNmx0YjYwQzJpa1FOMFViRUNRcmJwR1RORHBMZVp4NGdrNGZhZUhzbWpqMzY4LVNZakhCQjNWZTRxeTR5OWc",
+        "reply": null,
+        "star": 5,
+        "title": "Great tony the tiger grrrrrr"
+    },
+    {
+        "author": "Vesa Kemppainen",
+        "comment": "Using it daily",
+        "date": "August 17, 2016",
+        "permlink": "/store/apps/details?id=treehou.se.habit&reviewId=Z3A6QU9xcFRPSFllS0JpOE80RHF4NVpNQUxrbXAydThTLTNwcTVHTDJ0YXQxSzFjVXRwSm9BZXJuRXc4eEM4QjMzUHVSOU56Y29WYng3Tkc3ZmVCSmR2a2c",
+        "reply": null,
+        "star": 4,
+        "title": null
+    }
+]

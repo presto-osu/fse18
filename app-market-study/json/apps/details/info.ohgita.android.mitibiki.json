@@ -1,0 +1,47 @@
+{
+    "title": "Mitibiki",
+    "summary": "Guide you with using random number.",
+    "icon": "//lh5.ggpht.com/UHa-o0UFldt4ciLQUGEUvd7sjqyf7QKaXuiPL0FBDN4wJzA4eUJs05fwx06ktNvFsw2A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 6,
+    "developer": "Masanori Ohgita",
+    "developerId": "Masanori+Ohgita",
+    "developerEmail": "mp_android@ohgita.info",
+    "developerWebsite": "http://ohgita.info/",
+    "updated": "June 28, 2014",
+    "version": "1.2.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Guide you with using random number.[Android Wear Enabled]Anywhere, you can use the Mitibiki with using your Android Wear device.----Mitibiki Web-version: http://mpnets.net/mitibiki/",
+    "descriptionHTML": "Guide you with using random number.<br><br>[Android Wear Enabled]<br>Anywhere, you can use the Mitibiki with using your Android Wear device.<br><br>----<br>Mitibiki Web-version: http://mpnets.net/mitibiki/",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/i1oalDbY5FeVeZ6p_0rIpjc_9QRXEblnoVKgI2t6FcYFbLL1W9usop7X8YeHFGxz0A=h310",
+        "//lh3.ggpht.com/jgJ-PfnCU3gruuJaC0Qq9BJ4xMtZVfQwx3rJmR2W1oKE1-6f7k6Q4qUnrG93JAACQw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "* Supported continuous input by voice input.",
+        "* Changed the message which share the result.",
+        "* Changed the layout.",
+        "* Fixed the malfunction occurred when clearing choices."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.ohgita.android.mitibiki&hl=en&gl=us",
+    "appId": "info.ohgita.android.mitibiki"
+}

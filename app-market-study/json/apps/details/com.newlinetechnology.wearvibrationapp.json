@@ -1,0 +1,55 @@
+{
+    "title": "My Watch Notifier",
+    "summary": "Gives vibrate notification on your android wear for all applications",
+    "icon": "//lh6.ggpht.com/f--usFSxTJ45CY3n7E8_xQ5zDQOE1pq100gO_ZQeYsLTYduNBBLn_DIAOB9L5bx1ypc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 112,
+    "developer": "Yanislav Mihaylov",
+    "developerId": "Yanislav+Mihaylov",
+    "developerEmail": "jany81@gmail.com",
+    "developerWebsite": "http://www.newline-technology.com",
+    "updated": "September 8, 2015",
+    "version": "2.07",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "* Gives you an option to select the applications for which when there is a notification your Android Wear device will vibrate.* Now you can configure also custom vibration pattern per application* Additional filters - gives you the ability to configure even further the notifications by specifying custom vibration pattern for different keywords that are contained in the notificationIMPORTANT: In order to work you have to allow the application to receive all the notifications from Settings -> Security -> Notification accessAlso please if you have any ideas or comments regarding the application feel free to send them to me via email.*** Alpha Version ***The Alpha testers community - https://plus.google.com/communities/115320085267378492716",
+    "descriptionHTML": "* Gives you an option to select the applications for which when there is a notification your Android Wear device will vibrate.<br>* Now you can configure also custom vibration pattern per application<br>* Additional filters - gives you the ability to configure even further the notifications by specifying custom vibration pattern for different keywords that are contained in the notification<br><br>IMPORTANT: In order to work you have to allow the application to receive all the notifications from Settings -&gt; Security -&gt; Notification access<br><br>Also please if you have any ideas or comments regarding the application feel free to send them to me via email.<br><br>*** Alpha Version ***<br>The Alpha testers community - https://plus.google.com/communities/115320085267378492716",
+    "histogram": {
+        "1": 32,
+        "2": 6,
+        "3": 5,
+        "4": 11,
+        "5": 58
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/xzcDNSmFqxNpiyKCFTLtDK0j0-pGcHGnKJwXpLzuQp7SgK4Nh7AGTpxF_PmRe6bfSPYy=h310",
+        "//lh3.googleusercontent.com/cWZOjh3VoSV_IHFksnB6EGKdgFVpdoUXIh6y2dTBsDiDpx1nFkOc84sLOy5oAOG-R5IL=h310",
+        "//lh3.googleusercontent.com/s_LFqYdm6XyCmcVFXk9CyfkONav7ArEDOfS4BFNV7g5NRtstMUo9sH-m2Q8doAFzluY=h310",
+        "//lh3.googleusercontent.com/ss1NJ5lks47DYVU9olRH9eScj8J4DuMcdvkw5rDt4uHQg-vEwKwW2DNKr21KpC6fxg=h310",
+        "//lh3.googleusercontent.com/gVyYaa6lsGVjg2-IOej7wpDqvcGXGnFhmAI9y6woiQxSVY4YMRVJBqkaxtqoCsfbNhM=h310",
+        "//lh3.googleusercontent.com/v3-lW-3ARu6-1kObXp5p0C6BYg9ohAXUaetTHsJYld0rRB2l6-nQoz8WNXKYZzurvwA=h310"
+    ],
+    "comments": [
+        "Mate 7 This is a necessary app for official Mate 7 lollipop to gain access to the notification center. I'm using it with a gear fit",
+        "Nice app",
+        "Just what I was looking for Great app, just what Android Wear needed. Developer is very helpful, replies to emails, and tries to fix bugs.",
+        "Not in Notifications access App not appear in notifications access list.",
+        "Thank you! Thank you so much guys! This app does exactly what it says! Super useful.",
+        "Just what i need!"
+    ],
+    "recentChanges": [
+        "- bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.newlinetechnology.wearvibrationapp&hl=en&gl=us",
+    "appId": "com.newlinetechnology.wearvibrationapp"
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Homecontrol",
+    "summary": "Home control for the home automation software IP-Symcon (www.ip-symcon.de)",
+    "icon": "//lh6.ggpht.com/gsph2ZPLNf2-rzJju5VdV6rHdPuOTSHJcl85krC-wzSWeGgxnQyEaMgMG79BGeqNGi0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.9,
+    "reviews": 22,
+    "developer": "Thiemo",
+    "developerId": "Thiemo",
+    "developerEmail": "thiemoumf@gmx.at",
+    "developerWebsite": "http://www.ip-symcon.de",
+    "updated": "February 1, 2017",
+    "version": "2.5.2",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Features:- Voice control of IP-Symcon (Recognition of a voice and the text will be submitted to IP-Symcon and the answer from IP-Symcon will be played back)- NFC control of IP-Symcon (Scan of a NFC tag, play the text and submit it to IP-Symcon and play back the answer)- Text control of IP-Symcon (Input a text with screen keyboard inside a popup and the text will be submitted to IP-Symcon and the answer from IP-Symcon will be played back)- QR-Code control of IP-Symcon (Scan a QR code, play the text and submit it to IP-Symcon and play back the answer)- Write NFC-Tags with voice commands- SSL/TLS (https) support- Technic is JSON (1x GET to check the connection to the server, 1x PUT to send the action to IP-Symcon, in IP-Symcon a php script will do it and writes the result to a variable, 1x PUT to read the result from IP-Symcon)- Swipe functionallity between the screens- Landscape layouts- Tablet layouts- Widget for voice control and text control of IP-Symcon and lockscreen widget- Server mode so that you can monitor/control your android device from IP-Symcon- Bluetooth Support- Wearable Support- Location Tracking- Show IP-Symcon Webfront- Offline Voice Recognition- Wifi Tracking- Integrated webcam (Use Android device as webcam)Further details:http://www.ip-symcon.de/forum/threads/26005-Android-App-IPSymconVoicehttp://www.thiemog.euBest RegardsThiemoBTC: 1KGgGuWwgq44hJWRX4cAjkFG7ZDEU4YG6FLTC: LMfN6GWiQsjBDXe2APh2Qcc856hkJCaN1S",
+    "descriptionHTML": "Features:<br>- Voice control of IP-Symcon (Recognition of a voice and the text will be submitted to IP-Symcon and the answer from IP-Symcon will be played back)<br>- NFC control of IP-Symcon (Scan of a NFC tag, play the text and submit it to IP-Symcon and play back the answer)<br>- Text control of IP-Symcon (Input a text with screen keyboard inside a popup and the text will be submitted to IP-Symcon and the answer from IP-Symcon will be played back)<br>- QR-Code control of IP-Symcon (Scan a QR code, play the text and submit it to IP-Symcon and play back the answer)<br>- Write NFC-Tags with voice commands<br>- SSL/TLS (https) support<br>- Technic is JSON (1x GET to check the connection to the server, 1x PUT to send the action to IP-Symcon, in IP-Symcon a php script will do it and writes the result to a variable, 1x PUT to read the result from IP-Symcon)<br>- Swipe functionallity between the screens<br>- Landscape layouts<br>- Tablet layouts<br>- Widget for voice control and text control of IP-Symcon and lockscreen widget<br>- Server mode so that you can monitor/control your android device from IP-Symcon<br>- Bluetooth Support<br>- Wearable Support<br>- Location Tracking<br>- Show IP-Symcon Webfront<br>- Offline Voice Recognition<br>- Wifi Tracking<br>- Integrated webcam (Use Android device as webcam)<br><br>Further details:<br>http://www.ip-symcon.de/forum/threads/26005-Android-App-IPSymconVoice<br>http://www.thiemog.eu<br><br>Best Regards<br>Thiemo<br><br>BTC: 1KGgGuWwgq44hJWRX4cAjkFG7ZDEU4YG6F<br>LTC: LMfN6GWiQsjBDXe2APh2Qcc856hkJCaN1S",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 21
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/XoQ0PyIBhRDxz0RivP7e25rUilL_fESQ5wcDAG1Byx0XXfaQs51dI6RR0Wk0THLLaBqH=h310",
+        "//lh5.ggpht.com/_bpMROLv8NmHahakGhfpQJiubbViUbfLY7CGDYL4REneVD0UW4C5icMdBMZcy-rXJfQ=h310",
+        "//lh4.ggpht.com/HnXCsm9z52-ewHBcsHimyryo6Sjer0U-HRVAX9s5D2EbMH65aCXUrRzCW9yZNceugcc=h310",
+        "//lh4.ggpht.com/r67haXkaW9KMdKU_3HW2UUoJqAYU4mEJefZzpjO2UFm9ZGY0aSw5UEGAtR8aaWPJkuc=h310",
+        "//lh3.ggpht.com/KroIaFtpRzVvGDlI_6KG94XnjmUI3fEQTlGYX7B_Kwk6wOyvu4KkjHdwv6zVRdToa0_J=h310",
+        "//lh6.ggpht.com/lZyNYJrP5rLpVWGEM-9MNLIrcmZS2JQKl8P0xYgPgMZJ5llO_BTBqsTQ053J8BxmAg=h310",
+        "//lh4.ggpht.com/B3ri0lLcRlYTX5EF_yhW_ExgvvrgqnM4Mx3xiHcWaKtr0BdmajwFmLDB33dRMQDqLt4=h310",
+        "//lh4.ggpht.com/5f-bp2kr3n_ipkYqf6PvbQchjVh7ZQnFVtJE8xH_0n3Nk61UdnQse1qISyOuI_mlKw=h310",
+        "//lh3.ggpht.com/Sz5coQKoP_GemTiOyQ16_78FFMdyA9gV7hKSUP81KxsFOzBoL7Rdp_5O6wwyjZbTdAQ=h310",
+        "//lh3.ggpht.com/c9CEi02Na0lqU8f47QL3gbplwyXZvQ1vPuqwgepbgEPmmkMI5A749KT-yp0sXEgbHg=h310",
+        "//lh5.ggpht.com/LX0jRX31XL9xN5e_tYrfYWcBSyUpHqKc8vl2KmTkjRuhrfvKoZdAADbcvpHZIL_cz7WY=h310",
+        "//lh4.ggpht.com/FdLyuUr5-3jRvbRoVca7i-XNANQ0j-5fiP_O5j66jP2ia8JLMA8-48l7b1S0ii8Oq_6i=h310",
+        "//lh3.googleusercontent.com/JTJwcvWWAafoCTOR6H3yHpMUYOhe7E6BHTdlioarvpv3_XMz_EtdIir8qjM4x9Sgnk0=h310",
+        "//lh3.googleusercontent.com/bI-jqnDT_AyU_jRi9oNrOSJYQdTWtPjcKCv9Xl2TLsKdp_UIQ8muFJrzVIkNRpIl08U=h310"
+    ],
+    "comments": [
+        "It is à grate"
+    ],
+    "recentChanges": [
+        "- new: webcam angle 0,90,180,270 setting possible",
+        "- new: webfront user/password setting possible",
+        "- bugfix: socket timeout reactivated",
+        "- bugfix: wearable config quickaccess"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.ip_symcon.www.haussteuerung&hl=en&gl=us",
+    "appId": "de.ip_symcon.www.haussteuerung"
+}

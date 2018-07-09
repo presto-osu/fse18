@@ -1,0 +1,57 @@
+{
+    "title": "Playback Starter For Wear",
+    "summary": "Start Audio Playback from your Android Wear!",
+    "icon": "//lh4.ggpht.com/u-GiDrpdCaQokfRvEE6zc8SfsLSlw1uCVodubU8wzCiMgI_7KcTd7eyXMNYP5wAZ9w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.8,
+    "reviews": 61,
+    "developer": "Rory Glynn",
+    "developerId": "6843176704470287746",
+    "developerEmail": "rory@appz.ie",
+    "developerWebsite": "http://appz.ie",
+    "developerAddress": "233 California St.\nEl Segundo\nCA, 90245\nUSA",
+    "updated": "October 6, 2015",
+    "version": "1.0.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Want to start music or podcast playback from your wrist?Now with Playback Starter on your Android Wear Smartwatch you can!Just tell your watch you want to \"Start Playback\" and it will show you the list of applications that will accept a start playback command.The app you choose will be launched and told to start playback remotely.Because some of the applications that say they will accept a playback command don't seem to do anything with them you can hide them from the app on your phone.This app was inspired by Media Button Router and uses it's method for finding applications which can be told to start playback. ( https://code.google.com/p/media-button-router/ )Playback Starter For Wear works very well with Google Play Music, Pocket Casts, Doggcatcher, Shuttle+, Saavn and Spotify.",
+    "descriptionHTML": "Want to start music or podcast playback from your wrist?<br><br>Now with Playback Starter on your Android Wear Smartwatch you can!<br><br>Just tell your watch you want to &quot;Start Playback&quot; and it will show you the list of applications that will accept a start playback command.<br>The app you choose will be launched and told to start playback remotely.<br><br>Because some of the applications that say they will accept a playback command don&apos;t seem to do anything with them you can hide them from the app on your phone.<br><br>This app was inspired by Media Button Router and uses it&apos;s method for finding applications which can be told to start playback. ( https://code.google.com/p/media-button-router/ )<br><br>Playback Starter For Wear works very well with Google Play Music, Pocket Casts, Doggcatcher, Shuttle+, Saavn and Spotify.",
+    "histogram": {
+        "1": 12,
+        "2": 4,
+        "3": 2,
+        "4": 8,
+        "5": 35
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/K3_lC3d9dh1ht1JQG6FKP1829nw6SSFqgCv8-JfbutkANhe74q3eCmSjzJUKmGhbJgk=h310",
+        "//lh5.ggpht.com/7OUMaThslZJ9_7G9wcny5OORQzRzw36tV7Jbr43ItkqzDzBN43BWhnkoQUYJ-6PHiQ=h310",
+        "//lh3.ggpht.com/skhNVXM4cBPmHm2dIS2seO3nexBgJfCjXnd88YBPmLx8JaVVv0g1H2udNAWWV5UgEnw=h310",
+        "//lh3.googleusercontent.com/oAGHenSUdP2mxtl7zKHFvOiNDr0EALBa-_30WGwW6w4i9u6FchAXz4vHhBVRGpZuvw=h310"
+    ],
+    "comments": [
+        "Moto X + Moto 360 Great app, work like magic! Please add option to change the background on selection menu (transparent option would be perfect). Apps in two rows and filter by recent used would be great",
+        "Perfect Such an important app for me to easily start listening when my phone is in my pocket or hard to access.",
+        "Worked well, but please add Apple Music support Just launches Apple Music, doesn't play anything, annoying",
+        "This is wonderful. Now I can start Spotify and Pocket Casts straight from my watch, ready to play or browse. Thank you!",
+        "works wonderfully I happen to have a bug in which two instances of soundcloud appears but otherwise works flawlessly! also wish we could customize the icon, the checker is a bit of an eyesore",
+        "Thanks for this! It works perfectly! I was going crazy trying to find a reliable way to start Pocket Casts playback from the watch and this is it. It works on the first try every time. Thanks!"
+    ],
+    "recentChanges": [
+        "1.0.3 -",
+        "Fixed a problem introduced by Spotify's new network check at application launch.",
+        "Now if Spotify was not already running Playback Starter will launch it and wait 6 seconds until it sends the play command to Spotify.",
+        "Thank you to the user who emailed me and told me about this problem!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ie.appz.playbackstarter&hl=en&gl=us",
+    "appId": "ie.appz.playbackstarter"
+}

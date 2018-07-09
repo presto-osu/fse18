@@ -1,0 +1,50 @@
+{
+    "title": "Simple Customizable Watchface",
+    "summary": "Individual, for everyone choice",
+    "icon": "//lh3.googleusercontent.com/-59ebYN348TRIqgkMCXuSad4nScPWRsrIGrn1x-AmQUHJ4002mAYxvZq3oNbZy1ngHbo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.2,
+    "reviews": 4,
+    "developer": "SPC Mobile",
+    "developerId": "SPC+Mobile",
+    "developerEmail": "support@spc-m.net",
+    "developerWebsite": "http://spc-m.net",
+    "developerAddress": "2y Kozhukhovskiy pr-d, 23\nMoskow, 115432\nRussia",
+    "updated": "May 19, 2015",
+    "version": "1.0.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Enjoy new watchface every day! Unlimited varieties for personal preferences.You can get any of hundreds watchfaces:- choice between analog and digital watches or swich on both of them- different types of analog hands- some fonts for digital watch - control date display - display watch charge level- different settings for ticks - seconds, 5 secons, quartalsMain features:- everything is castomizable- easy for use- diferent settings for normal and ambient modes- support round and square display typesOnly for Android Wear watches.",
+    "descriptionHTML": "Enjoy new watchface every day! Unlimited varieties for personal preferences.<br><br>You can get any of hundreds watchfaces:<br>- choice between analog and digital watches or swich on both of them<br>- different types of analog hands<br>- some fonts for digital watch <br>- control date display <br>- display watch charge level<br>- different settings for ticks - seconds, 5 secons, quartals<br><br>Main features:<br>- everything is castomizable<br>- easy for use<br>- diferent settings for normal and ambient modes<br>- support round and square display types<br><br>Only for Android Wear watches.",
+    "histogram": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XMMksMlne4LnJYQBVdrElD_xKawib1eZfnlP_W1_bHQZh_IGfIJF5h8fI8t51v2MLwY=h310",
+        "//lh3.googleusercontent.com/VJP_2Cbc2FNWlP-4ycT9ZZpUAkQykLDiaKY5XuVWCg5LjQF5ajpgJpMXAnZOAhoy_5w=h310",
+        "//lh3.googleusercontent.com/O8GKjm3KglAq6uO5_hA3trTsiljMX-7sBYgNYYqHrYKgCRnUPkBTrBD6FHxNPsyQ5nk4=h310",
+        "//lh3.googleusercontent.com/YaIjnFlck47YY-TgfNmNkA1kNH931I7GrNi991tVu31GukvISO4B6k28k9fo7I0mNp4=h310"
+    ],
+    "comments": [
+        "Has potential Great customizability, one problem though - you have to have the watch on for the settings to take effect, this is also valid for ambient mod. Secondly - the battery indicator isn't as customizable and it shows. You can't select percentage only, can't change size or font, you can't move it.... The watch face and app also crash occasionally, wound up having a black screen as a watch face once. Using this on a moto 360 1. If these things get fixed I give it a 5 :)",
+        "I thought the purpose of this was tip create a custom watch face for my watch, not create a watch face that can only be viewed in the app, basically pointless."
+    ],
+    "recentChanges": [
+        "- new light filled style"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ru.devsp.apps.customwatch&hl=en&gl=us",
+    "appId": "ru.devsp.apps.customwatch"
+}

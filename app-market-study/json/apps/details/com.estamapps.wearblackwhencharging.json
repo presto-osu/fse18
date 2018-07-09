@@ -1,0 +1,53 @@
+{
+    "title": "Wear Black when Charging",
+    "summary": "Show a black screen whenever you place your Android Wear watch on your charger.",
+    "icon": "//lh3.googleusercontent.com/tN0JqeXPNaWjGJfwC5aKfLxrVbIfM07pRsIvtY9t4K8hzRGhT7G7qFpJvceolkbNc0u4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.9,
+    "reviews": 28,
+    "developer": "ESTAM Apps",
+    "developerId": "ESTAM+Apps",
+    "developerEmail": "estamapps@gmail.com",
+    "developerAddress": "B.º La Rañada 14\n39716 El Bosque",
+    "updated": "April 25, 2016",
+    "version": "1.2.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This application will show a black screen whenever you place your Android Wear watch on your charger. This way you won't be bothered by the light of the watch when you are sleeping and will avoid any screen burn-in.This app will also work on watches with custom charging screens (like the Moto 360), by retrying to open the black screen after a configurable period of time.If you tap on the screen when the watch is charging, it'll show the current time for a few seconds.You have to open the app on the watch at least once before it can detect when you connect it to the charger.Please note that this is an early version of the app, if you have any troubles, please send me an email and I'll try to fix it.",
+    "descriptionHTML": "This application will show a black screen whenever you place your Android Wear watch on your charger. <br><br>This way you won&apos;t be bothered by the light of the watch when you are sleeping and will avoid any screen burn-in.<br><br>This app will also work on watches with custom charging screens (like the Moto 360), by retrying to open the black screen after a configurable period of time.<br><br>If you tap on the screen when the watch is charging, it&apos;ll show the current time for a few seconds.<br><br>You have to open the app on the watch at least once before it can detect when you connect it to the charger.<br><br>Please note that this is an early version of the app, if you have any troubles, please send me an email and I&apos;ll try to fix it.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 27
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/MxusWde3h5wLR9LLCC76zOHxc2QJsTgG-VbCzalipuaqQOpyLf1OCKFIzu6zXJk-N9Q=h310",
+        "//lh3.googleusercontent.com/sjAlqQ4WDL-QtAgpPHJWYKmCDVWgpZeJ7_g5RptcX96h2UjWURFqGuWi_AUFaC1-SA=h310",
+        "//lh3.googleusercontent.com/MCTUFDxFeLS2noxP-NAVUirG5dmETPGQEBtw49NFW0_s2PUngjluul1lNVAucMjVLHAW=h310"
+    ],
+    "comments": [
+        "Works better than Slumber Could it display horizontal time display and battery % on touch? Happy to donate but will that remove Ads?",
+        "Simple and effective. Thanks.",
+        "Exactly what was looking for",
+        "It works, thanks a lot!! Moto 360 2015 (42mm), 6.0.1. upd. Please-please, add a long vibro (or pattern) for \"fully Charged\" notification. My phone in most cases set to DnD mode in that hours I have my Moto on charger. So, I need a notification on my watches, NOT on my phone.  I really do not want to leave my watches on charger longer that it needs for charging.",
+        "Perfect! (Moto 360 2015 46mm 6.0.1) Thank you so much for this app, I was pissed off when Motorola disabled the Cinema mode black screen when charging with the Marshmallow update. I opened this app once and now every time it reliably opens and turns my screen black when in the dock. Exactly what I wanted! 👌",
+        "Works The popular app with similar functionality, Slumber, stopped working after the marshmallow update. This app brings back the black screen while charging, and works flawlessly."
+    ],
+    "recentChanges": [
+        "- Adding experimental option to make the watch vibrate when reaching 100 battery. Please contact estamapps@gmail.com with feedback of this option if you find any issue.",
+        "- Adding option to donate"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.estamapps.wearblackwhencharging&hl=en&gl=us",
+    "appId": "com.estamapps.wearblackwhencharging"
+}

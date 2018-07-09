@@ -1,0 +1,48 @@
+{
+    "title": "Large Digits Watch",
+    "summary": "Large digital display watch with color of the days.",
+    "icon": "//lh3.googleusercontent.com/fxMoBXRhkXoTmAOopmFmNrJ3UhqaIkoDy0a-VAlOafVdtKsKG4BvIeQLIuC3OR2Acw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.7,
+    "reviews": 18,
+    "developer": "Nano Mobiware",
+    "developerId": "Nano+Mobiware",
+    "developerEmail": "nanomobiware@gmail.com",
+    "updated": "June 11, 2015",
+    "version": "1.0.4",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Large Digital Display is for smart watch owner who preferred their smart watch to have large font displaying the hour, minute, date and day.Day are displayed in the lucky colors, according to day of week.Prerequisites:•\tAndroid 4.3 or higher on the handheld device•\tAndroid 5.0 or higher on the wearable device",
+    "descriptionHTML": "Large Digital Display is for smart watch owner who preferred their smart watch to have large font displaying the hour, minute, date and day.<br><br>Day are displayed in the lucky colors, according to day of week.<br><br>Prerequisites:<br>&#x2022;\tAndroid 4.3 or higher on the handheld device<br>&#x2022;\tAndroid 5.0 or higher on the wearable device",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 2,
+        "4": 7,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/iHkUuxPFDMV8tezsZ5XiXmgZzXw4s2s4bvl8YXMb4adTvsVlIBf-hEo2TPTvaFTGh68=h310",
+        "//lh3.googleusercontent.com/lmtjlc73h8w3BX5wNTKAKhPGh2L1bGpZylFusz9AKcKy_dBzr4B2caL1EgXGvUm7XZ4=h310",
+        "//lh3.googleusercontent.com/yARULMEgsyN19Uf8roMdMaaByDSsJJQcWijM2IE0t18XC1RNimlIYmLeBXqAuSqytcY=h310",
+        "//lh3.googleusercontent.com/tKul-LhSjh9RvIpQTz7p1_P8J6iPUmvLirGA9iEZEt6BN3ncoyJRDx8z9GQ9dn3E_dQ=h310"
+    ],
+    "comments": [
+        "Shirt Fire"
+    ],
+    "recentChanges": [
+        "Bug Fixed:",
+        "Watch face unable to start properly on devices that have non-standard screen dpi (dots-per-inch) such as 213dpi, 280dpi, 400dpi, 560dpi, etc."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.nanomobiware.dylgedigiswatch&hl=en&gl=us",
+    "appId": "com.nanomobiware.dylgedigiswatch"
+}

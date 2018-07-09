@@ -1,0 +1,53 @@
+{
+    "title": "[Root] Theater Time for Wear",
+    "summary": "Automation for Theater Mode in Android Wear watches",
+    "icon": "//lh3.googleusercontent.com/luIK5nJ2ieKGohWoHUodh35Iw-ou-bbBARNXyDdpOWZnZvnDSME2qfc_G5PfXreysvc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 17,
+    "developer": "Konrad Iturbe - Chernowii",
+    "developerId": "8327692895936242590",
+    "developerEmail": "mail@chernowii.com",
+    "developerWebsite": "http://chernowii.com",
+    "developerAddress": "The internet\nAFK: Calle Timoteo Padros 14, 28200 El Escorial, Madrid, Spain",
+    "updated": "March 22, 2016",
+    "version": "1.3.3",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This app aims to control the Theater Mode, a feature that turns your Android Wear watch's screen to pitch black, to avoid any distractions or light emitted from the screen.You can use the Intents with Tasker/AutomateIt to turn on/off Theater Mode for almost any situation, for instance when you arrive work/school or your phone is charging...More updates coming soon!**NOTE:** Root access is required on the watch to inject the settings into the system, the phone does not need root access. Root your watch here: 6.0.1 Marshmallow: http://forum.xda-developers.com/apps/supersu/android-wear-6-0-1-root-squashfs-t3319097/post65428079#post654280795.0 - 5.1.1 LP: http://rootjunkysdl.com/getdownload.php?file=LG%20G%20Watch/Root/Wear-SuperSU-v2.40.zipFlash the corresponding ZIP file to the watch by using a recovery such as TWRP. The app has been tested on: LG G Watch, Sony SmartWatch 3.Source code: https://github.com/KonradIT/TheaterTime",
+    "descriptionHTML": "This app aims to control the Theater Mode, a feature that turns your Android Wear watch&apos;s screen to pitch black, to avoid any distractions or light emitted from the screen.<br>You can use the Intents with Tasker/AutomateIt to turn on/off Theater Mode for almost any situation, for instance when you arrive work/school or your phone is charging...<br><br>More updates coming soon!<br><br><b>**NOTE:** Root access is required on the watch to inject the settings into the system, the phone does not need root access. </b><br><br>Root your watch here: 6.0.1 Marshmallow: http://forum.xda-developers.com/apps/supersu/android-wear-6-0-1-root-squashfs-t3319097/post65428079#post65428079<br><br>5.0 - 5.1.1 LP: http://rootjunkysdl.com/getdownload.php?file=LG%20G%20Watch/Root/Wear-SuperSU-v2.40.zip<br><br>Flash the corresponding ZIP file to the watch by using a recovery such as TWRP. <br><br>The app has been tested on: LG G Watch, Sony SmartWatch 3.<br><br>Source code: https://github.com/KonradIT/TheaterTime",
+    "histogram": {
+        "1": 4,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ZtGFxf_u0mmxRX6BqYVZo7UZ23LIXRuHCxt-xw8ucu_un9cXEDWSUNifLVAuYFXl3w=h310",
+        "//lh3.googleusercontent.com/kjfN0VKrXd1SirnyFVVvA4BtSEFuULK-e3xL2UF4DAUNHbEHuz5n3tbF-ZsEGvoDGw=h310",
+        "//lh3.googleusercontent.com/SwmN7dB0CwBeyUntwrUn-iac6mCWIOl-Nv3QRBkeM7oUMF5ZDJmOBlXzOjt3AB1gFX62=h310"
+    ],
+    "video": "https://www.youtube.com/embed/qhtTJUqQqxY",
+    "comments": [
+        "Doesn't work on a Zenwatch 2 with systemless root for Android 6.0.1. App crashes when sending commands from phone.",
+        "Dont need this. On LG G, swipe down for settings, select brightness and select bottom of the three icons to black out.",
+        "Crashes on watch when Theater Mode intent is sent from phone app.",
+        "Does what it says it does Would love an option to disable flash toast notifications.",
+        "Off toast won't go away! The off toast does not go away unless I reboot my watch.  Please fix!"
+    ],
+    "recentChanges": [
+        "Fixed tasker bug"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chernowii.theatertime&hl=en&gl=us",
+    "appId": "com.chernowii.theatertime"
+}

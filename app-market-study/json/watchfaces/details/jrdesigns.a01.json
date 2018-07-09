@@ -1,0 +1,52 @@
+{
+    "title": "A-01 Facepak",
+    "summary": "Aviator model A-01 Facepak for Face by JR Designs",
+    "icon": "//lh6.ggpht.com/6ufeRUCzL0Q5bgDNA8wXQO4nL_qLK0hw64WepN7SebptEx6s2glU-G2lTE5qOYs4xJIm=w300",
+    "price": "$1.00",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.6,
+    "reviews": 5,
+    "developer": "Jeff Rebeiro",
+    "developerId": "Jeff+Rebeiro",
+    "developerEmail": "jrebeiro+facepaks@gmail.com",
+    "developerWebsite": "http://www.rebeiro.net",
+    "developerAddress": "4503 Carlyle Ct #2107\nSanta Clara, CA 95054",
+    "updated": "December 11, 2014",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Aviation inspired design featuring skeleton hands, oversized 9 and 6, inner 5 minute marks, and a power saving \"ambient\" mode.**********THIS APP NEEDS THE APP \"FACE\", NOT \"FACER\" (Read below)To use, Download this, and apply the watchface through the app:http://goo.gl/qRCR7RJoin the community too:http://goo.gl/EDGkmBIf you still have trouble, please contact me.",
+    "descriptionHTML": "Aviation inspired design featuring skeleton hands, oversized 9 and 6, inner 5 minute marks, and a power saving &quot;ambient&quot; mode.<br><br>**********THIS APP NEEDS THE APP &quot;FACE&quot;, NOT &quot;FACER&quot; (Read below)<br>To use, Download this, and apply the watchface through the app:<br>http://goo.gl/qRCR7R<br><br>Join the community too:<br>http://goo.gl/EDGkmB<br><br>If you still have trouble, please contact me.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/3rO0W3qF5nU6AvnDSbRPxPkm8dhpSQL5Sw0qZ6UcB73C55reMgtZ_RIOvXFPsSzxibQ=h310",
+        "//lh4.ggpht.com/iv3xcotHjkTQZ_adwtyBVoKqiZtR6M94yUyzzz468vHDpI4856me2YPMsp9oYqJcMkQ=h310",
+        "//lh4.ggpht.com/M1opi1t_ucQV5-OftD9DfTcj7l2K2e4lBiyRXaX8t96KDa8CKq8If6AODNEuRCKYLHQT=h310"
+    ],
+    "comments": [
+        "My \"go to\" watch face for the G WATCH R I always seem to come back to this one. Excellent ambient mode in green.",
+        "nice design but... Notice it drains the watch battery fast. like the design.",
+        "Supporting the developers. Love the look and added to my collection."
+    ],
+    "recentChanges": [
+        "- Updated ambient mode screen to reduce burn-in on OLED devices",
+        "- Fixed text alignment of the date",
+        "- Updated to use new Theme Template with Launcher Icon (can be hidden)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jrdesigns.a01&hl=en&gl=us",
+    "appId": "jrdesigns.a01"
+}

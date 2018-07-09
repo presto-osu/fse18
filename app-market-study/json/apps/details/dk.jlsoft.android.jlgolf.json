@@ -1,0 +1,53 @@
+{
+    "title": "JLGolf Free",
+    "summary": "Golf scorecard and statistics, get distance to any point.",
+    "icon": "https://lh4.ggpht.com/1XeWMbuY_CP2q-fe_sod5k8GXFlges6cxGGgxhICHhqPYO2IL8ff3SKafyocIm8nkcY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 345,
+    "developer": "Jim Larsen",
+    "developerId": "Jim+Larsen",
+    "developerEmail": "support@jlgolf.net",
+    "developerWebsite": "http://www.jlgolf.net",
+    "developerAddress": "Råbroparken 19\n2765 Smørum\nDK - Denmark",
+    "updated": "December 8, 2017",
+    "version": "2.6.3",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "JLGolf is a scorecard, golf GPS application, that will assist you on course, with keeping track on your scorecard, and help you around the course with distances.Find courses in your area, or create new courses in minutes.Here is a small list of features in  JLGolf.Rounds.- Scorecard edit by hole or quick edit full scorecard.- Round statistics- View golf scorecard as pdf in prefferred style, choose between default or statiscics view.- Easy access to distance information for each hole.- Mail golf scorecard pdf to players- Upload / Synchronize rounds.- Distances views in list or on map- Share round on facebook- Live rounds, let others follow your play as it happens.- Connect round to tours to allow you to compare against others.Courses.- Search / Download courses in area or by name- Create or modify courses, and share by uploading your courses.- Rating tables for all tees. (depends on rating type used)Players.- Player statistics for all players.General.- EGA, USGA and CONGO rating- Support for metric and yardsFree version limitations:- Max 2 Courses- Max 5 Players- Max 5 Rounds   Full changelist at www.jlgolf.net/changelist",
+    "descriptionHTML": "JLGolf is a scorecard, golf GPS application, that will assist you on course, with keeping track on your scorecard, and help you around the course with distances.<br>Find courses in your area, or create new courses in minutes.<br><br>Here is a small list of features in  JLGolf.<br><br>Rounds.<br>- Scorecard edit by hole or quick edit full scorecard.<br>- Round statistics<br>- View golf scorecard as pdf in prefferred style, choose between default or statiscics view.<br>- Easy access to distance information for each hole.<br>- Mail golf scorecard pdf to players<br>- Upload / Synchronize rounds.<br>- Distances views in list or on map<br>- Share round on facebook<br>- Live rounds, let others follow your play as it happens.<br>- Connect round to tours to allow you to compare against others.<br><br>Courses.<br>- Search / Download courses in area or by name<br>- Create or modify courses, and share by uploading your courses.<br>- Rating tables for all tees. (depends on rating type used)<br><br>Players.<br>- Player statistics for all players.<br><br><br>General.<br>- EGA, USGA and CONGO rating<br>- Support for metric and yards<br><br>Free version limitations:<br>- Max 2 Courses<br>- Max 5 Players<br>- Max 5 Rounds   <br><br>Full changelist at www.jlgolf.net/changelist",
+    "histogram": {
+        "1": 16,
+        "2": 6,
+        "3": 17,
+        "4": 70,
+        "5": 236
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "https://lh4.ggpht.com/yezJb6vgngCr4rSpRuW2KKp9XAnlVjcgW2h6iuKoDk9ioqGUgD-nbbfuFKwqPEnbJg=h310",
+        "https://lh3.ggpht.com/nVQ72WOaWMU5qVCVbkFcJM7vmGIcdjRo996jZgu21paSNsx_AUnQXdUi5ergo7L_yJ8=h310",
+        "https://lh4.ggpht.com/6J1OD8M5ug4iP6TkrVgSeJaz9NUmqmly8OU6O1MSX1QZI6Nmwo_0LRTgrIZAXVtDEMM=h310"
+    ],
+    "comments": [
+        "One of the best out there, however since changing my phone to a Moto G5S it no longer works, it keeps crashing...any suggestions to get it working again !!!!",
+        "Just got pricey Used this app for a while, and I can understand why it's now been monetised but at £5.95 it has made me look around at other alternatives as it seems a bit steep.  The free one is a good taster but the pro version might make you look elsewhere by",
+        "Great app Like it, I had some problems finding the way to the map of the course. This is a great app, and showing it to my friends they completely agree. A couple of additional users is on it's way.",
+        "Stats update Like indeed the update! Very interesting to see your progress in the handicap stats through various seasons. Unfortunately it only calculate your handicap for rounds of 18 holes - 9 hole rounds are not included. I hope you will include this in the next update! :-)  Once again: Thank you for a wonderful and very, very useful app!!!!!!! I don't see the opportunity to rate it more than 5 *....",
+        "Great App app does everything any golfer needs.  Developer is also very responsive and open to suggestions.",
+        "Getting pretty good. With the more recent updates, it's becoming a pretty good app with some really nice features. It's not too intuitive, but pretty robust."
+    ],
+    "recentChanges": [
+        "Wear 2.0 fix for round"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=dk.jlsoft.android.jlgolf&hl=en&gl=us",
+    "appId": "dk.jlsoft.android.jlgolf"
+}

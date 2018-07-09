@@ -1,0 +1,53 @@
+{
+    "title": "WEAR WX",
+    "summary": "WEAR Wx is proud to announce a full featured weather app for Android.",
+    "icon": "//lh3.googleusercontent.com/gfRLl0PbBRE1c0Z7JyzxVkILxUSpt9aoJjKG08ZgnGF0dIP2Z-iewpgqhIahSMWKG2dR=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 357,
+    "developer": "Sinclair Digital Interactive Solutions",
+    "developerId": "Sinclair+Digital+Interactive+Solutions",
+    "developerEmail": "webmaster@sbgtv.com",
+    "developerWebsite": "http://www.weartv.com/sections/station/",
+    "updated": "October 24, 2017",
+    "version": "4.5.1301",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "description": "WEAR Wx is proud to announce a full featured weather app for Android.Features   • Access to station content specifically for our mobile users   • 250 meter radar, the highest resolution available   • Future radar to see where severe weather is headed   • High resolution satellite cloud imagery   • Current weather updated multiple times per hour   • Daily and Hourly forecasts updated hourly from our computer models   • Ability to add and save your favorite locations   • A fully integrated GPS for current location awareness   • Severe weather alerts from the National Weather Service   • Opt-in push alerts to keep you safe in severe weather",
+    "descriptionHTML": "WEAR Wx is proud to announce a full featured weather app for Android.<br><br>Features<br><br>   &#x2022; Access to station content specifically for our mobile users<br>   &#x2022; 250 meter radar, the highest resolution available<br>   &#x2022; Future radar to see where severe weather is headed<br>   &#x2022; High resolution satellite cloud imagery<br>   &#x2022; Current weather updated multiple times per hour<br>   &#x2022; Daily and Hourly forecasts updated hourly from our computer models<br>   &#x2022; Ability to add and save your favorite locations<br>   &#x2022; A fully integrated GPS for current location awareness<br>   &#x2022; Severe weather alerts from the National Weather Service<br>   &#x2022; Opt-in push alerts to keep you safe in severe weather",
+    "histogram": {
+        "1": 20,
+        "2": 15,
+        "3": 33,
+        "4": 66,
+        "5": 223
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/y1ee-hFAkrYh8FpN24UacESko6z0vaBHO1odkrAVt7ikIPh1iURBquk3pACCaL89qsQ=h310",
+        "//lh3.googleusercontent.com/P23HDP18wlB4g_9l5s0xz0JDi1sd7EbYnkRo_cSJ9Dkbbf6uEOG-arbhEZXWi4Kn5NR4=h310",
+        "//lh3.googleusercontent.com/g5POX5HSpmV8zvJ5b9qPoafhVA49GuynSRVEQl0rb106mx92vCld6pz4-GQp0kQs0DI=h310",
+        "//lh3.googleusercontent.com/EJPguHMrF7UR8tSltWRRirRRXgsRndRuw_2R93FVpgZmp1Vui3Tw5BLgCHMgG2lKJQ=h310"
+    ],
+    "comments": [
+        "Love the app",
+        "Awesome",
+        "It was working fine on my S4 for several months, then I upgraded to an S7 about 2 weeks ago & now the app crashes every time I use it.",
+        "Most accurate radar in gulf coast!",
+        "Real nice app",
+        "Live in the viewing area get the app"
+    ],
+    "recentChanges": [
+        "* bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.wear.android.weather&hl=en&gl=us",
+    "appId": "com.wear.android.weather"
+}

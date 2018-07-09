@@ -1,0 +1,60 @@
+{
+    "title": "Wear Flashcards",
+    "summary": "Flashcards for Android Wear",
+    "icon": "//lh3.googleusercontent.com/Sj_N58kDVheuebRHHiRofPuAk7obO9Q6LBvjvE_T2lzm-NS6-zgItnIPJWD8MSV2rsY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.8,
+    "reviews": 12,
+    "developer": "Eric Abreu",
+    "developerId": "Eric+Abreu",
+    "developerEmail": "dev@ericfabreu.com",
+    "updated": "October 14, 2017",
+    "version": "1.6.1",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": " A simple app that syncs sets of flashcards with Android Wear devices. Create and manage flashcards on your mobile device. Study them on the phone or on any Android Wear device connected to it. \n FEATURES • Shuffle cards• Show back side first• Star cards to study them separately• Add sets to folders• Import CSV files as sets• Export sets and folders as CSV• Backup and restore the flashcard database SOURCE CODE Github https://github.com/ericfabreu/WearFlashcards",
+    "descriptionHTML": "<p> A simple app that syncs sets of flashcards with Android Wear devices. Create and manage flashcards on your mobile device. Study them on the phone or on any Android Wear device connected to it. </p><br><br><b> FEATURES </b><br>&#x2022; Shuffle cards<br>&#x2022; Show back side first<br>&#x2022; Star cards to study them separately<br>&#x2022; Add sets to folders<br>&#x2022; Import CSV files as sets<br>&#x2022; Export sets and folders as CSV<br>&#x2022; Backup and restore the flashcard database<br><br><b> SOURCE CODE </b><br>Github https://github.com/ericfabreu/WearFlashcards",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/_-YbAxSGu7Qzxncg5i0yH98BuZTrdXcU5mHsaMjged_QemxVYxG6ejXXQWqBjsYkeA=h310",
+        "//lh3.googleusercontent.com/NKNIz8ZSGz2spHkdoTR9w3c4jndX47PtXZLHzhS9XmOciybYKxNQns02Oo5x-vMlTw=h310",
+        "//lh3.googleusercontent.com/_ALHOpNAKrgrUdJGamFdQMs5P_WKCOTpVQte_6td5JoBjNiFbs7Z3ce3ulUFwRmWsO8=h310",
+        "//lh3.googleusercontent.com/1kFsj5RxzlHhDIXNyWQOgmrXVgmHtfnRntcz5gOYVLdKPZwkM6U_gw84oan_XZdROhGA=h310",
+        "//lh3.googleusercontent.com/BHuvyGfIfkgNfS5TqJbDVFGY0rCwzfoqTvoH4ZFtS3v-4PBSKtGaLyQ5g6kOkJXhnQ=h310",
+        "//lh3.googleusercontent.com/ikqCC2BviVEIBa6wyx17UxdcgRana3LbtKmil0qHwdQWU_CN7LeXmxcTlwzEscB8KDa0=h310",
+        "//lh3.googleusercontent.com/ah8E-OeWICPUfgEUju60ab9o2TmLgdshLz9btn-6EcmiteAEMxLqe3k2Pf1jvKtEKg=h310",
+        "//lh3.googleusercontent.com/MPH43oGh2rN5lQ3xkCVnkViwRkRNwBaxU3zsjJvhxmowCxEiwSLrwDmc5A-AAMAyHw=h310",
+        "//lh3.googleusercontent.com/thUasPC8T6dU_vqTR-K312Dstggce4gdJ4TK_zQ_jJjSFiglH3wV2H24hoo2DowLRtI=h310",
+        "//lh3.googleusercontent.com/gG116wU-VG0y4KBX-2cDAkY13jMMNrtbY5nymcEPYlwekdf5PhxaluFP7VFZoa9ODA=h310",
+        "//lh3.googleusercontent.com/mh37zGAJHzou2e-Tv-OuZlO02tqykwbCaYg7aLO2f7cl36jSvrdw6RniBMQW3wzi_2o=h310"
+    ],
+    "comments": [
+        "finally, a flashcard app that not only imports csv, but let's me actually pick the delimiter! thanks!",
+        "Exactly what I was looking for. Easy to use and study on the go.",
+        "Sipmle. Love the option of making folders and possibility to put sets inside!!! Great :) Thx",
+        "it seems not possible to export flashcards to other devices",
+        "Perfect for Wear Excellent flash card app that lets me use my flash cards on my watch. Super useful and works perfectly!"
+    ],
+    "recentChanges": [
+        "Version 1.6.1",
+        "- Add adaptive launcher icon",
+        "- Fix bug preventing some CSV files from being imported"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ericfabreu.wearflashcards&hl=en&gl=us",
+    "appId": "com.ericfabreu.wearflashcards"
+}

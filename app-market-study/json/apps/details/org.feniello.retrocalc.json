@@ -1,0 +1,50 @@
+{
+    "title": "RetroCalc",
+    "summary": "RPN scientific calculator for Android Wear",
+    "icon": "//lh3.googleusercontent.com/5iUulZQA4eN3bLnpSbC95yanYmG-7NAe42UbUL3rn0XCEaeyfwD5P9DTlHyoLWs9pTok=w300",
+    "price": "$4.95",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.4,
+    "reviews": 5,
+    "developer": "Ashley Nathan Feniello",
+    "developerId": "Ashley+Nathan+Feniello",
+    "developerEmail": "ashley.feniello@gmail.com",
+    "developerAddress": "11842 173rd Place NE, Redmond WA 98052",
+    "updated": "June 9, 2015",
+    "version": "1.9",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Beautifully retro scientific RPN calculator for Android Wear. Programmable and supports scientific notation. Looks very nice on rectangular and round displays.",
+    "descriptionHTML": "Beautifully retro scientific RPN calculator for Android Wear. Programmable and supports scientific notation. Looks very nice on rectangular and round displays.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2A5NLYJ_rIBoScbtBXZ5Dxv8vrgv3RhAtxZOnYO4ZJLNKNYsyD7d8rg7dzOLFaqbI3Tp=h310",
+        "//lh3.googleusercontent.com/AB5ipS51Un_JSZTWyJA8izqXFAjAW_l3U7Zh2PPOi4LILaKT4aZ0tOjfRCp_TqwLy4wJ=h310",
+        "//lh3.googleusercontent.com/MXf8P0Y8__9rpcFYz4aITZCaRbsuJW_v5792sByv0BkXgSx9iQuyn3d5dazXgnkVa5w=h310"
+    ],
+    "video": "https://www.youtube.com/embed/uLt54AppTVw",
+    "comments": [
+        "Finally! An RPN calculator app that works with the square screen of my Gear Live! For months, I was suffering through Keesoft RPN Calculator's round-only layout and too-tiny buttons, just so I could have an HP-style calculator on my wrist for quickie calculations. Now I've got RetroCalc, and I'm loving the square layout and the big buttons, which I can \"push\" with greater accuracy. Sure there are compromises putting an \"HP\" on your wrist, but I think the developer has found the right balance of features and usability. If I want to do \"heavy lifting,\" I'll open Free42 on my phone, but for quickie calculations, RetroCalc on my wrist is fantastic.  My only suggestion to the developer is to modify the colors/contrasts so that the buttons are easier to read. For example, the button labels in Keesoft RPN Calculator, despite being tiny, are actually easier to read than the bigger labels in RetroCalc.",
+        "Pretty good Looks and operates OK.  Really miss the tactile feedback of a real HP keyboard and on some of the better emulator apps.  Fix that (by adding an option for tactile feedback) and you'll have a really nice watch app.",
+        "I wish i could change degrees and radians else very good."
+    ],
+    "recentChanges": [
+        "Much better looking on low-DPI displays."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.feniello.retrocalc&hl=en&gl=us",
+    "appId": "org.feniello.retrocalc"
+}

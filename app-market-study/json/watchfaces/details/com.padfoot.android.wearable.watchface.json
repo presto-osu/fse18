@@ -1,0 +1,51 @@
+{
+    "title": "Text Watch Face",
+    "summary": "Watch displaying time in text",
+    "icon": "//lh3.ggpht.com/tQk7Asvx3BuWzHJjpUe9cEVc8do8fNa_1mbHRn9ZNABpRXCd9lTCFon8eUBrtKdnkVk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 31,
+    "developer": "padfoot",
+    "developerId": "padfoot",
+    "developerEmail": "ananth.padfoot@gmail.com",
+    "developerAddress": "Chennai, India",
+    "updated": "March 28, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "For all the fans of Textual Watch Faces, here comes the Text Watch Face supporting the latest API from Google!This works fine on both Round and Square Watch Faces!!Mail me to report any issues that may have inadvertently crept in",
+    "descriptionHTML": "For all the fans of Textual Watch Faces, here comes the Text Watch Face supporting the latest API from Google!<br><br>This works fine on both Round and Square Watch Faces!!<br><br>Mail me to report any issues that may have inadvertently crept in",
+    "histogram": {
+        "1": 5,
+        "2": 4,
+        "3": 5,
+        "4": 6,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/hPWIMdhrCLdSSH948WcrpcxzWKai5YTtQgBguMNTNXbYnZBCrTkM3FXN-ni5COIRcdHN=h310",
+        "//lh6.ggpht.com/gIM7Xw5EA_hJg3XprUG45lB4qXBHtRJOM105KPz-ciKWgPT9y_fhzuPNVZR4_JYGbUg=h310"
+    ],
+    "comments": [
+        "I love the design, I would have given it 5 stars but for one thing.... at a few minutes past each hour it says, for example, Seven Two... Maybe this could be changed to read Seven O' Two just like we would say it if asked the time. Apart from that, the perfect watch face.",
+        "Need improvements Overall this is good. Please reduce line spacing. Too much space. Bottom line cut off in moto 360. Also I didn't find any option to left align or center align. Need option to change font name, font size and font color",
+        "Absolutely no settings, bottom cut off on Moto 360. Worthless.",
+        "Needs work Moto360 First Gen, The time doesn't update and the text is so big it's off center it would be nice to customise this to add weather text and battery indicators....",
+        "The watch time does not update on my watch at all. I need to change watch face and change back for it to be updated. Definitely no go for me.",
+        "Good watchface It's good but I would like a option to take the date off.  Thanks for a nice app"
+    ],
+    "recentChanges": [
+        "Displays the Date and Day of week"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.padfoot.android.wearable.watchface&hl=en&gl=us",
+    "appId": "com.padfoot.android.wearable.watchface"
+}

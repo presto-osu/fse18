@@ -1,0 +1,47 @@
+{
+    "title": "Power WatchFace",
+    "summary": "A Watchface for a long battery lifetime",
+    "icon": "//lh3.googleusercontent.com/C-n15FxcQwtARzLLYP2INMnqH2vApxaAZZqudbTiTOOYDmRyrP2aK2fNZFT8GcXxiQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.4,
+    "reviews": 9,
+    "developer": "Longri",
+    "developerId": "Longri",
+    "developerEmail": "develop@longri.de",
+    "developerWebsite": "http://www.power-watchface.de",
+    "developerAddress": "Andre Höpfner\nTreskowstr. 4\n13156 Berlin/ Germany",
+    "updated": "February 22, 2016",
+    "version": "0.9.145",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A Watchface for a long battery lifetime",
+    "descriptionHTML": "A Watchface for a long battery lifetime",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/G0l9-lydbEmIWeewuKtWJYtGOJpYytA1xqebgwp_GGKUZWO27WxLSWvwZ7BysUdnig=h310",
+        "//lh3.googleusercontent.com/xjLyjEHnexV6KPEafFzETigMOTqcUwsBn0rD5Aztm17c52mwGINDDYSFAbLLq7Agmg=h310",
+        "//lh3.googleusercontent.com/d_jx2ZOTPFqdGnGmIpd5ct7bAMkGTM5qvo1uw4PWrZsp8_743AYZYYwkOwu6XURN7nI=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "★ ----",
+        "🐜 fix Get weather data - change to Locale.US for lat/lon (',‘ => ‘.‘)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.longri.watchface&hl=en&gl=us",
+    "appId": "de.longri.watchface"
+}

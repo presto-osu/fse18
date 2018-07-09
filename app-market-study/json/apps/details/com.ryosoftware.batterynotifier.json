@@ -1,0 +1,56 @@
+{
+    "title": "Battery notifier - Reborn",
+    "summary": "This app plays a repeating notification when battery is fully pr low charged",
+    "icon": "//lh3.googleusercontent.com/aTos1JR2sOHwPGrHq_I5jo6uEtoj1VHd1lhOxRqeQ9bDiX717VL-jTEp-amQUiZxQOc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.8,
+    "reviews": 280,
+    "developer": "RYO Software",
+    "developerId": "RYO+Software",
+    "developerEmail": "info@ryosoftware.com",
+    "developerWebsite": "http://forum.xda-developers.com/showthread.php?p=20375918",
+    "developerAddress": "Plaza Sardana, 3\n08293 Collbató (Barcelona)",
+    "updated": "November 24, 2017",
+    "version": "3.10.286",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "I'm an obsessive-compulsive care of my phone :-), and I do not like to leave it charging overnight.So I finally decided to develop a small utility that notifies every X minutes when the battery is charged, in order to remove the charger.Also, I added a feature to notify when the battery charge is low.You can set the notification ringtone, interval between notifications, number of notifications, charger type...Finally, I have added information at the statusbar related to the time since device boot, last charge...and also a icon with the current battery charge...I hope you find it useful.Please, post errors and get additional information at the official XDA thread: http://forum.xda-developers.com/showthread.php?p=20375918 or via emailPRO features: Remove Ads",
+    "descriptionHTML": "I&apos;m an obsessive-compulsive care of my phone :-), <br>and I do not like to leave it charging overnight.<br><br>So I finally decided to develop a small utility that notifies every X minutes when the battery is charged, in order to remove the charger.<br><br>Also, I added a feature to notify when the battery charge is low.<br><br>You can set the notification ringtone, interval between notifications, number of notifications, charger type...<br><br>Finally, I have added information at the statusbar related to the time since device boot, last charge...<br>and also a icon with the current battery charge...<br><br>I hope you find it useful.<br><br>Please, post errors and get additional information at the official XDA thread: http://forum.xda-developers.com/showthread.php?p=20375918 or via email<br><br>PRO features: Remove Ads",
+    "histogram": {
+        "1": 46,
+        "2": 19,
+        "3": 29,
+        "4": 33,
+        "5": 153
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/eSb_KAb3tGVjSZej-JaJ70FMevqzSfLcFgv_Gw5VuRZLPSfCMISdgxjCeoX1yuAcrQ=h310",
+        "//lh5.ggpht.com/TQMF7aPQ3JZgXdpmxgFvy4fepvQMu9IaV1Z_KcKMvrRJNQ18nKJQonTg3D8inn-24Rk=h310",
+        "//lh4.ggpht.com/f79RmIRA6HJ0A3tgHA8RUinc5FTBrBvXzCo-p5LnB48j0I0M4xTZa9xgGkvq498QtS7v=h310",
+        "//lh6.ggpht.com/Yg9GyFHhfH3lF1f-ZC-bzae1VHBs69WxrMad9UjXHSnaTm1RnzPWmyGbMC0nRhgFqpo=h310",
+        "//lh3.ggpht.com/RMNf5oBvVKHXCIzIv3Xb8sa0_0CWXKQDWnkMm9ZQDWrxO4sS6A3XisYAIvRndrvfx8Q=h310"
+    ],
+    "comments": [
+        "Xiaomi Mi Max (Android 6) Doesn't work on Xiaomi Mi Max now. Hope the developer can fix it.",
+        "oppo r7s doesnt work anymore in android 5.1.1",
+        "Very good It works very well. I was using a different app that did not work sometimes. Am happy to get this app.",
+        "Very Satisfied. Thank you.",
+        "Perfect and simple Love it",
+        "Motorola Droid Turbo Highly effective!"
+    ],
+    "recentChanges": [
+        "Updated Android SDK to version 8.0",
+        "Updated Google Play Services library to version 11.6.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ryosoftware.batterynotifier&hl=en&gl=us",
+    "appId": "com.ryosoftware.batterynotifier"
+}

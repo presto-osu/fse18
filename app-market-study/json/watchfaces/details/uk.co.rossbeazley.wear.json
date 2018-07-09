@@ -1,0 +1,60 @@
+{
+    "title": "Rotating Watch Face",
+    "summary": "This is a stylish minimal watch face that allows you to rotate it.",
+    "icon": "//lh3.googleusercontent.com/e14PzZpPsTBy-jlIoCy0xL1eb-mykchk7qEYL3rxWl3HDMGNBEo5hLb3TTSx0lNb2UA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 251,
+    "developer": "Apps by Ross Beazley",
+    "developerId": "Apps+by+Ross+Beazley",
+    "developerEmail": "apps@rossbeazley.co.uk",
+    "updated": "June 7, 2016",
+    "version": "5.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Like to wear your watch on the inside of your wrist? Annoyed that you have to twist your arm in a funny direction to read it?Like minimalist design?Then this is the watch face for you.BETA version available here https://play.google.com/apps/testing/uk.co.rossbeazley.wear",
+    "descriptionHTML": "Like to wear your watch on the inside of your wrist? <br><br>Annoyed that you have to twist your arm in a funny direction to read it?<br><br>Like minimalist design?<br><br>Then this is the watch face for you.<br><br><br><br>BETA version available here https://play.google.com/apps/testing/uk.co.rossbeazley.wear",
+    "histogram": {
+        "1": 18,
+        "2": 22,
+        "3": 38,
+        "4": 65,
+        "5": 108
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Z5H28-O7pAKD4Ww6BiAm4_DiMOIuFSfnXJw5vgmDpmyH8SpfXb8NkHlzx1m7snkFczyR=h310",
+        "//lh3.googleusercontent.com/Mk0h3zbcw1UG6TN4Nn5AUHG1N5BnuBVOOANAogdnRyNS0T42RcTQl9o0TeagEUu77uY=h310",
+        "//lh3.googleusercontent.com/ZMs7b9h1crW8xD4wJCGv5hn4t9I1dgkBInGiKeZxZ8e4VkrTo4oA5GpAqvI631Z9Sq6F=h310",
+        "//lh3.googleusercontent.com/OK0iCpKRfXp2CKo67SdHtnSEjHa5eBLsh7CL7bIk3rOvyIT1qbiuhrTSG2Pun1zwJw=h310",
+        "//lh3.googleusercontent.com/zuBk8l1D9waVxy4bwv1jaFkayuJLzdRkbwpuvfLhniONk8wy_FTnDoPQ8Cw8iAscHst8=h310",
+        "//lh3.googleusercontent.com/LNHP-xuyCjqfR_da-wu7FWsxC_G4fCiCIw6cZ4v_OyL5e-miocAuyzYDowK9aZwYy6k=h310",
+        "//lh3.googleusercontent.com/gopueouia4s0z3mvUfzbON7nIkO9IaPIvX23WB5NrOEfbrf3s5rM3SF_62pcf0UOYcM=h310",
+        "//lh3.googleusercontent.com/hQv7WdhHR7Ezs2gfiQyMUwut0xi5Xqk6YVFibLLwZ5xKk8K45q5J05wCqy9Jy0HY8dM=h310",
+        "//lh3.googleusercontent.com/3RFdfkG0kU-4P-jcIc8iL7PbNtZN7_OoVJTZFP9o-WFXJCvsh9oLkz99rkrQabZDQw=h310"
+    ],
+    "comments": [
+        "Battery drain bug Moto 360 1st gen. with ambient display and tilt to wake turned on this watch face would keep waking the CPU and blink the display on/off severely impacting battery drain (~20% per hour) Otherwise liked it. Bug can probably be fixed.",
+        "Using This Alot Color options along with night and day colors make this a regular watch face. I'd like date options but great otherwise.",
+        "Simple & nice look! Cool & simple watch face!. If have a setting to select the font size will be great, especially the day and month.",
+        "Totally killed my battery Love the look, but had to charge my watch in the middle of the day.",
+        "I am using a Asus Zenwatch2 with Nexus 5x. I installed the application. The app says it is installed in Google Play but I don't see it in my phone. How can I use it to rotate the watch face?",
+        "It killed my battery in half day ..."
+    ],
+    "recentChanges": [
+        "This is the next major release of Rotating Watch Face brining a total revamp of configuration screen on Phone and Watch including the addition of these new options;",
+        "The colour of the hours can be chosen from a list of Red, Green, Blue, Cyan and Yellow.",
+        "The hours mode can be toggled between 12 and 24 hour.",
+        "This release also remembers your settings after reboot and has some performance enhancements for Android M."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.rossbeazley.wear&hl=en&gl=us",
+    "appId": "uk.co.rossbeazley.wear"
+}

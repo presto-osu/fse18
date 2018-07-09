@@ -1,0 +1,58 @@
+{
+    "title": "ISTI QuakeWatch",
+    "summary": "QuakeWatch by ISTI - for distributing and displaying Earthquake Information",
+    "icon": "https://lh4.ggpht.com/MWfT73ShpjBx3HBTPzxG-KWfjGzC57rwfGp0M7PiZlbLqZYxsnORAovM9TfP_qQBgp0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 47,
+    "developer": "ISTI",
+    "developerId": "ISTI",
+    "developerEmail": "isti-info@isti.com",
+    "developerWebsite": "http://www.isti.com",
+    "updated": "January 3, 2015",
+    "version": "1.23",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "This App is an Android implement of ISTI's popular QuakeWatch Software. QuakeWatch for the desktop is the core of the USGS CISN software for displaying Earthquake information in real time to Emergency Managers and Responders.NEW - Support for Android Wear/Watch (Moto 360). Receive notification and MAP on google wear device, then open Earthquake directly on the phone from your watch.NOTE: This app requires your PERMISSION TO READ SMS/TEXT MESSAGES. It does this because it can consume USGS generated CUBE formatted SMS messages generated the the USGS's ENS system. See below for more info on using this method to push notifications in real time to your phone.This app is a Beta release. Work on this app is ongoing. please send us feature requests and bug reports.This is app is not intended to be used as a warning system, but rather as a means for distributing information to interested parties.QuakeWatch receives data via a feed from the US Geological Survey. Not only does this feed contain Earthquake information such as magnitude, location, depth and time, but it also include other information important to researchers and engineers. This feed also provides links to data products associated with earthquakes, such as earthquake information web pages, \"Did you feel it?\" web forms, Shaking intensity maps (Shakemaps) and Tsunami information reports. This information is available via the \"products\" button. If Tsunami information is available then this button will read \"Tsunami\" in red text.If you wish to have earthquake alerts pushed to your phone in near-real time, please register with the USGS's Earthquake Notification Service - https://sslearthquake.usgs.gov/ens . Opt to have the messages delivered in Cube Format to you cell phone provider's email/SMS gateway (on the \"my email addresses\" tab, select \"Raw CUBE Format\") For Verizon Wireless you can send text messages by sending the email to 5185551212@vtext.com. This app will grab, process and display the SMS Text messages automatically.In addition to displaying information, you may share screenshot directly from this app to other apps including facebook and gmail.This work is made possible through the hard work of many people. including (but not limited to) those at the USGS, The National Earthquake Information Center (NEIC), and NOAA and the Tsunami Warning Centers.",
+    "descriptionHTML": "This App is an Android implement of ISTI&apos;s popular QuakeWatch Software. QuakeWatch for the desktop is the core of the USGS CISN software for displaying Earthquake information in real time to Emergency Managers and Responders.<br><br>NEW - Support for Android Wear/Watch (Moto 360). Receive notification and MAP on google wear device, then open Earthquake directly on the phone from your watch.<br><br>NOTE: This app requires your PERMISSION TO READ SMS/TEXT MESSAGES. It does this because it can consume USGS generated CUBE formatted SMS messages generated the the USGS&apos;s ENS system. See below for more info on using this method to push notifications in real time to your phone.<br><br>This app is a Beta release. Work on this app is ongoing. please send us feature requests and bug reports.<br><br>This is app is not intended to be used as a warning system, but rather as a means for distributing information to interested parties.<br><br>QuakeWatch receives data via a feed from the US Geological Survey. Not only does this feed contain Earthquake information such as magnitude, location, depth and time, but it also include other information important to researchers and engineers. This feed also provides links to data products associated with earthquakes, such as earthquake information web pages, &quot;Did you feel it?&quot; web forms, Shaking intensity maps (Shakemaps) and Tsunami information reports. This information is available via the &quot;products&quot; button. If Tsunami information is available then this button will read &quot;Tsunami&quot; in red text.<br><br>If you wish to have earthquake alerts pushed to your phone in near-real time, please register with the USGS&apos;s Earthquake Notification Service - https://sslearthquake.usgs.gov/ens . Opt to have the messages delivered in Cube Format to you cell phone provider&apos;s email/SMS gateway (on the &quot;my email addresses&quot; tab, select &quot;Raw CUBE Format&quot;) For Verizon Wireless you can send text messages by sending the email to 5185551212@vtext.com. This app will grab, process and display the SMS Text messages automatically.<br><br>In addition to displaying information, you may share screenshot directly from this app to other apps including facebook and gmail.<br><br>This work is made possible through the hard work of many people. including (but not limited to) those at the USGS, The National Earthquake Information Center (NEIC), and NOAA and the Tsunami Warning Centers.",
+    "histogram": {
+        "1": 7,
+        "2": 3,
+        "3": 3,
+        "4": 7,
+        "5": 27
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "https://lh4.ggpht.com/QaN-8krWIHbE16mu6c6_wm668_Hazj30QW8gJ4cgB8Kraxk9JwhpwHsiNV6CXKjEPHhq=h310",
+        "https://lh3.ggpht.com/mL_lQzoQ9yJEEgUSGAQRkdcibCqtnmz7nAXdAG_zqDN6R1MpA2l6bxYK79wBLU2QiQ=h310",
+        "https://lh3.ggpht.com/HVSvRv3EqGpXZ8FQZK4fIigeZiYEqI8qPJ4EimGV7b-v3wHjqUBl5n6AjQXuHXJIJQ=h310",
+        "//lh3.ggpht.com/KqEflE9JN_xRvG-7FGYPgD3511XbCoBcSI20b_MKwad0mXactPbPMDf1NGNlXKG0R0fk=h310",
+        "https://lh3.ggpht.com/5kJ8iV6maNZ4aVG2458sUHWQHqfy_irChUzwsiY1MwAWdhPernqtRVgltmMfEDkJoPU=h310",
+        "https://lh6.ggpht.com/sU_SdA3Z85xLNIZaLuY8O13z4zzgXdAD13wbkKoBYd0B0vTnlUPWS7aHbPxzDBu25LQ=h310",
+        "https://lh3.ggpht.com/KgJNO2UIJnHEclMsD8VaV0R6hgEZainqb3VB9HUWZ0JISXVSwQ8LUS1l6vFXTaTJPaY=h310",
+        "https://lh6.ggpht.com/s8w0CvYhPtxOKjQHZZiHlPqKCrXk1OrwHU1ZOfoh4x2897hGIrZArmISPYP1-tPBOi4=h310"
+    ],
+    "comments": [
+        "Like it I like to see where those swarms of over 6 quakes are going on.",
+        "Responsive Displays quakes in near real time with a minimum of fuss and no ads.",
+        "Pass Will not localize to continental United States",
+        "I had high hopes for this app, if it did what it was supposed to do it would be great but all i have is a world map showing nothing at all. Please fix this app",
+        "Doesn't work Would be great but does not download any data, useless.",
+        "No earthquakes to show Nice but wassup?"
+    ],
+    "recentChanges": [
+        "V123:",
+        "notifications now properly dismissed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.isti.sms&hl=en&gl=us",
+    "appId": "com.isti.sms"
+}

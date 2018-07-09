@@ -1,0 +1,59 @@
+{
+    "title": "Můj T-Mobile",
+    "summary": "Quick overview of your services",
+    "icon": "//lh3.ggpht.com/EdJbyEsw0OXZ9Iglz7fyk-XzrAIHcFnoxEXe2S-HxfzYLSffFUr9M_fsPapI8Mv7VOY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 3.7,
+    "reviews": 9925,
+    "developer": "T-Mobile Czech Republic, a.s.",
+    "developerId": "9127342944273942513",
+    "developerEmail": "info@t-mobile.cz",
+    "developerWebsite": "http://www.t-mobile.cz",
+    "developerAddress": "Tomíčkova 2144/1, 149 00 Praha 4",
+    "updated": "March 1, 2018",
+    "version": "3.1.3",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "In Můj T-Mobile you will see how much data you have left and you top up with one click. You will safely pay your bill or recharge your credit. Every month you can compete for great prizes. And don‘t worry, the application is free and doesn‘t use your data, even abroad.New version brings a whole new design, adjusted also for latest smartphones. Switching users directly in a quick overview so you can manage all your numbers quickly and easily. You can also name all your numbers.Here are some other features:- Better work in the Billing section and direct download of invoice in PDF- For Twist customers info on the recharge bonus directly in a quick overview- Actual spending incl. discount and VAT- Smart widgets including Actual spending",
+    "descriptionHTML": "In M&#x16F;j T-Mobile you will see how much data you have left and you top up with one click. You will safely pay your bill or recharge your credit. Every month you can compete for great prizes. And don&#x2018;t worry, the application is free and doesn&#x2018;t use your data, even abroad.<br><br>New version brings a whole new design, adjusted also for latest smartphones. Switching users directly in a quick overview so you can manage all your numbers quickly and easily. You can also name all your numbers.<br>Here are some other features:<br>- Better work in the Billing section and direct download of invoice in PDF<br>- For Twist customers info on the recharge bonus directly in a quick overview<br>- Actual spending incl. discount and VAT<br>- Smart widgets including Actual spending",
+    "histogram": {
+        "1": 1653,
+        "2": 635,
+        "3": 1148,
+        "4": 2034,
+        "5": 4455
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/REwna8Fqk-2j3uQ2duyYbH7bWjy6HTTH6dY--_lVwM8aPmyPLLg4Pm7GeVI4tbSxxn0=h310",
+        "//lh3.googleusercontent.com/wB3kSqAqBAMgXFzJukO9soPfczEkiYwjoNlJIuCkH3FHT8DO7zXJUWdFAxJHrxvrUA=h310",
+        "//lh3.googleusercontent.com/D1ueC1QdaQzrNmcyjjs3pS6fWmE3kQWUYwDKlrG8jB5KHmSQDXevij0NTmiQCqmBXQ=h310",
+        "//lh3.googleusercontent.com/NIjtk00DDtGzAuFVfDlkSK8jnALYREZp2OqrUn5WrwaupqKu38vUB3-lG5EFuq1-A10=h310",
+        "//lh3.googleusercontent.com/DEZ-IszI6X_RbZKVxjfExPeqnmg7gx7rTz56dk4K-vM39z2nQFeHvSqoXS2f-3AGQdwY=h310",
+        "//lh3.googleusercontent.com/WJbShzAX4pfGZ3gAx_UtCH9Tm5TmqbofJhnY9RfWoRhyVi_xsFESGwszXhCif9SHtw=h310",
+        "//lh3.googleusercontent.com/1TBJtPnU3Rk_6Qgsuz4BgIdTqMTeOH3PcgeVqx6QEacOm6GNAQcSWuo8LSkKtSJY1yU=h310",
+        "//lh3.googleusercontent.com/7JSWUmGlraBi6fXWoG-0z3NAmZTRUcXMUE_l6LpdlCY6WwCLJgMShKTORVrgRpDGHYev=h310",
+        "//lh3.googleusercontent.com/26EJ5Y7ZN2mflOCmGhiC6BLa29B5NAc1cEjmBbpNOYUXZ3wCloEZEF47OxIkgPrMzJk=h310"
+    ],
+    "comments": [
+        "Nekolik mesicu appka fungovala dobre, ale tento mesic mi zacla misto datoveho limitu 5GB odpocitavat od 2GB. Ted se v pulce mesice (po updatu appky) najednou ukazuje zase limit 5GB, ale odectenych je nejakych 150MB, coz je zjevny nesmysl. Byl bych rad, kdyby zaclo vsechno zase fungovat jak ma. Snad pristi mesic...",
+        "Great dark amoled mode",
+        "Constant push notifications, \"win Iphone now\" kind of thing, which cannot be turned off. Another turd produced by Czechs",
+        "Absolutne nechapu proc najednou potrebuje tahle uz celkem pouzitelna aplikace pristup ke vsem souborum a fotkam. Samozrejme je nepovolim, ze protoze za informace v teto aplikaci platim T-Mobile  dost velky penize a mel bych je dostat uz bez dalsich zasahu do soukromi. REMOVE IT NOW. Uninstall waiting...",
+        "Novej desing je hnus vratte starej",
+        "Nemohu se prihlasit i kdyz prihlaseni pres web se stejnym uzivatelskym heslem a jmenem funguje. Za me nepouzitelna apka"
+    ],
+    "recentChanges": [
+        "In the latest update we‘ve dealt with the app crashes by viewing call viewer."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=cz.tmobile.selfcare&hl=en&gl=us",
+    "appId": "cz.tmobile.selfcare"
+}

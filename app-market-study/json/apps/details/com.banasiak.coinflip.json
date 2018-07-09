@@ -1,0 +1,62 @@
+{
+    "title": "Simple Coin Flip (Phone+Wear)",
+    "summary": "Flip a coin! Free and no ads!  No permissions required. Android Wear support.",
+    "icon": "//lh3.googleusercontent.com/FJbcMytGVdQK-k-i6ING_085y2TD1ocG2U2uysW0sxjeNUGEAWGKevu-yY-tDET0WQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.1,
+    "reviews": 895,
+    "developer": "Richard Banasiak",
+    "developerId": "Richard+Banasiak",
+    "developerEmail": "richard@banasiak.com",
+    "developerWebsite": "https://github.com/banasiak/CoinFlip",
+    "developerAddress": "BANASIAK.COM\nCUSTOMER 124633413\n96 MOWAT AVE\nTORONTO ON  M4K 3K1\nCANADA",
+    "updated": "September 27, 2016",
+    "version": "6.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Completely FREE (no-ads) and doesn't require any unsafe permissions. Now supports phones and Android Wear watches!On your phone: Simply tap the question mark or shake and view the result. Tap the coin or shake to spin the coin again.On your watch: Say \"Ok, Google. Start Coin Flip.\" Tap the question mark to spin the coin.Spinning coin animation, sound, text, vibration, shake-to-flip and coin type are all configurable via the Settings menu. Verify the flip algorithm is truly random by running the built-in Diagnostic Test and flipping the coin 100,000 times (or more) while watching the results in real-time. (Sorry, no cheating!) Add new coins from Google Play by clicking Settings -> Get More Coins.50 State Quarters:  http://goo.gl/TBa8YMAustralian Coins: http://goo.gl/pc7bjs2 Euro Coins: http://goo.gl/cCfkAKOpen source app released under the GNU General Public License. Source code available here: https://github.com/banasiak/CoinFlipCurrently supports both English, Spanish & French translations. Send me an email if you would like to help translate this app into your native language.Quarter-dollar coin images from the United States Mint.=== Version History ===v6.4.1: New material design icons!v6.4: Enhanced support for higher-resolution Android Wear devices, such as the Huawei Watch.v6.3.3: Fixed an animation bug when running on Android 5.1.v6.3.2: German translation courtesy of Michael Riepen.v6.3.1: Improved compatibility with Android Wear 5.0.1.v6.3: [a] Added Material theme for Android 5.0 (Lollipop) devices. [b] Automatically restart the app when adding new coins from Google Play so they are immediately loaded.v6.2.1: [a] Centered the layout on wearable devices. (This hopefully fixes a layout problem on the LG G Watch R). [b] Put wearable animation generation and data transfer on a background thread to speed up initial app load.v6.2: Optimized compiler options to shrink app from 3.6 MB to 2.3 MB.v6.1: Expansion packs now supported on Android Wear devices. The coin selected via your mobile device will be automatically transferred to your watch.v6.0: Experimental support for Android Wear! Flip a coin on your watch by saying \"Ok, Google. Start Coin Flip.\"v5.5.3: French translation by Spanti Nicola (RyDroid). Thanks RyDroid!v5.5.2: Fixed layout issue when using non-English translations.v5.5.1: Improved Spanish translations (or so I've been told).v5.5: Fixed a rare condition where the animation thread would continue to run even when the app was paused.v5.4.1: Enhanced compatibility of the \"Get More Coins!\" search feature with Google Play filters.v5.4: New feature per request! The Diagnostic Test (previously known as Self Test) can now flip a user-configurable number of times. Configure this in the revamped Settings page.v5.3.2: Clearer coin flip sounds.v5.3.1: JellyBean menu icon tweaks.v5.3: [a] Added support for ICS Holo Theme and Action Bar. [b] Added a \"Rate App\" button to bottom of the About dialog.v5.2.1: Code fixes and cleanup.v5.2: Added statistics feature per user request.  This is disabled by default.  Enable this feature in the settings menu  to keep a running total of Heads vs. Tails.v5.1: Overall performance improvement. Optimized the way the coin animation is created which uses less memory and should prevent OutOfMemory errors when changing coins or switching screens.v5.0.1: Added support for flipping by tapping anywhere on the screen.v5.0: Added support for third-party add-in packs! Click Settings -> Get More Coins to download even more coins from the Android Market. More being added by a variety of developers all the time!v4.2.1: [a] Added a \"Random Coin\" option if the SCF Add-on Pack is installed. (Its at the bottom of the list.) [b] Rewrote the shake detection code to increase simplicity and performance. [c] Updated to ICS menu icons. [d] Enabled ICS hardware acceleration. [e] Miscellaneous code cleanup.",
+    "descriptionHTML": "Completely FREE (no-ads) and doesn&apos;t require any unsafe permissions. Now supports phones and Android Wear watches!<br><br>On your phone: Simply tap the question mark or shake and view the result. Tap the coin or shake to spin the coin again.<br><br>On your watch: Say &quot;Ok, Google. Start Coin Flip.&quot; Tap the question mark to spin the coin.<br><br>Spinning coin animation, sound, text, vibration, shake-to-flip and coin type are all configurable via the Settings menu. Verify the flip algorithm is truly random by running the built-in Diagnostic Test and flipping the coin 100,000 times (or more) while watching the results in real-time. (Sorry, no cheating!) <br><br>Add new coins from Google Play by clicking Settings -&gt; Get More Coins.<br>50 State Quarters:  http://goo.gl/TBa8YM<br>Australian Coins: http://goo.gl/pc7bjs<br>2 Euro Coins: http://goo.gl/cCfkAK<br><br>Open source app released under the GNU General Public License. Source code available here: https://github.com/banasiak/CoinFlip<br><br>Currently supports both English, Spanish &amp; French translations. Send me an email if you would like to help translate this app into your native language.<br><br>Quarter-dollar coin images from the United States Mint.<br><br><br>=== Version History ===<br><br>v6.4.1: New material design icons!<br><br>v6.4: Enhanced support for higher-resolution Android Wear devices, such as the Huawei Watch.<br><br>v6.3.3: Fixed an animation bug when running on Android 5.1.<br><br>v6.3.2: German translation courtesy of Michael Riepen.<br><br>v6.3.1: Improved compatibility with Android Wear 5.0.1.<br><br>v6.3: [a] Added Material theme for Android 5.0 (Lollipop) devices. [b] Automatically restart the app when adding new coins from Google Play so they are immediately loaded.<br><br>v6.2.1: [a] Centered the layout on wearable devices. (This hopefully fixes a layout problem on the LG G Watch R). [b] Put wearable animation generation and data transfer on a background thread to speed up initial app load.<br><br>v6.2: Optimized compiler options to shrink app from 3.6 MB to 2.3 MB.<br><br>v6.1: Expansion packs now supported on Android Wear devices. The coin selected via your mobile device will be automatically transferred to your watch.<br><br>v6.0: Experimental support for Android Wear! Flip a coin on your watch by saying &quot;Ok, Google. Start Coin Flip.&quot;<br><br>v5.5.3: French translation by Spanti Nicola (RyDroid). Thanks RyDroid!<br><br>v5.5.2: Fixed layout issue when using non-English translations.<br><br>v5.5.1: Improved Spanish translations (or so I&apos;ve been told).<br><br>v5.5: Fixed a rare condition where the animation thread would continue to run even when the app was paused.<br><br>v5.4.1: Enhanced compatibility of the &quot;Get More Coins!&quot; search feature with Google Play filters.<br><br>v5.4: New feature per request! The Diagnostic Test (previously known as Self Test) can now flip a user-configurable number of times. Configure this in the revamped Settings page.<br><br>v5.3.2: Clearer coin flip sounds.<br><br>v5.3.1: JellyBean menu icon tweaks.<br><br>v5.3: [a] Added support for ICS Holo Theme and Action Bar. [b] Added a &quot;Rate App&quot; button to bottom of the About dialog.<br><br>v5.2.1: Code fixes and cleanup.<br><br>v5.2: Added statistics feature per user request. &#xA0;This is disabled by default. &#xA0;Enable this feature in the settings menu &#xA0;to keep a running total of Heads vs. Tails.<br><br>v5.1: Overall performance improvement. Optimized the way the coin animation is created which uses less memory and should prevent OutOfMemory errors when changing coins or switching screens.<br><br>v5.0.1: Added support for flipping by tapping anywhere on the screen.<br><br>v5.0: Added support for third-party add-in packs! Click Settings -&gt; Get More Coins to download even more coins from the Android Market. More being added by a variety of developers all the time!<br><br>v4.2.1: [a] Added a &quot;Random Coin&quot; option if the SCF Add-on Pack is installed. (Its at the bottom of the list.) [b] Rewrote the shake detection code to increase simplicity and performance. [c] Updated to ICS menu icons. [d] Enabled ICS hardware acceleration. [e] Miscellaneous code cleanup.",
+    "histogram": {
+        "1": 71,
+        "2": 51,
+        "3": 107,
+        "4": 145,
+        "5": 521
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/RP5j_ziycA0KSN9qwju04zENfmGWkBueI4OhZwsWzjMwK06U7QakEUrY59mlCpI2cE8=h310",
+        "//lh3.googleusercontent.com/A_DBy4h2oskyE1eZUH4Lgb7XfSB8a-EqSQ4kxlxNzTq7f0aStpmZUbJo6eZaL7cWtqc=h310",
+        "//lh3.googleusercontent.com/Mh7QbQ5KrEE-RfyK8LAGrfqvuWrRq8Hy-7MUs-c9L-YWSxFWDJ_B2jDmZbrSVyyaTuJa=h310",
+        "//lh3.googleusercontent.com/w9_ZWjJ9hr4aP8tQhYw5NKqd1TFQLGNG2LupUqpVta_1_5B2Wpwr0P9Vt1IrWrTiPA=h310",
+        "//lh3.googleusercontent.com/QeTpysy_7oNyuqwGI6EJM6LKjjXbYtFhqLmTdAjSoBhkwUF6ZIQMfZRo1l0NIvxt3Z0w=h310",
+        "//lh3.googleusercontent.com/_BUkxbN-9LZXHYaI8mB8VpYVB_SArQzg7J89p2NsZlQd_y4r6mHsH3gd0GnipgzmbW8=h310",
+        "//lh3.googleusercontent.com/PV88othW703F6_2v3qv3ffRl1XoDjE-fc3IkptrVc4fPBvTnJHu6NstTcv8CvwdtCxd-=h310",
+        "//lh3.googleusercontent.com/FWdmpVwplxo8gC61xr7y8gJTP3qGZlk2MgmtbcGOSMj_ZE9LcIY4WvdPeCm0RVIEsCo=h310",
+        "//lh3.googleusercontent.com/IUko6E-vVLs4umbYWWiZnAMQ7Q0vhHYCXDhqIXmgy6IqDkyJ0utlXlQCwuhczpNpB30=h310",
+        "//lh3.googleusercontent.com/hChHLEY3xXzyeYpK4rtjJw3o1KXNkmEAmhyQPDEhQWEtb2PlDpAXslJ9HmWhIC5YSc1Y=h310",
+        "//lh3.googleusercontent.com/NpMB_4i4QqVuFg5HrJIhI1EYNe6DS98yh5j2gqR3oKp5KUhIwsLXt8IGWtcYCs4RXg=h310"
+    ],
+    "comments": [
+        "Wonderful app! My family and I are terrible at flipping coins, so we use this app for board and card games. True to its name, it really is simple and truly random. I made some Pokemon themed coins to customize it for our game. Thank you, this app truly is a gem.",
+        "To all the people that leaves off a star just because they didn't have a certain coin or design....you're retarded. It's a coin FLIP app. Not a feelings app",
+        "Love it I tried other coin flip apps but this is by far the best one. Also it is very easy to use.",
+        "I give 5star although i dont know about these game😂..did any benefit you can get of these game😉",
+        "Ad free and no permissions required not like so many other apps out there. Simple, affective and it works (HTC M8). Thanks.",
+        "Custom coins don't work on wear"
+    ],
+    "recentChanges": [
+        "New app icon - by an actual professional!",
+        "Note: the app is now compiled against the latest SDK for Android 7.0 (Nougat). The permission model has changed and now Google Play lumps all of the \"safe\" permissions into a single bucket called \"Other\". This app only requires the \"vibrate\" permission, but unfortunately that puts it in the same bucket as \"receive data from Internet\" and others. However, you can verify the app doesn't request any permissions via Settings -> Apps -> Coin Flip. Sorry. :("
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.banasiak.coinflip&hl=en&gl=us",
+    "appId": "com.banasiak.coinflip"
+}

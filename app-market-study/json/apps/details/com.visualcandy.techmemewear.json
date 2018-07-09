@@ -1,0 +1,51 @@
+{
+    "title": "Techmeme Wear",
+    "summary": "Techmeme news on your Android Wear device *** UNOFFICIAL ***",
+    "icon": "//lh6.ggpht.com/WjtzqdCaW9S0SmHv5IPrm4PBNnHBUjLrcQbxoy7n0s91HqaqbGbFLe5VsrBaGD1mQNw=w300",
+    "price": "$1.06",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 4.5,
+    "reviews": 2,
+    "developer": "Visual Candy Apps",
+    "developerId": "Visual+Candy+Apps",
+    "developerEmail": "info@visualcandyapps.com",
+    "developerWebsite": "http://www.visualcandyapps.com",
+    "developerAddress": "52 Denmark Road\nWimbledon SW19 4PQ\nUK",
+    "updated": "November 12, 2014",
+    "version": "1.05",
+    "genre": "News & Magazines",
+    "genreId": "NEWS_AND_MAGAZINES",
+    "description": "*** UNOFFICIAL ***Do you love Techmeme news and wish you could get the latest news as notifications on your Android Wear device? Then this app is for you!We created Techmeme Wear (unofficial) for personal use at first, and decided to package and roll it out to everyone who shares our love of Techmeme and the fantastic work they do.*** We are happy to give you a refund if you are unsatisfied ****** Requires an Android Wear device and a phone with Android v4.3+ ***Techmeme Wear let’s you do the following:- New Techmeme news items will show up as a Notification on your Android Wear device- You can open the Android Wear app and conveniently scroll and cycle through Techmeme items- Mark items as “Read” and they will no longer appear in your feed- From your Android Wear device you can:\t - Quickly glance at the news headline\t - Read full articles\t - Open the article on your phone\t - Add to Pocket\t - Share\t - Manually Refresh by long press on a headline, or by swiping to the top- Additional Settings you can control from your phone:\t - Stacked or unstacked notifications\t - Change refresh interval",
+    "descriptionHTML": "*** UNOFFICIAL ***<br><br>Do you love Techmeme news and wish you could get the latest news as notifications on your Android Wear device? Then this app is for you!<br><br>We created Techmeme Wear (unofficial) for personal use at first, and decided to package and roll it out to everyone who shares our love of Techmeme and the fantastic work they do.<br><br>*** We are happy to give you a refund if you are unsatisfied ***<br><br>*** Requires an Android Wear device and a phone with Android v4.3+ ***<br><br><br>Techmeme Wear let&#x2019;s you do the following:<br>- New Techmeme news items will show up as a Notification on your Android Wear device<br>- You can open the Android Wear app and conveniently scroll and cycle through Techmeme items<br>- Mark items as &#x201C;Read&#x201D; and they will no longer appear in your feed<br>- From your Android Wear device you can:<br>\t - Quickly glance at the news headline<br>\t - Read full articles<br>\t - Open the article on your phone<br>\t - Add to Pocket<br>\t - Share<br>\t - Manually Refresh by long press on a headline, or by swiping to the top<br><br>- Additional Settings you can control from your phone:<br>\t - Stacked or unstacked notifications<br>\t - Change refresh interval",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/u_KX6iYDZO9fJKOcv-bLu6dL0gkctQhNBnmlbDHhIJ5VZtP2QjSihdPJp18d-i2et2k=h310",
+        "//lh4.ggpht.com/wArt9Zv6ZCb8R13U26anLbFL7744y50kDN31Sj2AESp2BIhfKH2BHnbCvl7xAgjBIxs=h310",
+        "//lh3.ggpht.com/xZfiZHDtnVojzvGwbOdSdD9tCTy9JVUZUD5wdNQnmSZcOtd5FXCJt6ACRdeT5vJknrNI=h310",
+        "//lh5.ggpht.com/G-g-sdZ83Dm5XHDAPh9IAPkjzJV0F3FCoYmqACPYNfYeoIq24pDy47ctkL7gIciLLeI=h310",
+        "//lh4.ggpht.com/irEcq0N2vKI0n37JHi5iASDcdZqGjh5Sf_x72sw6Lc4vdCJLrI6j8DhF-TghvxlkUFk=h310",
+        "//lh4.ggpht.com/lS_EWz3h4ycPzgL6fAKi4yI4DMrvC3to9_S9BBfEYkXRJ-IRIWQDFmU-tLTzIZYCKGzW=h310"
+    ],
+    "comments": [
+        "Quick update response. Excellent for saving articles. Didn't work initially - but the save to Pocket and sharing to other apps direct from the watch is really what I love about this. Who wants to sit there reading on the watch?"
+    ],
+    "recentChanges": [
+        "- Bug fixes for LG R Watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.visualcandy.techmemewear&hl=en&gl=us",
+    "appId": "com.visualcandy.techmemewear"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Solar Watch Face",
+    "summary": "Explore the solar system, animated right on your wrist.",
+    "icon": "//lh3.googleusercontent.com/6zevSEpF2ZsUJLUOfgcR8BdnU-URYgPVtAr5GB1LsGjpAnGCVjhSOtdL5jeD4DbWFA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.6,
+    "reviews": 7,
+    "developer": "CookiePizza Inc",
+    "developerId": "CookiePizza+Inc",
+    "developerEmail": "admin@franny.co",
+    "developerWebsite": "http://www.franny.co",
+    "developerAddress": "20 Holly Park Road",
+    "updated": "May 26, 2015",
+    "version": "1.0.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Solar for Android Wear is a stunning, animated watch face that puts the solar system right on your wrist.You can observe the beauty of the solar system, running at a smooth frame rate and high resolution, just a tap away.Solar works best for round smartwatches like the Moto 360 and the LG G Watch R, however it looks beautiful on any display regardless of its shape and size, as it was designed to scale beautifully throughout the entirety of Android Wear.To help preserve battery life, Solar has been optimised to perfection, in order to keep your display on as long as possible. It has a fantastic Ambient Display mode, and allows you to choose whether to run the watch face in high or medium quality.Solar Watch Face is easily customisable, allowing you to enjoy both analog and digital styles, in your favourite colour: combine interesting hand colours with cool background gradients to create your perfect watch face!Feature List: • The Sun and the eight planets in our solar system, beautifully animated • 30 fps • Fantastic optimisation • High quality, smooth, rich typography and natural looking shapes • Analog and digital styles • Ability to customise the colours and gradients • Option to lower the quality of the watch face in order to save even more battery life • Ambient Display mode • Support for all Android Wear resolutions and display shapes",
+    "descriptionHTML": "Solar for Android Wear is a stunning, animated watch face that puts the solar system right on your wrist.<br><br>You can observe the beauty of the solar system, running at a smooth frame rate and high resolution, just a tap away.<br><br>Solar works best for round smartwatches like the Moto 360 and the LG G Watch R, however it looks beautiful on any display regardless of its shape and size, as it was designed to scale beautifully throughout the entirety of Android Wear.<br><br>To help preserve battery life, Solar has been optimised to perfection, in order to keep your display on as long as possible. It has a fantastic Ambient Display mode, and allows you to choose whether to run the watch face in high or medium quality.<br><br>Solar Watch Face is easily customisable, allowing you to enjoy both analog and digital styles, in your favourite colour: combine interesting hand colours with cool background gradients to create your perfect watch face!<br><br>Feature List:<br> &#x2022; The Sun and the eight planets in our solar system, beautifully animated<br> &#x2022; 30 fps<br> &#x2022; Fantastic optimisation<br> &#x2022; High quality, smooth, rich typography and natural looking shapes<br> &#x2022; Analog and digital styles<br> &#x2022; Ability to customise the colours and gradients<br> &#x2022; Option to lower the quality of the watch face in order to save even more battery life<br> &#x2022; Ambient Display mode<br> &#x2022; Support for all Android Wear resolutions and display shapes",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/n140kQGc0V7nAKlgt8edcBmXT0CKuvw5RGrCJ-VTr45XLlE5xx_Gc_uEuixpZkG9lg=h310",
+        "//lh3.googleusercontent.com/Tparg1bQrcX59ESRiNpsFjdNErf3Op-nLFKhajQpmMO1zv_srF1C11jUtmIzSL6AKw=h310",
+        "//lh3.googleusercontent.com/THOwMpvmDk2CWnG4tx45WcFMJwnOY7nVkvrpH5GspmDmNRejMXJcud4D4SgSjptn0Xo=h310",
+        "//lh3.googleusercontent.com/mgRgh_i_QI7sb3olk55MJtynF0lG6TAoMvrXtHM4IRMcsQQrkgcFJk-CvbKIaB-znWsu=h310",
+        "//lh3.googleusercontent.com/ZODY_96ObI7u8hzgBCGVU6NPIXAj9mMFoSkTfIzEdM8LfTVpZOOQAqc-Niv0SUA_pH0=h310"
+    ],
+    "comments": [
+        "Great! Looks great and has good animation. Can't ask for much else! SPAAAAAACE",
+        "Its nice. Wish it had 12hr option though"
+    ],
+    "recentChanges": [
+        "• Fixed small alignment issue on the digital style.",
+        "• Added the ability to customise the background.",
+        "• Small polishing touches."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.cookiepizza.solar&hl=en&gl=us",
+    "appId": "net.cookiepizza.solar"
+}

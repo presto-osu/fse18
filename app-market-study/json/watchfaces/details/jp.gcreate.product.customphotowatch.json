@@ -1,0 +1,56 @@
+{
+    "title": "Custom Photo Watch",
+    "summary": "This is WatchFace. Set your original images to your Android Wear. Let&#39;s enjoy :)",
+    "icon": "//lh3.googleusercontent.com/I38Po5MuAlzbpH4fzy4UIqkoieLKR5X1np2p-UHIF74zo1NUSHp14H3F_PdjPq-q8MM=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.4,
+    "reviews": 38,
+    "developer": "G-CREATE",
+    "developerId": "G-CREATE",
+    "developerEmail": "archiherewego@gmail.com",
+    "developerWebsite": "http://android.gcreate.jp/248",
+    "updated": "March 26, 2017",
+    "version": "1.2.6",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Custom Photo Watch is WatchFace working on Android Wear.You can set images on the Android Wear device.Various images are O.K, photo with your family, your favorite images etc.You can select images on your phone, SD card, Google Drive etc.Or use a picture that is taken by your phone.You can change images easily.You can scale and crop a image, so set to your android wear.This WatchFace is recommended for below persons.+ I want to check time and date only.+ I want to set my family photo to my android wear device.+ I want to set my favorite images.+ I want the original WatchFace only for me.Required \"Android Wear\" app by Google.Install this app, then automatically sync to Android Wear app. (This will take a few minutes.)If images are not changed on Android Wear when you select by phone, please select again in few minutes. This symptoms often appear in such as immediately after installation.",
+    "descriptionHTML": "Custom Photo Watch is WatchFace working on Android Wear.<br>You can set images on the Android Wear device.<br>Various images are O.K, photo with your family, your favorite images etc.<br><br>You can select images on your phone, SD card, Google Drive etc.<br>Or use a picture that is taken by your phone.<br>You can change images easily.<br>You can scale and crop a image, so set to your android wear.<br><br>This WatchFace is recommended for below persons.<br>+ I want to check time and date only.<br>+ I want to set my family photo to my android wear device.<br>+ I want to set my favorite images.<br>+ I want the original WatchFace only for me.<br><br>Required &quot;Android Wear&quot; app by Google.<br>Install this app, then automatically sync to Android Wear app. (This will take a few minutes.)<br>If images are not changed on Android Wear when you select by phone, please select again in few minutes. <br>This symptoms often appear in such as immediately after installation.",
+    "histogram": {
+        "1": 10,
+        "2": 3,
+        "3": 3,
+        "4": 5,
+        "5": 17
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/QWPDtCKsJAgp_ci1vFbbH2g-a9nWq2bH898Fh5bpeontiUV38U3g7hq8xdbL34jUTyM=h310",
+        "//lh3.googleusercontent.com/3QnZ9xD0e1AUmE_OV8Cqfi8WpQtRMbjCYXKRSrnY97va-St6ch3KJlTMpfCc_e7jA38=h310",
+        "//lh3.googleusercontent.com/5XXiepOCcLBRDOgjmd6UeKfUoIPgy7Q8JE9xOareoWMLFCtU4szPk1LZxXroNv0En68=h310",
+        "//lh3.googleusercontent.com/GvnuxBSh7OzVdMTekcQcEjs7ydXTMLmDF0eOH_KAbkmoUc1uciaQqjjvE-jokOj0bx7o=h310",
+        "//lh3.googleusercontent.com/H382l9K56lXMl7d6FS9um2QVUvY277WWmA4r1A3OncRgZE3jvkuFuwOQwmVA73Ky_v4A=h310"
+    ],
+    "video": "https://www.youtube.com/embed/pcc0MT_21WU",
+    "comments": [
+        "Horrible app Doesn't allow you to make any changes via the watch face and it lacks the ability to be opened via the phone. Garbage app.",
+        "I can't even open it up on the phone to put custom background on the watch",
+        "Won't let me edit the photo or anything",
+        "As my expectations",
+        "won't run at all",
+        "You've done a terrific job with this - Better then Moto 360 stock customization app - you've added the bonus of Color Time and date AND font size!  Now even able to move time location so it doesn't block the pics. Keep up the great work - love the color/font options! I'm back😄! Now I've got My Pics, with My Color digital time and font in the Size I want; and date is just as customizable. Having Color options and size choice is a must when using custom photos -and stock only allows b/w which of course didn't work with all photos. With this Custom Watch Face app the digital clock can be tiny so as not ruin a back ground pic or enlarged and moved L/R, U/D. You're the best!"
+    ],
+    "recentChanges": [
+        "### 1.2.6",
+        "Update font style easy to see in ambient mode."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.gcreate.product.customphotowatch&hl=en&gl=us",
+    "appId": "jp.gcreate.product.customphotowatch"
+}

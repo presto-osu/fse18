@@ -1,0 +1,50 @@
+{
+    "title": "BatteryWatchFace",
+    "summary": "Watch Face with the percentage of battery charge",
+    "icon": "//lh3.googleusercontent.com/Dg2SNPwKIp-xebvjYBWiuZSVnpwXjFRgEsFDL-gMPSw_las4C_APaHDOvkx0zY119Dw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4,
+    "reviews": 17,
+    "developer": "Android Tools (ru)",
+    "developerId": "5721804372984655846",
+    "developerEmail": "rusdelphi@gmail.com",
+    "developerWebsite": "http://android-tools.ru",
+    "developerAddress": "Улан-Удэ\nул.Панфилова д.16-1",
+    "updated": "February 10, 2017",
+    "version": "1.0.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Using a smart watch? Download the dial with the percentage of charge of battery:►convenient and beautiful interface,►only displays the most important information,►lets you quickly see the battery on a smart watch and smartphone.Source code : https://github.com/petrovichtim/BatteryWatchFace",
+    "descriptionHTML": "Using a smart watch? Download <b>the dial with the percentage of charge of battery</b>:<br>&#x25BA;convenient and beautiful interface,<br>&#x25BA;only displays the most important information,<br>&#x25BA;lets you quickly see the battery on a smart watch and smartphone.<br><u>Source code : https://github.com/petrovichtim/BatteryWatchFace</u>",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/3UbNRq-io6kE3zKg89_-FiSQX_5z5AEgK4-r1ufsLof1O0-uKFpi3O0siza4SNU9Aeg=h310",
+        "//lh3.googleusercontent.com/fJEw7m8BlxeU7ZBmUwJeWU--Sw5Krxi0IKRD-zSP6KSn3H7cT181Jr_yjGbAOUUYGBg=h310",
+        "//lh3.googleusercontent.com/4oHsgic803CdqHk_HQ1rQYuKXJBMbrA4i2UDeWBI4yQ9X2wA5hVlcrex18YtqhX5ZoGN=h310",
+        "//lh3.googleusercontent.com/cdhDR2gHQe3_ZHvulBz9NEkFkTiHYVcHHrm1X5jEvgrwdrpmymtKmzp6RqpS8laCDeXY=h310",
+        "//lh3.googleusercontent.com/b0FUjbHTy_70u3JZ5fNrho0Kyx2LegtzXafFSFB40lLyNZc9sEosrqAPxfnfUkp8ucKK=h310",
+        "//lh3.googleusercontent.com/GlLqXg5i9-1AIP_R_BkNM5L5l4qFzLkrqoH1-ZJRSzo5My_4sHKW23JiOJ7bZD72qUs=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Design update",
+        "Added wear 2.0 support"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rusdelphi.batterywatchface&hl=en&gl=us",
+    "appId": "com.rusdelphi.batterywatchface"
+}

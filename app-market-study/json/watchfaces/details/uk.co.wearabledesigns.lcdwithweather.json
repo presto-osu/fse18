@@ -1,0 +1,59 @@
+{
+    "title": "LCD Watchface With Weather",
+    "summary": "LCD Style Watchface for Andriod Wear which displays local Weather information",
+    "icon": "//lh3.googleusercontent.com/FAdNMXAYHzkw3ymGkR8SxjAQoKrfyah1-Ah6Z4RIP2xh8SEf17z3nR5m0dVEZb2syXU=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.7,
+    "reviews": 19,
+    "developer": "Wearable Designs",
+    "developerId": "5117509099958351335",
+    "developerEmail": "support@wearabledesigns.co.uk",
+    "developerWebsite": "http://www.wearabledesigns.co.uk",
+    "developerAddress": "AdminExcellence Limited trading as Wearable Designs\nThe Castle House\nNewnham\nGloucestershire\nGL14 1AE",
+    "updated": "August 21, 2015",
+    "version": "1.2.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "LCD Style Watch face which displays local weather information including Wind Speed & Direction, Temperature, Sunrise and Sunset time, Pressure and Humidity together with current time and date.Supports all Android Wear devices, but please note that due to size of the screen, round Android Wear devices will only display one weather item at once.  Square screens can display 2.Weather information supplied under license by OpenWeather. Software required location be enabled to get the correct weather information for your current location.Full support for Moto 360, LG Watch R and Sony Smartwatch 3.Now with language files for French, Spanish and German.",
+    "descriptionHTML": "LCD Style Watch face which displays local weather information including Wind Speed &amp; Direction, Temperature, Sunrise and Sunset time, Pressure and Humidity together with current time and date.<br><br>Supports all Android Wear devices, but please note that due to size of the screen, round Android Wear devices will only display one weather item at once.  Square screens can display 2.<br><br>Weather information supplied under license by OpenWeather. Software required location be enabled to get the correct weather information for your current location.<br><br>Full support for Moto 360, LG Watch R and Sony Smartwatch 3.<br><br>Now with language files for French, Spanish and German.",
+    "histogram": {
+        "1": 4,
+        "2": 1,
+        "3": 1,
+        "4": 4,
+        "5": 9
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/j5FNWmiy6V37zSSCvQkiAZEMIEo-T-Gpl6lxxqAFS3U3PmMmvmaDIjAmRe-8vIx3bJA=h310",
+        "//lh3.googleusercontent.com/Sp3VdqnJI-p7626chtFH8Ub-HppwHDg6T16axUzXU9sRr3z8i0rN_N1TGHelhcSx3w=h310",
+        "//lh3.googleusercontent.com/-lEKF4jtcySIjf0_ZjCYnQYHefiVxEilIIOowKYPHPJgr0vsWINKlMhDccI7JlwtrDE=h310",
+        "//lh3.googleusercontent.com/Du9UVnjuoRwcAyuo-6eExtcWhUPIarRlkaj_D2TMAar3extJSYePEtV-NG_BK_tRZEY=h310",
+        "//lh3.googleusercontent.com/Dm7o-8fHIqzeePkl624AqhH0iyrmknRSXLMj_POPphL_N1yX-71LxEefuBdL1hUc7Q=h310",
+        "//lh3.googleusercontent.com/P0N3BJS1hhgUB6kiZUqlHMAoKY119x3OTsjOWbSL-nc1t1EHLaME4bHE7fdX0jdnAg=h310",
+        "//lh3.googleusercontent.com/5BtUcHWPxWEpIMvQ1po40fxDRAqTuIuIUxEtlX9tzXytEn3emdi35mO3gyWz4YLPY2w=h310",
+        "//lh3.googleusercontent.com/azZIrv_OKKcO3m7D424oXie0g7Vzhp3zq_HjXEYPNdBPg2I3WRbmVVpjzqcmX4ejxg=h310",
+        "//lh3.googleusercontent.com/HJ_YRGGEth6guicIlBI-UR4KP8dq2v5n61EW3Q6IUcLKY1MoTvC1Y5PZl3d6sFKJ2Oh6=h310",
+        "//lh3.googleusercontent.com/gHJOT4VgSa4adiWVvvCQVT9O78vJxF-yDwIwiuWCEQCfFpaBjPigWBT43EidMjzcfWGC=h310",
+        "//lh3.googleusercontent.com/fJqk8XdcwNgCxQRbmakD21B1-zhnt2H9TfgL02D2_1b8nJw8wFuHDalLLU3qVHzEcb0q=h310"
+    ],
+    "comments": [
+        "Cool style Would be a 5 star if it had the same great functionality like led with weather.  E.g. Step count and interactive display.  And auto location doesn't work.",
+        "It's really cool! This is what I've been looking for. I think it's the most similar to digital watch."
+    ],
+    "recentChanges": [
+        "Improved support for Japanese Alphabet.",
+        "Improve syncing between watch and phone.",
+        "Additional New permissions as required by Google Play"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=uk.co.wearabledesigns.lcdwithweather&hl=en&gl=us",
+    "appId": "uk.co.wearabledesigns.lcdwithweather"
+}

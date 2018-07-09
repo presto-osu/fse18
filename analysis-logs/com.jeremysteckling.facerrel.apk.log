@@ -1,0 +1,14 @@
+[INFO] ApkUtil: Run cmd: /export/raid/Android/Sdk/tools/bin/apkanalyzer manifest print ./apks/wear/com.jeremysteckling.facerrel.apk
+Soot started on Thu Jun 21 11:25:28 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.jeremysteckling.facerrel.WatchfaceRenderService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.jeremysteckling.facerrel.apk
+[INFO] MySceneTransformer: ############## com.jeremysteckling.facerrel.WatchfaceRenderService$WatchfaceRenderEngine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   4034
+[INFO] FlowGraph: @@@@ Total Methods: 23081
+[INFO] FlowGraph: @@@@ Total Stmts:   292376
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============

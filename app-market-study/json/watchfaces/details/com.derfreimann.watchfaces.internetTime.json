@@ -1,0 +1,52 @@
+{
+    "title": "Internet Time Watch Face",
+    "summary": "Internet time: &quot;.beats&quot; &amp; UTC time",
+    "icon": "//lh3.googleusercontent.com/UTYYtA-VPUHvUYR2KIE-dzQbd9ejWEAyYKAICNvPylpI317I_PmB46MchIZKHLn0cAU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.6,
+    "reviews": 16,
+    "developer": "derfreimann",
+    "developerId": "derfreimann",
+    "developerEmail": "fonkri@gmail.com",
+    "developerAddress": "Guglgasse 8/2/9/82, 1110 Wien, Österreich",
+    "updated": "May 31, 2015",
+    "version": "2.4",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "You think a binary watch isn't geeky enough? Then go ahead and use this watchface!Just for fun and probably not too useful, especially if you live in a time zone far away from the so-called BMT timezone...But what is this BMT and .beats exactly?It's a concept invented by Swatch in 1998 which intended to divide one day in 1000 units, so-called .beats.Therefore 1 .beat equals 86,4 seconds (=1 minute, 26,4 seconds). Or, if you wish, 1 hour equals 41,6 .beats!Another idea of it was that it's the same all over the world. @428 .beats in New York = @428 .beats in Johannesburg, simultaneously. So you can make online video chat dates with friends all over the world and use the internet time to easily coordinate without having to think about time zones (well, not really, since you'll still have to think about it because \"@428 .beats\" actually would be 4:16 AM in New York and 10:16 AM in Johannesburg).This internet time uses BMT as a reference. BMT stands for Biel Mean Time, because Biel is this place in Switzerland where the internet time was invented. BMT is equal to CET (Central European Time) but doesn't care for summer time / daylight saving time. So it is constant all year long.In fact it is exactly like UTC+1 (UTC = Coordinated Universal Time = today's actual internet time!).To make it a bit more easy to understand, a small summary with an example:@000 = 00:00 BMT = 23:00 UTC = 07:00 PM CDT@500 = 12:00 BMT = 11:00 UTC = 07:00 AM CDT@999 = 23:59 BMT = 22:59 UTC = 06:59 PM CDT@ ...    .beats [unit of BMT internet time]BMT... Biel Mean Time [time zone used for internet time; equals CET]UTC... Coordinated Universal Time [international standardised  \"time zone\"]CDT... Central Daylight Time (e.g. New York) [a time zone used in the US]To the watchface:• shows the time and date according to your local settings• shows the BMT internet time in .beats• colours of background, time/date and .beats can be changed through the Android Wear app• on watches with OLED screens only: font changes in ambient mode to a less bold one to prevent screen burn-in (watches with LCD screens don't mind!)(on languages not supported by Android Wear the US English format will be used... sorry, but that's a Wear thing!)There's now an additional watchface which displays the UTC (universal internet) time zone and your time zone's offset to it UTC.< the watchface was, as usual, programmed and tested on a Moto360 and Sony SW3, but should work on any available Android Wear device >More infos about the internet time can be found here:http://en.wikipedia.org/wiki/Swatch_Internet_TimeThe inventors ...and a place where you can also calculate .beats:http://www.swatch.com/en_us/internet-timeA quick way of checking the actual internet time is this Twitter feed:https://twitter.com/internet_timeNote: this watchface doesn't sync to a time server, it just takes the time you've set on your device and translates it to internet time. That means if your phone/watch isn't using a time server and you've set the time manually, then it could be that your .beats are a bit off (...I mean, come on... really?)",
+    "descriptionHTML": "You think a binary watch isn&apos;t geeky enough? Then go ahead and use this watchface!<br><br>Just for fun and probably not too useful, especially if you live in a time zone far away from the so-called <i>BMT</i> timezone...<br><br><br>But what is this <i>BMT</i> and <i>.beats</i> exactly?<br><br>It&apos;s a concept invented by Swatch in 1998 which intended to divide one day in 1000 units, so-called <i>.beats</i>.<br>Therefore <b>1 .beat equals 86,4 seconds</b> (=1 minute, 26,4 seconds). Or, if you wish, <b>1 hour equals 41,6 .beats</b>!<br><br>Another idea of it was that it&apos;s the same all over the world. @428 .beats in New York = @428 .beats in Johannesburg, simultaneously. <br>So you can make online video chat dates with friends all over the world and use the internet time to easily coordinate without having to think about time zones (well, not really, since you&apos;ll still have to think about it because &quot;@428 .beats&quot; actually would be 4:16 AM in New York and 10:16 AM in Johannesburg).<br><br>This internet time uses <i>BMT</i> as a reference. BMT stands for <i>Biel Mean Time</i>, because Biel is this place in Switzerland where the internet time was invented. BMT is equal to CET (Central European Time) but doesn&apos;t care for summer time / daylight saving time. So it is constant all year long.<br>In fact it is exactly like UTC+1 (UTC = Coordinated Universal Time = today&apos;s actual internet time!).<br><br><br>To make it a bit more easy to understand, a small summary with an example:<br><br>@000 = 00:00 BMT = 23:00 UTC = 07:00 PM CDT<br>@500 = 12:00 BMT = 11:00 UTC = 07:00 AM CDT<br>@999 = 23:59 BMT = 22:59 UTC = 06:59 PM CDT<br><br>@ ...    .beats [unit of BMT internet time]<br>BMT... Biel Mean Time [time zone used for internet time; equals CET]<br>UTC... Coordinated Universal Time [international standardised  &quot;time zone&quot;]<br>CDT... Central Daylight Time (e.g. New York) [a time zone used in the US]<br><br><br><i>To the watchface:</i><br>&#x2022; shows the time and date according to your local settings<br>&#x2022; shows the BMT internet time in .beats<br>&#x2022; colours of background, time/date and .beats can be changed through the Android Wear app<br>&#x2022; on watches with OLED screens only: font changes in ambient mode to a less bold one to prevent screen burn-in (watches with LCD screens don&apos;t mind!)<br><br><i>(on languages not supported by Android Wear the US English format will be used... sorry, but that&apos;s a Wear thing!)</i><br><br>There&apos;s now an <b>additional watchface which displays the UTC (universal internet) time zone</b> and your time zone&apos;s offset to it UTC.<br><br>&lt; the watchface was, as usual, programmed and tested on a Moto360 and Sony SW3, but should work on any available Android Wear device &gt;<br><br><br>More infos about the internet time can be found here:<br>http://en.wikipedia.org/wiki/Swatch_Internet_Time<br><br>The inventors ...and a place where you can also calculate .beats:<br>http://www.swatch.com/en_us/internet-time<br><br>A quick way of checking the actual internet time is this Twitter feed:<br>https://twitter.com/internet_time<br><br><br>Note: this watchface doesn&apos;t sync to a time server, it just takes the time you&apos;ve set on your device and translates it to internet time. That means if your phone/watch isn&apos;t using a time server and you&apos;ve set the time manually, then it could be that your .beats are a bit off (...I mean, come on... really?)",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 12
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/SoUqkn9QROSy79JBmSl75TWq4B8GwEe9zTl6zGfNBLjUUpAkgtfSkGT-r3sz2XFZHg=h310",
+        "//lh3.googleusercontent.com/oeZGcSykorYe1X4b7O6q171CP-SxeVsen9vDKYitdK-k-tca-Ljic-WVqwhtdmY4j5lx=h310",
+        "//lh3.googleusercontent.com/O2DH_tWdNdM1mW-oWNm-Et3oWwNr_1CoMMVDgKWLA-ebp8AuKlKg4r0jG_LknQ_gPQ=h310",
+        "//lh3.googleusercontent.com/Upwj_PS0riZ66WaNZLzOW38Wmht-p8m6lE5as0AWne3XdLUGlJ0WoON17vQjCiHuj3g=h310",
+        "//lh3.googleusercontent.com/bnMyMhECK7j8cDmJrHrx_tEBjqwUTDqay1Nml9P2zdR-_iA5mmsCkXpAND15j5p1BQ=h310",
+        "//lh3.googleusercontent.com/HGshaGRSg5UhM4cizJ9HFdCH8SVpbC_IRsbWIaG0oiy3dpI9O6ZX2SIcyuRRaX7jp3Ji=h310"
+    ],
+    "comments": [
+        "Love it. Thanks for keeping the dream alive. Someday hopefully beats will come back in popularity.",
+        "Cool I guess!"
+    ],
+    "recentChanges": [
+        "★ fixed a bug where the text was suddenly too large on high resolution <b>square devices</b> running the <i>new Android Wear 5.1.1</i>",
+        "<i>You should not install this update if you're having a Sony SW3, Asus ZenWatch or Samsung Gear Live and they're still running 5.0.2!!!</i> (you can, but then text will be smaller until you receive the update...)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.derfreimann.watchfaces.internetTime&hl=en&gl=us",
+    "appId": "com.derfreimann.watchfaces.internetTime"
+}

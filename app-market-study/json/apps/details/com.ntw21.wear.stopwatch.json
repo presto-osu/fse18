@@ -1,0 +1,57 @@
+{
+    "title": "Stopwatch for android wear",
+    "summary": "Wear Stopwatch  for android smart watch",
+    "icon": "//lh3.googleusercontent.com/gsRYO8nEZlYRWKYaoj2lKgopwckxnWgrZVVG-FERNSXqSweMRRXuIPgDuXzfZdzJ0g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 15,
+    "developer": "Nicolas C Perez",
+    "developerId": "Nicolas+C+Perez",
+    "developerEmail": "ppnicolasc@gmail.com",
+    "developerWebsite": "http://ntw21.com",
+    "developerAddress": "MIAMI, FL",
+    "updated": "April 28, 2015",
+    "version": "1.0.6",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Wear Stopwatch is a simple to use app for android wear with lap times option; useful in many timing scenarios.-------------------------------Actions-------------------------------StartLapStopRestartResetView Laps-------------------------------Features-------------------------------Until 100 hoursTime measured with system time (1/100 second)Stop - Continue-------------------------------Languages-------------------------------English中国FrançaisDeutschItaliano日本人한국의PortuguêsPусскийEspañol",
+    "descriptionHTML": "Wear Stopwatch is a simple to use app for android wear with lap times option; useful in many timing scenarios.<br><br>-------------------------------<br>Actions<br>-------------------------------<br>Start<br>Lap<br>Stop<br>Restart<br>Reset<br>View Laps<br><br>-------------------------------<br>Features<br>-------------------------------<br>Until 100 hours<br>Time measured with system time (1/100 second)<br>Stop - Continue<br><br>-------------------------------<br>Languages<br>-------------------------------<br>English<br>&#x4E2D;&#x56FD;<br>Fran&#xE7;ais<br>Deutsch<br>Italiano<br>&#x65E5;&#x672C;&#x4EBA;<br>&#xD55C;&#xAD6D;&#xC758;<br>Portugu&#xEA;s<br>P&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;<br>Espa&#xF1;ol",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 4,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/K4VCYQ530MSt_eeyMtf1zqoIQrBFBjdm-Y-L1oX2vBijRBvJW_aBWp8LFQ9s6ISmLdGE=h310",
+        "//lh3.googleusercontent.com/yUhrrmca_-lqiatUlU3WB9M9Bu6H3WsdDg_1lFQg-BTEG9Gtkf7QDt7XxafKN-khbnw=h310",
+        "//lh3.googleusercontent.com/iLJWkifIgirE5Hjfrykl4GeH_agvYN4OnTsrM64JkGUYVSUlaFO1UsVQJF_mPy8jhCJY=h310",
+        "//lh3.googleusercontent.com/5AAhGTsHiYAFpGHvAv60aaem0Sy2V4JPIpf0fvwEuVoIdGP_HnkR-Y1DJXK9F7Pob6k=h310",
+        "//lh3.googleusercontent.com/yexQLpyiRKbo3Hswrpez9naBgzyPfLhs1IM3lTzIK5YaYdn3ZO62zruRZ-2j86LxeSc=h310",
+        "//lh3.googleusercontent.com/AA1qepLs8sLwww76MGqdibqc1zQFy_lwZ5ltbeWGpVujgyTb2q86LhqF9xZHs3u9niY=h310",
+        "//lh3.googleusercontent.com/_9WrniY_HdGvg5_tZU0qdxY3rggT7pXxytFm_o9Qs4QfQbsT-jScOTIZCq8pOgQiurI=h310",
+        "//lh3.googleusercontent.com/F87A6wQzn1s4PNXIk_HUMm7blQYkEsKbD8V6cyUgOiWNllK6pqvKhW_5ozhpSXdJWZo=h310"
+    ],
+    "comments": [
+        "Looks and works great on Zen Watch. Much better than stock app. Looks great and professional on a watch screen unlike the ugly OEM app. Has lap times too, which the Wear one lacks. The icon looks cartoonish only on Google play, looks good in the Wear Mini Launcher's drawer.",
+        "Need to be a notification card If it was treated as a notification card that didn't disappear when the screen times out it would be great otherwise its useless to me as a runner since it will time out between my split intervals.",
+        "Needs 1 more feature You can't put it in the background. Fix that and you have 5 stars.",
+        "Make the dim option and you have 5 stars"
+    ],
+    "recentChanges": [
+        "Launch icon for different screen sizes",
+        "Minor user interface adjusts"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ntw21.wear.stopwatch&hl=en&gl=us",
+    "appId": "com.ntw21.wear.stopwatch"
+}

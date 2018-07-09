@@ -1,0 +1,55 @@
+{
+    "title": "Heart Rate Training - wearable",
+    "summary": "Heart rate training on your Samsung android wear device.",
+    "icon": "//lh3.ggpht.com/a0Im8SS_PvwkcZo4VxgvzoxoKHwEUWCJjID7Knnf7pS8gvZzfqrHoh9bPZyKtoyNb7Iq=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.2,
+    "reviews": 24,
+    "developer": "Portable Pixels Limited",
+    "developerId": "Portable+Pixels+Limited",
+    "developerEmail": "greg@portablepixels.com",
+    "developerWebsite": "http://portablepixels.com",
+    "developerAddress": "2 Water Lane\nCamden\nLondon NW1 8NZ",
+    "updated": "September 6, 2014",
+    "version": "1.0.3",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "- Calculate your max heart rate (based on age, or override if you know it)- Build your own workout on your phone, send it over to your Samsung androidwear watch - you can then leave your phone at home- App uses the heart rate monitor from the watch and displays in green when you are in correct zone, orange if 1 zone off, or red otherwise- Shows an ongoing notification when running, so you can still use other functionality on the watch - e.g. change music track",
+    "descriptionHTML": "- Calculate your max heart rate (based on age, or override if you know it)<br>- Build your own workout on your phone, send it over to your Samsung androidwear watch - you can then leave your phone at home<br>- App uses the heart rate monitor from the watch and displays in green when you are in correct zone, orange if 1 zone off, or red otherwise<br>- Shows an ongoing notification when running, so you can still use other functionality on the watch - e.g. change music track",
+    "histogram": {
+        "1": 6,
+        "2": 2,
+        "3": 4,
+        "4": 6,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/O02dXV5v5HfszJnE6mRqDLlVohnSLhgRiQn74bKrWOvkHuSfu8PsP5pLK5TBF8vGGzY=h310",
+        "//lh4.ggpht.com/TnAjR5hii35STZrJW2Y_uGx-Wi1khZpxdWl4CIoY3aS-MKeOKzXgPkLkr4GNaNbmgvM=h310",
+        "//lh6.ggpht.com/2XdQFkWXsiYAAwAkw9niSj74wTWc4uUu5zow7uGRgeO2GRgG5uIAMYvtNIGfLiziQfI=h310"
+    ],
+    "comments": [
+        "Doesn't appear to work with Moto 360 I can't get this working with my moto 360.  No matter how hard I am working out it never reads a heart rate over 70.  Otherwise the design is good, and I like how it should work.  Hopefully it gets fixed, would love for something like this to work.",
+        "Needs more Why can't i just start a workout and it records my heart rate as I workout? I do not want to set the time limit.   Will rate higher if this feature is added.",
+        "Too early The app is not as usable as I expected. It has these features that I have use from one time use, which lead me my disappointment. I used LG R  1. Constant heart rate monitor (This will drain your battery around 30%/hr) 2. The Heart rate is totally just for display/monitoring. It would be best if it gets logged to Google fit so at least you would know your statistics on the workout. Since you wont really read the display constanly while doing something. By normal use you usually just go back to the data after doing the activity.  3. Create your workout. This part is confusing when you create initially. And don't make a mistake creating it since you cannot edit. The only way to do it is to delete the workout and start again. Big time sucks!  If not mistaken some of this disappointments comes from the watch build itself. Most times it will read inaccurate. I have been wearing a garmin watch with chest HR strap before and that one was pretty accurate. But this one I know my HR is around 140 but its reading 70. I believe the sweat and movements from the workout gets an inaccurate reading.  Given all of this,  - Not usable on real world scenario.  - I would like a refund!",
+        "Does not work with Gear",
+        "Fantastic app Great little app. Developers are super responsive. Highly recommended!",
+        "Nice  app! Works with Gear Live"
+    ],
+    "recentChanges": [
+        "- You can now long hold to delete workouts",
+        "- Maximum duration of a workout stage can now be up to 60 minutes",
+        "- Set a custom stage name"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=portablepixels.heartratetrainer&hl=en&gl=us",
+    "appId": "portablepixels.heartratetrainer"
+}

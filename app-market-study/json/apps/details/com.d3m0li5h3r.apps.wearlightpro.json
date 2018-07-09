@@ -1,0 +1,46 @@
+{
+    "title": "WearLightPro",
+    "summary": "A simple flashlight for your Android Wear device",
+    "icon": "//lh3.googleusercontent.com/oM5LmIg1FnS7fBp0X9wm6_5WFR5XPfVs-O9iHmLU5fP-SQer-DmD7dA9nMyhQnGjmfk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 5,
+    "reviews": 1,
+    "developer": "d3m0li5h3r",
+    "developerId": "d3m0li5h3r",
+    "developerEmail": "demolisherrules@gmail.com",
+    "updated": "October 2, 2015",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Introducing WearLightPro. A Simple yet powerful flashlight app for your Android Wear devices. Now no need to pull out your device from your pocket to see in the dark when you've got your Wear device with you. Just open up the app on the wear device and Voila!!! You also have the power to customize the color of the flashlight and to maximize the brightness of the screen.Permissions: This app uses no permissions at all. The permissions that you see here are coming from Google Play Services library that is required for wear apps.",
+    "descriptionHTML": "Introducing WearLightPro. A Simple yet powerful flashlight app for your Android Wear devices. Now no need to pull out your device from your pocket to see in the dark when you&apos;ve got your Wear device with you. Just open up the app on the wear device and Voila!!! <br><br>You also have the power to customize the color of the flashlight and to maximize the brightness of the screen.<br><br><br>Permissions: This app uses no permissions at all. The permissions that you see here are coming from Google Play Services library that is required for wear apps.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/SH0ioMJaDXSL4WvdyqFZVSYAeew2lX5u-EQgi1JRPrpPEZUL2MP06jvOFza6or4fhQ=h310",
+        "//lh3.googleusercontent.com/MXNOD3GinsusaDAqgbrJxmb9qxnFYGsF8gXbFATDY9VPdxlTS1S7bZKCXBDkonHjXzM=h310",
+        "//lh3.googleusercontent.com/0FWwg9lvXlnkLFx5iDpMJ6HViElKjX4C8ig8aU0yuwhQuqikxXri4wyWtSPjhNF_s1w=h310",
+        "//lh3.googleusercontent.com/ZBSnJMdQl4c1VRfdzOJKHFvziBPqIh-R3TrtGG3LX7IQvPA9p_PbOU3qfgoHDN5Adw=h310",
+        "//lh3.googleusercontent.com/r8PVQYR6HLsTlHacrC2ZhVyzWURkZNtBFQfCKdNo6t1qpwGvic5zGLPnGeK9NJDmBAk=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Added disco lights. Now just tap the flashlight screen and your Wear device will start the disco lights."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.d3m0li5h3r.apps.wearlightpro&hl=en&gl=us",
+    "appId": "com.d3m0li5h3r.apps.wearlightpro"
+}

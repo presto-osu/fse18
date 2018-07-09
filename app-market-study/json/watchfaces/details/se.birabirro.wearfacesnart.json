@@ -1,0 +1,57 @@
+{
+    "title": "Snart kvart i sex",
+    "summary": "A klockapp to wear that shows the time in text form little sketchy.",
+    "icon": "//lh3.googleusercontent.com/X-0rFeg0ovbvENxT6gNvPTw__g7YUerWUGwhJQ-CCPjTeFY1BNZiP1c8EpLqXXUrFNI=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.5,
+    "reviews": 13,
+    "developer": "Crisp AB",
+    "developerId": "Crisp+AB",
+    "developerEmail": "android@crisp.se",
+    "developerWebsite": "http://www.crisp.se",
+    "updated": "June 14, 2017",
+    "version": "1.3.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Den här klockappen presenterar tiden på ungefär det sätt som du skulle svara någon som frågar dig vad klockan är.",
+    "descriptionHTML": "Den h&#xE4;r klockappen presenterar tiden p&#xE5; ungef&#xE4;r det s&#xE4;tt som du skulle svara n&#xE5;gon som fr&#xE5;gar dig vad klockan &#xE4;r.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/9gViKlml8iWINlr1mGSBVSiwdaB3JG-Xghq06apQ8gpKSubZABV2uh306BwmU4W0ZEmd=h310",
+        "//lh3.googleusercontent.com/k9BzY9Aw7elZkw5Rg8sh0I1fBdFAkDdi9-yD4ZPJOFTXDj1nSAROZ9aX4656NYXI1hw=h310",
+        "//lh3.googleusercontent.com/rWfFSkFwwunmSgSIosivspiQLfxNtQ3zePvHu0JQXboRlwDYfEnWzPCO4W9VLSUPbmU=h310",
+        "//lh3.googleusercontent.com/O5LgtqUp9p8LxFyzTDqXoH750fUutDHOJZ-ThdKvKzCDlaucNi-USQVBpxsv7Cmx7g=h310",
+        "//lh3.googleusercontent.com/UjylT7WguOwAzCL_esjWHWhRCo5N9f9ppJc9QrGbKpxh-pInrFqQgqCQPhRg97rJv9k=h310",
+        "//lh3.googleusercontent.com/0ljmsVXfnuPxl6YwZqYczMvVuphOFZOqdzro_ACLNTbBEiL2mfsX2uwV8BrtI_R1n3CH=h310",
+        "//lh3.googleusercontent.com/C8pSsr5IcoRWu-YxKcfXaMdjpYZ-BTULzBNdPnXd10cI-li9Ef_rZl4gy5cFEH42yYr6=h310"
+    ],
+    "comments": [
+        "n nice"
+    ],
+    "recentChanges": [
+        "- Bråttom till bussen med vet inte hur bråttom?",
+        "Med ett tap på klockan får du tiden tillfälligt digitalt med sekunder å allt så du vet om du ska springa :-)",
+        "- Fet text? Egendefinierad färg? Checkbox för det nu!",
+        "- Ambient läge eller ingen kantutjämning? Konturer o vit font? Checkboxar för det också!",
+        "- Minska texten så att en notis får rum i botten? (< 2.0)",
+        "- Diverse kommunikationsbuggar fixade!",
+        "- Första sjysteringarna för 2.0 (fick den först nu i maj), men mera 2.0 features kommer."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.birabirro.wearfacesnart&hl=en&gl=us",
+    "appId": "se.birabirro.wearfacesnart"
+}

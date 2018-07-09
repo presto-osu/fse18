@@ -1,0 +1,50 @@
+{
+    "title": "Simple Digital Watch face",
+    "summary": "Simple  watch face that shows your heartbeat, battery level and current time.",
+    "icon": "//lh3.googleusercontent.com/wRQ_LbytoUsPG0gcSc4O44ziWjsr8gzG0E09J2UPkiCpOR6u_7qzS8-LbbTy3W9xiqa2=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 21,
+    "developer": "Kvis.Dev",
+    "developerId": "Kvis.Dev",
+    "developerEmail": "kvis.dev@gmail.com",
+    "developerWebsite": "http://kvis.pp.ua",
+    "updated": "July 4, 2015",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Simple digital watch face that shows your heartbeat, battery level and current time, of course. No more, no less.",
+    "descriptionHTML": "Simple digital watch face that shows your heartbeat, battery level and current time, of course. <br>No more, no less.",
+    "histogram": {
+        "1": 2,
+        "2": 4,
+        "3": 5,
+        "4": 2,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2xdxgpfv1x83OYuP2-d2pq8973tiYXema5wu_97iwjNIm_iSl1nIcaxEl97LhBbPeA=h310",
+        "//lh3.googleusercontent.com/KExqyS01D2hhMfmvjvAZQv7VcGXddY6tHKSpou60Vzky1NBZTIE0yTDQQoKAjps8RdBR=h310"
+    ],
+    "comments": [
+        "Really bad for my watch Leaves heart rate monitor on all of the time. Either runs down battery quickly or causes watch to crash on my Samsung Gear Live.",
+        "Drains battery very quickly due to running the heart rate monitor at all times. Otherwise nice watch face",
+        "run battery down, fast and having hard time changing the time to 12 hr mode, it's always at 24hr",
+        "Useless"
+    ],
+    "recentChanges": [
+        "Simple android wear watchface.",
+        "Shows current time, heartbit and battery level."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ua.pp.kvis.simpledigital&hl=en&gl=us",
+    "appId": "ua.pp.kvis.simpledigital"
+}

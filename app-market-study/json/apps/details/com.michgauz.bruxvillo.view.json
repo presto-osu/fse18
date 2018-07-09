@@ -1,0 +1,58 @@
+{
+    "title": "Bruxelles Villo (bikes)",
+    "summary": "Bruxelles Villo, bikes in Bruxelles",
+    "icon": "//lh6.ggpht.com/Q_qpZ4K6HAq4kdYtM-EandWv72yXxNXqeFvzAXIoFhM1hx-oVAGSWTd2sKv-1FDv50U=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.5,
+    "reviews": 119,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.bruxvillo@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Bruxelles Villo is a tool allowing you to view the status of bike stations Villo networks, of Bruxelles and suburbs. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or nameYou can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Bruxelles Villo is a tool allowing you to view the status of bike stations Villo networks, of Bruxelles and suburbs. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 1,
+        "2": 5,
+        "3": 2,
+        "4": 34,
+        "5": 77
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/vlZ4KVI5IJpL0ZreP9qtTF2mE6SxWxR_nzu_ncDNj97SxGuo5AEhAzHrtB2G59OKlQ0=h310",
+        "//lh3.googleusercontent.com/JXJE45Lmb862xgLHfGDD2I3ATOosPzVehETRESBWc2n5pw9X9SC4ftF13gt-88HxeyA=h310",
+        "//lh3.googleusercontent.com/OVb9WssAUzJBq2xxhQhNHRnMMCrtSIVfPQXbg4pSbPNmUnyJKsr089hEVkkT0Fsm9To=h310",
+        "//lh3.googleusercontent.com/iOCRmJ1DHeNjqPIO4G6bgsfziVmyMSbPWQkQiCe1b6hADslsTd7gCOJnUv-r9V_nznE=h310",
+        "//lh3.googleusercontent.com/79Smdj3rpGjsKWANr_zrZpdXm4iEP0IcgKCwrZvWCL_uKt4m_-8naiuW62loH0feqyQ=h310",
+        "//lh3.googleusercontent.com/LvjUY4fWJQWOkIpyg4W60rD2ZczAiXTKH8DZu5dt9j5JmdDDQ1CWVNRmGtklLVFfwbM=h310",
+        "//lh3.googleusercontent.com/D8zeM1qIfinqBJTit3BHeFxiMwSj2qCE7mq3c1O7tBB_FdOZdDOAlPyhFp4LvJCi18uh=h310",
+        "//lh3.googleusercontent.com/GIzPLl9RS4nkiit_KXvWiItkoIFcrtwK8O_Satww6LkZmbTAAUt-zLBjBgYZMeznCg=h310"
+    ],
+    "comments": [
+        "Please get rid of the tweets I would much appreciate if you could replace this useless functionality with functions that make it easier to use villos like favourite begin end combinations.",
+        "Does what I need.",
+        "Good job! I can't see the map, only the stations. Is it only me?",
+        "User friendly Great app. Simple to use. Having nothing to complain.",
+        "working for Brussels better app than the official one",
+        "Good app Nicely done, love the widget."
+    ],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.bruxvillo.view&hl=en&gl=us",
+    "appId": "com.michgauz.bruxvillo.view"
+}

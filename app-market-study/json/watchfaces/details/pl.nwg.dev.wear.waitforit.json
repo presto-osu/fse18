@@ -1,0 +1,53 @@
+{
+    "title": "Wait4it Android Wear Watchface",
+    "summary": "Digital and analog watch faces showing the progress while waiting for something",
+    "icon": "//lh5.ggpht.com/DAFag-xEIpeN7i4OAtEvhY0pIbRGNbEkSeBtgw_gm_GU2ggCDWX7FkuNE0kJg8S6viY=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.5,
+    "reviews": 6,
+    "developer": "nwg",
+    "developerId": "nwg",
+    "developerEmail": "nwg.piotr@gmail.com",
+    "developerWebsite": "http://nwg.pl",
+    "developerAddress": "ul. Klonowa 2a, Nowa Wieś, 08-300 Sokołów Podlaski, Polska",
+    "updated": "February 26, 2015",
+    "version": "1.0.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "It's gonna be legen... wait for it... dary watch face! Even if not, you may find it useful. This watch face shows graphically how much time left to the moment you're waiting for. Use at work, school, while a boring meeting. Set the start and end time in the companion app to see how quickly the time flies.The application contains two watch faces, analog and digital, together with separate layouts for circular and square screens. Optionally you can force using the circular layout on a square screen if you like it more. The progress may be shown as the progress bar or as sliding two-colored background. On the start and end of the period you set the watch will vibrate and display a notification.The digital watch face shows some additional info: when you're out of the period set, it displays how much time left for the timer to start. Useful if you'd like to know if you're about to be late for work again. ;)After installing the application wait about 30 seconds, and select the watch face either on your watch or in the companion application. You will not see the app in the app drawer.CAUTION: Please make sure whether you have Android Wear 5.0.1 installed on your watch. This application is not supposed to work on older OS versions.This application utilizes The Android Open Source Project code, (C) 2014 The Android Open Source Project, licensed under the Apache License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.Ideas, suggestions and bug reports please leave at http://dev.nwg.pl/wait4it* The battery stats screenshot shows data from Sony Smartwatch 3, always-on screen, Android Wear version 5.0.2.Android Wear watch face",
+    "descriptionHTML": "<b>It&apos;s gonna be legen... wait for it... dary watch face!</b> Even if not, you may find it useful. This watch face shows graphically how much time left to the moment you&apos;re waiting for. Use at work, school, while a boring meeting. Set the start and end time in the companion app to see how quickly the time flies.<br><br><br>The application contains two watch faces, analog and digital, together with separate layouts for circular and square screens. Optionally you can force using the circular layout on a square screen if you like it more. The progress may be shown as the progress bar or as sliding two-colored background. On the start and end of the period you set the watch will vibrate and display a notification.<br><br><br>The digital watch face shows some additional info: when you&apos;re out of the period set, it displays how much time left for the timer to start. Useful if you&apos;d like to know if you&apos;re about to be late for work again. ;)<br><br><br>After installing the application wait about 30 seconds, and select the watch face either on your watch or in the companion application. You will not see the app in the app drawer.<br><br><br><u>CAUTION: Please make sure whether you have Android Wear 5.0.1 installed on your watch.</u> This application is not supposed to work on older OS versions.<br><br><br>This application utilizes The Android Open Source Project code, (C) 2014 The Android Open Source Project, licensed under the Apache License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.<br><br><br>Ideas, suggestions and bug reports please leave at http://dev.nwg.pl/wait4it<br><br><br><br>* The battery stats screenshot shows data from Sony Smartwatch 3, always-on screen, Android Wear version 5.0.2.<br><br><br>Android Wear watch face",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/7JYoIfQ862fYnjxSzSLLmL-ikS6K317c5VNkhxhfr77T_1UDYinfBCAkDfNnnM7kgOA=h310",
+        "//lh5.ggpht.com/8W7tLzGgmGl3LCDcqAfrdhuNSNlMWHgVdGtSlmDDoTWmeeRx0MxAXJsR6U9c8EyiG2zi=h310",
+        "//lh3.ggpht.com/LIjBacZYjoJRLdAl7DkKSdIXR-aPeH0O1R5GwfGDCz0DJNwCHuSi2aihSbVOr7FgLBhJ=h310",
+        "//lh4.ggpht.com/hzs4PbyOw9SYLbP4T4NncDKTY_DZDBxJrbJiexmgFOpFTOQT6qHXD1poukPPM56YKA=h310",
+        "//lh3.ggpht.com/w31ZtRcc23RUtUTF3Yp2YtC5FAL_GW89kZTlwL5XSBs-QlNEMAOrwVznaXConZ_TAA=h310",
+        "//lh3.ggpht.com/VFk5fh6ubv7l8mNR9WO026FWQdPT2UjPa8J6e1VPwuawAwAFCRFzAimuIxHGtle6oqHd=h310",
+        "//lh5.ggpht.com/wIATZMnuOoQ19iEE3wkJiTLdvzlgKa0jcPNxBO7MQqldtkjBlb-BY7_GurC9i0_UtQ=h310",
+        "//lh4.ggpht.com/rr6XSRQtmyEUliXn6vN4Dlmn3OLYPCBp_bza5Nks0crM0_1saKfa8dsl5AYVm_l4yV8=h310"
+    ],
+    "comments": [
+        "Can't change end time Never resets the clock selector so I can change end time. App crashes opening settings from android wear app, galaxy note 4.                                                                        Also since this is a paid app can there be an option to remove the text \"wait4it\" from the watchface? Looks wayyyy too cluttered."
+    ],
+    "recentChanges": [
+        "Initial release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pl.nwg.dev.wear.waitforit&hl=en&gl=us",
+    "appId": "pl.nwg.dev.wear.waitforit"
+}

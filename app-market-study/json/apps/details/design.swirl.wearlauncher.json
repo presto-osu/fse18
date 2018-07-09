@@ -1,0 +1,54 @@
+{
+    "title": "Swirl Launcher for Wear",
+    "summary": "App Launcher for Android Wear using the new Swirl interaction style",
+    "icon": "//lh3.googleusercontent.com/srT1vEjkVoXE969mCEcowDHsXq4yDjqY5_vlQfaXmCfxLmhsNj0T64-DvsRSAoUF2w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 21,
+    "developer": "Swirl Design",
+    "developerId": "Swirl+Design",
+    "developerEmail": "support@swirl.tech",
+    "developerWebsite": "https://swirl.design/apps",
+    "developerAddress": "Swirl Design (Pty) Ltd\nAndmar Building Unit 12\nRyneveld Street\nStellenbosch\n7600\nSouth Africa",
+    "updated": "August 16, 2017",
+    "version": "Varies with device",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "size": "Varies with device",
+    "description": "Swirl Launcher makes it easier, faster and more fun to find and launch the apps on your Android Wear device.Swirl is perfect for a tiny screen like that of your smartwatch.A dynamic wheel swirls every app into an area where you can easily see and touch it.Here’s how to Swirl with touch controls:  * Watch the swirling apps  * Tap an app to launch  * Swipe right to return to the Swirl  * Swipe a curve on the Swirl to turn it to a new angle  * Fling the Swirl to send it swirling again  * Use a left-to-right edge-swipe to dismiss Swirl itselfBetter not try and hit a fast moving app:  * Rather stop, place & tap:    (stop) touch-and-hold to stop the swirling    (place) swipe a curve to place the target well    (tap) lift, then tap the target  * A fast moving app will stop swirling instead of launch when tappedThe app icons expand as they approach the focus area at the top of the screen and shrink again when receding from it. The name of the app currently in focus is shown lower down at the centre of the Swirl. New apps enter the Swirl discreetly at the bottom. Once every app has passed through focus, the Swirl repeats.Please rate the Swirl Launcher on Google Play once you have tried it. We also welcome your comments.Suggestions for new features will be added to the Launcher wish list and carefully considered for inclusion. Due to our preference for simplicity, we do not guarantee that any particular feature request will be implemented. Bug fixes will be prioritized.Advanced Swirl interaction hints:  * If swiping right gives unsatisfactory results, press the watch's back button where available.  * Curved swiping can be extended to cover multiple rotations around the centre of the Swirl.  * When swirling really fast, look at the smaller icons to anticipate the opportunity to grab an app.Known issue:  * An initial touch in the left 10% of the screen is intercepted by the framework to dismiss the app. You can still swipe through this area, just do not start there.This is a stand-alone app for a Wear smartwatch.Patent applications are pending on Swirl interaction.Please visit https://swirl.design for details.",
+    "descriptionHTML": "Swirl Launcher makes it easier, faster and more fun to find and launch the apps on your Android Wear device.<br><br>Swirl is perfect for a tiny screen like that of your smartwatch.<br><br>A dynamic wheel swirls every app into an area where you can easily see and touch it.<br><br>Here&#x2019;s how to Swirl with touch controls:<br><br>  * Watch the swirling apps<br>  * Tap an app to launch<br>  * Swipe right to return to the Swirl<br>  * Swipe a curve on the Swirl to turn it to a new angle<br>  * Fling the Swirl to send it swirling again<br>  * Use a left-to-right edge-swipe to dismiss Swirl itself<br><br>Better not try and hit a fast moving app:<br><br>  * Rather stop, place &amp; tap:<br>    (stop) touch-and-hold to stop the swirling<br>    (place) swipe a curve to place the target well<br>    (tap) lift, then tap the target<br>  * A fast moving app will stop swirling instead of launch when tapped<br><br>The app icons expand as they approach the focus area at the top of the screen and shrink again when receding from it. The name of the app currently in focus is shown lower down at the centre of the Swirl. New apps enter the Swirl discreetly at the bottom. Once every app has passed through focus, the Swirl repeats.<br><br>Please rate the Swirl Launcher on Google Play once you have tried it. We also welcome your comments.<br><br>Suggestions for new features will be added to the Launcher wish list and carefully considered for inclusion. Due to our preference for simplicity, we do not guarantee that any particular feature request will be implemented. Bug fixes will be prioritized.<br><br>Advanced Swirl interaction hints:<br><br>  * If swiping right gives unsatisfactory results, press the watch&apos;s back button where available.<br>  * Curved swiping can be extended to cover multiple rotations around the centre of the Swirl.<br>  * When swirling really fast, look at the smaller icons to anticipate the opportunity to grab an app.<br><br>Known issue:<br><br>  * An initial touch in the left 10% of the screen is intercepted by the framework to dismiss the app. You can still swipe through this area, just do not start there.<br><br>This is a stand-alone app for a Wear smartwatch.<br><br>Patent applications are pending on Swirl interaction.<br><br>Please visit https://swirl.design for details.",
+    "histogram": {
+        "1": 4,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/aoD5Szv0TO1VwORU46GuQpL014ZIW2h8Y8iCsMCzBxNOji0jM5VV4l99x785phn3Vw=h310",
+        "//lh3.googleusercontent.com/soZMV0ng0N9RihF4WJdNoRWrU3D9EZl6d468tqLR_3bEGnEu1wsoMSyz1v8cUzb-Jto=h310"
+    ],
+    "video": "https://www.youtube.com/embed/jw_Hg8iL_lQ",
+    "comments": [
+        "Great concept, too hard to launch from the face Screen",
+        "put in place of your all apps button!",
+        "I think it's really cool",
+        "Yes",
+        "too simple",
+        "Excellen.. would be even nicer if the sizes of the icons on top of screen were not so large. Also this app needs an additional screen which had some options and setting... A way to load this launcher instead of the built in stock app drawer. Please add some features and options and charge a couple box for this app launcher.  Thanks..."
+    ],
+    "recentChanges": [
+        "Harden app against infrequent crashes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=design.swirl.wearlauncher&hl=en&gl=us",
+    "appId": "design.swirl.wearlauncher"
+}

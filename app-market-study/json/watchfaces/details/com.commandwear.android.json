@@ -1,0 +1,57 @@
+{
+    "title": "CommandWear Communicator",
+    "summary": "First responder app to locate/communicate on our situational awareness platform.",
+    "icon": "//lh6.ggpht.com/6hMMxc-ynKg2yqJUstMbqS3yATtBLtn5TM9HcKo2XJ-gkUG9A4rmUJbGDCOSbA_KBeU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 5,
+    "reviews": 2,
+    "developer": "CommandWear Systems Inc.",
+    "developerId": "CommandWear+Systems+Inc.",
+    "developerEmail": "support@commandwear.com",
+    "developerWebsite": "http://www.commandwear.com",
+    "updated": "February 7, 2018",
+    "version": "Varies with device",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "size": "Varies with device",
+    "description": "CommandWear is a simple-to-use, mobile and wearable software platform that integrates data from smartphones, wearables (smartwatches) and tablets to improve situational awareness for emergency responders who must keep their eyes, ears and hands on the job at all times.CommandWear is designed to work with a public safety agency’s existing technology (e.g. desktops, laptops, tablets and smart phones) and applications (e.g. dispatch, fleet management). There are three components to the platform.• The \"HUB\" is a highly scalable, secure server for tracking and logging all     movement and communication.• The \"Commander\" app runs on tablets or desktops and provides     situational awareness in the field or operations center.• The \"Communicator\" app (this app) runs on the smartphone of the First     Responder or field worker.•  The \"Responder Watch\" app runs on smartwatches for convenient and     covert communications plus optional heart rate monitoring and alerting.The Communicator app provides encrypted text messaging and a local view of the situation for each responder, including:• An intuitive, simple and secure interface for receiving, acknowledging and    sending messages;• Maps showing your location and those team members around you;• Roster showing tracked team members and locating them on maps;• Picture/video capture, annotation, sharing and auto-plot to maps    (Command have a real-time visual from the front-lines); • Smartwatch message notifications, acknowledgements and heart rate    monitoring/alerting from the wrist.The Communicator app works with Apple Watch, Android Wear and Samsung Tizen smartwatches for message notification (with vibration) and acknowledgement to improve communications in noisy conditions, during covert operations or when responders are unable to reach their phones.  The heart rate monitoring and alerting feature is currently available only on Android Wear 2.0 compatible watches with an integrated heart rate sensor.The Communicator app requires purchase of an annual license from CommandWear. In order to subscribe, or inquire about a Pilot (test) license, contact CommandWear at info@commandwear.com.Note: Tracking uses your phone's GPS while in the background and can be turned on/off in the app or through a central console. GPS update frequency is configurable and depending on the update frequency this can decrease battery life.",
+    "descriptionHTML": "CommandWear is a simple-to-use, mobile and wearable software platform that integrates data from smartphones, wearables (smartwatches) and tablets to improve situational awareness for emergency responders who must keep their eyes, ears and hands on the job at all times.<br>CommandWear is designed to work with a public safety agency&#x2019;s existing technology (e.g. desktops, laptops, tablets and smart phones) and applications (e.g. dispatch, fleet management). There are three components to the platform.<br>&#x2022; The &quot;HUB&quot; is a highly scalable, secure server for tracking and logging all <br>    movement and communication.<br>&#x2022; The &quot;Commander&quot; app runs on tablets or desktops and provides <br>    situational awareness in the field or operations center.<br>&#x2022; The &quot;Communicator&quot; app (this app) runs on the smartphone of the First <br>    Responder or field worker.<br>&#x2022;  The &quot;Responder Watch&quot; app runs on smartwatches for convenient and <br>    covert communications plus optional heart rate monitoring and alerting.<br><br>The Communicator app provides encrypted text messaging and a local view of the situation for each responder, including:<br>&#x2022; An intuitive, simple and secure interface for receiving, acknowledging and <br>   sending messages;<br>&#x2022; Maps showing your location and those team members around you;<br>&#x2022; Roster showing tracked team members and locating them on maps;<br>&#x2022; Picture/video capture, annotation, sharing and auto-plot to maps <br>   (Command have a real-time visual from the front-lines); <br>&#x2022; Smartwatch message notifications, acknowledgements and heart rate <br>   monitoring/alerting from the wrist.<br><br>The Communicator app works with Apple Watch, Android Wear and Samsung Tizen smartwatches for message notification (with vibration) and acknowledgement to improve communications in noisy conditions, during covert operations or when responders are unable to reach their phones.  The heart rate monitoring and alerting feature is currently available only on Android Wear 2.0 compatible watches with an integrated heart rate sensor.<br><br>The Communicator app requires purchase of an annual license from CommandWear. In order to subscribe, or inquire about a Pilot (test) license, contact CommandWear at info@commandwear.com.<br><br>Note: Tracking uses your phone&apos;s GPS while in the background and can be turned on/off in the app or through a central console. GPS update frequency is configurable and depending on the update frequency this can decrease battery life.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Hke7oLE6cmvk3V228uu2GLSVFe5I58mSZwaV5ou0WmDm_OEwUoElgfX7-yKiJmWRsKg=h310",
+        "//lh3.googleusercontent.com/CIvh5q8pFDGmAwsxpszwXgKKhYJ4sPqLIJSHPAIOE1VVt_0FtnZVfT8f6dBhMo3wCdM=h310",
+        "//lh3.googleusercontent.com/srEHZ3WDd2FkU76KsEsC_Uu1DH7IYUZErqqXbACAa8R7xy_6DEkU0Aj8Jf2gd_yeng=h310",
+        "//lh3.googleusercontent.com/InSI3-qg3b4VwOVOF8QquRRLXE_FKXHgl9PJzhXtzu3IjZpy2rc3UduVczwfyK2dfTw=h310",
+        "//lh3.googleusercontent.com/UbTJznZ2VMeDW75jwbCElzHZaiSvXa0qFGZRD5j-6cOJGz6o6YBccSeh5r9xHNSELmQ=h310",
+        "//lh3.googleusercontent.com/gdhfoC5e2YxYHE3myKtISE1qeISVI-lVd9on6EAsJ9Qm7nOwpE0lVs3PDL1whDaGww=h310",
+        "//lh3.googleusercontent.com/MI6ZwiXwVVrXeOb91I8fIVFzp4LH_AOjQhHebZ51DTNnZnRhSbncFbmKAFi_DYGOIA=h310",
+        "//lh3.googleusercontent.com/s4tLPt8B7bqpnpqdM6wG2Qy94EHj4norhTaI5TpwpfOgT8Ksg2ekVRfmhGRuqy3a0Kq4=h310",
+        "//lh3.googleusercontent.com/w0hKyYS4xpQDzMUHCwTflKhEVEQNwLTuGDCcgymKqMNE-RjrXuFLRctCLBj1yXzaaQ=h310",
+        "//lh3.googleusercontent.com/TvcQotBNB7CeLL9uU4R_xVYlXe3IdBJSYcpj2XLpNJf8Ak-rkT4geYOm4gQpmA_GZg=h310",
+        "//lh3.googleusercontent.com/1987s2nHo7j-_jfEm0X300K3EPRoHflbbzcxNVcF5y2q2hfw0e6o_cFoHL_hzoMD70Ri=h310"
+    ],
+    "video": "https://www.youtube.com/embed/xY7MND70Ghc",
+    "comments": [
+        "Doesn't work any more"
+    ],
+    "recentChanges": [
+        "This release adds more advanced support for map annotations. You can now drop a pin within the app and share it with Commanders, and can hide/show individual annotations on your map."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.commandwear.android&hl=en&gl=us",
+    "appId": "com.commandwear.android"
+}

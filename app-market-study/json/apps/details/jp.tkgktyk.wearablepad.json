@@ -1,0 +1,52 @@
+{
+    "title": "Wearable Pad",
+    "summary": "Control your phone/tablet from Android Wear",
+    "icon": "//lh3.googleusercontent.com/pbhq80N8a9G8vy4a7HwjibMvMJjdlqBZ1o9dt-hIiA7nUGbFiSYZZhxR-G3cCdmL6Ic=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.6,
+    "reviews": 16,
+    "developer": "tkgktyk",
+    "developerId": "tkgktyk",
+    "developerEmail": "tkgktyk+wearablepad@gmail.com",
+    "developerWebsite": "https://github.com/tkgktyk/WearablePad",
+    "developerAddress": "2-23-6 Minaminaruse\nMachida-shi\nTOKYO\n194-0045, Japan",
+    "updated": "May 21, 2015",
+    "version": "0.4.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "** REQUIRES ROOT PERMISSION **Wearable Pad makes virtual mouse cursor for handheld (paired Android phone/tablet).Wearable Pad is open source on GitHub.Source code, instruction and description for UI are here:https://github.com/tkgktyk/WearablePad",
+    "descriptionHTML": "** REQUIRES ROOT PERMISSION **<br>Wearable Pad makes virtual mouse cursor for handheld (paired Android phone/tablet).<br><br>Wearable Pad is open source on GitHub.<br>Source code, instruction and description for UI are here:<br>https://github.com/tkgktyk/WearablePad",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 3,
+        "4": 5,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/7T6jPC9k0eMLRct7HBZa4Q5nkEop0eKqmQ5McN0FJ30Bw77J8ulEt-OkDurdaVsYMg=h310",
+        "//lh3.googleusercontent.com/VbPzWc0kD-nOzattrSBxsqXcaDfL3rnaQOmor33RByj17NCOlEa-jiWbrRKQA-tkRg=h310"
+    ],
+    "video": "https://www.youtube.com/embed/_Xd0CTNc1C8",
+    "comments": [
+        "Does this work on anyone's oneplus one? I can control the cursor and the arrow buttons actually have the same effect as a swipe on the screen, but tap doesn't work and tap and drag doesn't work either.",
+        "Does not work... I am able to get it to connect to my phone; however, single touches and drag and drop don't work.  Please fix.",
+        "Doesn't work This app has majore potential. But it doesn't work. Whenever I open it up on my moto 360 it crashes the phone side of it. I forgot to say that I don't have root. That's probably why it won't work",
+        "Works great Simple and does as its intended to. Here's hoping for an update with a better looking cursor though. Possibly the traditional mouse look or something.",
+        "Good start. Pretty laggy cursor movement on nexus 5x and Huawei watch, it's not that bad very useful but can be better. Im confused is the arrows to click? When I try to tap in the middle of the pad I can only get the cursor to move but not to open apps and such."
+    ],
+    "recentChanges": [
+        "Always-On Screen"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jp.tkgktyk.wearablepad&hl=en&gl=us",
+    "appId": "jp.tkgktyk.wearablepad"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Nixie Watch",
+    "summary": "A watch face powered by nixie tubes.",
+    "icon": "//lh3.googleusercontent.com/F2n7DAoiNj9p0442pkZ3BtG4UiwVEAOqXj8LpW5W2DbvqagZGPgZELgAG7ul8hgk_UE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.1,
+    "reviews": 140,
+    "developer": "Marco van Hylckama Vlieg",
+    "developerId": "Marco+van+Hylckama+Vlieg",
+    "developerEmail": "marcovhv@gmail.com",
+    "developerWebsite": "https://plus.google.com/communities/117764868157901311082",
+    "updated": "December 13, 2017",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "What's not to like about a Nixie tube powered watch?Features low-power Ambient mode and a neat flicker effect for added realism. Compatible with both round as well as rectangular watches.Warning: Currently doesn't support 2nd gen smartwatches such as Huawei, Moto2, etc. I'm working on fixing this.",
+    "descriptionHTML": "What&apos;s not to like about a Nixie tube powered watch?<br><br>Features low-power Ambient mode and a neat flicker effect for added realism. Compatible with both round as well as rectangular watches.<br><br>Warning: Currently doesn&apos;t support 2nd gen smartwatches such as Huawei, Moto2, etc. I&apos;m working on fixing this.",
+    "histogram": {
+        "1": 30,
+        "2": 29,
+        "3": 20,
+        "4": 24,
+        "5": 37
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/zlNpdWYYrZnFjOH0_U6fIKxpxlFWEtD1oCI5xF4TIhwciZXa8uBWjzVka7SFXZxWFA=h310",
+        "//lh3.ggpht.com/ZJs_0r_v0BAwTrzoRruvgpOjkAJKOU0ZKMMnC6DTx1Ie5Rt8p_hVjr_FEeMudOmJ3bW0=h310"
+    ],
+    "video": "https://www.youtube.com/embed/wFePjFJLAnk",
+    "comments": [
+        "This looks really nice but it is off center on my Moto 360 2nd gen, it is really annoying and I would be grateful if this could be fixed as this is the only free Nixie tube watch face and it looks professional.  15/12/17 Edit: I have tried it again and it is still in the top left corner, not centered, sorry :(",
+        "Beautiful but broken on Huawei Works great and is beautiful on my old Moto360v1. It is off center and unusable on my new Huawei watch. Also, where is the 24H Option? This is a pretty big omission. Fix these 2 issue then it is 5*'s.",
+        "Yay for nixie - moto 360 Nice nixie tube looking watch face. Has a flicking effect, would like to have a toggle for that. Also a 24 hr mode?",
+        "Not centered at all on my Huawei, which is too bad because it would be AWESOME if it was.  Please update to center the graphic.  It's completely unusable as is, but the potential for cool is obvious.",
+        "Does not work on Moto 360 2 Image is off center to the top left.",
+        "not centered on Huawei Off to top left on Huawei watch"
+    ],
+    "recentChanges": [
+        "Fix for scaling issues on Moto 360"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.marcovhv.nixieface&hl=en&gl=us",
+    "appId": "com.marcovhv.nixieface"
+}

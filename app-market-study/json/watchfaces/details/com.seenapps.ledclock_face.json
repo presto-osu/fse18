@@ -1,0 +1,54 @@
+{
+    "title": "Led Clock Watch Face",
+    "summary": "This is the free/simplified version of Led Time. A classic led clock watch face.",
+    "icon": "//lh4.ggpht.com/FRAS7maaYqGtrqSD4ugapkyrjmX9ELHXITZL_TOpicqlt9-luDKYG8NDltVfH32IXA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4,
+    "reviews": 792,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerWebsite": "http://www.seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "April 28, 2015",
+    "version": "2.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "A classic led clock watch face.You can read hours and minutes as text while seconds are represented on the outer rim.Ambient mode is achieved by lowering brightness and removing seconds dots.Since Version 2.0: Led colors can be selected with the on-watch configuration (red,blue,green,yellow and white)Since Version 2.3: Added proper 12h mode support based on your locale settings.This watch face is inspired on the original Android App by Kaspar Metz, which is available on Google Play as \"Studio Clock\"If you like our watches, we publish updates and previews at https://twitter.com/SeenApps",
+    "descriptionHTML": "A classic led clock watch face.<br>You can read hours and minutes as text while seconds are represented on the outer rim.<br>Ambient mode is achieved by lowering brightness and removing seconds dots.<br><br>Since Version 2.0: Led colors can be selected with the on-watch configuration (red,blue,green,yellow and white)<br>Since Version 2.3: Added proper 12h mode support based on your locale settings.<br><br>This watch face is inspired on the original Android App by Kaspar Metz, which is available on Google Play as &quot;Studio Clock&quot;<br><br>If you like our watches, we publish updates and previews at https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 77,
+        "2": 42,
+        "3": 102,
+        "4": 173,
+        "5": 398
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/nAAw35_diYx-tWPSpNBvZhiQJYIA4l7hmDoVfVhv6nWUiKUjxGoyz6PzeM0K_b94o7bj=h310",
+        "//lh3.googleusercontent.com/5QzbpJxTvYyOlW13FzlDaQa9AXGP0eLnvreGgOGhY7GkroRI1NMuzrSkz4vHLWb4YxQ=h310",
+        "//lh3.ggpht.com/MzQivlrk1ksb7s1BBthMg0xbqXqXZWpMwAXErH4a81SxTb4w0TeTWc74hoPjllJvnUQ=h310",
+        "//lh4.ggpht.com/YdOdqwuR3TfyrATyTwGtcXOVHjxCtapft6gd8olePFkTOhvVczBOr4TxmR8CQATQOEA=h310"
+    ],
+    "comments": [
+        "I really like it but.... As the title suggests i really like the look of the watch face, however, it seemed like it drained my watches battery in 4 hours, however its been stuck on 6% for the last 4 hours...bug maybe? Fixable with an update? I really like it but i dont know how long its going to last.",
+        "Almost Retro..Good Watch Face I am old enough that I had a Timex watch with the black face that showed the time as a red LED and it was so advance in the 1970's, the time showed when you turned your wrist.  I want that watch face, this is real close, I would like options to turn off everything but the time and make time larger or smaller.",
+        "Dull... Hardly visible Great idea, but background to the time blends into the numbers being shown often, so time is always 88:88.... Shame",
+        "CMS I just got it and figured out how to change the colors I like the colors too bad you couldn't change the colors to whichever one you want I'm sure you can do that in a future update if you want but so far it's a good one keep up the good work Chris",
+        "Can you make the dim red lights/ circles more dim.. They aren't dim enough to tell them apart from the ones that are at full brightness and are meant to show the time",
+        "color ambient mode Please make a color ambient mode,  the black and white mode is boring and will probably use the same amount of battery power as a color one."
+    ],
+    "recentChanges": [
+        "Fixed inverted 12h mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.ledclock_face&hl=en&gl=us",
+    "appId": "com.seenapps.ledclock_face"
+}

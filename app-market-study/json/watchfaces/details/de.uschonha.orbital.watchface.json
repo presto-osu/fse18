@@ -1,0 +1,54 @@
+{
+    "title": "Orbit Alpha Watch Face",
+    "summary": "Mysterious Alien Orbital Timepiece for Android Wear smartwatch.",
+    "icon": "//lh3.googleusercontent.com/5-25_O9VfYPV0X5xvk5nkL5XWxqGKu1IhBBtBzRy7dw37ucKBi6Cr6XpfLWsSSaZbXM=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.8,
+    "reviews": 4,
+    "developer": "Ulrich Schonhardt",
+    "developerId": "Ulrich+Schonhardt",
+    "developerEmail": "schonhardt@gmail.com",
+    "developerAddress": "Gluckstr. 5\nKarlsruhe, 76185\nGermany",
+    "updated": "February 10, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Watch Face Features: * Hybrid analog/digital design * Mysteriously orbiting dials * Big jumping hour* Accurate battery level * Minimal battery usage * Day and Date display * Pick one of 12 accent colors * Ambient mode to protect OLED * Optional full Color Ambient for LCD * Android Wear smart watch required",
+    "descriptionHTML": "Watch Face Features: <br><br>* Hybrid analog/digital design <br>* Mysteriously orbiting dials <br>* Big jumping hour<br>* Accurate battery level <br>* Minimal battery usage <br>* Day and Date display <br>* Pick one of 12 accent colors <br>* Ambient mode to protect OLED <br>* Optional full Color Ambient for LCD <br>* Android Wear smart watch required",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/cmYJ8IMopv8v7bwGVChaq1Waq5pE77zk2flTFlmlBkfVkSHm54MGeafp4GRgC0X2UVE=h310",
+        "//lh3.googleusercontent.com/-_KgO_WvBZK9NAzmQiFeezSXGbxRgHvdiLQUVpJPYJ2n9lKnz-MTPFGMBhODjdu6FBQ=h310",
+        "//lh3.googleusercontent.com/QUL43nHhu81Lo6IooKHeMyfP0bImOcrJGB_BblyYiCv9T47Bm0Xc0KQhz0FlmBCGC1k=h310",
+        "//lh3.googleusercontent.com/4eRFFo3tTpYPPB3hT6vQB426bFTUNskDDUIZkGwFwGqY_2POVRd1ckWSjqwAqwt9wQ=h310",
+        "//lh3.googleusercontent.com/bEBgm8KtfDRqVrTU-_sY8UWydOcuQaoMHJact1130VnqtwtSj3Qfza-2TcTqlNJECQ=h310",
+        "//lh3.googleusercontent.com/9TOALsfXhxp4OTzGQRaDfrONaXnpx08hv5r_prvUkxa4JH3QzD5a8S-L2t-v6ELwUoE=h310",
+        "//lh3.googleusercontent.com/sETirSKQxyz9Cmm0i9bsWEiiK39VXJ5tOaUswzoqDhovwSZtH1-K-wtpEgc7QZcROP0=h310"
+    ],
+    "comments": [
+        "most cool thanks dev.. cool and needed details.. nice...could do with screen time out setting maybe",
+        "Installed does not work"
+    ],
+    "recentChanges": [
+        "* Compiled for Wear 2.0 standalone mode.",
+        "* Setting: Color Ambient mode on/off"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.uschonha.orbital.watchface&hl=en&gl=us",
+    "appId": "de.uschonha.orbital.watchface"
+}

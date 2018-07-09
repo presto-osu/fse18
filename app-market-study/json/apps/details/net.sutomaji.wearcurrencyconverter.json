@@ -1,0 +1,57 @@
+{
+    "title": "Wear Currency Converter",
+    "summary": "With the Wear Currency Converter you can convert any currency to your currency.",
+    "icon": "//lh3.googleusercontent.com/Em0TkmXhmZIIAOKZ6VN-m3K3Aukn8zya8guqLTd2UoKx0IeR5gCbJB3_vRTOuj0Nhg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.4,
+    "reviews": 5,
+    "developer": "tomschneider",
+    "developerId": "8721646781952863689",
+    "developerEmail": "developer@sutomaji.net",
+    "developerWebsite": "https://vigonotion.com",
+    "updated": "October 18, 2015",
+    "version": "1.1",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "description": "With the Wear Currency Converter you can convert any currency to your currency. Simply set your exchange rate on your phone and you're set.",
+    "descriptionHTML": "With the Wear Currency Converter you can convert any currency to your currency. Simply set your exchange rate on your phone and you&apos;re set.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/4znC4sXLb6B7RdzKdmVKppoIZP5Iy3Z-lPAsaR8jPUGbJzJmhcfI51DSnkw_hSHiqYg=h310",
+        "//lh3.googleusercontent.com/mngsoRGOGpspOKbFb3n0oKLDeE2CW492-67DaaWY8J9HySkf_AdW1EYdZ0MA8NLm7A=h310",
+        "//lh3.googleusercontent.com/sIQYWxiRQMMrpXlzVlP-bk75qvsc1E-gPRWVdFl16mY5bBPrSM4i3XIGa8hU_hLALQ=h310",
+        "//lh3.googleusercontent.com/h3MRA9jBJkYdcZ_xw8PDMjQHG41cf8mbMlsR8rXorFGIsoLeRgLV0OYWgl5s7IsK4czA=h310",
+        "//lh3.googleusercontent.com/d8_bBVscdbYBwqGGIjW-npDmuptkW_A3bQyUdvF-gpZm2Fh2IayogN3FLaN4iCee3Q=h310",
+        "//lh3.googleusercontent.com/bA5hdMYcsovli1ml8C9BoTu7rkM670bMxmg4h7RUS7IorZOblDf6-fu9UU-FBHoF5V8=h310",
+        "//lh3.googleusercontent.com/E26s8Y8zSxMFuWrtHAXDLY0ugKExdLNetugBTOQcb_Jgzb9Tyni2moaKpo4CPUdI5Zk=h310",
+        "//lh3.googleusercontent.com/-nAZAmbYcTNqFhwSjJGqCZM2AWo0auI_ufgwfDU7FL3VBHB8__U0H2VJCAU_oidUPJQ=h310",
+        "//lh3.googleusercontent.com/Jh-YYjWT5-p2fZBUk09kTTyUa4Ztj0aEB2oSjGYYiOBuDOLsBU6DNY7lvHxRr4HL5iI=h310"
+    ],
+    "comments": [
+        "Primitive junk!!! Don't waste your time and inet traffic! I'm deleting immediately!!!",
+        "Can't add decimal place to currency"
+    ],
+    "recentChanges": [
+        "New in version 1.1:",
+        "* added language: Spanish",
+        "* updated text fields for better usability",
+        "* deleted unused files (now ~5MB, before it was more than 20MB)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.sutomaji.wearcurrencyconverter&hl=en&gl=us",
+    "appId": "net.sutomaji.wearcurrencyconverter"
+}

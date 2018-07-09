@@ -1,0 +1,43 @@
+{
+    "title": "Colored Circle Watch Face",
+    "summary": "Minimalist watch face showing hours in text and minutes as a circle behind.",
+    "icon": "//lh4.ggpht.com/9jYmlikpyXERAGGh2yINoHHxd8MgKJmXypD4n_0-XdFMPp7ob-e-WnM84VAGY_TeMwko=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 5,
+    "reviews": 1,
+    "developer": "Elektrocyklotronium",
+    "developerId": "Elektrocyklotronium",
+    "developerEmail": "andreas@elektrocyklotronium.com",
+    "developerWebsite": "http://elektrocyklotronium.com",
+    "developerAddress": "Hästhagsvägen 8\n44836 Floda\nSweden",
+    "updated": "December 24, 2014",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Shows only hours as text and has a circle that changes size every minute. Configurable black or white background, the background changes color every sixth minute.",
+    "descriptionHTML": "Shows only hours as text and has a circle that changes size every minute. Configurable black or white background, the background changes color every sixth minute.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/uTwTeT6_SIMt5GREIBwBQZgyytUKt-8JkedC3AvTMkO4v1xAu8yyL4N39zkNTmEHKgxg=h310",
+        "//lh6.ggpht.com/GAelf1tpmiNHREqcGWXaVmjIERAfFGavMx3vdA82rJNdqanwn2IDUP15foK_weF-N1KQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.elektrocyklotronium.cbwf&hl=en&gl=us",
+    "appId": "com.elektrocyklotronium.cbwf"
+}

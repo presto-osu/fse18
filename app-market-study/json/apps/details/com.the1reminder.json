@@ -1,0 +1,52 @@
+{
+    "title": "Atlas Reminder",
+    "summary": "Easy to use and flexible to-do list app",
+    "icon": "//lh3.googleusercontent.com/e4l0xuyAnTUEGQxsQqYPmr8b8X9BxDkz3n8ySUbUhK5kV4hocCq1G2FDFngIruPeq4I=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.7,
+    "reviews": 2692,
+    "developer": "Atlas Profit",
+    "developerId": "Atlas+Profit",
+    "developerEmail": "dev.1reminder@gmail.com",
+    "developerWebsite": "https://docs.google.com/document/d/1I92d3V9fyzbvj4QDSwH5fuh7t_sKK68KkmQrGiv7l7U/edit?usp=sharing",
+    "developerAddress": "299 Freemont St\nSan Francisco, CA 94105\ndev.1reminder@gmail.com",
+    "updated": "December 21, 2017",
+    "version": "1.3.3",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Busy professionals such as yourself might expect a lot of tasks and events throughout life. Let this essential app help you in organizing and remembering those appointments and sessions thoughtfully! With a user-friendly interface made from the latest Material Design, you can easily list down your daily routines or upcoming events without hassle.",
+    "descriptionHTML": "Busy professionals such as yourself might expect a lot of tasks and events throughout life. Let this essential app help you in organizing and remembering those appointments and sessions thoughtfully! With a user-friendly interface made from the latest Material Design, you can easily list down your daily routines or upcoming events without hassle.",
+    "histogram": {
+        "1": 74,
+        "2": 34,
+        "3": 64,
+        "4": 264,
+        "5": 2256
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ivT92UTzCB_c5zc3PGsLhc6iYPKfHmMm9Qp8Y_a9gOUXjA_sYmoHpbQZoG-5mro4Nbw=h310",
+        "//lh3.googleusercontent.com/EyriCWYygV1iYSzxvnw_NxWdIF5TfLQh9AgIRkET8MejPbPgomfjKestVO1ZICQvJJI=h310"
+    ],
+    "comments": [
+        "Multiple bugs have been reported by me, took some time until at least the most annoying got fixed",
+        "Full-screen time locked ads after snoozing. No go!",
+        "Too confusing to setup. Unclear on full scope of services available. Not intuitive.",
+        "Never buy this app.. its not working :(",
+        "Hands down, best app for making quick reminders.",
+        "Very useful and easy. Would appreciate it more if they can backup in the cloud so i can restore easily after hard reset."
+    ],
+    "recentChanges": [
+        "- bugfix and stability improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.the1reminder&hl=en&gl=us",
+    "appId": "com.the1reminder"
+}

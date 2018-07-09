@@ -1,0 +1,48 @@
+{
+    "title": "Wear Battery Watcher",
+    "summary": "A way to check the battery of your phone from your wear device.",
+    "icon": "//lh6.ggpht.com/PBPUw-zYjfpUBk6VLV6Ke5GmJkC5ovw20pk7trUwWr5u8C46TabJiPWKYKb88qsptMc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.5,
+    "reviews": 18,
+    "developer": "Jinaud",
+    "developerId": "Jinaud",
+    "developerEmail": "jinaud1@gmail.com",
+    "updated": "February 24, 2015",
+    "version": "1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "I noticed that, when my phone is across the room charging, there is no way to check it's battery percentage from my Android Wear Watch. This also gave me a good excuse to begin exploring the Android Wear APK. This app was meant to be educational and small, but let me know if there are any complaints / comments / improvements needed.",
+    "descriptionHTML": "I noticed that, when my phone is across the room charging, there is no way to check it&apos;s battery percentage from my Android Wear Watch. This also gave me a good excuse to begin exploring the Android Wear APK. <br><br>This app was meant to be educational and small, but let me know if there are any complaints / comments / improvements needed.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 5,
+        "4": 2,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3.3 and up",
+    "androidVersion": "2.3.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/9unAteQw56Fd-bh66JfRmpudLnevWXSxuloUwVWy-JSzdt0m2yX3MS6SUOT8ksAsAe7X=h310",
+        "//lh3.ggpht.com/X1VudCCjY_fHa3wwkPy8JVrbg27Ppz0mXWlY5ppp4N0UbyDlfGkU2JRebLoUoZiD-lU=h310"
+    ],
+    "comments": [
+        "This is exactly what I have been looking for.  An app that is not a FACE to show me my phones Battery%.  I can't count how many times my phone in in my pocket or bag while biking  or another room and I want to know if it needs charging.   Finally I can check my battery while riding my bike to see if I have enough to battery to stream music for the rest of my trip or if I need to stop streaming.  *small bug, sometimes it shows 0% battery and I have to close then re-open it to see actual percentage.",
+        "I've been looking for just thing for a long time. Thank you so much for making it! It said 0% when I first opened it, but when I reopened it, the correct status was displayed. Thanks again!",
+        "It would be nice if this actually worked... Most of the time it doesn't...",
+        "Simple app, does exactly what I want. Great job!",
+        "As advertised Does exactly what it says (and what I needed!)",
+        "A++ At first give it a few mins to sync"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=jinaud.wearbatterywatcher&hl=en&gl=us",
+    "appId": "jinaud.wearbatterywatcher"
+}

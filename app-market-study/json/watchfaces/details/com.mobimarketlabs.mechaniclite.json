@@ -1,0 +1,54 @@
+{
+    "title": "Watch Face Mechanic Lite",
+    "summary": "Watch face for all screen types with support modern smartwatches.",
+    "icon": "//lh3.googleusercontent.com/E1joY-EDrOP0OgCP5Ip1zHwhjGD8udDluihp3AnKOG5T3PT0jWwn9iKK7XXpsjQ-QA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.2,
+    "reviews": 707,
+    "developer": "Mobi Market Labs",
+    "developerId": "5223430743382074343",
+    "developerEmail": "support@mobimarketlabs.com",
+    "developerWebsite": "https://mobimarketlabs.com",
+    "developerAddress": "proizd Voenniy 6\nKherson, Khersons'ka oblast 73000\nUkraine",
+    "updated": "December 20, 2016",
+    "version": "1.1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch face with steps counter, AM/PM and battery level dials. Working fine on all screen types (round/square) newest and oldest models: moto360 2gen., TAG Heuer Connected, Sony SW3, LG G W100, LG R W110, Asus Zen Watch and others.Configuration supported languages- English- Français- Deutsch- Українська- Русский- 中文 （繁體）Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.Warning: watch face ONLY FOR ANDROID WEAR smartwatches.",
+    "descriptionHTML": "Watch face with steps counter, AM/PM and battery level dials. Working fine on all screen types (round/square) newest and oldest models: moto360 2gen., TAG Heuer Connected, Sony SW3, LG G W100, LG R W110, Asus Zen Watch and others.<br><br>Configuration supported languages<br>- English<br>- Fran&#xE7;ais<br>- Deutsch<br>- &#x423;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x441;&#x44C;&#x43A;&#x430;<br>- &#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;<br>- &#x4E2D;&#x6587; &#xFF08;&#x7E41;&#x9AD4;&#xFF09;<br><br>Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.<br>Warning: watch face ONLY FOR ANDROID WEAR smartwatches.",
+    "histogram": {
+        "1": 56,
+        "2": 21,
+        "3": 60,
+        "4": 144,
+        "5": 426
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ux4eyAQhYyy0Q1IfUTvAh1wujk0ZWiWoeB6zaS0HsqDIuM_ZXa9rfM8xjbmNR-PIeQ=h310",
+        "//lh3.googleusercontent.com/cimqbKml8yS5-oBNfoogA1nto53GI4LPRhw87CP8h8jGQO8uW-LEqMlHSiyfytybIAVU=h310",
+        "//lh3.googleusercontent.com/K27mJOjuse-GhGD5UdhJEBn0wpOcxwLjdCviylqtrsOJPNp9EFDDrbIkdfdl15f17g=h310",
+        "//lh3.googleusercontent.com/hipzdZQQV_Mg5KJ-b1PDXyeGa5vmJuD6nmx5lLYgYlHC6D02g45bSG1heA1mKV2Ckw=h310"
+    ],
+    "comments": [
+        "I see peps going on about it draining your battery on your watch. I installed it to my G watch via the android wear app a over 90mins ago, with batt saver switched on even after numerous facebook twitter email & texts alerts received its used 1% off battery life!!! On top of that it looks cool 😊",
+        "Looks nice but drained my smartwatch 3 battery in less than an hour.  This renders it useless for day to day use.",
+        "Bad app I cant open it very bad",
+        "Would like option to not display the bezel, since my Tag has one on the outside",
+        "Amazing but can't open it, so no comments until I use it",
+        "It would have been great if there was a weather widget."
+    ],
+    "recentChanges": [
+        "- smart watches: configuration bug fixed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mobimarketlabs.mechaniclite&hl=en&gl=us",
+    "appId": "com.mobimarketlabs.mechaniclite"
+}

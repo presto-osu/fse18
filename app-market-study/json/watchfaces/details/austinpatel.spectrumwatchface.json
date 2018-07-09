@@ -1,0 +1,51 @@
+{
+    "title": "Spectrum Watch Face",
+    "summary": "Spectrum is a customizable and animated watch face for Android Wear!",
+    "icon": "//lh3.googleusercontent.com/js_bIXb2Y6xcFMV4TmRqf9_yoepvap8lNi83gd5NjuBR1NHJD9BguDWzj4qMsWVs1g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.3,
+    "reviews": 7,
+    "developer": "Austin Patel",
+    "developerId": "Austin+Patel",
+    "developerEmail": "austinapatel@gmail.com",
+    "updated": "August 15, 2015",
+    "version": "1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Features★ Mix of digital and analog parts★ Custom colors★ Smooth animations★ Ambient display★ Battery indicatorIf watch face does not show up1. Open Android Wear app on phone.2. Tap the settings button (gear) in the top right corner.3. Tap on watch name.4. Tap \"Resync apps\".5. Wait a few minutes.6. Or uninstall and reinstall.How to change second hand color from smartwatch.1. Long tap on watch face when screen is on.2. Scroll to either side and find watch face.3. Tap on settings button (gear) below watch face.4. When app opens scroll through colors and tap on desired color.How to change hour, minute and second colors from phone.1. Open the Android Wear app on the phone.2. Click the \"more\" button to the right of the \"Watch faces\" header.3. Find the watch face titled \"Spectrum\" and tap it to set it as the current watch face4. Tap the settings button (gear) that appears on top of the watch face once seleted on phone.5. Change colors for desired look.Supported devices✓ Works on all Android Wear devices.✓ Supports circular (Moto 360) and rectangular (Samsung Gear Live and LG G Watch) smartwatches.X Does NOT work on Samsung Gear Live and other smartwatches that use other opperating systems.",
+    "descriptionHTML": "<b>Features</b><br>&#x2605; Mix of digital and analog parts<br>&#x2605; Custom colors<br>&#x2605; Smooth animations<br>&#x2605; Ambient display<br>&#x2605; Battery indicator<br><br><b>If watch face does not show up</b><br>1. Open Android Wear app on phone.<br>2. Tap the settings button (gear) in the top right corner.<br>3. Tap on watch name.<br>4. Tap &quot;Resync apps&quot;.<br>5. Wait a few minutes.<br>6. Or uninstall and reinstall.<br><br><b>How to change second hand color from smartwatch.</b><br>1. Long tap on watch face when screen is on.<br>2. Scroll to either side and find watch face.<br>3. Tap on settings button (gear) below watch face.<br>4. When app opens scroll through colors and tap on desired color.<br><br><b>How to change hour, minute and second colors from phone.</b><br>1. Open the Android Wear app on the phone.<br>2. Click the &quot;more&quot; button to the right of the &quot;Watch faces&quot; header.<br>3. Find the watch face titled &quot;Spectrum&quot; and tap it to set it as the current watch face<br>4. Tap the settings button (gear) that appears on top of the watch face once seleted on phone.<br>5. Change colors for desired look.<br><br><b>Supported devices</b><br>&#x2713; Works on all Android Wear devices.<br>&#x2713; Supports circular (Moto 360) and rectangular (Samsung Gear Live and LG G Watch) smartwatches.<br>X Does NOT work on Samsung Gear Live and other smartwatches that use other opperating systems.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/AFsgtsyhTPyg1aijNBOLetcSqSDdT-K83DMAL69dggAWyxHCzi0D6PXOx9Tf35P0288=h310",
+        "//lh3.googleusercontent.com/e3TNW8W-fvUzhqtSOvQb3k0vaHX6r7UqSy8Pr77bOK6B-uKI5o-DUOyhlXXBPpCPnPI=h310",
+        "//lh3.googleusercontent.com/kO9UepijNlHdhvOMHstHTnwaDAGBuB5jivRBsY0Ab6S9TLEDhrjOlvCbTupjp5YzSdmw=h310",
+        "//lh3.googleusercontent.com/oXQb9QuMKHRj-hgLGSu5gQC0NbxtqtUASIrfAe4udkVPrCVjdTel6wvVB0eLzQvf5SU=h310"
+    ],
+    "comments": [
+        "Surprised by ambient mode I usually prefer seeing minutes than the hour, but this is so well done it's instantly readable. Like the animation,too",
+        "Love the analog dials and animation.  I  also appreciate the watch battery level on the dial.",
+        "Bueno Great watch face. Y'all should download"
+    ],
+    "recentChanges": [
+        "1.5",
+        "- Increased minute hand size.",
+        "- Increased font size."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=austinpatel.spectrumwatchface&hl=en&gl=us",
+    "appId": "austinpatel.spectrumwatchface"
+}

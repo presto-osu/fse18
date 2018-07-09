@@ -1,0 +1,48 @@
+{
+    "title": "BinaryWatch",
+    "summary": "Watch face for android wear",
+    "icon": "//lh3.googleusercontent.com/u4ESOFAE-pV-ihIymaj-Lh3tUaSg4E_LoVKDubFdqNBn_VVeg5Z2hV6TKE7y-66Lgd5B=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 2,
+    "developer": "Aarón Angulo",
+    "developerId": "Aar%C3%B3n+Angulo",
+    "developerEmail": "orlandospin2win@gmail.com",
+    "developerAddress": "Cd. Obregón Sonora, México CP 85160",
+    "updated": "October 15, 2016",
+    "version": "1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "BinaryWatch it's a watch face that simulates being a binary watch. It can be configured visually by many ways, white or black background, circles or squares as figures, the figure's colors can be changed for hours, minutes and seconds.Besides, you can change the elements on screen, like the seconds, the date, etc.If you don't know how to read a binary watch, the application comes with a help that shows the numeric value of the column that represents.",
+    "descriptionHTML": "BinaryWatch it&apos;s a watch face that simulates being a binary watch. <br><br>It can be configured visually by many ways, white or black background, circles or squares as figures, the figure&apos;s colors can be changed for hours, minutes and seconds.<br><br>Besides, you can change the elements on screen, like the seconds, the date, etc.<br><br>If you don&apos;t know how to read a binary watch, the application comes with a help that shows the numeric value of the column that represents.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-BDHeFavOu-bztIIJt-Kp-pPjrcv0BUNMwvVepuEn3o6ezm-b8zuVLU53DlybGOBnA=h310",
+        "//lh3.googleusercontent.com/vOGv3Fpp0MDnSI8UNnhzIMVdUyYkPaIp4u5MrfavBrhyhCrnA8nhXl463-yYDNU3tNM=h310",
+        "//lh3.googleusercontent.com/Zl4b93YP7k_ig4HxUEVMBJK3ShWpAU0Nl1jwDZ1BswqUBk1Qgerhc86axxPaTGXfh4bF=h310",
+        "//lh3.googleusercontent.com/GQerlt1tUVlBFyN5iiT4R6rH_znqnMxPlj9YSD1N39fD1cRICDs_7SDDiKW087WOs8g=h310",
+        "//lh3.googleusercontent.com/_SQrzBpeK04tS67fJZwPZnM0uUGF37BGRonPR8lkfYjQ6ERzElPxnMBEpK4GuTZlJQ=h310",
+        "//lh3.googleusercontent.com/WdFJIhEbfWw86fOHtLZWgBLHVi5pSvHzFSWYVIwHaOfaGRy9z71QhBs-solt92TIIQ=h310"
+    ],
+    "comments": [
+        "Binary for Android Wear like it should be. Finally! A binary watchface that has all the options it should have, including 12 hour format! The only thing I'd like to see is more color choices or a rgb or hex color picker."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sigmabrio.penchi.binarywatch&hl=en&gl=us",
+    "appId": "com.sigmabrio.penchi.binarywatch"
+}

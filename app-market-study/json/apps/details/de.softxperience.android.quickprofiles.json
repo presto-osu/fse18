@@ -1,0 +1,59 @@
+{
+    "title": "Quick Profiles",
+    "summary": "Create &amp; activate profiles like you are used to from older mobile phones!",
+    "icon": "https://lh5.ggpht.com/Ly4jlV3I8RdKdwYdhSefLuulbiM1BGAMsUKgPDfsd7pikMy9DJvsV0zQwIbQRDtxtKvX=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.2,
+    "reviews": 3035,
+    "developer": "SoftXperience",
+    "developerId": "SoftXperience",
+    "developerEmail": "support@softxperience.com",
+    "developerWebsite": "http://www.softxperience.mobi/68-1-Quick-Profiles.html",
+    "developerAddress": "SoftXperience\nSandfurther Str. 15\n28790 Schwanewede",
+    "updated": "October 21, 2016",
+    "version": "1.9.9",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "A simple profiles app. Create profiles with ringer & volume settings, ringtone, brightness, timeout, also state of wifi, bluetooth & hotspot.Also create shortcuts to profiles on home screen.Please note: App is NOT intended to switch profiles automatically! Just manual!For widget & icons get the Pro add-on!Changing GPS, 2G/3G is NOT possible due to limitations of Android!",
+    "descriptionHTML": "A simple profiles app. Create profiles with ringer &amp; volume settings, ringtone, brightness, timeout, also state of wifi, bluetooth &amp; hotspot.<br>Also create shortcuts to profiles on home screen.<br><br>Please note: App is NOT intended to switch profiles automatically! Just manual!<br><br>For widget &amp; icons get the Pro add-on!<br><br>Changing GPS, 2G/3G is NOT possible due to limitations of Android!",
+    "histogram": {
+        "1": 184,
+        "2": 129,
+        "3": 330,
+        "4": 783,
+        "5": 1609
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.1 and up",
+    "androidVersion": "2.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/0CcQM5eHhAE_gHE3SCDRpgpJE17HrG2oTcokbqpvHo-G2jdbf5ourFl5TWux1cI5s18=h310",
+        "//lh3.googleusercontent.com/8YYabFU-lJw7N6A7csCRbtb_VADXilqj-2WHMqMcSl9m_hefbaLblpFeXs-YZbF3Sgk=h310",
+        "//lh3.googleusercontent.com/Wc6XqU7yqgeZECTmJohYNvXLekTBuoz5RXCye9CJpWiEFLGNLLQkejiBxGlfgffykg=h310",
+        "//lh3.googleusercontent.com/SrOm8sizBcVH0Cuj1SAgIWqeL1Oi2XODW41c91tst2EFjfyPTxUveMaPoGzDkZLJjso=h310",
+        "//lh3.googleusercontent.com/ndKpLFthzu1Haao7XB0GdV6HO14wbALfE1MB_FCbk-tNamTZ08ED29ZtUiBwkfGvPNW5=h310",
+        "//lh3.googleusercontent.com/Tbnjolj3MWDZN5s3Kwu6ZPJYgyhM_oy6YC35xBTn8LfHgLFcXKplT4B1xFuYgeKzDqk=h310"
+    ],
+    "comments": [
+        "As good as Nokia profiles I used to be a long time user of Nokia phones. When I shifted to Windows phone and later to Android, the one feature of Nokia I missed very much was the different profile. But this app is really at par with Nokia profiles. You can create new profiles & customise as in Nokia, even better. Really handy when you need to set volume levels at once. A big thanks to developer.",
+        "Edit: Fixed stated bugs. Back to 5* Earlier: But for these issues, it could get five stars. Issues: 1. When you change the profiles that show up as shortcuts on homescreen, they don't change till you swipe the screen ... this wasn't the case before three updates. One tap on the profile and it would change asap, not now  2. The names change to stock name: 'Quick Profiles' and discard the ones that have been given. Pl fix this.",
+        "My profile switching application ever since I started using Android. It's been fairly reliable over the years. But I still have hiccups with setting display brightness.",
+        "Not up to date Used to be a very good app but no longer works 100% with Marshmallow and my S7. Needs a bit of development.",
+        "Exactly what I want - only manual switching. Like old good Nokia. Works great. Thank you! (Marshmallow, Galaxy S7 edge)",
+        "Working ok in my Samsung tablet A6 android 7. One thing missing in setup is flight mode otherwise everything is ok"
+    ],
+    "recentChanges": [
+        "F/C should be fixed, I'm sorry!",
+        "RINGTONE & NOTIFICATION VOLUME are tied together on some Android 4.0.x devices by GOOGLE! I don't have influence on it, nor can I override it!",
+        "Fix for volume setting",
+        "I'm sorry for the updates, the differently behaving Android versions are really annoying."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=de.softxperience.android.quickprofiles&hl=en&gl=us",
+    "appId": "de.softxperience.android.quickprofiles"
+}

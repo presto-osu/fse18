@@ -1,0 +1,60 @@
+{
+    "title": "Marine Commander Watch face",
+    "summary": "Interactive and low battery drain the watch face for Android Wear 2.0 or above",
+    "icon": "//lh3.googleusercontent.com/tIwDOENAUuYK6KDbsmbl08i14zV64XfK2sxiC68a0dDVcNOTXgDadWhNrRdC2eJkVxSK=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.8,
+    "reviews": 419,
+    "developer": "Bosenko",
+    "developerId": "Bosenko",
+    "developerEmail": "support@bosenko.com",
+    "developerAddress": "Kosmonavtov 15-45, Toliatti, Russia, 445044",
+    "updated": "March 1, 2018",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "FUNCTIONS- Notifications counter- Weather with wind speed and sunrise/sunset times- Air pollution (quality) indicator (experimental)- Currency (include Bitcoin, use this way, e.g. \"From\" = BTC, \"To\" = USD)- Logo with compass or digital time- Date and day of week (with a counter future calendar events, for the next 24 hours)- World time with analog and digital dial and day of week- Battery level of the phone- Battery level of the smartwatch- Steps counter (via Google Fit provider)- Distance counter (via Google Fit provider)- Support third-party complications- Support Herat rate sensor- Support Barometer sensor- Support Thermometer sensor- Support Humidity sensor- Customizable color themes- Customizable screen timeout- Customizable brightness of ambient mode- Protection against burning out of pixels in ambient modeINSTALLATION1. Install app on your phone (only on Android OS 6.0 or above)2. Install app on your smartwatch (only on Android Wear OS 2.0 [Android 7.1.1 sdk 25] or above)All settings of the watch face are managed only from smartwatch.The application on the phone needed to transfer the battery level of the phone to your smartwatch. Please do not delete the app from your phone, otherwise not all indicators will work properly.On smartwatch need installed app Google Fit. This app need for steps and distance counters.PERMISSIONSLocation - access is needed to determine the weather in your area.Calendar - ccess is required for the calendar event counter.Google Fit - access is required for the steps and distance counters.PREMIUM VERSIONThe premium license removes only banner the \"demo mode\" in the bottom of the watch face. In demo mode all functions are available.IMPORANTThis watch face supports only the smartwatches on the Android Wear 2.0 [Android 7.1.1 sdk 25] and above.The compass will work correctly only if your smartwatch has magnetic field sensor.If the compass shows wrong, do not forget to calibrate it.The air pollution indicator (air quality) in the Weather complication:Leaf - green, yellow, orange, red, depending on air quality.Number below - air quality index AQI:0-50 good,51-100 moderate,101-150 unhealthy for sensitive groups,151-200 unhealthy,201-300 very unhealthy,300+ hazardous.Miles/Km - the distance from you to the air quality measuring station.If you do not see the air pollution indicator, then in your selected radius there are no stations connected to the international air quality measurement system.We can not in any way influence the availability of stations in your region.The stations for measuring air quality are present (not everywhere) in the USA, Great Britain, China, Japan and other countries.There are no stations in Africa, Russia, Ukraine, Belarus, and other countries.This function is experimental and we are not responsible for the accuracy and availability of air quality measurements.",
+    "descriptionHTML": "<b>FUNCTIONS</b><br><br>- Notifications counter<br>- Weather with wind speed and sunrise/sunset times<br>- Air pollution (quality) indicator (experimental)<br>- Currency (include Bitcoin, use this way, e.g. &quot;From&quot; = BTC, &quot;To&quot; = USD)<br>- Logo with compass or digital time<br>- Date and day of week (with a counter future calendar events, for the next 24 hours)<br>- World time with analog and digital dial and day of week<br>- Battery level of the phone<br>- Battery level of the smartwatch<br>- Steps counter (via Google Fit provider)<br>- Distance counter (via Google Fit provider)<br>- Support third-party complications<br>- Support Herat rate sensor<br>- Support Barometer sensor<br>- Support Thermometer sensor<br>- Support Humidity sensor<br>- Customizable color themes<br>- Customizable screen timeout<br>- Customizable brightness of ambient mode<br>- Protection against burning out of pixels in ambient mode<br><br><b>INSTALLATION</b><br><br>1. Install app on your phone (only on Android OS 6.0 or above)<br>2. Install app on your smartwatch (only on Android Wear OS 2.0 [Android 7.1.1 sdk 25] or above)<br><br><b>All settings of the watch face are managed only from smartwatch.</b><br><br>The application on the phone needed to transfer the battery level of the phone to your smartwatch. Please do not delete the app from your phone, otherwise not all indicators will work properly.<br><br>On smartwatch need installed app Google Fit. This app need for steps and distance counters.<br><br><b>PERMISSIONS</b><br><br>Location - access is needed to determine the weather in your area.<br><br>Calendar - ccess is required for the calendar event counter.<br><br>Google Fit - access is required for the steps and distance counters.<br><br><b>PREMIUM VERSION</b><br><br><b>The premium license removes only banner the &quot;demo mode&quot; in the bottom of the watch face. </b><br>In demo mode all functions are available.<br><br><b>IMPORANT</b><br><br><b>This watch face supports only the smartwatches on the Android Wear 2.0 [Android 7.1.1 sdk 25] and above.</b><br><br>The compass will work correctly only if your smartwatch has magnetic field sensor.<br>If the compass shows wrong, do not forget to calibrate it.<br><br>The air pollution indicator (air quality) in the Weather complication:<br><br>Leaf - green, yellow, orange, red, depending on air quality.<br>Number below - air quality index AQI:<br>0-50 good,<br>51-100 moderate,<br>101-150 unhealthy for sensitive groups,<br>151-200 unhealthy,<br>201-300 very unhealthy,<br>300+ hazardous.<br>Miles/Km - the distance from you to the air quality measuring station.<br><br>If you do not see the air pollution indicator, then in your selected radius there are no stations connected to the international air quality measurement system.<br>We can not in any way influence the availability of stations in your region.<br>The stations for measuring air quality are present (not everywhere) in the USA, Great Britain, China, Japan and other countries.<br>There are no stations in Africa, Russia, Ukraine, Belarus, and other countries.<br>This function is experimental and we are not responsible for the accuracy and availability of air quality measurements.",
+    "histogram": {
+        "1": 4,
+        "2": 4,
+        "3": 12,
+        "4": 50,
+        "5": 349
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/-fa56gm6VUhdEn1hUJDrq3bhoNwktwr66dUCnxI5AL1Mvio85V45Nld_9M5Ku3kcQI8=h310",
+        "//lh3.googleusercontent.com/CgS23YgTXCRcBHzft_gtUSPs5v1liMJWs78q3i875htzFSL9Ol6leZZcsREP8j3IS58=h310",
+        "//lh3.googleusercontent.com/vrYuCSUwpTeKnbtghGGkPaVGhR2zLX6kMRKy7KKv5ahMFqXo4eiYYFV7RC3bl2EelA=h310",
+        "//lh3.googleusercontent.com/83K3Klmj8kyo3rBcqYMmwJRDweFEwt6F_CVq241Zd2KVScEfmUn5y8R5Y0YLGTfeZhc=h310",
+        "//lh3.googleusercontent.com/cjjnaq3QCEE8_bnZjr8ZzIlRiDKsvPDiXObYEFxV5NfwtILxNQ30d_TpIVLCP8bEnN0=h310",
+        "//lh3.googleusercontent.com/S6vNW54Mr71XqNy1q3Ru40W2geBvFL5QD7kXqqN7iKvWQUXh9sArtuKq2SaXnF5pWsI=h310",
+        "//lh3.googleusercontent.com/dcWlSEikyyXsTocjoQiyfDE3gx4TiMQHC4xP2w1jgtih2vILc1s7sLaTA6n8nahrsCg=h310",
+        "//lh3.googleusercontent.com/A2WG9pK9TNjexvo8UrAppkXpJrLR8Nu7z2Axvz6lvPbh18FH3IZnF5v0VpxgjdYbiHA=h310",
+        "//lh3.googleusercontent.com/3nFBORjCZVo2Brw2xedBHLA5kTr-sNI7lNzjjRjOaZlWgwyhcGIiMM3gaO390snGFOc=h310",
+        "//lh3.googleusercontent.com/AI_iUfenFlQAzvjoK6i1NvbXZaFLn6lMiv4Y_f2pavoAlfAx8lFH1KKNIqnf27O-JLo=h310"
+    ],
+    "comments": [
+        "Lots of useful features. Battery drain definitely low as advertised. Some of the text could be a bit larger, but other than that a nice daily use face.",
+        "Great watchface 😊 would like weather icons to switch color with the color themes otherwise awesome watchface",
+        "Look really nice on my Diesel watch. Please add a red theme in the next update.",
+        "This is my main go-to face.  It offers almost everything I want.  I love the look, the widgets and third party complication support.  It has the best battery life of any third party face that I have tried. The only thing I could ask for would be customizable shortcuts.... Just two or three to make it easy to launch alarms and timer, etc.  But even without that, it's nearly perfect.  Thank you!",
+        "I think this is the best looking watch face I've seen so far. One thing I'd like to see is the ambient display to have an auto brightness setting of some sort. I don't know how I feel about having one setting especially due to battery drain on the always on screen. Other than that, I have no complaints thus far. Love it.",
+        "Best looking watch face in a while however I would like to make a couple of suggestions/comments:  1. watch and phone battery indicator should be a separate complication as not everyone uses google fit. currently, you have to use google fit to have watch/phone battery indicators. i have a HW2 classic and have to use a 3rd party complication which doesn't show battery indicators  2. again, i have a HW2 classic and have just updated to 8.0 oreo. something is causing my battery life to decreased by 50% since using this watch face. the only thing that i can think of is either the weather or compass complications. i switched over to another watch face and battery life returned to normal."
+    ],
+    "recentChanges": [
+        "Hotfixes."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.bosenko.watchface.marinecommander&hl=en&gl=us",
+    "appId": "com.bosenko.watchface.marinecommander"
+}

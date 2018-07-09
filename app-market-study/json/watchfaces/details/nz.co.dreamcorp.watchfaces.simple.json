@@ -1,0 +1,52 @@
+{
+    "title": "Dream Watch - Simple",
+    "summary": "Dream Watch “Simple” is a modern simplistic watch face with all the essentials",
+    "icon": "//lh3.googleusercontent.com/pCcKfi2sSdKtoSg0_sgQBGyCc70cRX4XEQwK9pHRapnbcUabRQlwNT5eufX6Rj9sXWU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.3,
+    "reviews": 3,
+    "developer": "Dream Corp.",
+    "developerId": "Dream+Corp.",
+    "developerEmail": "lodewykp@gmail.com",
+    "developerWebsite": "http://www.dreamcorp.co.nz",
+    "developerAddress": "50 Toscana Drv\nKaraka Harbourside\nAuckland\n2113",
+    "updated": "April 11, 2015",
+    "version": "1.01",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Dream Watch – “Simple” is a modern simplistic watch face with all the essential information at a glance. Key features are:- Calendar integration- Current and up coming meeting display- Next 12 hour upcoming meeting slot at a glance via event ring- Custom colors for watch event ring edge- Simple Weather integration- Digital time and date integration",
+    "descriptionHTML": "Dream Watch &#x2013; &#x201C;Simple&#x201D; is a modern simplistic watch face with all the essential information at a glance.<br>&#xA0;<br>Key features are:<br>- Calendar integration<br>- Current and up coming meeting display<br>- Next 12 hour upcoming meeting slot at a glance via event ring<br>- Custom colors for watch event ring edge<br>- Simple Weather integration<br>- Digital time and date integration",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6PpSIPcPfzwd6v7AqJk_9DJbyJV8UnZ4YqzuvLIbiHigQdYkfXixYFAM8PjaDsFdjKs=h310",
+        "//lh3.googleusercontent.com/CjTe4IptFufG7w9YGkLpXFAcoLdSn6iIo5cR_u9whEn__xKnuBLTDGHmB1-upjzLeqYZ=h310",
+        "//lh3.googleusercontent.com/URCiyEWR4s24hD9_zpQ63xZK4QA5EjZNx6ZEFt9-2_gkGXIDURQgQJfaieCahhjU4DLI=h310",
+        "//lh3.googleusercontent.com/LLScA3k6gELnKdtyiDRLGTG_EiGzwCWgVTyQ3Ew2FXPnAGvoqBKuu4H4rUGR7y2miP4=h310",
+        "//lh3.googleusercontent.com/3ba3M3C7FnxZ4oJLnf9qisUy2YdoGdq3iMLl5BP9J6j9fWE-B2dr4qSjAIWYu4lcQVLV=h310",
+        "//lh3.googleusercontent.com/rr4082OXcmfwk4VC1HXBs5Bk_09pCyXwRVfuVD2URG53Qt4NNy6vyrbqFJei1_UsEpw=h310",
+        "//lh3.googleusercontent.com/SsTnXCid3GR69MGd0DqdEMy6rmr9jhwUxgzq2Uf5BzWalDBY1i0HI7vrnu6PIrwOnKQ=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Bug Fixes",
+        "Minor improvements",
+        "Calendar selection"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=nz.co.dreamcorp.watchfaces.simple&hl=en&gl=us",
+    "appId": "nz.co.dreamcorp.watchfaces.simple"
+}

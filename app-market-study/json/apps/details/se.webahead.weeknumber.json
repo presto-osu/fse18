@@ -1,0 +1,44 @@
+{
+    "title": "Week number",
+    "summary": "This app will display the current week number.",
+    "icon": "//lh4.ggpht.com/1JGZMAIa4M9vMjSV6bSzL1XIDWRug8r8I1Mih4kl51j_4V4AedjKoVSIO7zyBvTuiA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.7,
+    "reviews": 7,
+    "developer": "Webahead",
+    "developerId": "Webahead",
+    "developerEmail": "martin.betz@webahead.se",
+    "developerAddress": "Bonadsvägen 80\n75757 Uppsala\nSweden",
+    "updated": "November 23, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This app will display the current week number when it starts, nothing more and nothing less.It works on your phone and on your Android wear unit.",
+    "descriptionHTML": "This app will display the current week number when it starts, nothing more and nothing less.<br>It works on your phone and on your Android wear unit.",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/HU0q63SnDsJm53Wn12z6jhzMIQD4OErBwK_bE2jgtGvSnKCW1sRV4thldk_ZI815R_Ee=h310",
+        "//lh4.ggpht.com/idwPyYguvgr5he6B3ZlXAY8jbgO9rjHXCrUrejtv8hHUtKpjmJlt9lIAvFQT_Yi1S28=h310"
+    ],
+    "comments": [
+        "Displays wrong week number on android wear. Number is correct on phone."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=se.webahead.weeknumber&hl=en&gl=us",
+    "appId": "se.webahead.weeknumber"
+}

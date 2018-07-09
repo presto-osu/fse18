@@ -1,0 +1,62 @@
+{
+    "title": "Crystal Calculator with Wear",
+    "summary": "A simple, flat-designed calculator with Android Wear support.",
+    "icon": "//lh3.ggpht.com/20yyFHrijbRlW3DOedvubIGr3Gb1E_T9NCW76nXbQknMIa6B2tIZ9pLV6IzOhu5Mqww=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 10,
+    "developer": "hugo00618",
+    "developerId": "hugo00618",
+    "developerEmail": "hugo.di.us@gmail.com",
+    "developerWebsite": "https://github.com/hugo00618/calculator",
+    "developerAddress": "200 University Ave. W., Waterloo, ON, CA",
+    "updated": "June 24, 2015",
+    "version": "1.2.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "* A simple, flat-designed calculator.* Android Wear support.Required permissionsNetwork access: A bug reporter is attached to collect error data when the app crashes. You have an option to send the bug report, no private information will be included.Instructions for Android Wear app* Tap and swipe on \"NUM\" and \"OPR\" buttons to input numbers and operators respectively.* When inputting numbers, hold on a number for a while and then swipe to the next to input multiple digits.* Swipe left on the expression to delete.* Swipe up on the result to copy the value to the expression.* Press \"AC\" to clear the expression.",
+    "descriptionHTML": "* A simple, flat-designed calculator.<br>* Android Wear support.<br><br><br><b>Required permissions</b><br>Network access: A bug reporter is attached to collect error data when the app crashes. You have an option to send the bug report, no private information will be included.<br><br><br><b>Instructions for Android Wear app</b><br>* Tap and swipe on &quot;NUM&quot; and &quot;OPR&quot; buttons to input numbers and operators respectively.<br>* When inputting numbers, hold on a number for a while and then swipe to the next to input multiple digits.<br>* Swipe left on the expression to delete.<br>* Swipe up on the result to copy the value to the expression.<br>* Press &quot;AC&quot; to clear the expression.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 4,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/BUAXezsqFcsBpgQGnALGgFBHeWZig0juDvC4Beegk-iJJJdolTn3m2avFGAeQqiO5Q=h310",
+        "//lh3.googleusercontent.com/W_EGCww_gXFhCI1OAn6Pv8kYz87GnTzLbMH3gIz_7eKIi4sKkphbTlrhmh0KY_N4KAc=h310",
+        "//lh3.googleusercontent.com/hCKnZ629-Ocb6D0-rv7Henu5QZH4OzhXzYvyd93ztfS70hkztuRtz6nPecILsUmx6-eC=h310",
+        "//lh3.googleusercontent.com/JrRbBh_OxoS8RLM4DFHoIA5GRjGzA4jddHClEDciOEAqF0-snBJpGdhOQ4qPM8KZ3LTj=h310",
+        "//lh3.googleusercontent.com/DfYuuBI6CTXJhGwRB-yH1xr7AmD-_vzu5s3DwAVpsupBdhfjtkynIOCHGNpFCJjDwzg5=h310",
+        "//lh3.googleusercontent.com/qDyLUS7npmyco0NRqMewSJoD2C_0ERpfSc92IXo_n2dn5kuY3RaScemIuY7dqkPc2G6E=h310",
+        "//lh3.googleusercontent.com/Q-BrArWxvPVOLsSApnlgHRlkVZI4lKlpYHDfbh5K6YPa9Xpy-80xeTi3yiY2yGNi2Zo=h310",
+        "//lh3.googleusercontent.com/nxPaY9gj0ZmjQtasmt7g0m9SlRZPPj3rHiComCwSHoMRNY1sSe27zYlhubAEpkLJBMo=h310"
+    ],
+    "comments": [
+        "How do I close it on my g watch? Please answer me, thank you",
+        "The most attractive calculator by far Only thing to change if possible, to close the app should only work by long pressing one button not any, because I should be able to long press operations button as long as I want to find which button I want to press. Please fix that to get 5 stars. Thanks dev.",
+        "Absolutely Beautiful and well made. Needs moto 360 improvements. Some of the UI is off screen. If this gets fixed I will give this app 6 stars and 3 thumbs up. Great app.",
+        "It's clean and beautiful. But too simple and no history."
+    ],
+    "recentChanges": [
+        "v2.0.1 for Android Wear:",
+        "* Optimized icon for both dark and bright backgrounds.",
+        "* Bug fixes and other refinements.",
+        "v1.2.3 for Android handheld devices:",
+        "* Optimized icon for both dark and bright backgrounds.",
+        "* Stability improvements.",
+        "* Other minor refinements."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.hugoyu.calculator.android.wear&hl=en&gl=us",
+    "appId": "info.hugoyu.calculator.android.wear"
+}

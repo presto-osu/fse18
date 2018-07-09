@@ -1,0 +1,47 @@
+{
+    "title": "Simply Photo Watch Face",
+    "summary": "Simple, crisp, no frills watch face with a color or photo background.",
+    "icon": "//lh6.ggpht.com/T0blM7bjpPrL7BDnt0EQxPyvXRm45qw9hYAH3oTYV3646K6VKzZCbEuVT9Qipcap0Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.9,
+    "reviews": 10,
+    "developer": "TheDailyNerd",
+    "developerId": "TheDailyNerd",
+    "developerEmail": "nick@thedailynerd.com",
+    "developerWebsite": "http://thedailynerd.com",
+    "updated": "February 18, 2015",
+    "version": "1.02",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Simply is a no frills, crisp, clear watch face designed to be clean and easy to read at a distance. Simply allows you to use a photo or color as a background for a distraction free watch face. Simply features a large ambient mode with easy to read lettering to make your watch easy to see from a distance, A pre-built list of hand picked colors designed to work best with your watch, and two build in backgrounds for a clean, simple visible digital clock.Permissions: Internet: -Used for crash reporting to provide better service and applications in the futureWake lock: -Used by Android Wear to update the watch display. Write External Storage:-Used to save a photo to the watch face background.",
+    "descriptionHTML": "Simply is a no frills, crisp, clear watch face designed to be clean and easy to read at a distance. Simply allows you to use a photo or color as a background for a distraction free watch face. Simply features a large ambient mode with easy to read lettering to make your watch easy to see from a distance, A pre-built list of hand picked colors designed to work best with your watch, and two build in backgrounds for a clean, simple visible digital clock.<br><br><br>Permissions: <br><br>Internet: <br>-Used for crash reporting to provide better service and applications in the future<br><br>Wake lock: <br>-Used by Android Wear to update the watch display. <br><br>Write External Storage:<br>-Used to save a photo to the watch face background.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/1lFVYglIbEBG5k_0xJjgWQAvHBAuGdjPhJEv72QZL1IiMLwGvyt7oy3ea_Rx0-a8zRo=h310",
+        "//lh6.ggpht.com/Yl-0oZSp78oBZMkUDfWSna-GcP_NIXdeBra7WQ2OIjqgLfm-1_pRO7RghYB0VJ655Kho=h310",
+        "//lh3.ggpht.com/iybQRiVleMGcjCQ0MEWd5wcnGOwYSn5vmSLX5ByXlg15VkmNCq0PacRMvMs0LYf1cOIq=h310"
+    ],
+    "comments": [
+        "really simple and awesome it would be nice if you can add weather bar under the time :)",
+        "Great It's great but can you make the date be able to change to \"Day, 1 month\" instead of \"Day, month 1\"",
+        "SUCKS!!! Doesn't work anymore."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=thedailynerd.com.simplephotoface&hl=en&gl=us",
+    "appId": "thedailynerd.com.simplephotoface"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Watch Face Clockster",
+    "summary": "Clockster (CLOCK + roadSTER) - watch face for fans of sports cars and roadsters.",
+    "icon": "//lh3.googleusercontent.com/S1oiwXiZitFOkLXQqQnXWWrrCrMh1jInxsZP-ve95rhSyPXi485FtFYMzEUymFcLwzzy=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 63,
+    "developer": "Mobi Market Labs",
+    "developerId": "5223430743382074343",
+    "developerEmail": "support@mobimarketlabs.com",
+    "developerWebsite": "https://mobimarketlabs.com",
+    "developerAddress": "proizd Voenniy 6\nKherson, Khersons'ka oblast 73000\nUkraine",
+    "updated": "June 29, 2017",
+    "version": "2.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Watch face for smartwatches with steps counter, AM/PM indicator and battery level.Supported for most modern smartwatch models: moto360 2nd gen., TAG Heuer Connected, Sony SW3 and others. Working fine on other oldest models: LG G W100, R W110, Asus Zen Watch and others.- digital hours/minutes; analog seconds- date (month, week)- watch battery level- steps counter- 12/24 hours mode- 24h (AM/PM) dial- Weather (forecast 4 days)- Calendar (tap on date area for opening Calendar).Configuration supported languages- English- Français- Deutsch- Українська- Русский- 中文 （繁體）Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.Warning: this watch face ONLY for ANDROID WEAR smartwatches.",
+    "descriptionHTML": "Watch face for smartwatches with steps counter, AM/PM indicator and battery level.<br>Supported for most modern smartwatch models: moto360 2nd gen., TAG Heuer Connected, Sony SW3 and others. Working fine on other oldest models: LG G W100, R W110, Asus Zen Watch and others.<br><br>- digital hours/minutes; analog seconds<br>- date (month, week)<br>- watch battery level<br>- steps counter<br>- 12/24 hours mode<br>- 24h (AM/PM) dial<br>- Weather (forecast 4 days)<br>- Calendar (tap on date area for opening Calendar).<br><br>Configuration supported languages<br>- English<br>- Fran&#xE7;ais<br>- Deutsch<br>- &#x423;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x441;&#x44C;&#x43A;&#x430;<br>- &#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;<br>- &#x4E2D;&#x6587; &#xFF08;&#x7E41;&#x9AD4;&#xFF09;<br><br>Note: to work correctly reading the number of steps necessary to synchronize the clock with Google Fit app on your smartphone.<br><br>Warning: this watch face ONLY for ANDROID WEAR smartwatches.",
+    "histogram": {
+        "1": 6,
+        "2": 4,
+        "3": 4,
+        "4": 15,
+        "5": 34
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XtSOPAfNF4DkfK10FBiyfc5wBfqj6kMDlsjNqLs5PwZPe_ckS52YA6lhxnDTwgsjbGk=h310",
+        "//lh3.googleusercontent.com/Aq9ReuF47X8CaL-55eKTC-7GNPLzPIqwrWFE0egFPblGgl4bDP1fHkN4QMzlq8GthkjG=h310",
+        "//lh3.googleusercontent.com/gL29Kmmt9fd_moHZBXcbZ2rLuDpY3P1eC1gA9Dl1KRLeCL6FFIAd-_WDEfXWVwXZbavq=h310",
+        "//lh3.googleusercontent.com/MpFjc99Z0Wd2OdIo11D-jBmW7vOc2Y_x_vTq-FUSXR7qYcd_2SjOqe3UrUe-NDjXzg=h310",
+        "//lh3.googleusercontent.com/GvCTag89ugpo0pcWcm99OyPxQoy_G5xhVzfnrDNhdqmqvv559TGmeMTVT1LiSFTMRXA=h310"
+    ],
+    "comments": [
+        "I like the design, fits well on Sony SWR50",
+        "Simple and Elegant Please add changeable background option",
+        "??? Downloaded on my motog but not visible in the app drawer.  After downloading,  where has it gone?",
+        "Looks good and works well. Would get that fifth star if I could change the color.",
+        "i see it's good :D",
+        "Yes"
+    ],
+    "recentChanges": [
+        "- New \"Weather\" function, only forecast for 4 days.",
+        "Important: for working needed permission for \"Location Service\".",
+        "- New built-in \"Calendar\" (tap on date number area)",
+        "- New \"Product Tour\"",
+        "- Technical update"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mobimarketlabs.clockster&hl=en&gl=us",
+    "appId": "com.mobimarketlabs.clockster"
+}

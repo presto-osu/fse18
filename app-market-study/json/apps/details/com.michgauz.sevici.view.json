@@ -1,0 +1,56 @@
+{
+    "title": "Sevilla Sevici",
+    "summary": "Sevilla Sevici, bikes in Sevilla",
+    "icon": "//lh4.ggpht.com/0Zy7-hssPY13LcR2uMW7aVlFTDrR6wC_CgH3VOyRdyQOJFj8CSxBiUqPRJynyzNvhyQG=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.7,
+    "reviews": 226,
+    "developer": "Michel Gauzins",
+    "developerId": "Michel+Gauzins",
+    "developerEmail": "michgauz.sevici@gmail.com",
+    "developerAddress": "42 rue Marjolin, 92300 Levallois-Perret",
+    "updated": "February 22, 2017",
+    "version": "2.6.3",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Sevilla Sevici is a tool allowing you to view the status of bike stations Sevici networks, of Sevilla. Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. Find a station easily with adress or nameYou can add favorite and use the dedicated widget, or check on your Android Wear watch ! Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "descriptionHTML": "Sevilla Sevici is a tool allowing you to view the status of bike stations Sevici networks, of Sevilla. <br><br>Through the map, view closest stations to your location, follow the number of bikes and the numbers of available slots. <br><br>Find a station easily with adress or name<br><br>You can add favorite and use the dedicated widget, or check on your Android Wear watch ! <br><br>Feel free to send me your suggestions or problems, thanks to the dedicated tab in the app.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 7,
+        "4": 51,
+        "5": 165
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/aYaR2wOXbSaXHT9vCCw6FpFkK_E0rzAJuXJ_gBHB6d1Uw9YNfHfwZ-l4bD_AciTHkQ=h310",
+        "//lh3.googleusercontent.com/FhC4rC3QqzL2fY4iDvwTQLhE-Gwx4n4QlfU_gNadcDG2iVN-VG_2tIeO1uwxxfOPgdc=h310",
+        "//lh3.googleusercontent.com/1AeQkdQBktU5T9DZYsIHluj0ZF0JAWTMiPDDQ4DYsxadZzgZTfcH1QpK3oFTe56DYwcf=h310",
+        "//lh3.googleusercontent.com/1y2eSP7jIhYhTbKRgquwS3HLd-AlZQMS7AmV3mW6amyuCrEZQUy-ZlVPk2yJA-YDInw2=h310",
+        "//lh3.googleusercontent.com/ODqIA1HFxwe69X_-yOScw2GysGKgr6oopRMj5DgtyO_fDfPRZQqSf8PvKO-A-QNrJg=h310",
+        "//lh3.googleusercontent.com/8l-vZvn2ag0MGI70pYWGRsZinsR7U4rBsZo9118lwOMPW5PBbI8NGuZuwvxWOyyKrT4=h310",
+        "//lh3.googleusercontent.com/P1Jw0CH87h_gplee71J3IuSENtjb6nvL8_SEtClYxthh2K4u6Zibt-6PAnI4sZvn5lg=h310",
+        "//lh3.googleusercontent.com/XG77CgzJf8SuEySUrq-FhQJAMRVZa_km7T22pbHcwB8YHIxVs3iZsHhhHN7uwnzE6w=h310"
+    ],
+    "comments": [
+        "Gracias por la app! Muy buena",
+        "La mejor",
+        "D.P.M. Muy visual...",
+        "Gran app Te ahorra tiempo. Siempre"
+    ],
+    "recentChanges": [
+        "- Android 7.1 support (shortcuts on app icon)",
+        "- Bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.michgauz.sevici.view&hl=en&gl=us",
+    "appId": "com.michgauz.sevici.view"
+}

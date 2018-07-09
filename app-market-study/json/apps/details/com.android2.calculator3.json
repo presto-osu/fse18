@@ -1,0 +1,60 @@
+{
+    "title": "Calculator",
+    "summary": "A powerful calculator with a simple interface.",
+    "icon": "//lh3.googleusercontent.com/FpQXb3fjRebih0ZMiuXK4NuWARD4zyG-5un8UYDoM0ha7IBOE9iqBtZYbxpV2kKB6w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000,
+    "maxInstalls": 5000000,
+    "score": 4.5,
+    "reviews": 25916,
+    "developer": "Xlythe (Calculator)",
+    "developerId": "5699017451728970123",
+    "developerEmail": "xlythe@gmail.com",
+    "developerWebsite": "http://xlythe.com",
+    "developerAddress": "200 Rector Pl, Apt 4F\nNew York, NY 10280",
+    "updated": "February 7, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Calculator is a simple 4 function calculator, with a panel that has more advanced functions when you need them. It includes history, real time graphing, base conversion, and more. It also comes with a lockscreen widget, a floating calculator, and a wear app so you can use whichever is most convenient.The goal is a simple and uncluttered calculator.Because Calculator is a full replacement for your stock calculator, we recommend you disable the one that came with your phone. If you long press your original calculator, and drag it to App Info, you can Disable it where you'd normally find Uninstall.And, while this release has a few extra bells and whistles, Calculator is still an open source project. You can check it out at https://github.com/Xlythe/Calculator",
+    "descriptionHTML": "Calculator is a simple 4 function calculator, with a panel that has more advanced functions when you need them. It includes history, real time graphing, base conversion, and more. It also comes with a lockscreen widget, a floating calculator, and a wear app so you can use whichever is most convenient.<br><br>The goal is a simple and uncluttered calculator.<br><br>Because Calculator is a full replacement for your stock calculator, we recommend you disable the one that came with your phone. If you long press your original calculator, and drag it to App Info, you can Disable it where you&apos;d normally find Uninstall.<br><br>And, while this release has a few extra bells and whistles, Calculator is still an open source project. You can check it out at https://github.com/Xlythe/Calculator",
+    "histogram": {
+        "1": 1175,
+        "2": 694,
+        "3": 1448,
+        "4": 4013,
+        "5": 18586
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/vJAFT2LpSviGI6Zf28woOzFhRP7pE6iCf2GaEiwVE59ijI_t6DJnD0DpdeAI99V-N1wf=h310",
+        "//lh3.googleusercontent.com/ahSmoLQmOqWkRLcDFqjulcrM3AVJLykMQpZTyL3v5_ZQGG3cgH7dW3QTUZ51VGC3UEo=h310",
+        "//lh3.googleusercontent.com/R0rPLoCDbvYt-Zl8IiIB97-pp1e-oWN28yQA9198Qvi_Cm0Y4rtIOkMH9xflaUWrz3s=h310",
+        "//lh3.googleusercontent.com/LSGL7bS81I0LabNCKHPKFzBLajhYU_Fh16XEwVDmpPwXdHOcOd2RbZZZh05j4Lcn6A=h310",
+        "//lh3.googleusercontent.com/48N7mVCLAvF6flan5iYoUr1xB4Op7PY361ofQAiJ8coRodozbVkMwc5CsFegr1viF2k=h310",
+        "//lh3.googleusercontent.com/sssIsFffT92Y9H0vg9aWcZgwaZ9H0hKmOGqIKquejSc5StnHXy6ld3BbcWKxdigp0kk=h310",
+        "//lh3.googleusercontent.com/apavLfx2iOLMD98EnqxuUudtQ2F6HcDM4uMO0gB0IwerfbrPiXgTbGVuJU0seMA8sDRr=h310"
+    ],
+    "video": "https://www.youtube.com/embed/H8MAEc4FE3c",
+    "comments": [
+        "This app is the best for math good for us out of me a",
+        "Does everything I need for a watch calculator.",
+        "Best app for watch!",
+        "Seeeep",
+        "Great app! I do have some suggestions, however. Could you add a dedicated fractions button? Like the one they have in those TI-30Xa calculators? Its so useful, and very difficult for me to stick with a calculator that doesn't have this option (which, for whatever reason, is most). Add that and you'll definitely get that fifth star.  Also, it can be a little tedious swiping that extras-pane-thing very often. Could you try what GBoard does (if enabled)? Show the special characters behind the regular qwerty characters, sort of like a superscript. Than make it so that tapping and holding a character will be tapping a special character.  For example: long-tapping the 'd' gives me a '$' in GBoard, and I would like it so that long-tapping the '=' gives me 'X' in this Calculator. I don't think that this should replace the pane, but I would love to enable this in settings or something. Thanks for the great calculator, I hope you keep working on it! (Or Google buys it, lol)",
+        "Best app ever.. No need of pressing the equal button. Automatic answer. You guys are doing great. I would like to get more app from you."
+    ],
+    "recentChanges": [
+        "v6.0.10",
+        "-Android Wear Calculator"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.android2.calculator3&hl=en&gl=us",
+    "appId": "com.android2.calculator3"
+}

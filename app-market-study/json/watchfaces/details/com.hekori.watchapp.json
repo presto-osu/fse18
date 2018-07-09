@@ -1,0 +1,58 @@
+{
+    "title": "BLE Heart Rate Watch Face",
+    "summary": "Connect your Bluetooth LE heart rate belt to your Android watch.",
+    "icon": "//lh3.googleusercontent.com/3h-x-zEKFuLM63UzsLpT1CSuRq6HgD2mCO9eq_wadXUn8R5wa755yyVZrTSlQUwRs18=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.1,
+    "reviews": 38,
+    "developer": "hekori",
+    "developerId": "hekori",
+    "developerEmail": "sebastian.walter@hekori.com",
+    "developerWebsite": "http://www.hekori.com",
+    "updated": "July 6, 2016",
+    "version": "1.3.1",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "An Android Wear Watchface that displays the current heart rate.Your Android Wear device connects directly to your Bluetooth LE heart rate belt. No mobile device is necessary after installation. The app displays heart rate zones in colors blue, green, yellow, orange, red and darkred.On you mobile phone you can adjust your personal heart rate zones, sync your data with the hekori cloud and view your heart rate readings of your last workout. Requirements:Android Wear Device (e.g. LG G Watch R)Bluetooth LE heart rate monitor (e.g. Polar H7)This app is known to work withLG G Watch R (Android 5.0.2)Polar H7Setup:Long press the watch face to display the setup screen.The user can choose to keep the display in interactive mode. Interactive mode and connected Bluetooth LE device consumes the battery by approx. 10% per hour.In ambient mode (displaying Date and Time) the power consumption is about 2% per hour.Troubleshooting:Sometimes, the Bluetooth heart rate monitor is not listed:1) check that no other device has connected to your BLE heart rate monitor, e.g., your mobile phone.2) make sure that the contact pads of your heart rate belt are wet and tightly pressed to your chest.3) there seems to be a bug in the Android Bluetooth LE implementation. After too many reconnection attempts, it can happen that the heart rate belt is not listed anymore. If that happens, rebooting the watch helps.",
+    "descriptionHTML": "An Android Wear Watchface that displays the current heart rate.<br><br>Your Android Wear device connects directly to your Bluetooth LE heart rate belt. <br>No mobile device is necessary after installation. The app displays heart rate zones in colors blue, green, yellow, orange, red and darkred.<br><br>On you mobile phone you can adjust your personal heart rate zones, sync your data with the hekori cloud and view your heart rate readings of your last workout. <br><br>Requirements:<br>Android Wear Device (e.g. LG G Watch R)<br>Bluetooth LE heart rate monitor (e.g. Polar H7)<br><br>This app is known to work with<br><br>LG G Watch R (Android 5.0.2)<br>Polar H7<br><br>Setup:<br>Long press the watch face to display the setup screen.<br>The user can choose to keep the display in interactive mode. <br>Interactive mode and connected Bluetooth LE device consumes the battery by approx. 10% per hour.<br>In ambient mode (displaying Date and Time) the power consumption is about 2% per hour.<br><br>Troubleshooting:<br><br>Sometimes, the Bluetooth heart rate monitor is not listed:<br><br>1) check that no other device has connected to your BLE heart rate monitor, e.g., your mobile phone.<br>2) make sure that the contact pads of your heart rate belt are wet and tightly pressed to your chest.<br>3) there seems to be a bug in the Android Bluetooth LE implementation. After too many reconnection attempts, it can happen that the heart rate belt is not listed anymore. If that happens, rebooting the watch helps.",
+    "histogram": {
+        "1": 5,
+        "2": 2,
+        "3": 2,
+        "4": 6,
+        "5": 23
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XrmGfFoBdRVD8AWuwAICkM7QI9zbFiQmMSH65Fq6LOZoZdgUH5lEhMcv16qsXGvuFSSA=h310",
+        "//lh3.googleusercontent.com/E6w-ILV7xlCCT8ErIKwOaaB_dCCJD9GRmLNzZJdOfu6pkD2dBbUxT-Kv7Ved1wndTSI=h310",
+        "//lh3.googleusercontent.com/TeeIhycTt8RVpi07CazOw0p74dAbOx4vfYuqXfDPLxOPFCnPx71H5XZ9IXwLW53ZCw=h310",
+        "//lh3.googleusercontent.com/jzjAVd0lBGl4YkESi5KjODI14kUiMOhai1bakP1NIaXpQaqVndRPXt_3Z4JIc7fCJeRS=h310",
+        "//lh3.googleusercontent.com/Dlh4QXo62ii5HGMX-2wfvifkxYjL6aGwGM4fOnG-2JTUw0ishxFGs8ZXGXcWyqK1-RU=h310",
+        "//lh3.googleusercontent.com/RkJgPrVBa6l_42ddsZgKFxiTxmrm50iABwM7orKTEe0Fiy9L74wIoG5bTIiUJUibcrN0=h310",
+        "//lh3.googleusercontent.com/MUGD7EOHncsRLLYcQ9X_EVJscKPcq8m8cIFeeixJtGsONcxM7TPtTkBlRkkt8vD48p0y=h310",
+        "//lh3.googleusercontent.com/NYFjg4b0ms4BGaYpCy4nqcWdh6ftPxslS3UrHcRLeqfoXgAzB1gMFr6Uhjp8DBwxUGZB=h310",
+        "//lh3.googleusercontent.com/dvsquBwGhJk5uZUX0jEibporgCKgKhLBVBm7OZTzGQ3iSc5FDQy1h2_z3de43EngTEw=h310"
+    ],
+    "comments": [
+        "Worked really well Worked pretty much perfectly with my Sony smart watch 3 and the wahoo TICKRX.",
+        "Works with zenwatch 2 and zephyr smart hrm,  Does not work with Androidwear 2.0 -  can't find the watch face",
+        "it doesn't work with Polar M600's led sensors",
+        "Doesn't work with gear live watch",
+        "First that connect directly from watch to hrm Reporting work ok connecting sw3 and mio link.  I can not choose the interactive mode in setup",
+        "Simple tool that works well. Minor bug Button to keep screen on is below screen on moto 360 (in flat tire area).  Otherwise it works well.  Wish it could save /transfer log to phone, then would be only app I need."
+    ],
+    "recentChanges": [
+        "Fixed a bug that prevented cloud syncing."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.hekori.watchapp&hl=en&gl=us",
+    "appId": "com.hekori.watchapp"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "AGEphone",
+    "summary": "The free SIP-based VoIP softphone for Android",
+    "icon": "//lh3.ggpht.com/_7qsd3TDsZkG7HmhDSXduaZBl-GUWZRhlhGwV26Jd8Z5FhvfhhwOEtXEiTFDboQDNA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.3,
+    "reviews": 696,
+    "developer": "ageet Corporation",
+    "developerId": "ageet+Corporation",
+    "developerEmail": "support@ageet.com",
+    "developerWebsite": "http://www.ageet.com",
+    "developerAddress": "13-98 Syuurishiki Terado-cho, Muko City, Kyoto Prefecture, 617-0002 Japan",
+    "updated": "June 2, 2017",
+    "version": "1.7.005",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "* 2015.1.28 Attention to AGEphone for Android usersDue to a change in Google Billing API, currently the in app purchases in our product \"AGEphone for Android\" will not work if you are using before version 1.5.017.If you are using any older versions, please update to the 1.5.017 or later version. We apologize for any inconvenience this may have caused you.AGEphone brings free, feature-rich VoIP functionality to your Android device. Powered by one the most advanced and flexible SIP engines available, the softphone reliably delivers high quality calls both over WiFi and mobile networks (VoLTE).Just add your provider data to the uncomplicated settings menu and all the advantages of modern IP telephony are but a tap away. No matter where you are, AGEphone places your incoming numbers and extensions right in your pocket! Enjoy unified communications on Android with this great VoIP client.=== FEATURES ===- Excellent Call Quality- Easy switching between multiple SIP Providers- Runs as a service in the background- Quickdial with Portraits- Device Address Book and Call History Integration- Easy and Detailed Configuration Menus- Hold Function- Calling Rules Including Ringtone Selection, Auto-Decline, etc.- VAD (Voice Activity Detection)- Network Traversal via STUN- DTMF (RFC2833, Inband and SIP INFO)- UDP/TCP Transport- Codecs: G.711 (pcmu/pcma), GSM, G722, iLBC, SPEEX, SILK=== REQUIREMENTS ===- Platform: Android smartphones and tablets- System: Android 2.3 and higher- Connection: 128 kbps in both directions recommended for G.711Please note that AGEphone is not a service and you need a suitable SIP service provider in order to place and receive calls.=== SUPPORT ===In case you have an issue with AGEphone or would like to suggest a new feature, please contact us via one of the methods listed at http://www.ageet.com/support/contact/?lang=en instead of or in addition to using the review function.=== IMPORTANT NOTES ===- VoIP over your mobile network might be blocked or incur additional charges. Please contact your mobile provider for clarification.",
+    "descriptionHTML": "* 2015.1.28 Attention to AGEphone for Android users<br>Due to a change in Google Billing API, currently the in app purchases in our product &quot;AGEphone for Android&quot; will not work if you are using before version 1.5.017.<br>If you are using any older versions, please update to the 1.5.017 or later version. We apologize for any inconvenience this may have caused you.<br><br><br>AGEphone brings free, feature-rich VoIP functionality to your Android device. Powered by one the most advanced and flexible SIP engines available, the softphone reliably delivers high quality calls both over WiFi and mobile networks (VoLTE).<br><br>Just add your provider data to the uncomplicated settings menu and all the advantages of modern IP telephony are but a tap away. No matter where you are, AGEphone places your incoming numbers and extensions right in your pocket! Enjoy unified communications on Android with this great VoIP client.<br><br>=== FEATURES ===<br><br>- Excellent Call Quality<br>- Easy switching between multiple SIP Providers<br>- Runs as a service in the background<br>- Quickdial with Portraits<br>- Device Address Book and Call History Integration<br>- Easy and Detailed Configuration Menus<br>- Hold Function<br>- Calling Rules Including Ringtone Selection, Auto-Decline, etc.<br>- VAD (Voice Activity Detection)<br>- Network Traversal via STUN<br>- DTMF (RFC2833, Inband and SIP INFO)<br>- UDP/TCP Transport<br>- Codecs: G.711 (pcmu/pcma), GSM, G722, iLBC, SPEEX, SILK<br><br><br>=== REQUIREMENTS ===<br><br>- Platform: Android smartphones and tablets<br>- System: Android 2.3 and higher<br>- Connection: 128 kbps in both directions recommended for G.711<br><br>Please note that AGEphone is not a service and you need a suitable SIP service provider in order to place and receive calls.<br><br><br>=== SUPPORT ===<br><br>In case you have an issue with AGEphone or would like to suggest a new feature, please contact us via one of the methods listed at http://www.ageet.com/support/contact/?lang=en instead of or in addition to using the review function.<br><br><br>=== IMPORTANT NOTES ===<br><br>- VoIP over your mobile network might be blocked or incur additional charges. Please contact your mobile provider for clarification.",
+    "histogram": {
+        "1": 149,
+        "2": 72,
+        "3": 120,
+        "4": 119,
+        "5": 236
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ZQCyctWlCUs7ls_AfCvP6rzMO5KqP5zi8_oTNW1KemdCciI7ZaH4oV5lmGZRJo6ji7U=h310",
+        "//lh5.ggpht.com/YYeFR9kQ99_zovQDCCr3WcxDgYCXJooaxnXsT1be9J89sxUxfAvgdad4PcowWnqBSouG=h310",
+        "//lh5.ggpht.com/LW7LXMGnoN8-S9V6vMpQB14N7JH1__5mu7tVdzTip2vDm8NbI0jQR5jZB7t6JCZMyw=h310",
+        "//lh5.ggpht.com/9RCEaZtKxr4xnC82NgSTyBL-MdZKkWJxpa7S8DBvD8_r2LJMvFf3yM0_HWTh_V-BKac=h310",
+        "//lh5.ggpht.com/FdqchGnPd686GDAsvR1qTjHDrxiNcdgVTIX47tfRGFGfIgV5PPKducDoKHySLOUk5SI=h310",
+        "//lh4.ggpht.com/KCZSBzh7Aye0SGgDFUw5k2uwGuwo0qf3zwBgSVDmz85L-dR8wIXWeeCEyXIGqGxETg=h310"
+    ],
+    "comments": [
+        "Calls drop On an Xperia Z3, the calls dropped several times when used with a Brastel card. Will use a different app.",
+        "no good !",
+        "stuck with default address book :( you need an option to choose the address-book app. the bloatware one on my phone is only for japanese contacts so i am using go-contacts instead. make it happen and i will purchase your app :)  ... and give more stars",
+        "Seems not to work on Samsung Galaxy Y",
+        "Mostly harmless Simple to configure for my asterisk/freepbx system. Good audio quality on LAN.   Can't find any way to change the inbound ringtone... the standard tone is too quiet. Also, settings are unavailable when it is \"Trying\" to connect, which means a small error in config leads to having to completely delete the app data in the app manager.  Would like the option to change the ringtone, and to turn it off completely. Then it would get a 5 star from me.",
+        "Age phone great app to use your sip account with!"
+    ],
+    "recentChanges": [
+        "- Fixed issue with receiving incoming calls after a long time",
+        "- Settings are now a full screen Activity",
+        "- Layout changes",
+        "- Changed default SIP port to 15060"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ageet.AGEphone&hl=en&gl=us",
+    "appId": "com.ageet.AGEphone"
+}

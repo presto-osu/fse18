@@ -1,0 +1,52 @@
+{
+    "title": "TESSELLATE Watch Face",
+    "summary": "Beautiful eye catching details, yet delightfully simple.",
+    "icon": "//lh6.ggpht.com/lqr6RsQc2y9IT1_OPdQvbj0hXK3fuwGegp9_ujnGP7PBQas1NTD-NNGUJlwsQZj1oS8=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 3.8,
+    "reviews": 4,
+    "developer": "Polyhedron Laboratory",
+    "developerId": "Polyhedron+Laboratory",
+    "developerEmail": "polyhedronLaboratory@gmail.com",
+    "developerAddress": "909 W EUCLID AVE #1062\nARLINGTON HEIGHTS IL 60005-9998",
+    "updated": "January 21, 2015",
+    "version": "1.0.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "TESSELLATE Watch Face, designed for Android Wear watches. Utilizing the latest Android Wear standard and API, the watch face delivers stunning style in smooth performance.- Beautifully rendered- Optimized smooth animation- Optional display of Date and Day of Week- Full color or simplified Ambient mode- For both round and square watches- Customizable Large or small peak card*Requires Android Wear 5.0+*After installation, please allow up to a minute for watch face to be available in Android Wear companion app.",
+    "descriptionHTML": "TESSELLATE Watch Face, designed for Android Wear watches. Utilizing the latest Android Wear standard and API, the watch face delivers stunning style in smooth performance.<br><br>- Beautifully rendered<br><br>- Optimized smooth animation<br><br>- Optional display of Date and Day of Week<br><br>- Full color or simplified Ambient mode<br><br>- For both round and square watches<br><br>- Customizable Large or small peak card<br><br><br><br>*Requires Android Wear 5.0+<br><br>*After installation, please allow up to a minute for watch face to be available in Android Wear companion app.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/ghSQjEJxCseLnRpcbHryOrDmHE6S7Kil58UjG61TDtgoAKJBHWNmUUAPbyJ01NmLIWrq=h310",
+        "//lh4.ggpht.com/uDVfwf-rA-Rs7oMHHQjwg1t9Tw6EMuhiymM_tZxr347Hm-AqHewrrKMexJNNhlQPbOw=h310",
+        "//lh3.ggpht.com/c3yEKkI-_NJBj5XvwDnjykGlfX7Ulr0P9N0GIYWOFPsRl6L1nd00L_jbcy92Q9Umn-8=h310",
+        "//lh3.ggpht.com/b4NuroeXVIG5tVfJqMkjWKT7cfzTdAaPb5QEMZDP97VTkJldV07Ok9f_dDlKUugTuOnB=h310",
+        "//lh5.ggpht.com/VYt6S2SrNbRPxV-dhoeemIKzkqexIctWZ13lFvRgXpiUO_qPH2Cq-MWckcgHc2cFow=h310",
+        "//lh5.ggpht.com/QpY0LqS_LdOObD-dCjwtT1hgWKbsIEjQiKwteM0yU1go6a5WBp4QRxImt4u4HAOopwc=h310"
+    ],
+    "video": "https://www.youtube.com/embed/IUTlLWe0e2M",
+    "comments": [
+        "Hello, just purchased this and i am not sure what i am doing wrong, i cant seem to turn on the DIM mode to only have the hands showing. for some reason i can only change the date, day of week, and smooth second hand. The notification size and Dim mode are not working :c",
+        "Perfect resolution One of my favorites and I bought a lot!"
+    ],
+    "recentChanges": [
+        "Added support for Android version 4.3 and up."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.polyhedronlaboratory.tessellatewatchface&hl=en&gl=us",
+    "appId": "com.polyhedronlaboratory.tessellatewatchface"
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Work Timer",
+    "summary": "Simple Work-Rest Cycle Timer",
+    "icon": "//lh5.ggpht.com/gkICpfSjqg_GWDuVUMT4zMEO5Dz2z44-RpfccGl5DsLYEHQmuTZrAsWgJmfoFxjFyw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.5,
+    "reviews": 4,
+    "developer": "MFYZ",
+    "developerId": "MFYZ",
+    "developerEmail": "apps@mfyz.com",
+    "developerWebsite": "http://mfyz.net",
+    "developerAddress": "1619 3rd Ave Apt 6E New York, NY 10128",
+    "updated": "January 16, 2015",
+    "version": "1.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Simple pomodoro cycle timer. Start your work cycle, it lets you know when to rest and start working again.- Configurable Work & Rest PeriodsYou can set your work and rest timeframe and start your timer.- Auto ContinueYou can automatically continue to next phase; this will allow you to work and rest continuously.- Android Wear SupportedIt buzzes your watch with different work and rest vibration patterns.",
+    "descriptionHTML": "Simple pomodoro cycle timer. Start your work cycle, it lets you know when to rest and start working again.<br><br>- Configurable Work &amp; Rest Periods<br>You can set your work and rest timeframe and start your timer.<br><br>- Auto Continue<br>You can automatically continue to next phase; this will allow you to work and rest continuously.<br><br>- Android Wear Supported<br>It buzzes your watch with different work and rest vibration patterns.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/HnIHOahgsjFpA-s_AjBzRT5gh4j89omZPezl6REBTt3HMiqBodedJ0Y4ToLj8r-ihA=h310",
+        "//lh3.ggpht.com/ID6gEAckVGRqc1a4cVN820bvUA9RG0UxPnqr9lzu6alVCWU4mm_T7LBTHQfjQOCLsJWm=h310",
+        "//lh3.ggpht.com/xTD5KL5MOqBFstxqUDi6ZRcctrKfMy36nK9kk_WAC_c7YF_f_tC3emK-sqY00NbpKT4=h310",
+        "//lh5.ggpht.com/YWLW48i4lxg2QyvvBqLohbwlRGOrNDmSb9Dp73ykc_-awyMC4DJGv6DYvcstcAvk5d0=h310",
+        "//lh4.ggpht.com/I3u4uJ3kHdSVQX_OoiqYcT274pMXv36oGTksa5TIgVnO8Q8VMdQTfh5fwJ6rgqcWhfc=h310"
+    ],
+    "comments": [
+        "Decent app! The app is pretty decent. But, there is no sound notification when a Pomodoro ends. Just the vibrations are not enough. Plus, you can do one more thing, you can add some motivational content like quotes,etc. in the app to make it better"
+    ],
+    "recentChanges": [
+        "- New Feature: Morning reminders.",
+        "- Crash reporting has been added."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.mfyz.worktimer&hl=en&gl=us",
+    "appId": "net.mfyz.worktimer"
+}

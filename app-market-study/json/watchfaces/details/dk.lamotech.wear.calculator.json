@@ -1,0 +1,46 @@
+{
+    "title": "Calculator for watch",
+    "summary": "Calculator for watch running Android",
+    "icon": "//lh3.ggpht.com/PcF6F0gOfkIHpJI0TZmvnpBMVyQDAQfZ7Dy8LywPo1Bvkm7f1apXE1lrB2P9-os9ZII=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.1,
+    "reviews": 15,
+    "developer": "Lamotech",
+    "developerId": "Lamotech",
+    "developerEmail": "dev@lamotech.dk",
+    "developerWebsite": "http://www.lamotech.dk",
+    "developerAddress": "Engene 47,\n8472 Sporup\nDENMARK",
+    "updated": "January 2, 2015",
+    "version": "1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Simple and easy to use calculator for your watch. All you need for every day calculation in an intuitive design suitable for both round and square displays.",
+    "descriptionHTML": "Simple and easy to use calculator for your watch. All you need for every day calculation in an intuitive design suitable for both round and square displays.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 10
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/8DcKpQCaH9utGhM4HScw3WTAr9ExpNiB0R4YvRvw69O6ji77Lvbl3nIqj9p0vxKSEw=h310",
+        "//lh4.ggpht.com/q_vvLGsJZtl-9F12Yel9_xjqm_DnlxoKsDSRLxxgia5oX-7G92xAV473yW0AZ1hb9g=h310"
+    ],
+    "comments": [
+        "No operator precidence 1+2*3=7 but this app says it is 9. This might be OK for some people bit not me.",
+        "Nice, simple, works great."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=dk.lamotech.wear.calculator&hl=en&gl=us",
+    "appId": "dk.lamotech.wear.calculator"
+}

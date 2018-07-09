@@ -1,0 +1,63 @@
+{
+    "title": "Android TV Remote Control",
+    "summary": "Android TV Remote",
+    "icon": "//lh6.ggpht.com/YlZDo5FbktRrY_tLlEBL9wnj1DYY-kAlPon6ty1HN88QMBPDf4ySRAvNIyelVD0Wzuzi=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000000,
+    "maxInstalls": 10000000,
+    "score": 3.2,
+    "reviews": 26444,
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "developerEmail": "apps-help@google.com",
+    "developerWebsite": "http://developer.android.com/tv",
+    "developerAddress": "1600 Amphitheatre Parkway, Mountain View 94043",
+    "updated": "April 14, 2017",
+    "version": "1.1.0.3876957",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Use your Android phone or tablet as a remote for your Android TV. Easily switch between d-pad and touchpad modes to navigate content and play games on your Android TV device. Tap the mic to start a voice search, or use the keyboard to input text on Android TV.To get started, connect your Android phone or tablet to the same network as your Android TV device or find your Android TV via bluetooth.Works with all Android TV devices.",
+    "descriptionHTML": "Use your Android phone or tablet as a remote for your Android TV. Easily switch between d-pad and touchpad modes to navigate content and play games on your Android TV device. Tap the mic to start a voice search, or use the keyboard to input text on Android TV.<br><br>To get started, connect your Android phone or tablet to the same network as your Android TV device or find your Android TV via bluetooth.<br><br>Works with all Android TV devices.",
+    "histogram": {
+        "1": 8439,
+        "2": 1880,
+        "3": 2645,
+        "4": 2972,
+        "5": 10508
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/oQc4-_URerEwploJjyHChBOFmn7pGp_auihCeNHKjMOVbmErHxaoq2eHRcf1EmsbGcI=h310",
+        "//lh3.googleusercontent.com/i2ZrT_SESpq2dCoVe_LceSNZ6vugFJV2s50vRB_Kel-x0I8tNrRpgoSukPIFNv7wOLNx=h310",
+        "//lh3.googleusercontent.com/a1x0Aa0kGF1GQYzLJlmaGwWeNZ2KPrDe8uPbrYhX9WCpB4tU29bpqMrLms1ZO94EYgI=h310",
+        "//lh3.googleusercontent.com/rfV_cybcpqLzaMSVLalKHRMTNgx7n5ynCFIOfx-NTccImnh7fvUlQOdsBmPQQkeC5ig=h310",
+        "//lh3.googleusercontent.com/sYsrt49EFPU7mXC_HjHtv2A5GSvKtYM-mWe8ciQgOZUYXZmRQ-LVv_1jAxp_O_fs4dI=h310",
+        "//lh3.googleusercontent.com/gWHOurRJdX2HKmEsTfe0CUVQ_vCf1_lPyRxWwAvlsn0Jp77ydePi0p76usUvR_0fKzy1=h310",
+        "//lh3.googleusercontent.com/C-nhX8tgantiIJgHb6f38cm7Uygf0vYAUWk9E0Rwp0mUTXwU2bpvBmhxWPUOACWpWx4=h310",
+        "//lh3.googleusercontent.com/O-unl6-8JHe4LXCh0g-8qOfEu8QBrmTwL5c64IV-TbiJPgMb-L0Lj6z5j5wcNQm3rg=h310",
+        "//lh3.googleusercontent.com/2yCRqTUDO_daSYSooorZm70J0MYCe5wY_uNKGhWkQQ-Zu5yrxu43k83tCfC3bUN-YTc=h310",
+        "//lh3.googleusercontent.com/HyHjbQ7Y_VK3GbeUIBk1SuDNE-OlauoQblf-ZtllkDDNihaRG60zn3b-EtxiXaIPLA=h310",
+        "//lh3.googleusercontent.com/Eism5_Cddpe_-yVYClO3YwiwCAcGkz0uTV6ypJ0Byj6hKXiCbP4oOCZ6Ce7oBuCQWDZY=h310",
+        "//lh3.googleusercontent.com/xaKOqOoyc7LmomVJH6MosD4oemkYbnFv88gotb7UoxdpmnQD_6o_9Zy5krViwPgXHXmp=h310"
+    ],
+    "comments": [
+        "Stopped working months ago using Note4 on Nexus Player.  Nexus Player OTA update to Android 'O' and still not working... Connects then back to connect to device screen with no error message.  Lots of people reporting this so if yours works then good for you. Only needed when I typing on certain apps. I have an idea this will never be fixed.  I love my Nexus Player, guess it will be relegated to an older TV when I get Nvidia shield TV.",
+        "It hardly keeps a stable connection between a Samsung S7 Edge and an Nvidia Shield TV 2017 through Bluetooth. If I leave the phone locked, I have to either restart this app or turn the Bluetooth on and off. The keyboard typing also lags between the phone and the Shield. It would be easier to set up a connection if we could manually input the IP address of the device we want to connect with this app.",
+        "Well, awesome! So now I can change the input and scroll around the menu of my tv via bluetooth? Great! Touchpad works perfectly (S8, Bluetooth, ~2.5m away from tv). Only to realize I can't even control the volume since there's no option. Bummer. Semi-useless. And I have to give location access for it? Ok, ok, thanks Google, but I'll pass this one. Later.",
+        "When I started using it with my Mi Box Android TV, it was super good. But after a few months it doesn't recognize my mi box anymore. It occasionally does and works but not most of the times.   The problem is not just on the Samsung j5 that used to work really well. Same with Huawei Honor Pro 8.   The app tries connecting to the Mi Box and it goes on forever.  Any help is much appreciated.",
+        "It's a great convenience - if it stops trying to be too smart in input. The Android TV default keyboard does not work with hardware keyboards, and now this app fails to work with smarter software keyboards (like HTC's default TouchPal)... Stop doing \"a Microsoft\"! (i.e. good/great product, retards for UI/UX guys)",
+        "....but it definitely needs to register touch a whole lot faster. All in all, a decent option if you can't find your Nexus Player remote, but it lacks the responsiveness to replace said remote. Update - App no longer works. Sees my devices (Shield TV & Nexus Player), but is no longer able to connect to them."
+    ],
+    "recentChanges": [
+        "Visual Refresh",
+        "Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.tv.remote&hl=en&gl=us",
+    "appId": "com.google.android.tv.remote"
+}

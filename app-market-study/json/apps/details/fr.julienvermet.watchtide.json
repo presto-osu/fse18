@@ -1,0 +1,51 @@
+{
+    "title": "Watch Tide",
+    "summary": "Watch Tide, your favorites beaches tides on your watch running Android Wear",
+    "icon": "//lh4.ggpht.com/fcEhUxyX5HPq0jbxqZ_JJ2RV1toqYkBNG8rmTVWktlV7KilzJ5dQxfQAtLhwMT_oNNV_=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.1,
+    "reviews": 28,
+    "developer": "Julien Vermet",
+    "developerId": "Julien+Vermet",
+    "developerEmail": "ju.vermet@gmail.com",
+    "developerAddress": "Cesson-Sévigné, France",
+    "updated": "December 16, 2014",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Watch TideWatch Tide, brings your favorite beach's tides on your Android Wear watch. More than 2700 beaches available from all around the world. All calculations are done offline so you can access daily tides without any internet connection ! The app is compatible for both square and round watches. It shows tides' graph, hours and heights and a beautiful beach picture from Flickr.Saint-Malo beach is the only one free by default, there is a one time in-app purchase in order to unlock all 2700 beaches.",
+    "descriptionHTML": "<b>Watch Tide</b><br><br>Watch Tide, brings your favorite beach&apos;s tides on your Android Wear watch. More than 2700 beaches available from all around the world. All calculations are done <b>offline</b> so you can access daily tides <b>without any internet connection</b> ! The app is compatible for both square and round watches. It shows tides&apos; graph, hours and heights and a beautiful beach picture from Flickr.<br><br>Saint-Malo beach is the only one free by default, there is a one time in-app purchase in order to unlock all 2700 beaches.",
+    "histogram": {
+        "1": 15,
+        "2": 3,
+        "3": 5,
+        "4": 3,
+        "5": 2
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/Dmo-v2lQ5Z9Vtg-vo3Eo6Wnzmrq9eCHCKv6xt6z2494sln56ZlYuM8-nG0a1c9U0yA=h310",
+        "//lh5.ggpht.com/8mkIz1b4Yuk7tUWIbKB4HtFS9hmPixav7sOGg4QwOVa1o74chCrdorP0BSqGGmdZdnY=h310",
+        "//lh6.ggpht.com/rlW9Zx8OFK70t8htTu1tvVqiGZj4X7VFtXo7goTVP1h_hsXIwZesP7tALfjoDrVG5X0=h310",
+        "//lh4.ggpht.com/DFQ4SBbhRN4e09X7xDB907-vYGdfAyMQoC8cI2VtxhC00CEPbhOgyEp2mBHmQqQYjms=h310"
+    ],
+    "comments": [
+        "Two things...  One,  it looks like a nice app. But we will never know because ALL FUNCTIONALITY IS BEHIND A PAY WALL.  That is your prerogative as a dev,  but consumers will go elsewhere.  Two,  the algorithm for adding daylight savings time is the easiest programming feat there is (even if you had people do it manually). Without that,  this app is deadly.   Buyer beware.",
+        "Lots of problems There's a time display that does not match current time; minutes are right but hour is wrong by 8 so probably not applying time zone correctly. It's hard to match up the displayed tide heights with tide heights listed by other services, they seem to be off by a few minutes at least. I can't change the units tide heights are displayed in. I can't reorder locations. Lack of dst support is a problem.",
+        "Don't get it.what good is a beach in France when I live on the other side of the world.i ain't going to buy because 1.i don't know how accurate/stable it is and 2.it only shows two beaches where I love and there is at 50+ around Auckland.",
+        "Doesnt work.  Pick a beach function inoperative even after paying fee.  Can not find any tools or settings to work wiith.",
+        "So far so good Paid to unlock the locations and added 4. Checked one myself and it was correct. Nice work. A watch face with the tide info would be great!",
+        "WatchTide Time zone messed up.  Useless app without correct time."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=fr.julienvermet.watchtide&hl=en&gl=us",
+    "appId": "fr.julienvermet.watchtide"
+}

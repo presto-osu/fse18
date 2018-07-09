@@ -1,0 +1,43 @@
+/*
+ * build.gradle - part of the GATOR project
+ *
+ * Copyright (c) 2018 The Ohio State University
+ *
+ * This file is distributed under the terms described in LICENSE in the
+ * root directory.
+ */
+
+group 'edu.osu.cse.presto'
+version '1.0-SNAPSHOT'
+
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.github.jengelman.gradle.plugins:shadow:2.0.2'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven {
+            name "soot-snapshot"
+            url "https://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot"
+        }
+        maven {
+            name "soot-release"
+            url "https://soot-build.cs.uni-paderborn.de/nexus/repository/soot-release"
+        }
+    }
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '4.7'
+    distributionType = Wrapper.DistributionType.ALL
+}

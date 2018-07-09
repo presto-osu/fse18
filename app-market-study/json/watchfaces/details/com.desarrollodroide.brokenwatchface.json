@@ -1,0 +1,50 @@
+{
+    "title": "Watchface Broken",
+    "summary": "A beautiful watchface that simulates a broken screen.",
+    "icon": "//lh4.ggpht.com/eS0O3s5TI6TPyToYolizvlCuQU84b4WgJ9rEnFKurDi3LNnBoB_WepyGZHGPSfwc5A=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 7,
+    "developer": "Desarrollo Droide",
+    "developerId": "Desarrollo+Droide",
+    "developerEmail": "desarrollodroide@gmail.com",
+    "developerWebsite": "http://desarrollodroide.com/",
+    "developerAddress": "C/Río guadalquivir 6, 4ºC\n28913 Leganés - Madrid (España)",
+    "updated": "August 29, 2017",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Broken watchface is a broken screen style watch face for your Android Wear device.  •  Android phone requires 4.3 and up, Android Wear requires 5.0 update. •  Works for round and squared watches •  12h/24h format Supported devices:Motorola Moto360, LG G Watch, LG G Watch R, Samsung Gear LIVE, not compatible with tizen (Samsung Gear or Gear 2, Gear S).NOTE: Please make sure that your watch is running Android Wear 5.0+. **Watch face will show up on your watch automatically. If it doesn't show up please go to the android wear app > Settings and Resync all apps**How to install:•  Download the app on Google Play (It will not install any app on the phone) • Tap & hold on the watch face on the Android Wear device or select from the companion app on your phone.",
+    "descriptionHTML": "<b>Broken watchface is a broken screen style watch face for your Android Wear device.  </b><br><br>&#x2022;  Android phone requires 4.3 and up, Android Wear requires 5.0 update. <br>&#x2022;  Works for round and squared watches <br>&#x2022;  12h/24h format <br><br><b>Supported devices:</b><br>Motorola Moto360, LG G Watch, LG G Watch R, Samsung Gear LIVE, not compatible with tizen (Samsung Gear or Gear 2, Gear S).<br><br>NOTE: Please make sure that your watch is running Android Wear 5.0+. <br><br><b>**Watch face will show up on your watch automatically. If it doesn&apos;t show up please go to the android wear app &gt; Settings and Resync all apps**</b><br><br><b>How to install:</b><br>&#x2022;  Download the app on Google Play (It will not install any app on the phone) <br>&#x2022; Tap &amp; hold on the watch face on the Android Wear device or select from the companion app on your phone.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/NtNcFMUSq2NxY2QLKOzpxjw_7KoTQS4Fuxw0Jol4yv7xdm4921yn8Fu9VQi11L2mgQc=h310",
+        "//lh5.ggpht.com/4yaYb6-EMv5URBtu-oI415QIKcIUccNDq-dxWXzzKZbJm-fqBF2FCecWMWbaCqyxiSU=h310",
+        "//lh3.ggpht.com/sk1oPkIDNNNR8GmYQnQQS8PJGkOxUQ4zqQK_sNCclyeRFD6uOAiJnYWofo7893PlisY4=h310",
+        "//lh3.googleusercontent.com/4DLWKrPLrXpnAVmqTS_xM3Ny0PicVnepIXE7rQwxfohJaj0KEHsrtTo_M_OQXjF5oQ=h310",
+        "//lh3.googleusercontent.com/ERCTWAQH7WwmnypLKw_XhILINPB8E8VjpsKk9IAFFtylNU3xS28pRqFUB0jv4RhbMYY=h310"
+    ],
+    "comments": [
+        "Looks good Would be perfect if the broken glass would be much darker to look more real (only cracks seen)."
+    ],
+    "recentChanges": [
+        "- Android wear 2.0 compatible"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.desarrollodroide.brokenwatchface&hl=en&gl=us",
+    "appId": "com.desarrollodroide.brokenwatchface"
+}

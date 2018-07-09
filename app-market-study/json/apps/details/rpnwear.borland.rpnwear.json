@@ -1,0 +1,49 @@
+{
+    "title": "Rpn Wear",
+    "summary": "A Reverse Polish Notation scientific calculator for Android Wear devices.",
+    "icon": "//lh3.googleusercontent.com/k6gJx2HqiSP7nY_kfqA-V3LjE4CcBTumxlUPxTmb7FOCn4tcl-PrTmAAVphOM2vQmaQ=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Michael Borland",
+    "developerId": "Michael+Borland",
+    "developerEmail": "michael.d.borland@gmail.com",
+    "developerAddress": "120 S HUDSON ST",
+    "updated": "September 16, 2017",
+    "version": "2.0",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "This app provides a Reverse Polish Notation (RPN) scientific calculator for Android Wear devices. In addition to basic arithmetic, it provides other functions, such as roots, powers, reciprocals, trigonometric functions, logs, exponentials, hyperbolic functions, factorials, and combinatorials. It also includes a generous selection of commonly-used physical constants, plus conversion of temperatures and angles. The grid of operators is accessed by swiping the keypad up and down. The RPN stack is 10 deep, with the x, y, and z registers available for viewing by pressing briefly on the numerical display.",
+    "descriptionHTML": "This app provides a Reverse Polish Notation (RPN) scientific calculator for Android Wear devices. In addition to basic arithmetic, it provides other functions, such as roots, powers, reciprocals, trigonometric functions, logs, exponentials, hyperbolic functions, factorials, and combinatorials. It also includes a generous selection of commonly-used physical constants, plus conversion of temperatures and angles. The grid of operators is accessed by swiping the keypad up and down. <br><br>The RPN stack is 10 deep, with the x, y, and z registers available for viewing by pressing briefly on the numerical display.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "6.0 and up",
+    "androidVersion": "6.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/s5JMqNKtOLNIcLSwPgrQIEAGihaaPq0AUFX6e4TlCR3OUMgxvmNApWbDYbBz3unEQg=h310",
+        "//lh3.googleusercontent.com/HYnP7sLN3rScKOqFVh5Gy8z5fKA0XqkFFEbVM_oIhBd5lGoelj8GqlaKJGN_NZsymng=h310",
+        "//lh3.googleusercontent.com/z18EX0_-D8b_AZn7tcbfpg7FXPgjH19S5IrgtgMPmjL25HTUMSTsPSypBwsKrLE5KtQ=h310",
+        "//lh3.googleusercontent.com/hJfCwesrpe7nZ4809eWpuNUxUmBSwXzK657IySUiJJPeGYQEZrOXqqJte7UFQLdABg=h310",
+        "//lh3.googleusercontent.com/oStrgDmDQ7Jo-8j_-Y6_I0VGla8Hr3sI7B2qV7Hgm6GJJZlzYmhulLw6DStgqEDaMA=h310",
+        "//lh3.googleusercontent.com/WSfVFhQmnQquRVzyUzaV1c9u-brtZlxQJq87jGLJt8h7DlXOoLr8SQfUEgcb43BXQg=h310",
+        "//lh3.googleusercontent.com/3rfwjZNNL40hd_uaMR4zs0zyr9CqMTUkjpK1Rxo14Ey2HXLw5gLzjqZKfTR0UbZH0f0=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Compatible with Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=rpnwear.borland.rpnwear&hl=en&gl=us",
+    "appId": "rpnwear.borland.rpnwear"
+}

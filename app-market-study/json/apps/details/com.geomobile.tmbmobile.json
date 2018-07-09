@@ -1,0 +1,60 @@
+{
+    "title": "TMBAPP (Metro Bus Barcelona)",
+    "summary": "TMB App is designed to put all the TMB information you need at your fingertips.",
+    "icon": "//lh3.googleusercontent.com/rxWH60baI--egv00WKL_Zps3MBZDPv9TPIeQbMe-d856RtdMuY3t_7ztjJRoZz9AtRE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 3.3,
+    "reviews": 2780,
+    "developer": "webmaster TMB",
+    "developerId": "webmaster+TMB",
+    "developerEmail": "webmaster@tmb.cat",
+    "developerWebsite": "http://www.tmb.cat",
+    "updated": "January 8, 2018",
+    "version": "6.1.0",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "TMB App is designed to put all the TMB information (Barcelona bus and metro) you need at your fingertips, wherever you are:- Access all TMB information quickly and easily: look up routes, nearest public transport, bus due times, operating hours, maps, alerts and everything you need to know for your journeys.- Log in via your favourite social media.- Save your favourite transport, places and routes to stay informed and speed up your searches from the main screens or using the widgets available on your mobile device.- See you favourites when you log into the TMB website or your JoTMBé account.- Intuitive accessible browsing thanks to Android operating system design standards.- Automatic language setting according to the language you use on your device.- Set the home screen with the view you use most or a simple start, for those less familiar with new technology.- Select the alerts you want to receive to stay informed of disruptions to bus and metro services, developments in public and exclusive promotions of leisure and cultural activities in Barcelona.- Contact the Customer services section for online procedures and queries.- You can use widgets on your Android dashboard. Consult instantly bus due times, public transport status, and do quick searches to get about on your regular routes (in the widget menu once you’ve installed the app).",
+    "descriptionHTML": "TMB App is designed to put all the TMB information (Barcelona bus and metro) you need at your fingertips, wherever you are:<br><br>- Access all TMB information quickly and easily: look up routes, nearest public transport, bus due times, operating hours, maps, alerts and everything you need to know for your journeys.<br>- Log in via your favourite social media.<br>- Save your favourite transport, places and routes to stay informed and speed up your searches from the main screens or using the widgets available on your mobile device.<br>- See you favourites when you log into the TMB website or your JoTMB&#xE9; account.<br>- Intuitive accessible browsing thanks to Android operating system design standards.<br>- Automatic language setting according to the language you use on your device.<br>- Set the home screen with the view you use most or a simple start, for those less familiar with new technology.<br>- Select the alerts you want to receive to stay informed of disruptions to bus and metro services, developments in public and exclusive promotions of leisure and cultural activities in Barcelona.<br>- Contact the Customer services section for online procedures and queries.<br>- You can use widgets on your Android dashboard. Consult instantly bus due times, public transport status, and do quick searches to get about on your regular routes (in the widget menu once you&#x2019;ve installed the app).",
+    "histogram": {
+        "1": 665,
+        "2": 203,
+        "3": 384,
+        "4": 599,
+        "5": 929
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/E-cXti52L8dNR5BQIYAyt9SngMTmt47tUE9pkHOcoFar3bUbHxLwEFbBwI3H3sr8YVOj=h310",
+        "//lh3.googleusercontent.com/8809CobINqet-YWNnLIjtd-ru5W_PlEji1z7oCW5KKzMj7Y-RO2mekKWxwiZpWPKZWE=h310",
+        "//lh3.googleusercontent.com/_OfbrkxPizqpwRCnwAth0yyqPjyh5TzIDaHedGKCX3jDpzSQM4kM5JEQTsv5na5W8u0=h310",
+        "//lh3.googleusercontent.com/D1wTz6tKqsr17Wk2deANBYdmS3MGGXhrHDUx8iIxLhnYWHG8r0H3qUQZ0NKHB47Z4zU=h310",
+        "//lh3.googleusercontent.com/-UOEfc8NBZMiqogkUGkEh7vUcxidP-EwEOvdRaGI95FlAqWNzrR44kdpjZdHKQh4FdE=h310"
+    ],
+    "comments": [
+        "A great app that we were able to start using straight away. Really liked the ability to save favourite places and the detailed written breakdown of the chosen route with interactive map to keep you on course. It made travel in Barcelona stress free.",
+        "The app is really good. You get the routes on map, bus stops, all the buses going through that bus stop. It also tells the expected arrival time. The only  drawback is it needs net access.",
+        "A public information app that forces you to sign up. Genius. And no, I don't want a \"personalized experience\" to just see the maps and the route planner does not need to know anything about me besides the origin and destination. Uninstalled.",
+        "Una kk. No funciona. Te obliga a registrarte y te lleva a una página web que no funciona. No he conseguido que funcione. Lo desistalo sin haberlo podido usar.",
+        "No entenc perquè m'he de donar d'alta per consultar horaris. Penós. Desinstal·lada immediatament, apa...",
+        "dont buy the online voucher! you need to print it at a ticket vending machine anyway. no departure times on routes visible! use google maps instead...."
+    ],
+    "recentChanges": [
+        "6.1.0",
+        "Every day we strive to innovate and improve the TMB App to provide you with the best possible information about public transport:",
+        "- We are introducing three new languages: French, German and Italian.",
+        "- Sign up for JoTMBé promotions from the home page.",
+        "- Personalise your profile with a picture using the Gravatar service.",
+        "- Enjoy the latest performance improvements to the Where I am section.",
+        "Download it and take advantage of all its benefits!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.geomobile.tmbmobile&hl=en&gl=us",
+    "appId": "com.geomobile.tmbmobile"
+}

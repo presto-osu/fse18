@@ -1,0 +1,51 @@
+{
+    "title": "Hockey Score Alert",
+    "summary": "See alerts on your Android Wear device when your favorite hockey team scores!",
+    "icon": "//lh4.ggpht.com/apKbGoIfvdpIS9wN7yRBk-8Q4nt8ConBF4tzRF639dq4WVtKqkjhmV0g5T6Dum1saBI=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 5,
+    "reviews": 5,
+    "developer": "Raxilwear",
+    "developerId": "Raxilwear",
+    "developerEmail": "support@raxilwear.com",
+    "developerAddress": "353 Preston St\nOttawa, ON Canada\nK1S 1V6",
+    "updated": "July 13, 2015",
+    "version": "1.0.3",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "Can't make it to a TV to watch the game? Missing out on the action and excitement of seeing your favorite team on the ice? Experience the pulse quickening rush and adrenaline of actually being at the game right on your wrist! Install Hockey Score Alert and keep up to date with the score of your favorite NHL® hockey team live as the game is being played. Notifications appear on your Android Wear device to alert you when your team or their opponent scores, when the game starts, or when a period ends.The goal of this app is simplicity and ease of use. Simply install Hockey Score Alert, launch the app on your phone, select your team and that's it. You will automatically receive notifications on your watch when your team is playing.Features: - Ability to select from any of the 30 NHL® hockey teams- Notifications are shown for the following events: pre-game start (2hrs before), game start, period end, goal score- Ability to enable/disable notifications- Animations are shown for game start and when your team scores- Different vibration types depending on if your team or the other team scores- Notifications + animations are styled according to playing teams' colors",
+    "descriptionHTML": "Can&apos;t make it to a TV to watch the game? Missing out on the action and excitement of seeing your favorite team on the ice? Experience the pulse quickening rush and adrenaline of actually being at the game right on your wrist! Install Hockey Score Alert and keep up to date with the score of your favorite NHL&#xAE; hockey team live as the game is being played. Notifications appear on your Android Wear device to alert you when your team or their opponent scores, when the game starts, or when a period ends.<br><br>The goal of this app is simplicity and ease of use. Simply install Hockey Score Alert, launch the app on your phone, select your team and that&apos;s it. You will automatically receive notifications on your watch when your team is playing.<br><br>Features: <br>- Ability to select from any of the 30 NHL&#xAE; hockey teams<br>- Notifications are shown for the following events: pre-game start (2hrs before), game start, period end, goal score<br>- Ability to enable/disable notifications<br>- Animations are shown for game start and when your team scores<br>- Different vibration types depending on if your team or the other team scores<br>- Notifications + animations are styled according to playing teams&apos; colors",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/k4J5qoGzL977_BAj0kCKIgeAns6zeT2CJyYqUnml7eLpas5yaQo_Srye5ZWPt5fzq7E=h310",
+        "//lh4.ggpht.com/YjF62764YitmshPQBFeFbWYm5uqpJYrBMFjRgoWBQQT38eEQD2tKHtT705m-u_UT7bE=h310",
+        "//lh6.ggpht.com/FLYt0YXGTM5dFV2T9rS1Wt1aY2WhEl-Q3yvqAgotNMefdK8XE2K0Z78WtxriKAYLT7mc=h310",
+        "//lh3.ggpht.com/BQ2vCxB4toQr7HQnXbjvaFOFb79C0-pH3D9kFH3puLF1AvfqB1L4eCFEgGehNiQAPA=h310",
+        "//lh5.ggpht.com/urVV2qTWp6PX3hQwqmahwqgnIPHVdIxfDemey2HHeFjG6RFReNg48uCxF_dInVAFKg=h310",
+        "//lh4.ggpht.com/0jWIWIRPImv2dyyswKytYxRs04P5MG4ws6n06xnrkm4uwcwqY23wVe21pBZFqsrifJ0=h310"
+    ],
+    "comments": [
+        "Like the goal animation / now I don't need my phone to follow my team nice small app. keep it simple"
+    ],
+    "recentChanges": [
+        "- Fix crash when game schedule empty",
+        "- Fix OOM error when showing goal animation on some watches"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.raxilwear.hockeyscorealert&hl=en&gl=us",
+    "appId": "com.raxilwear.hockeyscorealert"
+}

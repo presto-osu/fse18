@@ -1,0 +1,50 @@
+{
+    "title": "Pixel Watch Face",
+    "summary": "Analog Pixel Art Watch Face",
+    "icon": "//lh3.googleusercontent.com/7yk9oQgzW5K5sDMANXpKUKp6Zh1O7w51C1NonPM_1mTul5Xss9CAj9_Ge_K_vlX8gmY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.5,
+    "reviews": 8,
+    "developer": "Ryan Petersen",
+    "developerId": "Ryan+Petersen",
+    "developerEmail": "rpetersen.dev@gmail.com",
+    "developerWebsite": "http://rpetersen29.github.io",
+    "updated": "May 13, 2015",
+    "version": "1.1.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "This is a free Android Wear Watch Face using an original pixel art of mountains. It's compatible with square and round Android Wear devices. Also it's free and tells you the time, assuming you can read an analog watch face. If you cannot read an analog watch face, then it's just a pretty background and you should also download it because its free and pretty. Everyone likes pretty things!Instructions:Via phone/tablet: Open the “Android Wear” app, tap the “More” button in the watchface section, and select the \"Pixel Analog\" watch faceVia watch: Long press your watch face and select the \"Pixel Analog\" watch face",
+    "descriptionHTML": "This is a free Android Wear Watch Face using an original pixel art of mountains. It&apos;s compatible with square and round Android Wear devices. Also it&apos;s free and tells you the time, assuming you can read an analog watch face. If you cannot read an analog watch face, then it&apos;s just a pretty background and you should also download it because its free and pretty. Everyone likes pretty things!<br><br>Instructions:<br>Via phone/tablet: Open the &#x201C;Android Wear&#x201D; app, tap the &#x201C;More&#x201D; button in the watchface section, and select the &quot;Pixel Analog&quot; watch face<br>Via watch: Long press your watch face and select the &quot;Pixel Analog&quot; watch face",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 3,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Baf-ca6uHpUF3LBawgatGbnjxj-wsfV_Z5HllTPzPbXOOwxkxuDW_MsSwDNb8fOLsw=h310",
+        "//lh3.googleusercontent.com/D92JT-8kTiUJQUkpfXYBodKh37-XalaOR2_e1WtshbozCGdNQDJav9FbeKiEgS8RmgM9=h310"
+    ],
+    "comments": [
+        "Love the face. Need a fix for ambient mode though. Numbers show up fine, but no hands. Maybe it's black on black? (Edit: super awesome quick response. Perfect now)",
+        "Looks good - No Ambient mode It looks really good, I just wish it had ambient mode. The majority of androidwear watches have an AMOLED display and it would be a great addition along with a digital mode. :)",
+        "Nice and simple!"
+    ],
+    "recentChanges": [
+        "- Corrected versioning number system",
+        "- Made ambient mode watch hands light grey so you can see them better",
+        "- Generally was pretty badass all week"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ryanpetersen.pixelwatchface&hl=en&gl=us",
+    "appId": "com.ryanpetersen.pixelwatchface"
+}

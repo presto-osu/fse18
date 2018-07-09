@@ -1,0 +1,47 @@
+{
+    "title": "Bricks Towers for Wear",
+    "summary": "Move bricks to merge them into big one",
+    "icon": "//lh4.ggpht.com/A5gxbdBUdkdik0U2vTVyDbXz7pHf9aQY0r18MbGcCEP4Z9P-U1Swnc6-hNgVR2ft5IY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 6,
+    "developer": "PojaSoft",
+    "developerId": "PojaSoft",
+    "developerEmail": "pojasoft@gmail.com",
+    "developerWebsite": "http://www.pojasoft.com/",
+    "updated": "December 16, 2014",
+    "version": "5.0",
+    "genre": "Board",
+    "genreId": "GAME_BOARD",
+    "description": "The Bricks Towers app is a fun, addictive and a very simple puzzle game. Join the numbers and get to the 2048 or 1948 tile!Move bricks to merge them into big one !The most perfect number puzzle game for Android !Also available on wear platform.",
+    "descriptionHTML": "The Bricks Towers app is a fun, addictive and a very simple puzzle game. <br>Join the numbers and get to the 2048 or 1948 tile!<br><br>Move bricks to merge them into big one !<br><br>The most perfect number puzzle game for Android !<br>Also available on wear platform.",
+    "histogram": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "3.2 and up",
+    "androidVersion": "3.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/pjjeP9vsektTr6ETqBCFDpNmYY7pE9MZOJ0bjuM9V1qwpCKxODJGovhvHmGpC3aWL04=h310",
+        "//lh3.googleusercontent.com/j7o24q3vaSV0VSnSvzsgbSAdnlJTAaKg54vg74cvcSWMPMXzQu87YGKHRUS6i4KfyFY=h310",
+        "//lh3.ggpht.com/eFC_0VBXvrkGEYTnfGd0U1esxvq3gwB96EOlsselnFooL87abD0l_z5b1uPI9idpNQ=h310"
+    ],
+    "comments": [
+        "The most addictive and smart game I just love the graphics and the enjoyment when playing this game."
+    ],
+    "recentChanges": [
+        "fix crash on wear platform"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.pojasoft.brickstowers&hl=en&gl=us",
+    "appId": "com.pojasoft.brickstowers"
+}

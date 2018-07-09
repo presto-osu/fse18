@@ -1,0 +1,57 @@
+{
+    "title": "WristMail for Wear (ex K9W)",
+    "summary": "Your emails, now on Android Wear.",
+    "icon": "//lh3.googleusercontent.com/rxMRE36FTs8aF3a062h7siZ28Ai1QUHkHYOqzIdJAHx_MdQN33varSxHW2KCesFZ_1o=w300",
+    "price": "$1.12",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.9,
+    "reviews": 57,
+    "developer": "Dream Code",
+    "developerId": "5005949867149125533",
+    "developerEmail": "support@dreamcode.it",
+    "developerWebsite": "http://dreamcode.it/wrm/",
+    "developerAddress": "Via Pantano 112,\nPaterno (PZ),\n85050,\nItalia",
+    "updated": "April 19, 2016",
+    "version": "1.0.8",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "WristMail is a fully fledged mail client for Android and Android Wear with:- Full Android Wear email notifications support, including stacked notifications, full second page preview and actions- The keyboards from Wear Messenger.- A full app for the watch, letting you see your email inbox and replyMore features will come with time and as requests come. Sure, I meant requests! I will always glad to listen your ideas to improve this app, so please if you have any let me know!Please remember, this is the first version. There may be imperfections, but we promise we will try to figure them out as soon as possible.Please check the faq (the website link below) if you have any questions. If you can't find an answer, feel free to contact me.",
+    "descriptionHTML": "WristMail is a fully fledged mail client for Android and Android Wear with:<br><br>- Full Android Wear email notifications support, including stacked notifications, full second page preview and actions<br>- The keyboards from Wear Messenger.<br>- A full app for the watch, letting you see your email inbox and reply<br><br>More features will come with time and as requests come. Sure, I meant requests! I will always glad to listen your ideas to improve this app, so please if you have any let me know!<br>Please remember, this is the first version. There may be imperfections, but we promise we will try to figure them out as soon as possible.<br><br>Please check the faq (the website link below) if you have any questions. If you can&apos;t find an answer, feel free to contact me.",
+    "histogram": {
+        "1": 6,
+        "2": 5,
+        "3": 4,
+        "4": 17,
+        "5": 25
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/pvLANwKXUtuCy7zX7FWH13xO7fyeYIJhf-qZLoH5o1B0n1bqLRRhF_w5dvkeWGPLuzU=h310",
+        "//lh6.ggpht.com/d9cYrKfGxBZb-oLZKBh-LVKlKz7P1Czaid904OGhdbvB6a9ogI0WNltxdY6mmx0BXA=h310",
+        "//lh4.ggpht.com/5WXHKwlfey57ulCU3pq8Nj9c6OL39MqVzJV_xZLLkx84igdslIeSJ0s2WF8Ti8DC1g=h310",
+        "//lh3.googleusercontent.com/PCJqqkQN3Hc6cO9IN7c-jIezpS6ZzPX9iadq6TbTxVYSOPEjD-VbWISWVcgyne1-6z8=h310",
+        "//lh3.googleusercontent.com/d5Nodl5TaEBDATmvadTPGe4qCnGxv9_g32gn2rfnmFR20PqC_4_QOjsQRFjG5T8iFOr1=h310"
+    ],
+    "comments": [
+        "Forwarding of attachments Hi. Since upgrading to the latest version of wristmail for wear, where the name changed, I have not been able to forward attachments on my Sony Xperia Z1 compact even after the attachment has been downloaded. When I tap forward, the attachment is not included and has to be manually attached. Can anyone help me here. Thanks.",
+        "Error while installing If I try to install the app I get the error code 505. OS: Android 6.0.1 Smartwatch: Moto 360 Sport",
+        "Awesome, but why no layout in watch? It is fantastic! Good work. However, why it is plain text with no layout in watch? No paragraph at all. I couldn't read my mail like that.",
+        "Great email app Love it.  Based on K9 mail I think, but with wear support.  I also prefer it over stock Android email and I use it on non wear devices too.",
+        "Good email for wear Good email for wear but I wish I could compose new emails and have the option to forward emails too from the watch.",
+        "Great app but needs update to reflect k9mail merge to lastest version."
+    ],
+    "recentChanges": [
+        "Touchone support",
+        "Always show subject option",
+        "Merge with 5.010"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.fsck.k9w&hl=en&gl=us",
+    "appId": "com.fsck.k9w"
+}

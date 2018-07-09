@@ -1,0 +1,51 @@
+{
+    "title": "Dokin 心拍数、ハート、ドキドキを共有",
+    "summary": "心拍数を共有できるアプリです。wear(ウォッチ)から取得した心拍数を友達と共有できます。大事な人の心拍や、いつ、どこでドキドキしたかを感じることができます。",
+    "icon": "//lh3.googleusercontent.com/POXwbP4DNxTxstQ6RJ-ZGTATFZqzRjTIKKdpbuwXBKavIi0CFIQVqd3yFbfh29nRg2-2=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 2,
+    "developer": "taka4kato",
+    "developerId": "taka4kato",
+    "developerEmail": "lucky.ponies@gmail.com",
+    "developerWebsite": "http://kato-takashi.github.io/dokin_web/",
+    "updated": "February 4, 2016",
+    "version": "1.06",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "　本アプリは心拍数を共有できるアプリです。心拍数を共有することで、離れて住む家族や恋人の心拍を知ったり、ライブ会場などで、盛り上がった熱狂を共有したり、合コンやお見合いパーティなどで、ドキドキを記録できたりします。　心拍数はandroid wear(ウォッチ)の心拍センサーから、心拍数(BPM)を取得します。取得された心拍はスマートフォンに送信され、サーバに送信、保存されます。　共有の方法は大きく分けて２種類あります。フォロワーにのみ心拍を共有する方法と、位置情報で共有する方法があります。　フォロワーのみに心拍を公開するためにはフォローリクエストを送信し、承諾されると閲覧が可能な状態になります。こちらは、すでに知っている友達や家族などの心拍を知ることができる機能です。　位置情報で共有する場合は、位置情報に紐付いた心拍の共有が可能で、フォロー関係がなくても閲覧が可能です（誰でも閲覧が可能です）。ただし、マップ上に置かれているマーカーの円周辺に移動しないと見ることができません。こちらの機能はスマートフォンのGPSを用いて現在地を取得しています。合コンやお見合いパーティーなどの不特定多数と共有したい場合に手軽に使用できる機能です。　自分以外の心拍数を楽しむ新しいアプリです。",
+    "descriptionHTML": "&#x3000;&#x672C;&#x30A2;&#x30D7;&#x30EA;&#x306F;&#x5FC3;&#x62CD;&#x6570;&#x3092;&#x5171;&#x6709;&#x3067;&#x304D;&#x308B;&#x30A2;&#x30D7;&#x30EA;&#x3067;&#x3059;&#x3002;&#x5FC3;&#x62CD;&#x6570;&#x3092;&#x5171;&#x6709;&#x3059;&#x308B;&#x3053;&#x3068;&#x3067;&#x3001;&#x96E2;&#x308C;&#x3066;&#x4F4F;&#x3080;&#x5BB6;&#x65CF;&#x3084;&#x604B;&#x4EBA;&#x306E;&#x5FC3;&#x62CD;&#x3092;&#x77E5;&#x3063;&#x305F;&#x308A;&#x3001;&#x30E9;&#x30A4;&#x30D6;&#x4F1A;&#x5834;&#x306A;&#x3069;&#x3067;&#x3001;&#x76DB;&#x308A;&#x4E0A;&#x304C;&#x3063;&#x305F;&#x71B1;&#x72C2;&#x3092;&#x5171;&#x6709;&#x3057;&#x305F;&#x308A;&#x3001;&#x5408;&#x30B3;&#x30F3;&#x3084;&#x304A;&#x898B;&#x5408;&#x3044;&#x30D1;&#x30FC;&#x30C6;&#x30A3;&#x306A;&#x3069;&#x3067;&#x3001;&#x30C9;&#x30AD;&#x30C9;&#x30AD;&#x3092;&#x8A18;&#x9332;&#x3067;&#x304D;&#x305F;&#x308A;&#x3057;&#x307E;&#x3059;&#x3002;<br>&#x3000;&#x5FC3;&#x62CD;&#x6570;&#x306F;android wear(&#x30A6;&#x30A9;&#x30C3;&#x30C1;)&#x306E;&#x5FC3;&#x62CD;&#x30BB;&#x30F3;&#x30B5;&#x30FC;&#x304B;&#x3089;&#x3001;&#x5FC3;&#x62CD;&#x6570;(BPM)&#x3092;&#x53D6;&#x5F97;&#x3057;&#x307E;&#x3059;&#x3002;&#x53D6;&#x5F97;&#x3055;&#x308C;&#x305F;&#x5FC3;&#x62CD;&#x306F;&#x30B9;&#x30DE;&#x30FC;&#x30C8;&#x30D5;&#x30A9;&#x30F3;&#x306B;&#x9001;&#x4FE1;&#x3055;&#x308C;&#x3001;&#x30B5;&#x30FC;&#x30D0;&#x306B;&#x9001;&#x4FE1;&#x3001;&#x4FDD;&#x5B58;&#x3055;&#x308C;&#x307E;&#x3059;&#x3002;<br>&#x3000;&#x5171;&#x6709;&#x306E;&#x65B9;&#x6CD5;&#x306F;&#x5927;&#x304D;&#x304F;&#x5206;&#x3051;&#x3066;&#xFF12;&#x7A2E;&#x985E;&#x3042;&#x308A;&#x307E;&#x3059;&#x3002;&#x30D5;&#x30A9;&#x30ED;&#x30EF;&#x30FC;&#x306B;&#x306E;&#x307F;&#x5FC3;&#x62CD;&#x3092;&#x5171;&#x6709;&#x3059;&#x308B;&#x65B9;&#x6CD5;&#x3068;&#x3001;&#x4F4D;&#x7F6E;&#x60C5;&#x5831;&#x3067;&#x5171;&#x6709;&#x3059;&#x308B;&#x65B9;&#x6CD5;&#x304C;&#x3042;&#x308A;&#x307E;&#x3059;&#x3002;<br>&#x3000;&#x30D5;&#x30A9;&#x30ED;&#x30EF;&#x30FC;&#x306E;&#x307F;&#x306B;&#x5FC3;&#x62CD;&#x3092;&#x516C;&#x958B;&#x3059;&#x308B;&#x305F;&#x3081;&#x306B;&#x306F;&#x30D5;&#x30A9;&#x30ED;&#x30FC;&#x30EA;&#x30AF;&#x30A8;&#x30B9;&#x30C8;&#x3092;&#x9001;&#x4FE1;&#x3057;&#x3001;&#x627F;&#x8AFE;&#x3055;&#x308C;&#x308B;&#x3068;&#x95B2;&#x89A7;&#x304C;&#x53EF;&#x80FD;&#x306A;&#x72B6;&#x614B;&#x306B;&#x306A;&#x308A;&#x307E;&#x3059;&#x3002;&#x3053;&#x3061;&#x3089;&#x306F;&#x3001;&#x3059;&#x3067;&#x306B;&#x77E5;&#x3063;&#x3066;&#x3044;&#x308B;&#x53CB;&#x9054;&#x3084;&#x5BB6;&#x65CF;&#x306A;&#x3069;&#x306E;&#x5FC3;&#x62CD;&#x3092;&#x77E5;&#x308B;&#x3053;&#x3068;&#x304C;&#x3067;&#x304D;&#x308B;&#x6A5F;&#x80FD;&#x3067;&#x3059;&#x3002;<br>&#x3000;&#x4F4D;&#x7F6E;&#x60C5;&#x5831;&#x3067;&#x5171;&#x6709;&#x3059;&#x308B;&#x5834;&#x5408;&#x306F;&#x3001;&#x4F4D;&#x7F6E;&#x60C5;&#x5831;&#x306B;&#x7D10;&#x4ED8;&#x3044;&#x305F;&#x5FC3;&#x62CD;&#x306E;&#x5171;&#x6709;&#x304C;&#x53EF;&#x80FD;&#x3067;&#x3001;&#x30D5;&#x30A9;&#x30ED;&#x30FC;&#x95A2;&#x4FC2;&#x304C;&#x306A;&#x304F;&#x3066;&#x3082;&#x95B2;&#x89A7;&#x304C;&#x53EF;&#x80FD;&#x3067;&#x3059;&#xFF08;&#x8AB0;&#x3067;&#x3082;&#x95B2;&#x89A7;&#x304C;&#x53EF;&#x80FD;&#x3067;&#x3059;&#xFF09;&#x3002;&#x305F;&#x3060;&#x3057;&#x3001;&#x30DE;&#x30C3;&#x30D7;&#x4E0A;&#x306B;&#x7F6E;&#x304B;&#x308C;&#x3066;&#x3044;&#x308B;&#x30DE;&#x30FC;&#x30AB;&#x30FC;&#x306E;&#x5186;&#x5468;&#x8FBA;&#x306B;&#x79FB;&#x52D5;&#x3057;&#x306A;&#x3044;&#x3068;&#x898B;&#x308B;&#x3053;&#x3068;&#x304C;&#x3067;&#x304D;&#x307E;&#x305B;&#x3093;&#x3002;&#x3053;&#x3061;&#x3089;&#x306E;&#x6A5F;&#x80FD;&#x306F;&#x30B9;&#x30DE;&#x30FC;&#x30C8;&#x30D5;&#x30A9;&#x30F3;&#x306E;GPS&#x3092;&#x7528;&#x3044;&#x3066;&#x73FE;&#x5728;&#x5730;&#x3092;&#x53D6;&#x5F97;&#x3057;&#x3066;&#x3044;&#x307E;&#x3059;&#x3002;&#x5408;&#x30B3;&#x30F3;&#x3084;&#x304A;&#x898B;&#x5408;&#x3044;&#x30D1;&#x30FC;&#x30C6;&#x30A3;&#x30FC;&#x306A;&#x3069;&#x306E;&#x4E0D;&#x7279;&#x5B9A;&#x591A;&#x6570;&#x3068;&#x5171;&#x6709;&#x3057;&#x305F;&#x3044;&#x5834;&#x5408;&#x306B;&#x624B;&#x8EFD;&#x306B;&#x4F7F;&#x7528;&#x3067;&#x304D;&#x308B;&#x6A5F;&#x80FD;&#x3067;&#x3059;&#x3002;<br>&#x3000;&#x81EA;&#x5206;&#x4EE5;&#x5916;&#x306E;&#x5FC3;&#x62CD;&#x6570;&#x3092;&#x697D;&#x3057;&#x3080;&#x65B0;&#x3057;&#x3044;&#x30A2;&#x30D7;&#x30EA;&#x3067;&#x3059;&#x3002;",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/wYzhFdetA0Ps25XMr1ZVI9LYFHt-JmebSDg6BCSWYUDWMydLWGDqFiPeWlnFE2LhB2w=h310",
+        "//lh3.googleusercontent.com/UaYLPDaPGWa0Yju-wKJqc0xzi9YTn35Us2O071OyBO51DzyrcH4hRz_sc-Z3y4cychc=h310",
+        "//lh3.googleusercontent.com/fsn3b3AfW1qPzhKXfpB5XwFlEPqTCxzozY-dH2zYKrwTh9XAW5RzXYFN9hlbd0SewQ=h310",
+        "//lh3.googleusercontent.com/pUuvG1Aa0BIz852tbLpLXofMM6i1_ZiZLapI2aqFWlgS8ZJxxbDXpCQMk9GFYPJ1YQ=h310",
+        "//lh3.googleusercontent.com/h2sFV35oJRausueIqV7oKSdCYrZzA4vgdAI3vG8m452JHN8LNk48M6NgFnLwAJRcGg=h310",
+        "//lh3.googleusercontent.com/6-gxZgB7XXeND5hkFzhSKbKdi-4t9WxQ-uFvh4QOdGCBBakkQe2BlgS8JvXXPlAiVcY=h310",
+        "//lh3.googleusercontent.com/C8u8Cl9E0nUnsiTpmfjkgZkRrOJoblH16K2wPUIzzz1iQXAiN_hKe2jle89lzeT4Z3g=h310",
+        "//lh3.googleusercontent.com/p3lEK7doiHw1OPxAifZdqgGsaT90tOYCNuIoljeDTtqq5psHpLWx_nSsNTjY1FUjhtA=h310",
+        "//lh3.googleusercontent.com/nugFssLj8S4yYv1DUjS-9Mz_o7fjAGTzhDgNwlLj8L9EVc3Zz5Vujp3H85XRznVGKqcc=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "アプリを完全に終了した時に、wearも自動で終了する処理を追加"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.lucky_ponies.dokin&hl=en&gl=us",
+    "appId": "com.lucky_ponies.dokin"
+}

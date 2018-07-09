@@ -1,0 +1,49 @@
+{
+    "title": "Wear Alert for Tasker",
+    "summary": "Send alerts to your Android Wear watch using Tasker!",
+    "icon": "//lh3.googleusercontent.com/v-TgaQl-PIwq8nyyqZHQYw_DOU4azAG3LPk5I4ltmETb4j2yjRUhffOfnKSd2ZcN54N3=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.7,
+    "reviews": 6,
+    "developer": "Konrad Iturbe - Chernowii",
+    "developerId": "8327692895936242590",
+    "developerEmail": "mail@chernowii.com",
+    "developerWebsite": "http://chernowii.com",
+    "developerAddress": "The internet\nAFK: Calle Timoteo Padros 14, 28200 El Escorial, Madrid, Spain",
+    "updated": "May 13, 2016",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This Tasker plugin allows you to send custom alerts to your watch, for instance a Toast, a Fullscreen alert or a notification.",
+    "descriptionHTML": "This Tasker plugin allows you to send custom alerts to your watch, for instance a Toast, a Fullscreen alert or a notification.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/iRZS00hVHJ2xF_pvrAjKV370c65pHub_VIkGVeM9BHyv8HfjFn_HbDwiI-FVePTeOfU=h310",
+        "//lh3.googleusercontent.com/Cai5lDbbYFUyYxysDbYEr-5iabNyUikmu1t5GBRgsO8t25sE3su1o2YjFp6g1c4WqbE=h310",
+        "//lh3.googleusercontent.com/luzZIVVUE7aZyEG106VF4yNhL14JYU-8J39FRIX_EzzrfZdIHXrmFeyicXbCZfYiyiJT=h310",
+        "//lh3.googleusercontent.com/fyWNZpvEnVa9DIcff7B-SfHoofvCTNaTHNA4dKsRO2oYVBcZDoCUPWUj551InvZf-0w=h310"
+    ],
+    "comments": [
+        "Crashes on toasts Need fix ASAP",
+        "So you need \"automateit\" to connect to Tasker? Yeah no thanks",
+        "Didn't work. SWR50. Kept resetting, didn't send, and tried to get me to download another app. Wish it worked but it didn't."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chernowii.wearalert&hl=en&gl=us",
+    "appId": "com.chernowii.wearalert"
+}

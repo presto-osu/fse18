@@ -1,0 +1,58 @@
+{
+    "title": "Rewardle",
+    "summary": "Enjoy using Rewardle to collect points, redeem rewards, order ahead and prepay.",
+    "icon": "//lh3.googleusercontent.com/W3NewhhcrxLArlEY-e9TO5lycKXnTjSBrhWQXnmhIE7thxR1WOhpsGm5QE2ivdva8g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 3.3,
+    "reviews": 771,
+    "developer": "Rewardle Pty Ltd",
+    "developerId": "Rewardle+Pty+Ltd",
+    "developerEmail": "support@rewardle.com",
+    "developerWebsite": "http://www.rewardle.com",
+    "developerAddress": "Level 4,\n10-16 Queen Street,\nMelbourne 3000,\nVictoria\nAustralia",
+    "updated": "February 8, 2018",
+    "version": "4.3.11",
+    "genre": "Shopping",
+    "genreId": "SHOPPING",
+    "description": "Use Rewardle at your favourite local businesses all across Australia to collect points and redeem rewards. With Rewardle you can also order, prepay and unlock special features and benefits only available to app members. The Rewardle app allows you to:• View all your visited favourite local businesses.• Order ahead before you arrive.• Mobile payment, no need to carry cash with you.• Link your Rewardle card, to keep your points, rewards and offers in one place. We take your security seriously. Your credit card information is never stored by Rewardle or on your device. Your information is stored securely by our payment service provider. Review our Privacy Policy for additional security question or feel free to contact us at support@rewardle.com. Learn more about our Android permissions: http://www.rewardle.com/permissions/androidLike us on Facebook: http://www.facebook.com/rewardleFollow us on Twitter: http://twitter.com/wearerewardle",
+    "descriptionHTML": "Use Rewardle at your favourite local businesses all across Australia to collect points and redeem rewards. With Rewardle you can also order, prepay and unlock special features and benefits only available to app members.<br> <br>The Rewardle app allows you to:<br><br>&#x2022; View all your visited favourite local businesses.<br>&#x2022; Order ahead before you arrive.<br>&#x2022; Mobile payment, no need to carry cash with you.<br>&#x2022; Link your Rewardle card, to keep your points, rewards and offers in one place.<br> <br>We take your security seriously. Your credit card information is never stored by Rewardle or on your device. Your information is stored securely by our payment service provider.<br> <br>Review our Privacy Policy for additional security question or feel free to contact us at support@rewardle.com.<br> <br>Learn more about our Android permissions: http://www.rewardle.com/permissions/android<br>Like us on Facebook: http://www.facebook.com/rewardle<br>Follow us on Twitter: http://twitter.com/wearerewardle",
+    "histogram": {
+        "1": 161,
+        "2": 78,
+        "3": 127,
+        "4": 188,
+        "5": 217
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hCpvIY_najCfybyHEID_fQbytzMgb9zmDUuOnlKC8Oy-eRJHllAWIccm8UX_gmKbS1Q=h310",
+        "//lh3.googleusercontent.com/3UMmnV-_u_W2Np1hDG_QHJksi_lsaUVda64_S4PSwgPTUxfIW0I5VdfhqOm5QSv_SQ=h310",
+        "//lh3.googleusercontent.com/vdjCLkhcb8QuG4l_DmPuTKSISNPYUjh6q8J0IQ9ExbPswLutj7zi7KIwm6HMQN6nqEU=h310",
+        "//lh3.googleusercontent.com/OviPtDqOJPSBGC85v6k9jcYmCMB1nCee4CslZXRIydNbHJP0GrQhMGmtS9DRYQnVHg=h310",
+        "//lh3.googleusercontent.com/XyEM4BFDX0ZxDqDs3JisW76Sk1bxjppmL3m-Fz5QziEmGxnhsvQlGi9btNfw8IksxA=h310",
+        "//lh3.googleusercontent.com/DQ7tKjl7TJKkegVgrHzdrNjPdzDDeyEZZAfWqEAqfgB_Le64giTMV134S5QOdRG_u3q3=h310",
+        "//lh3.googleusercontent.com/EQKJXQ4GxaB9xF6AZk-nOyRSN_Kt-eP0c80Bq80A5csHhJmwccwptsFYWlIjx7V_3zk=h310"
+    ],
+    "comments": [
+        "I use this app a lot for storing the reward cards, but when trying to open to scan it just takes too long and i don't bother. It seems if I'm in a low signal areas it take even longer. Would be good if i could create shortcuts to open a reward card directly and have it happen in a timely manner.",
+        "Adding new cards leaves a lot to be desired. Can't edit manually entered barcode number, have to completely delete card and start over. Photos are *WAY* off center from the viewfinder mask and there's no way to crop or correct - have to guess and compensate manually, takes many tries. Apparently very limited barcode standard support - won't scan originals and result looks nothing like original.",
+        "Update: App updated, still can't log into my account. Emailed numerous times, takes ages for a response and still no fix   Trying to log in after a \"merge\" and being locked out. Now I get constant network connectivity errors. Had no access to the app and my account for weeks now.",
+        "This would be better if the rewards cards are on one simple page instead of scrolling all theway to the right Eg: make it so the boxes are all smaller and viewable in one go for less scrolling. Having over 20 rewards cards and scrolling all the way to the right is not convenient",
+        "I love having all my rewsrd cards in one place. I hope they release a map with all the place rewardle can be used soon. And what is this ribbons thing?",
+        "While registration it asks to confirm the acc trough the phone number , and the thing is I can't change the county to put my number there. Maybe its another bug"
+    ],
+    "recentChanges": [
+        "• Added credit card scanning in payment areas",
+        "• Bug fixes and performance improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rewardle.rewardle&hl=en&gl=us",
+    "appId": "com.rewardle.rewardle"
+}

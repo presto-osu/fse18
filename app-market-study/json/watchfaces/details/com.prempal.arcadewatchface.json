@@ -1,0 +1,54 @@
+{
+    "title": "Arcade Watchface",
+    "summary": "Give your watch an arcade look!",
+    "icon": "//lh3.googleusercontent.com/wLD25OirA58dT7JcgJwKADzfe6SGoefVAknkLmOzb-ELzn820pwAT44ksnoO_8Lr5w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 90,
+    "developer": "iostreamer",
+    "developerId": "iostreamer",
+    "developerEmail": "prempal.42@gmail.com",
+    "developerWebsite": "http://prempalsingh.github.io",
+    "developerAddress": "Pankha Road, New Delhi 110045",
+    "updated": "August 17, 2015",
+    "version": "1.01",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Arcade Watchface is an arcade-styled watchface for Android Wear. The watchface has a customizable background and text color.Supported devices- Works on all Android Wear devices- Does NOT work on Samsung Gear and smartwatches using other operating systems Arcade Watchface is open source and you can check out the project on Github. Star it if you like it.(https://github.com/prempalsingh/arcade-watchface)Flippa token - 656d6bedcb",
+    "descriptionHTML": "Arcade Watchface is an arcade-styled watchface for Android Wear. The watchface has a customizable background and text color.<br><br><b>Supported devices</b><br>- Works on all Android Wear devices<br>- Does NOT work on Samsung Gear and smartwatches using other operating systems <br><br>Arcade Watchface is open source and you can check out the project on Github. Star it if you like it.(https://github.com/prempalsingh/arcade-watchface)<br><br>Flippa token - 656d6bedcb",
+    "histogram": {
+        "1": 6,
+        "2": 4,
+        "3": 8,
+        "4": 31,
+        "5": 41
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/B5KYKmZZUozcz9H4Rj4vJdEKKULroBTKIGVJzFwMK2RoLjFke-iBEkRLIGBmzTKscQ=h310",
+        "//lh3.googleusercontent.com/cJ-9AE9-lp7kdOvOAPtZvVpjsPnz1UWLRFvGD1jlP8-TmupfqPZX0IagzP7Sn6hsqSw=h310",
+        "//lh3.googleusercontent.com/2ki8BjgziBtQu3WMMrLo5mu6r7Q2QTvLNZJFsE2xPJU70RxKULG9hXAJqPbKSGQoJb4H=h310"
+    ],
+    "comments": [
+        "12 hour format? Is there any way to change to a 12 hour format? Thanks to this watch I have a better grasp on military time, but yeah.",
+        "Functions great, simple and easy Just wish i could choose yellow too but that's just me being picky",
+        "Neat A nice simple retro arcade look. I use military time for work.  But to have the option for a 12 hour setting would be nice.  Even date format.",
+        "Under notifications If you move it up a few pixels, it won't be under my notifications on my Moto 360",
+        "いい感じ 古い感じが好き。特にオプションもないし、もっさりせず使いやすい。",
+        "Can't change color or back ground on lg g watch 5 stars if fixed please"
+    ],
+    "recentChanges": [
+        "-Removed unnecessary permissions",
+        "-Reduced size"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.prempal.arcadewatchface&hl=en&gl=us",
+    "appId": "com.prempal.arcadewatchface"
+}

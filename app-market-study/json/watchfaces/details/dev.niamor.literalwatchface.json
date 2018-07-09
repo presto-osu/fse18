@@ -1,0 +1,54 @@
+{
+    "title": "Literal WatchFace",
+    "summary": "This clock shows you the time in words, highlighted letters tell the time.",
+    "icon": "//lh3.googleusercontent.com/gs9jAFuqgwtsrTrd_6bpXO2AUPvz3RX0HGX47CpoyDeOhJyTm-TAmeif5WfMABqgzIE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.3,
+    "reviews": 70,
+    "developer": "Niamor",
+    "developerId": "Niamor",
+    "developerEmail": "niamor.dev@gmail.com",
+    "updated": "February 29, 2016",
+    "version": "1.8.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Literal Watch Face shows you the time in words, in a very modern and design way.The time is shown in slices of five minutes, the round above the grid give the precise minute.Its clear interface will delight all Android Wear devices users.It is highly customizable to match the tastes of all.It can be configured directly from the watch or the phone.Multiple languages are available: English, French, Spanish, Germand and Dutch.Compatible with all Android Wear watches, square or round.",
+    "descriptionHTML": "Literal Watch Face shows you the time in words, in a very modern and design way.<br>The time is shown in slices of five minutes, the round above the grid give the precise minute.<br><br>Its clear interface will delight all Android Wear devices users.<br>It is highly customizable to match the tastes of all.<br>It can be configured directly from the watch or the phone.<br><br>Multiple languages are available: English, French, Spanish, Germand and Dutch.<br><br>Compatible with all Android Wear watches, square or round.",
+    "histogram": {
+        "1": 6,
+        "2": 2,
+        "3": 7,
+        "4": 8,
+        "5": 47
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ESdVq_EuUtRWn-dDD1XzZldG4RkZHKqZvWlDFsFWf-wFdA21b5IUyAkx8Yj6P8r3QQ=h310",
+        "//lh3.googleusercontent.com/MOrkBOGwJik8F-_EWrdQUT_PZ8h_-saTYw52QBsdT5vYMIs9GC9fdaH2fa0aJBPmww=h310",
+        "//lh3.googleusercontent.com/FC_Wms-q-hu2vbFmIDjXQcES360wpJCMqPv3YZcAB8HGA_hh6Qd6zH0fJBLBPz4RQKc=h310",
+        "//lh3.googleusercontent.com/qHMsqoS6eRgn4IWpu5teYy-5RE1o7ynD9hCrBlbl5ezr0GtWjn5Eq8CIUNQ4QEQTCKA=h310",
+        "//lh3.googleusercontent.com/ixFqYyHBXcDfZjStMzgMcLjtyREwxLTrfPC-B2XSu5U3AxYQbdTPfiBVsqHy9eX0yG8=h310",
+        "//lh3.googleusercontent.com/ByDDyrSeNO2AsE5147frVYjlZK8dA5ifLRyCU54mgZqXHwVqKJ-VowNjn88HALvCyFs=h310"
+    ],
+    "comments": [
+        "Pretty cool. Wish it supported ambient mode. Like if the foreground letters got dim and  background letters disappeared.  As it is it is probably pretty easy on battery with my HW2 classic.",
+        "LOVE it!  It's exactly what I've been looking for and Romain helped me figure out why it wasn't working with my Zenwatch 2!",
+        "Would be nice to at least have a battery icon. But still, loved it!",
+        "Couldn't get it to show up as a watchface option.",
+        "Quality Watch Face A very nice watch face, looks just like the real qlocktwo. No complaints.",
+        "Works great! I like all the options... The best part is being able to change the language. Thanks!!"
+    ],
+    "recentChanges": [
+        "Fix German clock at 14:25."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=dev.niamor.literalwatchface&hl=en&gl=us",
+    "appId": "dev.niamor.literalwatchface"
+}

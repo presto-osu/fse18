@@ -1,0 +1,62 @@
+{
+    "title": "Berg-Hansen",
+    "summary": "Book, change and cancel trips. Quick and easy on your mobile phone",
+    "icon": "//lh5.ggpht.com/oJ1IXlResM8WF9ovSA8l3t6_biZdvwN3uT-ZiCiZC_YYfJi8z9tCMsNOKcsCoWPtSeU=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.5,
+    "reviews": 176,
+    "developer": "Berg-Hansen Reisebureau AS",
+    "developerId": "Berg-Hansen+Reisebureau+AS",
+    "developerEmail": "app@berg-hansen.no",
+    "developerWebsite": "https://www.berg-hansen.no",
+    "updated": "January 26, 2018",
+    "version": "2.8.71",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Our app gives you a complete overview of all your active trips booked at Berg-Hansen, whether you booked your trip online or with one of our travel advisors. Main Features: -\tBook, change and cancel flights (according to airline rules)-\tBook, change and cancel hotel and rental car reservations -\tIntegrated map so you can get directions to airports, hotels and car rental offices-\tSummary of your NSB trips and group and conference registrations-\tCall Berg-Hansen -\tCall your hotel -\tOffline access to your itineraryTo use the app, you will need to create a profile at www.berg-hansen.no. If you currently use our self-reservation system, the same terms and conditions will apply when you use the app to make your booking. Forgotten your password?You can reset your password using the app. If you don’t know your username or password, click the following link to have your username and password sent to your registered e-mail account: https://booking.berg-hansen.no/account/ForgottenPasswordEmail?isBack=False",
+    "descriptionHTML": "Our app gives you a complete overview of all your active trips booked at Berg-Hansen, whether you booked your trip online or with one of our travel advisors. <br><br>Main Features: <br><br>-\tBook, change and cancel flights (according to airline rules)<br>-\tBook, change and cancel hotel and rental car reservations <br>-\tIntegrated map so you can get directions to airports, hotels and car rental offices<br>-\tSummary of your NSB trips and group and conference registrations<br>-\tCall Berg-Hansen <br>-\tCall your hotel <br>-\tOffline access to your itinerary<br><br>To use the app, you will need to create a profile at www.berg-hansen.no. If you currently use our self-reservation system, the same terms and conditions will apply when you use the app to make your booking. <br><br>Forgotten your password?<br>You can reset your password using the app. If you don&#x2019;t know your username or password, click the following link to have your username and password sent to your registered e-mail account: https://booking.berg-hansen.no/account/ForgottenPasswordEmail?isBack=False",
+    "histogram": {
+        "1": 32,
+        "2": 15,
+        "3": 21,
+        "4": 42,
+        "5": 66
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/v7EIDLAdguAR_xygtqZYq9YOs0kMIUhTdu0wGrruVAmD7W8lNviMHOzrVxMGoYzP5Q=h310",
+        "//lh3.googleusercontent.com/S2SA-se_ELmScJz8iiC3HyTMpedrFnlHhSuV0nbFMpLOxWsnAtx12phGd-zTmfDLdNo=h310",
+        "//lh3.googleusercontent.com/o2cko5YJexQps4fB5A6K3qUA-EZMLqWoGnHoSBTATepjST9ZTdWlZy6x973njN5XI5k=h310",
+        "//lh3.googleusercontent.com/eiV2J0yOx6J_9q_GVpLcWrnh4mYpalBWbW6NKSSL1tdN2Ciiy8vjrjuplFkPjLprIw=h310",
+        "//lh3.googleusercontent.com/tE8JQ3LSX0eMnQiWcrM-llNPHNRD0O8Gy_bsUhakCHCxTNH8bW3BOyvIIRo4_g_hs0s=h310"
+    ],
+    "video": "https://www.youtube.com/embed/Y1jkh3mk8Z4",
+    "comments": [
+        "Hade hoppats att kunna använda appen för att hantera incheckningar etc. Det kan inte appen, utan det är endast en länk till deras hemsida vilket gör appen helt överflödig.",
+        "Knallbra ☺",
+        "Helt skjef å ha med seg på reisen :)",
+        "Virker ikke i Android 5.0",
+        "Unfinished Requires that I set my phone's font size to \"small\" or \"tiny\", or it will not show departure times when ordering tickets.  Airports are not shown in search results, only city, which is unacceptable.  Check-in for Lufthansa fails consistently.  Needs more work.",
+        "Great app when online As a service engineer and frequent flyer, the app is great for keeping track of the flight schedule and has become my go-to application.  However, once off the beaten track without wifi or mobile data, the app refuses to start. My workaround has been to take screenshots while connected. It would greatly improve the app to have an offline mode, with the ability to sync automaticly aswell as on command - and a timestamp for last successful sync."
+    ],
+    "recentChanges": [
+        "Thank you for using our app. We have made following changes in this update:",
+        "•\tFurther improvements on rental car search.",
+        "•\tBooking class is displayed.",
+        "•\tChanges in payment page.",
+        "•\tPhone number changed from 08050 to (+47 220) 08050 according to new EU directive.",
+        "•\tHotel search- search for hotels in more specific areas.",
+        "•\tBug fix- trips with several legs.",
+        "•\tBug fix- add hotel to a flight."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=no.berghansen&hl=en&gl=us",
+    "appId": "no.berghansen"
+}

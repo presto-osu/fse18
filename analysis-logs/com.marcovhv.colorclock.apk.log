@@ -1,0 +1,86 @@
+Soot started on Thu Jun 21 11:41:55 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.marcovhv.colorclock.ColorClockService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.marcovhv.colorclock.apk
+[INFO] MySceneTransformer: ############## com.marcovhv.colorclock.ColorClockService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   29
+[INFO] FlowGraph: @@@@ Total Methods: 91
+[INFO] FlowGraph: @@@@ Total Stmts:   1769
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11), (unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11), (unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11), (unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11), (unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11), (unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.marcovhv.colorclock.Orientation]1052,11)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r8_14=[-1]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r8_14=[-1], $r8_7=[-16777216]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): []
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: TOTAL TIME: 1.762000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 11:42:00 EDT 2018

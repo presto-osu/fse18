@@ -1,0 +1,57 @@
+{
+    "title": "LookBehind for Android Wear",
+    "summary": "Need to look behind, inside, below ? Use Look Behind !!",
+    "icon": "//lh3.ggpht.com/LE3o9y-3RP-0fyR-O7qdcrCS-3-EEA8eHxKLt0fnz-obU5-aPsOp3GfaCaMrNesfNA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4.1,
+    "reviews": 1126,
+    "developer": "Pixtogram",
+    "developerId": "Pixtogram",
+    "developerEmail": "contact@pixtogram.com",
+    "developerWebsite": "https://plus.google.com/u/0/103120817703481624092/",
+    "developerAddress": "4 rue des peupliers\n57130 Vernéville\nFRANCE",
+    "updated": "November 2, 2015",
+    "version": "1.6",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Need to look behind, inside, below ? Use Look Behind !!Use your phone as a video camera and your watch as a screen.No action is need on your phone, it can be on or off.Just launch LookBehind on your watch and you get your phone camera on your watch. If need, trigger the torch, zoom* in or out (swipe up/down) or rotate the view.Always get your phone battery level.Works an all android wear devicePlease give feedback/suggestions on e-mail or on Google+ :https://plus.google.com/u/0/103120817703481624092/Note you need to have an Android Wear Watch to be able to use this appLG G Watch, Samsung Gear Live, Moto 360* only for camera with zoom support (most all of devices) 37ae11e3e9",
+    "descriptionHTML": "<b>Need to look behind, inside, below ? Use Look Behind !!</b><br><br>Use your phone as a video camera and your watch as a screen.<br>No action is need on your phone, it can be on or off.<br>Just launch LookBehind on your watch and you get your phone camera on your watch. If need, trigger the torch, zoom* in or out (swipe up/down) or rotate the view.<br>Always get your phone battery level.<br>Works an all android wear device<br><br>Please give feedback/suggestions on e-mail or on Google+ :<br>https://plus.google.com/u/0/103120817703481624092/<br><b>Note you need to have an Android Wear Watch to be able to use this app</b><br>LG G Watch, Samsung Gear Live, Moto 360<br><br>* only for camera with zoom support (most all of devices) 37ae11e3e9",
+    "histogram": {
+        "1": 113,
+        "2": 35,
+        "3": 77,
+        "4": 247,
+        "5": 654
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/SE_klrDcaW4P_L4xLUT4v_1BmsdfSx-OuRcZIKP4G5iNevE0WVj0qNkEggzxF83-HMw=h310",
+        "//lh3.ggpht.com/9dMNSERD4r7BRlQiLJ0h5awCtozrpcbhCpkPJ3bt3hVSlTAvX3Jp0kst6kFAqnqoXQ=h310",
+        "//lh6.ggpht.com/KLzqKlgVGsTl8oxBeXdMKPDdUZweba82t1Om5_6YjhQSvFytnrIqPdxfkbtAGLc4AeA=h310",
+        "//lh3.ggpht.com/VHprctQM62fqPhM5Xav4VO4uuVHHPI2-DTReVX8YsU1s8sQC2yc8UGmYsBD90SLdSI2L=h310",
+        "//lh3.googleusercontent.com/BBTe5aZfWjIkQWZ28tTkDhvh5az5ToI3Rcd5bEFwkExA63PVDzafAbMYI12v7B9Hv2Q=h310"
+    ],
+    "video": "https://www.youtube.com/embed/tZlj9X2N5zA",
+    "comments": [
+        "Very Useful!  Have it running on my SS Core Prime Phone/Fossil GEN3 Q Explorist watch.  Convenient to execute via Google Assist.  *(DEV... Would like screen controls to 'auto-hide' after 5 Secs so viewing is un-obstructed Please.  Also,  App needs to begin 180 degrees 'Upright' as its most common position for phone use)",
+        "Great app - works really well I've used this numerous times to see behind things that have a narrow space. Image is crystal clear, ability to turn on led is great. The only issue that at initial launch, the rotation is always off - so I have to press the rotate button on my watch.",
+        "Works great on my Ticwatch E running Android Wear 2.0. The app is bare bones but does exactly what it says and does it well. Just launch the app from your watch and it automatically opens up a live feed on the watch display giving you a view of what your phone camera is focused on. I use it all the time for checking in hard-to-reach places at work.",
+        "Very awesome and fun, I feel like James Bond. My watch is new, I've been looking for a cool 3D app to show it off to people (to no avail) but this will definitely be my \"go to\" app when showing off my fancy spy watch. I'm also amazed that the camera actually loaded. The camera on my stupid phone only works 50% of the time (I have to restart to fix it) but it seems to work on my watch just fine with this app! Super cool!",
+        "It's a nice app could use a few things I like the app.  There are a few things I'd like to request.  Ability to save all settings.  Save front and rear rotation settings.  Always need to rotate both cameras currently.  Also please save last used camera.  It always opens to front camera.  Thanks and well done app!",
+        "Great little app! Using with Nexus 6P and Sony Smartwatch 3. On Smartwatch have 'WiFi' app installed so always connected to WiFi even if Bluetooth available. Not sure if that helps refresh yet works well all over house with minimal lag. Good job! Only 2 suggestions, where available use WiFi rather than Bluetooth and  a frame rate so you can see it's actually updating (especially if your using it to keep eye on the kids in another room)."
+    ],
+    "recentChanges": [
+        "- update to latest Android Wear SDK",
+        "- fix issues"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.pixtogram.wear.lookbehind&hl=en&gl=us",
+    "appId": "com.pixtogram.wear.lookbehind"
+}

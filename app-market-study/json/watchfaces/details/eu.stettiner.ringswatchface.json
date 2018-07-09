@@ -1,0 +1,60 @@
+{
+    "title": "Rings - interactive Watch Face",
+    "summary": "3 interactive rings (3D experience) showing the current time. Master them all!",
+    "icon": "//lh4.ggpht.com/PIjc3T33IoVexUp6Jn9bDDelixmZwxUPTMK5M5fGszeiZ-1-q7T2SNl7oqzb21CeUIY=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.1,
+    "reviews": 16,
+    "developer": "STETTINER",
+    "developerId": "5397900325655258360",
+    "developerEmail": "sayhello@stettiner.eu",
+    "developerWebsite": "http://stettiner.eu",
+    "developerAddress": "STETTINER GAMES&MORE\nCyfrowa street 6\n71-441 Szczecin\nPoland",
+    "updated": "February 2, 2015",
+    "version": "1.2.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "3 interactive rings showing the current time.Inside ring shows the hour, middle one minutes and the outside ring indicates seconds.Move your wrist (in interactive mode) to fully immerse into 3D experience, thanks to the gyroscope / accelerometer use.Features:- analog and digital watch,- date,- battery life indicator,- multiple color schemes (6),- ambient mode,- customization / built-in settings.Designed for Android Wear.Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.",
+    "descriptionHTML": "3 interactive rings showing the current time.<br>Inside ring shows the hour, middle one minutes and the outside ring indicates seconds.<br>Move your wrist (in interactive mode) to fully immerse into 3D experience, thanks to the gyroscope / accelerometer use.<br><br>Features:<br>- analog and digital watch,<br>- date,<br>- battery life indicator,<br>- multiple color schemes (6),<br>- ambient mode,<br>- customization / built-in settings.<br><br>Designed for Android Wear.<br>Supported smartwatches: LG G Watch R, LG G Watch, Motorola Moto 360, Sony SmartWatch 3, Asus ZenWatch, Samsung Gear Live.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 3,
+        "4": 5,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/k3CewDsIyXvOnDNmaUBnruyxm_mrDjnD9Uv7iOR_5pIZM2zB11Y0YAEoa_A0QgNgBSU=h310",
+        "//lh4.ggpht.com/XIrYi-YhaLP9DD-7iRv_NgMiMlHOx9bxOkimnx4O_opJv5cV81nH-33tNgQTbnGBTtZC=h310",
+        "//lh6.ggpht.com/fP_3ZsMxXeu6pT5lavstbh09MBXJGGKHMKtycf6yq5Yabfi9Y6ZgRL25EMuqnQ8UaUA=h310",
+        "//lh5.ggpht.com/RL_0yN_axcjF2hYSC2uh1pQisG5Mx9x4ISOBAxLY_ZRVdtrzQzbgstFBVZsMQ0d2bU0=h310",
+        "//lh3.ggpht.com/hNT5R27K0GDeQa0ayDP3nX1Qwtocg-mYi217OuvG33gRJ9ai8JlfCfOp0Q2ERcV2ng=h310"
+    ],
+    "video": "https://www.youtube.com/embed/RIhwHjeRGMY",
+    "comments": [
+        "Very good but. It's a very good looking watch face. One of the best I have seen.  I love how it looks and all the colors it comes with to choose from.  The sad part it appears to drains the battery very quickly. I used to be able to charge my 360 every other day, since install been having to charge everyday. Hopefully this gets corrected cus its truly is a nice looking watch face."
+    ],
+    "recentChanges": [
+        "v 1.2.1",
+        "- improved text rendering",
+        "v 1.2",
+        "- improved animations",
+        "- you can disable rings' animation in settings (for interactive mode)",
+        "v. 1.1",
+        "- 2 new colors added (red and green)",
+        "- you can disable digital watch",
+        "- central element (digital watch / date / battery) moves together with the chosen ring (settings)",
+        "- ambient mode is color now"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eu.stettiner.ringswatchface&hl=en&gl=us",
+    "appId": "eu.stettiner.ringswatchface"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Galatasaray Themed Watch Face",
+    "summary": "Galatasaray FC themed Watch Face for your Android Wear device",
+    "icon": "//lh3.googleusercontent.com/ye4_O4lOsFqFkFf1wjUEHms-FqLjm6c1nJ2ClAlDSK7IPg_7FsIip9x5YXD7lUXgkCk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.3,
+    "reviews": 298,
+    "developer": "Deniz Cileci",
+    "developerId": "Deniz+Cileci",
+    "developerEmail": "denizcileci@gmail.com",
+    "updated": "January 24, 2016",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Galatasaray FC themed Watch Face for your Android Wear device. Please let us know if you are having any issues with the watch face. After installing you may need to re-sync all the apps from the Android Wear application for the watch face to show up on your watch.",
+    "descriptionHTML": "Galatasaray FC themed Watch Face for your Android Wear device. <br>Please let us know if you are having any issues with the watch face. <br>After installing you may need to re-sync all the apps from the Android Wear application for the watch face to show up on your watch.",
+    "histogram": {
+        "1": 40,
+        "2": 2,
+        "3": 6,
+        "4": 17,
+        "5": 233
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/0m81ZgwJQOvJy-cgodNkRNZAFVpVg-78sua_KD28Vkxf2r_bKNRPktrVRP9uMvgtZQnj=h310",
+        "//lh3.googleusercontent.com/0schW5fy4DYFXT6qhx8yyUQXnHEnoeJUE-PjkKtDiqrTsuUp9DvHUUIjPDVcGTis_Fxr=h310"
+    ],
+    "comments": [
+        "Cool app Well designed for free watch App . I recommend for everyone.",
+        "Nice app Very well designed face watch. Waiting for Fenerbahce's watch of course 👍👍"
+    ],
+    "recentChanges": [
+        "Updated Minute and Hour hands with actual bitmap images",
+        "Fixed spacing issue for calendar day",
+        "Fixed ambient mode issue"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gala.watchface&hl=en&gl=us",
+    "appId": "com.gala.watchface"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "vSphere Mobile Watchlist",
+    "summary": "Monitor the VMware vSphere VMs you care about and remediate any alerts remotely.",
+    "icon": "//lh6.ggpht.com/ihM2lJKUyvr_SGhr1GO06Xygx37KHrwASvXkU1PyOBIZgKApZC-AmFsO8MFsUzDRZfc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4,
+    "reviews": 2014,
+    "developer": "VMware, Inc.",
+    "developerId": "VMware,+Inc.",
+    "developerEmail": "vsphere-mobile@vmware.com",
+    "developerWebsite": "https://www.vmware.com/go/vspheremobile",
+    "developerAddress": "3401 Hillview Ave.\nPalo Alto, CA. 94304\nUSA",
+    "updated": "April 4, 2017",
+    "version": "1.5.050000",
+    "genre": "Business",
+    "genreId": "BUSINESS",
+    "description": "vSphere Mobile Watchlist enables secure vSphere infrastructure monitoring and remediation directly from your smartphone.  With Watchlist, VMware administrators will be able to log in to a vCenter Server or ESXi host directly and choose virtual machines and hosts from inventory to create targeted views of objects and their properties.  Remediate directly from the device with power and management operations, and delegation of tasks to onsite colleagues with linked relevant Knowledge Base (KB) articles.  vSphere Mobile Watchlist brings the following key capabilities to vSphere administrators on the go:EASILY CREATE WATCHLISTS:  Search for and select a subset of VMs and hosts from your VMware vCenter Server and/or ESXi inventory to monitor in one or multiple watchlists.VMs and HOSTS AT A GLANCE:  Review the status of selected Watchlist VMs and hosts from your device including state, configuration details, resource usage, health alerts, view of the VM console, and related objects.   DISCOVER:  Alerts are linked to pertinent diagnostic information from the VMware Knowledge Base, as well as articles from the Web. REMEDIATE REMOTELY:  Remediate problems directly from the device by powering on/off, resuming/suspending, connecting/disconnecting, or restarting VMs and/or hosts — or for situations where on-site remediation is required, share alert(s) along with recommended solutions in an email to team members back at the datacenter.     vSphere Mobile Watchlist is compatible with Android 4+.  NOTE: A VMware vSphere installation (5.0 and above) is required to use VMware vSphere Mobile Watchlist.  Access to vSphere infrastructure may require a secure access method such as VPN on a mobile device.  Contact your IT department for further assistance.Support and tips for using VMware vSphere Mobile Watchlist are provided via VMware Communities at http://www.vmware.com/go/vspheremobile  Please note that support for vSphere Mobile Watchlist is not available through VMware’s telephone support hotline or Global Support Services.",
+    "descriptionHTML": "vSphere Mobile Watchlist enables secure vSphere infrastructure monitoring and remediation directly from your smartphone.  With Watchlist, VMware administrators will be able to log in to a vCenter Server or ESXi host directly and choose virtual machines and hosts from inventory to create targeted views of objects and their properties.  Remediate directly from the device with power and management operations, and delegation of tasks to onsite colleagues with linked relevant Knowledge Base (KB) articles.  <br><br>vSphere Mobile Watchlist brings the following key capabilities to vSphere administrators on the go:<br><br>EASILY CREATE WATCHLISTS:  Search for and select a subset of VMs and hosts from your VMware vCenter Server and/or ESXi inventory to monitor in one or multiple watchlists.<br><br>VMs and HOSTS AT A GLANCE:  Review the status of selected Watchlist VMs and hosts from your device including state, configuration details, resource usage, health alerts, view of the VM console, and related objects.   <br><br>DISCOVER:  Alerts are linked to pertinent diagnostic information from the VMware Knowledge Base, as well as articles from the Web.<br> <br>REMEDIATE REMOTELY:  Remediate problems directly from the device by powering on/off, resuming/suspending, connecting/disconnecting, or restarting VMs and/or hosts &#x2014; or for situations where on-site remediation is required, share alert(s) along with recommended solutions in an email to team members back at the datacenter.     <br><br>vSphere Mobile Watchlist is compatible with Android 4+.  <br><br>NOTE: A VMware vSphere installation (5.0 and above) is required to use VMware vSphere Mobile Watchlist.  Access to vSphere infrastructure may require a secure access method such as VPN on a mobile device.  Contact your IT department for further assistance.<br><br>Support and tips for using VMware vSphere Mobile Watchlist are provided via VMware Communities at http://www.vmware.com/go/vspheremobile  <br><br>Please note that support for vSphere Mobile Watchlist is not available through VMware&#x2019;s telephone support hotline or Global Support Services.",
+    "histogram": {
+        "1": 221,
+        "2": 106,
+        "3": 206,
+        "4": 459,
+        "5": 1022
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/b1rXEhvB6Ws8FkMf5U8Gr-EIuUG-jKJNHeCQTJnYFbEh1ZvzLdjstaHBf9ZJFxyORiR9=h310",
+        "//lh3.ggpht.com/MgYJEU7fTVwmYMDxTQ7MvbdOTRiZ1qkD_Gt9qY3haNDm2d06Pb4bSuMNwQXlcAUHXxY=h310",
+        "//lh3.ggpht.com/-zBl8TgNgvyLzWF5WXnFjot91f-3JnB_sus_jZ1XhT6u8hxqpKQiBw0Y9PWYLA8YaBo=h310",
+        "//lh4.ggpht.com/XSqLT0BeKLvPmktbY6NK-H3Uo0iFExy4H8pF6Aw1sfiwaRLQpHbRWbGT5se1b7_lsLOO=h310",
+        "//lh5.ggpht.com/Bh8TK3CAt3veupvL_XjiP1DLJghIBiHFNZH2uRQNBL33_BAe60H_oBPSrYrPVuol0w=h310",
+        "//lh5.ggpht.com/ATEvbQuGDbDev7nDCFwCTFsQBoZNt-lH9sSnTDRqJCfHCMe_zqDgZdWwZAOVl9ZWSw=h310",
+        "//lh4.ggpht.com/FbYsw5pd71ORtiPTH618tR5S35lwurADo_jJbJ5V2pwmGaeWF7h7OQ7vZXPksotpqtw=h310",
+        "//lh5.ggpht.com/ZbiaZMWMyI5N9-SjgqKG__cRQOJ43C851yUWgN4Gx3uWrQZucQmVZ_MuZCCT0cmjcw=h310",
+        "//lh4.ggpht.com/S6brW2gsGvzFZqcVbxtgbhUdxm1EKxDACbcl7nl7ZEdGxktlZWYO1z2oQG9AeGrsWFQ=h310"
+    ],
+    "comments": [
+        "Amazing everything now works on Galaxy Edge 7. Powering, remote console very happy thought this was dead in the water but now can monitor my Esxi 6.5 server in the loft easily",
+        "At last. Soooo long time to fix the power bug. Wake up Dell people use tablets and android phones to do monitor their infrastructure on the go.",
+        "Console keeps saying disconnecting and errors out before it even connects. This feature is completely unusable! Galaxy S8+",
+        "Useful app for quick VM management. Another excellent product from VMware. One suggestion would be the ability to see which machines are powered on in the machine list under Related Objects / Virtual Macines. Currently have to dig into each machine to see its power state",
+        "Getting 'No peer certificate' when  connecting via localhost port forward. Need to be able to trust all certificates again. Works well otherwise",
+        "Latest update still doesn't allow connection to console. Crashes every time you connect."
+    ],
+    "recentChanges": [
+        "Fixed application crash when performing power operations on VMs and Hosts."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.vmware.beacon&hl=en&gl=us",
+    "appId": "com.vmware.beacon"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Tasker Now",
+    "summary": "The power of Tasker together with the power of Google",
+    "icon": "//lh3.googleusercontent.com/kijAU7mZSpuu8sf0YpXnBWoaBiwKter7yP607iUHTuyDqoEb7eewdJZF3MIi8K89f3tn=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 344,
+    "developer": "Marco Stornelli",
+    "developerId": "6982888636488378244",
+    "developerEmail": "playappassistance@gmail.com",
+    "developerWebsite": "http://baldapps.altervista.org",
+    "developerAddress": "Via poggio SNC, 00100, Italy",
+    "updated": "February 18, 2018",
+    "version": "8.0.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "******This is a Tasker plugin, it requires: Tasker 4.4+******Use Google Assistant as input for Tasker from your phone or smartwatch! To setup a profile with Tasker Now open Tasker and select \"Event\" in the Profiles tab.Google+: https://plus.google.com/u/0/communities/107846871867669301384Tell about us:TuttoAndroid - http://www.tuttoandroid.net/applicazioni/tasker-now-permette-di-usare-google-now-come-input-per-tasker-244141/HdBlog - http://android.hdblog.it/2015/01/07/tasker-now-comandi-google-now/AndroidWorld - http://www.androidworld.it/2015/01/07/tasker-google-now-insieme-per-lassistente-vocale-definitivo-267042/How to activate on Android Wear:1) Say \"take a note\" and then the command2) Say \"start vocal command\" and then say the command3) Open the app and then say the command4) Send a special notification from smartphone. The notification is sent via a Tasker Now action in Tasker.5) ShakingTo access to the settings on Wear:Open the app on wear and swipe to the rightSeveral match rules:- exact match- at least one word- all the word specified- start with rule- end with rule- regular expression- sub-string rule- template rule (a template is for example \"send <contact> message <msg>\", the plug is going to create two custom variables called %contact and %msg filled with your words)- ignore punctuationyou can use Tasker variables in the edit text and you can detect a language offline.On a smartphone you can use the accessibility service or use a sentence of this kind:\"Ok Google, search  in Tasker Now\"Some images from: http://www.wear-generator.com according to CC BY 3.0 http://creativecommons.org/licenses/by/3.0/",
+    "descriptionHTML": "<b>******This is a Tasker plugin, it requires: Tasker 4.4+******</b><br>Use Google Assistant as input for Tasker from your phone or smartwatch! To setup a profile with Tasker Now open Tasker and select &quot;Event&quot; in the Profiles tab.<br><br>Google+: https://plus.google.com/u/0/communities/107846871867669301384<br><br>Tell about us:<br>TuttoAndroid - http://www.tuttoandroid.net/applicazioni/tasker-now-permette-di-usare-google-now-come-input-per-tasker-244141/<br>HdBlog - http://android.hdblog.it/2015/01/07/tasker-now-comandi-google-now/<br>AndroidWorld - http://www.androidworld.it/2015/01/07/tasker-google-now-insieme-per-lassistente-vocale-definitivo-267042/<br><br>How to activate on Android Wear:<br>1) Say &quot;take a note&quot; and then the command<br>2) Say &quot;start vocal command&quot; and then say the command<br>3) Open the app and then say the command<br>4) Send a special notification from smartphone. The notification is sent via a Tasker Now action in Tasker.<br>5) Shaking<br><br>To access to the settings on Wear:<br>Open the app on wear and swipe to the right<br><br>Several match rules:<br>- exact match<br>- at least one word<br>- all the word specified<br>- start with rule<br>- end with rule<br>- regular expression<br>- sub-string rule<br>- template rule (a template is for example &quot;send &lt;contact&gt; message &lt;msg&gt;&quot;, the plug is going to create two custom variables called %contact and %msg filled with your words)<br>- ignore punctuation<br>you can use Tasker variables in the edit text and you can detect a language offline.<br><br>On a smartphone you can use the accessibility service or use a sentence of this kind:<br>&quot;Ok Google, search  in Tasker Now&quot;<br><br>Some images from: http://www.wear-generator.com according to CC BY 3.0 http://creativecommons.org/licenses/by/3.0/",
+    "histogram": {
+        "1": 54,
+        "2": 21,
+        "3": 28,
+        "4": 57,
+        "5": 184
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/MQqKvryL6IiczE4Jl9Of6KNIAKxPTSku6k0xPyHvCoM_AovWvUFbocJJDqLjKrEV5Q=h310",
+        "//lh5.ggpht.com/LvBnAQEvP4hYVcya2v6TMzNEXYFr9REIum4lppvuLfuFtSbyuKeHRorCjWm00cUqaL8v=h310",
+        "//lh5.ggpht.com/p96XDmXVGhGZA8DrkVHYb9g6k9lgujjXKGvKu1EIGEANVul-adxgoBnfQ3wK17hi7cLO=h310",
+        "//lh3.googleusercontent.com/fWoduBtLE3ARDWXkq1GcGevpk3IGYOC4BejCGLlOwu6W8cGFCUD4IZb6T4u_5DSblM3R=h310"
+    ],
+    "video": "https://www.youtube.com/embed/9t6hwCq_654",
+    "comments": [
+        "Had an issue, complained, then fixed by developer. Great app",
+        "Whenever I try to use Task now from Google assistant it says  - Task Now isn't supported in this region. I am already subscribed. Couldn't use for a single time. Please help.  Yes. It's English.",
+        "Is it possible to get it working even when phone is lock ot in sleeping mode?",
+        "Does exactly as described with great support. (just like all the apps from this developer)",
+        "Needs an action to trigger a voice recognition process on the watch, isolated to just that task. Basically I'm trying to make a parrot to mess with people",
+        "It was my go-to before author got greedy.  Now he wants me to pay again every month for functionality I already paid for.  Never.  Use Autovoice, use Shortcuts to avoid extra verbage.  It is faster and more customizable anyways.  I was already having to use shortcuts with Tasker Now to shut up google before Tasker Now dismissed it anyways.  Edit: Pixel XL here, so for us Google Now is not an option, Google Assistant or nothing.  Considering I paid for the functionality to work with Google Assistant once, months ago, why would I pay it again every month after it was disabled in what I already pay for, when I can use a competing utility I already own?  Suit yourselves but I'm not buying into the subscription model for this or any other app.  And I'm a developer, so I understand the economics of it.  Edit: fair enough, a refund would be fine"
+    ],
+    "recentChanges": [
+        "Bug fix"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.balda.taskernow&hl=en&gl=us",
+    "appId": "com.balda.taskernow"
+}

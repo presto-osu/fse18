@@ -1,0 +1,52 @@
+{
+    "title": "Battmon - Wear Battery Monitor",
+    "summary": "Monitor your device&#39;s battery from your Android Wear watch",
+    "icon": "//lh3.googleusercontent.com/CDYfkV-GMu5JlRh5zGjvey9aw6Rsp8rMu5-Wc4DWhnfRQ6LYxlyGqWGB8q-7fjvG-ks=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.3,
+    "reviews": 19,
+    "developer": "Shawn Walton",
+    "developerId": "Shawn+Walton",
+    "developerEmail": "karmeleonnn@gmail.com",
+    "developerWebsite": "https://karmeleon.github.io",
+    "updated": "August 4, 2016",
+    "version": "1.0.5",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Battmon is a simple Android Wear app that allows you to monitor your phone or tablet's battery. It displays remaining charge, the device's current power source, and the battery's current, voltage, and temperature. It's optimized for both round and square displays, and includes a power-efficient Ambient mode.Full source available at https://github.com/karmeleon/battmonLG G Watch R device frame by Daniele Bonaldo (https://github.com/danybony/wear-device-frames)LG G Watch device frame by Cyril Mottier (http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/)Both frames used under a CC By licence (https://creativecommons.org/licenses/by/3.0/)",
+    "descriptionHTML": "Battmon is a simple Android Wear app that allows you to monitor your phone or tablet&apos;s battery. It displays remaining charge, the device&apos;s current power source, and the battery&apos;s current, voltage, and temperature. It&apos;s optimized for both round and square displays, and includes a power-efficient Ambient mode.<br><br>Full source available at https://github.com/karmeleon/battmon<br><br>LG G Watch R device frame by Daniele Bonaldo (https://github.com/danybony/wear-device-frames)<br>LG G Watch device frame by Cyril Mottier (http://cyrilmottier.com/2014/07/31/android-wear-flat-device-frame/)<br>Both frames used under a CC By licence (https://creativecommons.org/licenses/by/3.0/)",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/2wdADWpqSVn5wcAjYqSxe_t3qmfBTI9k1WDOv9hCaNf9DJMKdl3Y7GQoc2IMAzu_S6E=h310",
+        "//lh3.googleusercontent.com/Ton3v1Hv4oOyKFdGnrr6OmKPAnutshB96-O8e97GH4SNevVz54T3iLjZ2f6R2uwi988=h310",
+        "//lh3.googleusercontent.com/iOwU2w9o5mzguUBN5wB4oX4w3-dfHgglSQHU3xpBkAKdh9-wdP-zzl5D1gG1iDYxFEpY=h310"
+    ],
+    "comments": [
+        "Great App Clean and simple just like I like it but needs notification for when phone battery is fully charged",
+        "It did what it suppose to do Don't expect more, simple and handy",
+        "Would be good if it came with a watch face but otherwise a really good app",
+        "Couldn't figure out how to install on watch  and no instructions present",
+        "Simple and awesome Doors the job well.",
+        "Great app, clean and useful."
+    ],
+    "recentChanges": [
+        "Fixed a bug where battery current wasn't being read correctly in pre-Lollipop devices"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.karmeleon.battmon&hl=en&gl=us",
+    "appId": "com.karmeleon.battmon"
+}

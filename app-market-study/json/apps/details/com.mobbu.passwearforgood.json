@@ -1,0 +1,51 @@
+{
+    "title": "PassWear for Good Technology",
+    "summary": "PassWear enhances mobile app security by simply taking a photo of your watch.",
+    "icon": "//lh3.googleusercontent.com/GnEXzIEYZQnG_BkNBp_5eJn-y2Etgf_CbKxbmnVdo1AqN_q3msccIhUdQ3LF4RWMeBs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.4,
+    "reviews": 5,
+    "developer": "Mobbu",
+    "developerId": "Mobbu",
+    "developerEmail": "mobbultd@gmail.com",
+    "developerWebsite": "http://www.mobbu.com",
+    "updated": "October 29, 2015",
+    "version": "1.4.1",
+    "genre": "Business",
+    "genreId": "BUSINESS",
+    "description": "PassWear for Good is strong, usable two-factor authentication for mobile applications that is as easy and simple as taking a photo. PassWear provides an authentication and proximity solution for mobile apps that replaces passwords or adds a second security factor by using a wearable smartwatch. It runs on Android devices (also an iPhone version available on Apple App Store) and is compatible with Android Wear and Samsung Galaxy Gear (Tizen) smartwatches.* This is not an individual consumer application and cannot be used by those who do not use Good Technology *SECURED BY GOODWhen PassWear for Good is present, authentication and login to Good Dynamics enabled applications is as easy as taking a photo! Users complete a simple 3-step enrolment process to get PassWear for Good provisioned on the wearable and mobile device. After provisioning, each time PassWear for Good communicates via the Bluetooth and optical channels it does so with a unique one-time key. Once provisioned and set-up, tap on your Good Dynamics mobile application. PassWear for Good will send a unique challenge to the wearable across Bluetooth. The wearable device then responds to this challenge by displaying a unique QR code. PassWear for Good launches the camera on your mobile so that you are instantly ready to scan the code. Simply take a photo of the QR code on the wearable and as long as there is a match you are logged in. All of that takes seconds. Serious security made simple.INSTALLATION FOR SAMSUNG GALAXY GEAR WEARABLE APPNote that the Samsung Galaxy Gear (Tizen) app must be downloaded separately from the Samsung Gear Appstore. To install it search for PassWear in the store from your Samsung phone.",
+    "descriptionHTML": "PassWear for Good is strong, usable two-factor authentication for mobile applications that is as easy and simple as taking a photo. PassWear provides an authentication and proximity solution for mobile apps that replaces passwords or adds a second security factor by using a wearable smartwatch. It runs on Android devices (also an iPhone version available on Apple App Store) and is compatible with Android Wear and Samsung Galaxy Gear (Tizen) smartwatches.<br><br>* This is not an individual consumer application and cannot be used by those who do not use Good Technology *<br><br>SECURED BY GOOD<br><br>When PassWear for Good is present, authentication and login to Good Dynamics enabled applications is as easy as taking a photo! Users complete a simple 3-step enrolment process to get PassWear for Good provisioned on the wearable and mobile device. After provisioning, each time PassWear for Good communicates via the Bluetooth and optical channels it does so with a unique one-time key. Once provisioned and set-up, tap on your Good Dynamics mobile application. PassWear for Good will send a unique challenge to the wearable across Bluetooth. The wearable device then responds to this challenge by displaying a unique QR code. PassWear for Good launches the camera on your mobile so that you are instantly ready to scan the code. Simply take a photo of the QR code on the wearable and as long as there is a match you are logged in. All of that takes seconds. Serious security made simple.<br><br>INSTALLATION FOR SAMSUNG GALAXY GEAR WEARABLE APP<br><br>Note that the Samsung Galaxy Gear (Tizen) app must be downloaded separately from the Samsung Gear Appstore. To install it search for PassWear in the store from your Samsung phone.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/hKNIZK6nRyzkImxmRaKbSBCF3pj74XmT-TOKkzlhZElhbVu2ykVMWr9sRFpsKV3ajA=h310",
+        "//lh3.googleusercontent.com/q7rGWp9tExL87oP0lT2-h5QvnE2zTT3g92Euf4wgmqdNA03mk3cK7hAGyRkRgSOatjs-=h310",
+        "//lh3.googleusercontent.com/T7PwJLfuwlxlCpTFjwfP2VC3BvZSBKh2m-DxoM9uma_Xv2mxvDUl1LEoQAQVWLMM5p0=h310",
+        "//lh3.googleusercontent.com/fJAeug5Qs7kBPFkta7MeR7V-8G8f32JcG8YG2T-GkaWX7fW7e_QwuNafGEjowbDQsQ=h310",
+        "//lh3.googleusercontent.com/nkOcEdIFNO-s3wcCvrZeFhTPN6bIHStItOlvW980ntr9xhlAMlSGoAVSSoAOaFu6ZJA=h310",
+        "//lh3.googleusercontent.com/YqcR95lhrNd3en5nZ9NSxgt_j7B-BXJrATBidosWT68KfA-o69i-Fms5wTSMyHuCLWw=h310",
+        "//lh3.googleusercontent.com/ZlVf8mh0cjzFbxrk_0f1SfnCmzRlyDRuA2FEluMsqnjVxxJ98_Xs0Mvih8OFR2kDAfE=h310"
+    ],
+    "comments": [
+        "great for good this is a great authenticator for the Good platform"
+    ],
+    "recentChanges": [
+        "* Bug fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mobbu.passwearforgood&hl=en&gl=us",
+    "appId": "com.mobbu.passwearforgood"
+}

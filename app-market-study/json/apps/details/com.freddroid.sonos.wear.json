@@ -1,0 +1,59 @@
+{
+    "title": "Sonos Wear",
+    "summary": "Lightweight Sonos controller for your wearable!",
+    "icon": "//lh4.ggpht.com/OSyoL--l7KWv6kAC6At4_2Vui4dAIzYvNjpQZTzRGejR2VvdcEs_6fef3KFOXcVLOBs=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.8,
+    "reviews": 60,
+    "developer": "Freddroid",
+    "developerId": "Freddroid",
+    "developerEmail": "contact@freddroid.com",
+    "developerWebsite": "http://www.freddroid.com",
+    "developerAddress": "Maria Trappgränd 5\nStockholm, 118 20\nSweden",
+    "updated": "January 1, 2016",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Control your Sonos system from your wearable! Features • Playback and volume controls• Change track from queue• Group/Un-group players.  Setup • After installation, you must launch the application on your regular device at least once to ensure the connection between the wearable and the device is established. Notice• Requires your phone to be connect to the same WiFi as your Sonos system.• Tested on Sony Smartwatch 3, LG G Watch R and the Moto 360. Have a bug report or feature request? Just find the issue or file a new one here: • https://bitbucket.org/Freddroid/sonoswear/issuesContact• contact@freddroid.com",
+    "descriptionHTML": "Control your Sonos system from your wearable!<br><br><b> Features </b><br>&#x2022; Playback and volume controls<br>&#x2022; Change track from queue<br>&#x2022; Group/Un-group players. <br><br><b> Setup </b><br>&#x2022; After installation, you must launch the application on your regular device at least once to ensure the connection between the wearable and the device is established.<br><br><b> Notice</b><br>&#x2022; Requires your phone to be connect to the same WiFi as your Sonos system.<br>&#x2022; Tested on Sony Smartwatch 3, LG G Watch R and the Moto 360.<br><br><b> Have a bug report or feature request? Just find the issue or file a new one here:</b> <br>&#x2022; https://bitbucket.org/Freddroid/sonoswear/issues<br><br><b>Contact</b><br>&#x2022; contact@freddroid.com",
+    "histogram": {
+        "1": 21,
+        "2": 6,
+        "3": 12,
+        "4": 8,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/Sb9B_rgC4J7zp6rEEx8oChrlRidMk0Sc-lqWhr6tBTbvZGrRI7CaCJrcffJn7uSk-v0=h310",
+        "//lh3.ggpht.com/JQksIqyzTcdcKougubp5IPIX0hsS4josgffdj_4dDDwNEGRTHNBpUkzuOFCGNzhJQZw=h310",
+        "//lh4.ggpht.com/pwdEnTw-lgSYzx6E4qKHdixP1sArgYsz4kHyNKb_3emsMOx0iYIafzjKc6FWpkFMJ44=h310",
+        "//lh5.ggpht.com/8Ks-X64t3Q2VQwqXnPx_kh9kVmSPlJ7YvTsNu9_XboxC1ZDqDxfP9fByIknyMm_7oyI=h310",
+        "//lh5.ggpht.com/iy3g1ajp_gZzHVweUKQ3uj4WoXpoZlRCX_RagOVLiqxSHbDNRFEl8USZOPqPWy4cf9k=h310",
+        "//lh6.ggpht.com/rSgC9sbA6nVRgLSTM-YHkGHOh5xuqPfGQa0ebGBYUYPS0MOwtTmTuxuCKTJ8jsfu3C8=h310",
+        "//lh5.ggpht.com/v2omV14am21JYMF-BRGKxPYKxu9ycrW57mPaHFhDFYHxmrqsVmiTgbwgCEMtwFMcDys=h310"
+    ],
+    "comments": [
+        "It works....... Changing my review of this.  Now been using it for a while and whilst limited in function it does work. I can control all 5 connect amps from my watch. Allows control over basic functions but better than nothing. Sometimes won't connect. Using Samsung S7 Edge and Sony SW3",
+        "My Sony Smart Watch will not connect to my Sonos Play 3 so this app is pretty useless.",
+        "Does not work, does not connect with sonos",
+        "Does the job. Stopped connecting to my phone :(",
+        "Doesn't connect. Refund please Doesn't work. Keeps saying 'waiting to  connect'.",
+        "Basic control of Sonos through smartwatch Does exactly what it says. Easy to use. Well done.  Hopefully this app will be further developed."
+    ],
+    "recentChanges": [
+        "Connectivity improved.",
+        "Change volume increment.",
+        "Album art should not flicker when changing volume."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.freddroid.sonos.wear&hl=en&gl=us",
+    "appId": "com.freddroid.sonos.wear"
+}

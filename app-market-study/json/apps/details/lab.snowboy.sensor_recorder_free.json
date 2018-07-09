@@ -1,0 +1,50 @@
+{
+    "title": "Sensor Rec for  Android Wear F",
+    "summary": "Record Android Wear&#39;s sensor. For Game Developer, Researcher, Life Logger, etc..",
+    "icon": "//lh5.ggpht.com/xNnaItmZZlAfEyQosS1ncSEpvFLMFxKtvIUaoDKC4VzI2K1v3jJydWlXBszEiOb11CE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.8,
+    "reviews": 13,
+    "developer": "UmbreLab.com",
+    "developerId": "UmbreLab.com",
+    "developerEmail": "snowboy.lab@gmail.com",
+    "developerAddress": "神奈川県横浜市",
+    "updated": "August 30, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "######Ad-FRee Version is Available.https://play.google.com/store/apps/details?id=lab.snowboy.sensor_recorder_pro######This App can record Wear's Sensor data.You can use 3 type sensor.1. LINER ACCELEROMETER,2. ACCELEROMETER,3.GYROSCOPE.The Sampling Rate is 3 type.1.Normal(about 5Hz)2.UI(about 50Hz)3.Game1.Connect to WatchWhen this Application is started, it will automatically connectPhone device with wear device.If the connection isn't enable for a long time, please click \"reStart\"button and restart the app.or you should confirm whether your watch device is wake up or not.2.Start RecordingWith \"Start\" button, the sensor value ofyour watch device will be recorded.The Sensing Data is recorded to wear device directory with stand alone.3.End RecordingYou want to stop recording, press the \"Stop\" Button.4.File Save to phone deviceThe data you recorded in wear device will rewrite whenever starting newrecording. So if you want to save this data, press \"FileSave\" button.It transfer the data to the your Phone device's folder (named \"SensorRecorder\").This function may wait you a few minutes if you record sensor data for long time.##################################################################We hope enhance the sensor data for more freely and more attractive use-case.##################################################################If you have an idea for works using sensor data with amazing way (ex Game, Art, Life-Support), we are going to offer this app's code or tips or technical supports for you.More information, please mail to snowboy.lab@gmail.com.Thanks your interest(^-^",
+    "descriptionHTML": "######<br>Ad-FRee Version is Available.<br>https://play.google.com/store/apps/details?id=lab.snowboy.sensor_recorder_pro<br>######<br><br>This App can record Wear&apos;s Sensor data.<br>You can use 3 type sensor.<br>1. LINER ACCELEROMETER,<br>2. ACCELEROMETER,<br>3.GYROSCOPE.<br>The Sampling Rate is 3 type.<br>1.Normal(about 5Hz)<br>2.UI(about 50Hz)<br>3.Game<br><br>1.Connect to Watch<br>When this Application is started, it will automatically connect<br>Phone device with wear device.<br>If the connection isn&apos;t enable for a long time, please click &quot;reStart&quot;<br>button and restart the app.<br>or you should confirm whether your watch device is wake up or not.<br><br>2.Start Recording<br>With &quot;Start&quot; button, the sensor value of<br>your watch device will be recorded.<br>The Sensing Data is recorded to wear device directory with stand alone.<br><br>3.End Recording<br>You want to stop recording, press the &quot;Stop&quot; Button.<br>4.File Save to phone device<br>The data you recorded in wear device will rewrite whenever starting new<br>recording. So if you want to save this data, press &quot;FileSave&quot; button.<br>It transfer the data to the your Phone device&apos;s folder (named &quot;SensorRecorder&quot;).<br>This function may wait you a few minutes if you record sensor data for long time.<br><br>##################################################################<br>We hope enhance the sensor data for more freely and more attractive use-case.<br>##################################################################<br>If you have an idea for works using sensor data with amazing way <br>(ex Game, Art, Life-Support), we are going to offer this app&apos;s code or <br>tips or technical supports for you.<br><br>More information, please mail to snowboy.lab@gmail.com.<br><br>Thanks your interest(^-^",
+    "histogram": {
+        "1": 6,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/M6MJsoTaWLjZdAdCYlcYiY4bG9jJ2vo_t5fjfVOMegKV5SmvUtpV_h6PY48VaT_bpdo=h310",
+        "//lh6.ggpht.com/IpROcq7sVjgo4uZfKWz72DM3Do2D6Ei0eEct1ceyYczdXVN6crJDT9exElJGifCk_Emh=h310",
+        "//lh6.ggpht.com/KKkv5l9mYjTDPzunueNVxxBnwr8sl30x3tSmKE8HSaVq96X28pCPwLE4GRnZS3GY3w=h310",
+        "//lh3.ggpht.com/GbOimvMw-eIItjdG-Fxy3mXZnIFX2ynhlfROFVaAQkl88-p2jJsV6Q-hOZyR8wc0RRd0=h310",
+        "//lh5.ggpht.com/om7aC5Z6H2nzUF11pMS9e7jKMGTvI2e0-A9v3XuqvtXX19oViL281DzrTDqE5r4EAAg=h310",
+        "//lh3.ggpht.com/LRqb37Ql8gJAypLflGlG-PYBPqqy4BKMVOmMsxY0jSL1n_g2nV2Qb2eRzmCtKa5_5-Y=h310",
+        "//lh4.ggpht.com/4n3tr525pXxI4Kvv7SDeCD9xPOkPNTjYg-0o_gJO29R6lfOTIZ9ramGsLvIgGkDSTNI=h310"
+    ],
+    "comments": [
+        "Very handy! There are lots of UX issues, and the graph crashed until I had at least one data file, but with a little tinkering around it works very nicely!",
+        "Stop working after several recording. First, it worked then when I try to record some more and when i open the file, i saw them there but nothing display on graph. When i check the folder, nothing is there"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=lab.snowboy.sensor_recorder_free&hl=en&gl=us",
+    "appId": "lab.snowboy.sensor_recorder_free"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Focus timer for Android Wear",
+    "summary": "Stay focused and complete your work",
+    "icon": "//lh3.ggpht.com/DG8mjj9Vvi8KtT9Z2f-kr0UeQ_a4sO-_tyq-YwwhB4OWLn8-CVr1P6iuHhHvZ--Ggg=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.6,
+    "reviews": 14,
+    "developer": "Blukz",
+    "developerId": "Blukz",
+    "developerEmail": "blukzltd@gmail.com",
+    "developerWebsite": "http://www.blukz.com",
+    "developerAddress": "115 Conistone Way,\nN7 9DE\nLondon\nUnited Kingdom",
+    "updated": "January 13, 2015",
+    "version": "1.3",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Focus timer is the ultimate time management application for your Android Wear smartwatchesFocus timer is inspired by Pomodoro™ technique that boosts productivity by breaking down work periods into 25 minute slices, separated by short brakes. Transform your Android Wear smart watch into this awesome productivity booster. In this version:★\tBeautiful strawberry timer,★\tStart and reset buttons.★\tHaptic feedback.★     Statistics and settingsand more.Pomodoro™ and Pomodoro Technique® are registered trademarks of Francesco Cirillo. This app is not affiliated with Francesco Cirillo.",
+    "descriptionHTML": "Focus timer is the ultimate time management application for your Android Wear smartwatches<br><br>Focus timer is inspired by Pomodoro&#x2122; technique that boosts productivity by breaking down work periods into 25 minute slices, separated by short brakes. <br><br>Transform your Android Wear smart watch into this awesome productivity booster. <br><br>In this version:<br><br>&#x2605;\tBeautiful strawberry timer,<br>&#x2605;\tStart and reset buttons.<br>&#x2605;\tHaptic feedback.<br>&#x2605;     Statistics and settings<br><br>and more.<br><br>Pomodoro&#x2122; and Pomodoro Technique&#xAE; are registered trademarks of Francesco Cirillo. This app is not affiliated with Francesco Cirillo.",
+    "histogram": {
+        "1": 1,
+        "2": 3,
+        "3": 3,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/dIJGJKhhzi1BrH_FwY4GKbW4_mWccK1tPz5d31Mzuu0Z91XIy6Ruf5XjX7xqZReAcIc=h310",
+        "//lh4.ggpht.com/PjyegspwCPWWTXV4AIY86HTvfGyCbtDZUt4v9fRFatKboTkYAwjbUHecLtU8DJvGOA=h310",
+        "//lh5.ggpht.com/T-z1DFyuVHIzfBeI5Qr7XN1rqRIkZ9qFrlJ6L2y2URndvJCMdsL5CTPbSP4ZevQwgcyz=h310",
+        "//lh6.ggpht.com/Wno3srGJO1YCWCKeIBQezujN6ks3Rkwh7OpmDcvd9NUy1UooGbpzXPL_NDY-1WWalQ=h310",
+        "//lh3.ggpht.com/hcbdxnDpXebDUh3jsnSHNNukZkXi1zLJr28UgHiokEPd6_FRDgAO1a83ezz4MxFCrfo=h310",
+        "//lh4.ggpht.com/lp5n-J2qIfDuEvUqI8T49Ddt066xLEDaB9TL77XGFtAralCoqp6P87WE45EevfZm-Q=h310",
+        "//lh6.ggpht.com/eI4Pf8M92vs8PaS2OVAZw4hW8SZVZ6ecXMxzlhVAcQFNdTOAWUGSfxWFFFsstCG8B6M=h310",
+        "//lh5.ggpht.com/IsZhcXAejPLRVbRrxloiz8h7d1oTuzhg6MeXSTPCSZDwR_Mkz847aophuHbOSNifEuo=h310",
+        "//lh4.ggpht.com/9jr0XbZuyU2mo2BwJuObWpbM_nZrHS4w91gTDUnk5-tPUEgFjnFUaS4YzIURWhfelPza=h310",
+        "//lh6.ggpht.com/A0teuViFtanwMbal9X8Zsjl_IVCIdFPfqrS9U55pWNrJ-e_EhN2xOdeWqj4FFWsCrBM=h310",
+        "//lh3.ggpht.com/YhdSaoddQhJ2A6eFI7APPM4brpCN0LFIpYRjqTVpPcOQp1igxsrfi8MdHdZKIiqY_uZK=h310",
+        "//lh3.ggpht.com/rm7mi4upVynWRpGle6tG7_FWO_Zx69gegvO1BawR2kA1qMAIb-_coR1-L6ZSJvps3T2F=h310"
+    ],
+    "comments": [
+        "Like it I like that the app on the phone. Could be better looking for sure. The calendar sometimes doesn't show.",
+        "Battery hog. Never dims the screen when running.",
+        "Works on 360 now I'd like to see it display the time left without having to launch the app and less battery drain though",
+        "This pomodoro timer works really well I especially like that it does not drain battery too much",
+        "Without the doubt the best Pomodoro timer",
+        "Incompatible with Moto 360 Version 1.0 is not compatible with the Moto 360."
+    ],
+    "recentChanges": [
+        "Fixed problem with round displays",
+        "Added watchface ability"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.blukz.wear.productivitytimer&hl=en&gl=us",
+    "appId": "com.blukz.wear.productivitytimer"
+}

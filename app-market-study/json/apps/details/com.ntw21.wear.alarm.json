@@ -1,0 +1,60 @@
+{
+    "title": "Alarm clock for android wear",
+    "summary": "Wear alarm clock for android smart watch.Play alarm on watch and phone.",
+    "icon": "//lh3.googleusercontent.com/pOXBuwuB_9bBchtQ8JSDxUvlbmY8GjTJBvtcQDvqSb17t_lS6WRWpoaL6MWVz6Vu1Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 2.3,
+    "reviews": 19,
+    "developer": "Nicolas C Perez",
+    "developerId": "Nicolas+C+Perez",
+    "developerEmail": "ppnicolasc@gmail.com",
+    "developerWebsite": "http://ntw21.com",
+    "developerAddress": "MIAMI, FL",
+    "updated": "July 31, 2015",
+    "version": "1.0.3",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Alarm clock is simple to use app for android smart watch that allow you play alarms in your watch and/or your phone.-------------------------------Actions-------------------------------Add alarmChange alarmRemove alarm-------------------------------Features-------------------------------Alarm mode:  Mute/Vibrate/Beep/Vibrate and Beep                      Beep if device has speaker capabilitiesTurn alarm on/offCyclic alarmsPlay alarms on watch and/or phone.-------------------------------Languages-------------------------------English中国FrançaisDeutschItaliano日本人한국의PortuguêsPусскийEspañol",
+    "descriptionHTML": "Alarm clock is simple to use app for android smart watch that allow you play alarms in your watch and/or your phone.<br><br>-------------------------------<br>Actions<br>-------------------------------<br>Add alarm<br>Change alarm<br>Remove alarm<br><br>-------------------------------<br>Features<br>-------------------------------<br>Alarm mode:  Mute/Vibrate/Beep/Vibrate and Beep<br>                      Beep if device has speaker capabilities<br>Turn alarm on/off<br>Cyclic alarms<br>Play alarms on watch and/or phone.<br><br>-------------------------------<br>Languages<br>-------------------------------<br>English<br>&#x4E2D;&#x56FD;<br>Fran&#xE7;ais<br>Deutsch<br>Italiano<br>&#x65E5;&#x672C;&#x4EBA;<br>&#xD55C;&#xAD6D;&#xC758;<br>Portugu&#xEA;s<br>P&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;<br>Espa&#xF1;ol",
+    "histogram": {
+        "1": 9,
+        "2": 2,
+        "3": 4,
+        "4": 2,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/JPelVio_Beg9igAmhcD-P01p-0yMdSvyr73kIpgDLv8xwNxBwqHOITE3BYAkCerdzrjX=h310",
+        "//lh3.googleusercontent.com/QgDOORqDvb2ck1z2m0dmvA1HjRub3-RXhJbvKkr5zsHtbsOTC93yGpPDfyOW18sWgw=h310",
+        "//lh3.googleusercontent.com/mnkOt3-bHWlEsBBmJacLWw2vjEVo3z0If1xcBpUKrHUW-XZf9EyOHk8u-ACFhr2tvQ=h310",
+        "//lh3.googleusercontent.com/tUpnmqwhq2tZyv64DRLtsD2dSFcJ8DuELhvPUwEf_TKdzEoTwOFpYMr29vgD97fqhj0=h310",
+        "//lh3.googleusercontent.com/uvZUycGrgNlGJv_Wg_qvqnh6MN2fvQtbVuJ_PnpG5A5_qsmZcIdrpAr6wlKb7BEFVTY=h310",
+        "//lh3.googleusercontent.com/oknPViHTks-Bp6GGqxaSpsPK-z2usLQmiLMGikXS6F0xoISy_eDRXbiUj9gSaYLoNA=h310",
+        "//lh3.googleusercontent.com/A9HX4JstiX9IuyfVQV0-BALAedYYE942PeudUfxBKdnMjx1fScdbaG7O3ZBD6vO9Qk4=h310",
+        "//lh3.googleusercontent.com/jdUulWpclXHlg-5ILOeXbl-wlEGyC41hbP3-pw45dRXKCtlVpJ9EVd0tOiGXzbBXOA=h310"
+    ],
+    "comments": [
+        "Did not work on LG watch R Tried several different time settings.  Never went off or gave any indication of an alarm.   Since update works great now.",
+        "Phone app Would have been 5 stars if the alarms could be edited from the phone app and if it had setting to repeat the alarm...",
+        "Needs an update to include a repeat function.  Pretty useless otherwise.",
+        "It doesn't work for me",
+        "Sound missing Why is this just vibrating without sound?",
+        "Well done Just needs daily repeat alarm ability."
+    ],
+    "recentChanges": [
+        "Simplified user interface",
+        "Add play alarm on phone",
+        "Fix alarm firing issue."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ntw21.wear.alarm&hl=en&gl=us",
+    "appId": "com.ntw21.wear.alarm"
+}

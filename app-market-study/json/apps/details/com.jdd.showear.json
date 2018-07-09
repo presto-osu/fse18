@@ -1,0 +1,63 @@
+{
+    "title": "Showear: Android Wear Lock",
+    "summary": "Showear lock your watch and block drops from your shower!",
+    "icon": "//lh4.ggpht.com/Xzz7zfRWZO9APPOP9MwqN1yxDyYcuaWLEOIFpk9_9-iRQM5koh2ns_gAtlxMJZrW2w=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.2,
+    "reviews": 377,
+    "developer": "Nicola Barresi",
+    "developerId": "Nicola+Barresi",
+    "developerEmail": "showear.nbarresi@gmail.com",
+    "developerWebsite": "https://plus.google.com/118059767469931132331",
+    "updated": "January 22, 2015",
+    "version": "2.2.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Showear is the most configurable lock screen for Android Wear.Using the app is simple:    1. Define an unlock sequence on your phone using the companion app;    2. Launch Showear on your watch.Now your smartwatch will be accessible only after the insertion of the right sequence.Showear options are as follows: - Lock screen on swipe from outside the screen - Unlock on standby - Auto-lock on standby - Vibration - Hide lock screen on standby - Reduce screen brightness when locked - Always-on lock screen - Transparent lock screen or configurable background color - Configurable lock elements' color - Show/hide swipe sequence on lock screenDevelopment is just begun and new functionalities will be added according to feedback, so feel free to write me at: showear.nbarresi@gmail.com.",
+    "descriptionHTML": "Showear is the most configurable lock screen for Android Wear.<br><br>Using the app is simple:<br>    1. Define an unlock sequence on your phone using the companion app;<br>    2. Launch Showear on your watch.<br>Now your smartwatch will be accessible only after the insertion of the right sequence.<br><br>Showear options are as follows:<br> - Lock screen on swipe from outside the screen<br> - Unlock on standby<br> - Auto-lock on standby<br> - Vibration<br> - Hide lock screen on standby<br> - Reduce screen brightness when locked<br> - Always-on lock screen<br> - Transparent lock screen or configurable background color<br> - Configurable lock elements&apos; color<br> - Show/hide swipe sequence on lock screen<br><br>Development is just begun and new functionalities will be added according to feedback, so feel free to write me at: showear.nbarresi@gmail.com.",
+    "histogram": {
+        "1": 25,
+        "2": 17,
+        "3": 35,
+        "4": 74,
+        "5": 226
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/QglqZiSsZDmv8G-brXD8THBxX4V5Sd6ydwFibiCL3IZfFUmGuKCx9hIkYRh6UBE3iRRk=h310",
+        "//lh3.ggpht.com/rh3JI-BB_Zu8eQCJjEEtfcY6DJVwjeskYRhqJF6cTcIullcdAxqU5B5Hf2uG1zXRt2E=h310",
+        "//lh3.ggpht.com/5coC7h0lCNnNz_5lbRiC1GkF2_TJVXTxDY-TjUwXpXh7f3_Ppl_DUUcRaVz8DtoVReo=h310",
+        "//lh3.ggpht.com/GgOOmQBFbMQn7-9-bSliKlnO7VOIx8nqLVcpfZTduT_5gXjF0m_g_jk4-UIli4VKN2s=h310",
+        "//lh5.ggpht.com/OBjvQ0iApTb9wwfpUTUr921-InfYan91jQFHuJh49XcCC8Tqw8Sp3YTbw0k_CUNNFfA=h310",
+        "//lh6.ggpht.com/KvHR437nM_ae_C2QT0ApKTU16lK373MiHqTbuq-FDOTLKqLM00K9TFmfjOqCQhWftTc=h310",
+        "//lh4.ggpht.com/4E7yc53jvDn9XTYfqqyVndqNzLcCdpYeNVRRd3OYlg3arhYuQllo4qPXEOSc3rNsqtSO=h310",
+        "//lh4.ggpht.com/wYn1KmGSj2eCpll331ZLD03VGWXS8ha_rQeMQm4C2hM6GJrArJxGy335FIOyeHRZ4apn=h310"
+    ],
+    "comments": [
+        "Great App! I wanted something like this for two reasons:  1. When i'm in the shower to stop the screen getting activated and registered the water as swipes.  2. When I'm in bed to stop the screen getting activated and killing battery!  This app helps out with both of the above :). I have it enabled to lock the screen after i swipe from the left to the centre of the screen twice. Then to unlock again upon entering a series of swipes. Perfect!",
+        "Good app It works well so deserves 5* rating, great for stopping watch doing things when it rains, but why on earth would anyone need to keep a watch on while getting a shower, do u not need to wash your wrist? Is the 3 second task of removing a watch to shower too much of a drain on your precious time? Lmao",
+        "Essential for sw3 This should be standard on wear watches as without it if I get the watch slightly wet be it from rain or sweat the bloody thing goes bananas.  I know it's probably a kernel issue and beyond the scope of the app, but an option to turn off wake by screen tap altogether and just use the button would be gravy.",
+        "Broken Keeps causing the watch screen to lock and turn off which stops notifications coming through. Uninstalled and back to no issues",
+        "Nice Nice app for people that need it.  I found it unnecessary, but if things change I'll definitely reinstall it.  I found the initial set-up confusing, as the descriptions weren't totally clear to me.",
+        "Un repoduceable problem Not a consistent problem, but every once in awhile it will not re brighten  the screen when it comes out of lock mode. It's really an issue when in bright light the screen is so dim cannot even correct the problem."
+    ],
+    "recentChanges": [
+        "- v2.2.0 -",
+        "This updated introduces a couple of suggested features:",
+        "- Lock icon can now be placed on the lower border of the screen",
+        "- The watch can be automatically locked when it loses connection with phone",
+        "There is a known issue with \"Theater Mode\" on LG G Watch: the latter makes impossible to unlock the watch without using the phone. I'm working on it and I hope to provide a fix ASAP.",
+        "- v2.2.1 -",
+        "Minor bugfixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.jdd.showear&hl=en&gl=us",
+    "appId": "com.jdd.showear"
+}

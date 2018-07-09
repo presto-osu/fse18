@@ -1,0 +1,53 @@
+{
+    "title": "HappyBeam",
+    "summary": "Improve your meditation! Measure every session to track your meditation skills.",
+    "icon": "//lh4.ggpht.com/WJNcZJRj8mnELgFFlrq1AMbMMhmwKqCex-zjeZbOL7GrOGOfrSAKrPYAXOjrOge7zyFh=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.5,
+    "reviews": 4,
+    "developer": "ZkHaider",
+    "developerId": "ZkHaider",
+    "developerEmail": "kevin.coleman@sparkstart.io",
+    "developerWebsite": "http://www.happybeamapp.com/",
+    "updated": "January 14, 2015",
+    "version": "1.1",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "description": "Welcome to HappyBeam! This is an app that can measure the quality of your meditations by sensing your physical movements. Just sit comfortably, open up HappyBeam app, tap the start button, hold your phone in your hands, and begin your meditation. Discover the best app that can help you to improve your meditations. Are you happy? Are you stressed out? HappyBeam is designed to measure your inner peace by building up the bridge between physical movements and mental fluctuations. It helps you have a peaceful mind, reduce stress and depression, and improves your meditations. The less movement and lower the score that HappyBeam detects, the more you improve.HappyBeam runs alongside meditation apps to measure how a user moves during a meditation. The app calculates a movement score using a cutting-edge algorithm. Happy-peaceful scores are marked green, not-so-good scores are yellow, high-anxiety scores are red.In the \"Your Meditations Chart,\" users see their improving meditation scores across all their meditations. The history list shows a list of each session with a chart displaying when and how long they moved.There are no other meditation apps that shows how a user is improving.HappyBeam leverages the latest Android Wear technology so that users can measure motion with their smartwatch.HappyBeam was built by Kevin Coleman and Haider Khan in 3 weeks for the Happiness Apps challenge.",
+    "descriptionHTML": "Welcome to HappyBeam! This is an app that can measure the quality of your meditations by sensing your physical movements. Just sit comfortably, open up HappyBeam app, tap the start button, hold your phone in your hands, and begin your meditation. Discover the best app that can help you to improve your meditations. <br><br>Are you happy? Are you stressed out? HappyBeam is designed to measure your inner peace by building up the bridge between physical movements and mental fluctuations. It helps you have a peaceful mind, reduce stress and depression, and improves your meditations. The less movement and lower the score that HappyBeam detects, the more you improve.<br><br>HappyBeam runs alongside meditation apps to measure how a user moves during a meditation. The app calculates a movement score using a cutting-edge algorithm. Happy-peaceful scores are marked green, not-so-good scores are yellow, high-anxiety scores are red.<br><br>In the &quot;Your Meditations Chart,&quot; users see their improving meditation scores across all their meditations. The history list shows a list of each session with a chart displaying when and how long they moved.<br><br>There are no other meditation apps that shows how a user is improving.<br><br>HappyBeam leverages the latest Android Wear technology so that users can measure motion with their smartwatch.<br><br>HappyBeam was built by Kevin Coleman and Haider Khan in 3 weeks for the Happiness Apps challenge.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh3.ggpht.com/hxmY_zHG1rRpCeTOdKwoCIUzK17I2iCDwvhBfe6kpT4lYpdmzhbDD6fpMHJ-jdVN9EA=h310",
+        "//lh3.ggpht.com/z7RozjCivHQQ6MGf9P6YsSdxJ5TI8ed8vWJvbeF3SocuVrEstvYRUwa-LQWPEqE6zEw=h310",
+        "//lh3.ggpht.com/IT9QvHw0oleBku2ysbKQJ1MomjT-jeHRGY945xyzS8L-rA6UkgSqoCz4EFE1lhVyoaE=h310",
+        "//lh4.ggpht.com/vXZetjZwWZYtBcjebvd5GQwCrw-IH5Qn8J-qcGXdpGu0uIdBXaKovOhC4_6DkVqlww=h310",
+        "//lh5.ggpht.com/y9d75oHtMS4jAvTgwVHEvztphVMAFUnTIoHblQIQB2OFrutiT2TR1gjgFB941o53QXc=h310",
+        "//lh6.ggpht.com/4fz70Go8IQ5EhIZ6mAE7qzZl9iwcCK2jBuiqaZBAhidOGS6RnF3n7O2XtdDYRbMekok=h310",
+        "//lh4.ggpht.com/2jf9ZUnfYepG-0-ATLlBXKw4nP00g6U8UyCdLSI8NeqJWsy0ROmCJJ037WCeLZ4OuRD7=h310",
+        "//lh6.ggpht.com/_R00A9a2tej3nmrIJHRTjNioMNNmwgvcUS1MJrnyrG8f-SxjUjB4ihfIHgXoh5qBYBA=h310"
+    ],
+    "comments": [
+        "Moto 360 Apparently it is not working in my Moto 360 watch...",
+        "Отлично! Мне понравилось, забавное приложение."
+    ],
+    "recentChanges": [
+        "Changed tutorial images, and added support for earlier APIs."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=zkhaider.com.happinessproject&hl=en&gl=us",
+    "appId": "zkhaider.com.happinessproject"
+}

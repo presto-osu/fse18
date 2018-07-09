@@ -1,0 +1,53 @@
+{
+    "title": "Reactive Watchface for Wear",
+    "summary": "Sprocket and Gears Style Watch",
+    "icon": "//lh3.ggpht.com/jTim_NALTyGC6xoLmn8OrPvVgJu72INn4_-TypUkPDw-_hA2vFsrAM_UwzhDZ1k31aDX=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 0,
+    "reviews": 0,
+    "developer": "DiordDev",
+    "developerId": "7792920222023350537",
+    "developerEmail": "DiordDev@gmail.com",
+    "developerWebsite": "http://diorddev.blogspot.com/",
+    "developerAddress": "diorddev@gmail.com",
+    "updated": "March 27, 2015",
+    "version": "1.2",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Reactive watchface with options for color accents. The companion app inside android wear lets you customize and preview.★ Battery and Date indicator ★ Weather Widget★ Red, Blue and Green color options★ Tick and sweep second hand★ Toggle battery and date widgets visibility ★ Ambient mode★ Live preview of settings on phone★ All settings can be changed on watchSupport for square (G Watch, Gear Live, ZenWatch etc.) and round (Moto 360, G Watch R etc.) displays.INSTALL NOTES:After installing the application, new styles of watches appear in the menu selection of watch faces in your Android Wear after 10-20 seconds. If you encounter problems with the installation of watch faces on Wear, please go to the android wear app -> Settings and \"Resync apps\".",
+    "descriptionHTML": "Reactive watchface with options for color accents. The companion app inside android wear lets you customize and preview.<br><br>&#x2605; Battery and Date indicator <br>&#x2605; Weather Widget<br>&#x2605; Red, Blue and Green color options<br>&#x2605; Tick and sweep second hand<br>&#x2605; Toggle battery and date widgets visibility <br>&#x2605; Ambient mode<br>&#x2605; Live preview of settings on phone<br>&#x2605; All settings can be changed on watch<br><br>Support for square (G Watch, Gear Live, ZenWatch etc.) and round (Moto 360, G Watch R etc.) displays.<br><br>INSTALL NOTES:<br><br>After installing the application, new styles of watches appear in the menu selection of watch faces in your Android Wear after 10-20 seconds. If you encounter problems with the installation of watch faces on Wear, please go to the android wear app -&gt; Settings and &quot;Resync apps&quot;.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/wf-2niL_fyeA15qh_Pj-OJ-Qs5RaiNbajWG88G_HqC5xF2UfMpoAVks9jUIeqsgp2c8=h310",
+        "//lh6.ggpht.com/g8Dv3ZwPogpjz6IApwhacK2ntfw1A06Ur2r3uNIB3UCX1XhJxZnugkV3jnWa7nhtgA=h310",
+        "//lh3.ggpht.com/CWkwhCPod8A2qMlurwcHwN6oIxZsiszfb1H8Q1wHllIZ8jgXBTV6jKoxZ0sOSNslhWI=h310",
+        "//lh3.ggpht.com/0jUlF_f00SWJiS3gKkLzB6ksd-9K21eRz4qTjk9u_UsILuoapuh6Z-QjlX_EqSLUBGQ=h310",
+        "//lh5.ggpht.com/oyiXnQlWIoMax1K6ty7XuCE8O07yXPgZXt50mTey0S0od0zkplsFg2JKwdkys6aN2AM=h310",
+        "//lh4.ggpht.com/BK4MVe1NW-1ssV1BUwAd4yRI7A9wL9faDch3liy0Mf8HbpwStbjSsCoNGLz9devOyA=h310",
+        "//lh5.ggpht.com/5kz-zuKm7eSXvJzQDHiDd7Hi8p0Z7NZSR3dj4wOLzYKyLuzkf0PFlJ9kcyU7SOBaQtJg=h310",
+        "//lh6.ggpht.com/OyHTuknGuS_rkusQCF0iC7qU2b2nIzPl23WWWgOEKfKuKRhVX5MSIxOGnYGWyxv6gig=h310",
+        "//lh3.ggpht.com/oK2ad6KOKcagFxBDb48hGsgYeKeHANpEafZ1_0HL_jjj2uJCYn_ORltn0OJ-Cy1PaMU=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Fixed weather options - Intervals",
+        "- Moved temperature text"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.diorddev.watchface.reactive&hl=en&gl=us",
+    "appId": "com.diorddev.watchface.reactive"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Wear Sailing Race Timer",
+    "summary": "Use the vibration of your Wear smart watch as a racing start timer",
+    "icon": "//lh3.googleusercontent.com/LrBKl9N_TP2baeUnqP8Yato9H1eh-MwFmt-DgD7BzfFlAQuelC2yeYuIA0GcfHCahho=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.6,
+    "reviews": 9,
+    "developer": "Memory-Map, Inc.",
+    "developerId": "Memory-Map,+Inc.",
+    "developerEmail": "info@memory-map.com",
+    "developerWebsite": "http://memory-map.com",
+    "developerAddress": "51 Elm St\nTrumansburg, NY 14886\nUSA",
+    "updated": "October 2, 2017",
+    "version": "Varies with device",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "size": "Varies with device",
+    "description": "This app turns your Android Wear smart watch into a fully featured sailing watch, with one important bonus feature: it vibrates! Keep your eyes on the sails, the wind and the boats around you while maintaining perfect timing!+ Adjust the count down period+ Sync the countdown to the nearest minute+ After the start, count up.+ Time of day, with seconds also displayed+ Program a start at a specific time of dayIn the last three minutes of the countdown, the app uses the signalling scheme from Appendix S of the racing rules. This is used primarily for small boat racing, and the signals are designed to avoid the need for looking at a stopwatch.   3 minutes:    3 long vibrations   2 minutes:    2 long vibrations   1 m 30s:      1 long and 3 short vibrations   1 minute:      1 long vibration   30 seconds:  3 short vibrations   20 seconds:  2 short vibrations   10 seconds:  1 short vibration   5, 4, 3, 2, 1:  1 short vibration each   Start:            1 long pulsing vibrationThis app does not use any GPS features, so it is legal to use for all classes of sailboat.The Sync feature comes in handy for those times when you miss the gun. If you start the countdown a few seconds late, and you can sync it at the prep signal or at 1 minute.The time of day is determined from the operating system, which is usually synchronized accurately to UTC.Race Timer is completely free and contains no ads. It is provided as a gift to the racing community. If you like this app, take a look at our Memory-Map GPS Navigation app.",
+    "descriptionHTML": "This app turns your Android Wear smart watch into a fully featured sailing watch, with one important bonus feature: it vibrates! Keep your eyes on the sails, the wind and the boats around you while maintaining perfect timing!<br><br>+ Adjust the count down period<br>+ Sync the countdown to the nearest minute<br>+ After the start, count up.<br>+ Time of day, with seconds also displayed<br>+ Program a start at a specific time of day<br><br>In the last three minutes of the countdown, the app uses the signalling scheme from Appendix S of the racing rules. This is used primarily for small boat racing, and the signals are designed to avoid the need for looking at a stopwatch.<br><br>   3 minutes:    3 long vibrations<br>   2 minutes:    2 long vibrations<br>   1 m 30s:      1 long and 3 short vibrations<br>   1 minute:      1 long vibration<br>   30 seconds:  3 short vibrations<br>   20 seconds:  2 short vibrations<br>   10 seconds:  1 short vibration<br>   5, 4, 3, 2, 1:  1 short vibration each<br>   Start:            1 long pulsing vibration<br><br>This app does not use any GPS features, so it is legal to use for all classes of sailboat.<br><br>The Sync feature comes in handy for those times when you miss the gun. If you start the countdown a few seconds late, and you can sync it at the prep signal or at 1 minute.<br><br>The time of day is determined from the operating system, which is usually synchronized accurately to UTC.<br><br>Race Timer is completely free and contains no ads. It is provided as a gift to the racing community. If you like this app, take a look at our Memory-Map GPS Navigation app.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/9rH0eJ2opd6B7wUc-mCNwnhuOIxn7QpECkwljsfuSP-3xBvoPRR8BrLixkspIFeq2wtA=h310",
+        "//lh3.googleusercontent.com/sTP9eHd6hmY9vSILA96rZmSxJec5DzyqHmbedXVcrtKo3CqV4LClo1C1u_8lkM4Qzw=h310",
+        "//lh3.googleusercontent.com/kZXi99Kq1bMfbVoymkjTLRSbcSaXlaz1dnB_G2kZLMbcnb8jFaNH8qI7ZAayDKfWAvln=h310",
+        "//lh3.googleusercontent.com/Dfu0Ladm0fCw8_n3wNTEZt-TroLjDnwXMo0FgcCEZP07Znbaf1-4vp8Ayc3XTrIz1pU9=h310",
+        "//lh3.googleusercontent.com/UK1CycuB90b5-BV5wbGSOw5N9w_dII4fK7Q1XmeFWUdioeav0HeF1ItDa1XTa8nA2F4R=h310",
+        "//lh3.googleusercontent.com/kIyLoWLCEucxotZBEj-P12pMWaNBJdDEIoiwLjgHLZe6oZsCX1qgjHH3S21M8AoOt18=h310"
+    ],
+    "comments": [
+        "Great start timer for my Android Wear watch. Vibrations are very helpful, and the ability to set a specific start time is perfect for the Friday night beer can pursuit race.",
+        "Has the basics down Does a great job with the basic functions of a sailing race watch. Ability to set countdown length, sync function and reset are all easy. It also automatically starts a  timer once it hits zero. Would like to see more customization options.",
+        "Great for basic timing Vibrations absolutely necessary since I can't see the watch face in the sun very well.",
+        "Cool start time! Love that you can set a time of day start in hours, minutes and seconds. Perfect for the Thursday Night Bermuda start fun race we do.",
+        "awesome.  does exactly what it needs and should do.  they are spot on."
+    ],
+    "recentChanges": [
+        "1.1.2 Fixed crash",
+        "Standalone installation on Wear 2",
+        "Set the exact start time, for handicap-adjusted starts",
+        "Set countdown period to any number of whole minutes 1-15"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.memorymap.racetimer&hl=en&gl=us",
+    "appId": "com.memorymap.racetimer"
+}

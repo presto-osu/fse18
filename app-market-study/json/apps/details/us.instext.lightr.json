@@ -1,0 +1,54 @@
+{
+    "title": "Lightr - Longer Backlight",
+    "summary": "Let your android wear bright as long as you want",
+    "icon": "//lh3.googleusercontent.com/SF1cPT0P-COUsMZRe8YUvnE3IbEz5gCtutGqUZc64S4dmifxbQS7piY8lGRYfccmy7E=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.5,
+    "reviews": 73,
+    "developer": "InstextUs",
+    "developerId": "InstextUs",
+    "developerEmail": "orekasep@gmail.com",
+    "developerWebsite": "http://www.instext.us",
+    "developerAddress": "No 5 174/15 Phuong Canh, Xuan Phuong, Nam Tu Liem, Ha Noi",
+    "updated": "September 27, 2015",
+    "version": "1.0.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "It's seem your backlight timeout is too short for your wear devices ?You want to make it a bit longer so your watch is more awesome ?Lightr will help you to custom timeout of backlight on your watch.You can use it for FREE without pay anything. There are 4 options in FREE version: • Off - let system as default• 10 seconds• 30 seconds• 1 minuteIf you love Lightr and think it really helps you to make your watch more awesome, please update to PREMIUM version.There are much more options for you:• Off - let system as default• 3 seconds• 5 seconds• 10 seconds• 15 seconds• 20 seconds• 30 seconds• 1 minute• 2 minutes• 5 minutes",
+    "descriptionHTML": "It&apos;s seem your backlight timeout is too short for your wear devices ?<br>You want to make it a bit longer so your watch is more awesome ?<br><br>Lightr will help you to custom timeout of backlight on your watch.<br>You can use it for FREE without pay anything. <br><br>There are 4 options in FREE version: <br>&#x2022; Off - let system as default<br>&#x2022; 10 seconds<br>&#x2022; 30 seconds<br>&#x2022; 1 minute<br><br>If you love Lightr and think it really helps you to make your watch more awesome, please update to PREMIUM version.<br>There are much more options for you:<br>&#x2022; Off - let system as default<br>&#x2022; 3 seconds<br>&#x2022; 5 seconds<br>&#x2022; 10 seconds<br>&#x2022; 15 seconds<br>&#x2022; 20 seconds<br>&#x2022; 30 seconds<br>&#x2022; 1 minute<br>&#x2022; 2 minutes<br>&#x2022; 5 minutes",
+    "histogram": {
+        "1": 21,
+        "2": 5,
+        "3": 1,
+        "4": 7,
+        "5": 39
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/bgH-0Eq5TxN_8-d7QpxPjmv8UuGi2E-cBzKZXlLLdHGuANDm8aydOdvHDVCGPzK4-Lo=h310",
+        "//lh3.googleusercontent.com/kBk6c2jhYrs5aHbMNZuiZZjzXSQvCoM7dw9zC0n9WfQEumCIqBSPIPwBksMkytLHgfo=h310",
+        "//lh3.googleusercontent.com/qQ1RQ4dISpPM5zJCVPen6qiVHPWx1Jxt-sdAj4qVcvjH8Mo9bzkKwsedCaahOEBUHw=h310",
+        "//lh3.googleusercontent.com/qNSB5rXtWJX17IjiJ49KT1JUJo59Z4Ms0XAMh1HYaC9IOOyzlEWfW9Zbn6P5v5rl94E=h310"
+    ],
+    "comments": [
+        "As others have pointed out, app was buggy (forgetting settings) and when I replaced my old AW smartwatch with a new one, the Premium version doesn't seem to be found (which makes it seem like it's tied to the device, not the Google Play account).  Looks like it's been a while since an update, so I think this may have been abandoned.  Fortunately, there's a competing product with great reviews, so moving on...",
+        "Worthless after Wear update This app used to work rather well. It kept the light on longer according to the value you would set. However, since the latest Android Wear update it is practically worthless. Every so often and for no obvious reason it will now shut down, leaving the light timeout at the default 5 seconds. Every time then you have to open the app and reselect the light timeout which is quite annoying.",
+        "Not good I was very happy when I found this app as the built-in light timeout is way too short. So I installed this app and thought problem solved. I set the timeout to 10 secs. What I noticed though that quite often the light would turn off much earlier -  as if I didn't have the app running at all. It happens randomly and makes having this app rather pointless unfortunately. Therefore I cannot recommend this to anyone looking for a solution to Wear's short backlight timeout.",
+        "Buggy As other reviewers have pointed out, there is a general problem with the reliability of this app. For some time, it will work fine but then seemingly out of random the backlight turns off much earlier than the value that you have set. I wish the developer could address this problem and make this app as useful as promised.",
+        "Works great! Exactly what I needed.  Too bad android wear doesn't do this by default,  but good for developer who created this app. Thanks!  I bought the upgrade. Only 99 cents!",
+        "Thank u Finally I can see my beautiful watch face for more than 2 seconds.  This app saves the day.  Up to a minute of full bright face."
+    ],
+    "recentChanges": [
+        "You will be able to set your android wear device timeout as long as you want (up to 5 mins with Premium version)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=us.instext.lightr&hl=en&gl=us",
+    "appId": "us.instext.lightr"
+}

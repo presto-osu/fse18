@@ -1,0 +1,48 @@
+{
+    "title": "Smart Wear Face",
+    "summary": "Will allow you to benefit from new features if you are using a Watchmaker face",
+    "icon": "//lh3.googleusercontent.com/8ZTwsDNhDjeK0o9qhwmc6NIFORVNsAlU4AKn-m8jv6PFhY7LMhOBOeAd1jeUIl91lNnr=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 14,
+    "developer": "SmartWear Dev",
+    "developerId": "SmartWear+Dev",
+    "developerEmail": "contact@smartfacesystem.com",
+    "updated": "January 3, 2017",
+    "version": "SWF",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "This application will allow you to benefit from new features if you are using a Watchmaker face on your watchThe WatchMaker Watch Face application must be installed on your watch and selected as your current watch face.• Easily Select a face on your watch:The application will show you a grid of all the watchmaker faces currently installed on your watch.            Click on any face to select it.• Easily Select a face on your phone:The application will show you a grid of all the watchmaker faces currently installed on your phone.            The faces that have been installed on the watch have a white clock icon below them: you can click on them to select them.            Faces without this icon have not been pushed to your watch yet by watchmaker.• Automatically change the face on your watch:Use the play button in the watch application or enable auto change in the phone application settings.            Customize the delay in the phone settings.            Face order can be set as random or not.            This application is not endorsed by the developer of Watchmaker.Watchmaker has no responsibility in the case of issues caused by this application.",
+    "descriptionHTML": "This application will allow you to benefit from new features if you are using a Watchmaker face on your watch<br><br>The WatchMaker Watch Face application must be installed on your watch and selected as your current watch face.<br><br><br>&#x2022; Easily Select a face on your watch:<br>The application will show you a grid of all the watchmaker faces currently installed on your watch.<br>            Click on any face to select it.<br><br>&#x2022; Easily Select a face on your phone:<br>The application will show you a grid of all the watchmaker faces currently installed on your phone.<br>            The faces that have been installed on the watch have a white clock icon below them: you can click on them to select them.<br>            Faces without this icon have not been pushed to your watch yet by watchmaker.<br><br>&#x2022; Automatically change the face on your watch:<br>Use the play button in the watch application or enable auto change in the phone application settings.<br>            Customize the delay in the phone settings.<br>            Face order can be set as random or not.<br><br>            This application is not endorsed by the developer of Watchmaker.Watchmaker has no responsibility in the case of issues caused by this application.",
+    "histogram": {
+        "1": 3,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/kZ4JgRfhrbl-lVD-npDBK0Nz1WvMlv_rlqf1_VlvytNnQN6sebCMEOZEIm1Cbf3Yq00=h310",
+        "//lh3.googleusercontent.com/JIWsJNDeCXQeGz9Lu9rI4ReAyaaCiwNxbKO1YR1uzO4BKEaMHBI67lD7pGn1KHV16Q=h310",
+        "//lh3.googleusercontent.com/HYvmaW9Lpj3D_AWm86sU83fQgItCGYD18OFtv2-OFKE_GLpi_qGGN1wrN_akMfgsBVk=h310",
+        "//lh3.googleusercontent.com/eCtwa78UkXKDBhIWjPs3ws-5BgryKmh08WXhKAqel_rB5HYiIsWKhRFGEdlq4VTrMw7-=h310",
+        "//lh3.googleusercontent.com/8NAWaD8p7eQsJioAxePywCs3qshV5PTQVCXxAhdd_7X2xvJK5wQTGxr1nEBCKi4kCQ=h310"
+    ],
+    "comments": [
+        "Best wear app This app is what makes having a smart watch fun. Notifications are nice but being able to change faces at will is the best feature. Love the collection feature! I like to change watch bands frequently and being able to put watch faces into collections to match my watch bands and having them load automatically is awesome! Keep up the great work.",
+        "Unfortunately the old message of this version is too old has returned and app now force closes",
+        "Awesome Excellent app a must if you enjoy having a new watch face almost every time you use it"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.smartwear.face.smartwearapp&hl=en&gl=us",
+    "appId": "com.smartwear.face.smartwearapp"
+}

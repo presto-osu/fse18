@@ -1,0 +1,54 @@
+{
+    "title": "RefereeTimer",
+    "summary": "For all american football officials (to take play clock or game clock, score...)",
+    "icon": "//lh3.googleusercontent.com/vVzzut0R03H6OJD1Ph6Q-O0bo3CvkNeI6smvK2rxW1XtjycOiX26XlHoQcCEZJqxdMc=w300",
+    "price": "$5.49",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 5,
+    "reviews": 3,
+    "developer": "EveryDay'sApps",
+    "developerId": "EveryDay'sApps",
+    "developerEmail": "thib.barbier@gmail.com",
+    "developerAddress": "rue marbeuf Grenoble",
+    "updated": "August 1, 2017",
+    "version": "6",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Referee Timer is a very useful tool for all American Football officials with an Android Wear smart watch. This application is composed of two modes:-Play clock mode to manage the play clock.-Game clock mode to manage the game clock.Play clock mode permits you to take the play clock (25/40 seconds, delay-of-game timer). It also permits you to take the 1 minute for timeout in particular. It can also be used for NFHS Football with the 25 seconds and 1 minute timer.Game clock mode permits you to take the game clock. On the welcome screen of this mode, you have to select the number of quarter (usually 4) and the duration of this quarter (12 minutes with NCAA rules).You have to select the mode on the welcome page of the application. Please notice that  that on the Home screen, a \"Settings\" option will allow you to switch to NFHS configuration (with different vibrations in Play Clock mode), or to change the language of the faults (English, French or Portuguese).On the welcome screen of each mode, you can send information about your previous game and send it by email or SMS (see below). You can reset data to clean information about previous game (score, timeouts...). It should be noted that in Play clock mode you can also reset timeouts (for the half-time) whereas in Game clock mode, timeouts are automatically reset at the beginning of the 3rd quarter in a 4 quarters configuration.The main screen shows the countdown (of the play clock in Play clock mode and the game clock in the Game clock mode). It also shows the score and timeouts. From this screen, by sliding your finger to the left, you can note the result of the coin toss. Slide your finger to the left to return.By sliding down, you access the home team configuration (you can add scores and timeout). You can add unsportsmanlike conduct (in Play clock mode) or faults (in Game clock mode) and also scorers by clicking on \"conf\" button from this screen. In both modes it is also possible to record team-specific audio information such as faults or markers (voice recorder function) by clicking on \"Rec\". Then you return to the previous screen by sliding to the right. From the main screen it is possible to configure the same things for the visiting team by sliding upwards.In both modes it is possible to transmit data collected during the game (score, faults, scorers) to his phone or tablet to send them by email or SMS. To do this, please connect your watch to the mobile device (phone or tablet) to which it is associated. Then open the RefereeTimer application on your mobile device. Next, open the RefereeTimer application on your watch, select the mode in which you have taken the data to be transmitted and press the \"Send data\" button. From the application on your mobile device, press \"RELOAD GAME INFORMATION\". Two popups will ask you to enter the names of the local and visiting teams and the data will be updated at the bottom of the screen. You can send them by email or SMS using the buttons SEND MAIL And SEND SMS. You will also be able to listen audio files that you have recorded for each team.",
+    "descriptionHTML": "Referee Timer is a very useful tool for all American Football officials with an Android Wear smart watch. This application is composed of two modes:<br>-Play clock mode to manage the play clock.<br>-Game clock mode to manage the game clock.<br><br>Play clock mode permits you to take the play clock (25/40 seconds, delay-of-game timer). It also permits you to take the 1 minute for timeout in particular. It can also be used for NFHS Football with the 25 seconds and 1 minute timer.<br><br>Game clock mode permits you to take the game clock. On the welcome screen of this mode, you have to select the number of quarter (usually 4) and the duration of this quarter (12 minutes with NCAA rules).<br><br>You have to select the mode on the welcome page of the application. Please notice that  that on the Home screen, a &quot;Settings&quot; option will allow you to switch to NFHS configuration (with different vibrations in Play Clock mode), or to change the language of the faults (English, French or Portuguese).<br><br>On the welcome screen of each mode, you can send information about your previous game and send it by email or SMS (see below). You can reset data to clean information about previous game (score, timeouts...). It should be noted that in Play clock mode you can also reset timeouts (for the half-time) whereas in Game clock mode, timeouts are automatically reset at the beginning of the 3rd quarter in a 4 quarters configuration.<br><br>The main screen shows the countdown (of the play clock in Play clock mode and the game clock in the Game clock mode). It also shows the score and timeouts. From this screen, by sliding your finger to the left, you can note the result of the coin toss. Slide your finger to the left to return.<br><br>By sliding down, you access the home team configuration (you can add scores and timeout). You can add unsportsmanlike conduct (in Play clock mode) or faults (in Game clock mode) and also scorers by clicking on &quot;conf&quot; button from this screen. In both modes it is also possible to record team-specific audio information such as faults or markers (voice recorder function) by clicking on &quot;Rec&quot;. Then you return to the previous screen by sliding to the right. From the main screen it is possible to configure the same things for the visiting team by sliding upwards.<br><br>In both modes it is possible to transmit data collected during the game (score, faults, scorers) to his phone or tablet to send them by email or SMS. To do this, please connect your watch to the mobile device (phone or tablet) to which it is associated. Then open the RefereeTimer application on your mobile device. Next, open the RefereeTimer application on your watch, select the mode in which you have taken the data to be transmitted and press the &quot;Send data&quot; button. From the application on your mobile device, press &quot;RELOAD GAME INFORMATION&quot;. Two popups will ask you to enter the names of the local and visiting teams and the data will be updated at the bottom of the screen. You can send them by email or SMS using the buttons SEND MAIL And SEND SMS. You will also be able to listen audio files that you have recorded for each team.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/DFiimcszyv7g6mufn2aakYQhFp-yZKiiqoJ1KcHcVkOfyzx79pryQjyUcXt8x22Pfuo=h310",
+        "//lh3.googleusercontent.com/OeY6o-LxT68ddAzEvngO6h4U4u3USH8RSmuWIQeb3L28AO7U2izsy3iXFH0ka7bwhk8=h310",
+        "//lh3.googleusercontent.com/gRKuvFTeBKAjVoooh-UJNdN_C2dR1x2nbLpbyxj2ffWZPeAmnOGMgda7ylQzrwaVj2I=h310",
+        "//lh3.googleusercontent.com/2l6hIJRSj3CcD98L6rdUuhuFoKBwcLp7ke83FqH1qPnsHMT25tMYIQeTSRvT8H_amF8=h310",
+        "//lh3.googleusercontent.com/-t4wFX68XgPPPUCgA6AhVtTd7EKh-VRjUBFVJ4IwAxfzQ84BZjX-ONbTndvCMsA-UgYP=h310",
+        "//lh3.googleusercontent.com/wnEiUaVJ9AN3-4oxBwwLZnNVV9xRK2962dAy9MC5y7fKLi_rYjUhmt11a5V8PEw9bwYp=h310",
+        "//lh3.googleusercontent.com/4EyjbRdidTHLHoku9YnqPUUtQhX53Ovx8xBNtrJBKVtyPvbZ1TPdJSUNX7_ewKfxlA=h310",
+        "//lh3.googleusercontent.com/bsXBapewJhhFB4UAFnyKGUUIpmcORL7x-sitrZ44lAk0Kn7ZV_1sCNSRgCzL1eDeAg=h310"
+    ],
+    "comments": [
+        "Awesome app. Made running the play clock so much easier. Please continue developing!"
+    ],
+    "recentChanges": [
+        "-Dictaphone functionality to record faults of each team",
+        "-Possibility to set the watch to adapt vibration times to NFHS mechanics",
+        "-Possibility to set the language of the faults (French, English and Portuguese)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.refereetimer.TimerMyActivity&hl=en&gl=us",
+    "appId": "com.refereetimer.TimerMyActivity"
+}

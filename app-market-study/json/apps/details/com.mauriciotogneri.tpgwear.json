@@ -1,0 +1,48 @@
+{
+    "title": "TPG Wear",
+    "summary": "Get live information about the next departures in your smartwatch.",
+    "icon": "//lh3.googleusercontent.com/sf9Rv6DkdUhMvEVKEVw02YQ7fZWXzuwqJBS32MYC6bB3YnyYtKiqy0xutPck1VTu3yoA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.6,
+    "reviews": 5,
+    "developer": "Mauricio Togneri",
+    "developerId": "7413333299271490546",
+    "developerEmail": "mauricio.togneri@gmail.com",
+    "developerWebsite": "http://mauriciotogneri.com",
+    "updated": "October 28, 2015",
+    "version": "1.0.5",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "The TPG Wear app allows you to quickly get live information about the next departures of a given stop. It comes with a companion mobile app where you can store your favorite stops that will be displayed in the main menu of the smartwatch app.The application uses the official TPG (Geneva Public Transport) API as source of data.",
+    "descriptionHTML": "The TPG Wear app allows you to quickly get live information about the next departures of a given stop. It comes with a companion mobile app where you can store your favorite stops that will be displayed in the main menu of the smartwatch app.<br><br>The application uses the official TPG (Geneva Public Transport) API as source of data.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/sKbbr1t_X1Xe_-cSZusDSBU31grSeHTZEHM-6fh2izJ-nolhZZ7072RSNF28Wt-w6A=h310",
+        "//lh3.googleusercontent.com/7NmEVDfdB-f3EJebV_mFWRaaCBoY7-mrKp_N3twt2sOnRQyBqCLxh5EgYIuV7a3ttQ=h310",
+        "//lh3.googleusercontent.com/kT2hhZrB3m8sIa1qrhiYrV5JCm4_Sw6j2txeUpqsjCKERGhR3pQKt9GlsMyoQQbLNP4=h310",
+        "//lh3.googleusercontent.com/UJeXpQjdgtJxUgnjX0F6i0pUFegVl1N8dcXIyqT0tRn6yechsWDQxZeIpNqLFXmyKwK8=h310",
+        "//lh3.googleusercontent.com/97wkDxhEBBOFe7gd8zWyKLKoIhJOOVO-8TrYyuccqQMD13OcpSbu3vBfpZ57OBNiBMY=h310",
+        "//lh3.googleusercontent.com/mLCdbgwPZ-yQPtmHA_-3HVlqNYvp32SpqiHJGaG6I-e_nTxUpdIvxIM6qLawZDEpuQg=h310"
+    ],
+    "comments": [
+        "Since I use this app, I never miss a TPG bus anymore!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mauriciotogneri.tpgwear&hl=en&gl=us",
+    "appId": "com.mauriciotogneri.tpgwear"
+}

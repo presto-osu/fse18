@@ -1,0 +1,56 @@
+{
+    "title": "Zoe Jordan Watch face",
+    "summary": "5 watches show a week’s moments",
+    "icon": "//lh3.googleusercontent.com/X6RU_VouuBtmyMwmfOZpsooPs9M5-Bn9nFOZ4-kR8S8wU2PzgZ73srkINncQG1HrpubK=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4,
+    "reviews": 599,
+    "developer": "Zoë Jordan",
+    "developerId": "Zo%C3%AB+Jordan",
+    "developerEmail": "gemma@zoe-jordan.com",
+    "developerWebsite": "http://www.zoe-jordan.com",
+    "updated": "April 18, 2016",
+    "version": "1.0.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "Channel London fashion cool with designer Zoë Jordan’s 5 watch faces portraying a week’s moments.",
+    "descriptionHTML": "Channel London fashion cool with designer Zo&#xEB; Jordan&#x2019;s 5 watch faces portraying a week&#x2019;s moments.",
+    "histogram": {
+        "1": 57,
+        "2": 34,
+        "3": 67,
+        "4": 138,
+        "5": 303
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/9UHJrFj_s3CBRdiL13H6Wv82w-trZ_4DXsBsJzlAxhVZDd3RCnFq4B8RxiOzi5TH6SY=h310",
+        "//lh3.googleusercontent.com/OO5GkmJsBHJx3VVcSEUIoqspeESWszh9jqcFXZ6zhofbWlYhdAH_fqxn2tdKb3Jb-f1m=h310",
+        "//lh3.googleusercontent.com/xYPTDYmmPU-ckhMQYlmUbyXg3ipFH9k5Yr68ZaNgMc-N8vtj-nCCbc9TqmMqLWvA-fwe=h310",
+        "//lh3.googleusercontent.com/DCQZjS29QqZxZ_tPMgyIxgbIa0CTawqnO1K3heH4hsT7BH3l3RLaAvkZ4Qar7EFj1w=h310",
+        "//lh3.googleusercontent.com/wHExHsDvs_JZnaYSV4zyVxqZhlzCUwR2RrMDro5q7wPh_sD3csmkY5M3lB9lgU0ZQ5c=h310",
+        "//lh3.googleusercontent.com/-UhTMLuWKBmcMpSkFKEMCoZWEuYvSqpvk3GXkrIzSClU48h4kSdJjCAfX8shtvV16AM=h310"
+    ],
+    "comments": [
+        "Gear S2 How do I get it to work on Gear S2? While there is not much written on the description section, I have installed it but it does not show up on the phone or in the watch itself😔",
+        "Very well thought out watch faces, no complications for four out of the five which gives a very stylish and clean design. Not for those seeking lots of customizable complications.",
+        "Needs AMOLED support. When in Ambient mode, specifically on the digital watch face, the background needs to go entirely black to turn off the pixels on an AMOLED display (eg. Huawei Watch) and save battery.",
+        "I would definitely be using this watch face but it Would be alot better if you could see the weather and battery percent on your watch so I'm not gonna use it until that gets put in :)",
+        "Labels need to bigger, customisation from phone - labels on phone face are bit small in the analog watch. Pls give option to customise or change face from android wear app on phone.",
+        "Stunning Can't fault them, taste is subjective but these are clear clean and look amazing. The great part is the low power versions are almost identical so the change is seamless."
+    ],
+    "recentChanges": [
+        "- Updated the hands for the marble watch",
+        "- Update to increase battery life"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mediamonks.watchface.zoejordan&hl=en&gl=us",
+    "appId": "com.mediamonks.watchface.zoejordan"
+}

@@ -1,0 +1,62 @@
+{
+    "title": "NOAA Weather International",
+    "summary": "Get pinpoint worldwide forecasts, radar &amp; alerts from NOAA &amp; Dark Sky.",
+    "icon": "//lh3.googleusercontent.com/oOac_PegClxZkM_tg3k6nMi9jQSbnRtapd3BylDiv6JnUZHUTVtvOaNKP5WTatfdKRYQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 4.5,
+    "reviews": 10024,
+    "developer": "Pandamonium Software",
+    "developerId": "Pandamonium+Software",
+    "developerEmail": "pandamoniumsoftware@gmail.com",
+    "developerAddress": "3132 Umatilla St Apt B\nDenver, CO 80211\nUSA",
+    "updated": "November 19, 2017",
+    "version": "Varies with device",
+    "genre": "Weather",
+    "genreId": "WEATHER",
+    "size": "Varies with device",
+    "description": "Retrieve real-time 7-day hyperlocal point weather forecasts and current weather conditions for worldwide locations from NOAA NWS, Environment Canada & Dark Sky based on your current location or any location in the world.Not only are NOAA forecasts the most accurate, they provide unique point forecasts for every square mile which take into consideration all the variables affecting the weather at that point, such as altitude. This is especially useful in locations with highly dynamic weather patterns and is a great tool for being outdoors.-View forecast & current conditions for your current location.-View forecast & current conditions for any location in the world by map.-Save favorite locations to quickly retrieve forecasts for them.-Hourly forecast-Animated radar, cloud cover, precipitation & wind imagery over Google Maps-Map measuring tool to measure distance and elevation-Hazardous weather alerts-Current conditions notification-Home screen widget-Light and Dark Material themes-Optimized for tablets-Android Wear supportIn-app purchase is available to remove ads.Please e-mail me below with any bug reports or features requests. Thanks!",
+    "descriptionHTML": "Retrieve real-time 7-day hyperlocal point weather forecasts and current weather conditions for worldwide locations from NOAA NWS, Environment Canada &amp; Dark Sky based on your current location or any location in the world.<br><br>Not only are NOAA forecasts the most accurate, they provide unique point forecasts for every square mile which take into consideration all the variables affecting the weather at that point, such as altitude. This is especially useful in locations with highly dynamic weather patterns and is a great tool for being outdoors.<br><br>-View forecast &amp; current conditions for your current location.<br><br>-View forecast &amp; current conditions for any location in the world by map.<br><br>-Save favorite locations to quickly retrieve forecasts for them.<br><br>-Hourly forecast<br><br>-Animated radar, cloud cover, precipitation &amp; wind imagery over Google Maps<br><br>-Map measuring tool to measure distance and elevation<br><br>-Hazardous weather alerts<br><br>-Current conditions notification<br><br>-Home screen widget<br><br>-Light and Dark Material themes<br><br>-Optimized for tablets<br><br>-Android Wear support<br><br>In-app purchase is available to remove ads.<br><br>Please e-mail me below with any bug reports or features requests. Thanks!",
+    "histogram": {
+        "1": 341,
+        "2": 201,
+        "3": 461,
+        "4": 2560,
+        "5": 6461
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/M28bAMoavCvaOffIAEkFf4TB6i-Wd3RfQhQdEtoHfHLQhqXobQEVQ-GiNr6OqPKA-g=h310",
+        "//lh3.googleusercontent.com/0N4mdUJSk4KoFoWQGVj0sa9e1tHS5r5tySLe7YYAJRtOfVY7pKjJY-cMK7QQ2Aygkw=h310",
+        "//lh3.googleusercontent.com/TFEqlefcnvJ8n7wcueDk9a8I561aHqE2PfGVKxDol1bw54YaKYrXG6SfqZjqn9BSehk=h310",
+        "//lh3.googleusercontent.com/Cf-7uPcHvDKOWJdEqv2AvDmTWHjWFRESGgn4hohSnCcKmb-KjHRWZmZgut0mDe54Nb8=h310",
+        "//lh3.googleusercontent.com/40xEwWy4NM0JTHFkcvlzI0zzxy5zdfcHI1GYOQjgMgd1X61L_hyuSwCwfWqepCpBQG4=h310",
+        "//lh3.googleusercontent.com/pM4Vq609QwGvAyfKegNa6-XTlzrPWp-40K6IFBVWv8resqvbVbZ8UjxRw3lblfIMON87=h310",
+        "//lh3.googleusercontent.com/F7xDIVKV83KO1k_bMcdIVlKNNVx0T2BgmF2gX-RhM280dlJW1nTRaNknjvztBRFBcWE=h310",
+        "//lh3.googleusercontent.com/WHyVRqzA2F_t2aqYfZuY6siAkJx-G4m0dzAdwon-VHmi92CjYV9avwPJwZv-aq608JI=h310",
+        "//lh3.googleusercontent.com/XwP7neyh6uDHXDLVkm0C6oggZmrQfmxiqlHGWxWs_XZnY0E79vp7U6RUScSgbaB_Soo=h310",
+        "//lh3.googleusercontent.com/G7FLROq82zEjQb8xzU1N2ecy9PiB4rceIxxVxqMbzgI1bHymsK0cj4WsFtNDOe0JyxE=h310",
+        "//lh3.googleusercontent.com/PVQWnJwkno8gPJQ3PEvFZhBftuI5ddpNtxM1F84CyGA7iICXhMVFz4buJNy6kChB7K78=h310",
+        "//lh3.googleusercontent.com/gx6q5xVHfV8JJoame8PaqhHWBrW1kznaRqjSeUHRTmIM9D4NSz0WJOvKD6xS9oYAp4ye=h310"
+    ],
+    "comments": [
+        "I've tried a number of forecast apps in the past. I recently got a new phone and thought \"I should try different weather apps again\", so I did. I was using Dark Sky, as well as google's weather, and the weather from Bixby. It all simply pales in comparison to what they've put together here. No service is more accurate, no service is easier to see your forecast, and no service has as a many options for what kinds of alerts you get.   Sure, it's not the prettiest app in the world, but it looks good enough, and the information available far outweighs any lackings in the design.",
+        "Update as of 12/31/17... The map is still showing the weather from yesterday .What is up with that?? Need a fix pls!!! That is not acceptable. My other weather app is fine. Uninstall on the horizon!!",
+        "Because I enjoy a full weather reading with temperature, wind chill, gusts, and more this app excels. I've tracked hurricanes using the map, sent clearly understood screenshots to family and more.",
+        "I live on a island off the coast of Maine, so weather is both important to anticipate, and difficult to do so. This is the most accurate app by far. And the descriptions are clear and detailed.",
+        "No nonsense, unintrusive app with easy to navigate maps and forecasts. And if you're willing to wade through the weather jargon, the Forecast Discussion is insanely detailed and accurate.",
+        "Poor radar, I'm watching the snow storm 1 mile from me snowing heavily and app shows 30 miles away"
+    ],
+    "recentChanges": [
+        "* Support for Android Oreo"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=pandamonium.noaaweather&hl=en&gl=us",
+    "appId": "pandamonium.noaaweather"
+}

@@ -1,0 +1,62 @@
+{
+    "title": "E-NUM",
+    "summary": "No more passwords!",
+    "icon": "//lh4.ggpht.com/7BKRKscQmnxV6M486wzEOJauRziIfDo7Ob3vsQgAlTL9mKT2o6xhgYkcimJ75bMIp0A=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 4,
+    "reviews": 10274,
+    "developer": "CJSC \"Computing Forces\"",
+    "developerId": "CJSC+%22Computing+Forces%22",
+    "developerEmail": "support@enum.ru",
+    "developerWebsite": "http://www.enum.ru",
+    "updated": "October 24, 2016",
+    "version": "Varies with device",
+    "genre": "Finance",
+    "genreId": "FINANCE",
+    "size": "Varies with device",
+    "description": "PLEASE mail your bug reports only to  support@enum.ru , do not post them to comments !We are unable to reply to comments or see you e-mail there to ask more questions.E-num (aka ENUM) is an up-to-date system of authentication providing high-level security. A secret access key is stored not on your computer but on your mobile phone.- PLEASE NOTE!!! If you are getting wrong responses (or empty response) or your PIN is not be accepted anymore - uninstall and reinstall the application and activate it again.Made for WebMoney users!",
+    "descriptionHTML": "PLEASE mail your bug reports only to  support@enum.ru , do not post them to comments !<br>We are unable to reply to comments or see you e-mail there to ask more questions.<br><br>E-num (aka ENUM) is an up-to-date system of authentication providing high-level security. A secret access key is stored not on your computer but on your mobile phone.<br><br>- PLEASE NOTE!!! If you are getting wrong responses (or empty response) or your PIN is not be accepted anymore - uninstall and reinstall the application and activate it again.<br><br>Made for WebMoney users!",
+    "histogram": {
+        "1": 1670,
+        "2": 303,
+        "3": 550,
+        "4": 1169,
+        "5": 6582
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/Lo5sYJb3NIusJECGuXe2EBxwwNymF3alSltAMYeOsfrqgJ4h44OmzB3VTJ6iXE3rbe-d=h310",
+        "//lh6.ggpht.com/5o3SY7YLdaJFsdQbbFhAAma0xANgsEhasXnbrrRLUDAhkxaFyfAn3aMMbJTU5jboDi4=h310",
+        "//lh6.ggpht.com/8Y_nQZUgftj-0UbIWB8WTVBG66DbJoTkN4PjWgf9yc9JePyZf-YCf0kyMAdNgTAC_Q=h310",
+        "//lh4.ggpht.com/yTl3yO1ft54TNV58jzvcG_VvEbVWjnqJFByiHS4356OIVXmm4IcPFpkb2gOSztOiOg=h310",
+        "//lh5.ggpht.com/6xMTrKeGFUceLI0N86OB1BXLXYnKsTmlUcbgg4wqrcQYlLKBtmi8BvMeYJ1ek5HbHEnT=h310",
+        "//lh4.ggpht.com/GiMzqBM8HT_BiYrwWf_WVJwwVfiW5w3tN_4eiIu3qE-QpMG6MXKUQzbGSRnkKZ8ALQRx=h310",
+        "//lh5.ggpht.com/wg0yWDNFIqxyHpZFltBekfde8cCgA85esWSkBSi56vSp7dSNPG97zhc7-dYlrVZIwV0=h310",
+        "//lh4.ggpht.com/5wI6X0qF95gfxVZH6CzRxg3M-r3fV6vimrbH5kBrGTpSe4SsJn0vwBMn_vNi3bSCPpI=h310",
+        "//lh6.ggpht.com/PlC4TlwiTPcy7QezVv-5O82D-ZxhwoUnHN3UIc6zK5nBHOKxYfEuLN4unmDOVzyfbf8=h310",
+        "//lh3.ggpht.com/c5N72TA3OT_-mHNHw6rPEddy3MdrTlOxFYTGWkHE6UbH4XY_IRipIcgmx7O98DiEGw=h310",
+        "//lh3.googleusercontent.com/YE5_CIjwWR3k_Rbm9ARHlqJhXGjNrjte5Hko0A18ZOcuSFthaDQJFnez-sj_JI-B8b-R=h310"
+    ],
+    "video": "https://www.youtube.com/embed/MkRA6HCNl9I",
+    "comments": [
+        "I'm not the only one facing issues after update. Can't get SMS anymore because they say my number has changed. I use the same number. Their recovery options are highly complicated. Nothing is working anymore.",
+        "You have to go home with this app and webmoney! The stupid idea.  The confirmation email doesn't receive. Are you kidding? Account recovery ERROR ON SENDING SMS! Why!?",
+        "I'm not getting my activation code even after it's recovery. My phone number hasnt changed",
+        "If you lose your phone number, you're f**ked up and have no options to restore your account",
+        "Can't. Change phone number and can not receive confirmation SMS. It's stuck my money in webmoney.",
+        "Terrible login I use 4 hours to struggle in login. Because my number is DEAD!"
+    ],
+    "recentChanges": [
+        "* Improvements in built-in QR Scanner"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ru.e_num&hl=en&gl=us",
+    "appId": "ru.e_num"
+}

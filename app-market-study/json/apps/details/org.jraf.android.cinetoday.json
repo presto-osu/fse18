@@ -1,0 +1,57 @@
+{
+    "title": "Cine Today",
+    "summary": "This app lists movies showing at your favorite theaters, on your smartwatch.",
+    "icon": "//lh3.googleusercontent.com/GQ0cLumY3Fxb-7BOIib5KagvC7UUrXPnVoQYyRQ7aJQiRSMZc56sOqmvhpfJQBMKLRk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.8,
+    "reviews": 17,
+    "developer": "BoD",
+    "developerId": "BoD",
+    "developerEmail": "BoD@JRAF.org",
+    "developerWebsite": "http://JRAF.org/android",
+    "updated": "February 25, 2018",
+    "version": "2.1.1",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "This app for Android Wear™ lists movies showing at your favorite theaters, on your smartwatch.- See movie details, and showtimes- Be notified about new releases- Showtimes are automatically updated every morningCurrently this app only works with movie theaters in France. If you know of an API that could be used to make this app work in your country, please contact me.This app is open source and in active development.",
+    "descriptionHTML": "This app for Android Wear&#x2122; lists movies showing at your favorite theaters, on your smartwatch.<br>- See movie details, and showtimes<br>- Be notified about new releases<br>- Showtimes are automatically updated every morning<br><br>Currently this app only works with movie theaters in France. If you know of an API that could be used to make this app work in your country, please contact me.<br><br>This app is open source and in active development.",
+    "histogram": {
+        "1": 5,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 11
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/ByQmw72XZ9LXKfwuXjWiIVaXcjg5GjCRDLlHXmWVS79AVcvvS76HaZDni7027yjaW2g=h310",
+        "//lh3.googleusercontent.com/Se1fBLFl-sVi8__GVXI-4AZhOQAXp2O6cOeY31c9AhA5SGUzlNIgYVIlAVeVG74yTtk=h310",
+        "//lh3.googleusercontent.com/1sPSlCBVHgU--3l4sm-ugLbrBT90zK22XJyPoGIHRvNbH1egZWx1AQccRlu6E7alk0Hl=h310",
+        "//lh3.googleusercontent.com/z2g6yXunp4Z_CYf3DjHXaP8TPjSi0RFvru7TkDvC_kfYfiyzqe_qKqMzfePeI6StzTw=h310",
+        "//lh3.googleusercontent.com/aNlnur-ArlKggm6DkVIeFwzyBsRh0cQo-hk1JVj2s4Wpp4gGn25d9iuCyPPfFsr3NmU=h310",
+        "//lh3.googleusercontent.com/hUUClojPvHN_QZvWg8hyFjrn0YGKsV7waID9_ieVp_ayli9mrAN2U21ux_LT4FajhzS-=h310",
+        "//lh3.googleusercontent.com/21QuS_JeRl9S8Ph5_UL0Kazx7MlBlCTWU70YEUpqAlAwyQR9udrsTK_0K1A5oQkLHMdL=h310",
+        "//lh3.googleusercontent.com/v1L7wwVJN3fMhI3l32dixBLSpF7zDX2qxdqJO3gKUIKucCYTublsSIXOM2jtpnI8vvg=h310"
+    ],
+    "comments": [
+        "Nope! Wasted space, can't find one single usable Theater in my area.",
+        "Worthless No theaters. Tried search, nothing returned.",
+        "not find any Cinemas in Raleigh",
+        "Great Love being able to check movie times and synopsis without having to take out my phone. Everything is available directly on my wrist :-)",
+        "Really nice app!",
+        "Love the idea Can't wait for support for theaters in the States"
+    ],
+    "recentChanges": [
+        "Android Wear 2 version"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.jraf.android.cinetoday&hl=en&gl=us",
+    "appId": "org.jraf.android.cinetoday"
+}

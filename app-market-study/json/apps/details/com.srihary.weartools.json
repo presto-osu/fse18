@@ -1,0 +1,57 @@
+{
+    "title": "Blaze: Wear Longer Backlight",
+    "summary": "Configure your Android Watch Backlight TIMEOUT to fit your needs",
+    "icon": "//lh3.googleusercontent.com/w9xzT6pSAOmw1k-G7X4Qb39l-8Egls6G4LusLuIRADHk0Xtaqm9RG0pMmdZsmfPVKrc=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 19,
+    "developer": "Srihari Yachamaneni",
+    "developerId": "Srihari+Yachamaneni",
+    "developerEmail": "srihari.yachamaneni@gmail.com",
+    "developerWebsite": "http://www.srihary.com",
+    "developerAddress": "Singapore",
+    "updated": "March 6, 2016",
+    "version": "1.0.0.20160306.P",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Aren't you able to stare long enough at beautiful watch faces without touching screen to extend backlight?BLAZE app comes in handy for you to do so, allows you to configure your watch backlight timeout once your watch display turns ON (by pressing power button or tapping on screen or moving your wrist).You can select display timeout ranging from 5 seconds to 20 minutes or even no timeout if that is what you want :)NOTE: longer timeouts might have some impact on Battery life. 10 - 40 seconds is the recommended rangeUSAGE: After app installation on your handheld/phone from play store, Blaze should appear on your watch in less than a minute. Please follow Android Wear Troubleshooting steps if it doesn't appear.SUPPORT: Don't hesitate to reach us at blazewearapp@gmail.com for any support/suggestions/feedback.",
+    "descriptionHTML": "Aren&apos;t you able to stare long enough at beautiful watch faces without touching screen to extend backlight?<br><br>BLAZE app comes in handy for you to do so, allows you to configure your watch backlight timeout once your watch display turns ON (by pressing power button or tapping on screen or moving your wrist).<br><br>You can select display timeout ranging from 5 seconds to 20 minutes or even no timeout if that is what you want :)<br><br>NOTE: longer timeouts might have some impact on Battery life. 10 - 40 seconds is the recommended range<br><br>USAGE: After app installation on your handheld/phone from play store, Blaze should appear on your watch in less than a minute. Please follow Android Wear Troubleshooting steps if it doesn&apos;t appear.<br><br>SUPPORT: Don&apos;t hesitate to reach us at blazewearapp@gmail.com for any support/suggestions/feedback.",
+    "histogram": {
+        "1": 6,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/mIMEkcktVaKCzWVDXjFy6IHWkE9xdt7CnDiXSKNQ99ZBtsw_T0RO4reDn8HuBhcJXik=h310",
+        "//lh3.googleusercontent.com/ogGy-wKNyWne6iltNU3iaHWjzdzamn4ANHLXtKSyx9cRLXjWiq_5bM5qlEBvo07Q=h310",
+        "//lh3.googleusercontent.com/1F3RUHeQgdjAHnfN08ki_E4HqdLe2lTWyc298Hrw_tAG6jU19Dr7QxY9I83IyRV8MU8=h310",
+        "//lh3.googleusercontent.com/lYTF50jAt9A4kbhb8FD085saHDkfrNbyLLaGImPDqABEnQk8A61E1-rXp-rCKzAGIpU=h310"
+    ],
+    "comments": [
+        "Works perfectly on Tag Heuer Connected; soooo much nicer to see the full detail watch faces for ages rather than just a quick flash. Great work, well done, too cheap at a quid....",
+        "Unreliable Unfortunately this app is not running as stable as it should be. Sometimes it stops working and needs to be restarted manually.",
+        "Very Handy tool Must have watch tool to override default backlight. And it works perfectly.",
+        "Seems to work on Huawei watch Only solution to timeout extension so far that I can see",
+        "I love this app, worked perfectly from the start, I have the LG g watch w100",
+        "works!! Works as it should . Happy to have it on my moto"
+    ],
+    "recentChanges": [
+        "First Release!!!",
+        "- Fine grained control over your watch backlight",
+        "- Easy to use UI",
+        "- Minified APK (~800kb in size)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.srihary.weartools&hl=en&gl=us",
+    "appId": "com.srihary.weartools"
+}

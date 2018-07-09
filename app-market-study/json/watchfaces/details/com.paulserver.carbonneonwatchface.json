@@ -1,0 +1,56 @@
+{
+    "title": "Carbon Neon Watch Face",
+    "summary": "Add a clean Neon look to your Android Wear SmartWatch. Now with Complications!",
+    "icon": "//lh3.googleusercontent.com/HAKn-4wLddg5nVKyFLMzCOnzBzSydXQW8Up2pBJkk5YCpOBH8GnfsfR7Tyf9JP8HQCk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.9,
+    "reviews": 140,
+    "developer": "paulserver.com",
+    "developerId": "6662602780538406550",
+    "developerEmail": "info@paulserver.com",
+    "developerWebsite": "http://www.paulserver.com",
+    "developerAddress": "Via Fratelli Cairoli, 19\n13900 Biella",
+    "updated": "February 23, 2018",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Carbon Neon gives a neon look, over fiber carbon, to your watch. Be cool with elegance!You can choose between different neon colors with analog or digital display.With the new Complications for Wear 2 you will be able to choose from many widgets such as step counter, phone battery, sunrise and sunset, appointments, fit and many more...We also maintained the exclusive compass and phone battery (the latter needs Carbon Neon app installed on the phone)Compatible with all Wear versions, included Wear 2.0, and watches with \"chin\" on the bottom.",
+    "descriptionHTML": "Carbon Neon gives a neon look, over fiber carbon, to your watch. Be cool with elegance!<br><br>You can choose between different neon colors with analog or digital display.<br><br>With the new Complications for Wear 2 you will be able to choose from many widgets such as step counter, phone battery, sunrise and sunset, appointments, fit and many more...<br><br>We also maintained the exclusive compass and phone battery (the latter needs Carbon Neon app installed on the phone)<br><br>Compatible with all Wear versions, included Wear 2.0, and watches with &quot;chin&quot; on the bottom.",
+    "histogram": {
+        "1": 22,
+        "2": 5,
+        "3": 9,
+        "4": 33,
+        "5": 71
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/78cgHfHmKvlSOuivLVnUeRNadGeHi8_lspRCU7l_FSYQX9po2HrMr1gr_upkFZvFcA=h310",
+        "//lh3.googleusercontent.com/wiuXtr8IiLI6sKYhnPu9xZG2qhGsRCC_XamOQDmqcAAjFZjFN9Rd8JH0eQ9TMOzNeC4=h310",
+        "//lh3.googleusercontent.com/rzVDFcdTMIv3g0sDaMzeEXbZxyik2THAEilsur_yMpe4XB4Lxp3ZbevZbbdT4WwmnCU=h310",
+        "//lh3.googleusercontent.com/NKv4gOqScQtP8JuYr0nLKes1ubW1ARsZIeK6r9J3Bj74sCO_7ZRXyvSoAjRv0hyu_nU=h310",
+        "//lh3.googleusercontent.com/ZIEBiPRKJctAngN1o9YMqa6LgTBOpTx8TMI_mVnmcuKWDQVQR0OoN1fLQOlIAaxTDVU=h310"
+    ],
+    "comments": [
+        "Some improvements have been made since my last review, but now the notification count has been permanently disabled, sad because I found that really useful!",
+        "its elegant and simple. Just a beautiful and changeable face for any color scheme of clothing.  Awesome!!!",
+        "very cool looking. has a bunch of colors to choose from",
+        "Great color options and rad minimalistic vibe",
+        "Removed all but one complication. Dick move. Uninstalled.",
+        "Please remove notification count, it used to be perfect"
+    ],
+    "recentChanges": [
+        "Fixed midnight/noon for 12 hour format"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.paulserver.carbonneonwatchface&hl=en&gl=us",
+    "appId": "com.paulserver.carbonneonwatchface"
+}

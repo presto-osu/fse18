@@ -1,0 +1,145 @@
+Soot started on Thu Jun 21 10:45:20 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: com.atektura.datestampwatchface.DateStampWatchFaceService
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/com.atektura.datestampwatchface.apk
+[INFO] MySceneTransformer: ############## com.atektura.datestampwatchface.DateStampWatchFaceService$Engine ##############
+[INFO] Analyzer: =============== onSensorChanged() ===============
+[INFO] FlowGraph: @@@@ Total Class:   48
+[INFO] FlowGraph: @@@@ Total Methods: 173
+[INFO] FlowGraph: @@@@ Total Stmts:   4240
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1), (register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16777216,-1])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1), (register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16777216,-1])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1), (register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16777216,-1])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1), (register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16777216,-1])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1), (register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16777216,-1])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] ICFGUtil: [acq labels] []
+[INFO] ICFGUtil: [rel labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] ICFGUtil: [all labels] [(unregister_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,-1)]
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(0)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>([-16777216,-1])
+[INFO] ICFGUtil: [acq labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] ICFGUtil: [rel labels] []
+[INFO] ICFGUtil: [all labels] [(register_sensor_listener,NEW[new com.atektura.datestampwatchface.DateStampWatchFaceService$Engine]762,1)]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[0]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r2_52=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_18=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_59=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_60=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_54=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_83=[-1], $r2_64=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_79=[-16777216], $r2_58=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_96=[-1], $r2_26=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_46=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_90=[-1], $r2_100=[-1], $r2_107=[-1], $r2_84=[-1], $r2_77=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_109=[-1], $r1=[0, -16777216, -1], $r2_81=[-16777216], $r2_65=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_95=[-1], $r2_106=[-1], $r2_44=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_91=[-1], $r2_30=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_24=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_73=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_62=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_61=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_71=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_80=[-16777216], $r2_74=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_68=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_99=[-1], $r2_48=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_103=[-1], $r2_97=[-1], $r2_82=[-1], $r2_69=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_92=[-1], $r2_66=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_22=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_101=[-1], $r2_93=[-1], $r2_104=[-1], $r2_85=[-1], $r2_78=[-16777216], $r2_20=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_50=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_102=[-1], $r2_89=[-16777216], $r2_34=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_70=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_72=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_42=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_32=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_108=[-1], $r2_98=[-1], $r2_67=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_88=[-16777216], $r2_87=[-16777216], $r2_105=[-1], $r2_36=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_63=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_76=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_28=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_94=[-1], $r2_86=[-16777216], $r2_38=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_75=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_40=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233], $r2_56=[-3346740, -1, -1118482, -3355444, -12255420, -1127186, -12303292, -1127220, -1118516, -3346706, -3355410, -4504321, -1127254, -5583634, -47992, -48060, -17596, -188, -12303105, -12255233]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): []
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ffccccee, ff4444ff, ffcceecc, ffcceeee, ffeeccee, ffeecccc, ffeeccaa, ffeeeeee, ffeeeecc, ffbb44ff, ffffbb44, ffffff44, ffff4488, ffff4444, ff44ff44, ff44ffff, ffaaccee]
+[INFO] MySceneTransformer: colors equal=false
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::PRESS_SIDE_BUTTON::invisible_applist>, <invisible_applist::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.press_side_button()
+[INFO] MySceneTransformer: LEAK TESTCASE 1: wearable.standby()
+[INFO] MySceneTransformer: @@@@@@ SENSOR LEAK @@@@@@ [1] [[<null::SELECT::interactive>, <interactive::SWIPE_UP::invisible_notification>, <invisible_notification::STANDBY::ambient>]]
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.select_on_handheld(HANDHELD_SERIALNO, labels[pkg])
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.swipe_up()
+[INFO] MySceneTransformer: LEAK TESTCASE 2: wearable.standby()
+[INFO] MySceneTransformer: TOTAL TIME: 3.180000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 10:45:28 EDT 2018

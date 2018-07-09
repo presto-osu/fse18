@@ -1,0 +1,57 @@
+{
+    "title": "24h Analog Watch Face",
+    "summary": "A 12-at-the-top 24h analog watch face for Android Wear",
+    "icon": "//lh5.ggpht.com/uj4JUFplb7WJIw2Xbbon3rWr24V8aHxQkSC1_dtjGeU7vhpGOiYwItD60OaxKsON4Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.8,
+    "reviews": 98,
+    "developer": "staticfree.info",
+    "developerId": "staticfree.info",
+    "developerEmail": "steve@staticfree.info",
+    "developerWebsite": "https://github.com/xxv/24hAnalogWidget",
+    "updated": "March 7, 2017",
+    "version": "Varies with device",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "size": "Varies with device",
+    "description": "This is a variation on our 12-at-the-top 24h analog clock face designed specifically for Android Wear. It looks particularly good on round devices, but has support for square too.Inscribed in the dial is a sunrise/sunset indicator that passively uses your phone's location to stay up-to-date. The yellow line indicates when the sun is at its apex; the gradients are various twilights (civil, nautical, astronomical).Permissions: The GPS/location usage is entirely passive and uses Google Play Services to get a location. As this app does not have Internet permissions, it does all its computation locally. The wake lock permission is needed for the watch face and is managed by the Wear watch face system.This face is released under a free software / open source license: GPLv3Source: https://github.com/xxv/24hAnalogWidget",
+    "descriptionHTML": "This is a variation on our 12-at-the-top 24h analog clock face designed specifically for Android Wear. It looks particularly good on round devices, but has support for square too.<br><br>Inscribed in the dial is a sunrise/sunset indicator that passively uses your phone&apos;s location to stay up-to-date. The yellow line indicates when the sun is at its apex; the gradients are various twilights (civil, nautical, astronomical).<br><br>Permissions: The GPS/location usage is entirely passive and uses Google Play Services to get a location. As this app does not have Internet permissions, it does all its computation locally. The wake lock permission is needed for the watch face and is managed by the Wear watch face system.<br><br>This face is released under a free software / open source license: GPLv3<br><br>Source: https://github.com/xxv/24hAnalogWidget",
+    "histogram": {
+        "1": 8,
+        "2": 8,
+        "3": 18,
+        "4": 21,
+        "5": 43
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/G5H-v_LqEUCCF9AHGC5Zo-CJ6ILnfvBfuUr73yc_pbGqvsPA-acqQB6MBFcDOIbVnVOl=h310",
+        "//lh4.ggpht.com/u7hVRilbo6jrT4-CVw_ahD5dVxvGuMOPnc11R3TbOrme8qt_bXNMD74UnblQ_FsLGw=h310",
+        "//lh4.ggpht.com/_wUKq4A9a5C5jU9BS-TiCFb3V_egC_G2oEKpreJD8eTHbXTkYprFZ__B6_c5FNUvc8w=h310",
+        "//lh3.googleusercontent.com/Y9FhFkc-CrcGytuT-CblKzWsSktM_M_Y17l7q5Iw5yc4zWaZx-y-LLZL634x3t0ajg=h310",
+        "//lh3.googleusercontent.com/uhKh06it6K2DWOxdoPoQ-SXzxzlRNtFF1FJ9ms8fQa_l6mSPuMjM8UIvl_3BMlMWInk=h310"
+    ],
+    "comments": [
+        "Thank you so much for updating. This is my favorite watch face and ai was pretty bummed when the wear 2.0 update broke the location feature",
+        "Thought it was widget",
+        "Is exactly the watch face I want. Sad it doesn't fill the entire screen of my ZTE quartz",
+        "Almost perfect... How can I scale it to fill my watch screen?  It comes up about 15% smaller than full screen...",
+        "Love it -- Please! if at all possible, make it so there's option to keep the 01-12 numbering on the PM side.",
+        "Just perfect. More color options would be a nice feature, but more than usable as is. I would definitely pay for this watch face."
+    ],
+    "recentChanges": [
+        "• Update for Wear 2.0",
+        "• Improve ambient display",
+        "• Improve acquisition of rough location for sunrise/sunset"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=info.staticfree.android.twentyfourhour.wear&hl=en&gl=us",
+    "appId": "info.staticfree.android.twentyfourhour.wear"
+}

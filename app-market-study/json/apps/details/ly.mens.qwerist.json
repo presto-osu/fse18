@@ -1,0 +1,51 @@
+{
+    "title": "Qwerist Keyboard",
+    "summary": "Simple QWERTY input for your wrist.",
+    "icon": "//lh4.ggpht.com/8pZnnUbsFkFIScl_y0hn5EPVJ01jp0qfX4BK0pbIMx-sUI4y4XS3Ct9rTCvXwLtGb8s=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.5,
+    "reviews": 6,
+    "developer": "mensly",
+    "developerId": "mensly",
+    "developerEmail": "qwerist@mens.ly",
+    "developerWebsite": "http://mens.ly",
+    "updated": "June 14, 2014",
+    "version": "1.0.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Simple QWERTY input for your wrist.--------------------------------------------------NOT COMPATIBLE WITH ANDROID WEAR. This was a decision by Google in designing Android Wear to not have soft keyboard input as an option, this app is only compatible with devices running third-party modified versions of full Android. Even if this app was installed on an Android Wear device, the watch would not use it for any purpose.--------------------------------------------------Most full keyboards are designed for full-size devices, and can be extremely frustrating to use on screens of about 1 inch. Alternate styles of input often sacrifice precision or require keeping a closer eye on automatic corrections. On a tiny screen, where the keyboard often covers the text box you are typing into, this can be a problem.Qwerist aims to provide the most precise input for small form-factor devices. What you type is what you get, and when it isn't sure what you are trying to type, it asks rather than guesses. When your finger is half the size of the screen, it is hard to click right on the key you want. If the tap is on the edge between two or more keys, Qwerist will prompt you to verify which you intended to click. This slows the speed of typing, pays off by not having to go back and fix mistakes.The full QWERTY layout you are used to is presented, but rather than squish into the small width available, it allows you to scroll left and right to access the keys you want. Once again, slow and steady is the way to go for small and fiddly screens.Another problem with using conventional keyboards on non-conventional devices is that the keyboard often takes up far too large a fraction of the screen. Qwerist will shrink if needed to never take up more than half your screen, leaving room to see what you're doing and interact with the application.This keyboard has been optimised for a particular smart watch device, but if there are problems on your watch or a particular use-case, let me know by the sending feedback to qwerist@mens.ly and I'll see how I can help.Don't have Google Play access? Such as on the Galaxy Gear? The apk for sideloading is available here: http://mens.ly/files/qwerist.apk",
+    "descriptionHTML": "Simple QWERTY input for your wrist.<br><br>--------------------------------------------------<br><br>NOT COMPATIBLE WITH ANDROID WEAR. This was a decision by Google in designing Android Wear to not have soft keyboard input as an option, this app is only compatible with devices running third-party modified versions of full Android. Even if this app was installed on an Android Wear device, the watch would not use it for any purpose.<br><br>--------------------------------------------------<br><br>Most full keyboards are designed for full-size devices, and can be extremely frustrating to use on screens of about 1 inch. Alternate styles of input often sacrifice precision or require keeping a closer eye on automatic corrections. On a tiny screen, where the keyboard often covers the text box you are typing into, this can be a problem.<br><br>Qwerist aims to provide the most precise input for small form-factor devices. What you type is what you get, and when it isn&apos;t sure what you are trying to type, it asks rather than guesses. When your finger is half the size of the screen, it is hard to click right on the key you want. If the tap is on the edge between two or more keys, Qwerist will prompt you to verify which you intended to click. This slows the speed of typing, pays off by not having to go back and fix mistakes.<br><br>The full QWERTY layout you are used to is presented, but rather than squish into the small width available, it allows you to scroll left and right to access the keys you want. Once again, slow and steady is the way to go for small and fiddly screens.<br><br>Another problem with using conventional keyboards on non-conventional devices is that the keyboard often takes up far too large a fraction of the screen. Qwerist will shrink if needed to never take up more than half your screen, leaving room to see what you&apos;re doing and interact with the application.<br><br>This keyboard has been optimised for a particular smart watch device, but if there are problems on your watch or a particular use-case, let me know by the sending feedback to qwerist@mens.ly and I&apos;ll see how I can help.<br><br><br><br>Don&apos;t have Google Play access? Such as on the Galaxy Gear? The apk for sideloading is available here: http://mens.ly/files/qwerist.apk",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/l7Cl_b4sVn6t3tNGn52v5ES3-8NwNFUMsksvfsXZrz2ZuZAlsosKDR0upSXV1ROGKbjX=h310",
+        "//lh4.ggpht.com/PK6T-4h0rK0u6OtkfpQGs4m1OcklnCucgiIuPaZUWJl8KUy-2eJjMsyAR8BC-3ksPg=h310",
+        "//lh6.ggpht.com/hEVZrhBUMVzzidoStsGASI4Oe1pGbbyEXcUYsQGL8dH_CDOHYSV3EeW96OQ0CiE2QQ=h310",
+        "//lh4.ggpht.com/ZZ2w3YCtFQ4wx462TP7aDZ2WALoKnuVp4-J5NJ8ndj9Xq5ssvoumJu6HLRMVm2kCBg=h310",
+        "//lh4.ggpht.com/OZqrVkCpzNfZ8H0FE9XQr62Ul3qW71Mpjz_xj3Dgk3Tkr8c8H8nclN11PphTyX595kw=h310"
+    ],
+    "comments": [
+        "Pointless Doesn't work for Moto360",
+        "Android wear Make it Android wear capable for moto 360"
+    ],
+    "recentChanges": [
+        "Fixed bug with capitalization on some fields",
+        "Added lower limit to effective tap size"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ly.mens.qwerist&hl=en&gl=us",
+    "appId": "ly.mens.qwerist"
+}

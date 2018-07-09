@@ -1,0 +1,56 @@
+{
+    "title": "Toodle Wear",
+    "summary": "Enables your Android Wear to check your TODO from Toodledo service",
+    "icon": "//lh6.ggpht.com/ewRDtkKEP5PR3XTcI3IQYqMz55kpbsS4SW6AY3dRCqiEL8UvxiRgxKePgWhPzwpFqBs=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10,
+    "maxInstalls": 50,
+    "score": 1.3,
+    "reviews": 3,
+    "developer": "Shishimaru",
+    "developerId": "Shishimaru",
+    "developerEmail": "hitoshi.uchida@gmail.com",
+    "developerAddress": "32 Vassar Street, Cambridge, Massachusetts, 02139, USA",
+    "updated": "January 28, 2015",
+    "version": "1.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This Wear application enables your Android wearable devices to retrieve your TODO from Toodledo service and notice you every morning. It makes sure you won't forget anything you need to do with Android Wear.",
+    "descriptionHTML": "This Wear application enables your Android wearable devices to retrieve your TODO from Toodledo service and notice you every morning. It makes sure you won&apos;t forget anything you need to do with Android Wear.",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/eVlvet5DxoEP1zBSpR8OZQ4ib2T_ECPcsloQASpxQBgyaaZQNnd38HncqkMv3N3IKAk=h310",
+        "//lh3.ggpht.com/Dal_I4hWV0N_gQ5pg6U7M9Wvaml-udCOjOQp9SYHVthkZqXLYD3Hs_jAhWArsLqI4Hc=h310",
+        "//lh6.ggpht.com/FhugzN2OBMTytWgOzcZERiYKCqF4IvTUPvzQQ2NADMk1wFeN3NbzJcmfhO6ECWKnw3g=h310",
+        "//lh6.ggpht.com/rFSxNDdLA1KqH9NjhPSEnb1Gm6_tRa7jg-1z9cW6DyeHxOjjExTsU0ZLwCeo-uaWra8=h310",
+        "//lh4.ggpht.com/TjvRwLV9FwZZK7w3vzNkUN2z4KEM2FSLBrX2WUIqcaRv5nwSlnqKetmemvgcpI0VmA=h310",
+        "//lh3.ggpht.com/s9sY0yB1TgIHTIhrWhB7mUEIHl4nlLgHpTX-pcwX5wMbmJyeOZlG2MapijA1yas24Ps=h310",
+        "//lh3.ggpht.com/JpgsFW88vzdem9159nXKDMz-PzGz_f5yLX-4iEVE9onQ82Bqqyh9FYSiC_RASqukwN0=h310",
+        "//lh3.ggpht.com/Ts7stBeoSxUEXK0Lp9BYWnIcEUJcoe7EYOg14tuJ_-qD0gb0eqwGiG4gNPH1C_C44w=h310",
+        "//lh6.ggpht.com/ts0qQDzw_1C_UMKMIujGsEJSbRETrQOtH4FN20P8NyGTGog8W22yqssob-q0l5CqR90=h310",
+        "//lh5.ggpht.com/lhAraJGqbZ2yN1Jmg4v3uqY38XRUcHZdGjbv2AhQc4Et1sdwj_7EXgNmrdBI7xK3Dw=h310",
+        "//lh6.ggpht.com/YGo7l5PPvyJq6LX6AFyIa4r303kybJRuHsQxF6BH91xPtwz4vgL-bcHVVVKq0Dq2uF9H=h310",
+        "//lh5.ggpht.com/cefUWZl1Pc1RBMTqrdE-m2MkQAqnnwQu8aJVJIfr9WgDjjubVVv5VWdA0tc_oya8YTFM=h310"
+    ],
+    "comments": [
+        "Doesn't work at all. Constantly crashes, didn't get any daily notification at all. No configuration. Totally broken."
+    ],
+    "recentChanges": [
+        "Added scheduled notifications."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.shishimaru&hl=en&gl=us",
+    "appId": "com.shishimaru"
+}

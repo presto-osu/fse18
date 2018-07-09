@@ -1,0 +1,48 @@
+{
+    "title": "Abfahrt for Android Wear",
+    "summary": "Shows you real-time public transport data of stations near you in Vienna.",
+    "icon": "//lh3.googleusercontent.com/LsoTVg_LUW4K91XgwxDowiEA4YSq-fZBIbcgSOFGUVj_94l5cO1HJSUx0JKzlS5x7Eg=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 10,
+    "developer": "Patrick Löwenstein",
+    "developerId": "Patrick+L%C3%B6wenstein",
+    "developerEmail": "kontakt@loewenste.in",
+    "developerWebsite": "http://loewenste.in",
+    "updated": "June 14, 2017",
+    "version": "2.1.0",
+    "genre": "Travel & Local",
+    "genreId": "TRAVEL_AND_LOCAL",
+    "description": "Abfahrt for Android Wear is your companion in Vienna, Austria. Checking the departure of the next bus at the station around the corner? No problem. You have to go to a station near you, but don’t know the exact location? Activate the map view.The station and line view support ambient mode, so you always know the latest departures with a simple glance at your wrist. With the line view, you also have an overview of your environment via the map – however, your location is only refreshed while the display is active, to save battery.This app is a watch-only app, for Android Wear 2.0. You can download it via the Play Store on your Watch.Permission details:* Location: To show stations around youData Source: Stadt Wien – https://data.wien.gv.at",
+    "descriptionHTML": "Abfahrt for Android Wear is your companion in Vienna, Austria. Checking the departure of the next bus at the station around the corner? No problem. You have to go to a station near you, but don&#x2019;t know the exact location? Activate the map view.<br><br>The station and line view support ambient mode, so you always know the latest departures with a simple glance at your wrist. With the line view, you also have an overview of your environment via the map &#x2013; however, your location is only refreshed while the display is active, to save battery.<br><br>This app is a watch-only app, for Android Wear 2.0. You can download it via the Play Store on your Watch.<br><br>Permission details:<br>* Location: To show stations around you<br><br>Data Source: Stadt Wien &#x2013; https://data.wien.gv.at",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "7.1 and up",
+    "androidVersion": "7.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/LGBaKCWrOnH51a3dwDrcrCpLjfjz775CuYjtDwjVyIt_8CucaZecWMYwrqA3HsO4RFw=h310",
+        "//lh3.googleusercontent.com/AX3_KT3xswnL74TMxUMwrh7kZ-__BXbMpsv095MrSJEQenUCUR5kZR2BHHToYPJEZQ0=h310",
+        "//lh3.googleusercontent.com/gCfssSP7R3AdqZjVkorwNQje_Jn6ZYUIJ15OgUyjiauppxYnmSB632jOQ3c9_fX6NDM=h310",
+        "//lh3.googleusercontent.com/pYroSZCAjxFHMj05UzDgCrFu6LtjIUhawct1bZRyLj2YK-I6JDPl2gOMnnn3DyuOLupD=h310"
+    ],
+    "comments": [
+        "Tolle app! Ein must-have für Wien."
+    ],
+    "recentChanges": [
+        "Stations can now be favorited for easy access at the station list."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.patloew.abfahrt&hl=en&gl=us",
+    "appId": "com.patloew.abfahrt"
+}

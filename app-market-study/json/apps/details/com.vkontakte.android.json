@@ -1,0 +1,61 @@
+{
+    "title": "VK",
+    "summary": "Official app for VK.com",
+    "icon": "//lh3.googleusercontent.com/8OiHVtg9BUN9Ms3LjD7RBhWGimOBSUoo7hdPymXcl-nIXeqA3C6La7qK59squ-emgQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000000,
+    "maxInstalls": 500000000,
+    "score": 3.8,
+    "reviews": 5397030,
+    "developer": "VK.com",
+    "developerId": "VK.com",
+    "developerEmail": "support@vk.com",
+    "developerWebsite": "https://vk.com/android_app",
+    "developerAddress": "191024, Россия, г. Санкт-Петербург, ул. Херсонская, д. 12-14, лит. А, пом. 1-Н",
+    "updated": "March 4, 2018",
+    "version": "Varies with device",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "size": "Varies with device",
+    "description": "VK unites millions of people through the messaging and sharing of news from anywhere around the globe.You can send messages, share stories and photos, watch videos and live streams, listen to music, play games, join communities and discover a whole new world of talented artists.",
+    "descriptionHTML": "VK unites millions of people through the messaging and sharing of news from anywhere around the globe.<br><br>You can send messages, share stories and photos, watch videos and live streams, listen to music, play games, join communities and discover a whole new world of talented artists.",
+    "histogram": {
+        "1": 1091504,
+        "2": 250458,
+        "3": 320914,
+        "4": 545328,
+        "5": 3188826
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Mature 17+",
+    "screenshots": [
+        "//lh3.googleusercontent.com/K3W2howb-e1T9Vy2IIErNKesCIlKA6wz2kUPwYWw2m7n3CNqikXu9oQWIqbrYL7exA=h310",
+        "//lh3.googleusercontent.com/ffldetZkrXmZfSfgxb_FVDyAnuIBgecB6zAWoyzUq3MvQuondV0Ifz8q4lOn17nFGsQ=h310",
+        "//lh3.googleusercontent.com/cU8giTyMpXxU0jISbywvnsTdIfG0lEgm4nFwjhIpHhyPMCxqjIoOytD0aKDHeC4ewf8=h310",
+        "//lh3.googleusercontent.com/fm44s7MzpyFjjZmSc9gEXH_4UrCzKKj2yANIlCwa8MayuLHXOqMtpgkadxn4BCj3F7zN=h310",
+        "//lh3.googleusercontent.com/hAh6LSwkZn4X3es9lWZBcxCTiUkFPAwrCJ8mCsUlr5atSBWEL5Y2S4ujgjlTGNATkpg=h310",
+        "//lh3.googleusercontent.com/MSOBA6dorxVm1nWMK8VwYeCGasE2i1EFb-jupaIRN_M5okyS6UBX3wVA1Tvy_pwxOg=h310",
+        "//lh3.googleusercontent.com/B7DGQoorMVdaJfL077rX7aeSXGrK3MTWyYHjzf4BY2KIketoS27WdcHSOMJ5mIqr7Tc=h310"
+    ],
+    "comments": [
+        "I would love post translation in english. As im from malaysia. I dont understand much. Thank you :)",
+        "Невозможно просмотреть закреплённые сообщения. Нет возможности редактировать сообщения или удалять их для всех. Новый поиск по сообщениям стал гораздо менее удобным из-за отсутствия аватарок.",
+        "Apparently my phone number was already in use, and when I try to restore it my number doesn't exist in the system. Thanks, love the system.",
+        "Когда в вашем приложении появится возможность редактировать и удалять личные сообщений, по аналогии с веб версией???",
+        "Better then american piece of shait Facebook where trolls moderators do censorship of the century!",
+        "This app is spam. Dont download friends."
+    ],
+    "recentChanges": [
+        "We've updated the chat and message search function:",
+        "• Added the \"Chats\" and \"Messages\" tabs so you can quickly find the conversations and messages you need.",
+        "• Made it possible to search for messages offline.",
+        "• Increased speed and stability."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.vkontakte.android&hl=en&gl=us",
+    "appId": "com.vkontakte.android"
+}

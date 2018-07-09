@@ -1,0 +1,49 @@
+{
+    "title": "Wear File Transfer",
+    "summary": "Wear File Transfer",
+    "icon": "//lh3.googleusercontent.com/b46tUdh_CWm5atmNVEClPf1Qaz3venc7u7wnn4QTCU66VQVkE_7oKdnKhSh-b0a4S6k=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.8,
+    "reviews": 54,
+    "developer": "The Olive Tree",
+    "developerId": "The+Olive+Tree",
+    "developerEmail": "theolivetreesoftware@gmail.com",
+    "developerAddress": "Vine Cottage\nHorton Road\nHORTON, BERKSHIRE SL39NU\nReino Unido",
+    "updated": "August 11, 2015",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Copy files from/to the memory of your Android wear watch with this app.The application will be installed in your watch as soon as it is connected to your phone via bluetooth.Once installed you need to connect your watch to a WIFI network to use this application. At the moment this is the only supported connection.Use any FTP client (also Windows File Explorer) to copy/read files to/from your watch, just enter the address on the screen when the server is running.Your watch will not connect to a WIFI network while connected to your phone via bluetooth.TODO:Support also Bluetooth connection.",
+    "descriptionHTML": "Copy files from/to the memory of your Android wear watch with this app.<br><br>The application will be installed in your watch as soon as it is connected to your phone via bluetooth.<br><br>Once installed you need to connect your watch to a WIFI network to use this application. At the moment this is the only supported connection.<br><br>Use any FTP client (also Windows File Explorer) to copy/read files to/from your watch, just enter the address on the screen when the server is running.<br><br>Your watch will not connect to a WIFI network while connected to your phone via bluetooth.<br><br>TODO:<br>Support also Bluetooth connection.",
+    "histogram": {
+        "1": 13,
+        "2": 2,
+        "3": 3,
+        "4": 2,
+        "5": 34
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/UTO10zFp4V7RIlf7EbJbWeMC_dqdbKFV6VSDihxcZpUV4J_cmd-Ja-yPyGJjdysTv3Q=h310",
+        "//lh3.googleusercontent.com/q3RBFMKsxYvH4fVAMOKFeOoVvLTlvS_rLNnwiy9sfq3PTaafxlKVZipR-y8JjRZkIQ=h310"
+    ],
+    "comments": [
+        "Edit: worked great on the Urbane 2. Doesn't work on Sony SW3. I turn wifi on, but when I start the app, it doesn't detect wifi. Below is for the Urbane 2 review.  Best option to transfer music from phone to watch. Sadly. You would think you could at least do simple mtp transfers from your computer to your watch. It is 2017 after all. But no. This is quick and painless. I use ES file explore and just copy and paste. Worked like a charm.",
+        "GREAT way to transfer music file to my moto360 specially for non USB connection android wear devices. good bye for google music play app.",
+        "Exactly what I was looking for. Super simple and works fast and reliably. All other apps I have found are very slow transferring files and fail most of the time.",
+        "Very cool app! Not the most elegant and fastest way to transfer files but works and seems reliable enough! This is the best Wear transfer app I found so far!",
+        "Brilliant! Way faster than syncing large mp3 podcasts over Play Music, Sony Music or Wear Media (which I am using for playback). The ftp username/password is anonymous/guest.  To get wifi running on my Smartwatch 3, I disabled bluetooth on my phone and connected to a wifi in the watch settings menu.  Thanks a lot for creating this program! :)",
+        "Doesn't work on Android Wear 2 devices. Please update the method and I will be happy to rate with 5* and even pay for the App. Thanks!!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.theolivetree.wearftpserver&hl=en&gl=us",
+    "appId": "com.theolivetree.wearftpserver"
+}

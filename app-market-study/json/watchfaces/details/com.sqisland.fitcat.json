@@ -1,0 +1,59 @@
+{
+    "title": "Fit Cat - Watch Face",
+    "summary": "An adorable time-telling pedometer cat on your wrist and phone",
+    "icon": "//lh3.googleusercontent.com/7LULqCABtu3Asy3CCT0theqKIDAzYJlKS7SEu2aMDH34BOtoeS4G7WAYueSs7aVMBimr=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 135,
+    "developer": "Square Island",
+    "developerId": "5441086938038769987",
+    "developerEmail": "fitcat@sqisland.com",
+    "developerWebsite": "http://www.sqisland.com",
+    "developerAddress": "603 S Public Rd #728\nLafayette, CO 80026",
+    "updated": "April 20, 2017",
+    "version": "Varies with device",
+    "genre": "Sports",
+    "genreId": "GAME_SPORTS",
+    "size": "Varies with device",
+    "description": "Fit Cat tracks the number of steps you have taken today. The adorable cat does many different things: sleeping, playing with a ball of yarn, scuba diving and more. The more steps you take, the fitter the cat becomes!You can use Fit Cat as:* An Android Wear watch face (with complications on 2.0)* A live wallpaper* An appFit Cat integrates with Google Games for Leaderboard and Achievements. Who takes the most steps? Which cats have you spotted? Open the app on your phone and click on the game controller icon to find out!Make sure you enable activity detection on the Google Fit app on your phone so Fit Cat knows how many steps you took. If you are using Moto 360 and your watch is showing 0 steps, make sure you have Moto Body installed and it is reporting steps correctly. Refer to the troubleshooting guide for more info: http://bit.ly/FitCatHelpLove Fit Cat? Take a photo with it on your wrist and share with the hashtag #fitcat.",
+    "descriptionHTML": "Fit Cat tracks the number of steps you have taken today. The adorable cat does many different things: sleeping, playing with a ball of yarn, scuba diving and more. The more steps you take, the fitter the cat becomes!<br><br>You can use Fit Cat as:<br>* An Android Wear watch face (with complications on 2.0)<br>* A live wallpaper<br>* An app<br><br>Fit Cat integrates with Google Games for Leaderboard and Achievements. Who takes the most steps? Which cats have you spotted? Open the app on your phone and click on the game controller icon to find out!<br><br>Make sure you enable activity detection on the Google Fit app on your phone so Fit Cat knows how many steps you took. If you are using Moto 360 and your watch is showing 0 steps, make sure you have Moto Body installed and it is reporting steps correctly. Refer to the troubleshooting guide for more info: http://bit.ly/FitCatHelp<br><br>Love Fit Cat? Take a photo with it on your wrist and share with the hashtag #fitcat.",
+    "histogram": {
+        "1": 6,
+        "2": 4,
+        "3": 10,
+        "4": 20,
+        "5": 95
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/xmcRDDUnhRtipgqLVxHBGpuJjx3PFi5vh2vtRx0yzDo2TPKmn1pTH_WVs2s0P62Ygw=h310",
+        "//lh3.googleusercontent.com/UqvdZT8LrszBMcQEvd0fKtMslwLj5FMrUG9q3J265lWdZHgbk94FbrCi3lOSKtZ2gWc=h310",
+        "//lh3.googleusercontent.com/Ple7ouyUiAoW9ui2X4BkUd0geX7VWD1oopfFJpI8FjeTpGM4KPS-Ihbok5ajUUqtqkk=h310",
+        "//lh3.googleusercontent.com/2o71YWr0zbcepOVVonvmUfXt6sVPbCY1cM30O3nVQwNqJWOwUu983sS1A7o1o8bdug=h310",
+        "//lh3.googleusercontent.com/SYQhCkIWl4Mp96aWvzMt_WYLKjLZMYE7nk7ORwAizAi8vsS36pPn7bFtLgRXrTEZZyxP=h310",
+        "//lh3.googleusercontent.com/QSm_DL-0pTlIk5z_uH2LKqjYCoKsTbUfwM8HH2QAb5Jo3iA6P00RAjmxX9AuPvMSa7M=h310",
+        "//lh3.googleusercontent.com/7GqpR5PL4KN-39_0OP5W2WRCzD5Uo9erR-MZ4dMxl1S6AJE7PrziyYxo9IYIhw8jVQ=h310",
+        "//lh3.googleusercontent.com/O-E24uCrPS4USB7-arOVckmKcQuL5O9tGUUhElXHwHV1C1X_-EGN4UT0N8Dm4CQ4mNA=h310"
+    ],
+    "comments": [
+        "I really love the app; the kitty is so cute! However there is one draw back, the date doesn't update on the watch face unless I switch over to a new watch face and back to this one. It's a bit obnoxious given that I look to my watch to quickly tell me the date",
+        "I really like this watch face and what I love is that the more steps you take, the more active the cat becomes. Unfortunately, I keep having issues with it not updating the correct day of the month.",
+        "This is my favorite weekend watch face. A little fitness, an adorable fat kitty working hard to lose weight, and support for custom complications... What's not to love?",
+        "The premise is great & although it's fun to have cats on my phone & watch the activity tracking is wildly inaccurate. Records steps with my phone/watch on a table at night charging & reported zero steps after 9 hours on my feet at work. Activity detection is enabled but been stuck on zero steps for a few days now, the changing faces/activity rewards seem completely random too & don't relate to anything. Probably going to uninstall. Shame. Pixel XL/Android 8.0/Sony SW3",
+        "unfortunately the 2.0 update broke the complications...please fix this!!  i used to love this app",
+        "On the new update, the date values does not get refreshed. Wrote to the developers but did not get any response"
+    ],
+    "recentChanges": [
+        "Google I/O Cat is back for 2017! Keep your eyes peeled during the event."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.sqisland.fitcat&hl=en&gl=us",
+    "appId": "com.sqisland.fitcat"
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Door Code Notifier",
+    "summary": "Be notified when you&#39;re near a friend&#39;s place and see their door code!",
+    "icon": "//lh6.ggpht.com/nV_c7zkSjeYHBwPRV8HEqoQmX_dNtARVUU-4rypsLVcC90Jid9TgInEHBbtjXrqMg8Bv=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 14,
+    "developer": "BoD",
+    "developerId": "BoD",
+    "developerEmail": "BoD@JRAF.org",
+    "developerWebsite": "http://jraf.org/android",
+    "updated": "February 15, 2015",
+    "version": "1.0.0",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Door Code Notifier notifies you when you're near a friend's place and shows you their door code.No longer will you have to look for the code, or call your friend: the information will automatically come to you when and where you need it!The notification also presents handy 'Text' and 'Call' quick actions.The interface to enter the data is very simple and clean.This app is compatible and works well with Android Wear™.This app is open source:https://github.com/BoD/DoorCodeNotifier",
+    "descriptionHTML": "Door Code Notifier notifies you when you&apos;re near a friend&apos;s place and shows you their door code.<br><br>No longer will you have to look for the code, or call your friend: the information will automatically come to you <b>when</b> and <b>where</b> you need it!<br><br>The notification also presents handy &apos;Text&apos; and &apos;Call&apos; quick actions.<br><br>The interface to enter the data is very simple and clean.<br><br>This app is compatible and works well with Android Wear&#x2122;.<br><br>This app is open source:<br>https://github.com/BoD/DoorCodeNotifier",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 14
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh4.ggpht.com/QvMXEnMG6KqfzHlLFjLZOWeX2EVhi887y_92ZBgWlnCH13UthXuPdDsAKAXA0sLcrA=h310",
+        "//lh4.ggpht.com/2AIVPW5Rs_SWTVHA6NgiX_AbvQLNEqFWrMq9SuV1pQ90Fqll076tDyR_AILi-iZvNw=h310",
+        "//lh6.ggpht.com/rwz3kmLK222qNTtIcTjTq8K1jA3hd6WSFYKZLym-Bur-wpWBbB0cncVsEpw6Dn7xhA=h310",
+        "//lh5.ggpht.com/3PiNuCCiwapWgkC4BpcomkqEgHUB2kjHl7b4p8i3cRXjXNdFGt3sjFKfPDMQ0TvRcjM=h310",
+        "//lh5.ggpht.com/kruR82WjRmBcr2aZ4TRqriJg70bmkpwhmig_5k_wRP2YklpHgNpJ7drSlnBs1S1-hZ0=h310"
+    ],
+    "comments": [
+        "Useful There are a couple of places I visit only occasionally, and I can never remember the door code.  This app will show a notification with the door code when I arrive.  I only wish I had a smart watch to take advantage of the feature of this app which shows the door code on the watch.",
+        "Useful Smart idea for those not smart enough to remember codes, or simply because you have too many to recall.",
+        "Lovely Nice little app with a lovely UI. At the end, I don't have much need for it but for some people, like the developer who's disabled, it may be really useful.",
+        "Nice Handy app!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.jraf.android.dcn&hl=en&gl=us",
+    "appId": "org.jraf.android.dcn"
+}

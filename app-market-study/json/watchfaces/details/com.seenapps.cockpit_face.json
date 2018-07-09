@@ -1,0 +1,54 @@
+{
+    "title": "Cockpit Watch Face",
+    "summary": "Altimeter, Airspeed, Heading and Attitude Indicators. What else?",
+    "icon": "//lh3.ggpht.com/GVd0hfvryxHLALKF8Ama3OfvlM_5B8O2RUYmeM8YFvQEmsY1tUdfof4wsQ4UiAdIMt2e=w300",
+    "price": "$1.49",
+    "free": false,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.1,
+    "reviews": 34,
+    "developer": "SeenApps",
+    "developerId": "SeenApps",
+    "developerEmail": "support@seenapps.com",
+    "developerAddress": "8 Rue Balzac\n75008 Paris",
+    "updated": "December 20, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Here is my attempt at the \"Cockpit\" watch face. This is the fourth watch in ny \"Pilot's Toolkit\" series.This face displays hours, minutes, day of the week, day of the month, seconds, battery level and ... wrist angle!Altimeter is used for Hours, Minutes, Day of the Week and Day of the Month. I tried to keep it simplistic to improve legibility. In ambient mode, this is the only lit instrument.Airspeed indicator is showing battery level. I had to reverse the colors order from red to green to be consistent with battery life, otherwise it is fairly close to the original instrument look and feel.Heading Indicator is used for seconds. Your plane will be making a continuous starboard turn at 6 degrees per second.Attitude Indicator is fully functional. Go fly you watch! (v2.0+)You can use in watch settings to select which rotation axis to use. By default, pitch and roll are enabled but you can change this settings at will (v2.1+).The dark carbon fiber texture doesn't quite belong in a Cockpit but looks much more stylish on the wrist than grey brushed metal! It is also less demanding on battery life.Altimeter and Heading indicators are available as their own watch faces. They should show in the links below.Do not hesitate to drop feature requests at support@seenapps.comIf you like our watches, don't miss the good stuff https://twitter.com/SeenApps",
+    "descriptionHTML": "Here is my attempt at the &quot;Cockpit&quot; watch face. This is the fourth watch in ny &quot;Pilot&apos;s Toolkit&quot; series.<br><br>This face displays hours, minutes, day of the week, day of the month, seconds, battery level and ... wrist angle!<br><br>Altimeter is used for Hours, Minutes, Day of the Week and Day of the Month. I tried to keep it simplistic to improve legibility. In ambient mode, this is the only lit instrument.<br><br>Airspeed indicator is showing battery level. I had to reverse the colors order from red to green to be consistent with battery life, otherwise it is fairly close to the original instrument look and feel.<br><br>Heading Indicator is used for seconds. Your plane will be making a continuous starboard turn at 6 degrees per second.<br><br>Attitude Indicator is fully functional. Go fly you watch! (v2.0+)<br>You can use in watch settings to select which rotation axis to use. By default, pitch and roll are enabled but you can change this settings at will (v2.1+).<br><br>The dark carbon fiber texture doesn&apos;t quite belong in a Cockpit but looks much more stylish on the wrist than grey brushed metal! It is also less demanding on battery life.<br><br>Altimeter and Heading indicators are available as their own watch faces. They should show in the links below.<br><br>Do not hesitate to drop feature requests at support@seenapps.com<br>If you like our watches, don&apos;t miss the good stuff https://twitter.com/SeenApps",
+    "histogram": {
+        "1": 6,
+        "2": 1,
+        "3": 0,
+        "4": 5,
+        "5": 22
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/CDk3mLfCS1Fiq-PKAdVPlciEamVjEn9ZfRTTgjBGXcoQAjqYJYxmvscT9sD7ARR_5fW5=h310",
+        "//lh3.googleusercontent.com/6C6GbekVesEoa7dnE1qb5fAgnzYiS0xaERn3PqNZnyaReDUyeCMeGuR0Ls0vR4MdiGQ=h310",
+        "//lh5.ggpht.com/rQ9CsoZNVBkJpe3uIV3G8PUUu0hWjsfxD0ZheIWKA9IXZ8EdiG9cRlrBsbLLdUQ53V0=h310",
+        "//lh4.ggpht.com/T4yGqZGWunmTZjWgr7OwInb-L5njeKMHs8PWOxgOVg_aEm76jutzrNGJ0rhUZMYtXeA=h310"
+    ],
+    "comments": [
+        "Need a refund. Tried to open up app after downloading to my phone. It won't even open up. Does nothing. Developer please respond to give solution or refund.",
+        "Dear developer, I have a fossil Q Marshall. The pitch and roll on the Artificial Horizon does not work. I request you to modify the app. I tried selecting either pitch or roll but it did not change. Otherwise a nice app. Really happy with this . Thanks",
+        "Hai dear can you please make this same watch face for Samsung gear s3, because I like this cockpit watch face too much. I buy this S3 Gear because of this cockpit watch face. But cannot install. Please Thanks and best regards  Emmanuel Titus",
+        "Pretty, but laggy Graphics are a little jittery, but really fun still.",
+        "can't find it on either my phone or the watch",
+        "I love this beautiful watch face"
+    ],
+    "recentChanges": [
+        "The face can now be installed directly on the watch bypassing the phone. This is a packaging change for Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.seenapps.cockpit_face&hl=en&gl=us",
+    "appId": "com.seenapps.cockpit_face"
+}

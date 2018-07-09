@@ -1,0 +1,51 @@
+{
+    "title": "Time Arch Watch Face",
+    "summary": "Analog and digital watch face with modern design.",
+    "icon": "//lh3.googleusercontent.com/4xwl2bEJ3FfHbLOCqwSbKN8wYEOXn7fH-kLxc-G3-q2QKrO9QrlJzW_rUVIIE00JST4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.2,
+    "reviews": 9,
+    "developer": "VP Art & Software",
+    "developerId": "7898352221576217977",
+    "developerEmail": "vpas.ro@gmail.com",
+    "developerWebsite": "https://www.facebook.com/vpas.ro",
+    "developerAddress": "Strada Cocorului Nr. 3\nBrasov\nRomania",
+    "updated": "March 27, 2016",
+    "version": "1.0.0",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Our third watch face and first free one, Time Arch is a simple, but modern watch face. It is both analog and digital, and has configurable colors. The live preview feature for the mobile application makes it even easier to customize it to your needs.Features:- battery percentage indicator- change accent color (hour circle and AM/PM mark, if it's the case)- select from 20 different colors- mobile app with live preview- low power consumption on ambient (black and white only; burn-in protection)- automatic 12/24-hour detection (based on the preference saved on your phone)Compatible devices:- all smartwatches which run Android Wear (square or round)!! This watch face does NOT work on Samsung Galaxy Gear 2 or any other smartwatch that does not run Android Wear !!For questions or issues please contact us on our email address listed below.",
+    "descriptionHTML": "Our third watch face and first free one, <b>Time Arch</b> is a simple, but modern watch face. It is both analog and digital, and has configurable colors. The live preview feature for the mobile application makes it even easier to customize it to your needs.<br><br><b>Features:</b><br>- battery percentage indicator<br>- change accent color (hour circle and AM/PM mark, if it&apos;s the case)<br>- select from 20 different colors<br>- mobile app with live preview<br>- low power consumption on ambient (black and white only; burn-in protection)<br>- automatic 12/24-hour detection (based on the preference saved on your phone)<br><br><b>Compatible devices:</b><br>- all smartwatches which run Android Wear (square or round)<br><br>!! This watch face does <b>NOT</b> work on Samsung Galaxy Gear 2 or any other smartwatch that does not run Android Wear !!<br><br><i>For questions or issues please contact us on our email address listed below.</i>",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/kKriBSeh4v9XBlRlG9yM_Y8_GWZkLWGoR5Q7aOsvde2jGXjULUOEsPbwM28Snuq9WIwl=h310",
+        "//lh3.googleusercontent.com/l9u9b5Fl3ubNlsC1iCd8zUGICAuavZ2YUf94SAls3FeJxqgIkF7eawchrjUrZ-hqw-n1=h310",
+        "//lh3.googleusercontent.com/i7P5cBnPBwLmVDdG3slLjOjxvJ0jXz_J-f2Hl4Vz9C_33QAquLKruwYZzAH2l3AJwfo=h310",
+        "//lh3.googleusercontent.com/3m3vqvPtuREXf4P5ITm8Q6ew70XYAQ18Boh9WWnXWNw-BR5TIFR2d1VI9pwvQQmotH0=h310",
+        "//lh3.googleusercontent.com/ls6iDF1NW3qFFyJ6ZjgcSp085c05UH_z3gzPz4bGhDp8fVfEVQdWGvZhPtnsz5qBWpHh=h310",
+        "//lh3.googleusercontent.com/ESGHzph8Q7J5942LyPIkwB2TFy3nZUOsc18vcJHpbDK0VXf0WEZ2SMZS2dmJxGau5XE=h310",
+        "//lh3.googleusercontent.com/G0yG4YImK8q4e-t8UZHi53gZQLeq7zayIndTL_8TkbZ-K2g9WJgcFw0JC1FSxUe4YQ=h310",
+        "//lh3.googleusercontent.com/byevKG1oFRwQXxNiHjWikC2edz7gdIvegyh5zEgMBT8T4I1Qb3JYXF3_HiwKDH8fvA=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- changed app and preview icons"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ro.vpas.timearchwatchface&hl=en&gl=us",
+    "appId": "ro.vpas.timearchwatchface"
+}

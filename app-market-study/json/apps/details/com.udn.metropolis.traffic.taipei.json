@@ -1,0 +1,57 @@
+{
+    "title": "Taipei Commuter",
+    "summary": "The must-have App for commuters in Taipei.",
+    "icon": "//lh3.ggpht.com/7R3uu9IXc5TGGSNDFRrsKzFbBLDOgiLoF51414ZSKbABzVEo1SRhXHi6EGWD4cXA8g=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 4,
+    "reviews": 1002,
+    "developer": "udn.com",
+    "developerId": "udn.com",
+    "developerEmail": "app@udn.com",
+    "developerWebsite": "http://mobile.udn.com/",
+    "developerAddress": "No. 369, Sec.1, Datong Rd., Xizhi Dist, New Taipei City 22161, Taiwan (ROC)",
+    "updated": "December 17, 2017",
+    "version": "1.7.1",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "The must-have App for commuters in Taipei.Have you ever stopped to thinking how much of your life is wasted waiting because you missed a particular bus?Well, now you no longer have to suffer the stress caused by long waits or trouble finding a YouBike or a parking space.The Taipei Commuter is a practical enquiry tool which provides a range of public transport information, including YouBike, bus and Taiwan High Speed Rail. More than that, it also includes all the attractions near MRT Stations.◆ Features:1.\tEasy to use.2.\tInstant location detection-displays nearest MRT stations, bus stops, YouBike rental spots and parking space.3.\tCollates multiple public transport information.4.\tClean and simple UI design.5.\tUseful information for travel and living in Taipei.6.\tCloud account for members.7. \tCompatible with Android Wear.◆ Coming soon!1.\tTaiwan Railways2.\tIntercity Bus3.\tLittle trip planner",
+    "descriptionHTML": "The must-have App for commuters in Taipei.<br><br>Have you ever stopped to thinking how much of your life is wasted waiting because you missed a particular bus?<br><br>Well, now you no longer have to suffer the stress caused by long waits or trouble finding a YouBike or a parking space.<br><br>The Taipei Commuter is a practical enquiry tool which provides a range of public transport information, including YouBike, bus and Taiwan High Speed Rail. More than that, it also includes all the attractions near MRT Stations.<br><br>&#x25C6; Features:<br>1.\tEasy to use.<br>2.\tInstant location detection-displays nearest MRT stations, bus stops, YouBike rental spots and parking space.<br>3.\tCollates multiple public transport information.<br>4.\tClean and simple UI design.<br>5.\tUseful information for travel and living in Taipei.<br>6.\tCloud account for members.<br>7. \tCompatible with Android Wear.<br><br>&#x25C6; Coming soon!<br>1.\tTaiwan Railways<br>2.\tIntercity Bus<br>3.\tLittle trip planner",
+    "histogram": {
+        "1": 88,
+        "2": 48,
+        "3": 112,
+        "4": 236,
+        "5": 518
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/qB6I6Nd0Zvsnoaz3fQJZVXt_UakkeylQ8d0NNgi8Wma0ELfVDxQUEc0xrP8Un7l3xJc=h310",
+        "//lh3.googleusercontent.com/DS7Osv6BJLUYe--eYii2Astga5WYAUJKiag144Js3mEB7MaYlbn0DNXnRhQ9_m8MJA=h310",
+        "//lh3.googleusercontent.com/B_hCuCQZLRSFumKwNa1nm95hIO5kotxHzl1exdEBLKzxUeNxaM13AlOj0avExRDNYA=h310",
+        "//lh3.googleusercontent.com/bu2a_9uaRDlSpKPVtBoqcKaBXAjkN6uC-E0cb_54R16RRU3Ls4j65tctB63J6u5cT8k=h310",
+        "//lh3.googleusercontent.com/ma1LqoIZq8RSa8Vt3lKTvWPjH1E47m9Rma77Xn6FhuefbFW_9SD__4j6pLbNOWskrg=h310",
+        "//lh3.googleusercontent.com/QzYP_zZdooclytxZ3-sTkJuRJ-0_joeczzE4Fm83D8O1G2kiA6XXFDC__AYM5pIz0XA=h310",
+        "//lh3.googleusercontent.com/uh8NFQm9CRK1QHdPEBKH4s2a_6gHEk93P5Fb6W0fT44ixuOebN4j1BF5JH1-yEYHij_J=h310"
+    ],
+    "comments": [
+        "一打開就閃退 屢試不爽",
+        "公車站資訊不正確 台北市公車資訊查詢已經是很普遍的app了，但聯合報出的app居然還會有資料出錯，表示根本就是在亂做。就跟他們家的網站品質一樣差。",
+        "Wrong location of bus stop…",
+        "It s ok",
+        "\"各功能內\"地圖沒有南北指針 期待更多功能",
+        "Map Like it"
+    ],
+    "recentChanges": [
+        "- Bugs fixed."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.udn.metropolis.traffic.taipei&hl=en&gl=us",
+    "appId": "com.udn.metropolis.traffic.taipei"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "PhoneJuice Checker",
+    "summary": "Keep an eye on the battery of your phone without taking it out of your pocket!",
+    "icon": "//lh3.googleusercontent.com/38i3uHe7XW-clZ_ONz9rh7PdxH27qNSkpPlk6a7GanWk33GUSlZBh_VzkF0wVpod82M8=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.7,
+    "reviews": 3,
+    "developer": "Jérôme Deuchnord",
+    "developerId": "8905594918678316405",
+    "developerEmail": "contact@deuchnord.tk",
+    "developerWebsite": "http://www.deuchnord.fr",
+    "updated": "July 18, 2016",
+    "version": "1.2.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Help me to translate PhoneJuice Checker in your language! https://www.getlocalization.com/PhoneJuiceChecker/PhoneJuice Checker is a tool that will allow you to check quickly the state of the battery of your phone from your watch.You don't need to take it out of your pocket any more!Main functionalities:- Android Wear interface to allow you to access the state of your battery- Get notified when your phone is discharged and when its battery is fullWarning: after installation, you need to start the service manually for the first time, because of a limitation in the Android system. In order to activate the service, launch the app on the phone and tap the button. This is only necessary the first time.Permissions details:- Control vibration: for the notification when the battery of your phone is low or full- Run at startup: starts the service on the phone- Read battery statistics: do I really have to explain this? ^^Background of the banner: http://protiumdesign.com/material-design-landscape/",
+    "descriptionHTML": "Help me to translate PhoneJuice Checker in your language! https://www.getlocalization.com/PhoneJuiceChecker/<br><br>PhoneJuice Checker is a tool that will allow you to check quickly the state of the battery of your phone from your watch.<br>You don&apos;t need to take it out of your pocket any more!<br><br>Main functionalities:<br>- Android Wear interface to allow you to access the state of your battery<br>- Get notified when your phone is discharged and when its battery is full<br><br>Warning: after installation, you need to start the service manually for the first time, because of a limitation in the Android system. In order to activate the service, launch the app on the phone and tap the button. This is only necessary the first time.<br><br>Permissions details:<br>- Control vibration: for the notification when the battery of your phone is low or full<br>- Run at startup: starts the service on the phone<br>- Read battery statistics: do I really have to explain this? ^^<br><br>Background of the banner: http://protiumdesign.com/material-design-landscape/",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/WNwC6-_HVXaywpGgzCWw6yCzfrJ-rDu1R31TrAFkr9_gW6sYbjG2IHAYfCfEujD9k1E=h310",
+        "//lh3.googleusercontent.com/nplEc4i-PUiaMfcnAeAngY6ceknttF3XrbNMLdWu1vAsOfqXyqPaVZ2vd6ZDO7HKuGM=h310",
+        "//lh3.googleusercontent.com/C7lIKbHkDaRMVGs8IUKP1buT3MWBjYfniMlqZMNB9GGDKPVnkD8aK74ZsuSghoSivt8=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "v1.2:",
+        "- New display for the application on the watch",
+        "- Notifications have been reworked for a better experience",
+        "v1.2.1:",
+        "- Fixed the text color bug between 47% and 50%"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=tk.deuchnord.phonejuicechecker&hl=en&gl=us",
+    "appId": "tk.deuchnord.phonejuicechecker"
+}

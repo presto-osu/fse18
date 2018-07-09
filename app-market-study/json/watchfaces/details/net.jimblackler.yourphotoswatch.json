@@ -1,0 +1,53 @@
+{
+    "title": "Your Photos Watch",
+    "summary": "Put your favorite photos on your watch with this Android Wear watch face.",
+    "icon": "//lh3.ggpht.com/uV8l7-TgSVOujvrPXZkjC6NWh1zQhWOMGGNlrOBPIz-8zNk7c4HEq1zoK5VTMllvAw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 50000,
+    "maxInstalls": 100000,
+    "score": 3.8,
+    "reviews": 397,
+    "developer": "Jim Blackler",
+    "developerId": "Jim+Blackler",
+    "developerEmail": "jimblackler@gmail.com",
+    "developerWebsite": "http://jimblackler.net",
+    "updated": "January 5, 2015",
+    "version": "1.1.5",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Your Photos Watch puts your personal photos on your watch.A choice of specially-designed digital or analog watch face shows the time clearly without detracting from the background picture.Choose from any photos currently on your phone, or from your previous Google cloud backups, Google+ shares or Picasa albums. Set up can be done in seconds and the pictures viewed straight away.",
+    "descriptionHTML": "Your Photos Watch puts your personal photos on your watch.<br><br>A choice of specially-designed digital or analog watch face shows the time clearly without detracting from the background picture.<br><br>Choose from any photos currently on your phone, or from your previous Google cloud backups, Google+ shares or Picasa albums. Set up can be done in seconds and the pictures viewed straight away.",
+    "histogram": {
+        "1": 73,
+        "2": 14,
+        "3": 32,
+        "4": 63,
+        "5": 215
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.2 and up",
+    "androidVersion": "4.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/d_ZwWUwDOhCYV1bAyWHXLiikjaduxYg85Zb8A12r9b_YxXMhoFuaR6jRocdKt4vKeTO9=h310",
+        "//lh3.ggpht.com/kEZ25jl7uFjaKTX3Tctgr_JdOYA93I9bs_p0rUfjtEQ-PnTjJq4DE2h8Vlu75ZJv4H0=h310",
+        "//lh6.ggpht.com/PKhmhITVaVrTTDKrEUY8VN8-G-pBn763KPxywQ21FZUTsP4SHJ8hKDe3e6O188_xRQ=h310",
+        "//lh4.ggpht.com/SX8Fe_b-YwO92_ZANlrAeWQhrshQecsmnVNsCEa15VazPAKx2YFAaPE0pozjVmbWVR8=h310",
+        "//lh5.ggpht.com/BiQEsf9OlZfz-sbAIunwh6V8wOVsSQgGZGkZI9SIcUcqx_6qWFg2CXEC-bfgUg40aQ=h310",
+        "//lh3.ggpht.com/UprfrHTQFw3Diju1QjPNzaM2CsAo-Q525sKIJrXwCmsaTkQ_d9B4jlgkZf370_OZcA=h310"
+    ],
+    "comments": [
+        "Excellent app!  I tried countless other options and finally found this one which worked great.  I specifically have chosen photos that make me smile - that way I am smiling all day long :-)  Note that you manage the app through the Android Wear app, not it's on phone app.  I'm going to give this 5 stars because I'm thrilled, but I would suggest two options:  a) Add the day/date as an option on the clock.  b) Add folders in the photo selection box - all photos together is difficult to manage.  To make this easy, I use Google Photos only for my watch faces and select them all after cropping square.  Makes them easy to manage.  Again, VERY satisfied with this app.",
+        "Simple and wows Now I can toggle my photos to show to people, works pretty good for photos from phone or web.  Just wish I could tell before I select a photo how it will appear on my LG Urbane as a couple of photos get the heads cut off on the watch.  Don't notice any battery hit either, so suspect it is caching the photos on the watch.",
+        "Works ok With a huawei and nexus 5x the photos don't seem to rotate. Stuck with one pic even though mult are selected. Also took me a while to figure out that I needed to manage photos through Android wear app versus another app(newbie to Android wear). Once I figured that out no real navigation issues other than trying to figure out how to get the pics to rotate.",
+        "Good idea, poor design. Works OK. I don't like that the dimmed mode is not black and white, that wastes battery. App design is annoying, but it's not a big deal. And please add more than 2 options for the watch face with different designs.",
+        "Just what I wanted After installing go into the Android Wear app on your phone and select the Your Photos watch face.  You can then select one or more photos from your phone to show as your watch face.  The watch face is changed each time your watch comes out of dim mode.  NEAT!",
+        "I searched for hours for an app that does EXACTLY THIS!!  Thank you!  FYI: the image selector is random.  If you have thousands of images on your phone, it makes finding a specific one difficult.  I had to use the \"menu\" key (not all androids have'em) to select the sorting order. (Newest first) To clear previously selected images, you have to go to \"app info\" &gt; \"clear data\""
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.jimblackler.yourphotoswatch&hl=en&gl=us",
+    "appId": "net.jimblackler.yourphotoswatch"
+}

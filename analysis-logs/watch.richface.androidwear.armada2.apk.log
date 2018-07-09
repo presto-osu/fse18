@@ -1,0 +1,78 @@
+Soot started on Thu Jun 21 13:34:03 EDT 2018
+[INFO] MySceneTransformer: WatchFaceService:::: watch.richface.androidwear.armada2.service.CoreWatchFace
+[INFO] MySceneTransformer: !!!!!!!!!! Going to analyze: ./apks/wear/watch.richface.androidwear.armada2.apk
+[INFO] MySceneTransformer: ############## watch.richface.androidwear.armada2.service.WatchFace$WatchFaceEngine ##############
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowGraph: @@@@ Total Class:   791
+[INFO] FlowGraph: @@@@ Total Methods: 3715
+[INFO] FlowGraph: @@@@ Total Stmts:   54039
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] Analyzer: =============== wfOnCreate() ===============
+[INFO] Analyzer: =============== wfOnCreateEngine() ===============
+[INFO] Analyzer: =============== onCreate() ===============
+[INFO] Analyzer: =============== onVisibilityChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onVisibilityChanged(false) ===============
+[INFO] Analyzer: =============== onDestroy() ===============
+[INFO] Analyzer: =============== wfOnDestroy() ===============
+[INFO] Analyzer: =============== onAmbientModeChanged(true) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] Analyzer: =============== onAmbientModeChanged(false) ===============
+[INFO] FlowAnalysis: =================== <android.graphics.Paint: void setColor(int)>(-16777216)
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(true): [{$r1=[-6710887], $r2=[-6710887], $r1=[-1, -2555904, -27866, -16721610, -16728065], $r5_1=[-769226, -12409355], $r2_18=[-6710887], $r2=[-6710887], $r2=[-6710887], $r2=[-6710887], $r2=[-6710887], $r2_4=[-6710887], $r5=[-769226, -12409355], $r1_1=[-1], $r2=[-6710887], $r2=[-6710887], $r2_11=[-6710887], $r1=[-6710887], $r2=[-6710887], $r2=[-1], $r1_2=[-1], $r2_1=[-6710887], $r1_2=[-1], $r2_2=[-16711936, -65536, -16776961], $r1_1=[-1], $r2=[-15658735, -16760800, -15783074, -13684964], $r2_4=[-1], $r1=[-6710887], $r1_1=[-16777216], $r1_1=[-1], $r2=[-6710887], $r1=[-1], $r1=[-16777216], $r2_8=[-1], $r1=[-1], $r1_2=[-5987164], $r1=[-16777216], $r2=[-1], $r1=[-1], $r1=[-15658735, -16760800, -15783074, -13684964], $r1_2=[-1], $r2=[-6710887], $r1=[-1], $r1=[-6710887], $r2_1=[-6710887], $r1_2=[-1], $r2=[-6710887], $r2=[-6710887], $r1_3=[-1], $r2=[-6710887], $r1=[-1]}]
+[INFO] MySceneTransformer: setColor @ onAmbientModeChanged(false): [{$r1=[-6710887], $r2=[-6710887], $r2=[-6710887], $r1=[-1, -2555904, -27866, -16721610, -16728065], $r1_3=[-6710887], $r5_1=[-769226, -12409355], $r1=[-16777216], $r2_18=[-6710887], $r2_8=[-1], $r2=[-6710887], $r1_2=[-5987164], $r2=[-1], $r2=[-6710887], $r1=[-1, -2555904, -27866, -16721610, -16728065], $r1_5=[-6710887], $r2=[-6710887], $r2=[-6710887], $r1=[-15658735, -16760800, -15783074, -13684964], $r2_4=[-6710887], $r5=[-769226, -12409355], $r2=[-6710887], $r1_4=[-6710887], $r1=[-6710887], $r2=[-6710887], $r2=[-6710887], $r1_2=[-1, -2555904, -27866, -16721610, -16728065], $r2_11=[-6710887], $r1=[-6710887], $r2=[-6710887], $r2_1=[-6710887], $r1_7=[-6710887], $r2=[-1], $r2_1=[-6710887], $r1_3=[-1, -2555904, -27866, -16721610, -16728065], $r2_2=[-16711936, -65536, -16776961], $r2=[-6710887], $r1_4=[-6710887], $r2=[-6710887], $r1_4=[-6710887], $r1_5=[-6710887], $r1_3=[-16777216], $r2=[-6710887], $r2=[-15658735, -16760800, -15783074, -13684964], $r2_4=[-1], $r1_6=[-6710887], $r1_3=[-6710887], $r1=[-6710887], $r1_5=[-1, -2555904, -27866, -16721610, -16728065]}]
+[INFO] MySceneTransformer: setColor equal=false
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(true): [ff2f2f1c, ff004020, ffd90000, fff44336, ffff9326, lime, ff0f2b5e, ff00bfff, red, blue, ff999999, ff00d936, ff111111, ffa4a4a4, ff42a5f5]
+[INFO] MySceneTransformer: colors @ onAmbientModeChanged(false): [ff2f2f1c, ff004020, ffd90000, fff44336, ffff9326, ff0f2b5e, lime, ff00bfff, red, blue, ff999999, ff00d936, ffa4a4a4, ff111111, ff42a5f5]
+[INFO] MySceneTransformer: colors equal=true
+[INFO] MySceneTransformer: TOTAL TIME: 71.418000 sec
+[INFO] MySceneTransformer: Soot stopped on Thu Jun 21 13:35:20 EDT 2018

@@ -1,0 +1,55 @@
+{
+    "title": "insight for Wear",
+    "summary": "A quantified-self app that enables you augment your watch and your activities.",
+    "icon": "//lh3.googleusercontent.com/jRTLLaFmEILs-OTHCwiY0piTmV0Xyp2rQCUxlVP3ESCW3IN3A1wKueTJi4wniYOFe-o=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.5,
+    "reviews": 17,
+    "developer": "Reza Rawassizadeh",
+    "developerId": "Reza+Rawassizadeh",
+    "developerEmail": "support@insight4wear.com",
+    "developerWebsite": "http://insight4wear.com/eula/",
+    "updated": "December 31, 2016",
+    "version": "1.1.10",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "insight is the first energy efficient, free tool (lifelogging / Quantified-self tool) that collects both watch and your personal activities. It has fascinating visualizations and graphs that can help you gain an overview about the watch and self information. It is FREE and has NO in-app purchase.Moreover, it has an artificial intelligence engine (Prediction) that can understand your battery draining routines and if something strange is starting to happen to your battery, it notifies you. Also it can learn your fitness routine (walking, running, ...) and notifies you if you change your physical activity routine. Please consider that (1) the its Prediction is in testing phase and it might provide wrong notifications. If it disturbs, you can disable it.  (2) We get the activity data from Google FIT and they might have errors in them and coming from the phone. Also You should have your phone connected to get the activity data. (3) While respecting your privacy, insight sends data, to our server for scientific studies. Features:- Predicting your battery drain and your physical activities.- No manual entry needed.- Automatically track your device usage (Notifications, Battery, Light, and Bluetooth connections)- Automatically track your activities (physical activities from Google FIT, your Android wear usage)- Better understand you device and life with fascinating visualizations. - Your data will be stored only for 10 days on the device, and thus very small storage will be used. Feel free to contact us, if you have any questions + thank you for using this app :-)",
+    "descriptionHTML": "insight is the first energy efficient, free tool (lifelogging / Quantified-self tool) that collects both watch and your personal activities. It has fascinating visualizations and graphs that can help you gain an overview about the watch and self information. It is FREE and has NO in-app purchase.<br><br>Moreover, it has an artificial intelligence engine (Prediction) that can understand your battery draining routines and if something strange is starting to happen to your battery, it notifies you. Also it can learn your fitness routine (walking, running, ...) and notifies you if you change your physical activity routine. <br><br>Please consider that (1) the its Prediction is in testing phase and it might provide wrong notifications. If it disturbs, you can disable it.  (2) We get the activity data from Google FIT and they might have errors in them and coming from the phone. Also You should have your phone connected to get the activity data. (3) While respecting your privacy, insight sends data, to our server for scientific studies. <br><br><br>Features:<br><br>- Predicting your battery drain and your physical activities.<br>- No manual entry needed.<br>- Automatically track your device usage (Notifications, Battery, Light, and Bluetooth connections)<br>- Automatically track your activities (physical activities from Google FIT, your Android wear usage)<br>- Better understand you device and life with fascinating visualizations. <br>- Your data will be stored only for 10 days on the device, and thus very small storage will be used. <br><br><br>Feel free to contact us, if you have any questions + thank you for using this app :-)",
+    "histogram": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 13
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Y98KtEkaMxPfMNSyNUTEqOhShjdlNCWepXicWIdOqyOwgWnBlaj9_8NmRtBCsHpk3Gw=h310",
+        "//lh3.googleusercontent.com/m_E4cjEJHAND292w0bEaYESvnU18p_6_Tj4dzpRKgWEtjqYRib4BsupBRC7ZWsnvtGM=h310",
+        "//lh3.googleusercontent.com/0c0ZbCRwBb2XwWdnhaJVjQhtfsMXag5v21aShsebp5S_yOxP2zwEaBDTBNWHiIOBdgMO=h310",
+        "//lh3.googleusercontent.com/Dz38phJVVa27A5w0hRNzRvpa_87S1S1Ff14A9P4HlW6fRrgySi24S0IEYadrRp6iTw=h310",
+        "//lh3.googleusercontent.com/b25rQ56WBC-uaJeE3aGJ4klSlgRo38Yfj6r3w1asQhdxxCOlB0Xm4T9bxsYj_GDwoeE=h310",
+        "//lh3.googleusercontent.com/-nje6e_iGed5kkE7myJYoqPz16mCSGB2ReWDRd2FaWk-jkGfm9OXmW0gtFsjSiIWOwg=h310",
+        "//lh3.googleusercontent.com/YfsrRPP2Y-Al6fqm2n88f0zVy4hcFZSnQb5ZhNpL3pSZ6Ucat1WqGC8gSx5Q61UOJOo=h310",
+        "//lh3.googleusercontent.com/kQrq3m_33q4bDsEwnOj2DCiIEEAZOaosDjhfqvZ04hzq7vI4tp1cRC_4ZfjP8qhMTQ=h310"
+    ],
+    "comments": [
+        "Very cool and useful app  Can't say much yet about the prediction but everything else works really nice. Only suggestion is to add some greyed-out vertical lines in the graphs to improve readability.",
+        "I use the fitness and heart-rate prediction. Both provide very good and informative feedback.",
+        "Very useful, especially battery visualization made me very happy One of the best app I have installed on my smartwatch.",
+        "Lovely and applicable Greate UI, simple and easy to use!"
+    ],
+    "recentChanges": [
+        "Server error resolved"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.insight.insight&hl=en&gl=us",
+    "appId": "com.insight.insight"
+}

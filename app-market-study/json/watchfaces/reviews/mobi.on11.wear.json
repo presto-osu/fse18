@@ -1,0 +1,37 @@
+[
+    {
+        "author": "Jason Wilson",
+        "comment": "Latest update inaccurate. 6000 steps on the official google fit watch face. Nearly 10,000 with on11 (appart from that, it's awesome).",
+        "date": "June 19, 2015",
+        "permlink": "/store/apps/details?id=mobi.on11.wear&reviewId=Z3A6QU9xcFRPRUJQTzlMaXJqWkZYVkYzcVJpRGxhMFlPOGh2bFg4dG0xTGhmMUdlLWpVWVg5OTA4UUd1aG0xMlE3cHBEZDJrR0hGczJ2c1VtaGZldVhMcXc",
+        "reply": {
+            "author": "Qian He",
+            "content": "Hi Jason. The difference is caused by the new Fitness API from Google, which reads step counts directly from the motion sensor on Android Wear devices. I saw many posts on Reddit mentioning about this bug, e.g. http://t.co/sT82PwOmxX http://t.co/75TkQLxxU1 . Pls wait Google to fix it. Meanwhile, send me an email if you want to know the details. :)",
+            "date": "June 18, 2015"
+        },
+        "star": 5,
+        "title": null
+    },
+    {
+        "author": "Ted Miller",
+        "comment": "This warchface will guilt me into walking more, and I don't have to dig it out of my pocket.",
+        "date": "May 8, 2015",
+        "permlink": "/store/apps/details?id=mobi.on11.wear&reviewId=Z3A6QU9xcFRPRmRhbVlEckUzTmZWSTk0RWxsYS1NYnVUdW5LMjZZV0F0RUlIYmstdlYtY3RvX2lUNlY5UWZTY2hJaHQxX3lTOVdYWHpkZDA1Vk9TTEY3NlE",
+        "reply": null,
+        "star": 5,
+        "title": "Bye Fitbit?"
+    },
+    {
+        "author": "Steve Smith",
+        "comment": "After waiting a little while for it to install after the developer mentioned it it is a very nice app. Great colors and the steps is very good",
+        "date": "January 27, 2015",
+        "permlink": "/store/apps/details?id=mobi.on11.wear&reviewId=Z3A6QU9xcFRPRlE1OFJnVFF5ekpGWTZoUm45VFJRTWZwVHk1MklWM1VPLUx3V0dZLXVkZDFBOGZVVzZSTnh0MG1PV1g1aXhrMUlCYmlZYlRpSVhhcl9YMWc",
+        "reply": {
+            "author": "Qian He",
+            "content": "It will take one minute or two for your watch to install the watch face after installing it. This is caused by the limited bandwidth of Bluetooth communication and installation speed on Android Wear watches. Email me if it does not show up after 5 minutes. Thanks. qhe@wpi.edu",
+            "date": "January 26, 2015"
+        },
+        "star": 5,
+        "title": "Very nice"
+    }
+]

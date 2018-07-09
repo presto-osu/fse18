@@ -1,0 +1,55 @@
+{
+    "title": "Timetable Now (Beta)",
+    "summary": "An app for the easy and fast organisation of your Timetable.",
+    "icon": "//lh3.ggpht.com/b87w-q74P9WHXAXQjSL1oK5vNy8Wwjh0LcO48bcylRpVA91IStTENIvrMxIc7AgZJlo=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 47,
+    "developer": "Laprell",
+    "developerId": "Laprell",
+    "developerEmail": "laprell.eu@gmail.com",
+    "developerWebsite": "http://laprell.eu",
+    "updated": "February 11, 2015",
+    "version": "0.7.4",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "This app will provide you with your timetable all day.It doesn't matter if on your smartphone or your smartwatch. Before the lesson will start, you will get a notification on your wrist and on your phone. A widget on your homescreen gives you the relevant information for the day.Features:• Support for smartphones, smartwatches und tablets• Design adapted to the new Material Design of Google• View your lesson per day or for the complete week• You can have multiple timetables at onceNotice:This app is still under development and not yet fully ready. Ideas for features or reports about bugs are always welcomed!Smartwatches must be running on Android Wear.",
+    "descriptionHTML": "This app will provide you with your timetable all day.<br>It doesn&apos;t matter if on your smartphone or your smartwatch. Before the lesson will start, you will get a notification on your wrist and on your phone. A widget on your homescreen gives you the relevant information for the day.<br><br>Features:<br>&#x2022; Support for smartphones, smartwatches und tablets<br>&#x2022; Design adapted to the new Material Design of Google<br>&#x2022; View your lesson per day or for the complete week<br>&#x2022; You can have multiple timetables at once<br><br>Notice:<br>This app is still under development and not yet fully ready. Ideas for features or reports about bugs are always welcomed!<br><br>Smartwatches must be running on Android Wear.",
+    "histogram": {
+        "1": 2,
+        "2": 2,
+        "3": 3,
+        "4": 10,
+        "5": 30
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/2xb4inE_Sv67JLGdj3_AYAb9v6WLmSRc5KxCIhCVVREJJPxpvtAQ_j7E90F4qnpS9qU=h310",
+        "//lh6.ggpht.com/f_0s3tA-g0-vz6tH6oUBUGOVCDeZ0ZHUlzux0a9Y4_xyrs0UOhXUIEunegqIoEY9Uw=h310",
+        "//lh3.ggpht.com/Cmst57hfls604b8w8Ib14f3pwBcbxKj_ZbYCTkUnvxCkOUxkRnVcLI5YaZKbuhoa14U=h310",
+        "//lh6.ggpht.com/VUflnsohNZeD15YWbGrCd1a7_gpLvN8EHz87wbo2M3_EJ2WzmzSQJDImCy-FqoykLQ=h310",
+        "//lh4.ggpht.com/wFjpRN61W-kFVz-hR_TT2_IARNn-5XJj4A3QMV12BCwV8tFqKvEX8Y9q7NWEeAlpemg=h310",
+        "//lh6.ggpht.com/Kdu3e1OeMknbg2Y3x0N6TV5rJc_EUJDMmAy9lYwtIhs0B1v2WgJRR6zo9cr1KFmahX0=h310",
+        "//lh6.ggpht.com/WI7r3pHkExiEC6CBbSm2I1Zfm8_Qhon9vyN9vbb5CQPro-By3VXxXIdRZq13AJBmNCg=h310"
+    ],
+    "comments": [
+        "Very useful !"
+    ],
+    "recentChanges": [
+        "Version 0.7.4:",
+        "- Bugfixes (Timetable was not displayed sometimes)",
+        "- You can hide now single times in the weekoverview (long press on the row)",
+        "- Places will be shown in the notifications",
+        "- Saturday + Sunday can be activated in settings"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=eu.laprell.timetable&hl=en&gl=us",
+    "appId": "eu.laprell.timetable"
+}

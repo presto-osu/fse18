@@ -1,0 +1,49 @@
+{
+    "title": "HungrySnake",
+    "summary": "Hungry Snake is an arcade game specially designed for Android Wear Devices.",
+    "icon": "//lh5.ggpht.com/jvGHbIfGGETPC2M0L1ECaEo_e4RsXUyQU2YX1kgqPtyfeTv9hEoAzPtz_YDPY3_K7KA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 50,
+    "maxInstalls": 100,
+    "score": 4.3,
+    "reviews": 3,
+    "developer": "Infizoom Technologies Pvt Ltd",
+    "developerId": "Infizoom+Technologies+Pvt+Ltd",
+    "developerEmail": "infizoom@gmail.com",
+    "developerWebsite": "http://www.infizoom.com",
+    "developerAddress": "Plot No 76, Mullai nagar, Suramangalam Post, Salem, Tamilnadu, India, Pincode: 636005",
+    "updated": "November 21, 2014",
+    "version": "1.0",
+    "genre": "Arcade",
+    "genreId": "GAME_ARCADE",
+    "description": "Hungry Snake is an arcade game specially designed for Android Wear Devices. The user controls the small snake and helps the snake to grow bigger so it can catch the mouse to complete each level.The snake should catch the eggs to grow and survive. The snake will die if it is not able to catch 3 eggs continually and if the snake hits the Wall and if the snake head hits the snake body. To complete the level the snake should be able to catch the mouse which is unlocked only when the snake catch 40 eggs.Once Game over or stage is completed, tap the screen to select the next stage or play again.This Game has been tested in MOTO 360 smart watch. The Game will also work in all android wear smart watches.",
+    "descriptionHTML": "Hungry Snake is an arcade game specially designed for Android Wear Devices. The user controls the small snake and helps the snake to grow bigger so it can catch the mouse to complete each level.<br><br>The snake should catch the eggs to grow and survive. The snake will die if it is not able to catch 3 eggs continually and if the snake hits the Wall and if the snake head hits the snake body. To complete the level the snake should be able to catch the mouse which is unlocked only when the snake catch 40 eggs.<br><br>Once Game over or stage is completed, tap the screen to select the next stage or play again.<br><br>This Game has been tested in MOTO 360 smart watch. The Game will also work in all android wear smart watches.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/Y4MEVnnODgz5sa1ihsJZxNrryoCqyHUNX9wXj4bDj9s7V-KFrOFsW0PJEWcIg6GUBQjR=h310",
+        "//lh6.ggpht.com/UCw4zZlueIlPa-v2mpvUULrZ0jf4C1E2GFElkJz0_8rWhDUWUDOMiGQpEptknYILneI=h310",
+        "//lh4.ggpht.com/NK2HfkalHUq7XoxBwaUUGHrvvRIdtRgaCML1b5YR9FozeJMpEWIjWVI2GRq4jCToLho=h310",
+        "//lh5.ggpht.com/U47fX8sGxFEtBs58xSI9SCpOar_cvS6Ssjm8PcDC_IyAgwL9BzLx23ItTpVmsv7rvH8=h310",
+        "//lh5.ggpht.com/zO6wS8pwsUbPanmj7b0oH3kDTm_djhkvwthhsuka1fcGkekIcjx44lZcM1-WV1sG69UP=h310"
+    ],
+    "video": "https://www.youtube.com/embed/IZJ2VFggM5w",
+    "comments": [
+        "Great App Nice game with multiple levels and interesting in chasing the mouse... hard to catch the mouse in 4th level."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.infizoom.hungrysnake&hl=en&gl=us",
+    "appId": "com.infizoom.hungrysnake"
+}

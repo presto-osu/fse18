@@ -1,0 +1,52 @@
+{
+    "title": "Aero Watch Pro",
+    "summary": "Aviation Instruments on Your Wrist!",
+    "icon": "//lh5.ggpht.com/k5KcPglcevNYDOBXkRZRoqWyoNcYPsv7MONECwyN122RvXSMmAW-CJDFVjC6_FQRrQ=w300",
+    "price": "$50.00",
+    "free": false,
+    "minInstalls": 5,
+    "maxInstalls": 10,
+    "score": 1,
+    "reviews": 1,
+    "developer": "Aero Glass",
+    "developerId": "Aero+Glass",
+    "developerEmail": "info@aero.watch",
+    "developerWebsite": "http://aero.watch/",
+    "developerAddress": "330 A Street #78\nSan Diego\nCalifornia 92101\nUnited States",
+    "updated": "May 19, 2015",
+    "version": "1.0_beta10",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Aero Watch provides all your necessary aviation instruments - right on your wrist!See details & features at: http://aero.watch/Aero Watch provides the following instruments on your watch, mobile & tablet:* Altimeter* Attitude Indicator* Heading Indicator* Speed Indicator* Vertical Speed Indicator* Turn & Slip Indicator* Clock & Stop watch* GPS raw data* RMI* CDI* HSIAero Watch Pro includes a navigation database with global coverage for airports & navaids. See where you're headed through an RMI, CDI or HSI-style interface.Aero Watch Pro can connect to an iLevil SW or AW AHRS, and show your aircrafts attitude & position.The application runs on a regular phone & tablet as well, with the same features as on the watch.For detailed documentation, visit our web site at http://aero.watch/",
+    "descriptionHTML": "Aero Watch provides all your necessary aviation instruments - right on your wrist!<br><br>See details &amp; features at: http://aero.watch/<br><br>Aero Watch provides the following instruments on your watch, mobile &amp; tablet:<br><br>* Altimeter<br>* Attitude Indicator<br>* Heading Indicator<br>* Speed Indicator<br>* Vertical Speed Indicator<br>* Turn &amp; Slip Indicator<br>* Clock &amp; Stop watch<br>* GPS raw data<br>* RMI<br>* CDI<br>* HSI<br><br>Aero Watch Pro includes a navigation database with global coverage for airports &amp; navaids. See where you&apos;re headed through an RMI, CDI or HSI-style interface.<br><br>Aero Watch Pro can connect to an iLevil SW or AW AHRS, and show your aircrafts attitude &amp; position.<br><br>The application runs on a regular phone &amp; tablet as well, with the same features as on the watch.<br><br>For detailed documentation, visit our web site at http://aero.watch/",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/k_rRuB5DAzZcAY2u8kg_f1Hv3GhTrjyNt96qDnT4ekj0RuK1eZgmeycsKikvzCyGia9k=h310",
+        "//lh3.ggpht.com/MROPG_5i326P0yq5GosKRsbCKDfz9x9DAEIE-OwRJpw5XvCcW9-7BdoskjAyruyQF6M=h310",
+        "//lh3.ggpht.com/dtiF0PmiJkEMKzrS6jCeu142p2dts9aiuCj8ozdIx9Ljdng4JVHd_HI7Vp9kEZsMRGQ=h310",
+        "//lh4.ggpht.com/oGPsL6Cr1_SiOk2om9cCx9B7B4K0glsihD_SDp0lYd_HJ5-n8x7Ta3yvjFkW7o1RLiM=h310",
+        "//lh4.ggpht.com/7rQuiLr3tA3zMgxTdrcXkFQ90sHWaRW-MDZeNfaQ5xz4Gm46_pdqAHdl4WqyUuY4JA=h310",
+        "//lh4.ggpht.com/6uQtX8lJ1L3TRVqsI2HoGYGpvLYkM9CrnqDFOi01Ljtf42mSL8NiuXwIh5pfDaHmjvE=h310",
+        "//lh5.ggpht.com/c4-XRIdFlm0bNzsiljIVk75ODMI14y186ZHCxuRXEA9avoe4sEd4qjYePeOfgTNvYHQ=h310"
+    ],
+    "comments": [
+        "Crashes Haven't gotten any functionality.  Crashed every single time I tried to open it."
+    ],
+    "recentChanges": [
+        "added track up, north up and OBS modes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=aero.wear.watch.pro&hl=en&gl=us",
+    "appId": "aero.wear.watch.pro"
+}

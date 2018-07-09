@@ -1,0 +1,54 @@
+{
+    "title": "Avus - Watchface",
+    "summary": "Turn your Smartwatch face into a sport looking watch",
+    "icon": "//lh6.ggpht.com/1YiBj5aFNFCbTPyGoYX3kRgkWstzYo2KK7esbqsHfkZNwc0wh2TVriMUZBIibg_FFJA=w300",
+    "price": "$1.12",
+    "free": false,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3,
+    "reviews": 56,
+    "developer": "OMITSIS",
+    "developerId": "OMITSIS",
+    "developerEmail": "android@omitsis.com",
+    "developerWebsite": "http://omitsis-barcelona.com/",
+    "developerAddress": "Casp 162 2nd floor (Fain building), 08013 Barcelona, Spain",
+    "updated": "April 28, 2015",
+    "version": "1.3",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Let your watchface look like a real watchOmitsis presents the most carefully designed watch face for Android Wear. ‘Avus ’ is the second of a series of watch faces created by T. Hugo, a professional watch designer based in Berlin, Germany.Avus  [ˈa.wʊs]:Avus turns your smartwatch into a dashboard and brings in mind the sound of roaring engines, the smell of gasoline, the feel of hot tarmac.Compatible watches: LG G Watch, Samsung Gear Live, Motorola 360 (Moto 360) and other androidware watches",
+    "descriptionHTML": "Let your watchface look like a real watch<br><br>Omitsis presents the most carefully designed watch face for Android Wear. &#x2018;Avus &#x2019; is the second of a series of watch faces created by T. Hugo, a professional watch designer based in Berlin, Germany.<br><br>Avus  [&#x2C8;a.w&#x28A;s]:<br>Avus turns your smartwatch into a dashboard and brings in mind the sound of roaring engines, the smell of gasoline, the feel of hot tarmac.<br><br><br>Compatible watches: LG G Watch, Samsung Gear Live, Motorola 360 (Moto 360) and other androidware watches",
+    "histogram": {
+        "1": 21,
+        "2": 3,
+        "3": 3,
+        "4": 14,
+        "5": 15
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/WoemmOZi6CT6gkCYCkYQxAW-ed8d4jT3eXcMZY7f_254GXBwB3nt7c_QfVDvBtmEtFg=h310",
+        "//lh5.ggpht.com/NX4dgHkbRpCx1TD0imMo8HcP0Abhrf-TypZxIEaADiF1-nFu-ccI7VTGCRyK5zKYCQ=h310",
+        "//lh6.ggpht.com/c8HcivNa5l2Drkeg5vjXO0oV17jYyJWYzkXpqfGiW87MD5FWhvftWrCRDIA0MiM8AQ0=h310"
+    ],
+    "video": "https://www.youtube.com/embed/l0xye0_9mEo",
+    "comments": [
+        "Doesn't work on Huawei watch It's garbage on Huawei watch. The hands are small and off center. The middle area is micro small and to the side. Totally unusable and Android Wear crashes when selecting out of it to another watch face.",
+        "Huawei Watch... the app is useless I have installed and reinstalled it  about 10 times.   The results are always the same... the white hand is not centered, thus it is impossible to read the date.   I have emailed the developer asking for help.  I have received a very prompt reply from him... he has offered to return my money and he says that he is working on the problem.   I did not accept the refund.   The problem remains...",
+        "Disappointing After promises of updates that never came, and incompatibility with the Huawei Watch, makes this a developer I won't be buying from again",
+        "Looks great It looks great but hard to read at a glance... Date is even harder",
+        "Nice Really like the look of the face. Would prefer the US date format instead of European. To be honest I didn't realize the 'odometer' was the date at first.",
+        "Great looking! I like the different look to this face as well as the fact that it's not cartooney looking. Great job.  Would love to see options to configure colors and date format. Thanks!"
+    ],
+    "recentChanges": [
+        "- Improved quality in lower resolutions"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.omitsis.avus&hl=en&gl=us",
+    "appId": "com.omitsis.avus"
+}

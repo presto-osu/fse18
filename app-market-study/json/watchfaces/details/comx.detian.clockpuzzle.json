@@ -1,0 +1,45 @@
+{
+    "title": "Clock Puzzle for Wear",
+    "summary": "A puzzle for Android Wear Devices based on the minigame from FFXIII-2",
+    "icon": "//lh4.ggpht.com/4H8uUwyqYv4JHxU9pDhlRvx64xv36muvs9Y_V2DeGidaiqy7v7G8Ju1hbaZUcov9Au0=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.8,
+    "reviews": 6,
+    "developer": "Detian Shi",
+    "developerId": "Detian+Shi",
+    "developerEmail": "hi_cannon@hotmail.com",
+    "updated": "February 6, 2017",
+    "version": "Varies with device",
+    "genre": "Puzzle",
+    "genreId": "GAME_PUZZLE",
+    "size": "Varies with device",
+    "description": "Your favorite puzzle for FFXIII-2 is back on your Android Wear Device! This game is intended to be played on an Android Wear device.=============For those of you fortunate enough to have not played it, the rules are simple. Pick any number to start. The goal is to use up all the numbers. At each point of the game, you have two choices as shown by the clock hands. These two hands move according to the number you selected, one clockwise, the other counter-clockwise away from the position of that number. You lose if both hands point to a number you have already selected. =============Controls:Long-tap to resetFling Up/Down to change difficultyFling Left to create new game=============This game is not endorsed in any way by Square Enix.",
+    "descriptionHTML": "Your favorite puzzle for FFXIII-2 is back on your Android Wear Device! This game is intended to be played on an Android Wear device.<br>=============<br>For those of you fortunate enough to have not played it, the rules are simple. Pick any number to start. The goal is to use up all the numbers. At each point of the game, you have two choices as shown by the clock hands. These two hands move according to the number you selected, one clockwise, the other counter-clockwise away from the position of that number. You lose if both hands point to a number you have already selected. <br>=============<br>Controls:<br>Long-tap to reset<br>Fling Up/Down to change difficulty<br>Fling Left to create new game<br><br>=============<br><br>This game is not endorsed in any way by Square Enix.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/aGkkvWKY7g5B_jqNfSZCp2rSUu33wewUlenfGB2skasZ4zGeu-o6PoNccz4UYZ17sec=h310",
+        "//lh4.ggpht.com/YM9rsqAhoLouafC3YGPseGTXN0cyBNmsOo0TsvriMPjadf30PHmyviGrhvlUYpB7sV9h=h310",
+        "//lh3.googleusercontent.com/IMsh5aQLYf8AuD_x1_ORrX-VoDEEkNv4AHZw2m7yrOvJgtpt9MuMlhI16A6qQtji7Ew=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Support for Android Wear 2.0"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=comx.detian.clockpuzzle&hl=en&gl=us",
+    "appId": "comx.detian.clockpuzzle"
+}

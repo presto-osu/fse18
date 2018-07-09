@@ -1,0 +1,50 @@
+{
+    "title": "JLGolf Wear",
+    "summary": "JLGolf on your wearable device. Get distances and show info about the course",
+    "icon": "//lh6.ggpht.com/uJdFm-cT3muVpECNd7hIIJjTyw0SLW72S0gCPGGNkC3JHmTrLDB3UfoECxELx62l0Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 5,
+    "reviews": 2,
+    "developer": "Jim Larsen",
+    "developerId": "Jim+Larsen",
+    "developerEmail": "support@jlgolf.net",
+    "developerWebsite": "http://www.jlgolf.net",
+    "developerAddress": "Råbroparken 19\n2765 Smørum\nDK - Denmark",
+    "updated": "August 4, 2015",
+    "version": "2.5.5",
+    "genre": "Sports",
+    "genreId": "SPORTS",
+    "description": "JLGolf wear is a golf GPS app based on JLGolf. It workes with android wearable devices and will show information about the courses and distances to green on each hole.If your local course has not yet been added to JLGolf, you can create the courses at www.jlgolf.net or you could send an email to support@jlgolf.net including data or links to data about the course.",
+    "descriptionHTML": "JLGolf wear is a golf GPS app based on JLGolf. <br><br>It workes with android wearable devices and will show information about the courses and distances to green on each hole.<br><br>If your local course has not yet been added to JLGolf, you can create the courses at www.jlgolf.net or you could send an email to support@jlgolf.net including data or links to data about the course.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/XZEcXaS56f3NVvqtuQUfkwijRgO0-LzPPGZnLVQIwo91pW1jRRhK0HQSoEDblwwIBaM8=h310",
+        "//lh4.ggpht.com/jXffsU4e4w1RMazlLV6Pxmvl4f4N5GBmlqW3yLi89KE8AH8RT18_Uh9bb8sCGYobfCk=h310",
+        "//lh3.ggpht.com/DsyBZ2TwYtDnN0ABy8ts0aBqbjBohC53ngFH8S5XCi1B-96p9Ff0_sVot_IbDhmFtm8=h310",
+        "//lh3.ggpht.com/OUuaGsx9lPpiKXmeGjj-gbycnAQo3CNPACRanMDLPgfZk3TV_HOs2iXE-M20wwcfdovi=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Version 2.5.5",
+        "Updated battery usage",
+        "Version 2.5.3",
+        "Minor ui changes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=dk.jlsoft.android.jlgolfwear&hl=en&gl=us",
+    "appId": "dk.jlsoft.android.jlgolfwear"
+}

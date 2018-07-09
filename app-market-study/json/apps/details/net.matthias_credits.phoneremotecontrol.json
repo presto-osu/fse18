@@ -1,0 +1,56 @@
+{
+    "title": "Phone Remote Control (ROOT)",
+    "summary": "Remotely operate your phone with your Android Wear Device  (needs ROOT)",
+    "icon": "//lh3.googleusercontent.com/AB0VciV0-QusZO50JS4IioQ3UrMqseHdghKOAq_wT6_sGYZvuKdvkXMMn7oQa4D1wUE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 3.7,
+    "reviews": 11,
+    "developer": "Matthias Credits",
+    "developerId": "Matthias+Credits",
+    "developerEmail": "matthias.credits@gmx.de",
+    "developerWebsite": "http://www.matthias-credits.de/",
+    "developerAddress": "Lavesstrasse 12\n30159 Hannover\nDeutschland",
+    "updated": "July 26, 2015",
+    "version": "1.0.1",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "This App needs ROOT access on your phone.With this App you are able to remotely operate your phone with your Android Wear device. In every situation you do not want to pull out your mobile you can have a quick view on your phones screen and your apps you are operating. You can read new messages in your messengers and you can even answer them by using the keyboard on your phone remotely. Or you need the latest stock or sports information you usually read on your phones screen. And, what about the weather of tomorrow? Or any other information you usually get from your phone. With Phone Remote Control you now have everything on your watch’s screen.Important:-\trequired: Needs Google Android Wear App to connect from Phone to Wear device-\trecommended: You should set your Android Wear device as trusted device for your smart phone unlock  and use a simple swipe to unlock your phone (a pattern unlock entry with Phone Remote Control is possible but a little difficult and can lead to a durable locked phone device)Features: -\tWakes up the phone device on start of Android Wear App-\tPhone app asks for super user access to generate touch screen events (select permanent permission)-\tPhone app asks user for permission to cast phone device screen contents (to wear device) (select permanent permission)-\tDims phone screen to lowest possible value during remote session (to save battery)-\tTransfers complete phone screen up to 3 times per second to the wear device-\tUses arm tilt to pan through the phone screen cast on your wear device-\tTransfers finger taps and swipes from the wear device to the phone-\tAdjustable tilt offset for best arm tilt behavior (round button on phone app splash screen)-\tRe-adjust dim settings on phone after wear device app stop (by pressing crown)-\tPhone resumes deep sleep after stopping Android Wear App (as selected by user)-\tTested with: Sony Smartwatch 3, LG G Watch R, LG G3- \tremark: in the Android Wear implementation for sending bigger data blocks to the wear is a memory leak. If you open a long running remote session (means about 15 minutes) the mobile app is beeing killed by the Android because it consumes to much memory. I will try to figure out and discuss with Google how to prevent this situation.   See also my stackoverflow question about this",
+    "descriptionHTML": "<b>This App needs ROOT access on your phone.</b><br><br>With this App you are able to remotely operate your phone with your Android Wear device. <br><br>In every situation you do not want to pull out your mobile you can have a quick view on your phones screen and your apps you are operating. You can read new messages in your messengers and you can even answer them by using the keyboard on your phone remotely. Or you need the latest stock or sports information you usually read on your phones screen. And, what about the weather of tomorrow? Or any other information you usually get from your phone. With Phone Remote Control you now have everything on your watch&#x2019;s screen.<br><br><i>Important:</i><br>-\trequired: Needs <a>Google Android Wear App</a> to connect from Phone to Wear device<br>-\t<b>recommended</b>: You should set your Android Wear device as trusted device for your smart phone unlock  and use a simple swipe to unlock your phone (<b>a pattern unlock entry with Phone Remote Control is possible but a little difficult and can lead to a durable locked phone device</b>)<br><br><i>Features: </i><br><br>-\tWakes up the phone device on start of Android Wear App<br>-\tPhone app asks for super user access to generate touch screen events (select permanent permission)<br>-\tPhone app asks user for permission to cast phone device screen contents (to wear device) (select permanent permission)<br>-\tDims phone screen to lowest possible value during remote session (to save battery)<br>-\tTransfers complete phone screen up to 3 times per second to the wear device<br>-\tUses arm tilt to pan through the phone screen cast on your wear device<br>-\tTransfers finger taps and swipes from the wear device to the phone<br>-\tAdjustable tilt offset for best arm tilt behavior (round button on phone app splash screen)<br>-\tRe-adjust dim settings on phone after wear device app stop (by pressing crown)<br>-\tPhone resumes deep sleep after stopping Android Wear App (as selected by user)<br>-\tTested with: Sony Smartwatch 3, LG G Watch R, LG G3<br>- \tremark: in the Android Wear implementation for sending bigger data blocks to the wear is a memory leak. If you open a long running remote session (means about 15 minutes) the mobile app is beeing killed by the Android because it consumes to much memory. I will try to figure out and discuss with Google how to prevent this situation. <br>  See also my <a href=\"https://www.google.com/url?q=http://www.google.com/url?q%3Dhttp%253A%252F%252Fstackoverflow.com%252Fquestions%252F31634682%252Fandroid-wear-dataitem-sent-to-wearable-also-received-by-local-binding-how-to%26sa%3DD%26sntz%3D1%26usg%3DAFQjCNFcW7c3vw_hoXxNYgionMP0byhmJw&amp;sa=D&amp;usg=AFQjCNGG-a6FQdD0ZN77MlWWbFkkjU1jvQ\" target=\"_blank\">stackoverflow question about this</a>",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "5.0 and up",
+    "androidVersion": "5.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/XN8UvrI0hFCrwFRiZ4ojErXi1_d2Z2OFEWSDu9KVcxrFGUOIni15eyASDx13wGrmXfYP=h310",
+        "//lh3.googleusercontent.com/z5UU6uE4Wcd7GBxGHE-LOors097QiwTJ3Dmy15IpYGY8vPTer9e7uxqEgzRlUrN1JsM=h310",
+        "//lh3.googleusercontent.com/cy6I_c8oReXEdDUCIDc_W_ncqDM2PuJ6Rie28JaHJOh1pXb_cWh90Q4FdjXsp3baZOg=h310",
+        "//lh3.googleusercontent.com/ig-ykx1yUMVUahbvkfus-spYJWjqBwMLVqJIKLHv8tJ5ofd_XCCQBJxCzK9pRtNOmbA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/CfAO9XuAxPk",
+    "comments": [
+        "This will be revolutionary. Epic. Just beyond epic. Though unfortunately for me, I do believe there is a current bug with either android 6.0.1 or CM13 because any screen recording applications instantly cause a system reboot. So like the screen recording apps I have tried, when I press start now it instantly reboots my phone sadly. I am going to further troubleshoot and look into this issue more then I'll contact you. In case it is a limitation with android marshmallow. Regardless you get 5 stars as this is as I said. Revolutionary.",
+        "Trying to get this to work, looks promising. However, please clarify. DOES THE PHONE NEED TO BE ROOTED, or is Root access just for this apps permissions. ( my G note 3 is NOT rooted). Thx all. (And keep up the great work! )",
+        "Love the idea Not currently working with moto 360 sport paired with galaxy j3 (6). I am keeping it installed and waiting for updates.",
+        "Amazing! It's not perfect but still deserves 5 stars just because of the possibilities.",
+        "perfect app for android wear it is a must have app. Big thumb up the dev of this app.",
+        "Great app!"
+    ],
+    "recentChanges": [
+        "- memory usage of mobile app reduced/optimized (please see additional remark in main app description)",
+        "- removed unneeded permission requests (were added by a google lib)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.matthias_credits.phoneremotecontrol&hl=en&gl=us",
+    "appId": "net.matthias_credits.phoneremotecontrol"
+}

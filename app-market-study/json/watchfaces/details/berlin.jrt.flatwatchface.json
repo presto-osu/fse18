@@ -1,0 +1,48 @@
+{
+    "title": "JRT Watch Face",
+    "summary": "Teal watch face for Android Wear.",
+    "icon": "//lh3.googleusercontent.com/WXHDrofO4gTil8NQUhMe1hR_32B1ES9ApL1lzYIu19WLy-sSu3ZFOkfoqD9d4-GEiQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.4,
+    "reviews": 9,
+    "developer": "jrtberlin",
+    "developerId": "8738605350868752202",
+    "developerEmail": "info@jrtberlin.de",
+    "developerWebsite": "https://jrtberlin.de",
+    "developerAddress": "Brahmsstraße 40\n12203 Berlin\nDeutschland",
+    "updated": "January 12, 2017",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "Teal watch face for Android Wear. The App comes with two different Watchfaces. - Simple Analog Teal - Analog Teal with Date like dd.mm.yyyyThis Watch Face is available for Tizen (Samsung Gear,...): http://apps.samsung.com/betastore/appDetail.as?appId=com.watchface.JRTWatchFace",
+    "descriptionHTML": "Teal watch face for Android Wear. <br>The App comes with two different Watchfaces.<br> - Simple Analog Teal<br> - Analog Teal with Date like dd.mm.yyyy<br><br>This Watch Face is available for Tizen (Samsung Gear,...): http://apps.samsung.com/betastore/appDetail.as?appId=com.watchface.JRTWatchFace",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 7
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/Neeen7BNXNIjitCjvnQjdCFSUT3KI8_TtpreYgy_GBOnxLQxExeQdVNmGe1K-LTvU4wW=h310",
+        "//lh3.googleusercontent.com/L42owDX0SGml5vOL19PQRkzIiEZX3J7wDg3ae8NAI3ymh6LxoDskQ0ykcPMNxlOyRA=h310",
+        "//lh3.googleusercontent.com/M87eE3JjEO48pTOcZPlvC5Bi6d9FGsKpiLN-JvKEDXbMrdD3h88fvKGQtPQTmuNwcA=h310",
+        "//lh3.googleusercontent.com/aEPv0q7iEER8tqHhunAA3WayEAxok8sKzndj5lNewyW4g1OvBEUyyD_Ql9UhEMoEiaw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "- Icon from Homescreen removed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=berlin.jrt.flatwatchface&hl=en&gl=us",
+    "appId": "berlin.jrt.flatwatchface"
+}

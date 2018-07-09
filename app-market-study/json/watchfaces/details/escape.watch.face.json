@@ -1,0 +1,56 @@
+{
+    "title": "Escape Watchface Android Wear",
+    "summary": "Crafted for action. Powered by Android Wear.",
+    "icon": "//lh6.ggpht.com/7T10AHQ8IGqeFXBQMhnX_pgg8NzSXiy0MF1pRnYCncGaPw87Dh2uz3_Eu26oGglzrBw=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.1,
+    "reviews": 464,
+    "developer": "Zuhanden",
+    "developerId": "Zuhanden",
+    "developerEmail": "mobile@zuhanden.de",
+    "developerWebsite": "http://www.zuhanden.de",
+    "developerAddress": "Seehauser Str. 14\n81379 Munich\nGermany",
+    "updated": "May 27, 2015",
+    "version": "1.2.7",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Your #1 outdoor companion for Android Wear.Get active and track you steps with the integrated Android Wear pedometer. The compass will lead you the way out in the wild.The watchface turns your Android Wear device into a stylish sporty smartwatch. It looks great on the Moto 360, but also on other circular and rectangular Android Wear smartwatches ★★★★★  Key customization features:-Step tracker & pedometer-Compass functionality -Color customization of watch face-Custom name on watch -Date and Day-Battery indicator NOTE on compass: If the compass is not working properly, please calibrate it by moving your arm in an 8-form pattern.★★★★★  More exclusive Wear Faces:Visit our exclusive custom wearfaces collection for Moto 360 and other Android Wear devices http://goo.gl/QOsOu4.  Also please let us know if you like to have any other watch faces to be added to our selection of watchfaces.Crafted for action.",
+    "descriptionHTML": "Your <b>#1 outdoor</b> companion for Android Wear.<br><br>Get active and track you steps with the integrated Android Wear <b>pedometer</b>. The <b>compass</b> will lead you the way out in the wild.<br><br>The watchface turns your Android Wear device into a stylish <b>sporty</b> smartwatch. It looks great on the Moto 360, but also on other circular and rectangular Android Wear smartwatches <br><br>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;  <br><br>Key <b>customization features</b>:<br><br>-Step tracker &amp; pedometer<br>-Compass functionality <br>-Color customization of watch face<br>-Custom name on watch <br>-Date and Day<br>-Battery indicator <br><br>NOTE on compass: If the compass is not working properly, please calibrate it by moving your arm in an 8-form pattern.<br><br>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;  <br><br>More exclusive Wear Faces:<br><br>Visit our exclusive custom wearfaces <b>collection</b> for Moto 360 and other Android Wear devices http://goo.gl/QOsOu4.  Also please let us know if you like to have any other watch faces to be added to our selection of watchfaces.<br><br><b>Crafted for action.</b>",
+    "histogram": {
+        "1": 19,
+        "2": 24,
+        "3": 60,
+        "4": 149,
+        "5": 212
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/cdDR-jIc0EunP3ikyja9MpZhESD9cY3cYMTNapIVyl-ijI2EoYc2uVjK0N4hvHHkb5U=h310",
+        "//lh5.ggpht.com/LUzG34-Fu65SPmSf3OxOz5iwY_u6jbH4wuMyORt6tIz-lRMatG1w9yomtNqm0xEwzvs=h310",
+        "//lh4.ggpht.com/n-D8ER31s5_OtoFgVYv1C_QbeAmV3BIlfQHbKt5Xy_aWShbND1HSFY5XoAdHFDZ7=h310",
+        "//lh4.ggpht.com/5WIUwClR9uOntcISGy17Ksj7Gh-Ap6m1TIT03NqJnPAy-MXKVc4uxWApa8LMJdj1oqU=h310",
+        "//lh5.ggpht.com/zusQiU61t8cxFDV-wTFx8WUfR4YI7zbtrE-sAjUZt7YYTMeq30SQ-7GiAxSUyusvqrg=h310",
+        "//lh5.ggpht.com/YHImgk0sG-ZTYHysKZXk7co1WnMWwN0BEQMDVvnrIw0VhAbShEVljAtEFnjsRDe1GA=h310"
+    ],
+    "comments": [
+        "Good, not great The design alone is good. I'd like to see other options for the lower dial, like those on the dev's other watch faces (weather, battery, etc.). The compass doesn't work, no matter how much you try to calibrate it. 4 stars if that's fixed, 5 for step/cycling sync with Fit.",
+        "Very nice! Compass works on Huawei Awesome face. It would be nice to test the colors without the app screen going back to main option screen every color change. Small complaint for a working compass on the huawei.",
+        "Doesn't do what it should. ..steps don't get counted properly. .if it worked if use it. ..another watch face disappointment. Ok watch face to look at.",
+        "Pedometer doesn't work anymore The pedometer on this watch used to be reasonably accurate, and match up more or less with Google Fit, now it is typically several thousand steps short.",
+        "Garbage I've installed it... so where is the watchface? Doesn't show up in Android wear.",
+        "May be my favorite face. Not a ton of customization options, but in this case that's good, it saves you from yourself when you want to screw around with a really sharp design. Love being able to put my initials on it. Great feature, like developer's other faces."
+    ],
+    "recentChanges": [
+        "Performance improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=escape.watch.face&hl=en&gl=us",
+    "appId": "escape.watch.face"
+}

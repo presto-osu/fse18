@@ -1,0 +1,55 @@
+{
+    "title": "Motorola Connect",
+    "summary": "Manage your Motorola connected devices.",
+    "icon": "//lh5.ggpht.com/F1BFY6Os5ja7CSWvPMfDaYBWMcagA-s5mnvSC4nIRqtyp1XT4731UA0Y9unTfnHbOjA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000000,
+    "maxInstalls": 50000000,
+    "score": 4.1,
+    "reviews": 26192,
+    "developer": "Motorola Mobility LLC.",
+    "developerId": "Motorola+Mobility+LLC.",
+    "developerEmail": "playstor@motorola.com",
+    "developerWebsite": "http://www.motorola.com",
+    "developerAddress": "222 W. Merchandise Mart Plaza, Suite 1800, Chicago, IL 60654",
+    "updated": "February 8, 2017",
+    "version": "2.09.09-315",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "description": "Motorola Connect currently supports Moto 360, Moto Pulse, Moto Surround, Motorola Power Pack Micro, and Motorola KeylinkMoto 360: Customize your watch with one of Motorola’s exclusive watch faces, or create your own with the My Design option.Moto Pulse:  Locate your lost headphones on a map, check your  battery status, and more.Moto Surround:  Locate your lost earbuds on a map, check your  battery status, and control other settings on Moto Surround.Power Pack Micro: Locate your lost power pack on a map and get  notifications when your power pack needs to be recharged.Motorola Keylink:  Attach Motorola Keylink to your keys or any  other item and use the app to locate it when it is misplaced.Manage your Moto Body profile, view wellness data, and get personalized insights with the new phone app – now available for download. https://play.google.com/store/apps/details?id=com.motorola.omni",
+    "descriptionHTML": "Motorola Connect currently supports Moto 360, Moto Pulse, Moto Surround, Motorola Power Pack Micro, and Motorola Keylink<br><br>Moto 360: Customize your watch with one of Motorola&#x2019;s exclusive watch faces, or create your own with the My Design option.<br><br>Moto Pulse:  Locate your lost headphones on a map, check your  battery status, and more.<br><br>Moto Surround:  Locate your lost earbuds on a map, check your  battery status, and control other settings on Moto Surround.<br><br>Power Pack Micro: Locate your lost power pack on a map and get  notifications when your power pack needs to be recharged.<br><br>Motorola Keylink:  Attach Motorola Keylink to your keys or any  other item and use the app to locate it when it is misplaced.<br><br>Manage your Moto Body profile, view wellness data, and get personalized insights with the new phone app &#x2013; now available for download. https://play.google.com/store/apps/details?id=com.motorola.omni",
+    "histogram": {
+        "1": 2684,
+        "2": 1104,
+        "3": 2309,
+        "4": 5318,
+        "5": 14777
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/t4zJ8GlaQWy49sYTr6PWbQe0flZjpKkG-H1LqyRC3q_406yMvdFIVDhhWiMq4B29Qrc=h310",
+        "//lh3.googleusercontent.com/lgQyuMehWtJNbHN8Gb4-U4IbXPd8FrbkDelrQCQooUkyjr0VdBBrfAkc2NqvXz5kqrw=h310",
+        "//lh3.googleusercontent.com/0jjZPgfc6QsSly68HQkgdH6CmzkFhls5F1T3WOmX2paorWVx5gl8Y_EdforXqjATyko=h310",
+        "//lh3.googleusercontent.com/nS_HZhe4d3pJajSq2eF9ax3EvMsMsqzwztaTE6cy_EjvWnTD9Le0YPxabAvVMgApEhQ=h310"
+    ],
+    "comments": [
+        "Useless junk for the keylink. I need to have the app open to detect my phone via the keylink. It's absolutely counterintuitive that when I have to launch the Keylink app kill running apps or reboot my phone. Failed to find my phone every single time I really needed to use the keylink for its main purpose.",
+        "What's the point of asking for a permission if I can't say NO??? This app should not need my location to work...Makes me think buying a Moto 360 was a mistake since I can't even control it's options now. Thanks Motorola",
+        "I m using moto pulse Bluetooth headphone, but the app always shows 70% battery status and I am not able to make and receive calls. Mobile - Moto e3 power",
+        "Every time I try to change the watchface it crashes in my S7 edge. Used to work great on my note 5  Update: uninstalled this trash app. I am now using a LG V20 and it continues to crash. I wish they would have fixed this by now. It used to be a great app Update again: this app still sucks on my note 8. Same issue",
+        "The last location thing isn't very accurate, and beyond that it isn't very useful. You can't map functions or set notification vibrations the way you can on LG's Talk/Tone app.",
+        "I don't know what's wrong with the app. It used to work properly all these days. But from two days it isn't even connecting with the Moto pulse headphones. What's wrong?! It won't even detect the headphones! Hell of a app!!!"
+    ],
+    "recentChanges": [
+        "Android 7.0 Nougat support.",
+        "Bug fixes and stability improvements."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.motorola.targetnotif&hl=en&gl=us",
+    "appId": "com.motorola.targetnotif"
+}

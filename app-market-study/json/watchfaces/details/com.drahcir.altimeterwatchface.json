@@ -1,0 +1,51 @@
+{
+    "title": "Altimeter Watch Face",
+    "summary": "A watch face for aviators styled after an aircraft altimeter.",
+    "icon": "//lh5.ggpht.com/2QfhxKLI1Mil-QfTuWYudUYhIdIzO9cbBJGXLoOj0yx6d7bv3PDuC55T7mSHzywbL4_8=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 9,
+    "developer": "Drahcir",
+    "developerId": "Drahcir",
+    "developerEmail": "support@drahciratops.com",
+    "developerWebsite": "http://drahciratops.com",
+    "developerAddress": "2518C Winchester Rd NW\nHuntsville, AL 35811",
+    "updated": "January 15, 2015",
+    "version": "1.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "Now you can get your aviation fix while checking the time! Made for aviators, this altimeter watch face features a working \"barber pole\" indicator like the one that normally indicates low vs high altitude. The indicator will show striped in the morning hours, and blank in the afternoon.Please contact me with any suggestions for improvements/features!Planned improvements:- Add working pressure (IN Hg) window",
+    "descriptionHTML": "Now you can get your aviation fix while checking the time! Made for aviators, this altimeter watch face features a working &quot;barber pole&quot; indicator like the one that normally indicates low vs high altitude. The indicator will show striped in the morning hours, and blank in the afternoon.<br><br>Please contact me with any suggestions for improvements/features!<br><br>Planned improvements:<br>- Add working pressure (IN Hg) window",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 6
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/TAIhzuwLTmLSWX0HOmyDNXoDOPTXC8M753MwGVgp0ZqksywcAPx3J9U26Dt4e1Wjxau9=h310",
+        "//lh5.ggpht.com/521jgz7NkGL711H-KtDb3iK26U-hKr8p6Wxl_epg-76bf1Vq7eIpxPJ810GqlcBytw=h310"
+    ],
+    "comments": [
+        "Altimeter does not work The app names is misleading, it does not have an altimeter display that actually reads altitude. Waste of money.",
+        "Love this watchface! Aviators and non-aviators alike will love this watchface at any altitude.",
+        "Looks good Not compatible with my iPhone 6, otherwise very cool",
+        "This watch face is great. It looks awesome on my Moto360!",
+        "Perfect for an aviator Great job on letting me be geeky with respect to android and aviation while simultaneously telling time!"
+    ],
+    "recentChanges": [
+        "Minor improvements to font on accent text markings to help mitigate artifacts"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.drahcir.altimeterwatchface&hl=en&gl=us",
+    "appId": "com.drahcir.altimeterwatchface"
+}

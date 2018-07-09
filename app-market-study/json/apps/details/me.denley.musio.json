@@ -1,0 +1,57 @@
+{
+    "title": "Musio for Android Wear",
+    "summary": "Play music on your Android Wear device, without your phone.",
+    "icon": "//lh3.googleusercontent.com/gsbn9kBSabkWw1WhkKd6RUxtzMZ-X94Q0svyQgDmUapK2qIcWp_2xoo-8JNRNoGhOPHr=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 2.6,
+    "reviews": 101,
+    "developer": "DMB",
+    "developerId": "DMB",
+    "developerEmail": "musio@denley.me",
+    "developerWebsite": "http://myapppolicy.com/app/musio",
+    "developerAddress": "PO Box 71\nBlack Forest, SA 5035\nAustralia",
+    "updated": "September 28, 2015",
+    "version": "1.0.6",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Musio is a music player for Android Wear devices. Pair your bluetooth speaker or headphones to your watch, and play music directly from your watch. Perfect when going for a jog without having to carry your phone, or when your phone is low on battery.To use this app you must have a smartwatch running Android WearFeatures:• Transfer music files from your phone to your watch• Play music directly on your watch, to bluetooth paired speakers/headphones• Copy playlist files (m3u files) to your watch from your phone.Feedback and feature requests are encouraged. Please don't hesitate to contact the developer with any issues or suggestions. This app is in continual development, and your support is appreciated!",
+    "descriptionHTML": "Musio is a music player for Android Wear devices. Pair your bluetooth speaker or headphones to your watch, and play music directly from your watch. Perfect when going for a jog without having to carry your phone, or when your phone is low on battery.<br><br><br><b>To use this app you must have a smartwatch running Android Wear</b><br><br><br>Features:<br>&#x2022; Transfer music files from your phone to your watch<br>&#x2022; Play music directly on your watch, to bluetooth paired speakers/headphones<br>&#x2022; Copy playlist files (m3u files) to your watch from your phone.<br><br><br>Feedback and feature requests are encouraged. Please don&apos;t hesitate to contact the developer with any issues or suggestions. This app is in continual development, and your support is appreciated!",
+    "histogram": {
+        "1": 51,
+        "2": 4,
+        "3": 6,
+        "4": 10,
+        "5": 30
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/jA1a7qV_eliGnr2LyQdkC6WUZjq9vf-hQ6PIYQZxv5bqlqcQJrJZEZ9_VcIRJhy3HxA=h310",
+        "//lh3.googleusercontent.com/96eGcqqvMmTFNMQXE_W58XYnZkHW8hx5CPTSoGJwKEMNOv6BQEg0amh84Qv2WcSRLLMb=h310",
+        "//lh3.googleusercontent.com/s2soBobz4X0W9h6bTnDi88d1eGpYGfPFHCEEmHuOvy12NJpOYAzj6JLJBWf0fbEjTBw=h310",
+        "//lh3.googleusercontent.com/fF3bOkG91_VcRFzE5roIR9sbraev0qk9_S2t61Ozs69NArRXSIYbCOuxCBVNsX8M=h310",
+        "//lh3.googleusercontent.com/iUfBvJmTwqRaXskKQot5z5RxUzg6-hq7iRWebXn91UwOTUSbyeK6oDGqXgju2WeySZ4=h310",
+        "//lh3.googleusercontent.com/m4ZNmGmrAPXdKu_L0-NJ6DgdF8HYGSKkt9XTtvlOB6QmPE77O-fE7CVZJV_ClFohk6Ff=h310",
+        "//lh3.googleusercontent.com/8TdiwM0NA8U6nioqTcsq2gfjbhh137LZ7tbI2hSeG9zWh22IiREIfZVRO1_DU1mJPZc=h310"
+    ],
+    "comments": [
+        "Great player for smartwatch After having issues with google play music and bluetooth connectivity, I dowloaded this program and it works without any issues on moto 360 gen 2. It is a little spartan in terms of the interface, but it works and is free!!  Improvements should include easier playlist integration, allow music to be loaded from SD storage and allow folders(albums) to be uploaded instead of clicking each song.",
+        "Usable Of the two apps I found that could play music stored on the watch without being connected to the phone, this one is better. The transfer interface is decent, but could be improved. Specifically, it does not support browsing files anywhere but on the phone's internal storage, so I had to copy all of the music I wanted to sync from my SD card. There is also no way to see what is on the phone or the sync progress without navigating through all the folders. I like that it supports playlists, but it is unclear how to create them; I had to use the debugger to find out where the files are saved and use absolute paths (/data/user/0/...) for each item in the playlist. Codec and tag support is good, so no re-encoding is necessary. It would also be nice if the player could be controlled by bluetooth.",
+        "Dissatisfied * Not Syncing   Having issues recently, it worked lovely before. Don't know what the problem is. I am unable to sync music files. It crashes a lot. Tried doing it for hours fir several days but failed. Help me with this asap. Emailed you guyz! :(",
+        "The Only App that HELPS me Listen to my #MUSIC on my #SmartWatch Sony SW3. #GoogleMusicPlay was trash. Others were complicated. I have this one for long time now. Despite few glitches, little alien & unknown to me like #PLAYLIST thingi & trouble deleting my already deleted folders on my #SmartPhone temp folder. Little Confused. Could be more powerful if could at least see thumb nailed view of the music being played full screen in HD, besides more options that are there in other #MusicApps and so on. But this is the best one & hope it stays. #DOES WHAT IT SAYS.",
+        "The entire app is too simple and primitive. No EQ for Wear player, not even a volume adjuster! This is absolutely useless!",
+        "Garbage app. Useable even opening the app. And I can't uninstall this app from my watch even I uninstalled the app from phone. Damn you developer."
+    ],
+    "recentChanges": [
+        "- Stability fixes"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=me.denley.musio&hl=en&gl=us",
+    "appId": "me.denley.musio"
+}

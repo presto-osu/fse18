@@ -1,0 +1,46 @@
+{
+    "title": "Catnip",
+    "summary": "A minimalistic offline flash card app.",
+    "icon": "//lh3.googleusercontent.com/ulz7uGhS5zeMSBCYQz1UWaOO4A0OhjeNVTt2FYA4QTnjNtpzdrb4183MWDoBX9Auww=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 3.7,
+    "reviews": 3,
+    "developer": "Enys Mones",
+    "developerId": "Enys+Mones",
+    "developerEmail": "enys.mones@gmail.com",
+    "developerWebsite": "http://enysmones.com",
+    "updated": "August 9, 2015",
+    "version": "1.1",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "Catnip is a simple flash card app, and it does only one thing: helps you in memorizing words. It is designed to be as simple as possible and practical in the same time. It is and will always be an ad-free app.You can add your own cards in the app and all of them will be stored on your mobile, categorized in different decks. If needed, decks can be exported in a convenient XML format in your Downloads folder, so you can send them to other devices as well.Catnip uses an SRS system to monitor your progress and shows you those cards that are weak. Also, important cards can be marked to appear more frequently than others.Not to mention that it runs also on your wearable, so you don't even need to grab your phone from your pocket.Please note that the app itself is offline, however, for anonymous error and crash analytics, occasional network connection is used.",
+    "descriptionHTML": "Catnip is a simple flash card app, and it does only one thing: helps you in memorizing words. It is designed to be as simple as possible and practical in the same time. It is and will always be an ad-free app.<br><br>You can add your own cards in the app and all of them will be stored on your mobile, categorized in different decks. If needed, decks can be exported in a convenient XML format in your Downloads folder, so you can send them to other devices as well.<br><br>Catnip uses an SRS system to monitor your progress and shows you those cards that are weak. Also, important cards can be marked to appear more frequently than others.<br><br>Not to mention that it runs also on your wearable, so you don&apos;t even need to grab your phone from your pocket.<br><br>Please note that the app itself is offline, however, for anonymous error and crash analytics, occasional network connection is used.",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/r8EaGMM3_iFBFD877ihi7KlQOajGHL3m57nfPctCMg4alm_hHQu6IsFyWehi6r4xEt0=h310",
+        "//lh3.googleusercontent.com/X3EsR5YxVmuhg7l05RYyEaez_egyQLFgmz0Z_8vmb7dAGycTrUP3SpvOJG71fB75p68=h310",
+        "//lh3.googleusercontent.com/yaBOoqmKn-IMCpSFawM0QAaZM3VMpyEvHugJBMvRYdS5Z-Ahu9Ml7wzWscmffZdoMxc=h310",
+        "//lh3.googleusercontent.com/OzGnmGVkNVCAZBNgl15Sn8nOJwifdXrcMI72WjTsf9xN7ZJZrs4IQOHVnqC2Vtxesw=h310"
+    ],
+    "comments": [],
+    "recentChanges": [
+        "Simplified permissions."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.macaque.catnip&hl=en&gl=us",
+    "appId": "com.macaque.catnip"
+}

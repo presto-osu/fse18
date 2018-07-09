@@ -1,0 +1,53 @@
+{
+    "title": "Word Clock Watch Face",
+    "summary": "A round Word Clock watch face for Android Wear.  Ideal for round watches.",
+    "icon": "//lh6.ggpht.com/GJSkfOtBvXmO7NYVNgJCXTv-cglCpkK0QjtMWArwEg-TQZ1GxS8L_njd5ZKqhjAK5jE=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.1,
+    "reviews": 38,
+    "developer": "Derek Anderson",
+    "developerId": "Derek+Anderson",
+    "developerEmail": "public@kered.org",
+    "developerWebsite": "http://kered.org",
+    "updated": "December 30, 2014",
+    "version": "1.1",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "I wanted a round Word Clock for my new Moto 360, but none existed.  So I wrote one.  Free for all - please rate / comment if you like it!BTW, shout-out to Dat for sharing how Word Clock looks on his awesome looking LG G Watch R!Also, note that word clocks generally don't have minute-level accuracy.  (This would require far too many words.)  This word clock works on a centered 5 minute interval.  So from 4:57:30 to 5:02:29 the clock will read \"IT IS FIVE O'CLOCK\".",
+    "descriptionHTML": "I wanted a round Word Clock for my new Moto 360, but none existed.  So I wrote one.  Free for all - please rate / comment if you like it!<br><br>BTW, shout-out to Dat for sharing how Word Clock looks on his awesome looking LG G Watch R!<br><br>Also, note that word clocks generally don&apos;t have minute-level accuracy.  (This would require far too many words.)  This word clock works on a centered 5 minute interval.  So from 4:57:30 to 5:02:29 the clock will read &quot;IT IS FIVE O&apos;CLOCK&quot;.",
+    "histogram": {
+        "1": 3,
+        "2": 0,
+        "3": 6,
+        "4": 10,
+        "5": 19
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/M-3P0B0a7c8lN5Xic0o_Oee18CHcEntrxdYodEEiozpgZbwS2a_a2yuTw0g--axKHA=h310",
+        "//lh6.ggpht.com/gTLablTi5s4-Fk7jq6ahFC0K6iyfOqwoN--Fm34ioEOaQ56hJKAHEeij2hleekuCyHk=h310",
+        "//lh5.ggpht.com/yg4OliuCjOLQsx4GttXZwzrrP3yzlpyou96VF7nBujkvTVutQbQFZ_PcjKFBxfuVKA=h310",
+        "//lh3.ggpht.com/D6lEJfiXOHuaYxya4CV0hQHPRCDINoiDzzSGhqUF4XKojm-ysgra35r1XL8xBbqoOgw=h310"
+    ],
+    "comments": [
+        "Ehh. Fill in the extra spaces. This is much like qlock two. But the fun behind it is that it looks like a mess of letters and the spaces insted of random letters don't give it the same feeling.",
+        "Material If like to see a material design settings menue on both, watch and ✆.",
+        "Love this!..would like to see battery info on there",
+        "Cool watch face its a very cool watch face but not accurate",
+        "Perfect Excellent watch face. Top add on for my moto 360",
+        "Nice clock"
+    ],
+    "recentChanges": [
+        "Tweaked the screen for the LG G Watch R (since it doesn't have the Moto360 style cutout at the bottom)."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.kered.wordclock&hl=en&gl=us",
+    "appId": "org.kered.wordclock"
+}

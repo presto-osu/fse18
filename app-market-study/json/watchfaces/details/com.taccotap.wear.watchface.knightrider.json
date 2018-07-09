@@ -1,0 +1,55 @@
+{
+    "title": "Knight Rider Watchface",
+    "summary": "Knight Rider Watchface for Android Wear",
+    "icon": "//lh3.googleusercontent.com/sCn8ePaGQDScx-TXxBHeTCC6uuik6pgRWZwPtzoHnPtY8ilPxMIHxc1Ey69n4WTCv78=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.1,
+    "reviews": 122,
+    "developer": "TaccoTap",
+    "developerId": "TaccoTap",
+    "developerEmail": "taccotap@gmail.com",
+    "developerWebsite": "http://www.taccotap.com/",
+    "developerAddress": "No.307, Yinming Rd., Kaohsiung City, Taiwan",
+    "updated": "July 9, 2015",
+    "version": "2.0.2",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "description": "The Knight Rider's watchface for your Android Wear.You can be the hero and talk to your supercar (OK GOOGLE) to defeat bad guys right away!* ONLY support Android Wear devices! (currently LG G Watch & Samsung Gear Live)* Currently only shows the 12-hours mode.* If PM is not shown up to the right of minutes, then it is AM time.* Support both LG G Watch & Samsung Gear Live.* Please feel free to contact me if any suggestion or feedback.* Comlink artwork used with permission from NRN Design, (C)2008 The Knight Rider Companion all rights reserved. (http://www.knightridercompanion.com)[Special Features] * ONLY available with some special customized supercar!* Lock opener* Audio/Video transmitter* Digital Camera* Electrical generation mode* Communicated with A.I. powered supercar.* Audio/Video playbacks* Homing beaconThanks,TaccoTap.",
+    "descriptionHTML": "The Knight Rider&apos;s watchface for your Android Wear.<br>You can be the hero and talk to your supercar (OK GOOGLE) to defeat bad guys right away!<br><br><br>* ONLY support Android Wear devices! (currently LG G Watch &amp; Samsung Gear Live)<br>* Currently only shows the 12-hours mode.<br>* If PM is not shown up to the right of minutes, then it is AM time.<br>* Support both LG G Watch &amp; Samsung Gear Live.<br>* Please feel free to contact me if any suggestion or feedback.<br>* Comlink artwork used with permission from NRN Design, (C)2008 The Knight Rider Companion all rights reserved. (http://www.knightridercompanion.com)<br><br><br>[Special Features] <br>* ONLY available with some special customized supercar!<br>* Lock opener<br>* Audio/Video transmitter<br>* Digital Camera<br>* Electrical generation mode<br>* Communicated with A.I. powered supercar.<br>* Audio/Video playbacks<br>* Homing beacon<br><br><br>Thanks,<br>TaccoTap.",
+    "histogram": {
+        "1": 41,
+        "2": 7,
+        "3": 18,
+        "4": 5,
+        "5": 51
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/SlvpGt9mPexcWj-4-cd9cKr_ALDJmAuUSIhqG_q-bed26KJt1mVQulPKMnnH8G7WOw=h310",
+        "//lh3.googleusercontent.com/K91XwrskAL42iN-nKj_KOQ_4BwTa4dJ-ITvIOy-kVcxeVe6h_mHxi_D3Me95USikvaRG=h310",
+        "//lh3.googleusercontent.com/tJ-O97lwUgSZQ4tuug5XKy_ZDbfJQsrawkYH03uxqGNnJKKfy-lbqk3ppinyS6ep3u_K=h310",
+        "//lh3.googleusercontent.com/NuhMSuDZpx0I1nUlmtgjjFZAoTVlvltiqMIA25f3rqf8DWLxGxuANQibLymiSgKexg=h310"
+    ],
+    "comments": [
+        "I'm having display issues I have a Sony SmartWatch 3... And it seems the time font is too big. The date and seconds don't fit. Can you help?",
+        "Doesn't work on my Moro. So disappointed No matter what I do this will not appear on my Moto smart watch",
+        "Used to love this watch face.  However, now the time shows up right shifted and down.  So all I can see is the time, but no date or seconds or AM/PM.  No battery icon either.",
+        "Not displaying properly I have an LG Urbane 2nd Edition and when I select this watchface the time and everything is off center and too big",
+        "Asus Zen has shifted display Asus Zen watch had time display offset making it difficult to read.",
+        "This watchface is absolutely brilliant.... When it works. I've got the LG G Watch, but it only wants to work half the time."
+    ],
+    "recentChanges": [
+        "Fix icon display.",
+        "Add phone app display."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.taccotap.wear.watchface.knightrider&hl=en&gl=us",
+    "appId": "com.taccotap.wear.watchface.knightrider"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Wear Tuner",
+    "summary": "Generate a frequency or tune your guitar from your Android Wear watch!",
+    "icon": "//lh3.googleusercontent.com/IxAIbvVOahij6QgxFd3Tw77PV80tYiayzYMu5fp_dXUP0mqfdAWzBRimOOuGPw2FP54=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 2.8,
+    "reviews": 4,
+    "developer": "Konrad Iturbe - Chernowii",
+    "developerId": "8327692895936242590",
+    "developerEmail": "mail@chernowii.com",
+    "developerWebsite": "http://chernowii.com",
+    "developerAddress": "The internet\nAFK: Calle Timoteo Padros 14, 28200 El Escorial, Madrid, Spain",
+    "updated": "March 8, 2016",
+    "version": "1.1",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "This app has two main functions: Generating a frequency, from 1K Hz to 20K Hz and tuning your guitar. Make sure your watch has hardware speaker and Android Wear 1.4+ (MM 6.0.1+). Current watches with speakers: Huawei Watch, ASUS ZenWatch 2 Large gen.",
+    "descriptionHTML": "This app has two main functions: Generating a frequency, from 1K Hz to 20K Hz and tuning your guitar. Make sure your watch has hardware speaker and Android Wear 1.4+ (MM 6.0.1+). Current watches with speakers: Huawei Watch, ASUS ZenWatch 2 Large gen.",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/J2vSIWeM6fKZx1aFKvvYq7CkWdhPa7qTFHy71Sag-Jsquxuj7q8qdx1zDZjhg4FNo1A=h310",
+        "//lh3.googleusercontent.com/dxD5dvXu1WuhyZCKPx_h_AzUzbejk-SitDE6YjTknp42J4Tf4ZUkDXSKT8MI5R26tg=h310",
+        "//lh3.googleusercontent.com/xj8bu_CqWgL-bvjY-PaPqR0935e7E9UvffAau8n00sL26BxIUtKjNAoCN1TdKyXIhzM=h310",
+        "//lh3.googleusercontent.com/Fv_n521WZnnMWyH3dk3m3TqzLWsA_skMhFWu_hKOM7XBpRK95XzzKxjQzuZ0yPSlZ4Fz=h310"
+    ],
+    "comments": [
+        "Does not work on Moto 360.2 \"Watch does not have a speaker\" error and won't uninstall from my watch."
+    ],
+    "recentChanges": [
+        "Fixed a bug where two or more sounds were played together, also fixed the frequency generator bug"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.chernowii.weartuner&hl=en&gl=us",
+    "appId": "com.chernowii.weartuner"
+}

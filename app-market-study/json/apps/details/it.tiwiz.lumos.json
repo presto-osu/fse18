@@ -1,0 +1,48 @@
+{
+    "title": "Lumos",
+    "summary": "Manage Wear brightness in one click",
+    "icon": "//lh5.ggpht.com/yRbR_OwWEf8pGYVX3W7pOomlpAkdGU03p37P2LPVUIPlaReKygw_m9THvgC-uk6Fx7E=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4,
+    "reviews": 12,
+    "developer": "Roberto Orgiu",
+    "developerId": "Roberto+Orgiu",
+    "developerEmail": "roberto.orgiu@gmail.com",
+    "developerWebsite": "https://github.com/tiwiz/Lumos",
+    "developerAddress": "Largo Stazione 3\nVillastellone\n10029\nTorino\nItaly",
+    "updated": "November 18, 2014",
+    "version": "1.0",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Changing the brightness on Android Wear can be a pain, so we created Lumos! This first release allows you to literally start brightness on your wrist and select the desired brightness with a couple of taps. For maximum or minimum brightness, simply press and hold. This project is totally free and open source. Who is behind Lumos? • UX Designer: Kim Does [http://kimdoesdesign.nl/] • Graphic Designers: Lydia Selimalhigazi [https://www.behance.net/LysDesign] and Caroline Smith [https://dribbble.com/ihatepeas]• Developer: Roberto Orgiu [https://github.com/tiwiz]",
+    "descriptionHTML": "Changing the brightness on Android Wear can be a pain, so we created <b>Lumos</b>! <br><br>This first release allows you to literally <i>start brightness</i> on your wrist and select the desired brightness with a couple of taps. For maximum or minimum brightness, simply press and hold. <br><br>This project is totally free and open source. <br><br><b>Who is behind Lumos?</b> <br>&#x2022; UX Designer: Kim Does [http://kimdoesdesign.nl/] <br>&#x2022; Graphic Designers: Lydia Selimalhigazi [https://www.behance.net/LysDesign] and Caroline Smith [https://dribbble.com/ihatepeas]<br>&#x2022; Developer: Roberto Orgiu [https://github.com/tiwiz]",
+    "histogram": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 8
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/S9smKiihvkmDtqdZbzV1517QhjMi4FTDiAELzXABrIKfvyab1kO1GZHfY7ZjkqtFkeA=h310",
+        "//lh4.ggpht.com/VLcwfwE9nmHOGjf5EE9_e-vwyGQ-THxnyZdnLkvAzCtsASkRlguO9VI_L-NRfi9CQ7M=h310",
+        "//lh6.ggpht.com/svuU7lyQcaezLGa0JA8ns-Bt2Ck7VfV3_8_zcN8nL3MXohLxfVG2xJ7BlWcn4dcSww=h310",
+        "//lh5.ggpht.com/-jI85m3sLZMtL_AiZQp-4kujqYPb3rKHsnWJv4dFok59va9G1B6wJSZ4N9ccraXWaaI=h310",
+        "//lh4.ggpht.com/wqbu36XYyu7eL1x8v8LDiUIwedHP-tGkIcTUPepv00ACd2SFlddENsI3CR8-tTvm3A=h310"
+    ],
+    "comments": [
+        "Did not work on my 1st gen Moto 360 Tapped the up & down buttons but nothing happened right away. Display did get darker, but not as I pressed the buttons. Too inconsistent."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=it.tiwiz.lumos&hl=en&gl=us",
+    "appId": "it.tiwiz.lumos"
+}

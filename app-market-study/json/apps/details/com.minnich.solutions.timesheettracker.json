@@ -1,0 +1,58 @@
+{
+    "title": "Timesheet Tracker (+ Wear App)",
+    "summary": "Tracks your timesheets and status reports for the week. Works with Android Wear.",
+    "icon": "//lh6.ggpht.com/ZZXMLSwDCZ8v6b5PMyfb995frpJWSgzlwzEmvGoBwFdbfrm69fm1xjdk71YjlhekFWY=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 2.8,
+    "reviews": 6,
+    "developer": "Sarah Minnich",
+    "developerId": "Sarah+Minnich",
+    "developerEmail": "sarah@minnich.solutions",
+    "developerWebsite": "http://minnich.solutions",
+    "updated": "September 3, 2014",
+    "version": "1.5",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "Timesheet Tracker allows you to clock in and out from your mobile device or Android Wear watch. You can enter status reports as often as you want for each day. The Timesheet Tracker will remind you during normal work hours to enter your time, but dismiss for at least 4 hours so that you aren't constantly bugged with reminders. Using Google's speech recognition, you can also enter quick status blurbs from your Android Wear watch. You can email yourself and others your weekly time sheet anytime.Additional Notes: You do not have to have an Android Wear watch to use this app :) It is just an additional feature for those with Android Wear watches.Please let us know if you have any issues with the app! We are planning a paid app with Google Drive backups, automated emails, and enterprise features for companies or groups to manage multiple people in real time. We are keeping this one free and simple for the convenience of users who want to clock in and go!",
+    "descriptionHTML": "Timesheet Tracker allows you to clock in and out from your mobile device or Android Wear watch. You can enter status reports as often as you want for each day. The Timesheet Tracker will remind you during normal work hours to enter your time, but dismiss for at least 4 hours so that you aren&apos;t constantly bugged with reminders. Using Google&apos;s speech recognition, you can also enter quick status blurbs from your Android Wear watch. You can email yourself and others your weekly time sheet anytime.<br><br>Additional Notes: You do not have to have an Android Wear watch to use this app :) It is just an additional feature for those with Android Wear watches.<br><br>Please let us know if you have any issues with the app! We are planning a paid app with Google Drive backups, automated emails, and enterprise features for companies or groups to manage multiple people in real time. We are keeping this one free and simple for the convenience of users who want to clock in and go!",
+    "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 1
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "3.0 and up",
+    "androidVersion": "3.0",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/GqvHaqp1dBYOIjZjeZ_R8GoCQZB8nHLcasu-cHNXZPkTaVq2vkcQlNenvsa4sKEd5w=h310",
+        "//lh6.ggpht.com/Vex_A_-7AAfFaoCzpiHqW2TFfCM2YfHXgwDN1moBLED60Q00Se2TdpmT40Ru_l2vLKY=h310",
+        "//lh6.ggpht.com/eNdhV8sGy94hVE5MoZlWveDg1gruH1GdhFgt4900kz1IQvfcEHHWeDbPETvBN3FV_LQ=h310",
+        "//lh5.ggpht.com/W_VmhIIrbk4W2bF7vDfh60csoOMYKmPngKhDb7C7x3sS0ttfnzV9GXs7RjF7QmaNSNQ=h310",
+        "//lh4.ggpht.com/uzpg2pQ5ecLW7umNWiua9ZK-hnM2lXwyav2VZTSWhu6M9RPzMQVnexZzoULBkL2bso8=h310",
+        "//lh3.ggpht.com/MUdAhdxV6_0PJsZhHaK1f0FzODYyKL1jwvoQqem3ZemS_Ml2-b3MY8QET96q8BoZgJfY=h310",
+        "//lh5.ggpht.com/iNPz79MWcdWT2xURyz4HLlgRLB4CNeh_4jev1GTe_aZOVUBgY87oVvVVBaNJqQYWTIQR=h310",
+        "//lh4.ggpht.com/-VMr-uSym3wOT_FaVX4Dg39pB7Si-Tt2OjBrz2v-nBKbJST7TYQMBSopy-bF6XIkQCE=h310"
+    ],
+    "comments": [
+        "A bit odd but doesn't actually record the time for me. Found another app that works with my S3 gear so this is being uninstalled sadly.",
+        "Useful time tracking tool for freelancers I like it because it is free (no ads), easy to learn/use, doors not require ANY permissions, and works on all my Android phones/tablets (including my 2013 Nexus 7 running Android L).",
+        "pretty handy very good for a basic time tracking tool.  There are several nifty features that are not obvious but are useful if you can find them. A little polish and some more configuration options would make this 5 stars",
+        "Keep on closing....Please fix!"
+    ],
+    "recentChanges": [
+        "* General bug fixing",
+        "* Added options for notifications",
+        "* Added ability to remove timesheets",
+        "* Cleaned up hour formatting"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.minnich.solutions.timesheettracker&hl=en&gl=us",
+    "appId": "com.minnich.solutions.timesheettracker"
+}

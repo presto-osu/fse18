@@ -1,0 +1,55 @@
+{
+    "title": "Paddle Pro : Android Wear",
+    "summary": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+    "icon": "//lh4.ggpht.com/_SyB_BjWYDBHUFG50fwQoAA91KkchBD1bO29nCtGiaV8U5RhoPq5OWhJDIZudpmb=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.4,
+    "reviews": 231,
+    "developer": "Oleksiy Martynov",
+    "developerId": "Oleksiy+Martynov",
+    "developerEmail": "3martynov@gmail.com",
+    "developerWebsite": "https://plus.google.com/+OleksiyMartynov",
+    "developerAddress": "138 Smithwood dr\nToronto Ontario Canada",
+    "updated": "July 19, 2014",
+    "version": "1.2",
+    "genre": "Arcade",
+    "genreId": "GAME_ARCADE",
+    "description": "A classic paddle ball game for Android Wear devices.Now you can also play on your mobile devices.Note:Horizontal swipe to the right is default gesture in Android Wear that cannot be intercepted therefore you have to be careful while playing.",
+    "descriptionHTML": "A classic paddle ball game for <b>Android Wear</b> devices.<br>Now you can also play on your mobile devices.<br><br>Note:<br>Horizontal swipe to the right is default gesture in Android Wear that cannot be intercepted therefore you have to be careful while playing.",
+    "histogram": {
+        "1": 33,
+        "2": 26,
+        "3": 54,
+        "4": 50,
+        "5": 68
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh5.ggpht.com/jsZZnXZg6x6uMLTYmdXsTrKYoltfuaJ823NXSnkoKngbR_sVeyVbcQvaKpDAIwa8Mjnf=h310",
+        "//lh6.ggpht.com/Ntl3mXCzoU3th_VyKxkDLFfjLdgFLtM67MlTi2nRVNlSmCR_7CLRHN5-Kh04x71rfWs=h310",
+        "//lh3.ggpht.com/Lthn4OXT5PKElHG6oC9s2z_v9vhzEx5neWM04-mmV8XDmt7e3oDfXNfwOygTF-DBRSI=h310"
+    ],
+    "comments": [
+        "Keen I only looked for something like this so I can be like commander keen during his off hours lol I love this if only it was in phosphorus green then it would get five stars",
+        "Never connected Lg g watch (without r) just never opens sicks uninstall this",
+        "Good game It's a fun game for when I'm bored I would give it 5 stars but on android wear it's too fast and I lose easily",
+        "Fun time waster. Would like it to only start once you pick up the paddle.",
+        "Great! But.. I would have given 5 stars but it would be nice to have an option in the settings to adjust for a round style watch.",
+        "It's very entertaining! It works great on my LG G watch!  Great little game to pass time."
+    ],
+    "recentChanges": [
+        "-score count bug fixed",
+        "-collision detection improved",
+        "-now you can play from phone as well as from the watch"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=martynov.com.paddlepro&hl=en&gl=us",
+    "appId": "martynov.com.paddlepro"
+}

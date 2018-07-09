@@ -1,0 +1,59 @@
+{
+    "title": "ASUS Music",
+    "summary": "Just follow the beat!",
+    "icon": "//lh6.ggpht.com/jDgTBs2Cd7xd8HQovLenBhLn8E9GjommIC7l97JSu1Toxad85h7v9YAtndBjQp9VeCA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000000,
+    "maxInstalls": 50000000,
+    "score": 4.6,
+    "reviews": 288074,
+    "developer": "ZenUI, ASUS Computer Inc.",
+    "developerId": "6704106470901776285",
+    "developerEmail": "zenui@asus.com",
+    "developerWebsite": "http://www.asus.com",
+    "developerAddress": "NO. 400, Sec. 7, Chende Rd., Beitou Dist., Taipei 112, Taiwan",
+    "updated": "December 6, 2017",
+    "version": "2.0.0.51_171127",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Asus Music app sets your music free! Create playlists and queue tracks easily from content stored on your phone, media server or cloud storage. Enjoy a feast of music anywhere, anytime!",
+    "descriptionHTML": "Asus Music app sets your music free! Create playlists and queue tracks easily from content stored on your phone, media server or cloud storage. Enjoy a feast of music anywhere, anytime!",
+    "histogram": {
+        "1": 7074,
+        "2": 4886,
+        "3": 17634,
+        "4": 49282,
+        "5": 209198
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/dK74b5r1IdxXrPDzLjLmSnLWuZcSVv-KWb1Pjf8gB0j8Zlfav5HZSW6tRciG-N-2Og=h310",
+        "//lh3.ggpht.com/EBzObzWg8S8ezI6Qj3gpRs8va3lmhsa01gj4_QMpeuPZsw9_Z20maVOcI-jt2oJQxg=h310",
+        "//lh5.ggpht.com/NFSdtwlVYOr1DPsz0LTlSwUija0BUHal9ikNa0ZNUggb2tWAHApNOt07V0HPRGgcYEid=h310",
+        "//lh4.ggpht.com/7MOeAGb96qybt0mj-DWLzGRuMNaMSPLEuu1MmwmmVOBwFp-57lm_FWn6bL0VpMtDXjk=h310",
+        "//lh6.ggpht.com/Hm1ZndVu0diNnQadfXNcFfeDrzBqMzL8F4sIl3OF43OE3ieqcgnIe9JQ82NN76arhhA=h310"
+    ],
+    "comments": [
+        "Works Fine but Buggy When I first launched it, it kept force closing. After a few reboots managed to keep that at bay. On a few occassions it wont project the sound out to my BT speaker, had to enable and disable BT a few times till it works. The EQ control is good, maybe thanks to the good audio hardware bass is maintained even at full volume on headphones.",
+        "I really like this player, but... One thing sets me back from using this. The Equalizer.   Updates after updates equalizer stays the same. Any idea to make it good like the other top music players out there? I would love to get back to Asus Music Player :)   Also need to know if this player supports Replaygain tag.... Great work guys...",
+        "Album Art issue! Im using Asus Zenphone personally and I liked the pre-installed Asus music player. However, im a weird issue of \"Album Art\" under \"Edit Info\" of songs. It show same \"Album Art\" for same songs from different albums. Could you please add a feature like Sony Xperia where music player auto update or auto correct all songs information with their correct album art. Thanks!",
+        "Used to be the best music player!!! Please ASUS Team, i don't know what's going on but recently music player often stopped while i opened several apps (mostly social media such as line, whatsapp, twitter etc). Please find solution for this issue. I wish i and other zenfone user who might facing same issue are able to experiencing the best music player once more. Thanks.",
+        "A lot of bugs. First, when I open 'Folders', all of the folders that are shown become double. When I close the app and I open it, it becomes normal. But when I close and open it again, the error happens.  The second bug is when the song is played, the display time of the song doesn't run. It stuck on 00:00, although the song runs well. For the beginning until the end of the song, it still shows us 00:00.  The third bug is when I play one song, and then I click back, the song that is played on the screen is the song below the song. For the example, I play \"I Love You\". The song below \"I Love You\" is \"Zombie Everywhere\". When \"I Love You\" is running, the screen shows \"Zombie Everywhere\".  I don't know how to explain it clearly, but I hope Asus fix it and it will be perfect.  The last, please add 'instrumental singing version' built in.",
+        "Please add these useful features. 1. Add forward/rewind from notification bar or the song player live bar.                                2. During continuous playback, Name of song to be displayed automatically of every new song in notification bar. 3. Recorded audios to be added automatically to music player - newly added. 4. Default player for playing downloaded files to be music player and not the live bar that pops up to play everytime (not in background). 5. How can we play whatsapp mp3 files through music player? Having a difficulty."
+    ],
+    "recentChanges": [
+        "↑ ★ ★ ★ ★ ★ ↑",
+        "Like this app? Keep us inspired by giving a 5-star rating!",
+        "Version : V2.0.0.47_151201",
+        "1.  Updating multi-language string",
+        "2.  Performance improvement and error fix."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.asus.music&hl=en&gl=us",
+    "appId": "com.asus.music"
+}

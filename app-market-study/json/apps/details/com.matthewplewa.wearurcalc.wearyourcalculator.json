@@ -1,0 +1,49 @@
+{
+    "title": "CalcWear",
+    "summary": "A great calculator add-on for any Android Wear Smart Watch!",
+    "icon": "//lh4.ggpht.com/a8KGuwtKSaHTOkGhFQAbNA0UfOXHRix_FCBAOMkgVJLUu3HPqopbbH5IacTgDXnSsNc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.5,
+    "reviews": 4,
+    "developer": "MPlewa",
+    "developerId": "MPlewa",
+    "developerEmail": "PlewaApps@gmail.com",
+    "updated": "September 18, 2014",
+    "version": "1.1.2",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "description": "One of the first Android Wear calculator apps designed specifically for round smart watch displays.WARNINGThis has been created specifically with the moto 360 in mind. NOW SUPPORTS SQUARE.... I think..... shoot me an email with photos if it isn't correctly working!",
+    "descriptionHTML": "One of the first Android Wear calculator apps designed specifically for round smart watch displays.<br><br><br>WARNING<br>This has been created specifically with the moto 360 in mind. <br><br>NOW SUPPORTS SQUARE.... I think..... shoot me an email with photos if it isn&apos;t correctly working!",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/wHSIIDQPhQbQ97lau8qGQhc9R76aptwg1FWA6Y_8DXZC2MLUT31HOQFPTRwW66nULIs=h310",
+        "//lh6.ggpht.com/jObS7dSIESpCZHEryUawChFoVN6bvp-IjPSSf84qB4JGZYmeyQBK_2fyl79XZLpzZ3k=h310"
+    ],
+    "comments": [
+        "I love this calculator app! The app works perfectly, probably recommend this app! I hope this app will not be abandoned and will have a lot of users!",
+        "Good start. Layout is a little off. ui needs some work."
+    ],
+    "recentChanges": [
+        "Support for square watch faces! (added the xml file this time...)",
+        "Fixed memory function on the application.",
+        "Added ability to do an operation on your answer.",
+        "BUG SQUASHING!!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.matthewplewa.wearurcalc.wearyourcalculator&hl=en&gl=us",
+    "appId": "com.matthewplewa.wearurcalc.wearyourcalculator"
+}

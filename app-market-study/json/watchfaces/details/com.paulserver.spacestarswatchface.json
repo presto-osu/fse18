@@ -1,0 +1,57 @@
+{
+    "title": "Animated Starfield Watch Face",
+    "summary": "An animated and configurable Starfield Watch Face for your watch!",
+    "icon": "//lh3.googleusercontent.com/u8y1V4vf5p19NqV2h-0zFpyDFuGSy-FjAxdIwlfiNY8PNFfntSJWJ2s2jdj_i-ENqkuN=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 3.8,
+    "reviews": 81,
+    "developer": "paulserver.com",
+    "developerId": "6662602780538406550",
+    "developerEmail": "info@paulserver.com",
+    "developerWebsite": "http://www.paulserver.com",
+    "developerAddress": "Via Fratelli Cairoli, 19\n13900 Biella",
+    "updated": "February 23, 2018",
+    "version": "Varies with device",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "size": "Varies with device",
+    "description": "An animated deep space starfield, directly on your watch face!In the configuration panel you can choose speed, stars number and widgets to customize the animation in your own way.Added new premium features, like: digital display, steps counter, watch battery level, phone battery level, compass and current date visualization! Now, you can also configure widgets colors.Compatible with round and square watches and all Wear versions, included Wear 2.0",
+    "descriptionHTML": "An animated deep space starfield, directly on your watch face!<br>In the configuration panel you can choose speed, stars number and widgets to customize the animation in your own way.<br><br>Added new premium features, like: digital display, steps counter, watch battery level, phone battery level, compass and current date visualization! Now, you can also configure widgets colors.<br><br>Compatible with round and square watches and all Wear versions, included Wear 2.0",
+    "histogram": {
+        "1": 14,
+        "2": 2,
+        "3": 8,
+        "4": 16,
+        "5": 41
+    },
+    "offersIAP": true,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/6juSzdYCGyENMyIAh_thL0einqHLML6LAv3xMVomF0aMEkJ9Kv0Jt8h23wh1Ig7PmEmA=h310",
+        "//lh3.googleusercontent.com/pWF86y-fqtFAXd41jC87ph5aJyvBych1MnZ4AqQSSLykqM2a7IhobS3S3VEcByQTwwI=h310",
+        "//lh3.googleusercontent.com/mWrctrXoRTfB81GPxB3kfQ4LRdgargMqIXajSF2P8W-wFVjGmvHV82LiJ_SWQvya-A=h310",
+        "//lh3.googleusercontent.com/pFa8Wd7x1Rxj5m_GzJzcNyHDk9d42yiN4Oo97RdpoNNWDEXQExpea7gm55fqCJCOv7ib=h310",
+        "//lh3.googleusercontent.com/qJFRNSc4ymsQNDwvARJBH8f8gaMhFCWrFHZqcxBpku85HqgXAlePZuWt9jjiqJvhDFs=h310",
+        "//lh3.googleusercontent.com/qSLfb5Rc-Hz57jpRWl3FJdIlR3sv3EtnweVjY-yVoRn-Pxku3vedaXaFCphUgE04MXQ=h310"
+    ],
+    "comments": [
+        "Help me please, i want to use compass from this face complications but it didn't work, i don't know why. I really like this theme so i paid, i use fossil q explorist btw.",
+        "For some reason it 0 for noon and midnight. It should say 12 for both when using a 12 hour face and should only say 0 for midnight on 24.",
+        "Amazing!!!!",
+        "What happened?! You updated and now the font is different and the added complications are all over the place. Simplify. You had it right the first iteration. Now I've got a contact on the bottom right of my screen and a battery complication covering the hour.... I used to love this. I'll change review when you go back to the better version.",
+        "Was great before the update. Won't let me use complications without having me pay, again. Guess I'll just switch like everyone else has.",
+        "Thought it would be great - \"configurable\" suggests AW 2.0 complications control - NOT so. So if you plunk down your $, don't plan on configuring your watch face complications. (update) A bump up in stars for new configurability, appreciate an active developer."
+    ],
+    "recentChanges": [
+        "Fixed midnight/noon for 12 hours format"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.paulserver.spacestarswatchface&hl=en&gl=us",
+    "appId": "com.paulserver.spacestarswatchface"
+}

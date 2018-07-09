@@ -1,0 +1,46 @@
+{
+    "title": "Metronome for Wear",
+    "summary": "A metronome for Android Wear (Watch) users.",
+    "icon": "//lh6.ggpht.com/SEfFHJAB3lz43mAB36ATw7qDUkCY-39VBjo0rlV9lW_9DQbJseJMVxbkaYlmqESGUO4=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 3.8,
+    "reviews": 6,
+    "developer": "Kenny Leftin",
+    "developerId": "Kenny+Leftin",
+    "developerEmail": "kjleftin@gmail.com",
+    "developerWebsite": "http://www.kjleftin.com",
+    "updated": "November 27, 2014",
+    "version": "1.0",
+    "genre": "Music & Audio",
+    "genreId": "MUSIC_AND_AUDIO",
+    "description": "Keep perfect time while keeping both hands free. Tap any BPM, and your Android Wear watch will buzz to the beat. Great for guitar, drums, or any instrument!",
+    "descriptionHTML": "Keep perfect time while keeping both hands free. Tap any BPM, and your Android Wear watch will buzz to the beat. Great for guitar, drums, or any instrument!",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 3
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Unrated",
+    "screenshots": [
+        "//lh6.ggpht.com/8H7ZHUZBKr4Lzbl7IHynMH_b6tRU0vCeaMTtApO5Orllc147p0iI-CWdRJ0MCKvQJQ=h310",
+        "//lh3.ggpht.com/zfvZeqiEGaKI4zkWRUg2VMlPXKr5f8gM4-wxcpLuWXvRuwZr45VsA0V6X4Vtuz5WXjw=h310"
+    ],
+    "comments": [
+        "Can't set specific tempo Wants you to tap a tempo to set it. If I knew the exact tempo I wouldn't need this. It also has no pause or stop option so it's either running and on, or stopped and off. Very annoying to have to do that every time you stop and go back over a section.",
+        "Could use 1st beat marker Like a stronger vibration and a flash of the screen to indicate the 1st beat of the bar. Otherwise very solid! Tap tempo is the best!",
+        "Great app!"
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kjleftin.metronome&hl=en&gl=us",
+    "appId": "com.kjleftin.metronome"
+}

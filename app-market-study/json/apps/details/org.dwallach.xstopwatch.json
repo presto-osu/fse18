@@ -1,0 +1,54 @@
+{
+    "title": "XStopwatch & Timer (Wear 1.0)",
+    "summary": "Android Wear stopwatch and timer app that publish to compatible Wear watchfaces.",
+    "icon": "//lh5.ggpht.com/43uVnm4SBy_Py1bjDEx-Ue4klxU-xr1-Au7Hd59GbWDp-Nsz1rMTv9s1k-xt29wjJw=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500,
+    "maxInstalls": 1000,
+    "score": 4.3,
+    "reviews": 7,
+    "developer": "Wallach Studios",
+    "developerId": "Wallach+Studios",
+    "developerEmail": "dwallach+xstopwatch@gmail.com",
+    "developerWebsite": "http://www.cs.rice.edu/~dwallach/xstopwatch/",
+    "developerAddress": "P.O. Box 1892, MS 132\nHouston, TX 77251-1892",
+    "updated": "February 13, 2016",
+    "version": "release2a",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "XStopwatch & Timer are a pair of apps (installed together) for Android Wear that implement a stopwatch (counting upward from zero) and a timer (counting down and buzzing at zero). What makes them special is that they publish their information for compatible watchfaces to display. For an example watchface that works together with XStopwatch & XTimer, you may enjoy CalWatch.Note: this app runs on Android Wear 1.0 watches (e.g., LG G Watch, Samsung Gear Live, Motorola 360) and does NOT run on Samsung's Tizen watches (Gear Fit, Gear 2, Gear S), Pebble watches, or any other smartwatch devices. For Android Wear 2.0, a new version is coming soon.A few cool features• You can say \"Ok Google, set a timer for five minutes\" and XTimer will do the right thing. You can also say \"Ok Google, start stopwatch\".• XStopwatch and XTimer will pop up notifications with a working pause/play button. You can swipe down to hide them, as with any notification, but you'll still know the timer or stopwatch is going when you're using a watchface that works with them.• When you're running XStopwatch, you can click on the timer icon to switch to XTimer, and vice versa. • Unlike many other timers, XStopwatch and XTimer never accidentally reset themselves because you perhaps dismissed the notification. You can reboot your watch, and the timer or stopwatch will be just like you left them. Of course, you can always go to the app and hit \"X\" to reset things.PrivacyXStopwatch & XTimer collect no personal information. They don't even require Internet permissions.Wear DevelopersThe specification and example code for how a watchface listens to XStopwatch & XTimer is open and available for all Wear developers and the source code to XStopwatch & XTimer is also open source, which will help you particularly if you're working on your own stopwatch or timer app. See the link below for details.http://www.cs.rice.edu/~dwallach/xstopwatch/",
+    "descriptionHTML": "XStopwatch &amp; Timer are a pair of apps (installed together) for Android Wear that implement a stopwatch (counting upward from zero) and a timer (counting down and buzzing at zero). What makes them special is that they publish their information for compatible watchfaces to display. For an example watchface that works together with XStopwatch &amp; XTimer, you may enjoy <a href=\"https://play.google.com/store/apps/details?id=org.dwallach.calwatch\">CalWatch</a>.<br><br><i>Note: this app runs on <b>Android Wear 1.0</b> watches (e.g., LG G Watch, Samsung Gear Live, Motorola 360) and does NOT run on Samsung&apos;s Tizen watches (Gear Fit, Gear 2, Gear S), Pebble watches, or any other smartwatch devices.</i> For Android Wear 2.0, a new version is coming soon.<br><br><b>A few cool features</b><br><br>&#x2022; You can say &quot;Ok Google, set a timer for five minutes&quot; and XTimer will do the right thing. You can also say &quot;Ok Google, start stopwatch&quot;.<br><br>&#x2022; XStopwatch and XTimer will pop up notifications with a working pause/play button. You can swipe down to hide them, as with any notification, but you&apos;ll still know the timer or stopwatch is going when you&apos;re using a watchface that works with them.<br><br>&#x2022; When you&apos;re running XStopwatch, you can click on the timer icon to switch to XTimer, and vice versa. <br><br>&#x2022; Unlike many other timers, XStopwatch and XTimer never accidentally reset themselves because you perhaps dismissed the notification. You can reboot your watch, and the timer or stopwatch will be just like you left them. Of course, you can always go to the app and hit &quot;X&quot; to reset things.<br><br><b>Privacy</b><br><br>XStopwatch &amp; XTimer collect no personal information. They don&apos;t even require Internet permissions.<br><br><b>Wear Developers</b><br><br>The specification and example code for how a watchface listens to XStopwatch &amp; XTimer is open and available for all Wear developers and the source code to XStopwatch &amp; XTimer is also open source, which will help you particularly if you&apos;re working on your own stopwatch or timer app. See the link below for details.<br><br>http://www.cs.rice.edu/~dwallach/xstopwatch/",
+    "histogram": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/eifMv3WGjvmTZ4MVwJZIDjJ0VB3tWPGNDrVVXdT4Atf1M_LC3PsL9Ey9w4eaSq2U0hw=h310",
+        "//lh4.ggpht.com/Zy6Qx7UmXKSA6pSdwCC8XRiuiOgmmarOWDekCus9gCXGnpAjTXVXWo5sddJw2IgPyQ=h310",
+        "//lh3.googleusercontent.com/OS3yqb2KChu1lHHNetWQbBBEz-UvuGhz0rcOISoYT1P3bOB4I8dsHHHjPGxDhnOksrbF=h310",
+        "//lh3.googleusercontent.com/Xk2p6byXXBG5cQ5jj10zbiaEzzrLjSyFO4AKHjlDhkup9HzdnKh4eaHK2m9z0eV72Gk=h310",
+        "//lh3.googleusercontent.com/NUP1qsnQHmJMdXVtMcFCs6JLmfJyzy4accM8xjvnCQid0VrvYu1GrsM8AVksV94LEEg=h310"
+    ],
+    "comments": [
+        "UPDATE: the developer responded and found that my anomaly only happens on the LG G Watch. He's working on it. 4-stars for quick response. 5 if I like it when it's finished :-)  So, as he told me, Stay Tuned...   As I discovered, and the description says, I can use \"OK Google\" and tell it what I want, and XTimer will respond. So, \"OK Google, Set a 22 minute and 30 second timer\" will kick off a timer to time who knows what... Or cares, right?   Give it a try, if you have a G Watch, and if you can't use the Timer on your watch, and it's not a G Watch, please post a quick comment (which will work until there are so many downloads the dev can't keep up with comments).",
+        "doesn't work !!!!!"
+    ],
+    "recentChanges": [
+        "2a: fixed some minor bugs",
+        "2: updated for Android Marshmallow, added \"OK Google, start stopwatch\" support",
+        "1c: worked around a Wear bug on LG watches",
+        "1b: first public release"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=org.dwallach.xstopwatch&hl=en&gl=us",
+    "appId": "org.dwallach.xstopwatch"
+}

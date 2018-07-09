@@ -1,0 +1,59 @@
+{
+    "title": "DART Wear",
+    "summary": "Get the next DARTs from your nearest station right on your wrist!",
+    "icon": "//lh5.ggpht.com/ejqSTOlIrsm0hW9962jm-C8819gezmNDdGPWuMA088NhXyOA19_xJdwDYbiexf5h8Q-O=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000,
+    "maxInstalls": 5000,
+    "score": 4.7,
+    "reviews": 23,
+    "developer": "Rory Glynn",
+    "developerId": "6843176704470287746",
+    "developerEmail": "rory@appz.ie",
+    "developerWebsite": "http://appz.ie",
+    "developerAddress": "233 California St.\nEl Segundo\nCA, 90245\nUSA",
+    "updated": "January 23, 2015",
+    "version": "1.0.7",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "Get the next DARTs from your nearest station right on your wrist!When you tell your watch to \"Start Next Dart\" it will determine your location and get the trains running through your nearest DART station for the next 90 minutes.The DART is the Dublin Area Rapid Transit system, this app sources it's realtime information from the Irish Rail Realtime Api: http://api.irishrail.ie/realtime/This application now supports the entire Irish Rail network and should work all across Ireland.",
+    "descriptionHTML": "Get the next DARTs from your nearest station right on your wrist!<br><br>When you tell your watch to &quot;Start Next Dart&quot; it will determine your location and get the trains running through your nearest DART station for the next 90 minutes.<br><br>The DART is the Dublin Area Rapid Transit system, this app sources it&apos;s realtime information from the Irish Rail Realtime Api: http://api.irishrail.ie/realtime/<br><br>This application now supports the entire Irish Rail network and should work all across Ireland.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 0,
+        "5": 20
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.3 and up",
+    "androidVersion": "4.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh5.ggpht.com/uT6xLzM4IvEYK5tb08wGmViVbfEI7t-OJvY7wIHLiZfB0skdn-DElMtNkye1pqSVJjc=h310",
+        "//lh5.ggpht.com/6acQPoe4-LrDB2t_5sVnmrPidFtrsB5EAzo6gzN5Nhap9NmPOgMjx3DTwYCkEdT6MhU=h310",
+        "//lh5.ggpht.com/Oz8S8Xh3Z3U6XcPx241e8f9_cf23cByb45WTzl-VhF_bLV8ocRiVwGWxY-04VxJqMSk=h310",
+        "//lh5.ggpht.com/YyUvz_a-JGPHZc6cqpDHwQbBZVspw2ZhFcj0KjnEhGakIoFsTKrXYp_ynZcSoTqn83M=h310",
+        "//lh4.ggpht.com/5WSBLwBCbEBDtGXIwP4dUSWm5shviw0TC1U4aXfb39eYqK2qhZjLH94csFAG8OLWGnU=h310"
+    ],
+    "comments": [
+        "Great app Very useful app to catch DART. Having a smart watch really makes sense with this kind of apps.",
+        "Thanks Rory Where is the Google Glass version?",
+        "Must have",
+        "Great wearable app Fills an obvious gap left by the Google Now cards...great for quick updates.",
+        "Handy (pardon the pun) Great use case scenario for wear and follows all design and dev cues straight from Google (how all wear apps should be). Great work guys.",
+        "Fantastic app Great app from a fantastic developer"
+    ],
+    "recentChanges": [
+        "The Irish Rail API that DART Wear runs on changed what is was sending and this prompted a couple of changes:",
+        "1. Entries on the first page of the notification are now ordered by time until the train arrives.",
+        "2. Some error states are handled better.",
+        "3. I've added some more background pictures.",
+        "Enjoy!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=ie.appz.dartwear&hl=en&gl=us",
+    "appId": "ie.appz.dartwear"
+}

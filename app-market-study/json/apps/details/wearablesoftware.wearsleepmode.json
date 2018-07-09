@@ -1,0 +1,55 @@
+{
+    "title": "Screensaver For Android Wear",
+    "summary": "The first screensaver for the Android Wear operation system.",
+    "icon": "//lh5.ggpht.com/JXxMV1x14IpPqOUtlgo9jcAsHmuOKmIi9VoLxGM7GdHaxFDXorBQoJk2etPR3hIzZA=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.5,
+    "reviews": 88,
+    "developer": "Wearable Software",
+    "developerId": "9027257451638050761",
+    "developerEmail": "support@wearable-software.com",
+    "developerWebsite": "http://www.wearable-software.com/",
+    "developerAddress": "Wearable Software\nCedric Larrat\nGrötzingerstr. 73\n76227 Karlsruhe-Durlach",
+    "updated": "November 26, 2014",
+    "version": "1.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "★ To activate the black screen while charging, you have to open the app and swipe to left and set the corresponding setting ★The first screensaver for the Android Wear operation system. To start the app. Just say: OK Google...Start screensaver. It is also possible to start the screensaver automatically during charging. Change automatic start through corresponding setting options. Download now for free. Why using screensaver:★ Save battery★ Others can not read the screen contents★ Black screen during charging★ Screen burn-in from the charging screen image★ Sleep undisturbedDo you have suggestions for improvements? Any ideas or problems with the app. Let us know.",
+    "descriptionHTML": "&#x2605; To activate the black screen while charging, you have to open the app and swipe to left and set the corresponding setting &#x2605;<br><br><br>The first screensaver for the Android Wear operation system. To start the app. Just say: OK Google...Start screensaver. It is also possible to start the screensaver automatically during charging. Change automatic start through corresponding setting options. Download now for free. <br><br><br>Why using screensaver:<br>&#x2605; Save battery<br>&#x2605; Others can not read the screen contents<br>&#x2605; Black screen during charging<br>&#x2605; Screen burn-in from the charging screen image<br>&#x2605; Sleep undisturbed<br><br><br>Do you have suggestions for improvements? Any ideas or problems with the app. Let us know.",
+    "histogram": {
+        "1": 16,
+        "2": 14,
+        "3": 7,
+        "4": 15,
+        "5": 36
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/t50HwYyxZ1u31Qjgcwa1uy4EsxzOuEEVYAE4UPBnSOgWSkGvMsU1JFUsGCIw49GVJfiD=h310",
+        "//lh4.ggpht.com/bx2GaHkGzhzcQuVgYnDaNPJgr3t6QAJqvS94AMre7HXsZPE1yRh6PQWxeIVgsjVyuA=h310",
+        "//lh3.ggpht.com/0NcmfGr3x8SI9x8EhvK0hwwsqvlJr7mc5jMGKyPZe4NlcBab5zMvJ3_fIjezDOoXzn4=h310",
+        "//lh3.ggpht.com/qhKfE0md2XvKCXPAZF3sLMa2GTtyuzEIwl-tEr46Zu4vh8n84iRZeb6Ps25neb231w=h310"
+    ],
+    "comments": [
+        "Great To reply to earlier comments unlike LCD oled which most smart watches and phones use.  Oled Doesn't activate the pixels on black so this keeps you oled screen from firing up and drawing power.  LCD screens do draw power when it is showing black.  As for burn in if the oled are not active then you shouldn't have a problem and most devices rotate the pixels in a pattern to prevent this any how.  Great app so far no problems on asus zenwatch 2 the only thing that doesn't work is ok Google",
+        "Can't turn the screen saver off One the screen saver is on it will stay on with no way of shutting it off unless you uninstall it.",
+        "Bummer It doesn't turn off the screen. It only dims it black. I'd like to charge the moto360 with screen off. Please help",
+        "This is a nice idea.  However on my Moto 360 Sport the screensaver does not activate untill I remove my watch from the charger.  A bit late for the purpose of the app.",
+        "Funktioniert nicht mit Apollo Wear Launcher Der Pfeil des \"Apollo Wear Launcher\" wird trotzdem angezeigt und die lade Animation wir oft nicht überdeckt",
+        "When it works it works well And when it doesn't, nothing happens at all"
+    ],
+    "recentChanges": [
+        "- Layout improvements",
+        "- Fixed crash on startup"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=wearablesoftware.wearsleepmode&hl=en&gl=us",
+    "appId": "wearablesoftware.wearsleepmode"
+}

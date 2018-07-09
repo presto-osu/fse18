@@ -1,0 +1,51 @@
+{
+    "title": "Matrix face for Android Wear",
+    "summary": "Matrix-style watch face for Android Wear.",
+    "icon": "//lh3.ggpht.com/qxfHcPdIrck6qvl6q84WCnkS7u3RZZ2yTfn-66oWQbyZZdOae6VAWkYEI8V-X_C0gwk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.1,
+    "reviews": 1593,
+    "developer": "Dheera Venkatraman",
+    "developerId": "Dheera+Venkatraman",
+    "developerEmail": "dheera@dheera.net",
+    "developerWebsite": "http://dheera.net/",
+    "updated": "January 13, 2015",
+    "version": "2.1",
+    "genre": "Personalization",
+    "genreId": "PERSONALIZATION",
+    "description": "\"The Matrix\" themed watch face for Android Wear.By Dheera Venkatramanhttp://dheera.net/Source code: https://github.com/dheera/android-wearface-matrixThis program is free software: you can redistribute it and/or modifyit under the terms of the GNU General Public License as published bythe Free Software Foundation, either version 3 of the License, or(at your option) any later version.This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See theGNU General Public License for more details.You should have received a copy of the GNU General Public Licensealong with this program.  If not, see .",
+    "descriptionHTML": "&quot;The Matrix&quot; themed watch face for Android Wear.<br><br>By Dheera Venkatraman<br>http://dheera.net/<br><br>Source code: https://github.com/dheera/android-wearface-matrix<br><br>This program is free software: you can redistribute it and/or modify<br>it under the terms of the GNU General Public License as published by<br>the Free Software Foundation, either version 3 of the License, or<br>(at your option) any later version.<br><br>This program is distributed in the hope that it will be useful,<br>but WITHOUT ANY WARRANTY; without even the implied warranty of<br>MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the<br>GNU General Public License for more details.<br><br>You should have received a copy of the GNU General Public License<br>along with this program.  If not, see .",
+    "histogram": {
+        "1": 108,
+        "2": 78,
+        "3": 179,
+        "4": 375,
+        "5": 853
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/hF31hlUA9osFZSnRU1vFbodkABGcrZrP7BJORpfxpoMOOLxR0vfn8xV5srMjF6T8XQ=h310",
+        "//lh3.ggpht.com/wRFfwdTfNAs8YmuryHcjvbWCpIdZdxXfV3Wvw4YN2jl_vI4WFjvhHC-gyaRts86u9g=h310"
+    ],
+    "comments": [
+        "Excellent Looks excellent on my Sony Smartwatch 3. The time is NOT hard to read despite what other critics are saying. The only thing it lacks is configuration to display a date also but I like the fact there are no in-app purchases and that it doesn't require any permissions. Exactly how it should be and it does exactly what it says it does. Well done!",
+        "Tried loads of watch faces but none compare to this one. It's just way cooler than every other one. My friends say the same. Shame as I'd like a change now and then but the face is a part of me now haha",
+        "Restore original font I hate the new font. Next time don't introduce such a drastic change without giving users a way to choose which font they want. New version still hasn't fixed this.",
+        "Nice! I really like this one. My only wish is that the app icon didn't occupy the app drawer on my phone since all of the options for watches these days can be handle directly through the Android Wear app. Great watch face Dev! 👍👍",
+        "My daily watch face. Beautiful simplistic watch face. Font is spot on too. My only complaint (!) I would love to be able to slow down the falling text, might just be me it just looks a little too quick. If there was an option for fall speed adjustment that'd be great. But still one of the best out there. Asus zenwatch.",
+        "BRING THE OLD ONE BACK The new design is horrible please bring back the old one! I'd be willing to pay to have option to change the clock font."
+    ],
+    "recentChanges": [
+        "Fixed 00 -> 12 in 12 hour mode"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.dheera.wearfacematrix&hl=en&gl=us",
+    "appId": "net.dheera.wearfacematrix"
+}

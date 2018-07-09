@@ -1,0 +1,47 @@
+{
+    "title": "FlashWatch for Android Wear",
+    "summary": "FLASHWATCH: Android Watch as Flash Light.",
+    "icon": "//lh4.ggpht.com/kI2-eSP6T8v_rBJIoEzuA3d1jjMumeGFZ-81YWfqZuy1aivRk8jVKJ7R7MPEQ4sdt_M=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 4.3,
+    "reviews": 6,
+    "developer": "Indosystem",
+    "developerId": "Indosystem",
+    "developerEmail": "android@indosystem.com",
+    "developerWebsite": "https://indosystem.com",
+    "updated": "December 3, 2014",
+    "version": "1.0.1",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "FlashWatch allows you to use your android wear screen as flash light.   This minimalist app defaults at maximum brightness, but you can tap the screen to change between 0-100%. When the app is still active, the screen will not turn off. To exit, swipe left just like any other android wear apps.    You need Android Wear to use this app. Recommended devices:•  Moto 360•  LG G Watch R, •  Sony SmartWatch 3•  Samsung Gear Live•  ASUS ZenWatch.  More functionality is coming, please email us at android@esolutech.com for feature suggestion.",
+    "descriptionHTML": "FlashWatch allows you to use your android wear screen as flash light.   <br><br>This minimalist app defaults at <b>maximum brightness</b>, but you can tap the screen to change between 0-100%. When the app is still active, the screen will not turn off. To exit, swipe left just like any other android wear apps.    <br><br><b>You need Android Wear to use this app.</b> Recommended devices:<br><br>&#x2022;&#x2003; Moto 360<br>&#x2022;&#x2003; LG G Watch R, <br>&#x2022;&#x2003; Sony SmartWatch 3<br>&#x2022;&#x2003; Samsung Gear Live<br>&#x2022;&#x2003; ASUS ZenWatch.  <br><br>More functionality is coming, please email us at android@esolutech.com for feature suggestion.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 4
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh4.ggpht.com/-RmnLNyiqc_gL_yheyva_uBspS6ZvHO9QCTha8fY6SaC6Er918Y3orLnhk-5Xg4cJw1v=h310",
+        "//lh6.ggpht.com/nN7P_DPFEqa5kUM_wODRWl7yVjexiW6AmAx8jLssV6BGSAJ7Ic3rcy5k4cpFKwM4tlc=h310",
+        "//lh6.ggpht.com/lR1k-_RwUIpgZAYg-ZTUBaSn75vfnSgvIBrYL1PwYj7gW_4wRDkwoyalrTlzQtxHpQ=h310"
+    ],
+    "comments": [
+        "Simply useful"
+    ],
+    "recentChanges": [
+        "Localization."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.esolutech.flashwatch&hl=en&gl=us",
+    "appId": "com.esolutech.flashwatch"
+}

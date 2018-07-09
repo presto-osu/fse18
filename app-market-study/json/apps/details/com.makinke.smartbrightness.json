@@ -1,0 +1,46 @@
+{
+    "title": "Smart Brightness Moto 360 Demo",
+    "summary": "Adjust the brightness of the screen.Your Moto 360 looks very dark at night?",
+    "icon": "//lh4.ggpht.com/jKAQdsUMDbXHo8vcu2m7HMDlPbXdFARNliGJ7_T56vgKh5Ej0lloTnSydL7CCFencUQ=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 100,
+    "maxInstalls": 500,
+    "score": 0,
+    "reviews": 0,
+    "developer": "Guarionex Padro",
+    "developerId": "Guarionex+Padro",
+    "developerEmail": "guarionexp@gmail.com",
+    "developerAddress": "352 Ave San Claudio\nPMB 334\nSan Juan, PR 00926",
+    "updated": "April 15, 2015",
+    "version": "1.9.2",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "description": "Use Moto 360 ambient light sensor for automatic adjustment feature support.Sets the minimum auto brightness to avoid dark screens in low-light.Smart Brightness automatically switch from auto brightness to manual using a custom configuration. In low-light the Smart Brightness change the brightness from auto to manual mode and set the screen brightness to the minimum brightness making it easy to read the clock.Smart Brightness has been tested with the minimum brightness at 10% and auto brightness on. The results are a better experience in low-light.",
+    "descriptionHTML": "Use Moto 360 ambient light sensor for automatic adjustment feature support.<br>Sets the minimum auto brightness to avoid dark screens in low-light.<br><br>Smart Brightness automatically switch from auto brightness to manual using a custom configuration. In low-light the Smart Brightness change the brightness from auto to manual mode and set the screen brightness to the minimum brightness making it easy to read the clock.<br><br>Smart Brightness has been tested with the minimum brightness at 10% and auto brightness on. The results are a better experience in low-light.",
+    "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4W and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/Fb-iSn3NQDp-EYuCTeLgHFFZ0yC8bPwoBVLF0MPCCZgVhd6Z-eak1l7Ah8D66uuqBg=h310",
+        "//lh6.ggpht.com/6idJiFEH_4ZbxSvPn6BZ_16syYucndg0S6UwUYL_gFqbKccPLJCJ9Cv7K4HlgOLKdmo=h310",
+        "//lh5.ggpht.com/bqEARYPUsRIXexXM5UxdHlHaTNKFik84hxDuw1TsuxwD4Udum7if2K4FK-sxeXXK4w=h310"
+    ],
+    "video": "https://www.youtube.com/embed/vBsSFQFUNSc",
+    "comments": [],
+    "recentChanges": [
+        "7 days trial"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.makinke.smartbrightness&hl=en&gl=us",
+    "appId": "com.makinke.smartbrightness"
+}

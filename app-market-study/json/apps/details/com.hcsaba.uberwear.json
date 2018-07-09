@@ -1,0 +1,55 @@
+{
+    "title": "UBR Wear",
+    "summary": "Get a ride with Uber from your Android Wear watch!",
+    "icon": "//lh3.googleusercontent.com/sYq-_oE3OclJiGukPavQqpwJf8XPKZc2bjh7PBoeN66O2QpzIGkao3kSqWPAFKkgDIs=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 3.2,
+    "reviews": 44,
+    "developer": "RND Wear",
+    "developerId": "RND+Wear",
+    "developerEmail": "info@rndwear.com",
+    "developerWebsite": "http://rndwear.com",
+    "developerAddress": "Hungary, 3300, Eger, Honfoglalás utca 13",
+    "updated": "October 2, 2016",
+    "version": "1.4",
+    "genre": "Maps & Navigation",
+    "genreId": "MAPS_AND_NAVIGATION",
+    "description": "With UBR Wear you can request an Uber ride from your Android Wear watch.This is the easiest and the most convenient way to request a ride if you own an Android Wear watch. Before using it, you should sign into the UBR Wear app on your smartphone.After the request has been made, the official Uber app handles the rest, so you can check the status, cancel the ride or call the driver from the official Uber app.",
+    "descriptionHTML": "With UBR Wear you can request an Uber ride from your Android Wear watch.<br><br>This is the easiest and the most convenient way to request a ride if you own an Android Wear watch. Before using it, you should sign into the UBR Wear app on your smartphone.<br><br>After the request has been made, the official Uber app handles the rest, so you can check the status, cancel the ride or call the driver from the official Uber app.",
+    "histogram": {
+        "1": 16,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 23
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/GNGfdd-6sqbxfoE1RIyaZCIabroaPxSvIDU5IFAPDSecGLwBmOg_WrP_z8idrR4Beh8=h310",
+        "//lh3.googleusercontent.com/pptY7Hukjdu2Gt9atRXHWSeCQxjGdEVmaGqH7z-xRzaGwqNqeB_JNFAb67wb4SSdIsH1=h310",
+        "//lh3.googleusercontent.com/X6QgbeKWJdkmQ6L-ts2uZZZqD7fGCrj7ybGqOvZg6G6414ofq_jhYwuZ353dIn3sQA=h310",
+        "//lh3.googleusercontent.com/4j-9k6fX4EbKkMRbtytlSquG4uISpIjCC-4xCCS7URb6Dn0OY1yEieArRxIk09jEXw=h310"
+    ],
+    "comments": [
+        "As of now, the app wont let you stay logged into ubber account and wont work. Will update rating once app actually works again  - Uber was updated 11/3/16 and this app still shows the \"login error\" message.",
+        "Useless Didn't work on my Huawei watch. Open the app on the watch, it shows no sign of connecting to the phone, and then shuts down. Waste of time!",
+        "'LOGIN ERROR'  Have restarted phone and watch as suggested - still - LOGIN ERROR.  Great app, if it worked...I think?  Will you be correcting the API soon?  Thanks",
+        "Login error Login error,  fix and get 5 stars",
+        "Log in error",
+        "Login error Wont even log in to my uber yet alone work"
+    ],
+    "recentChanges": [
+        "Authentication was changed, please log in after the update!",
+        "With the new authentication method (which is provided by uber), the app won't lose your authentication status."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.hcsaba.uberwear&hl=en&gl=us",
+    "appId": "com.hcsaba.uberwear"
+}
