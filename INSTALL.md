@@ -10,7 +10,11 @@ in the artifact.
 Node.js and Python 3 built with Tk are required. We recommend to download the 
 latest stable version of Node.js and use *pyenv* to
 [install Python](https://github.com/pyenv/pyenv/wiki/common-build-problems).
-Please follow the instructions on their websites for installation.
+Please follow the instructions on their websites for installation. We have
+seen problems using some libraries installed via `pip` in Python 2. We suggest
+to install them through `apt`, e.g., `apt install python-scrapy`.
+If that does not solve the problem, we encourage
+you to upgrade to Python 3.
 
 Following libraries are required:
 
@@ -20,8 +24,8 @@ $ npm install google-play-scraper
 $ pip install scrapy wordcloud beautifulsoup4
 ```
 
-To fetch the list of Wear apps and watch faces from [Android Wear Center]
-(http://www.androidwearcenter.com/)  and [Goko Store](https://goko.me/):
+To fetch the list of Wear apps and watch faces from 
+[Android Wear Center](http://www.androidwearcenter.com/)  and [Goko Store](https://goko.me/):
 
 ```bash
 $ ./run_spider.sh
@@ -66,9 +70,16 @@ The resulting image is saved as `wordcloud.png`.
 
 Chrome is required for downloading APKs from [ApkPure](http://apkpure.com).
 First select `apks/handheld` as the default download folder in Chrome. Next
-install and run the plugin at `apks/chrome_tool`. It will try to download all
+install and run the extension at `apks/chrome_tool`. It will try to download all
 the watch face APKs listed in `apks/chrome_tool/pkg_name.txt`. Note that not
 all of them are downloadable. We were able to download 1490 of them.
+
+To install the extension, please follow [Chrome's instructions](https://developer.chrome.com/extensions/getstarted):
+1. Open the Extension Management page by navigating to `chrome://extensions`.
+    * The Extension Management page can also be opened by clicking on the Chrome menu, hovering over **More Tools** then selecting **Extensions**.
+2. Enable Developer Mode by clicking the toggle switch next to **Developer mode**.
+3. Click the **LOAD UNPACKED** button and select the extension directory `apks/chrome_tool`.
+4. Click on the newly added icon ![icon](apks/chrome_tool/icon.png) in the toolbar and it will automatically start to download apps.
 
 After downloading the APKs, run
 
