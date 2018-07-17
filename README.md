@@ -8,6 +8,10 @@ readme files in each sub-folder.
 
 # Installation
 
+Below are two ways to download the artifact including all the benchmarks.
+After downloading all the necessary files, follow the instructions in [INSTALL.md](INSTALL.md)
+to reproduce the results in the paper.
+
 ## Recommended way
 
 We recommend downloading the artifact from [APTWear](http://web.cse.ohio-state.edu/presto/software/aptwear)
