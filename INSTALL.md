@@ -134,8 +134,7 @@ To get a list of watch faces containing display-related inefficiencies:
 
 ```bash
 $ grep 'colors equal=true\|colors not equal, flows to ambient' analysis-logs/*.log |\
-$     sed 's/.log:.*//g' | sed 's/^analysis-logs\///g' |\
-$     sort | uniq
+$     sed 's/.log:.*//g' | sed 's/^analysis-logs\///g' | sort | uniq
 ```
 
 Two pre-generated lists are stored in `testing/sensor.leak.txt` and
