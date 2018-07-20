@@ -205,7 +205,7 @@ in the log from the static analysis of a watch face, set the package name in
 $ ./test_sensor.py
 ```
 
-If there is a sensor leak, you will see *Verified: leak following sensor resources:*
+If there is a sensor leak, you will see `Verified: leak following sensor resources:`
 followed by the leaking sensors in the output.
 
 Please refer to the `README.md` in `testing` for more details.
