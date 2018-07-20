@@ -98,8 +98,9 @@ from the numbers in the paper. This is because some of the watch faces
 have paid features and it is indeed those features causing the inefficiency.
 We bought one watch face for each group. By group we mean a set of watch
 faces that share same functionalities and features, as we find many of the
-paid watch faces are only variants with slight changes such as background
-color of each other. We decided not to buy more and considered watch
+paid watch faces are developed by a single developer
+with only variants with slight changes such as icons.
+We decided not to buy more and considered watch
 faces in a group as a whole. The numbers in the paper reflect that.
 
 ### Sensor-Related
