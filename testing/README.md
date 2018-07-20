@@ -48,7 +48,7 @@ $ pip install beautifulsoup4 Pillow colorama uiautomator
 ### Prerequisite
 
 Run `./parse_label.py` to fetch all watch faces and their titles
-in downloaded APS. They are used for automatic installation and
+from downloaded APKs. They are used for automatic installation and
 selection of watch faces. A pre-generated file is located at
 `pkg_wfs_label.csv`. The first column shows the package name.
 The second and third columns are watch face class name and the
