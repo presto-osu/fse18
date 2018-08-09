@@ -8,36 +8,21 @@ readme files in each sub-folder.
 
 # Installation
 
-Below are two ways to download the artifact including all the benchmarks.
-After downloading all necessary files, follow the instructions [here](INSTALL.md)
-to reproduce the results in the paper.
-
-## Recommended way
-
-We recommend downloading the artifact from [APTWear](http://web.cse.ohio-state.edu/presto/software/aptwear)
-as we will post future fixes and improvements there.
-
-There are two files required:
-
-1. fse18.tar.xz (implementation and watch faces with leaks, 1.3GB);
-2. fse18-benchmark.tar (all 1490 benchmarks described in the paper, 16GB).
-
-```bash
-wget http://web.cse.ohio-state.edu/presto/software/aptwear/downloads/fse18.tar.xz
-tar xvfJ fse18.tar.xz
-wget http://web.cse.ohio-state.edu/presto/software/aptwear/downloads/fse18-benchmark.tar
-tar xvf fse18-benchmark.tar --directory hailongzhang-aptwear-fse18-paper-163/
-```
-
-## GitHub way
-
-Due to GitHub's limitation on file sizes, all benchmarks have to be downloaded separately.
+To download the implementation and app market study:
 
 ```bash
 git clone https://github.com/presto-osu/fse18.git
-wget http://web.cse.ohio-state.edu/presto/software/aptwear/downloads/fse18-benchmark.tar
-tar xvf fse18-benchmark.tar --directory fse18/
 ```
+
+Due to GitHub's limitation on file sizes, all benchmarks have to be downloaded separately
+from [here](https://osu.box.com/v/presto-fse18-benchmark) (12.7GB) and extracted to `fse18` folder:
+
+```bash
+tar xvfJ fse18-benchmark.tar --directory /path/to/fse18
+```
+
+After downloading all necessary files, follow the instructions [here](INSTALL.md)
+to reproduce the results in the paper.
 
 # Structure
 
