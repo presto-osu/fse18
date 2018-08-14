@@ -18,7 +18,7 @@ Due to GitHub's limitation on file sizes, all benchmarks have to be downloaded s
 from [here](https://osu.box.com/v/presto-fse18-benchmark) (12.7GB) and extracted to `fse18` folder:
 
 ```bash
-tar xvfJ fse18-benchmark.tar --directory /path/to/fse18
+tar xvfJ fse18-benchmark.tar.xz --directory /path/to/fse18
 ```
 
 After downloading all necessary files, follow the instructions [here](INSTALL.md)
