@@ -15,7 +15,8 @@ git clone https://github.com/presto-osu/fse18.git
 ```
 
 Due to GitHub's limitation on file sizes, all benchmarks have to be downloaded separately
-from [here](https://osu.box.com/v/presto-fse18-benchmark) (12.7GB) and extracted to `fse18` folder:
+[elsewhere](https://osu.box.com/v/presto-fse18-benchmark) (12.7GB) and extracted to the
+`fse18` folder:
 
 ```bash
 tar xvfJ fse18-benchmark.tar.xz --directory /path/to/fse18
