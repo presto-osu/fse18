@@ -12,10 +12,10 @@ readme files in each sub-folder.
 
 ```
 @inproceedings{zhang-fse18,
-title = "Detection of Energy Inefficiencies in {Android} {Wear} Watch Faces", 
-author = "Hailong Zhang and Haowei Wu and Atanas Rountev",
-booktitle = "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
-year = 2018
+  title = "Detection of Energy Inefficiencies in {Android} {Wear} Watch Faces", 
+  author = "Hailong Zhang and Haowei Wu and Atanas Rountev",
+  booktitle = "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+  year = 2018
 }
 ```
 
