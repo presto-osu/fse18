@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1419134.svg)](https://doi.org/10.5281/zenodo.1419134)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1419090.svg)](https://doi.org/10.5281/zenodo.1419090)
 
 This is the artifact for the FSE'18 [paper](http://web.cse.ohio-state.edu/presto/pubs/fse18.pdf)
 **Detection of Energy Inefficiencies in Android Wear Watch Faces** by *Hailong Zhang*,
