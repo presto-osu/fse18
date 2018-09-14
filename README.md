@@ -21,7 +21,9 @@ readme files in each sub-folder.
 
 # Installation
 
-To download the implementation and app market study:
+The artifact is available on [Zenodo](https://doi.org/10.5281/zenodo.1419090).
+
+Alternatively, the implementation and app market study could be downloaded via GitHub:
 
 ```bash
 git clone https://github.com/presto-osu/fse18.git
