@@ -1,6 +1,6 @@
 # Installation Guide
 
-This is the procedures to run the experiment in the paper. Detailed
+This is the guide to run the experiment in the paper. Detailed
 description can be found in the `README.md` file in each sub-folder.
 We have run all the experiments in advance. All results are included
 in the artifact.
